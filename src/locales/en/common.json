@@ -1,0 +1,14 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "register": "Register",
+  "logout": "Logout",
+  "profile": "Profile",
+  "settings": "Settings",
+  "home": "Home",
+  "english": "English",
+  "programming": "Programming",
+  "classes": "Classes",
+  "leaderboard": "Leaderboard",
+  "analytics": "Analytics"
+}

@@ -1,0 +1,74 @@
+######################################################################
+# Cursor Workspace Rules — UnitSchool Learning Platform
+# Next.js 15 | React 19 | SCSS Modules | Tailwind CSS | i18n
+######################################################################
+
+## Core Principles
+- Prioritize clarity and maintainability over cleverness
+- Build small, focused, reusable components; avoid duplication
+- Follow existing architecture and naming conventions
+- Ship accessible, mobile-first, performant experiences by default
+- Use latest stable best practices; remove deprecated patterns
+- Always provide meaningful loading, empty, and error states
+- ALWAYS use DRY code and best practices
+
+## React & Next.js
+- Use functional components with hooks
+- Follow App Router conventions in `src/app/**`
+- Write new components in JavaScript (unless directory uses TypeScript)
+- Co-locate component-specific styles using SCSS modules
+- Add error boundaries where failure isolation is meaningful
+- Use `react-icons` for all icons
+- Prefer modular utilities in `src/utils/**`
+
+## Styling (SCSS)
+- Use SCSS modules and variables from `src/assets/styles/_settings.scss`
+- Use design tokens for colors/spacing; use `$error-color` (not `$danger-color`)
+- Modern Sass only:
+  - Import with `@use`/`@forward` (no `@import`)
+  - Use `sass:color` module (e.g., `color.adjust($c, $lightness: 10%)`)
+  - Use `sass:math` module (e.g., `math.div()` for division)
+- **Mixin positioning**: Place `@include mixin-name` AFTER other properties and BEFORE nested selectors
+  - ✅ `color: $primary; padding: 1rem; @include flex(); .nested {}`
+  - ❌ `@include flex(); color: $primary;` or `color: $primary; .nested {} @include flex();`
+- Avoid mixed declarations: don't place declarations after nested rules
+- Mobile-first responsiveness: cover all relevant breakpoints
+- Prefer WebP/AVIF with appropriate fallbacks
+
+## Internationalization (i18n)
+- Translations in `src/locales/{en,ru,uz}/` with consistent files across languages
+- Always pass correct namespace to `useTranslation('namespace')`
+- Reuse existing translation keys; add new keys to all supported languages
+- Design UI for text expansion and RTL when relevant
+
+## Accessibility & UX
+- Comply with WCAG 2.1 AA where feasible
+- Ensure keyboard navigation and visible focus states
+- Provide descriptive labels, roles, and alt text
+- Maintain logical heading order and landmark regions
+- Ensure adequate contrast ratios; respect reduced motion preferences
+- iOS compatibility: 375px–428px widths, 44x44px touch targets, safe areas
+
+## Performance & Assets
+- Lazy-load non-critical components and assets
+- Use code-splitting; avoid shipping unused dependencies
+- Ensure CLS-safe image dimensions and stable layout
+- Prefer modern image formats (WebP/AVIF) with fallbacks
+
+## State Management
+- Centralize cross-cutting state in `src/store/**`
+- Keep local UI state within components/hooks
+- Memoize expensive computations and heavy lists
+- Handle empty, loading, and error states consistently
+
+## Documentation & Delivery
+- NEVER create markdown (.md) files unless explicitly requested
+- After completing tasks, provide concise, actionable suggestions for improvement
+- Keep summaries and explanations in chat interface only
+
+## Ignore
+.next/**, node_modules/**, .git/**, src/store/data.json
+
+######################################################################
+USE ONLY BEST PRACTICES AND MOST RECENT TECHNOLOGIES
+######################################################################

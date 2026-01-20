@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "title": "Programming Tasks",
+    "description": "Practice coding with various challenges"
+  },
+  "sandbox": {
+    "title": "Code Sandbox",
+    "description": "Write and test your code"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "grammar": {
+    "title": "Grammar",
+    "description": "Learn and practice English grammar"
+  },
+  "reading": {
+    "title": "Reading",
+    "description": "Improve your reading comprehension"
+  },
+  "writing": {
+    "title": "Writing",
+    "description": "Practice writing with AI feedback"
+  },
+  "listening": {
+    "title": "Listening",
+    "description": "Enhance your listening skills"
+  },
+  "vocabulary": {
+    "title": "Vocabulary",
+    "description": "Expand your vocabulary"
+  }
+}

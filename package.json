@@ -1,0 +1,32 @@
+{
+  "name": "hackathon-front",
+  "version": "1.0.0",
+  "description": "Tournament",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisherXujanov/Hackathon-front.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.23",
+    "axios": "^1.13.2",
+    "framer-motion": "^12.27.5",
+    "next": "^16.1.4",
+    "next-i18next": "^15.4.3",
+    "postcss": "^8.5.6",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-icons": "^5.5.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}

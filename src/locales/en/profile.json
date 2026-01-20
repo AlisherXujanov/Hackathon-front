@@ -1,0 +1,15 @@
+{
+  "title": "Profile",
+  "tabs": {
+    "overview": "Overview",
+    "progress": "Progress",
+    "achievements": "Achievements",
+    "settings": "Settings"
+  },
+  "stats": {
+    "totalPoints": "Total Points",
+    "streakDays": "Streak Days",
+    "lessonsCompleted": "Lessons Completed",
+    "tasksCompleted": "Tasks Completed"
+  }
+}

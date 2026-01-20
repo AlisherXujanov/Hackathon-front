@@ -1,0 +1,21 @@
+{
+  "user": {
+    "id": null,
+    "username": null,
+    "email": null,
+    "role": "student"
+  },
+  "classes": [],
+  "tasks": [],
+  "leaderboard": {
+    "daily": [],
+    "weekly": [],
+    "monthly": []
+  },
+  "analytics": {
+    "totalHours": 0,
+    "lessonsCompleted": 0,
+    "tasksCompleted": 0,
+    "streakDays": 0
+  }
+}

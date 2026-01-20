@@ -1,0 +1,9 @@
+{
+  "title": "Analytics",
+  "totalHours": "Total Learning Hours",
+  "lessonsCompleted": "Lessons Completed",
+  "tasksCompleted": "Tasks Completed",
+  "currentStreak": "Current Streak",
+  "learningProgress": "Learning Progress",
+  "activityTimeline": "Activity Timeline"
+}
