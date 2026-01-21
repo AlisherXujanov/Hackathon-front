@@ -271,7 +271,7 @@ export default function Home() {
           <ScrollAnimation>
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-                Why Choose UnitSchool?
+                Why Choose FrameSchool?
               </h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                 Everything you need to succeed in your educational journey
@@ -502,7 +502,7 @@ export default function Home() {
             </h2>
             
             <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto leading-relaxed">
-              Join thousands of students already learning with UnitSchool's comprehensive educational platform and transform your future today
+              Join thousands of students already learning with FrameSchool's comprehensive educational platform and transform your future today
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

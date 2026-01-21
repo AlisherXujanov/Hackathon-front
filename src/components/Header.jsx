@@ -57,7 +57,7 @@ const Header = () => {
               U
             </div>
             <span className="text-xl font-bold text-gray-900 group-hover:text-primary-700 transition-colors">
-              UnitSchool
+              FrameSchool
             </span>
           </Link>
 

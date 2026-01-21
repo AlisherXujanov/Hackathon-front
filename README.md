@@ -1,4 +1,4 @@
-# UnitSchool - Learning Platform Frontend
+# FrameSchool - Learning Platform Frontend
 
 A comprehensive learning platform built with Next.js 15, Tailwind CSS, and React.
 

@@ -3,7 +3,7 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 
 export const metadata = {
-  title: 'UnitSchool - Learning Platform',
+  title: 'FrameSchool - Learning Platform',
   description: 'Comprehensive learning platform for English and Programming',
 }
 

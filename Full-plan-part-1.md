@@ -1,9 +1,9 @@
-# UnitSchool - Полная Реконструкция | Часть 1
+# FrameSchool - Полная Реконструкция | Часть 1
 ## План Внедрения
 
 ## Обзор
 
-Данный документ представляет собой профессиональное руководство по полной реконструкции платформы UnitSchool с нуля, используя современный стек технологий: Next.js 15, Tailwind CSS, SCSS, Django DRF и JWT-аутентификацию. Вся бэкенд-функциональность будет реализована на Django, фронтенд будет взаимодействовать с API Django REST Framework. Проект разрабатывается командой из 4 разработчиков.
+Данный документ представляет собой профессиональное руководство по полной реконструкции платформы FrameSchool с нуля, используя современный стек технологий: Next.js 15, Tailwind CSS, SCSS, Django DRF и JWT-аутентификацию. Вся бэкенд-функциональность будет реализована на Django, фронтенд будет взаимодействовать с API Django REST Framework. Проект разрабатывается командой из 4 разработчиков.
 
 ## Архитектурный Обзор
 
@@ -373,7 +373,7 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'UnitSchool API',
+    'TITLE': 'FrameSchool API',
     'DESCRIPTION': 'Comprehensive learning platform API',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
@@ -453,7 +453,7 @@ from celery.schedules import crontab
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')
 
-app = Celery('unitschool')
+app = Celery('FrameSchool')
 app.config_from_object('django.conf:settings', namespace='CELERY')
 app.autodiscover_tasks()
 
@@ -828,7 +828,7 @@ pytest-django==4.7.0
 ```env
 SECRET_KEY=your-secret-key-here
 DEBUG=True
-DATABASE_URL=postgresql://user:password@localhost:5432/unitschool
+DATABASE_URL=postgresql://user:password@localhost:5432/FrameSchool
 ALLOWED_HOSTS=localhost,127.0.0.1
 
 # JWT Settings

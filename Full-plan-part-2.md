@@ -1,4 +1,4 @@
-# UnitSchool - Полная Реконструкция | Часть 2
+# FrameSchool - Полная Реконструкция | Часть 2
 ## План Внедрения (Продолжение)
 
 ## Схема Базы Данных (Продолжение)
@@ -632,7 +632,7 @@ def get_user_analytics(user_id):
 ```env
 DEBUG=True
 ENVIRONMENT=development
-DATABASE_URL=postgresql://localhost/unitschool_dev
+DATABASE_URL=postgresql://localhost/FrameSchool_dev
 ALLOWED_HOSTS=localhost,127.0.0.1
 CORS_ALLOWED_ORIGINS=http://localhost:3000
 ```
@@ -641,9 +641,9 @@ CORS_ALLOWED_ORIGINS=http://localhost:3000
 ```env
 DEBUG=False
 ENVIRONMENT=staging
-DATABASE_URL=postgresql://staging-db/unitschool_staging
-ALLOWED_HOSTS=staging.unitschool.com
-CORS_ALLOWED_ORIGINS=https://staging-app.unitschool.com
+DATABASE_URL=postgresql://staging-db/FrameSchool_staging
+ALLOWED_HOSTS=staging.FrameSchool.com
+CORS_ALLOWED_ORIGINS=https://staging-app.FrameSchool.com
 SENTRY_DSN=your-sentry-dsn
 ```
 
@@ -651,9 +651,9 @@ SENTRY_DSN=your-sentry-dsn
 ```env
 DEBUG=False
 ENVIRONMENT=production
-DATABASE_URL=postgresql://prod-db/unitschool
-ALLOWED_HOSTS=api.unitschool.com
-CORS_ALLOWED_ORIGINS=https://unitschool.com,https://www.unitschool.com
+DATABASE_URL=postgresql://prod-db/FrameSchool
+ALLOWED_HOSTS=api.FrameSchool.com
+CORS_ALLOWED_ORIGINS=https://FrameSchool.com,https://www.FrameSchool.com
 SENTRY_DSN=your-sentry-dsn
 SECURE_SSL_REDIRECT=True
 SECURE_HSTS_SECONDS=31536000
@@ -878,13 +878,13 @@ sudo apt update
 sudo apt install python3.11 python3.11-venv postgresql nginx redis-server
 
 # PostgreSQL настройка
-sudo -u postgres createdb unitschool
-sudo -u postgres createuser unitschool_user
-sudo -u postgres psql -c "ALTER USER unitschool_user WITH PASSWORD 'secure_password';"
-sudo -u postgres psql -c "GRANT ALL PRIVILEGES ON DATABASE unitschool TO unitschool_user;"
+sudo -u postgres createdb FrameSchool
+sudo -u postgres createuser FrameSchool_user
+sudo -u postgres psql -c "ALTER USER FrameSchool_user WITH PASSWORD 'secure_password';"
+sudo -u postgres psql -c "GRANT ALL PRIVILEGES ON DATABASE FrameSchool TO FrameSchool_user;"
 
 # Проект
-cd /var/www/unitschool-backend
+cd /var/www/FrameSchool-backend
 python3.11 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -897,41 +897,41 @@ python manage.py collectstatic --noinput
 **Gunicorn (`gunicorn.service`):**
 ```ini
 [Unit]
-Description=Gunicorn daemon for UnitSchool
+Description=Gunicorn daemon for FrameSchool
 After=network.target
 
 [Service]
 User=www-data
 Group=www-data
-WorkingDirectory=/var/www/unitschool-backend
-EnvironmentFile=/var/www/unitschool-backend/.env
-ExecStart=/var/www/unitschool-backend/venv/bin/gunicorn \
+WorkingDirectory=/var/www/FrameSchool-backend
+EnvironmentFile=/var/www/FrameSchool-backend/.env
+ExecStart=/var/www/FrameSchool-backend/venv/bin/gunicorn \
     --workers 4 \
-    --bind unix:/var/www/unitschool-backend/gunicorn.sock \
+    --bind unix:/var/www/FrameSchool-backend/gunicorn.sock \
     backend.wsgi:application
 
 [Install]
 WantedBy=multi-user.target
 ```
 
-**Nginx (`/etc/nginx/sites-available/unitschool`):**
+**Nginx (`/etc/nginx/sites-available/FrameSchool`):**
 ```nginx
 upstream django {
-    server unix:/var/www/unitschool-backend/gunicorn.sock fail_timeout=0;
+    server unix:/var/www/FrameSchool-backend/gunicorn.sock fail_timeout=0;
 }
 
 server {
     listen 80;
-    server_name api.unitschool.com;
+    server_name api.FrameSchool.com;
 
     client_max_body_size 10M;
 
     location /static/ {
-        alias /var/www/unitschool-backend/staticfiles/;
+        alias /var/www/FrameSchool-backend/staticfiles/;
     }
 
     location /media/ {
-        alias /var/www/unitschool-backend/media/;
+        alias /var/www/FrameSchool-backend/media/;
     }
 
     location / {
@@ -947,7 +947,7 @@ server {
 **SSL (Let's Encrypt):**
 ```bash
 sudo apt install certbot python3-certbot-nginx
-sudo certbot --nginx -d api.unitschool.com
+sudo certbot --nginx -d api.FrameSchool.com
 ```
 
 ### Frontend Развёртывание (Next.js на Vercel)
@@ -956,7 +956,7 @@ sudo certbot --nginx -d api.unitschool.com
 
 ```bash
 # .env.production
-NEXT_PUBLIC_API_URL=https://api.unitschool.com/api/v1
+NEXT_PUBLIC_API_URL=https://api.FrameSchool.com/api/v1
 NEXT_PUBLIC_TOGETHER_AI_KEY=production_key
 ```
 
@@ -993,7 +993,7 @@ vercel --prod
 ```bash
 # Настройка репликации (опционально)
 # Регулярные резервные копии
-0 2 * * * pg_dump unitschool > /backups/unitschool_$(date +\%Y\%m\%d).sql
+0 2 * * * pg_dump FrameSchool > /backups/FrameSchool_$(date +\%Y\%m\%d).sql
 
 # Мониторинг подключений
 SELECT count(*) FROM pg_stat_activity;
@@ -1005,8 +1005,8 @@ SELECT count(*) FROM pg_stat_activity;
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'unitschool',
-        'USER': 'unitschool_user',
+        'NAME': 'FrameSchool',
+        'USER': 'FrameSchool_user',
         'PASSWORD': os.getenv('DB_PASSWORD'),
         'HOST': os.getenv('DB_HOST', 'localhost'),
         'PORT': os.getenv('DB_PORT', '5432'),
@@ -1059,7 +1059,7 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /var/www/unitschool-backend
+            cd /var/www/FrameSchool-backend
             git pull origin main
             source venv/bin/activate
             pip install -r requirements.txt

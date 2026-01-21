@@ -39,7 +39,7 @@ const Footer = () => {
               <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-primary-500 via-secondary-500 to-accent-500 flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105">
                 U
               </div>
-              <span className="text-2xl font-bold text-white">UnitSchool</span>
+              <span className="text-2xl font-bold text-white">FrameSchool</span>
             </Link>
             <p className="text-sm text-gray-400 mb-5 leading-relaxed">
               Comprehensive learning platform for English and Programming education, designed to help you grow faster.
@@ -47,7 +47,7 @@ const Footer = () => {
             <div className="space-y-2 text-sm">
               <div className="flex items-center space-x-2 text-gray-300">
                 <HiMail className="w-4 h-4 text-primary-300" />
-                <span>support@unitschool.com</span>
+                <span>support@FrameSchool.com</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-300">
                 <HiPhone className="w-4 h-4 text-secondary-300" />
@@ -131,7 +131,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-800/80">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-gray-400">
-              © {currentYear} UnitSchool. All rights reserved.
+              © {currentYear} FrameSchool. All rights reserved.
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm">
               <Link href="#" className="text-gray-400 hover:text-white transition-colors">

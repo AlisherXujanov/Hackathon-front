@@ -100,7 +100,7 @@ export default function RegisterPage() {
                 <h1 className="text-4xl md:text-5xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-accent-600">
                   Create Account
                 </h1>
-                <p className="text-base md:text-lg text-gray-600">Join UnitSchool and start learning today</p>
+                <p className="text-base md:text-lg text-gray-600">Join FrameSchool and start learning today</p>
               </div>
 
               <form className="space-y-3" onSubmit={handleSubmit}>
