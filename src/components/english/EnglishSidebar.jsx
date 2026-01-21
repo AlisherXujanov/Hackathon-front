@@ -10,8 +10,8 @@ import {
   HiPencil, 
   HiLightBulb, 
   HiClipboardCheck,
-  HiX,
-  HiMenu
+  HiChevronRight,
+  HiChevronLeft
 } from 'react-icons/hi'
 import styles from './EnglishSidebar.module.scss'
 
@@ -81,15 +81,15 @@ export default function EnglishSidebar() {
       {/* Mobile Menu Button */}
       <button
         onClick={() => setIsMobileOpen(!isMobileOpen)}
-        className={`lg:hidden fixed top-20 left-4 z-50 p-2 rounded-lg shadow-lg border border-gray-200 transition-all ${
+        className={`lg:hidden fixed top-20 left-4 z-50 p-1.5 rounded-lg shadow-lg border border-gray-200 transition-all ${
           isMobileOpen ? 'bg-primary-600 text-white border-primary-700' : 'bg-white text-gray-700'
         }`}
         aria-label="Toggle menu"
       >
         {isMobileOpen ? (
-          <HiX className="w-6 h-6" />
+          <HiChevronLeft className="w-5 h-5" />
         ) : (
-          <HiMenu className="w-6 h-6" />
+          <HiChevronRight className="w-5 h-5" />
         )}
       </button>
 

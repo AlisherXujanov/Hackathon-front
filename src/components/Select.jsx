@@ -7,19 +7,28 @@ const Select = forwardRef(({
   error, 
   options = [],
   className = '',
+  compact = false,
   ...props 
 }, ref) => {
   return (
     <div className="w-full">
       {label && (
-        <label htmlFor={props.id} className="block text-sm font-medium text-gray-700 mb-2">
+        <label 
+          htmlFor={props.id} 
+          className={`block font-medium mb-2 ${
+            compact 
+              ? 'text-xs text-white mb-1.5' 
+              : 'text-sm text-gray-700'
+          }`}
+        >
           {label}
         </label>
       )}
       <select
         ref={ref}
         className={`
-          block w-full rounded-lg border px-3 py-2.5
+          block w-full rounded-lg border px-3
+          ${compact ? 'py-2 text-sm' : 'py-2.5'}
           ${error 
             ? 'border-error-500 focus:border-error-500 focus:ring-error-500' 
             : 'border-gray-300 focus:border-primary-500 focus:ring-primary-500'

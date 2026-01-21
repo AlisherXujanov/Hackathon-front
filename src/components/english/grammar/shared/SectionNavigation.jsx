@@ -17,7 +17,7 @@ export default function SectionNavigation({ activeSection, onSectionChange, clas
     <>
       {/* Desktop Navigation */}
       <div className={`hidden md:block mb-6 ${className}`}>
-        <Card variant="glass" className="p-2">
+        <Card variant="glass" hover={false} className="p-2 hover:shadow-2xl">
           <nav className="flex flex-wrap gap-2" aria-label="Section navigation">
             {SECTIONS.map((section) => {
               const Icon = section.icon
@@ -45,7 +45,7 @@ export default function SectionNavigation({ activeSection, onSectionChange, clas
 
       {/* Mobile Navigation */}
       <div className={`md:hidden mb-6 ${className}`}>
-        <Card variant="glass" className="p-2">
+        <Card variant="glass" hover={false} className="p-2 hover:shadow-2xl">
           <select
             value={activeSection}
             onChange={(e) => handleSectionChange(e.target.value)}

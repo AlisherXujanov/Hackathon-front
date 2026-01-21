@@ -79,17 +79,54 @@
 .actionButton {
   position: relative;
   z-index: 1;
+  background: linear-gradient(to right, #3b82f6, #2563eb) !important;
+  color: white !important;
+  border: none !important;
+  
+  // Все дочерние элементы белого цвета
+  * {
+    color: white !important;
+  }
+  
+  span {
+    color: white !important;
+  }
+  
+  svg {
+    color: white !important;
+  }
   
   // Enhanced button hover state
   &:hover {
     transform: translateX(2px);
+    background: linear-gradient(to right, #2563eb, #1d4ed8) !important;
+    
+    * {
+      color: white !important;
+    }
   }
   
   // Smooth color transition
   transition: 
     color $transition-base,
     transform $transition-base,
-    background-color $transition-base;
+    background $transition-base;
+}
+
+// Background image for card content
+.background {
+  position: relative;
+  background-image: url('/assets/images/grammar/background_grammar.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 0.75rem; // rounded-xl для соответствия внутреннему контенту
+  
+  // Контент должен быть поверх фона
+  > * {
+    position: relative;
+    z-index: 1;
+  }
 }
 
 // Ensure content is above overlay

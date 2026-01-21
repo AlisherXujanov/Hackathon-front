@@ -67,7 +67,9 @@ export const getNotes = async (topicId) => {
           data?.error?.message || 'Invalid request. Please check your input.'
         )
       } else if (status === 404) {
-        throw new Error('Topic not found.')
+        // 404 means topic has no notes yet - this is normal, return empty array
+        console.info('Notes: No notes found for this topic - returning empty array')
+        return []
       }
       
       // For auth, server, and other errors - return empty array (offline mode)

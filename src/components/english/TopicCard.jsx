@@ -52,12 +52,12 @@ export default function TopicCard({
         <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${getLevelGradient(level)} ${styles.accentBar}`} />
         
         {/* Card Content */}
-        <div className="flex flex-col h-full pt-5 pb-4 px-5">
+        <div className={`flex flex-col h-full pt-3 pb-3 px-4 ${styles.background}`}>
           {/* Header Section */}
-          <div className="flex items-start justify-between mb-3">
+          <div className="flex items-start justify-between">
             <div className="flex-1 min-w-0">
               {level && (
-                <Badge variant="primary" className="mb-2 text-[10px] font-semibold px-2 py-0.5">
+                <Badge variant="primary" className="mb-1 text-[10px] font-semibold px-2 py-0.5">
                   {level}
                 </Badge>
               )}
@@ -69,13 +69,13 @@ export default function TopicCard({
 
           {/* Description */}
           {description && (
-            <p className="text-gray-600 mb-4 text-xs leading-relaxed line-clamp-3 flex-1 min-h-[3.5rem]">
+            <p className="text-gray-600  text-xs leading-relaxed line-clamp-3 flex-1 min-h-[3rem]">
               {description}
             </p>
           )}
 
           {/* Metadata Section */}
-          <div className="mb-4 space-y-2">
+          <div className="space-y-2 mb-3">
             {/* Difficulty Badge */}
             {difficulty && (
               <div className="flex items-center">
@@ -86,7 +86,7 @@ export default function TopicCard({
             )}
 
             {/* Metadata Items */}
-            <div className="flex flex-wrap items-center gap-3 text-xs">
+            <div className="flex flex-wrap items-center gap-5 text-xs">
               {estimatedHours && (
                 <div className="flex items-center space-x-1.5 text-gray-600">
                   <HiClock className="w-3.5 h-3.5 text-gray-400 flex-shrink-0" />
@@ -118,7 +118,7 @@ export default function TopicCard({
           <Button
             variant="ghost"
             size="sm"
-            className={`w-full mt-auto ${styles.actionButton}`}
+            className={`w-full mt-auto my-2 mt-4 ${styles.actionButton}`}
             onClick={onClick}
           >
             <span className="font-semibold text-sm">Start Learning</span>
