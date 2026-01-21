@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { useParams, useRouter } from 'next/navigation'
 import { loadGrammarTopicData } from '../../../../utils/english/grammarLoader'
+import { getNotes, createNote, updateNote, deleteNote } from '../../../../utils/notesService'
 import Card from '../../../../components/Card'
 import Button from '../../../../components/Button'
 import Badge from '../../../../components/Badge'
@@ -14,8 +15,9 @@ import GrammarExamples from '../../../../components/english/grammar/GrammarExamp
 import GrammarCommonMistakes from '../../../../components/english/grammar/GrammarCommonMistakes'
 import GrammarPractice from '../../../../components/english/grammar/GrammarPractice'
 import GrammarReview from '../../../../components/english/grammar/GrammarReview'
+import NotesSidebar from '../../../../components/english/grammar/NotesSidebar'
 import FloatingAIAssistant from '../../../../components/FloatingAIAssistant'
-import { HiHome } from 'react-icons/hi'
+import { HiHome, HiDocumentText } from 'react-icons/hi'
 import { SECTIONS, STORAGE_KEYS, DEFAULT_LANGUAGE } from '../../../../constants/grammarConstants'
 import { getDifficultyLabel, getDifficultyColor } from '../../../../utils/english/grammarUtils'
 import LanguageSelector from '../../../../components/english/grammar/shared/LanguageSelector'
@@ -33,6 +35,9 @@ export default function GrammarTopicPage() {
   const [exercises, setExercises] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [notesSidebarOpen, setNotesSidebarOpen] = useState(false)
+  const [notes, setNotes] = useState([])
+  const [notesLoading, setNotesLoading] = useState(false)
 
   useEffect(() => {
     // Load language preference from localStorage
@@ -80,6 +85,79 @@ export default function GrammarTopicPage() {
     loadData()
   }, [topicId])
 
+  // Load notes when topic data is loaded
+  useEffect(() => {
+    if (topicId && topicData) {
+      loadNotes()
+    }
+  }, [topicId, topicData])
+
+  const loadNotes = async () => {
+    if (!topicId) return
+    
+    setNotesLoading(true)
+    try {
+      const notesData = await getNotes(topicId)
+      setNotes(Array.isArray(notesData) ? notesData : [])
+    } catch (err) {
+      console.error('Error loading notes:', err)
+      // Don't show error to user if it's just auth-related, notes are optional
+      if (err.message.includes('Authentication')) {
+        setNotes([])
+      }
+    } finally {
+      setNotesLoading(false)
+    }
+  }
+
+  const handleCreateNote = async (noteData) => {
+    if (!topicId || !topicData) return
+    
+    setNotesLoading(true)
+    try {
+      const newNote = await createNote(topicId, topicData.topic, noteData)
+      setNotes([newNote, ...notes])
+    } catch (err) {
+      console.error('Error creating note:', err)
+      alert(err.message || 'Failed to create note. Please try again.')
+      throw err
+    } finally {
+      setNotesLoading(false)
+    }
+  }
+
+  const handleUpdateNote = async (noteId, noteData) => {
+    if (!topicId) return
+    
+    setNotesLoading(true)
+    try {
+      const updatedNote = await updateNote(topicId, noteId, noteData)
+      setNotes(notes.map(note => note.id === noteId ? updatedNote : note))
+    } catch (err) {
+      console.error('Error updating note:', err)
+      alert(err.message || 'Failed to update note. Please try again.')
+      throw err
+    } finally {
+      setNotesLoading(false)
+    }
+  }
+
+  const handleDeleteNote = async (noteId) => {
+    if (!topicId) return
+    
+    setNotesLoading(true)
+    try {
+      await deleteNote(topicId, noteId)
+      setNotes(notes.filter(note => note.id !== noteId))
+    } catch (err) {
+      console.error('Error deleting note:', err)
+      alert(err.message || 'Failed to delete note. Please try again.')
+      throw err
+    } finally {
+      setNotesLoading(false)
+    }
+  }
+
   if (loading) {
     return (
       <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
@@ -106,8 +184,8 @@ export default function GrammarTopicPage() {
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      <div className="container-wrapper py-8 md:py-12">
+    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50 relative">
+      <div className={`container-wrapper py-8 md:py-12 transition-all duration-300 ${notesSidebarOpen ? 'lg:pr-[400px]' : ''}`}>
         {/* Header */}
         <div className="mb-6">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
@@ -120,6 +198,21 @@ export default function GrammarTopicPage() {
               >
                 <HiHome className="w-4 h-4" />
                 <span className="hidden sm:inline">Back to Grammar</span>
+              </Button>
+              <Button
+                variant="secondary"
+                size="sm"
+                onClick={() => setNotesSidebarOpen(!notesSidebarOpen)}
+                className="flex items-center gap-2"
+                title="Toggle Notes"
+              >
+                <HiDocumentText className="w-4 h-4" />
+                <span className="hidden sm:inline">Notes</span>
+                {notes.length > 0 && (
+                  <Badge variant="primary" className="ml-1 text-xs">
+                    {notes.length}
+                  </Badge>
+                )}
               </Button>
             </div>
             
@@ -188,6 +281,19 @@ export default function GrammarTopicPage() {
           category="grammar"
           description={`Grammar practice interface for ${topicData.level?.toUpperCase() || 'English'} level students studying the topic: "${topicData.topic}". ${topicData.difficulty ? `Difficulty level: ${topicData.difficulty}. ` : ''}Currently viewing the "${activeSection}" section. ${topicData.estimated_hours ? `Estimated study time: ${topicData.estimated_hours} hours.` : ''}Language preference: ${language === 'en' ? 'English' : language === 'ru' ? 'Russian' : 'Uzbek'}.`}
           buttonLabel="AI Helper"
+        />
+
+        {/* Notes Sidebar */}
+        <NotesSidebar
+          topicId={topicId}
+          topicTitle={topicData.topic}
+          isOpen={notesSidebarOpen}
+          onToggle={() => setNotesSidebarOpen(!notesSidebarOpen)}
+          notes={notes}
+          loading={notesLoading}
+          onCreateNote={handleCreateNote}
+          onUpdateNote={handleUpdateNote}
+          onDeleteNote={handleDeleteNote}
         />
       </div>
     </main>

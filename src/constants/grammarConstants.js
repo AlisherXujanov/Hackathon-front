@@ -71,3 +71,12 @@ export const DEFAULT_LANGUAGE = 'en'
 export const STORAGE_KEYS = {
   GRAMMAR_LANGUAGE: 'grammar-language'
 }
+
+/**
+ * Note importance levels
+ */
+export const NOTE_IMPORTANCE_LEVELS = {
+  CRITICAL: 'critical',
+  IMPORTANT: 'important',
+  NORMAL: 'normal'
+}
