@@ -1,0 +1,61 @@
+{
+  "title": "Rejangizni tanlang",
+  "subtitle": "Premium funksiyalarni oching va o'qish yo'lingizni tezlashtiring",
+  "free": {
+    "name": "Bepul",
+    "price": "$0",
+    "period": "doimiy",
+    "description": "Boshlash uchun ideal",
+    "features": [
+      "Asosiy AI so'rovlari",
+      "Standart o'quv materiallari",
+      "Jamiyat yordami",
+      "Cheklangan funksiyalar"
+    ],
+    "cta": "Joriy reja"
+  },
+  "pro": {
+    "name": "Pro",
+    "price": "$5",
+    "period": "oyiga",
+    "description": "Jiddiy o'quvchilar uchun",
+    "popular": "Eng mashhur",
+    "features": [
+      "10 marta ko'proq AI so'rovlari",
+      "Ustuvor AI javoblari",
+      "Kengaytirilgan o'quv analitikasi",
+      "Cheksiz amaliyot sessiyalari",
+      "Yangi funksiyalarga erta kirish",
+      "Ustuvor yordam"
+    ],
+    "cta": "Boshlash"
+  },
+  "plus": {
+    "name": "Plus",
+    "price": "$20",
+    "period": "oyiga",
+    "description": "Eng yaxshi o'quv tajribasi",
+    "popular": "Eng yaxshi narx",
+    "features": [
+      "Cheksiz AI so'rovlari",
+      "GPT-5 va ilg'or modellarga kirish",
+      "Shaxsiy AI murabbiy",
+      "Kengaytirilgan analitika paneli",
+      "Maxsus o'quv yo'llari",
+      "1-ga-1 mentorlik sessiyalari",
+      "Eksklyuziv kontent kutubxonasi",
+      "24/7 ustuvor yordam"
+    ],
+    "cta": "Boshlash"
+  },
+  "compare": {
+    "title": "Rejalarni solishtirish",
+    "features": {
+      "aiRequests": "AI so'rovlari",
+      "aiModels": "AI modellari",
+      "analytics": "Analitika",
+      "support": "Yordam",
+      "content": "Kontentga kirish"
+    }
+  }
+}

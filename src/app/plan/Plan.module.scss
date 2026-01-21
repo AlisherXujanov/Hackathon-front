@@ -1,0 +1,126 @@
+@use '../../assets/styles/_settings' as *;
+
+.plansGrid {
+  align-items: stretch;
+}
+
+.planWrapper {
+  height: 100%;
+  min-height: 100%;
+}
+
+.planCard {
+  padding: $space-6;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, $primary-color, $accent-color);
+    opacity: 0;
+    transition: opacity $transition-fast;
+  }
+
+  &.popular {
+    border: 2px solid rgba($primary-color, 0.2);
+    box-shadow: 0 8px 24px rgba($primary-color, 0.12);
+
+    &::before {
+      opacity: 1;
+    }
+  }
+
+  &.hovered {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+
+    &::before {
+      opacity: 1;
+    }
+  }
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.featuresList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.comparisonTable {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+
+  th {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+  }
+
+  tbody tr {
+    transition: background-color $transition-fast;
+
+    &:hover {
+      background: rgba($primary-color, 0.05);
+    }
+
+    td {
+      transition: background-color $transition-fast;
+    }
+  }
+
+  tfoot {
+    background: linear-gradient(to bottom, rgba($primary-color, 0.02), transparent);
+  }
+}
+
+@media (max-width: $breakpoint-lg) {
+  .planCard {
+    padding: $space-5;
+  }
+}
+
+@media (max-width: $breakpoint-md) {
+  .planCard {
+    padding: $space-4;
+
+    &.hovered {
+      transform: translateY(-2px);
+    }
+  }
+
+  .comparisonTable {
+    font-size: 0.75rem;
+
+    th, td {
+      padding: $space-2;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-sm) {
+  .planCard {
+    padding: $space-3;
+  }
+}
