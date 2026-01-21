@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="glow1" cx="68%" cy="28%" r="55%">
+      <stop offset="0%" stop-color="#08B3A9" stop-opacity="0.22"></stop>
+      <stop offset="60%" stop-color="#08B3A9" stop-opacity="0.06"></stop>
+      <stop offset="100%" stop-color="#08B3A9" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="glow2" cx="84%" cy="72%" r="60%">
+      <stop offset="0%" stop-color="#F26B4B" stop-opacity="0.18"></stop>
+      <stop offset="55%" stop-color="#F26B4B" stop-opacity="0.05"></stop>
+      <stop offset="100%" stop-color="#F26B4B" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="#0F3B44"></rect>
+  <rect width="1920" height="1080" fill="url(#glow1)"></rect>
+  <rect width="1920" height="1080" fill="url(#glow2)"></rect>
+
+  <!-- Right-side abstract shapes -->
+  <path d="M1508,-36 C1410,110 1555,230 1460,356 C1351,499 1500,624 1388,756 C1288,873 1406,968 1322,1120 L1920,1120 L1920,-36 Z" fill="#08B3A9" opacity="0.95"></path>
+  <path d="M1605,-40 C1542,88 1717,170 1668,286 C1616,410 1772,496 1710,634 C1656,757 1768,858 1694,980 C1638,1072 1713,1123 1713,1123 L1920,1123 L1920,-40 Z" fill="#F26B4B" opacity="0.92"></path>
+  <path d="M1700,140 C1618,240 1768,300 1708,400 C1640,516 1820,600 1746,724 C1680,834 1796,906 1736,1024 C1708,1080 1730,1120 1730,1120 L1920,1120 L1920,140 Z" fill="#5A1A5E" opacity="0.88"></path>
+
+  <!-- Subtle circles (very low contrast) -->
+  <g opacity="0.08" fill="none" stroke="#CFF6EF" stroke-width="6">
+    <circle cx="220" cy="860" r="110"></circle>
+    <circle cx="290" cy="900" r="200"></circle>
+    <circle cx="120" cy="930" r="320"></circle>
+  </g>
+</svg>

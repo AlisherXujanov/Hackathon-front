@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F7F5"></stop>
+      <stop offset="100%" stop-color="#FFFFFF"></stop>
+    </linearGradient>
+    <radialGradient id="mintGlow" cx="70%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#CFF6EF" stop-opacity="0.95"></stop>
+      <stop offset="60%" stop-color="#CFF6EF" stop-opacity="0.35"></stop>
+      <stop offset="100%" stop-color="#CFF6EF" stop-opacity="0"></stop>
+    </radialGradient>
+    <radialGradient id="lavGlow" cx="45%" cy="62%" r="55%">
+      <stop offset="0%" stop-color="#EAD9FF" stop-opacity="0.9"></stop>
+      <stop offset="70%" stop-color="#EAD9FF" stop-opacity="0.25"></stop>
+      <stop offset="100%" stop-color="#EAD9FF" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#wash)"></rect>
+
+  <!-- Soft “blob” backplate (right) -->
+  <path d="M1260,120
+           C1460,50 1655,160 1710,320
+           C1768,488 1685,610 1608,720
+           C1520,846 1510,960 1360,1000
+           C1210,1040 1060,960 1008,820
+           C952,670 1040,560 1096,450
+           C1152,340 1070,190 1260,120 Z" fill="url(#mintGlow)" opacity="1"></path>
+
+  <!-- Secondary glow (left-middle) -->
+  <path d="M520,260
+           C680,160 860,210 940,330
+           C1020,450 980,600 860,690
+           C740,780 560,820 440,720
+           C320,620 320,420 420,320
+           C460,280 490,275 520,260 Z" fill="url(#lavGlow)" opacity="0.9"></path>
+
+  <!-- Minimal accent dots -->
+  <g opacity="0.18" fill="#0F3B44">
+    <circle cx="150" cy="140" r="6"></circle>
+    <circle cx="190" cy="170" r="4"></circle>
+    <circle cx="220" cy="130" r="3"></circle>
+    <circle cx="1730" cy="180" r="5"></circle>
+    <circle cx="1760" cy="210" r="3"></circle>
+    <circle cx="1790" cy="165" r="4"></circle>
+  </g>
+</svg>
