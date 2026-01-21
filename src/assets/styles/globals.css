@@ -114,3 +114,10 @@ body.ai-modal-open [data-sidebar="true"] {
   filter: blur(4px);
   transition: box-shadow 0.3s ease-out, filter 0.3s ease-out;
 }
+
+/* Hide Header, Sidebar, and Footer during fullscreen reading */
+body.reading-fullscreen [data-header="true"],
+body.reading-fullscreen [data-sidebar="true"],
+body.reading-fullscreen footer {
+  display: none !important;
+}

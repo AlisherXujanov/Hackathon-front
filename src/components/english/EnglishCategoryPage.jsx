@@ -5,6 +5,7 @@ import ScrollAnimation from '../ScrollAnimation'
 import TopicCard from './TopicCard'
 import Pagination from '../Pagination'
 import CategoryHeader from './CategoryHeader'
+import LevelSelector from './LevelSelector'
 import LoadingState from './LoadingState'
 import ErrorState from './ErrorState'
 import EmptyState from './EmptyState'
@@ -53,11 +54,22 @@ export default function EnglishCategoryPage({
             title={category.name}
             description={category.description}
             color={category.color}
-            levelSelector={{
-              value: categoryLogic.selectedLevel,
-              onChange: categoryLogic.handleLevelChange
-            }}
           />
+
+          {/* Visual Separator */}
+          <div className="relative mb-10 md:mb-12">
+            <div className="absolute inset-0 flex items-center">
+              <div className="w-full border-t border-gray-200"></div>
+            </div>
+            <div className="relative flex justify-center">
+              <div className="bg-white px-4">
+                <LevelSelector
+                  value={categoryLogic.selectedLevel}
+                  onChange={categoryLogic.handleLevelChange}
+                />
+              </div>
+            </div>
+          </div>
 
           {categoryLogic.loading && <LoadingState />}
 
