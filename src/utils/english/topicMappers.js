@@ -3,6 +3,8 @@
  * Maps normalized topic data to TopicCard component props for each category
  */
 
+import { getMinWordsForLevel } from '../../config/writingConfig'
+
 export const topicCardMappers = {
   grammar: (topic) => ({
     title: topic.title,
@@ -30,7 +32,8 @@ export const topicCardMappers = {
   writing: (topic) => ({
     title: topic.title,
     description: topic.hasVocabulary ? 'Includes vocabulary support' : 'Writing prompt',
-    level: topic.level
+    level: topic.level,
+    wordCount: getMinWordsForLevel(topic.level)
   }),
 
   vocabulary: (topic) => ({
