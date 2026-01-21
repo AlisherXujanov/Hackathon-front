@@ -22,6 +22,7 @@
     "popular": "Eng mashhur",
     "features": [
       "10 marta ko'proq AI so'rovlari",
+      "Asosiy AI modellariga kirish",
       "Ustuvor AI javoblari",
       "Kengaytirilgan o'quv analitikasi",
       "Cheksiz amaliyot sessiyalari",
@@ -38,11 +39,11 @@
     "popular": "Eng yaxshi narx",
     "features": [
       "Cheksiz AI so'rovlari",
-      "GPT-5 va ilg'or modellarga kirish",
+      "Asosiy modellarga cheksiz kirish",
+      "Ilg'or modellarga cheklangan kirish",
       "Shaxsiy AI murabbiy",
       "Kengaytirilgan analitika paneli",
       "Maxsus o'quv yo'llari",
-      "1-ga-1 mentorlik sessiyalari",
       "Eksklyuziv kontent kutubxonasi",
       "24/7 ustuvor yordam"
     ],

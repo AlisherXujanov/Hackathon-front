@@ -168,21 +168,21 @@ export default function CheckoutPage() {
         <div className="absolute bottom-20 right-10 w-96 h-96 bg-pink-300/20 rounded-full blur-3xl"></div>
       </div>
 
-      <div className="container-wrapper py-12 md:py-20 relative z-10">
-        <div className="max-w-6xl mx-auto">
+      <div className="container-wrapper py-12 md:py-20 relative z-10 min-h-screen">
+        <div className="max-w-7xl mx-auto">
           {/* Back Button */}
           <ScrollAnimation>
-            <Link href="/plan" className="inline-flex items-center text-gray-600 hover:text-gray-900 mb-8 transition-colors">
+            <Link href="/plan" className="inline-flex items-center text-gray-600 hover:text-gray-900 mb-8 transition-colors px-4 sm:px-0">
               <HiArrowLeft className="w-5 h-5 mr-2" />
               {t.actions.back}
             </Link>
           </ScrollAnimation>
 
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8">
             {/* Main Form */}
-            <div className="lg:col-span-2">
+            <div className="lg:col-span-7">
               <ScrollAnimation>
-                <Card variant="glass" className="p-6 md:p-8 mb-6">
+                <Card variant="glass" className="p-6 md:p-8">
                   <div className="flex items-center gap-3 mb-6">
                     <HiLockClosed className="w-6 h-6 text-purple-600" />
                     <h1 className="text-2xl md:text-3xl font-bold text-gray-900">
@@ -289,9 +289,9 @@ export default function CheckoutPage() {
             </div>
 
             {/* Order Summary Sidebar */}
-            <div className="lg:col-span-1">
+            <div className="lg:col-span-5 flex flex-col">
               <ScrollAnimation delay={200}>
-                <Card variant="glass" className={`${styles.summaryCard} p-6 md:p-8 sticky top-8`}>
+                <Card variant="glass" className={`${styles.summaryCard} p-6 md:p-8 lg:sticky lg:top-8`}>
                   <h2 className="text-xl font-bold mb-6 text-gray-900">
                     {t.orderSummary.title}
                   </h2>

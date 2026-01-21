@@ -21,7 +21,8 @@
     "description": "For serious learners",
     "popular": "Most Popular",
     "features": [
-      "10x more AI requests",
+      "More AI requests",
+      "Access to basic AI models",
       "Priority AI responses",
       "Advanced learning analytics",
       "Unlimited practice sessions",
@@ -38,11 +39,11 @@
     "popular": "Best Value",
     "features": [
       "Unlimited AI requests",
-      "Access to GPT-5 and advanced models",
+      "Unlimited access to basic models",
+      "Limited access to advanced models",
       "Personalized AI tutor",
       "Advanced analytics dashboard",
       "Custom learning paths",
-      "1-on-1 mentorship sessions",
       "Exclusive content library",
       "24/7 priority support"
     ],
