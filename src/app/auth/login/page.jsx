@@ -5,9 +5,9 @@ import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import Button from '../../../components/Button'
 import Input from '../../../components/Input'
-import Card from '../../../components/Card'
 import ScrollAnimation from '../../../components/ScrollAnimation'
-import { HiMail, HiLock, HiEye, HiEyeOff } from 'react-icons/hi'
+import { authService } from '../../../services/api'
+import { HiMail, HiLockClosed, HiEye, HiEyeOff } from 'react-icons/hi'
 
 export default function LoginPage() {
   const router = useRouter()
@@ -24,38 +24,53 @@ export default function LoginPage() {
     setError('')
     setIsLoading(true)
     
-    // TODO: Implement actual login logic with API
     try {
-      // Placeholder for API call
-      setTimeout(() => {
-        router.push('/dashboard')
-      }, 1000)
+      // Вызов API для входа
+      await authService.login({
+        email: formData.email,
+        password: formData.password,
+      })
+      
+      // Успешный вход - перенаправление на страницу профиля
+      router.push('/profile')
     } catch (err) {
-      setError('Invalid credentials')
+      // Обработка ошибок
+      let errorMessage = 'Неверный email или пароль'
+      
+      if (err?.message) {
+        errorMessage = typeof err.message === 'string' ? err.message : String(err.message)
+      } else if (typeof err === 'string') {
+        errorMessage = err
+      } else if (err && typeof err === 'object') {
+        errorMessage = JSON.stringify(err)
+      }
+      
+      setError(errorMessage)
       setIsLoading(false)
     }
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
+    <main className="w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-primary-50 via-white to-accent-50">
       {/* Background Decoration */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
-        <div className="absolute top-20 left-10 w-72 h-72 bg-primary-400/20 rounded-full blur-3xl" />
-        <div className="absolute bottom-20 right-10 w-96 h-96 bg-accent-400/20 rounded-full blur-3xl" />
+        <div className="absolute top-20 left-10 w-72 h-72 bg-primary-400/30 rounded-full blur-3xl animate-pulse" />
+        <div className="absolute bottom-20 right-10 w-96 h-96 bg-accent-400/30 rounded-full blur-3xl animate-pulse" style={{ animationDelay: '1s' }} />
+        <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-primary-200/20 rounded-full blur-3xl" />
       </div>
 
-      <div className="container-wrapper relative z-10 py-12 md:py-20">
-        <div className="flex items-center justify-center min-h-[calc(100vh-8rem)]">
+      <div className="container-wrapper relative z-10 pt-2 md:pt-4 pb-0">
+        <div className="flex items-center justify-center min-h-[calc(100vh-4rem)]">
           <ScrollAnimation>
-            <Card variant="glass" className="w-full max-w-md p-8 md:p-10">
-              <div className="text-center mb-8">
-                <h1 className="text-3xl md:text-4xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-accent-600">
+            <div className="w-full max-w-md">
+              <div className="text-center mb-4">
+                <h1 className="text-4xl md:text-5xl font-bold mb-2 bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-accent-600">
                   Welcome Back
                 </h1>
-                <p className="text-gray-600">Sign in to your account to continue</p>
+                <p className="text-base md:text-lg text-gray-600">Sign in to your account to continue</p>
               </div>
 
-              <form className="space-y-6" onSubmit={handleSubmit}>
+              <form className="space-y-3" onSubmit={handleSubmit}>
                 {error && (
                   <div className="bg-error-50 border border-error-200 text-error-700 px-4 py-3 rounded-lg text-sm">
                     {error}
@@ -81,7 +96,7 @@ export default function LoginPage() {
                     type={showPassword ? 'text' : 'password'}
                     label="Password"
                     required
-                    leftIcon={<HiLock className="w-5 h-5" />}
+                    leftIcon={<HiLockClosed className="w-5 h-5" />}
                     rightIcon={
                       <button
                         type="button"
@@ -100,7 +115,7 @@ export default function LoginPage() {
                 <div className="flex items-center justify-between">
                   <Link 
                     href="/auth/password-reset" 
-                    className="text-sm font-medium text-primary-600 hover:text-primary-700 transition-colors"
+                    className="text-base font-medium text-primary-600 hover:text-primary-700 transition-colors"
                   >
                     Forgot password?
                   </Link>
@@ -116,7 +131,7 @@ export default function LoginPage() {
                   Sign In
                 </Button>
 
-                <div className="text-center text-sm">
+                <div className="text-center text-base">
                   <span className="text-gray-600">Don't have an account? </span>
                   <Link 
                     href="/auth/register" 
@@ -126,7 +141,7 @@ export default function LoginPage() {
                   </Link>
                 </div>
               </form>
-            </Card>
+            </div>
           </ScrollAnimation>
         </div>
       </div>

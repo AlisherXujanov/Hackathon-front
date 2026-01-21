@@ -2,13 +2,16 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
-import { HiMenu, HiX, HiUserCircle, HiLogout } from 'react-icons/hi'
+import { usePathname, useRouter } from 'next/navigation'
+import { authService } from '../services/api'
+import { HiMenu, HiX, HiUserCircle } from 'react-icons/hi'
+import Button from './Button'
 
 const Header = () => {
+  const router = useRouter()
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
-  const [isUserMenuOpen, setIsUserMenuOpen] = useState(false)
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
   const pathname = usePathname()
 
   useEffect(() => {
@@ -18,6 +21,11 @@ const Header = () => {
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
+
+  useEffect(() => {
+    // Проверяем статус авторизации при монтировании и при изменении пути
+    setIsAuthenticated(authService.isAuthenticated())
+  }, [pathname])
 
   const navLinks = [
     { href: '/dashboard', label: 'Dashboard' },
@@ -74,42 +82,31 @@ const Header = () => {
 
           {/* Right Side Actions */}
           <div className="flex items-center space-x-4">
-            {/* User Menu */}
-            <div className="relative hidden md:block">
-              <button
-                onClick={() => setIsUserMenuOpen(!isUserMenuOpen)}
-                className="flex items-center space-x-2 p-2 rounded-lg hover:bg-gray-100 transition-colors"
-                aria-label="User menu"
+            {/* Условное отображение: иконка профиля или кнопки Login/Register */}
+            {isAuthenticated ? (
+              // Если пользователь авторизован - показываем только иконку профиля
+              <Link
+                href="/profile"
+                className="hidden md:flex items-center p-2 rounded-lg hover:bg-gray-100 transition-colors"
+                aria-label="Profile"
               >
                 <HiUserCircle className="w-6 h-6 text-gray-700" />
-              </button>
-              
-              {isUserMenuOpen && (
-                <>
-                  <div 
-                    className="fixed inset-0 z-10" 
-                    onClick={() => setIsUserMenuOpen(false)}
-                  />
-                  <div className="absolute right-0 mt-2 w-48 bg-white rounded-xl shadow-xl border border-gray-200 py-2 z-20">
-                    <Link
-                      href="/profile"
-                      className="flex items-center space-x-2 px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
-                      onClick={() => setIsUserMenuOpen(false)}
-                    >
-                      <HiUserCircle className="w-5 h-5" />
-                      <span>Profile</span>
-                    </Link>
-                    <button
-                      className="w-full flex items-center space-x-2 px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
-                      onClick={() => setIsUserMenuOpen(false)}
-                    >
-                      <HiLogout className="w-5 h-5" />
-                      <span>Logout</span>
-                    </button>
-                  </div>
-                </>
-              )}
-            </div>
+              </Link>
+            ) : (
+              // Если пользователь не авторизован - показываем кнопки Login и Register
+              <div className="hidden md:flex items-center space-x-2">
+                <Link href="/auth/login">
+                  <Button variant="secondary" size="sm">
+                    Login
+                  </Button>
+                </Link>
+                <Link href="/auth/register">
+                  <Button variant="primary" size="sm">
+                    Register
+                  </Button>
+                </Link>
+              </div>
+            )}
 
             {/* Mobile Menu Button */}
             <button
@@ -146,13 +143,35 @@ const Header = () => {
                   {link.label}
                 </Link>
               ))}
-              <Link
-                href="/profile"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
-              >
-                Profile
-              </Link>
+              {isAuthenticated ? (
+                // Если авторизован - показываем ссылку на профиль
+                <Link
+                  href="/profile"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                  className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors flex items-center space-x-2"
+                >
+                  <HiUserCircle className="w-5 h-5" />
+                  <span>Profile</span>
+                </Link>
+              ) : (
+                // Если не авторизован - показываем кнопки Login и Register
+                <>
+                  <Link
+                    href="/auth/login"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
+                  >
+                    Login
+                  </Link>
+                  <Link
+                    href="/auth/register"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
+                  >
+                    Register
+                  </Link>
+                </>
+              )}
             </div>
           </div>
         )}

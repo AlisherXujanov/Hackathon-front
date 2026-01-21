@@ -19,7 +19,7 @@ const Input = forwardRef(({
       )}
       <div className="relative">
         {leftIcon && (
-          <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400">
+          <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-gray-400">
             {leftIcon}
           </div>
         )}
@@ -31,8 +31,8 @@ const Input = forwardRef(({
               ? 'border-error-500 focus:border-error-500 focus:ring-error-500' 
               : 'border-gray-300 focus:border-primary-500 focus:ring-primary-500'
             }
-            ${leftIcon ? 'pl-10' : 'pl-3'}
-            ${rightIcon ? 'pr-10' : 'pr-3'}
+            ${leftIcon ? 'pl-12' : 'pl-3'}
+            ${rightIcon ? 'pr-12' : 'pr-3'}
             py-2.5 text-gray-900 placeholder-gray-400
             focus:outline-none focus:ring-2 focus:ring-offset-0
             transition-colors duration-200
@@ -41,7 +41,7 @@ const Input = forwardRef(({
           {...props}
         />
         {rightIcon && (
-          <div className="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none text-gray-400">
+          <div className="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-auto">
             {rightIcon}
           </div>
         )}
