@@ -5,9 +5,9 @@ import Card from '../../Card'
 import Button from '../../Button'
 import NoteForm from './NoteForm'
 import NoteList from './NoteList'
-import { HiX, HiDocumentText, HiPlus } from 'react-icons/hi'
+import { HiX, HiDocumentText, HiPlus, HiRefresh, HiExclamationCircle } from 'react-icons/hi'
 
-export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, notes, loading, onCreateNote, onUpdateNote, onDeleteNote }) {
+export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, notes, loading, error, onRetry, onCreateNote, onUpdateNote, onDeleteNote }) {
   const [isCreating, setIsCreating] = useState(false)
   const [editingNote, setEditingNote] = useState(null)
 
@@ -104,6 +104,34 @@ export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, no
             </p>
           </Card>
 
+          {/* Network Error Notification */}
+          {error === 'network' && !loading && (
+            <Card variant="glass" className="p-3 bg-yellow-50 border border-yellow-200">
+              <div className="flex items-start gap-2">
+                <HiExclamationCircle className="w-5 h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
+                <div className="flex-1">
+                  <p className="text-sm text-yellow-800 font-medium mb-1">
+                    Unable to load notes
+                  </p>
+                  <p className="text-xs text-yellow-700 mb-2">
+                    Check your connection and try again.
+                  </p>
+                  {onRetry && (
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      onClick={onRetry}
+                      className="flex items-center gap-1 text-yellow-700 hover:text-yellow-900 hover:bg-yellow-100"
+                    >
+                      <HiRefresh className="w-4 h-4" />
+                      <span>Retry</span>
+                    </Button>
+                  )}
+                </div>
+              </div>
+            </Card>
+          )}
+
           {/* Form Section */}
           {isCreating && !editingNote && (
             <Card variant="glass" className="p-4">
@@ -135,18 +163,31 @@ export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, no
                 <h3 className="text-lg font-semibold text-gray-900">
                   Your Notes ({notes?.length || 0})
                 </h3>
-                <Button
-                  variant="primary"
-                  size="sm"
-                  onClick={() => {
-                    setIsCreating(true)
-                    setEditingNote(null)
-                  }}
-                  className="flex items-center gap-2"
-                >
-                  <HiPlus className="w-4 h-4" />
-                  New Note
-                </Button>
+                <div className="flex items-center gap-2">
+                  {error === 'network' && onRetry && (
+                    <Button
+                      variant="ghost"
+                      size="sm"
+                      onClick={onRetry}
+                      className="flex items-center gap-1"
+                      title="Retry loading notes"
+                    >
+                      <HiRefresh className="w-4 h-4" />
+                    </Button>
+                  )}
+                  <Button
+                    variant="primary"
+                    size="sm"
+                    onClick={() => {
+                      setIsCreating(true)
+                      setEditingNote(null)
+                    }}
+                    className="flex items-center gap-2"
+                  >
+                    <HiPlus className="w-4 h-4" />
+                    New Note
+                  </Button>
+                </div>
               </div>
 
               <NoteList

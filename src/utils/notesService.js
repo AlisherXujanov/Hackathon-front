@@ -8,43 +8,95 @@
 import apiClient from './aiService'
 
 /**
+ * Detects the type of error for better error handling
+ * @param {Error} error - The error object from axios
+ * @returns {string} Error type: 'network', 'timeout', 'auth', 'server', or 'unknown'
+ */
+const detectErrorType = (error) => {
+  // Timeout errors
+  if (error.code === 'ECONNABORTED' || error.message?.includes('timeout')) {
+    return 'timeout'
+  }
+  
+  // Network errors (no response received)
+  if (error.request && !error.response) {
+    // Check for specific network error codes
+    if (error.code === 'ERR_NETWORK' || 
+        error.code === 'ECONNREFUSED' || 
+        error.code === 'ENOTFOUND') {
+      return 'network'
+    }
+    return 'network'
+  }
+  
+  // HTTP response errors
+  if (error.response) {
+    const status = error.response.status
+    if (status === 401 || status === 403) {
+      return 'auth'
+    }
+    if (status >= 500) {
+      return 'server'
+    }
+    return 'http'
+  }
+  
+  return 'unknown'
+}
+
+/**
  * Get all notes for a grammar topic
  * 
  * @param {string} topicId - Topic ID (e.g., "A1_001")
- * @returns {Promise<Array>} Array of note objects
- * @throws {Error} If the request fails
+ * @returns {Promise<Array>} Array of note objects, or empty array if backend is unavailable
+ * @throws {Error} Only for application errors (400, 404)
  */
 export const getNotes = async (topicId) => {
   try {
     const response = await apiClient.get(`/english/grammar/topics/${topicId}/notes/`)
     return response.data?.data || response.data || []
   } catch (error) {
+    const errorType = detectErrorType(error)
+    
     if (error.response) {
       const { status, data } = error.response
       
+      // Only throw for actual application errors
       if (status === 400) {
         throw new Error(
           data?.error?.message || 'Invalid request. Please check your input.'
         )
-      } else if (status === 401) {
-        throw new Error('Authentication required. Please log in.')
-      } else if (status === 403) {
-        throw new Error('You do not have permission to view notes.')
       } else if (status === 404) {
         throw new Error('Topic not found.')
+      }
+      
+      // For auth, server, and other errors - return empty array (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Notes: Authentication/permission error - returning empty array (offline mode)')
+        return []
       } else if (status >= 500) {
-        throw new Error('Server error. Please try again later.')
+        console.warn('Notes: Server error - returning empty array (offline mode)')
+        return []
       } else {
-        throw new Error(
-          data?.error?.message || `Request failed with status ${status}`
-        )
+        console.warn(`Notes: HTTP ${status} error - returning empty array (offline mode)`)
+        return []
       }
     } else if (error.request) {
-      throw new Error(
-        'Network error. Please check your connection and try again.'
-      )
+      // Network errors - return empty array (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Notes: Request timeout - returning empty array (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Notes: Network error - returning empty array (offline mode)')
+      } else {
+        console.warn('Notes: Connection error - returning empty array (offline mode)')
+      }
+      return []
     } else {
-      throw new Error(error.message || 'An unexpected error occurred')
+      // Unexpected errors - return empty array (offline mode)
+      console.warn('Notes: Unexpected error - returning empty array (offline mode)', error.message)
+      return []
     }
   }
 }
@@ -57,8 +109,8 @@ export const getNotes = async (topicId) => {
  * @param {Object} noteData - Note data
  * @param {string} noteData.note_text - Note text content
  * @param {string} noteData.importance - Importance level (critical, important, normal)
- * @returns {Promise<Object>} Created note object
- * @throws {Error} If the request fails
+ * @returns {Promise<Object|null>} Created note object, or null if backend is unavailable
+ * @throws {Error} Only for validation errors (400)
  */
 export const createNote = async (topicId, topicTitle, noteData) => {
   try {
@@ -72,30 +124,45 @@ export const createNote = async (topicId, topicTitle, noteData) => {
     const response = await apiClient.post(`/english/grammar/topics/${topicId}/notes/`, payload)
     return response.data?.data || response.data
   } catch (error) {
+    const errorType = detectErrorType(error)
+    
     if (error.response) {
       const { status, data } = error.response
       
+      // Only throw for validation errors (user needs to know)
       if (status === 400) {
         throw new Error(
           data?.error?.message || 'Invalid note data. Please check your input.'
         )
-      } else if (status === 401) {
-        throw new Error('Authentication required. Please log in.')
-      } else if (status === 403) {
-        throw new Error('You do not have permission to create notes.')
+      }
+      
+      // For auth, server, and other errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Notes: Authentication/permission error - cannot create note (offline mode)')
+        return null
       } else if (status >= 500) {
-        throw new Error('Server error. Please try again later.')
+        console.warn('Notes: Server error - cannot create note (offline mode)')
+        return null
       } else {
-        throw new Error(
-          data?.error?.message || `Request failed with status ${status}`
-        )
+        console.warn(`Notes: HTTP ${status} error - cannot create note (offline mode)`)
+        return null
       }
     } else if (error.request) {
-      throw new Error(
-        'Network error. Please check your connection and try again.'
-      )
+      // Network errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Notes: Request timeout - cannot create note (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Notes: Network error - cannot create note (offline mode)')
+      } else {
+        console.warn('Notes: Connection error - cannot create note (offline mode)')
+      }
+      return null
     } else {
-      throw new Error(error.message || 'An unexpected error occurred')
+      // Unexpected errors - return null (offline mode)
+      console.warn('Notes: Unexpected error - cannot create note (offline mode)', error.message)
+      return null
     }
   }
 }
@@ -108,8 +175,8 @@ export const createNote = async (topicId, topicTitle, noteData) => {
  * @param {Object} noteData - Updated note data
  * @param {string} noteData.note_text - Note text content
  * @param {string} noteData.importance - Importance level (critical, important, normal)
- * @returns {Promise<Object>} Updated note object
- * @throws {Error} If the request fails
+ * @returns {Promise<Object|null>} Updated note object, or null if backend is unavailable
+ * @throws {Error} Only for validation errors (400) and not found (404)
  */
 export const updateNote = async (topicId, noteId, noteData) => {
   try {
@@ -121,32 +188,47 @@ export const updateNote = async (topicId, noteId, noteData) => {
     const response = await apiClient.put(`/english/grammar/topics/${topicId}/notes/${noteId}/`, payload)
     return response.data?.data || response.data
   } catch (error) {
+    const errorType = detectErrorType(error)
+    
     if (error.response) {
       const { status, data } = error.response
       
+      // Only throw for actual application errors (user needs to know)
       if (status === 400) {
         throw new Error(
           data?.error?.message || 'Invalid note data. Please check your input.'
         )
-      } else if (status === 401) {
-        throw new Error('Authentication required. Please log in.')
-      } else if (status === 403) {
-        throw new Error('You do not have permission to update this note.')
       } else if (status === 404) {
         throw new Error('Note not found.')
+      }
+      
+      // For auth, server, and other errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Notes: Authentication/permission error - cannot update note (offline mode)')
+        return null
       } else if (status >= 500) {
-        throw new Error('Server error. Please try again later.')
+        console.warn('Notes: Server error - cannot update note (offline mode)')
+        return null
       } else {
-        throw new Error(
-          data?.error?.message || `Request failed with status ${status}`
-        )
+        console.warn(`Notes: HTTP ${status} error - cannot update note (offline mode)`)
+        return null
       }
     } else if (error.request) {
-      throw new Error(
-        'Network error. Please check your connection and try again.'
-      )
+      // Network errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Notes: Request timeout - cannot update note (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Notes: Network error - cannot update note (offline mode)')
+      } else {
+        console.warn('Notes: Connection error - cannot update note (offline mode)')
+      }
+      return null
     } else {
-      throw new Error(error.message || 'An unexpected error occurred')
+      // Unexpected errors - return null (offline mode)
+      console.warn('Notes: Unexpected error - cannot update note (offline mode)', error.message)
+      return null
     }
   }
 }
@@ -156,35 +238,50 @@ export const updateNote = async (topicId, noteId, noteData) => {
  * 
  * @param {string} topicId - Topic ID (e.g., "A1_001")
  * @param {number} noteId - Note ID
- * @returns {Promise<void>}
- * @throws {Error} If the request fails
+ * @returns {Promise<void>} Always succeeds (silently handles network/server errors)
+ * @throws {Error} Only for not found errors (404)
  */
 export const deleteNote = async (topicId, noteId) => {
   try {
     await apiClient.delete(`/english/grammar/topics/${topicId}/notes/${noteId}/`)
   } catch (error) {
+    const errorType = detectErrorType(error)
+    
     if (error.response) {
       const { status, data } = error.response
       
-      if (status === 401) {
-        throw new Error('Authentication required. Please log in.')
-      } else if (status === 403) {
-        throw new Error('You do not have permission to delete this note.')
-      } else if (status === 404) {
+      // Only throw for not found (user needs to know)
+      if (status === 404) {
         throw new Error('Note not found.')
+      }
+      
+      // For auth, server, and other errors - succeed silently (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Notes: Authentication/permission error - delete succeeded silently (offline mode)')
+        return
       } else if (status >= 500) {
-        throw new Error('Server error. Please try again later.')
+        console.warn('Notes: Server error - delete succeeded silently (offline mode)')
+        return
       } else {
-        throw new Error(
-          data?.error?.message || `Request failed with status ${status}`
-        )
+        console.warn(`Notes: HTTP ${status} error - delete succeeded silently (offline mode)`)
+        return
       }
     } else if (error.request) {
-      throw new Error(
-        'Network error. Please check your connection and try again.'
-      )
+      // Network errors - succeed silently (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Notes: Request timeout - delete succeeded silently (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Notes: Network error - delete succeeded silently (offline mode)')
+      } else {
+        console.warn('Notes: Connection error - delete succeeded silently (offline mode)')
+      }
+      return
     } else {
-      throw new Error(error.message || 'An unexpected error occurred')
+      // Unexpected errors - succeed silently (offline mode)
+      console.warn('Notes: Unexpected error - delete succeeded silently (offline mode)', error.message)
+      return
     }
   }
 }

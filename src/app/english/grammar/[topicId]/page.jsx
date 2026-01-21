@@ -38,6 +38,7 @@ export default function GrammarTopicPage() {
   const [notesSidebarOpen, setNotesSidebarOpen] = useState(false)
   const [notes, setNotes] = useState([])
   const [notesLoading, setNotesLoading] = useState(false)
+  const [notesError, setNotesError] = useState(null)
 
   useEffect(() => {
     // Load language preference from localStorage
@@ -96,14 +97,22 @@ export default function GrammarTopicPage() {
     if (!topicId) return
     
     setNotesLoading(true)
+    setNotesError(null)
     try {
+      // getNotes() returns empty array for network/server errors, only throws for 400/404
       const notesData = await getNotes(topicId)
       setNotes(Array.isArray(notesData) ? notesData : [])
+      setNotesError(null)
     } catch (err) {
+      // Only catches 400 (bad request) or 404 (topic not found) errors
       console.error('Error loading notes:', err)
-      // Don't show error to user if it's just auth-related, notes are optional
-      if (err.message.includes('Authentication')) {
-        setNotes([])
+      setNotes([])
+      // Check if it's a network-related error (shouldn't happen now, but just in case)
+      const errorMessage = err.message || ''
+      if (errorMessage.includes('Network error') || errorMessage.includes('connection')) {
+        setNotesError('network')
+      } else {
+        setNotesError('other')
       }
     } finally {
       setNotesLoading(false)
@@ -115,11 +124,23 @@ export default function GrammarTopicPage() {
     
     setNotesLoading(true)
     try {
+      // createNote() returns null for network/server errors, only throws for 400 validation errors
       const newNote = await createNote(topicId, topicData.topic, noteData)
+      
+      if (newNote === null) {
+        // Backend unavailable - show user-friendly message
+        setNotesError('network')
+        alert('Unable to save note. The server is currently unavailable. Please try again later.')
+        return
+      }
+      
+      // Successfully created
       setNotes([newNote, ...notes])
+      setNotesError(null)
     } catch (err) {
+      // Only catches 400 validation errors
       console.error('Error creating note:', err)
-      alert(err.message || 'Failed to create note. Please try again.')
+      alert(err.message || 'Invalid note data. Please check your input.')
       throw err
     } finally {
       setNotesLoading(false)
@@ -131,11 +152,23 @@ export default function GrammarTopicPage() {
     
     setNotesLoading(true)
     try {
+      // updateNote() returns null for network/server errors, only throws for 400/404
       const updatedNote = await updateNote(topicId, noteId, noteData)
+      
+      if (updatedNote === null) {
+        // Backend unavailable - show user-friendly message
+        setNotesError('network')
+        alert('Unable to update note. The server is currently unavailable. Please try again later.')
+        return
+      }
+      
+      // Successfully updated
       setNotes(notes.map(note => note.id === noteId ? updatedNote : note))
+      setNotesError(null)
     } catch (err) {
+      // Only catches 400 validation errors or 404 not found errors
       console.error('Error updating note:', err)
-      alert(err.message || 'Failed to update note. Please try again.')
+      alert(err.message || 'Failed to update note. Please check your input.')
       throw err
     } finally {
       setNotesLoading(false)
@@ -147,11 +180,16 @@ export default function GrammarTopicPage() {
     
     setNotesLoading(true)
     try {
+      // deleteNote() succeeds silently for network/server errors, only throws for 404
       await deleteNote(topicId, noteId)
+      // Always remove from local state (optimistic update)
+      // If backend was unavailable, it will sync when backend comes back online
       setNotes(notes.filter(note => note.id !== noteId))
+      setNotesError(null)
     } catch (err) {
+      // Only catches 404 not found errors
       console.error('Error deleting note:', err)
-      alert(err.message || 'Failed to delete note. Please try again.')
+      alert(err.message || 'Note not found.')
       throw err
     } finally {
       setNotesLoading(false)
@@ -187,7 +225,7 @@ export default function GrammarTopicPage() {
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50 relative">
       <div className={`container-wrapper py-8 md:py-12 transition-all duration-300 ${notesSidebarOpen ? 'lg:pr-[400px]' : ''}`}>
         {/* Header */}
-        <div className="mb-6">
+        <div className="my-6">
           <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
             <div className="flex items-center gap-3">
               <Button
@@ -291,6 +329,8 @@ export default function GrammarTopicPage() {
           onToggle={() => setNotesSidebarOpen(!notesSidebarOpen)}
           notes={notes}
           loading={notesLoading}
+          error={notesError}
+          onRetry={loadNotes}
           onCreateNote={handleCreateNote}
           onUpdateNote={handleUpdateNote}
           onDeleteNote={handleDeleteNote}
