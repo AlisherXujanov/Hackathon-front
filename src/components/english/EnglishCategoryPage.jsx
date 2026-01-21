@@ -46,10 +46,10 @@ export default function EnglishCategoryPage({
   }, [categoryLogic.paginatedItems, topicCardPropsMapper, handleTopicClick])
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen relative">
+    <div className="w-full overflow-x-hidden relative">
       {/* Subtle Background Gradient */}
-      <div className="fixed inset-0 bg-gradient-to-br from-gray-50 via-white to-gray-50/80 pointer-events-none" />
-      <div className="fixed inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(109,40,217,0.03),transparent_50%),radial-gradient(circle_at_70%_80%,rgba(212,175,55,0.03),transparent_50%)] pointer-events-none" />
+      <div className="absolute inset-0 bg-gradient-to-br from-gray-50 via-white to-gray-50/80 pointer-events-none" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_20%,rgba(109,40,217,0.03),transparent_50%),radial-gradient(circle_at_70%_80%,rgba(212,175,55,0.03),transparent_50%)] pointer-events-none" />
       
       <div className="relative z-10">
         <div className="container-wrapper py-8 md:py-12 lg:py-16">
@@ -117,6 +117,6 @@ export default function EnglishCategoryPage({
           )}
         </div>
       </div>
-    </main>
+    </div>
   )
 }
