@@ -14,6 +14,7 @@ import GrammarExamples from '../../../../components/english/grammar/GrammarExamp
 import GrammarCommonMistakes from '../../../../components/english/grammar/GrammarCommonMistakes'
 import GrammarPractice from '../../../../components/english/grammar/GrammarPractice'
 import GrammarReview from '../../../../components/english/grammar/GrammarReview'
+import FloatingAIAssistant from '../../../../components/FloatingAIAssistant'
 import { HiHome } from 'react-icons/hi'
 import { SECTIONS, STORAGE_KEYS, DEFAULT_LANGUAGE } from '../../../../constants/grammarConstants'
 import { getDifficultyLabel, getDifficultyColor } from '../../../../utils/english/grammarUtils'
@@ -179,6 +180,15 @@ export default function GrammarTopicPage() {
             <GrammarReview topic={topicData} language={language} />
           )}
         </div>
+
+        {/* Floating AI Assistant */}
+        <FloatingAIAssistant
+          subjectName="English Grammar"
+          topicName={topicData.topic}
+          category="grammar"
+          description={`Grammar practice interface for ${topicData.level?.toUpperCase() || 'English'} level students studying the topic: "${topicData.topic}". ${topicData.difficulty ? `Difficulty level: ${topicData.difficulty}. ` : ''}Currently viewing the "${activeSection}" section. ${topicData.estimated_hours ? `Estimated study time: ${topicData.estimated_hours} hours.` : ''}Language preference: ${language === 'en' ? 'English' : language === 'ru' ? 'Russian' : 'Uzbek'}.`}
+          buttonLabel="AI Helper"
+        />
       </div>
     </main>
   )

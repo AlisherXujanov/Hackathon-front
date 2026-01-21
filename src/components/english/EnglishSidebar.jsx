@@ -103,6 +103,7 @@ export default function EnglishSidebar() {
 
       {/* Sidebar */}
       <aside
+        data-sidebar="true"
         className={`
           ${styles.sidebar}
           fixed lg:sticky top-0 left-0 h-screen lg:h-[calc(100vh-5rem)]

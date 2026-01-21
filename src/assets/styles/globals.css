@@ -105,3 +105,12 @@
     @apply -translate-y-1;
   }
 }
+
+/* Modal open state - Darken and blur Header and Sidebar to match backdrop */
+body.ai-modal-open [data-header="true"],
+body.ai-modal-open [data-sidebar="true"] {
+  position: relative;
+  box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.6);
+  filter: blur(4px);
+  transition: box-shadow 0.3s ease-out, filter 0.3s ease-out;
+}
