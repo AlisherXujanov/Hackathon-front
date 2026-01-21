@@ -102,23 +102,23 @@ export default function Home() {
         <div className="absolute top-20 right-10 w-40 h-40 bg-primary-200/20 rounded-full blur-3xl animate-float" />
         
 
-        <div className="relative container-wrapper py-16">
+        <div className="relative container-wrapper pt-24 pb-16 sm:pt-28">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center min-h-[70vh]">
             {/* Left Content */}
             <div className="text-center lg:text-left space-y-5 animate-fade-up">
-              <div className="inline-flex items-center px-4 py-2 bg-primary-100 text-primary-700 rounded-full text-sm font-semibold mt-3">
+              <div className="inline-flex items-center px-4 py-2 bg-primary-100 text-primary-700 rounded-full text-sm font-semibold mt-3 max-w-full">
                 <span className="text-lg mr-2">🎓</span>
-                <span>Premium Education Platform</span>
+                <span className="break-words">Premium Education Platform</span>
               </div>
               
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-snug">
+              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-snug break-words">
                 Your Gateway to
                 <span className="block pb-3 bg-clip-text text-transparent bg-gradient-to-r from-primary-600 via-accent-600 to-secondary-600">
                   Digital Excellence
                 </span>
               </h1>
               
-              <p className="text-xl text-gray-600 leading-relaxed max-w-2xl">
+              <p className="text-xl text-gray-600 leading-relaxed max-w-2xl break-words">
                 Transform your learning journey with cutting-edge courses, interactive practice, and personalized AI-powered guidance. Join thousands of successful students worldwide.
               </p>
               
@@ -136,7 +136,7 @@ export default function Home() {
                 </Button>
               </div>
               
-              <div className="inline-flex flex-wrap items-center gap-6 rounded-2xl border border-white/60 bg-white/70 px-6 py-4 shadow-lg shadow-primary-100/40 backdrop-blur">
+              <div className="grid grid-cols-2 gap-4 rounded-2xl border border-white/60 bg-white/70 px-6 py-4 shadow-lg shadow-primary-100/40 backdrop-blur md:inline-flex md:grid-cols-none md:items-center md:gap-6">
                 <div className="relative">
                   <div className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary-700 to-secondary-600">10K+</div>
                   <div className="text-sm font-semibold text-gray-700">Active Students</div>
@@ -147,7 +147,7 @@ export default function Home() {
                   <div className="text-sm font-semibold text-gray-700">Success Rate</div>
                 </div>
                 <div className="hidden h-10 w-px bg-gradient-to-b from-transparent via-primary-200 to-transparent md:block" />
-                <div className="relative">
+                <div className="relative col-span-2 text-center md:col-span-1 md:text-left">
                   <div className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-accent-600 to-primary-600">50+</div>
                   <div className="text-sm font-semibold text-gray-700">Expert Courses</div>
                 </div>
@@ -158,26 +158,28 @@ export default function Home() {
             <div className="relative animate-fade-up" style={{ animationDelay: '0.3s' }}>
               <div className="relative z-10">
                 {/* Overlay Cards */}
-                <div className="absolute -top-6 -right-6 bg-white rounded-2xl shadow-xl p-4 animate-float">
-                  <div className="flex items-center space-x-3">
-                    <div className="w-12 h-12 bg-gradient-to-br from-primary-500 to-primary-600 rounded-xl flex items-center justify-center">
-                      <HiAcademicCap className="w-6 h-6 text-white" />
-                    </div>
-                    <div>
-                      <div className="font-bold text-gray-900">Expert Led</div>
-                      <div className="text-sm text-gray-600">Professional Courses</div>
+                <div className="static mt-4 flex flex-col gap-4 md:absolute md:top-0 md:right-0 md:mt-0">
+                  <div className="bg-white rounded-2xl shadow-xl p-4 animate-float">
+                    <div className="flex items-center space-x-3 min-w-0">
+                      <div className="w-12 h-12 bg-gradient-to-br from-primary-500 to-primary-600 rounded-xl flex items-center justify-center">
+                        <HiAcademicCap className="w-6 h-6 text-white" />
+                      </div>
+                      <div className="min-w-0">
+                        <div className="font-bold text-gray-900 truncate">Expert Led</div>
+                        <div className="text-sm text-gray-600 truncate">Professional Courses</div>
+                      </div>
                     </div>
                   </div>
-                </div>
-                
-                <div className="absolute bottom-6 left-6 bg-white rounded-2xl shadow-xl p-4 animate-float" style={{ animationDelay: '2s' }}>
-                  <div className="flex items-center space-x-3">
-                    <div className="w-12 h-12 bg-gradient-to-br from-secondary-500 to-secondary-600 rounded-xl flex items-center justify-center">
-                      <HiUsers className="w-6 h-6 text-white" />
-                    </div>
-                    <div>
-                      <div className="font-bold text-gray-900">Community</div>
-                      <div className="text-sm text-gray-600">Learn Together</div>
+
+                  <div className="bg-white rounded-2xl shadow-xl p-4 animate-float" style={{ animationDelay: '2s' }}>
+                    <div className="flex items-center space-x-3 min-w-0">
+                      <div className="w-12 h-12 bg-gradient-to-br from-secondary-500 to-secondary-600 rounded-xl flex items-center justify-center">
+                        <HiUsers className="w-6 h-6 text-white" />
+                      </div>
+                      <div className="min-w-0">
+                        <div className="font-bold text-gray-900 truncate">Community</div>
+                        <div className="text-sm text-gray-600 truncate">Learn Together</div>
+                      </div>
                     </div>
                   </div>
                 </div>

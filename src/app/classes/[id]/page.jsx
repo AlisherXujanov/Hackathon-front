@@ -35,7 +35,7 @@ export default function ClassDetailPage({ params }) {
         <div className="absolute bottom-20 left-10 h-44 w-44 rounded-full bg-blue-200/40 blur-3xl animate-pulse" />
         <div className="absolute inset-x-0 top-0 h-64 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.18),_transparent_60%)]" />
       </div>
-      <div className="container-wrapper relative pt-22 pb-10 md:pt-24 md:pb-14">
+      <div className="container-wrapper relative pt-24 pb-10 sm:pt-28 md:pt-28 md:pb-14">
         <div className="relative mb-10 md:mb-12">
           <div className="relative flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6">
             <ScrollAnimation>
@@ -43,10 +43,10 @@ export default function ClassDetailPage({ params }) {
                 <span className="inline-flex items-center rounded-full bg-emerald-100 text-emerald-700 text-xs font-semibold px-3 py-1 mb-4 tracking-wide">
                   Cohort Overview
                 </span>
-                <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold mb-3 text-slate-900 font-display">
+                <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold mb-3 text-slate-900 font-display break-words">
                   Class Details
                 </h1>
-                <p className="text-slate-600 text-lg md:text-xl leading-relaxed font-accent">
+                <p className="text-slate-600 text-lg md:text-xl leading-relaxed font-accent break-words">
                   Manage your learning space, monitor performance, and keep progress steady with clear insights.
                 </p>
                 <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-slate-500">
@@ -56,12 +56,12 @@ export default function ClassDetailPage({ params }) {
               </div>
             </ScrollAnimation>
             <ScrollAnimation delay={150}>
-              <div className="flex items-center gap-3">
+              <div className="flex w-full flex-col gap-3 sm:w-auto sm:flex-row sm:items-center sm:justify-end">
                 <Badge variant="primary" className="flex items-center space-x-2 px-4 py-2">
                   <HiKey className="w-4 h-4" />
                   <span>Invite Code: ABC123</span>
                 </Badge>
-                <div className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm text-slate-600">
+                <div className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-4 py-2 text-sm text-slate-600 w-full sm:w-auto">
                   <HiClock className="h-4 w-4" />
                   Next session in 2 days
                 </div>
@@ -149,17 +149,17 @@ export default function ClassDetailPage({ params }) {
                 <HiUsers className="w-6 h-6 text-emerald-600" />
                 <h3 className="text-xl md:text-2xl font-semibold font-display">Students</h3>
               </div>
-              <div className="flex flex-wrap items-center gap-3 mb-5">
-                <div className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-3 py-2 text-sm text-slate-600">
+              <div className="flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center gap-3 mb-5">
+                <div className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-3 py-2 text-sm text-slate-600 w-full sm:w-auto">
                   <HiSearch className="h-4 w-4" />
                   <input
                     value={query}
                     onChange={(event) => setQuery(event.target.value)}
-                    className="bg-transparent outline-none placeholder:text-slate-400"
+                    className="bg-transparent outline-none placeholder:text-slate-400 w-full min-w-0"
                     placeholder="Search students"
                   />
                 </div>
-                <div className="flex items-center gap-2 rounded-full border border-slate-200 bg-white/80 px-3 py-2 text-sm text-slate-600">
+                <div className="flex flex-wrap items-center gap-2 rounded-2xl border border-slate-200 bg-white/80 px-3 py-2 text-sm text-slate-600 w-full sm:w-auto">
                   <HiFilter className="h-4 w-4" />
                   {['All', 'On track', 'Excellent', 'Needs help'].map((status) => (
                     <button
@@ -181,13 +181,13 @@ export default function ClassDetailPage({ params }) {
                 {filteredStudents.map((student, index) => (
                   <div
                     key={student.id}
-                    className="flex justify-between items-center p-4 bg-white/70 rounded-xl border border-white/70 hover:bg-white transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
+                    className="flex flex-col sm:flex-row sm:justify-between sm:items-center items-start gap-3 p-4 bg-white/70 rounded-xl border border-white/70 hover:bg-white transition-all duration-300 hover:-translate-y-0.5 hover:shadow-lg"
                   >
                     <div>
                       <p className="font-medium text-slate-900">{student.name}</p>
                       <p className="text-xs text-slate-500">Active in discussion thread #{index + 1}</p>
                     </div>
-                    <div className="flex items-center space-x-3">
+                    <div className="flex flex-wrap items-center gap-2 justify-end w-full sm:w-auto">
                       <div className="w-24 h-2 bg-slate-200 rounded-full overflow-hidden">
                         <div
                           className="h-full bg-gradient-to-r from-emerald-500 to-cyan-400 transition-all"
