@@ -27,27 +27,30 @@ const Footer = () => {
   }
 
   return (
-    <footer className="bg-gray-900 text-gray-300 border-t border-gray-800">
-      <div className="container-wrapper py-12 md:py-16">
+    <footer className="relative overflow-hidden bg-gradient-to-br from-gray-950 via-gray-900 to-slate-900 text-gray-300 border-t border-gray-800">
+      <div className="absolute inset-0 opacity-40" style={{
+        backgroundImage: 'radial-gradient(circle at 20% 20%, rgba(99, 102, 241, 0.15), transparent 45%), radial-gradient(circle at 80% 10%, rgba(14, 116, 144, 0.18), transparent 40%)'
+      }} />
+      <div className="relative container-wrapper py-14 md:py-18">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-1">
-            <Link href="/" className="flex items-center space-x-2 mb-4 group">
-              <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary-600 to-accent-600 flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:shadow-xl transition-shadow">
+            <Link href="/" className="flex items-center space-x-3 mb-4 group">
+              <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-primary-500 via-secondary-500 to-accent-500 flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105">
                 U
               </div>
-              <span className="text-xl font-bold text-white">UnitSchool</span>
+              <span className="text-2xl font-bold text-white">UnitSchool</span>
             </Link>
-            <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-              Comprehensive learning platform for English and Programming education.
+            <p className="text-sm text-gray-400 mb-5 leading-relaxed">
+              Comprehensive learning platform for English and Programming education, designed to help you grow faster.
             </p>
-            <div className="flex flex-col space-y-2 text-sm">
-              <div className="flex items-center space-x-2">
-                <HiMail className="w-4 h-4" />
+            <div className="space-y-2 text-sm">
+              <div className="flex items-center space-x-2 text-gray-300">
+                <HiMail className="w-4 h-4 text-primary-300" />
                 <span>support@unitschool.com</span>
               </div>
-              <div className="flex items-center space-x-2">
-                <HiPhone className="w-4 h-4" />
+              <div className="flex items-center space-x-2 text-gray-300">
+                <HiPhone className="w-4 h-4 text-secondary-300" />
                 <span>+1 (555) 123-4567</span>
               </div>
             </div>
@@ -56,7 +59,7 @@ const Footer = () => {
           {/* Platform Links */}
           <div>
             <h3 className="text-white font-semibold mb-4 flex items-center">
-              <HiAcademicCap className="w-5 h-5 mr-2" />
+              <HiAcademicCap className="w-5 h-5 mr-2 text-primary-300" />
               Platform
             </h3>
             <ul className="space-y-2">
@@ -64,7 +67,7 @@ const Footer = () => {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="text-sm hover:text-white transition-colors"
+                    className="text-sm text-gray-400 hover:text-white transition-colors"
                   >
                     {link.label}
                   </Link>
@@ -81,7 +84,7 @@ const Footer = () => {
                 <li key={link.href}>
                   <Link
                     href={link.href}
-                    className="text-sm hover:text-white transition-colors"
+                    className="text-sm text-gray-400 hover:text-white transition-colors"
                   >
                     {link.label}
                   </Link>
@@ -91,35 +94,54 @@ const Footer = () => {
           </div>
 
           {/* Support Links */}
-          <div>
-            <h3 className="text-white font-semibold mb-4">Support</h3>
-            <ul className="space-y-2">
-              {footerLinks.support.map((link) => (
-                <li key={link.href}>
-                  <Link
-                    href={link.href}
-                    className="text-sm hover:text-white transition-colors"
-                  >
-                    {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
+          <div className="space-y-4">
+            <div>
+              <h3 className="text-white font-semibold mb-4">Support</h3>
+              <ul className="space-y-2">
+                {footerLinks.support.map((link) => (
+                  <li key={link.href}>
+                    <Link
+                      href={link.href}
+                      className="text-sm text-gray-400 hover:text-white transition-colors"
+                    >
+                      {link.label}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div className="rounded-2xl border border-white/10 bg-white/5 p-4 backdrop-blur">
+              <p className="text-sm font-semibold text-white mb-2">Get the latest updates</p>
+              <p className="text-xs text-gray-400 mb-3">Weekly tips and product news in your inbox.</p>
+              <div className="flex items-center rounded-full border border-white/10 bg-gray-900/80 px-3 py-2">
+                <input
+                  type="email"
+                  placeholder="Email address"
+                  className="flex-1 bg-transparent text-xs text-gray-200 placeholder:text-gray-500 focus:outline-none"
+                />
+                <button className="ml-2 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 px-3 py-1 text-xs font-semibold text-white shadow-sm transition-transform duration-300 hover:-translate-y-0.5">
+                  Join
+                </button>
+              </div>
+            </div>
           </div>
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-12 pt-8 border-t border-gray-800">
-          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+        <div className="mt-12 pt-8 border-t border-gray-800/80">
+          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-sm text-gray-400">
               © {currentYear} UnitSchool. All rights reserved.
             </p>
-            <div className="flex space-x-6 text-sm">
-              <Link href="#" className="hover:text-white transition-colors">
+            <div className="flex flex-wrap justify-center gap-4 text-sm">
+              <Link href="#" className="text-gray-400 hover:text-white transition-colors">
                 Privacy Policy
               </Link>
-              <Link href="#" className="hover:text-white transition-colors">
+              <Link href="#" className="text-gray-400 hover:text-white transition-colors">
                 Terms of Service
+              </Link>
+              <Link href="#" className="text-gray-400 hover:text-white transition-colors">
+                Contact
               </Link>
             </div>
           </div>
