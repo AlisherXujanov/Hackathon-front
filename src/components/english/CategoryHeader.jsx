@@ -1,7 +1,7 @@
 'use client'
 
 import ScrollAnimation from '../ScrollAnimation'
-import LevelSelector from './LevelSelector'
+import CustomLevelSelector from './CustomLevelSelector'
 
 export default function CategoryHeader({ icon: Icon, title, description, color, levelSelector }) {
   return (
@@ -16,11 +16,10 @@ export default function CategoryHeader({ icon: Icon, title, description, color, 
         
         {/* Level Selector - Top Right */}
         {levelSelector && (
-          <div className="absolute top-4 right-4 md:top-6 md:right-6 lg:top-8 lg:right-8 z-10">
-            <LevelSelector
+          <div className="absolute top-4 right-4 md:top-6 md:right-6 lg:top-8 lg:right-8 z-20">
+            <CustomLevelSelector
               value={levelSelector.value}
               onChange={levelSelector.onChange}
-              className="mb-0"
               compact={true}
             />
           </div>
