@@ -1,0 +1,47 @@
+{
+  "title": "Xaridingizni yakunlang",
+  "subtitle": "Sanoatda yetakchi bo'lgan shifrlash bilan xavfsiz to'lov",
+  "orderSummary": {
+    "title": "Buyurtma xulosasi",
+    "plan": "Reja",
+    "billing": "To'lov",
+    "monthly": "Oylik",
+    "total": "Jami",
+    "tax": "Soliq kiritilgan"
+  },
+  "paymentMethod": {
+    "title": "To'lov usuli",
+    "card": "Kredit yoki Debet karta",
+    "cardNumber": "Karta raqami",
+    "cardNumberPlaceholder": "1234 5678 9012 3456",
+    "expiryDate": "Muddati",
+    "expiryPlaceholder": "OO/YY",
+    "cvv": "CVV",
+    "cvvPlaceholder": "123",
+    "cardholderName": "Karta egasi ismi",
+    "cardholderPlaceholder": "Ali Valiyev"
+  },
+  "billingInfo": {
+    "title": "To'lov ma'lumotlari",
+    "email": "Email manzili",
+    "emailPlaceholder": "sizning.email@example.com",
+    "country": "Mamlakat",
+    "countryPlaceholder": "Mamlakatni tanlang"
+  },
+  "security": {
+    "title": "Xavfsiz to'lov",
+    "description": "To'lov ma'lumotlaringiz shifrlangan va xavfsiz. Biz hech qachon karta ma'lumotlaringizni to'liq saqlamaymiz."
+  },
+  "actions": {
+    "back": "Rejalarga qaytish",
+    "complete": "Xaridni yakunlash",
+    "processing": "Qayta ishlanmoqda..."
+  },
+  "errors": {
+    "cardNumber": "Iltimos, to'g'ri karta raqamini kiriting",
+    "expiryDate": "Iltimos, to'g'ri muddatni kiriting",
+    "cvv": "Iltimos, to'g'ri CVV ni kiriting",
+    "cardholderName": "Iltimos, karta egasi ismini kiriting",
+    "email": "Iltimos, to'g'ri email manzilini kiriting"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Complete Your Purchase",
+  "subtitle": "Secure payment powered by industry-leading encryption",
+  "orderSummary": {
+    "title": "Order Summary",
+    "plan": "Plan",
+    "billing": "Billing",
+    "monthly": "Monthly",
+    "total": "Total",
+    "tax": "Tax included"
+  },
+  "paymentMethod": {
+    "title": "Payment Method",
+    "card": "Credit or Debit Card",
+    "cardNumber": "Card Number",
+    "cardNumberPlaceholder": "1234 5678 9012 3456",
+    "expiryDate": "Expiry Date",
+    "expiryPlaceholder": "MM/YY",
+    "cvv": "CVV",
+    "cvvPlaceholder": "123",
+    "cardholderName": "Cardholder Name",
+    "cardholderPlaceholder": "John Doe"
+  },
+  "billingInfo": {
+    "title": "Billing Information",
+    "email": "Email Address",
+    "emailPlaceholder": "your.email@example.com",
+    "country": "Country",
+    "countryPlaceholder": "Select country"
+  },
+  "security": {
+    "title": "Secure Payment",
+    "description": "Your payment information is encrypted and secure. We never store your full card details."
+  },
+  "actions": {
+    "back": "Back to Plans",
+    "complete": "Complete Purchase",
+    "processing": "Processing..."
+  },
+  "errors": {
+    "cardNumber": "Please enter a valid card number",
+    "expiryDate": "Please enter a valid expiry date",
+    "cvv": "Please enter a valid CVV",
+    "cardholderName": "Please enter cardholder name",
+    "email": "Please enter a valid email address"
+  }
+}

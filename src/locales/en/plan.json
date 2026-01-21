@@ -1,0 +1,61 @@
+{
+  "title": "Choose Your Plan",
+  "subtitle": "Unlock premium features and accelerate your learning journey",
+  "free": {
+    "name": "Free",
+    "price": "$0",
+    "period": "forever",
+    "description": "Perfect for getting started",
+    "features": [
+      "Basic AI requests",
+      "Standard learning materials",
+      "Community support",
+      "Limited access to features"
+    ],
+    "cta": "Current Plan"
+  },
+  "pro": {
+    "name": "Pro",
+    "price": "$5",
+    "period": "per month",
+    "description": "For serious learners",
+    "popular": "Most Popular",
+    "features": [
+      "10x more AI requests",
+      "Priority AI responses",
+      "Advanced learning analytics",
+      "Unlimited practice sessions",
+      "Early access to new features",
+      "Priority support"
+    ],
+    "cta": "Get Started"
+  },
+  "plus": {
+    "name": "Plus",
+    "price": "$20",
+    "period": "per month",
+    "description": "Ultimate learning experience",
+    "popular": "Best Value",
+    "features": [
+      "Unlimited AI requests",
+      "Access to GPT-5 and advanced models",
+      "Personalized AI tutor",
+      "Advanced analytics dashboard",
+      "Custom learning paths",
+      "1-on-1 mentorship sessions",
+      "Exclusive content library",
+      "24/7 priority support"
+    ],
+    "cta": "Get Started"
+  },
+  "compare": {
+    "title": "Compare Plans",
+    "features": {
+      "aiRequests": "AI Requests",
+      "aiModels": "AI Models",
+      "analytics": "Analytics",
+      "support": "Support",
+      "content": "Content Access"
+    }
+  }
+}
