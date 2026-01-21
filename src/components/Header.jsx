@@ -43,8 +43,8 @@ const Header = () => {
       className={`
         fixed top-0 left-0 right-0 z-50
         transition-all duration-300
-        ${isScrolled 
-          ? 'bg-white/95 backdrop-blur-md shadow-sm border-b border-gray-100' 
+        ${isScrolled
+          ? 'bg-white/95 backdrop-blur-md shadow-sm border-b border-gray-100'
           : 'bg-white/90 backdrop-blur-sm'
         }
       `}
@@ -97,7 +97,7 @@ const Header = () => {
               <div className="hidden md:flex items-center space-x-2">
                 <Link href="/auth/login">
                   <Button variant="secondary" size="sm">
-             iUse   Login
+                    Login
                   </Button>
                 </Link>
                 <Link href="/auth/register">

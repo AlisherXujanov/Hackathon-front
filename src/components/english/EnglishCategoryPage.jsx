@@ -66,7 +66,7 @@ export default function EnglishCategoryPage({
               <div className="w-full border-t border-gray-200"></div>
             </div>
             <div className="relative flex justify-center">
-              <div className="bg-white px-4">
+              <div className="px-4">
                 <LevelSelector
                   value={categoryLogic.selectedLevel}
                   onChange={categoryLogic.handleLevelChange}
