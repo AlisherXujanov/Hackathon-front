@@ -1,0 +1,763 @@
+{
+    "id": "A2_HOW_MUCH_HOW_MANY_AND_VERY_COMMON_UNCOUNTABLE_NOUNS_-_QUANTITY_QUESTIONS",
+    "title": "How much/how many and very common uncountable nouns - Quantity questions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How much books do you have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many book do you have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many books do you have?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'How many' for countable nouns like 'books.'",
+                "ru": "Используйте 'How many' для исчисляемых существительных, таких как 'books'.",
+                "uz": "'How many' so'zini 'books' kabi sanaladigan otlar uchun ishlating."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How much money do you need?",
+                    "correct": true
+                },
+                {
+                    "answer": "How many money do you need?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many moneys do you need?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Money is an uncountable noun, so we use 'How much'.",
+                "ru": "Слово 'money' является неисчисляемым существительным, поэтому мы используем 'How much'.",
+                "uz": "'Money' sanalmaydigan ot bo'lgani uchun 'How much' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There are too many water in the glass.",
+                    "correct": false
+                },
+                {
+                    "answer": "There is too much water in the glass.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is too many water in the glass.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Water' is an uncountable noun, so we use 'too much'.",
+                "ru": "'Water' — это неисчисляемое существительное, поэтому мы используем 'too much'.",
+                "uz": "'Water' sanalmaydigan ot, shuning uchun 'too much' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is correct?",
+                "ru": "Какой вопрос правильный?",
+                "uz": "Qaysi savol to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How much informations do you have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many information do you have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How much information do you have?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Information' is an uncountable noun. It does not have a plural form.",
+                "ru": "'Information' — неисчисляемое существительное. Оно не имеет формы множественного числа.",
+                "uz": "'Information' sanalmaydigan ot. Uning ko'plik shakli yo'q."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have so much friends.",
+                    "correct": false
+                },
+                {
+                    "answer": "I have so many friends.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have so many friend.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Friends' is a countable noun, so 'many' is the correct determiner.",
+                "ru": "'Friends' — это исчисляемое существительное, поэтому 'many' — правильный определитель.",
+                "uz": "'Friends' sanaladigan ot, shuning uchun 'many' to'g'ri determinativ hisoblanadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is grammatically correct?",
+                "ru": "Какой вопрос грамматически верный?",
+                "uz": "Qaysi savol grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How much sugar do you want?",
+                    "correct": true
+                },
+                {
+                    "answer": "How many sugar do you want?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many sugars do you want?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Sugar is an uncountable noun, so we use 'How much'.",
+                "ru": "Слово 'sugar' является неисчисляемым существительным, поэтому мы используем 'How much'.",
+                "uz": "'Sugar' sanalmaydigan ot, shuning uchun 'How much' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct phrase.",
+                "ru": "Выберите правильную фразу.",
+                "uz": "To'g'ri iborani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "many luggages",
+                    "correct": false
+                },
+                {
+                    "answer": "much luggages",
+                    "correct": false
+                },
+                {
+                    "answer": "much luggage",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Luggage' is an uncountable noun. It is never used in the plural form.",
+                "ru": "'Luggage' — это неисчисляемое существительное. Оно никогда не используется во множественном числе.",
+                "uz": "'Luggage' sanalmaydigan ot. U hech qachon ko'plik shaklida ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How many time do we have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How much time do we have?",
+                    "correct": true
+                },
+                {
+                    "answer": "How many times do we have?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Time' is an uncountable noun in this context, so 'How much' is used.",
+                "ru": "В этом контексте 'time' — это неисчисляемое существительное, поэтому используется 'How much'.",
+                "uz": "Bu kontekstda 'time' sanalmaydigan ot, shuning uchun 'How much' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct phrase.",
+                "ru": "Выберите правильную фразу.",
+                "uz": "To'g'ri iborani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "many furnitures",
+                    "correct": false
+                },
+                {
+                    "answer": "much furniture",
+                    "correct": true
+                },
+                {
+                    "answer": "much furnitures",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Furniture' is an uncountable noun. It does not have a plural form.",
+                "ru": "'Furniture' — это неисчисляемое существительное. У него нет формы множественного числа.",
+                "uz": "'Furniture' sanalmaydigan ot. Uning ko'plik shakli yo'q."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is grammatically correct?",
+                "ru": "Какой вопрос грамматически верный?",
+                "uz": "Qaysi savol grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How many peoples are in the room?",
+                    "correct": false
+                },
+                {
+                    "answer": "How much people is in the room?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many people are in the room?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'People' is a plural noun, so we use 'How many'.",
+                "ru": "'People' — это существительное во множественном числе, поэтому мы используем 'How many'.",
+                "uz": "'People' ko'plikdagi ot, shuning uchun 'How many' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There isn't ___ milk in the fridge.",
+                "ru": "Дополните предложение: There isn't ___ milk in the fridge.",
+                "uz": "Gapni to'ldiring: There isn't ___ milk in the fridge."
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Milk is an uncountable noun, so we use 'much' in a negative sentence.",
+                "ru": "Молоко — это неисчисляемое существительное, поэтому мы используем 'much' в отрицательном предложении.",
+                "uz": "Sut sanalmaydigan ot, shuning uchun inkor gapda 'much' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How ___ potatoes do we need for the soup?",
+                "ru": "Дополните предложение: How ___ potatoes do we need for the soup?",
+                "uz": "Gapni to'ldiring: How ___ potatoes do we need for the soup?"
+            },
+            "options": [
+                {
+                    "answer": "many",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Potatoes are countable nouns, so we use 'many'.",
+                "ru": "Слово 'potatoes' — это исчисляемое существительное, поэтому мы используем 'many'.",
+                "uz": "Kartoshkalar sanaladigan ot, shuning uchun 'many' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I don't have ___ time to finish this.",
+                "ru": "Дополните предложение: I don't have ___ time to finish this.",
+                "uz": "Gapni to'ldiring: I don't have ___ time to finish this."
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Time is an uncountable noun in this context, so we use 'much'.",
+                "ru": "В этом контексте 'time' — неисчисляемое существительное, поэтому используется 'much'.",
+                "uz": "Bu kontekstda 'time' sanalmaydigan ot bo'lgani uchun 'much' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He has so ___ homework to do.",
+                "ru": "Дополните предложение: He has so ___ homework to do.",
+                "uz": "Gapni to'ldiring: He has so ___ homework to do."
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Homework is an uncountable noun in English, so 'much' is used.",
+                "ru": "'Homework' — это неисчисляемое существительное в английском, поэтому используется 'much'.",
+                "uz": "Ingliz tilida 'homework' sanalmaydigan ot, shuning uchun 'much' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There were too ___ people at the concert.",
+                "ru": "Дополните предложение: There were too ___ people at the concert.",
+                "uz": "Gapni to'ldiring: There were too ___ people at the concert."
+            },
+            "options": [
+                {
+                    "answer": "many",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'People' is a plural noun, so 'many' is the correct determiner.",
+                "ru": "'People' — это существительное во множественном числе, поэтому 'many' — правильный определитель.",
+                "uz": "'People' ko'plik ot, shuning uchun 'many' to'g'ri determinativ hisoblanadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How ___ rice do you eat?",
+                "ru": "Дополните предложение: How ___ rice do you eat?",
+                "uz": "Gapni to'ldiring: How ___ rice do you eat?"
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Rice' is an uncountable noun, so we use 'much'.",
+                "ru": "'Rice' — это неисчисляемое существительное, поэтому мы используем 'much'.",
+                "uz": "'Rice' sanalmaydigan ot, shuning uchun 'much' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I have too ___ books to carry.",
+                "ru": "Дополните предложение: I have too ___ books to carry.",
+                "uz": "Gapni to'ldiring: I have too ___ books to carry."
+            },
+            "options": [
+                {
+                    "answer": "many",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Books' is a countable noun, so 'many' is the correct determiner.",
+                "ru": "'Books' — это исчисляемое существительное, поэтому 'many' — правильный определитель.",
+                "uz": "'Books' sanaladigan ot, shuning uchun 'many' to'g'ri determinativ hisoblanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How ___ money do you spend on clothes?",
+                "ru": "Дополните предложение: How ___ money do you spend on clothes?",
+                "uz": "Gapni to'ldiring: How ___ money do you spend on clothes?"
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Money' is an uncountable noun in English, so 'much' is used.",
+                "ru": "'Money' — это неисчисляемое существительное в английском, поэтому используется 'much'.",
+                "uz": "'Money' ingliz tilida sanalmaydigan ot, shuning uchun 'much' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How ___ children does she have?",
+                "ru": "Дополните предложение: How ___ children does she have?",
+                "uz": "Gapni to'ldiring: How ___ children does she have?"
+            },
+            "options": [
+                {
+                    "answer": "many",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Children' is a plural countable noun, so 'many' is correct.",
+                "ru": "'Children' — это исчисляемое существительное во множественном числе, поэтому 'many' правильно.",
+                "uz": "'Children' ko'plikdagi sanaladigan ot, shuning uchun 'many' to'g'ri."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We need ___ more time for this project.",
+                "ru": "Дополните предложение: We need ___ more time for this project.",
+                "uz": "Gapni to'ldiring: We need ___ more time for this project."
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Time' is an uncountable noun in this sentence, so 'much' is the correct determiner.",
+                "ru": "В этом предложении 'time' — неисчисляемое существительное, поэтому 'much' — правильный определитель.",
+                "uz": "Bu gapda 'time' sanalmaydigan ot, shuning uchun 'much' to'g'ri determinativ hisoblanadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every day, a lot of people go to the market to buy groceries. There is always ___1___ fresh produce. You can find ___2___ different types of vegetables. My mother always asks the vendor, “How ___3___ apples do you have?” She also asks, “How ___4___ does the cheese cost?” The vendor tells her, “The cheese doesn't have ___5___ fat.” My mother also buys ___6___ meat. We need ___7___ meat for the week. My dad wants to know how ___8___ cartons of eggs we have. We don't have ___9___ eggs left, so my mom has to buy more. When we get home, my brother asks, “How ___10___ sugar do we have?” because he wants to bake a cake. We have a lot, so we have ___11___ sugar for the cake.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "many"
+                },
+                {
+                    "blank": "4",
+                    "answer": "much"
+                },
+                {
+                    "blank": "5",
+                    "answer": "much"
+                },
+                {
+                    "blank": "6",
+                    "answer": "much"
+                },
+                {
+                    "blank": "7",
+                    "answer": "much"
+                },
+                {
+                    "blank": "8",
+                    "answer": "many"
+                },
+                {
+                    "blank": "9",
+                    "answer": "many"
+                },
+                {
+                    "blank": "10",
+                    "answer": "much"
+                },
+                {
+                    "blank": "11",
+                    "answer": "much"
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns like 'produce,' 'cheese,' 'fat,' 'meat,' and 'sugar.' 'Many' is used with countable nouns like 'types,' 'apples,' 'cartons,' and 'eggs.'",
+                "ru": "'Much' используется с неисчисляемыми существительными, такими как 'produce', 'cheese', 'fat', 'meat' и 'sugar'. 'Many' используется с исчисляемыми существительными, такими как 'types', 'apples', 'cartons' и 'eggs'.",
+                "uz": "'Much' sanalmaydigan otlar, masalan, 'produce,' 'cheese,' 'fat,' 'meat' va 'sugar' bilan ishlatiladi. 'Many' esa 'types,' 'apples,' 'cartons' va 'eggs' kabi sanaladigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Living in a city like London can be very exciting, but you need to be careful about how ___1___ money you spend. There are ___2___ opportunities to have fun, but also ___3___ people and a lot of noise. When you take the underground, you will see how ___4___ different lines there are. It's difficult to count how ___5___ tourists come every year. The city has a lot of history and so ___6___ famous buildings. One problem is the traffic. There is too ___7___ traffic during rush hour. You might ask, “How ___8___ hours does it take to get to the airport?” The answer is, “It depends on how ___9___ cars are on the road.” If you have a car, you will also need to find out how ___10___ parking spaces are available.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "many"
+                },
+                {
+                    "blank": "4",
+                    "answer": "many"
+                },
+                {
+                    "blank": "5",
+                    "answer": "many"
+                },
+                {
+                    "blank": "6",
+                    "answer": "many"
+                },
+                {
+                    "blank": "7",
+                    "answer": "much"
+                },
+                {
+                    "blank": "8",
+                    "answer": "many"
+                },
+                {
+                    "blank": "9",
+                    "answer": "many"
+                },
+                {
+                    "blank": "10",
+                    "answer": "many"
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with the uncountable noun 'money' and 'traffic.' 'Many' is used with countable nouns like 'opportunities,' 'people,' 'lines,' 'tourists,' 'buildings,' 'hours,' 'cars,' and 'parking spaces.'",
+                "ru": "'Much' используется с неисчисляемыми существительными 'money' и 'traffic'. 'Many' используется с исчисляемыми существительными, такими как 'opportunities', 'people', 'lines', 'tourists', 'buildings', 'hours', 'cars' и 'parking spaces'.",
+                "uz": "'Much' sanalmaydigan otlar 'money' va 'traffic' bilan ishlatiladi. 'Many' esa 'opportunities,' 'people,' 'lines,' 'tourists,' 'buildings,' 'hours,' 'cars' va 'parking spaces' kabi sanaladigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The student was very stressed because he had so ___1___ homework to do. He also had a lot of reading to do, and he wondered how ___2___ words were in the text. He did not have ___3___ time to prepare for the test. He asked his teacher, “How ___4___ information should I remember for this exam?” The teacher told him, “Just focus on the most important points. Don't worry about so ___5___ details.” The student had so ___6___ questions, but the teacher said, “We only have a little time left. How ___7___ more questions can you ask?” The student was relieved when the teacher told him, “Don’t spend too ___8___ energy on worrying.”",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "much"
+                },
+                {
+                    "blank": "4",
+                    "answer": "much"
+                },
+                {
+                    "blank": "5",
+                    "answer": "many"
+                },
+                {
+                    "blank": "6",
+                    "answer": "many"
+                },
+                {
+                    "blank": "7",
+                    "answer": "many"
+                },
+                {
+                    "blank": "8",
+                    "answer": "much"
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns like 'homework,' 'time,' 'information,' and 'energy.' 'Many' is used with countable nouns like 'words,' 'details,' and 'questions.'",
+                "ru": "'Much' используется с неисчисляемыми существительными, такими как 'homework', 'time', 'information' и 'energy'. 'Many' используется с исчисляемыми существительными, такими как 'words', 'details' и 'questions'.",
+                "uz": "'Much' 'homework,' 'time,' 'information' va 'energy' kabi sanalmaydigan otlar bilan ishlatiladi. 'Many' esa 'words,' 'details' va 'questions' kabi sanaladigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family is planning a trip to a city we have never visited. First, we need to know how ___1___ money we should save. We also need to decide how ___2___ days we will stay there. My sister wants to know how ___3___ clothes she should pack, and my dad is concerned about how ___4___ luggage we can take. My mom is checking how ___5___ restaurants are in the area. We also want to know how ___6___ attractions there are. My brother wants to know how ___7___ photos we can take, but our mother says we should enjoy the moment instead of taking too ___8___ photos. This trip requires so ___9___ planning, but we are all very excited. There are so ___10___ places to visit that we don't know where to start.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "many"
+                },
+                {
+                    "blank": "4",
+                    "answer": "much"
+                },
+                {
+                    "blank": "5",
+                    "answer": "many"
+                },
+                {
+                    "blank": "6",
+                    "answer": "many"
+                },
+                {
+                    "blank": "7",
+                    "answer": "many"
+                },
+                {
+                    "blank": "8",
+                    "answer": "many"
+                },
+                {
+                    "blank": "9",
+                    "answer": "much"
+                },
+                {
+                    "blank": "10",
+                    "answer": "many"
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns like 'money,' 'luggage,' and 'planning.' 'Many' is used with countable nouns like 'days,' 'clothes,' 'restaurants,' 'attractions,' 'photos,' and 'places.'",
+                "ru": "'Much' используется с неисчисляемыми существительными 'money', 'luggage' и 'planning'. 'Many' используется с исчисляемыми существительными, такими как 'days', 'clothes', 'restaurants', 'attractions', 'photos' и 'places'.",
+                "uz": "'Much' 'money,' 'luggage' va 'planning' kabi sanalmaydigan otlar bilan ishlatiladi. 'Many' esa 'days,' 'clothes,' 'restaurants,' 'attractions,' 'photos' va 'places' kabi sanaladigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "In the kitchen, we have so ___1___ food. There is a lot of fruit, and my sister asks, “How ___2___ apples are left?” My mom says, “Not ___3___, we need to buy more.” My mom also asks, “How ___4___ juice is in the bottle?” She adds, “We have too ___5___ sugar in our diet.” My dad wants to know how ___6___ guests are coming for dinner. We have a lot of plates, but my mom asks, “Do we have enough cutlery? How ___7___ forks are there?” We don't have ___8___ bread left, so my dad goes to the store. He buys bread and asks, “How ___9___ change do I get back?” The cashier gives him his change and he heads back home. We are ready for dinner now.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "many"
+                },
+                {
+                    "blank": "4",
+                    "answer": "much"
+                },
+                {
+                    "blank": "5",
+                    "answer": "much"
+                },
+                {
+                    "blank": "6",
+                    "answer": "many"
+                },
+                {
+                    "blank": "7",
+                    "answer": "many"
+                },
+                {
+                    "blank": "8",
+                    "answer": "much"
+                },
+                {
+                    "blank": "9",
+                    "answer": "much"
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns like 'food,' 'juice,' 'sugar,' 'bread,' and 'change.' 'Many' is used with countable nouns like 'apples,' 'guests,' and 'forks.'",
+                "ru": "'Much' используется с неисчисляемыми существительными, такими как 'food', 'juice', 'sugar', 'bread' и 'change'. 'Many' используется с исчисляемыми существительными, такими как 'apples', 'guests' и 'forks'.",
+                "uz": "'Much' 'food,' 'juice,' 'sugar,' 'bread' va 'change' kabi sanalmaydigan otlar bilan ishlatiladi. 'Many' esa 'apples,' 'guests' va 'forks' kabi sanaladigan otlar bilan ishlatiladi."
+            }
+        }
+    ]
+}

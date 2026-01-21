@@ -1,0 +1,685 @@
+{
+    "id": "A2_PREPOSITIONS_COMMON_EXPANDING_BEYOND_BASIC_SET",
+    "title": "Prepositions (common) - Expanding beyond basic set",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He lives in the house near the river.",
+                    "correct": true
+                },
+                {
+                    "answer": "He lives to the house near the river."
+                },
+                {
+                    "answer": "He lives on the house near the river."
+                }
+            ],
+            "explanation": {
+                "en": "The preposition 'in' is used to describe location inside a building or area.",
+                "ru": "Предлог 'in' используется для описания местоположения внутри здания или области.",
+                "uz": "'in' predlogi bino yoki hudud ichidagi joylashuvni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They will meet us at the corner of the street.",
+                    "correct": true
+                },
+                {
+                    "answer": "They will meet us on the corner of the street."
+                },
+                {
+                    "answer": "They will meet us to the corner of the street."
+                }
+            ],
+            "explanation": {
+                "en": "The preposition 'at' is used for a specific point or location, such as a street corner.",
+                "ru": "Предлог 'at' используется для обозначения конкретной точки или места, например, угла улицы.",
+                "uz": "'at' predlogi aniq bir nuqta yoki joyni, masalan, ko'cha burchagini bildirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The book is between the lamp and the clock.",
+                    "correct": true
+                },
+                {
+                    "answer": "The book is among the lamp and the clock."
+                },
+                {
+                    "answer": "The book is next the lamp and the clock."
+                }
+            ],
+            "explanation": {
+                "en": "'Between' is used to describe something in the middle of two specific objects.",
+                "ru": "'Between' (между) используется для описания чего-либо, находящегося посередине двух конкретных объектов.",
+                "uz": "'Between' ikki aniq obyektning o'rtasida joylashgan narsani tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is sitting opposite me.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is sitting to opposite me."
+                },
+                {
+                    "answer": "He is sitting against me."
+                }
+            ],
+            "explanation": {
+                "en": "'Opposite' is used to mean facing someone or something else.",
+                "ru": "'Opposite' (напротив) используется в значении 'лицом к лицу' с кем-то или чем-то.",
+                "uz": "'Opposite' kimdir yoki biror narsaga yuzma-yuz turishni anglatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She walked across the bridge.",
+                    "correct": true
+                },
+                {
+                    "answer": "She walked through the bridge."
+                },
+                {
+                    "answer": "She walked along the bridge."
+                }
+            ],
+            "explanation": {
+                "en": "'Across' is used to show movement from one side to the other.",
+                "ru": "'Across' (через) используется для обозначения движения с одной стороны на другую.",
+                "uz": "'Across' bir tomondan ikkinchi tomonga harakatni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The train passed through the tunnel.",
+                    "correct": true
+                },
+                {
+                    "answer": "The train passed into the tunnel."
+                },
+                {
+                    "answer": "The train passed by the tunnel."
+                }
+            ],
+            "explanation": {
+                "en": "'Through' means moving from one side to the other of a confined space.",
+                "ru": "'Through' (сквозь) означает движение из одной стороны в другую в ограниченном пространстве.",
+                "uz": "'Through' tor joyning bir tomonidan ikkinchi tomoniga harakat qilishni anglatadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He put the keys on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "He put the keys at the table."
+                },
+                {
+                    "answer": "He put the keys in the table."
+                }
+            ],
+            "explanation": {
+                "en": "The preposition 'on' is used for placement on a surface.",
+                "ru": "Предлог 'on' используется для обозначения размещения на поверхности.",
+                "uz": "'on' predlogi sirtga joylashtirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She arrived in Paris at 3 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "She arrived on Paris at 3 PM."
+                },
+                {
+                    "answer": "She arrived to Paris at 3 PM."
+                }
+            ],
+            "explanation": {
+                "en": "The preposition 'in' is used for large locations like cities and countries.",
+                "ru": "Предлог 'in' используется для обозначения больших местоположений, таких как города и страны.",
+                "uz": "'in' predlogi shahar va mamlakatlar kabi katta joylarni bildirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The cat is under the chair.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cat is below the chair."
+                },
+                {
+                    "answer": "The cat is beneath the chair."
+                }
+            ],
+            "explanation": {
+                "en": "'Under' is the most common preposition to mean 'beneath' or 'below' something.",
+                "ru": "'Under' (под) - самый распространенный предлог, означающий 'beneath' или 'below' чего-либо.",
+                "uz": "'Under' biror narsaning 'ostida' ekanligini anglatuvchi eng keng tarqalgan predlogdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He lives beside the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "He lives next the park."
+                },
+                {
+                    "answer": "He lives at the park."
+                }
+            ],
+            "explanation": {
+                "en": "'Beside' means next to or at the side of something.",
+                "ru": "'Beside' (рядом) означает 'следующий за' или 'сбоку от' чего-либо.",
+                "uz": "'Beside' yonida yoki biror narsaning yonida degan ma'noni anglatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The keys are ___ the bowl.",
+                "ru": "Дополните предложение правильным предлогом: The keys are ___ the bowl.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The keys are ___ the bowl."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'In' is the correct preposition to describe something inside an object like a bowl.",
+                "ru": "'In' - правильный предлог для описания чего-либо, находящегося внутри такого объекта, как миска.",
+                "uz": "'In' kabi idish ichidagi narsani tasvirlash uchun to'g'ri predlogdir."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: We walked ___ the river, enjoying the view.",
+                "ru": "Дополните предложение правильным предлогом: We walked ___ the river, enjoying the view.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: We walked ___ the river, enjoying the view."
+            },
+            "options": [
+                {
+                    "answer": "along",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Along' is used to describe moving in a line next to something long, like a river.",
+                "ru": "'Along' (вдоль) используется для описания движения по линии рядом с чем-то длинным, например, рекой.",
+                "uz": "'Along' daryo kabi uzun narsaning yonida harakatlanishni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The cat is hiding ___ the table.",
+                "ru": "Дополните предложение правильным предлогом: The cat is hiding ___ the table.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The cat is hiding ___ the table."
+            },
+            "options": [
+                {
+                    "answer": "under",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Under' is used to mean 'below the surface of something,' especially when a person or thing is directly below another.",
+                "ru": "'Under' (под) используется в значении 'ниже поверхности чего-либо', особенно когда человек или вещь находится прямо под другим.",
+                "uz": "'Under' 'biror narsaning yuzasi ostida' degan ma'noni anglatadi, ayniqsa biror shaxs yoki narsa boshqa narsaning to'g'ridan-to'g'ri ostida bo'lganda."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: He stood ___ the crowd.",
+                "ru": "Дополните предложение правильным предлогом: He stood ___ the crowd.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: He stood ___ the crowd."
+            },
+            "options": [
+                {
+                    "answer": "among",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Among' is used to talk about something surrounded by more than two other people or things.",
+                "ru": "'Among' (среди) используется, когда речь идет о чем-то, окруженном более чем двумя другими людьми или вещами.",
+                "uz": "'Among' ikki kishidan yoki narsadan ko'proq odamlar yoki narsalar bilan o'ralgan narsa haqida gapirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The plane flew ___ the clouds.",
+                "ru": "Дополните предложение правильным предлогом: The plane flew ___ the clouds.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The plane flew ___ the clouds."
+            },
+            "options": [
+                {
+                    "answer": "above",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Above' is used to describe something at a higher level than something else.",
+                "ru": "'Above' (над) используется для описания чего-либо, находящегося на более высоком уровне, чем что-то другое.",
+                "uz": "'Above' biror narsadan yuqoriroq darajada joylashgan narsani tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The ball rolled ___ the box.",
+                "ru": "Дополните предложение правильным предлогом: The ball rolled ___ the box.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The ball rolled ___ the box."
+            },
+            "options": [
+                {
+                    "answer": "off",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Off' is used to describe movement away from a surface.",
+                "ru": "'Off' (с) используется для описания движения от поверхности.",
+                "uz": "'Off' biror sirt ustidan uzoqlashish harakatini tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The keys fell ___ the floor.",
+                "ru": "Дополните предложение правильным предлогом: The keys fell ___ the floor.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The keys fell ___ the floor."
+            },
+            "options": [
+                {
+                    "answer": "onto",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Onto' is used to describe movement towards and on top of a surface.",
+                "ru": "'Onto' (на) используется для описания движения к поверхности и на нее.",
+                "uz": "'Onto' biror yuzaga tomon va uning ustiga harakatni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: He walked ___ the street.",
+                "ru": "Дополните предложение правильным предлогом: He walked ___ the street.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: He walked ___ the street."
+            },
+            "options": [
+                {
+                    "answer": "down",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Down' is used to describe movement along a street or path in a particular direction.",
+                "ru": "'Down' (вниз) используется для описания движения по улице или дороге в определенном направлении.",
+                "uz": "'Down' biror ko'cha yoki yo'l bo'ylab muayyan yo'nalishda harakatni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The house is ___ the hill.",
+                "ru": "Дополните предложение правильным предлогом: The house is ___ the hill.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The house is ___ the hill."
+            },
+            "options": [
+                {
+                    "answer": "on top of",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'On top of' is used to mean 'at the highest point of something.'",
+                "ru": "'On top of' (на вершине) используется в значении 'в самой высокой точке чего-либо'.",
+                "uz": "'On top of' 'biror narsaning eng yuqori nuqtasida' degan ma'noni anglatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The picture hangs ___ the door.",
+                "ru": "Дополните предложение правильным предлогом: The picture hangs ___ the door.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The picture hangs ___ the door."
+            },
+            "options": [
+                {
+                    "answer": "above",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Above' is used to describe a position that is higher than something else.",
+                "ru": "'Above' (над) используется для описания положения, которое находится выше чего-то другого.",
+                "uz": "'Above' boshqa narsaga nisbatan yuqoriroq joylashuvni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I went ___1___ a trip last summer. We drove our car ___2___ the mountains, enjoying the scenic view. The children loved playing ___3___ the trees in the forest. We stayed ___4___ a small hotel, which was located right ___5___ the lake. In the mornings, we walked ___6___ the lake to the small village ___7___ the hill. The village was quite old, and we found a small church ___8___ the middle of the village square. There was a beautiful bridge ___9___ the river, and we walked ___10___ it to get to the other side. The path was very narrow, so we had to walk carefully, one person ___11___ another. We ate our lunch ___12___ the table ___13___ the window, which gave us a great view of the town. The people ___14___ the area were very friendly. Our trip was a great experience, and we loved the time we spent there.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "on"
+                },
+                {
+                    "blank": "2",
+                    "answer": "into"
+                },
+                {
+                    "blank": "3",
+                    "answer": "among"
+                },
+                {
+                    "blank": "4",
+                    "answer": "in"
+                },
+                {
+                    "blank": "5",
+                    "answer": "beside"
+                },
+                {
+                    "blank": "6",
+                    "answer": "along"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on top of"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "over"
+                },
+                {
+                    "blank": "10",
+                    "answer": "across"
+                },
+                {
+                    "blank": "11",
+                    "answer": "behind"
+                },
+                {
+                    "blank": "12",
+                    "answer": "at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "by"
+                },
+                {
+                    "blank": "14",
+                    "answer": "in"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various prepositions of place and movement. 'On a trip' is a common collocation. 'Into' and 'across' describe movement, 'among' is used for being surrounded by many things, and 'beside' means next to. 'At' is used for a specific point, and 'by' can mean next to. 'On top of' describes the highest point of something.",
+                "ru": "Это упражнение проверяет различные предлоги места и движения. 'On a trip' - это распространенное словосочетание. 'Into' и 'across' описывают движение, 'among' используется, когда человек окружен многими вещами, а 'beside' означает 'рядом'. 'At' используется для обозначения конкретной точки, а 'by' может означать 'рядом'. 'On top of' описывает самую высокую точку чего-либо.",
+                "uz": "Bu mashq joy va harakat predloglarini tekshiradi. 'On a trip' keng tarqalgan so'z birikmasidir. 'Into' va 'across' harakatni tasvirlaydi, 'among' ko'p narsalar bilan o'ralgan bo'lish uchun, 'beside' esa yonida degan ma'noni anglatadi. 'At' aniq bir nuqta uchun ishlatiladi, 'by' ham yonida degan ma'noni beradi. 'On top of' biror narsaning eng yuqori nuqtasini tasvirlaydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My grandmother lives in a small house ___1___ the park. There is a small river that runs ___2___ her backyard, and a beautiful bridge goes ___3___ the river. Sometimes she sits ___4___ her garden and watches the children play ___5___ the bridge. Her house is located ___6___ two big trees. She also has a lot of flowers ___7___ her garden. She likes to walk ___8___ the path that leads ___9___ the river. The path goes ___10___ the houses, and the children often run ___11___ each other. There is a small cafe ___12___ the corner of the street. It's a nice place to sit and watch the cars go ___13___ the road. The street lights turn on ___14___ dusk. It's a peaceful area.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "near"
+                },
+                {
+                    "blank": "2",
+                    "answer": "behind"
+                },
+                {
+                    "blank": "3",
+                    "answer": "over"
+                },
+                {
+                    "blank": "4",
+                    "answer": "in"
+                },
+                {
+                    "blank": "5",
+                    "answer": "under"
+                },
+                {
+                    "blank": "6",
+                    "answer": "between"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "along"
+                },
+                {
+                    "blank": "9",
+                    "answer": "to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "through"
+                },
+                {
+                    "blank": "11",
+                    "answer": "after"
+                },
+                {
+                    "blank": "12",
+                    "answer": "at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "down"
+                },
+                {
+                    "blank": "14",
+                    "answer": "at"
+                }
+            ],
+            "explanation": {
+                "en": "'Near' and 'behind' describe location. 'Over' is used for something higher. 'Between' is for two things. 'Along' and 'through' describe movement. 'After' means following. 'At' is used for specific points in location and time.",
+                "ru": "'Near' (рядом) и 'behind' (позади) описывают местоположение. 'Over' (над) используется для чего-то более высокого. 'Between' (между) - для двух вещей. 'Along' (вдоль) и 'through' (сквозь) описывают движение. 'After' (после) означает следование. 'At' используется для конкретных точек в пространстве и времени.",
+                "uz": "'Near' va 'behind' joylashuvni tasvirlaydi. 'Over' yuqoriroq narsa uchun ishlatiladi. 'Between' ikki narsa uchun. 'Along' va 'through' harakatni tasvirlaydi. 'After' ergashishni anglatadi. 'At' joy va vaqtdagi aniq nuqtalar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last night, I went to a concert ___1___ my friends. The venue was a large stadium ___2___ the city. The stage was located ___3___ the center of the field, and the lights were shining ___4___ the sky. We had seats ___5___ the front row, which gave us an amazing view. The band walked ___6___ the stage and started playing. The music was so loud that we could feel the vibrations ___7___ our seats. We sang along ___8___ the songs we knew. People were dancing ___9___ the aisles and having a great time. ___10___ the show, we all went for a drink. The pub was located ___11___ the stadium. We sat at a table ___12___ the window and talked ___13___ the concert. We stayed out ___14___ late, but it was worth it. It was a perfect night out.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "with"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "in"
+                },
+                {
+                    "blank": "4",
+                    "answer": "into"
+                },
+                {
+                    "blank": "5",
+                    "answer": "in"
+                },
+                {
+                    "blank": "6",
+                    "answer": "onto"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "to"
+                },
+                {
+                    "blank": "9",
+                    "answer": "in"
+                },
+                {
+                    "blank": "10",
+                    "answer": "after"
+                },
+                {
+                    "blank": "11",
+                    "answer": "outside"
+                },
+                {
+                    "blank": "12",
+                    "answer": "by"
+                },
+                {
+                    "blank": "13",
+                    "answer": "about"
+                },
+                {
+                    "blank": "14",
+                    "answer": "until"
+                }
+            ],
+            "explanation": {
+                "en": "This text includes prepositions of place ('in', 'by', 'outside'), movement ('onto', 'into'), and time ('after', 'until'). 'With' is used for companionship, 'about' is for topic, and 'to' and 'in' are often part of phrasal verbs or common expressions.",
+                "ru": "Этот текст включает предлоги места ('in', 'by', 'outside'), движения ('onto', 'into') и времени ('after', 'until'). 'With' используется для компании, 'about' - для темы, а 'to' и 'in' часто являются частью фразовых глаголов или распространенных выражений.",
+                "uz": "Bu matnda joy ('in', 'by', 'outside'), harakat ('onto', 'into') va vaqt ('after', 'until') predloglari mavjud. 'With' hamrohlik uchun ishlatiladi, 'about' mavzu uchun, 'to' va 'in' esa ko'pincha fe'l birikmalarining yoki umumiy ifodalarning bir qismidir."
+            }
+        }
+    ]
+}

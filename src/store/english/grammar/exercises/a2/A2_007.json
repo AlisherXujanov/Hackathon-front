@@ -1,0 +1,584 @@
+{
+    "id": "A2_INTENSIFIERS_VERY_BASIC",
+    "title": "Intensifiers (very basic) - Very, quite, really",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The book is very quite interesting."
+                },
+                {
+                    "answer": "He is a good really student."
+                },
+                {
+                    "answer": "This food is really delicious.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The intensifiers 'very', 'quite', and 'really' are used to make adjectives stronger. 'Really' is placed before the adjective.",
+                "ru": "Интенсификаторы 'very', 'quite' и 'really' используются для усиления прилагательных. 'Really' ставится перед прилагательным.",
+                "uz": "'very', 'quite' va 'really' kuchaytirgichlari sifatlarni kuchaytirish uchun ishlatiladi. 'Really' sifatdan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather is very."
+                },
+                {
+                    "answer": "The weather is very sunny.",
+                    "correct": true
+                },
+                {
+                    "answer": "The weather is very much hot."
+                }
+            ],
+            "explanation": {
+                "en": "The intensifier 'very' is used before an adjective to add emphasis. The correct sentence is a common mistake for learners, but 'The weather is very' is not a complete sentence. The correct answer should have an adjective after 'very'. For example, 'The weather is very hot'.",
+                "ru": "Интенсификатор 'very' используется перед прилагательным для усиления. Правильное предложение — «The weather is very hot». Ответ «The weather is very» не является полным предложением, это распространенная ошибка среди учащихся.",
+                "uz": "'very' kuchaytirgichi sifatdan oldin qo'yiladi. To'g'ri gap 'The weather is very hot'. 'The weather is very' to'liq gap emas, bu o'quvchilar orasida keng tarqalgan xato."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is quite tired very."
+                },
+                {
+                    "answer": "The movie was really good.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am very quite happy."
+                }
+            ],
+            "explanation": {
+                "en": "'Really' is an adverb that intensifies adjectives and other adverbs. It's correctly placed before the adjective 'good'.",
+                "ru": "'Really' - это наречие, которое усиливает прилагательные и другие наречия. Оно правильно поставлено перед прилагательным 'good'.",
+                "uz": "'Really' — sifatlar va boshqa ravishlarni kuchaytiradigan ravish. U 'good' sifatidan oldin to'g'ri joylashtirilgan."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct option.",
+                "ru": "Выберите правильный вариант.",
+                "uz": "To'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He speaks English very good."
+                },
+                {
+                    "answer": "He speaks English very well.",
+                    "correct": true
+                },
+                {
+                    "answer": "He speaks English very a lot."
+                }
+            ],
+            "explanation": {
+                "en": "'Well' is the correct adverb to modify the verb 'speaks'. 'Very' is used to intensify the adverb.",
+                "ru": "'Well' — это правильное наречие для изменения глагола 'speaks'. 'Very' используется для усиления этого наречия.",
+                "uz": "'Well' — bu 'speaks' fe'lini o'zgartirish uchun to'g'ri ravish. 'Very' bu ravishni kuchaytirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am quite happy for my new job.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am very quite happy for my new job."
+                },
+                {
+                    "answer": "I am happy quite for my new job."
+                }
+            ],
+            "explanation": {
+                "en": "'Quite' is placed before an adjective or adverb to mean 'to a certain degree'.",
+                "ru": "'Quite' ставится перед прилагательным или наречием и означает 'в некоторой степени'.",
+                "uz": "'Quite' 'ma'lum darajada' ma'nosini bildirish uchun sifat yoki ravishdan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It is really cold day."
+                },
+                {
+                    "answer": "It is a really cold day.",
+                    "correct": true
+                },
+                {
+                    "answer": "It is cold really a day."
+                }
+            ],
+            "explanation": {
+                "en": "When an intensifier is used with an adjective before a noun, it goes before the article.",
+                "ru": "Когда интенсификатор используется с прилагательным перед существительным, он ставится перед артиклем.",
+                "uz": "Kuchaytirgich ot oldidagi sifat bilan ishlatilganda, u artikldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The cake is quite good."
+                },
+                {
+                    "answer": "The cake is very delicious.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cake is very much good."
+                }
+            ],
+            "explanation": {
+                "en": "'Very' can be used to intensify both adjectives and adverbs. 'Delicious' is an adjective, so 'very delicious' is correct.",
+                "ru": "'Very' может использоваться для усиления как прилагательных, так и наречий. 'Delicious' — прилагательное, поэтому 'very delicious' правильно.",
+                "uz": "'Very' ham sifatlarni, ham ravishlarni kuchaytirish uchun ishlatilishi mumkin. 'Delicious' sifat, shuning uchun 'very delicious' to'g'ri."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct option.",
+                "ru": "Выберите правильный вариант.",
+                "uz": "To'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "That test was really easy.",
+                    "correct": true
+                },
+                {
+                    "answer": "That test was really a lot easy."
+                },
+                {
+                    "answer": "That test was easy really."
+                }
+            ],
+            "explanation": {
+                "en": "'Really' is an adverb that modifies the adjective 'easy'. It is correctly placed before the adjective.",
+                "ru": "'Really' — это наречие, которое изменяет прилагательное 'easy'. Оно правильно поставлено перед прилагательным.",
+                "uz": "'Really' 'easy' sifatini o'zgartiruvchi ravish. U sifatdan oldin to'g'ri joylashtirilgan."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The new student is very a good dancer."
+                },
+                {
+                    "answer": "The new student is very good a dancer."
+                },
+                {
+                    "answer": "The new student is a very good dancer.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct order for a sentence with an article, intensifier, and adjective is: article + intensifier + adjective + noun.",
+                "ru": "Правильный порядок в предложении с артиклем, интенсификатором и прилагательным: артикль + интенсификатор + прилагательное + существительное.",
+                "uz": "Artikl, kuchaytirgich va sifatli gapda to'g'ri tartib quyidagicha: artikl + kuchaytirgich + sifat + ot."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He is very a strong man."
+                },
+                {
+                    "answer": "He is a really strong man.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is a strong really man."
+                }
+            ],
+            "explanation": {
+                "en": "In a sentence with an article and an adjective, the intensifier 'really' should be placed between the article and the adjective.",
+                "ru": "В предложении с артиклем и прилагательным, интенсификатор 'really' должен быть расположен между артиклем и прилагательным.",
+                "uz": "Artikl va sifatli gapda 'really' kuchaytirgichi artikl va sifat o'rtasida joylashishi kerak."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an intensifier: It is ___ hot today.",
+                "ru": "Дополните предложение интенсификатором: It is ___ hot today.",
+                "uz": "Gapni kuchaytirgich bilan to'ldiring: It is ___ hot today."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Very', 'really', and 'quite' can all be used before adjectives to add emphasis.",
+                "ru": "'Very', 'really' и 'quite' могут использоваться перед прилагательными для усиления.",
+                "uz": "'Very', 'really' va 'quite' sifatlarni kuchaytirish uchun ulardan oldin ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a correct intensifier: My father is ___ smart.",
+                "ru": "Дополните предложение правильным интенсификатором: My father is ___ smart.",
+                "uz": "Gapni to'g'ri kuchaytirgich bilan to'ldiring: My father is ___ smart."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Intensifiers like 'very', 'really', and 'quite' are used to add emphasis to adjectives.",
+                "ru": "Интенсификаторы, такие как 'very', 'really' и 'quite', используются для усиления прилагательных.",
+                "uz": "'very', 'really' va 'quite' kabi kuchaytirgichlar sifatlarga urg'u berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The book was ___ boring.",
+                "ru": "Дополните предложение: The book was ___ boring.",
+                "uz": "Gapni to'ldiring: The book was ___ boring."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Very', 'really', and 'quite' can be used to intensify adjectives like 'boring'.",
+                "ru": "'Very', 'really' и 'quite' могут использоваться для усиления прилагательных, таких как 'boring'.",
+                "uz": "'Very', 'really' va 'quite' 'boring' kabi sifatlarni kuchaytirish uchun ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: The test was ___ difficult.",
+                "ru": "Заполните пропуск: The test was ___ difficult.",
+                "uz": "Bo'sh joyni to'ldiring: The test was ___ difficult."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The intensifiers 'very', 'really', and 'quite' can be used before an adjective to show degree.",
+                "ru": "Интенсификаторы 'very', 'really' и 'quite' могут использоваться перед прилагательным для обозначения степени.",
+                "uz": "'very', 'really' va 'quite' kuchaytirgichlari sifatdan oldin darajani ko'rsatish uchun ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She speaks French ___ well.",
+                "ru": "Дополните предложение: She speaks French ___ well.",
+                "uz": "Gapni to'ldiring: She speaks French ___ well."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Very' and 'really' are common intensifiers used with adverbs like 'well'. 'Quite' can also be used here.",
+                "ru": "'Very' и 'really' — распространенные интенсификаторы, используемые с наречиями, такими как 'well'. 'Quite' также может быть использован здесь.",
+                "uz": "'Very' va 'really' 'well' kabi ravishlar bilan ishlatiladigan umumiy kuchaytirgichlar hisoblanadi. 'Quite' ham bu yerda ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: The food was ___ good.",
+                "ru": "Заполните пропуск: The food was ___ good.",
+                "uz": "Bo'sh joyni to'ldiring: The food was ___ good."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "You can use 'very', 'really', or 'quite' before the adjective 'good' to make the statement stronger.",
+                "ru": "Вы можете использовать 'very', 'really' или 'quite' перед прилагательным 'good', чтобы сделать утверждение более сильным.",
+                "uz": "Gapni kuchaytirish uchun 'good' sifatidan oldin 'very', 'really' yoki 'quite' dan birini ishlatishingiz mumkin."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This is ___ a beautiful picture.",
+                "ru": "Дополните предложение: This is ___ a beautiful picture.",
+                "uz": "Gapni to'ldiring: This is ___ a beautiful picture."
+            },
+            "options": [
+                {
+                    "answer": "really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Really' and 'quite' are used before the article 'a' when modifying an adjective and a noun.",
+                "ru": "'Really' и 'quite' используются перед артиклем 'a' при изменении прилагательного и существительного.",
+                "uz": "'Really' va 'quite' sifat va otni o'zgartirganda 'a' artiklidan oldin ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: I am ___ sorry about that.",
+                "ru": "Заполните пропуск: I am ___ sorry about that.",
+                "uz": "Bo'sh joyni to'ldiring: I am ___ sorry about that."
+            },
+            "options": [
+                {
+                    "answer": "very/really",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Very' and 'really' are commonly used to intensify feelings and emotions, like 'sorry'.",
+                "ru": "'Very' и 'really' обычно используются для усиления чувств и эмоций, таких как 'sorry'.",
+                "uz": "'Very' va 'really' odatda 'sorry' kabi his-tuyg'ularni kuchaytirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The concert was ___ amazing.",
+                "ru": "Дополните предложение: The concert was ___ amazing.",
+                "uz": "Gapni to'ldiring: The concert was ___ amazing."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "You can use 'very' or 'really' to intensify 'amazing'. 'Quite' can also be used, though it has a slightly different meaning.",
+                "ru": "Вы можете использовать 'very' или 'really' для усиления 'amazing'. 'Quite' также может быть использован, хотя он имеет немного другое значение.",
+                "uz": "'amazing' so'zini kuchaytirish uchun 'very' yoki 'really' dan foydalanishingiz mumkin. 'Quite' ham ishlatilishi mumkin, garchi u biroz boshqacha ma'noga ega bo'lsa ham."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: The old car is ___ slow.",
+                "ru": "Заполните пропуск: The old car is ___ slow.",
+                "uz": "Bo'sh joyni to'ldiring: The old car is ___ slow."
+            },
+            "options": [
+                {
+                    "answer": "very/really/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The intensifiers 'very', 'really', and 'quite' are used before adjectives to emphasize a quality.",
+                "ru": "Интенсификаторы 'very', 'really' и 'quite' используются перед прилагательными, чтобы подчеркнуть качество.",
+                "uz": "'very', 'really' va 'quite' kuchaytirgichlari biror sifatni ta'kidlash uchun sifatlardan oldin ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct intensifiers.",
+                "ru": "Заполните пропуски правильными интенсификаторами.",
+                "uz": "Bo'shliqlarni to'g'ri kuchaytirgichlar bilan to'ldiring."
+            },
+            "text": "My friend, Leo, is a ___1___ good guitar player. He practices ___2___ hard every day. Yesterday, he played a song that was ___3___ difficult, but he played it ___4___ well. He was ___5___ tired after the performance. I think he is ___6___ talented. My other friend, Maria, is also ___7___ good at singing. She has a ___8___ beautiful voice. She said that she finds it ___9___ easy to learn new songs, but it takes ___10___ a lot of time to get them perfect.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "really/very/quite"
+                },
+                {
+                    "blank": "2",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "3",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "4",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "5",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "6",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "7",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "8",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "9",
+                    "answer": "really/quite"
+                },
+                {
+                    "blank": "10",
+                    "answer": "very"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of 'very', 'really', and 'quite' to intensify adjectives and adverbs. These words are placed before the word they modify.",
+                "ru": "Это упражнение проверяет использование 'very', 'really' и 'quite' для усиления прилагательных и наречий. Эти слова ставятся перед словом, которое они изменяют.",
+                "uz": "Ushbu mashq 'very', 'really' va 'quite' so'zlarining sifat va ravishlarni kuchaytirish uchun ishlatilishini tekshiradi. Bu so'zlar o'zgartiradigan so'zdan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct intensifiers.",
+                "ru": "Заполните пропуски правильными интенсификаторами.",
+                "uz": "Bo'shliqlarni to'g'ri kuchaytirgichlar bilan to'ldiring."
+            },
+            "text": "Last night I watched a ___1___ interesting documentary about space. It was ___2___ amazing. The narrator spoke ___3___ clearly, and the pictures of the planets were ___4___ beautiful. At one point, they showed a ___5___ big star that was ___6___ far away. The facts were ___7___ surprising. I was ___8___ tired when it finished, but I was ___9___ happy I had watched it. My friend said he found the topic ___10___ difficult, but I thought it was ___11___ easy to understand.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "2",
+                    "answer": "really/very/quite"
+                },
+                {
+                    "blank": "3",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "4",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "5",
+                    "answer": "very/really"
+                },
+                {
+                    "blank": "6",
+                    "answer": "very/really"
+                },
+                {
+                    "blank": "7",
+                    "answer": "really/very"
+                },
+                {
+                    "blank": "8",
+                    "answer": "very/really/quite"
+                },
+                {
+                    "blank": "9",
+                    "answer": "very/really"
+                },
+                {
+                    "blank": "10",
+                    "answer": "very/really"
+                },
+                {
+                    "blank": "11",
+                    "answer": "really/quite"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on using 'very', 'really', and 'quite' to add emphasis to adjectives and adverbs. The words are placed directly before the word they are modifying.",
+                "ru": "Это упражнение направлено на использование 'very', 'really' и 'quite' для усиления прилагательных и наречий. Эти слова ставятся непосредственно перед словом, которое они изменяют.",
+                "uz": "Ushbu mashq 'very', 'really' va 'quite' so'zlaridan sifatlar va ravishlarga urg'u berish uchun foydalanishga qaratilgan. Bu so'zlar o'zgartirayotgan so'zdan oldin joylashtiriladi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,851 @@
+{
+    "id": "C1_FUTURES_REVISION_MASTERY_OF_ALL_FUTURE_FORMS",
+    "title": "Futures (revision) - Mastery of all future forms and subtle differences",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses a future arrangement?",
+                "ru": "Какое предложение правильно выражает будущую договоренность?",
+                "uz": "Qaysi gap kelajakdagi kelishuvni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "I will meet you at 8 PM tomorrow."
+                },
+                {
+                    "answer": "I'm meeting you at 8 PM tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "I meet you at 8 PM tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous is used for future arrangements that have been planned and organized in advance.",
+                "ru": "Present continuous используется для будущих договоренностей, которые были запланированы и организованы заранее.",
+                "uz": "Present continuous oldindan rejalashtirilgan va tashkil etilgan kelajakdagi kelishuvlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the most appropriate future form for expressing a prediction based on present evidence.",
+                "ru": "Выберите наиболее подходящую форму будущего времени для выражения предсказания на основе настоящих доказательств.",
+                "uz": "Hozirgi dalillarga asoslangan bashorat uchun eng mos kelajak shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It will rain tomorrow."
+                },
+                {
+                    "answer": "It's going to rain soon.",
+                    "correct": true
+                },
+                {
+                    "answer": "It rains tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for predictions based on present evidence, while 'will' is for general predictions without specific evidence.",
+                "ru": "'Going to' используется для предсказаний на основе настоящих доказательств, а 'will' - для общих предсказаний без конкретных доказательств.",
+                "uz": "'Going to' hozirgi dalillarga asoslangan bashoratlar uchun ishlatiladi, 'will' esa aniq dalillarsiz umumiy bashoratlar uchun."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses the future perfect continuous?",
+                "ru": "Какое предложение правильно использует future perfect continuous?",
+                "uz": "Qaysi gap future perfect continuous ni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "By next year, I will have been working here for ten years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next year, I will be working here for ten years."
+                },
+                {
+                    "answer": "By next year, I will have worked here for ten years."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous emphasizes the duration of an ongoing action up to a point in the future.",
+                "ru": "Future perfect continuous подчеркивает продолжительность текущего действия до определенного момента в будущем.",
+                "uz": "Future perfect continuous kelajakdagi ma'lum vaqtgacha davom etayotgan harakatning davomiyligini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct future form for expressing a spontaneous decision.",
+                "ru": "Выберите правильную форму будущего времени для выражения спонтанного решения.",
+                "uz": "Spontan qaror uchun to'g'ri kelajak shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'm going to help you with that."
+                },
+                {
+                    "answer": "I'll help you with that.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'm helping you with that."
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is used for spontaneous decisions made at the moment of speaking, not planned in advance.",
+                "ru": "'Will' используется для спонтанных решений, принятых в момент говорения, а не запланированных заранее.",
+                "uz": "'Will' gapirayotgan paytda qabul qilingan, oldindan rejalashtirilmagan spontan qarorlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses a timetabled future event?",
+                "ru": "Какое предложение правильно выражает будущее событие по расписанию?",
+                "uz": "Qaysi gap jadvalga ko'ra bo'ladigan kelajak hodisasini to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "The train will leave at 9:30."
+                },
+                {
+                    "answer": "The train is going to leave at 9:30."
+                },
+                {
+                    "answer": "The train leaves at 9:30.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present simple is used for timetabled events and fixed schedules in the future.",
+                "ru": "Present simple используется для событий по расписанию и фиксированных графиков в будущем.",
+                "uz": "Present simple kelajakdagi jadval bo'yicha hodisalar va belgilangan jadvaller uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the appropriate future form for the conditional clause.",
+                "ru": "Выберите подходящую форму будущего времени для условного предложения.",
+                "uz": "Shart ergash gap uchun mos kelajak shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If you will come early, we'll start the meeting."
+                },
+                {
+                    "answer": "If you come early, we'll start the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "If you are coming early, we'll start the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "Present simple, not future forms, is used in conditional clauses introduced by 'if'.",
+                "ru": "Present simple, а не формы будущего времени, используется в условных предложениях с 'if'.",
+                "uz": "'If' bilan boshlangan shart ergash gaplarda kelajak shakllari emas, present simple ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence uses the future continuous correctly?",
+                "ru": "Какое предложение правильно использует future continuous?",
+                "uz": "Qaysi gap future continuous ni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "This time tomorrow, I will flying to Paris."
+                },
+                {
+                    "answer": "This time tomorrow, I will be flying to Paris.",
+                    "correct": true
+                },
+                {
+                    "answer": "This time tomorrow, I will have flown to Paris."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes an action in progress at a specific time in the future.",
+                "ru": "Future continuous описывает действие в процессе в определенный момент времени в будущем.",
+                "uz": "Future continuous kelajakdagi ma'lum vaqtda davom etayotgan harakatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct future perfect form.",
+                "ru": "Выберите правильную форму future perfect.",
+                "uz": "To'g'ri future perfect shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By 2030, scientists will discover a cure for cancer."
+                },
+                {
+                    "answer": "By 2030, scientists will have discovered a cure for cancer.",
+                    "correct": true
+                },
+                {
+                    "answer": "By 2030, scientists will be discovering a cure for cancer."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect expresses an action that will be completed by a specific time in the future.",
+                "ru": "Future perfect выражает действие, которое будет завершено к определенному времени в будущем.",
+                "uz": "Future perfect kelajakdagi ma'lum vaqtga qadar tugallanadigan harakatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which future form expresses a promise or guarantee?",
+                "ru": "Какая форма будущего времени выражает обещание или гарантию?",
+                "uz": "Qaysi kelajak shakli va'da yoki kafolatni ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "I'm going to be there on time."
+                },
+                {
+                    "answer": "I will be there on time.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'm being there on time."
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is commonly used to make promises, offers, and guarantees about future actions.",
+                "ru": "'Will' обычно используется для обещаний, предложений и гарантий относительно будущих действий.",
+                "uz": "'Will' odatda kelajakdagi harakatlar haqida va'da, taklif va kafolatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the most natural future form for expressing intention.",
+                "ru": "Выберите наиболее естественную форму будущего времени для выражения намерения.",
+                "uz": "Niyatni ifodalash uchun eng tabiiy kelajak shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I will learn Spanish next year."
+                },
+                {
+                    "answer": "I'm going to learn Spanish next year.",
+                    "correct": true
+                },
+                {
+                    "answer": "I learn Spanish next year."
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is the most natural way to express previously formed intentions and plans.",
+                "ru": "'Going to' - самый естественный способ выражения заранее сформированных намерений и планов.",
+                "uz": "'Going to' oldindan shakllangan niyat va rejalarni ifodalashning eng tabiiy usulidir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct future form: By the time you arrive, I ___ (finish) the report.",
+                "ru": "Дополните правильной формой будущего времени: By the time you arrive, I ___ (finish) the report.",
+                "uz": "To'g'ri kelajak shakli bilan to'ldiring: By the time you arrive, I ___ (finish) the report."
+            },
+            "options": [
+                {
+                    "answer": "will have finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect is used for actions completed before a specific future time.",
+                "ru": "Future perfect используется для действий, завершенных до определенного будущего времени.",
+                "uz": "Future perfect kelajakdagi ma'lum vaqtdan oldin tugallanadigan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the appropriate future form: Look at those clouds! It ___ (rain) heavily.",
+                "ru": "Дополните подходящей формой будущего времени: Look at those clouds! It ___ (rain) heavily.",
+                "uz": "Mos kelajak shakli bilan to'ldiring: Look at those clouds! It ___ (rain) heavily."
+            },
+            "options": [
+                {
+                    "answer": "is going to rain",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for predictions based on present evidence (the clouds).",
+                "ru": "'Going to' используется для предсказаний на основе настоящих доказательств (облака).",
+                "uz": "'Going to' hozirgi dalillarga (bulutlar) asoslangan bashoratlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The conference ___ (start) at 9 AM sharp tomorrow.",
+                "ru": "Дополните предложение: The conference ___ (start) at 9 AM sharp tomorrow.",
+                "uz": "Gapni to'ldiring: The conference ___ (start) at 9 AM sharp tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "starts",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present simple is used for scheduled events and official timetables.",
+                "ru": "Present simple используется для запланированных событий и официальных расписаний.",
+                "uz": "Present simple rejalashtirilgan hodisalar va rasmiy jadvaller uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: This time next week, we ___ (lie) on a beach in Hawaii.",
+                "ru": "Заполните пропуск: This time next week, we ___ (lie) on a beach in Hawaii.",
+                "uz": "Bo'sh joyni to'ldiring: This time next week, we ___ (lie) on a beach in Hawaii."
+            },
+            "options": [
+                {
+                    "answer": "will be lying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes an action in progress at a specific future time.",
+                "ru": "Future continuous описывает действие в процессе в определенное будущее время.",
+                "uz": "Future continuous kelajakdagi aniq vaqtda davom etayotgan harakatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: I'm tired. I think I ___ (go) to bed early tonight.",
+                "ru": "Дополните правильной формой: I'm tired. I think I ___ (go) to bed early tonight.",
+                "uz": "To'g'ri shakl bilan to'ldiring: I'm tired. I think I ___ (go) to bed early tonight."
+            },
+            "options": [
+                {
+                    "answer": "will go/'ll go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is used for decisions made at the moment of speaking.",
+                "ru": "'Will' используется для решений, принятых в момент говорения.",
+                "uz": "'Will' gapirayotgan paytda qabul qilingan qarorlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the appropriate future form: We ___ (meet) the clients at 3 PM - it's already arranged.",
+                "ru": "Заполните подходящей формой будущего времени: We ___ (meet) the clients at 3 PM - it's already arranged.",
+                "uz": "Mos kelajak shakli bilan to'ldiring: We ___ (meet) the clients at 3 PM - it's already arranged."
+            },
+            "options": [
+                {
+                    "answer": "are meeting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous is used for future arrangements that are already organized.",
+                "ru": "Present continuous используется для будущих договоренностей, которые уже организованы.",
+                "uz": "Present continuous allaqachon tashkil etilgan kelajakdagi kelishuvlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By 2025, they ___ (live) in this house for twenty years.",
+                "ru": "Дополните предложение: By 2025, they ___ (live) in this house for twenty years.",
+                "uz": "Gapni to'ldiring: By 2025, they ___ (live) in this house for twenty years."
+            },
+            "options": [
+                {
+                    "answer": "will have been living",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous emphasizes duration of an action continuing up to a future point.",
+                "ru": "Future perfect continuous подчеркивает продолжительность действия, продолжающегося до будущего момента.",
+                "uz": "Future perfect continuous kelajakdagi nuqtagacha davom etayotgan harakatning davomiyligini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Don't worry, I ___ (not/tell) anyone your secret.",
+                "ru": "Заполните пропуск: Don't worry, I ___ (not/tell) anyone your secret.",
+                "uz": "Bo'sh joyni to'ldiring: Don't worry, I ___ (not/tell) anyone your secret."
+            },
+            "options": [
+                {
+                    "answer": "won't tell/will not tell",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is used to make promises and reassurances about future actions.",
+                "ru": "'Will' используется для обещаний и заверений относительно будущих действий.",
+                "uz": "'Will' kelajakdagi harakatlar haqida va'da va ishonch berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct future form: If it rains tomorrow, we ___ (cancel) the picnic.",
+                "ru": "Дополните правильной формой будущего времени: If it rains tomorrow, we ___ (cancel) the picnic.",
+                "uz": "To'g'ri kelajak shakli bilan to'ldiring: If it rains tomorrow, we ___ (cancel) the picnic."
+            },
+            "options": [
+                {
+                    "answer": "will cancel/ll cancel",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The main clause in conditional sentences uses 'will' while the if-clause uses present simple.",
+                "ru": "Главная часть условных предложений использует 'will', а условная часть - present simple.",
+                "uz": "Shart gaplarning asosiy qismida 'will', shart qismida esa present simple ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the appropriate form: She ___ (graduate) from university next summer according to her study plan.",
+                "ru": "Заполните подходящей формой: She ___ (graduate) from university next summer according to her study plan.",
+                "uz": "Mos shakl bilan to'ldiring: She ___ (graduate) from university next summer according to her study plan."
+            },
+            "options": [
+                {
+                    "answer": "is going to graduate",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for plans and intentions that have been decided in advance.",
+                "ru": "'Going to' используется для планов и намерений, которые были решены заранее.",
+                "uz": "'Going to' oldindan hal qilingan reja va niyatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct future forms",
+                "ru": "Заполните пропуски правильными формами будущего времени",
+                "uz": "Bo'shliqlarni to'g'ri kelajak shakllari bilan to'ldiring"
+            },
+            "text": "Climate scientists predict that by 2050, global temperatures ___1___ by at least two degrees Celsius. This dramatic change ___2___ significant impacts on weather patterns worldwide. Many coastal cities ___3___ from rising sea levels, while extreme weather events ___4___ more frequent and intense. However, governments around the world ___5___ implementing new renewable energy policies next year. The International Climate Summit ___6___ in Geneva this December, where world leaders ___7___ crucial decisions about carbon emissions. By the time the summit ends, they ___8___ for three weeks straight on these critical issues. Environmental activists believe that if we don't act soon, we ___9___ the point of no return within the next decade. Meanwhile, technological innovations ___10___ revolutionary solutions to combat climate change. Solar panel efficiency ___11___ dramatically over the next five years, according to industry experts. By 2030, electric vehicles ___12___ conventional cars in most developed countries. The transition won't be easy, but scientists are confident that humanity ___13___ ways to adapt and survive these challenging times ahead.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have risen"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will suffer"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will become"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are going to start"
+                },
+                {
+                    "blank": "6",
+                    "answer": "takes place"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will make"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been working"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will reach"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will provide"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will improve"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have replaced"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will find"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers various future forms: future perfect for completed actions by a specific time, 'will' for predictions and promises, 'going to' for planned actions, present simple for scheduled events, and future perfect continuous for ongoing actions up to a future point.",
+                "ru": "Это упражнение охватывает различные формы будущего времени: future perfect для завершенных действий к определенному времени, 'will' для предсказаний и обещаний, 'going to' для запланированных действий, present simple для событий по расписанию и future perfect continuous для продолжающихся действий до будущего момента.",
+                "uz": "Bu mashq turli kelajak shakllarini qamrab oladi: ma'lum vaqtga qadar tugallangan harakatlar uchun future perfect, bashorat va va'dalar uchun 'will', rejalashtirilgan harakatlar uchun 'going to', jadval bo'yicha hodisalar uchun present simple va kelajakdagi nuqtagacha davom etayotgan harakatlar uchun future perfect continuous."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct future forms",
+                "ru": "Заполните пропуски правильными формами будущего времени",
+                "uz": "Bo'shliqlarni to'g'ri kelajak shakllari bilan to'ldiring"
+            },
+            "text": "Sarah has just received an acceptance letter from Cambridge University, and her life ___1___ dramatically over the next few years. She ___2___ her undergraduate studies in October, as the academic year ___3___ on the first Monday of the month according to the university calendar. Her parents ___4___ her to the campus next weekend to help her settle in. By the time she graduates, she ___5___ at Cambridge for four years. During her first semester, she ___6___ intensive courses in molecular biology, her chosen field of study. The professors ___7___ challenging assignments regularly, but Sarah is confident she ___8___ well with the academic pressure. Her roommate Emma, whom she met online, ___9___ from Australia next month. They ___10___ sharing a room in the historic college dormitory. Sarah's advisor ___11___ with her monthly to discuss her progress and future career opportunities. By her final year, she ___12___ whether to pursue graduate studies or enter the workforce immediately. If everything goes according to plan, she ___13___ her thesis research by the spring of her senior year. Her parents are proud that their daughter ___14___ one of the world's most prestigious universities, and they believe she ___15___ great success in her academic journey.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is going to change"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will begin"
+                },
+                {
+                    "blank": "3",
+                    "answer": "starts"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are driving"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been studying"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will take"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will assign"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will cope"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is arriving"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will meet"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have decided"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will have completed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will attend"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will achieve"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates future forms in context: 'going to' for plans and intentions, 'will' for general future actions and predictions, present simple for scheduled events, present continuous for arrangements, and perfect forms for actions completed by specific future times.",
+                "ru": "Этот отрывок демонстрирует формы будущего времени в контексте: 'going to' для планов и намерений, 'will' для общих будущих действий и предсказаний, present simple для событий по расписанию, present continuous для договоренностей, и совершенные формы для действий, завершенных к определенным будущим моментам.",
+                "uz": "Bu parcha kelajak shakllarini kontekstda namoyish etadi: reja va niyatlar uchun 'going to', umumiy kelajakdagi harakatlar va bashoratlar uchun 'will', jadval bo'yicha hodisalar uchun present simple, kelishuvlar uchun present continuous va ma'lum kelajakdagi vaqtlarga qadar tugallanadigan harakatlar uchun mukammal shakllar."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct future forms",
+                "ru": "Заполните пропуски правильными формами будущего времени",
+                "uz": "Bo'shliqlarni to'g'ri kelajak shakllari bilan to'ldiring"
+            },
+            "text": "The annual Technology Innovation Conference ___1___ tomorrow at 9 AM sharp, and industry experts predict it ___2___ groundbreaking developments in artificial intelligence. Dr. Johnson ___3___ the keynote speech about machine learning applications, followed by several panel discussions. The organizers ___4___ live streaming the entire event for thousands of remote participants worldwide. By noon, the first technical session ___5___, and attendees ___6___ a networking lunch in the main exhibition hall. During the afternoon workshops, various companies ___7___ their latest products and revolutionary services. Tech giant InnovoCorp ___8___ their new quantum computer, which engineers believe ___9___ the computing industry forever. The live demonstration ___10___ approximately two hours, during which time specialists ___11___ the system's incredible capabilities in real-time. Cybersecurity experts warn that if current trends continue, sophisticated attacks ___12___ more common in the coming years. However, advanced AI defense systems ___13___ commercially available by next summer, according to reliable industry insiders. By the end of this three-day conference, participants ___14___ invaluable insights into emerging technologies. Many international attendees ___15___ follow-up meetings with potential business partners before returning to their home countries.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "begins"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will showcase"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will deliver"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have concluded"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will enjoy"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will present"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going to unveil"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will revolutionize"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will last"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be demonstrating"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will become"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will have gained"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will schedule"
+                }
+            ],
+            "explanation": {
+                "en": "This passage covers the complete range of future forms: present simple for scheduled conference events, 'will' for predictions and general future actions, 'going to' for planned product launches, future continuous for ongoing demonstrations, and future perfect for completed actions by specific times.",
+                "ru": "Этот отрывок охватывает полный спектр форм будущего времени: present simple для запланированных событий конференции, 'will' для предсказаний и общих будущих действий, 'going to' для запланированных запусков продуктов, future continuous для текущих демонстраций, и future perfect для действий, завершенных к определенным моментам.",
+                "uz": "Bu parcha kelajak shakllarining to'liq spektrini qamrab oladi: konferentsiya hodisalari uchun present simple, bashorat va umumiy kelajakdagi harakatlar uchun 'will', rejalashtirilgan mahsulot taqdimotlari uchun 'going to', davom etayotgan namoyishlar uchun future continuous va ma'lum vaqtlarga qadar tugallanadigan harakatlar uchun future perfect."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct future forms",
+                "ru": "Заполните пропуски правильными формами будущего времени",
+                "uz": "Bo'shliqlarni to'g'ri kelajak shakllari bilan to'ldiring"
+            },
+            "text": "The Johnson family ___1___ to relocate to Tokyo next spring for Mr. Johnson's new international assignment. Their flight ___2___ at 6:30 PM on March 15th according to the airline schedule. Before they leave, they ___3___ their house to close family friends who ___4___ it while they're abroad. Mrs. Johnson ___5___ intensive Japanese language classes starting next month to prepare for the move. By the time they arrive in Tokyo, she ___6___ basic conversational Japanese for six months. Their teenage daughter Emma ___7___ at Tokyo International School, where classes ___8___ in early April. The school counselor assured them that Emma ___9___ quickly to the new educational environment. Meanwhile, their son Michael ___10___ his current school year before joining them in Japan. He ___11___ his final exams in June, and then he ___12___ to Tokyo to reunite with his family. The company ___13___ temporary accommodation for the first month, but after that the Johnsons ___14___ their own apartment in central Tokyo. Mr. Johnson's colleagues predict that if he performs well in this role, the company ___15___ him a permanent position in their Asian headquarters. By 2027, the family ___16___ in Japan for three years, and they believe this international experience ___17___ invaluable for their personal and professional development.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "departs"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will rent"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will look after"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is starting"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been learning"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will enroll"
+                },
+                {
+                    "blank": "8",
+                    "answer": "begin"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will adapt"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will finish"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will take"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will fly"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will provide"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will find"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will offer"
+                },
+                {
+                    "blank": "16",
+                    "answer": "will have been living"
+                },
+                {
+                    "blank": "17",
+                    "answer": "will prove"
+                }
+            ],
+            "explanation": {
+                "en": "This comprehensive exercise tests all major future forms: 'going to' for planned relocations, present simple for scheduled departures, present continuous for arranged language classes, future perfect continuous for duration up to future points, and 'will' for various predictions and decisions.",
+                "ru": "Это комплексное упражнение проверяет все основные формы будущего времени: 'going to' для запланированных переездов, present simple для запланированных отправлений, present continuous для организованных языковых курсов, future perfect continuous для продолжительности до будущих моментов, и 'will' для различных предсказаний и решений.",
+                "uz": "Bu keng qamrovli mashq barcha asosiy kelajak shakllarini sinaydi: rejalashtirilgan ko'chishlar uchun 'going to', jadval bo'yicha jo'nashlar uchun present simple, tashkil etilgan til darslari uchun present continuous, kelajakdagi nuqtalarga qadargi davomiylik uchun future perfect continuous va turli bashorat va qarorlar uchun 'will'."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct future forms",
+                "ru": "Заполните пропуски правильными формами будущего времени",
+                "uz": "Bo'shliqlarni to'g'ri kelajak shakllari bilan to'ldiring"
+            },
+            "text": "Medical researchers at the prestigious Global Health Institute ___1___ revolutionary breakthrough results from their cancer treatment trials next month. The final phase of testing ___2___ this Friday, marking the end of a five-year research project. Lead scientist Dr. Martinez ___3___ the findings at the International Medical Conference, which ___4___ in London on December 3rd. By the time she presents her research, the team ___5___ patient data for over sixty months continuously. The new treatment ___6___ hope to millions of cancer patients worldwide if clinical trials prove successful. Pharmaceutical companies ___7___ closely monitoring these results, as they ___8___ significant investments in similar research. The regulatory approval process ___9___ several more months, during which time authorities ___10___ examining safety protocols thoroughly. Medical experts believe that if everything proceeds smoothly, the treatment ___11___ available to patients by late 2026. Hospital administrators ___12___ their staff on the new procedures once approval is granted. Dr. Martinez is confident that this innovation ___13___ cancer treatment methodology forever. The research team ___14___ additional studies to explore applications for other diseases. By 2030, scientists predict that advanced therapies ___15___ standard medical practice in major hospitals globally, fundamentally transforming how doctors approach complex medical conditions.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will announce"
+                },
+                {
+                    "blank": "2",
+                    "answer": "concludes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will present"
+                },
+                {
+                    "blank": "4",
+                    "answer": "takes place"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been analyzing"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will bring"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are making"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will take"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will become"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will train"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will change"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will conduct"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be"
+                }
+            ],
+            "explanation": {
+                "en": "This medical research passage demonstrates sophisticated future form usage: present simple for scheduled conference dates, 'will' for announcements and predictions, present continuous for ongoing investments, future continuous for ongoing processes, and future perfect continuous for extended research duration.",
+                "ru": "Этот отрывок о медицинских исследованиях демонстрирует сложное использование форм будущего времени: present simple для запланированных дат конференций, 'will' для объявлений и предсказаний, present continuous для текущих инвестиций, future continuous для продолжающихся процессов, и future perfect continuous для длительной продолжительности исследований.",
+                "uz": "Tibbiy tadqiqotlar haqidagi bu parcha kelajak shakllarining murakkab ishlatilishini ko'rsatadi: konferentsiya sanalari uchun present simple, e'lonlar va bashoratlar uchun 'will', davom etayotgan investitsiyalar uchun present continuous, davom etayotgan jarayonlar uchun future continuous va tadqiqotning uzoq davomiyligi uchun future perfect continuous."
+            }
+        }
+    ]
+}

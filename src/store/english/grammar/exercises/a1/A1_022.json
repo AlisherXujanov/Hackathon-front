@@ -1,0 +1,855 @@
+{
+    "id": "A1_THE_IMPERATIVE_SIT_DOWN_DONT_TALK_COMMANDS_AND_INSTRUCTIONS",
+    "title": "The Imperative (Sit down! Don't talk!) - Commands and instructions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You sit down!",
+                    "correct": false
+                },
+                {
+                    "answer": "Sitting down!",
+                    "correct": false
+                },
+                {
+                    "answer": "Sit down!",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative is formed using the base form of the verb without a subject. 'Sit down!' is the correct command.",
+                "ru": "Повелительное наклонение образуется с помощью базовой формы глагола без подлежащего. 'Sit down!' является правильной командой.",
+                "uz": "Buyruq fe'li shakli fe'lning boshlang'ich shaklidan sub'ektsiz yasaladi. 'Sit down!' to'g'ri buyruqdir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct command.",
+                "ru": "Выберите правильную команду.",
+                "uz": "To'g'ri buyruqni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Not to run.",
+                    "correct": false
+                },
+                {
+                    "answer": "Don't run.",
+                    "correct": true
+                },
+                {
+                    "answer": "You don't run.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Negative imperatives are formed with 'don't' followed by the base form of the verb.",
+                "ru": "Отрицательное повелительное наклонение образуется с помощью 'don't', за которым следует базовая форма глагола.",
+                "uz": "Inkor buyruq fe'li 'don't' bilan boshlanib, ortidan fe'lning boshlang'ich shakli keladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is a correct imperative?",
+                "ru": "Какое предложение является правильным повелительным наклонением?",
+                "uz": "Qaysi gap to'g'ri buyruq gap hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "To be quiet.",
+                    "correct": false
+                },
+                {
+                    "answer": "Be quiet.",
+                    "correct": true
+                },
+                {
+                    "answer": "Are quiet.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The imperative for the verb 'to be' uses the base form 'be'.",
+                "ru": "Повелительное наклонение для глагола 'to be' использует базовую форму 'be'.",
+                "uz": "'To be' fe'li uchun buyruq fe'li 'be' shaklida ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which is the correct negative imperative?",
+                "ru": "Какое отрицательное повелительное наклонение правильное?",
+                "uz": "Qaysi biri to'g'ri inkor buyruq gap?"
+            },
+            "options": [
+                {
+                    "answer": "Doesn't open the door.",
+                    "correct": false
+                },
+                {
+                    "answer": "Don't open the door.",
+                    "correct": true
+                },
+                {
+                    "answer": "Not open the door.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Negative commands are formed with 'don't' + base verb, not 'doesn't'.",
+                "ru": "Отрицательные команды образуются с 'don't' + базовый глагол, а не 'doesn't'.",
+                "uz": "Inkor buyruq gaplar 'don't' + fe'lning boshlang'ich shakli bilan yasaladi, 'doesn't' bilan emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct command to give a positive instruction.",
+                "ru": "Выберите правильную команду, чтобы дать положительную инструкцию.",
+                "uz": "Ijobiy ko'rsatma berish uchun to'g'ri buyruqni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "To listen to me.",
+                    "correct": false
+                },
+                {
+                    "answer": "Listened to me.",
+                    "correct": false
+                },
+                {
+                    "answer": "Listen to me.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative form uses the simple base form of the verb, 'listen'.",
+                "ru": "Форма повелительного наклонения использует простую базовую форму глагола, 'listen'.",
+                "uz": "Buyruq fe'li 'listen' fe'lning oddiy boshlang'ich shaklidan foydalanadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which of these is a correct imperative?",
+                "ru": "Какой из этих вариантов является правильным повелительным наклонением?",
+                "uz": "Qaysi biri to'g'ri buyruq fe'li?"
+            },
+            "options": [
+                {
+                    "answer": "We go to the store.",
+                    "correct": false
+                },
+                {
+                    "answer": "Let's go to the store.",
+                    "correct": true
+                },
+                {
+                    "answer": "To go to the store.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The word 'let's' is used to form a suggestion for a group, which is a type of imperative.",
+                "ru": "Слово 'let's' используется для формирования предложения для группы, что является типом повелительного наклонения.",
+                "uz": "'Let's' so'zi guruhga taklif bildirish uchun ishlatiladi, bu buyruq fe'li turidir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correctly formed imperative sentence.",
+                "ru": "Выберите правильно сформированное повелительное предложение.",
+                "uz": "To'g'ri tuzilgan buyruq gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "To open the window.",
+                    "correct": false
+                },
+                {
+                    "answer": "Open the window.",
+                    "correct": true
+                },
+                {
+                    "answer": "Opens the window.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Imperatives use the base form of the verb without any subject or ending.",
+                "ru": "В повелительном наклонении используется базовая форма глагола без подлежащего или окончания.",
+                "uz": "Buyruq fe'lida fe'lning boshlang'ich shakli hech qanday sub'ekt yoki qo'shimchasiz ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which option is a correct negative command?",
+                "ru": "Какой вариант является правильной отрицательной командой?",
+                "uz": "Qaysi variant to'g'ri inkor buyruq gap?"
+            },
+            "options": [
+                {
+                    "answer": "Don't shouting!",
+                    "correct": false
+                },
+                {
+                    "answer": "Not shout!",
+                    "correct": false
+                },
+                {
+                    "answer": "Don't shout!",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative imperative is formed by 'don't' followed by the base form of the verb, which is 'shout'.",
+                "ru": "Отрицательное повелительное наклонение образуется с помощью 'don't', за которым следует базовая форма глагола 'shout'.",
+                "uz": "Inkor buyruq fe'li 'don't' dan keyin 'shout' fe'lining boshlang'ich shakli bilan yasaladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the most polite way to give a positive command.",
+                "ru": "Выберите самый вежливый способ дать положительную команду.",
+                "uz": "Ijobiy buyruq berishning eng muloyim usulini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Please close the door.",
+                    "correct": true
+                },
+                {
+                    "answer": "Close the door, please.",
+                    "correct": true
+                },
+                {
+                    "answer": "To close the door please.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Using 'please' at the beginning or end of an imperative makes the command more polite. Both 'Please close the door.' and 'Close the door, please.' are correct and polite.",
+                "ru": "Использование 'please' в начале или в конце повелительного предложения делает команду более вежливой. И 'Please close the door.', и 'Close the door, please.' являются правильными и вежливыми.",
+                "uz": "Buyruq gapining boshida yoki oxirida 'please' so'zidan foydalanish buyruqni yanada muloyim qiladi. 'Please close the door.' va 'Close the door, please.' gaplarining ikkalasi ham to'g'ri va muloyimdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is a correct imperative?",
+                "ru": "Какое предложение является правильным повелительным наклонением?",
+                "uz": "Qaysi gap to'g'ri buyruq gap hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "You be quiet.",
+                    "correct": false
+                },
+                {
+                    "answer": "Don't be late.",
+                    "correct": true
+                },
+                {
+                    "answer": "Doesn't be late.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The negative imperative for 'to be' uses 'don't be', not 'doesn't be'.",
+                "ru": "Отрицательное повелительное наклонение для 'to be' использует 'don't be', а не 'doesn't be'.",
+                "uz": "'To be' fe'li uchun inkor buyruq fe'li 'don't be' shaklida ishlatiladi, 'doesn't be' emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ to the board, please.",
+                "ru": "Дополните предложение: ___ to the board, please.",
+                "uz": "Gapni to'ldiring: ___ to the board, please."
+            },
+            "options": [
+                {
+                    "answer": "go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative is formed using the base form of the verb 'go'.",
+                "ru": "Повелительное наклонение образуется с помощью базовой формы глагола 'go'.",
+                "uz": "Buyruq fe'li 'go' fe'lining boshlang'ich shaklidan yasaladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative imperative: ___ make a lot of noise.",
+                "ru": "Дополните предложение отрицательным повелительным наклонением: ___ make a lot of noise.",
+                "uz": "Gapni inkor buyruq fe'li bilan to'ldiring: ___ make a lot of noise."
+            },
+            "options": [
+                {
+                    "answer": "don't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Negative imperatives start with 'don't' followed by the base verb.",
+                "ru": "Отрицательные повелительные наклонения начинаются с 'don't', за которым следует базовый глагол.",
+                "uz": "Inkor buyruq fe'li 'don't' so'zi bilan boshlanib, ortidan fe'lning boshlang'ich shakli keladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ careful with that glass.",
+                "ru": "Дополните предложение: ___ careful with that glass.",
+                "uz": "Gapni to'ldiring: ___ careful with that glass."
+            },
+            "options": [
+                {
+                    "answer": "be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative form for the verb 'to be' is 'be'.",
+                "ru": "Повелительное наклонение для глагола 'to be' - 'be'.",
+                "uz": "'To be' fe'li uchun buyruq fe'li shakli 'be'."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ your homework before you play.",
+                "ru": "Дополните предложение: ___ your homework before you play.",
+                "uz": "Gapni to'ldiring: ___ your homework before you play."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The base form of the verb 'do' is used to give a command.",
+                "ru": "Базовая форма глагола 'do' используется для выражения команды.",
+                "uz": "'Do' fe'lining boshlang'ich shakli buyruq berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ late for the meeting!",
+                "ru": "Дополните предложение: ___ late for the meeting!",
+                "uz": "Gapni to'ldiring: ___ late for the meeting!"
+            },
+            "options": [
+                {
+                    "answer": "don't be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative imperative for 'to be' requires both 'don't' and 'be'.",
+                "ru": "Отрицательное повелительное наклонение для 'to be' требует и 'don't', и 'be'.",
+                "uz": "'To be' uchun inkor buyruq fe'li 'don't' va 'be'ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative imperative: ___ forget your keys.",
+                "ru": "Дополните предложение отрицательным повелительным наклонением: ___ forget your keys.",
+                "uz": "Gapni inkor buyruq fe'li bilan to'ldiring: ___ forget your keys."
+            },
+            "options": [
+                {
+                    "answer": "don't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Negative imperatives are formed by adding 'don't' before the base verb.",
+                "ru": "Отрицательные повелительные наклонения образуются путем добавления 'don't' перед базовым глаголом.",
+                "uz": "Inkor buyruq fe'li fe'lning boshlang'ich shaklidan oldin 'don't' so'zini qo'shish bilan yasaladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please ___ your bag on the chair.",
+                "ru": "Дополните предложение: Please ___ your bag on the chair.",
+                "uz": "Gapni to'ldiring: Please ___ your bag on the chair."
+            },
+            "options": [
+                {
+                    "answer": "put",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative uses the base form of the verb, 'put', for commands.",
+                "ru": "В повелительном наклонении для команд используется базовая форма глагола 'put'.",
+                "uz": "Buyruqlarda fe'lning boshlang'ich shakli, 'put' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative imperative: ___ run in the classroom.",
+                "ru": "Дополните предложение отрицательным повелительным наклонением: ___ run in the classroom.",
+                "uz": "Gapni inkor buyruq fe'li bilan to'ldiring: ___ run in the classroom."
+            },
+            "options": [
+                {
+                    "answer": "don't/do not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative imperative is formed with 'don't' before the verb.",
+                "ru": "Отрицательное повелительное наклонение образуется с помощью 'don't' перед глаголом.",
+                "uz": "Inkor buyruq fe'li fe'ldan oldin 'don't' so'zi bilan yasaladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ a good student.",
+                "ru": "Дополните предложение: ___ a good student.",
+                "uz": "Gapni to'ldiring: ___ a good student."
+            },
+            "options": [
+                {
+                    "answer": "be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The base form of 'to be', which is 'be', is used for commands.",
+                "ru": "Базовая форма 'to be', 'be', используется для команд.",
+                "uz": "'To be' fe'lining boshlang'ich shakli 'be' buyruqlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please ___ me the salt.",
+                "ru": "Дополните предложение: Please ___ me the salt.",
+                "uz": "Gapni to'ldiring: Please ___ me the salt."
+            },
+            "options": [
+                {
+                    "answer": "pass",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The imperative is formed using the base verb 'pass'.",
+                "ru": "Повелительное наклонение образуется с помощью базового глагола 'pass'.",
+                "uz": "Buyruq fe'li 'pass' fe'lining boshlang'ich shaklidan yasaladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "The librarian is very strict. ___1___ quiet in the library, and ___2___ make any loud noises. When you are finished with a book, ___3___ it on the shelf in the correct place. If you can't find the right place, ___4___ the librarian for help. She is always there to help you. ___5___ sure to ___6___ your bag at the front desk when you enter. ___7___ your phone on silent. ___8___ use your laptop loudly. ___9___ disturb other people who are studying. ___10___ respectful and always ___11___ the rules.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Be"
+                },
+                {
+                    "blank": "2",
+                    "answer": "don't"
+                },
+                {
+                    "blank": "3",
+                    "answer": "put"
+                },
+                {
+                    "blank": "4",
+                    "answer": "ask"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Be"
+                },
+                {
+                    "blank": "6",
+                    "answer": "leave"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Keep/put"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Be"
+                },
+                {
+                    "blank": "11",
+                    "answer": "follow"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses various imperative forms. 'Be' is used for the verb 'to be', 'don't' for negative commands, and base verbs like 'put', 'ask', 'leave', 'keep', and 'follow' for positive commands.",
+                "ru": "Этот отрывок использует различные формы повелительного наклонения. 'Be' используется для глагола 'to be', 'don't' для отрицательных команд, а базовые глаголы, такие как 'put', 'ask', 'leave', 'keep' и 'follow' для положительных команд.",
+                "uz": "Bu matn turli buyruq fe'li shakllaridan foydalanadi. 'Be' 'to be' fe'li uchun, 'don't' inkor buyruqlar uchun, 'put', 'ask', 'leave', 'keep' va 'follow' kabi fe'llarning boshlang'ich shakllari esa ijobiy buyruqlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "For a healthy life, ___1___ these instructions. First, ___2___ a healthy diet. ___3___ lots of fruits and vegetables. ___4___ drink too much soda. ___5___ eat too many sweets. Second, ___6___ regularly. ___7___ a brisk walk every day, or ___8___ to the gym. ___9___ sit on the couch all day. Third, ___10___ enough sleep. ___11___ to bed early and ___12___ your alarm for the morning. ___13___ stay up late watching TV. ___14___ your body and ___15___ your mind.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "follow"
+                },
+                {
+                    "blank": "2",
+                    "answer": "eat"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Eat"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "6",
+                    "answer": "exercise"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Take"
+                },
+                {
+                    "blank": "8",
+                    "answer": "go"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "get"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Go"
+                },
+                {
+                    "blank": "12",
+                    "answer": "set"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "14",
+                    "answer": "Love"
+                },
+                {
+                    "blank": "15",
+                    "answer": "clear"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses a variety of imperative forms to give health advice. Positive commands use base verbs like 'follow', 'eat', 'exercise', 'take', 'go', 'get', 'set', 'love', and 'clear'. Negative commands use 'don't'.",
+                "ru": "Этот текст использует различные формы повелительного наклонения, чтобы дать советы по здоровью. Положительные команды используют базовые глаголы, такие как 'follow', 'eat', 'exercise', 'take', 'go', 'get', 'set', 'love' и 'clear'. Отрицательные команды используют 'don't'.",
+                "uz": "Bu matn sog'liq haqida maslahat berish uchun turli buyruq fe'li shakllaridan foydalanadi. Ijobiy buyruqlar 'follow', 'eat', 'exercise', 'take', 'go', 'get', 'set', 'love' va 'clear' kabi fe'lning boshlang'ich shakllarini ishlatadi. Inkor buyruqlar 'don't' so'zidan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "For a successful party, ___1___ a good plan. First, ___2___ invitations to all your friends. ___3___ a week before the party. ___4___ to be late. ___5___ them that the party starts at 7 PM. When they arrive, ___6___ them a drink and ___7___ them to the other guests. ___8___ a friendly and welcoming host. ___9___ all your guests feel comfortable. ___10___ your friends. ___11___ loud music. ___12___ sure the music is enjoyable for everyone. ___13___ a good time and ___14___ new people. ___15___ your friends for coming.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "make"
+                },
+                {
+                    "blank": "2",
+                    "answer": "send"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Send"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Don't tell/Tell them not"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Tell"
+                },
+                {
+                    "blank": "6",
+                    "answer": "offer"
+                },
+                {
+                    "blank": "7",
+                    "answer": "introduce"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Be"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Make"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Enjoy/Enjoy with"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Don't play/Don't put on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Make"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "meet"
+                },
+                {
+                    "blank": "15",
+                    "answer": "Thank"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses various imperative forms. 'Be' is used for the verb 'to be', 'don't' for negative commands, and base verbs like 'make', 'send', 'tell', 'offer', 'introduce', 'enjoy', 'have', 'meet', and 'thank' for positive commands.",
+                "ru": "Этот отрывок использует различные формы повелительного наклонения. 'Be' используется для глагола 'to be', 'don't' для отрицательных команд, а базовые глаголы, такие как 'make', 'send', 'tell', 'offer', 'introduce', 'enjoy', 'have', 'meet' и 'thank' для положительных команд.",
+                "uz": "Bu matn turli buyruq fe'li shakllaridan foydalanadi. 'Be' 'to be' fe'li uchun, 'don't' inkor buyruqlar uchun, 'make', 'send', 'tell', 'offer', 'introduce', 'enjoy', 'have', 'meet' va 'thank' kabi fe'llarning boshlang'ich shakllari esa ijobiy buyruqlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "For good communication, ___1___ these tips. First, ___2___ a good listener. ___3___ attention to what the other person is saying. ___4___ interrupt them while they are talking. Second, ___5___ questions. This shows you are interested. ___6___ afraid to ask for clarification. ___7___ your opinions clearly and politely. Third, ___8___ your feelings. ___9___ emotional. ___10___ your thoughts in a calm and respectful way. Fourth, ___11___ eye contact. This makes the other person feel more comfortable. ___12___ away when someone is talking to you. ___13___ open and honest. ___14___ your voice. ___15___ loudly.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "follow"
+                },
+                {
+                    "blank": "2",
+                    "answer": "be"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Pay/give"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Don't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Ask"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Don't be"
+                },
+                {
+                    "blank": "7",
+                    "answer": "State"
+                },
+                {
+                    "blank": "8",
+                    "answer": "express"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Don't be"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Share"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Maintain/make"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Don't look/Don't turn"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "Control/manage"
+                },
+                {
+                    "blank": "15",
+                    "answer": "Don't speak"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses a variety of imperative forms to give advice on communication. 'Be' is used for the verb 'to be', 'don't' for negative commands, and base verbs like 'follow', 'pay', 'ask', 'state', 'express', 'share', 'maintain', 'control', and 'speak' for positive commands.",
+                "ru": "Этот отрывок использует различные формы повелительного наклонения, чтобы дать советы по общению. 'Be' используется для глагола 'to be', 'don't' для отрицательных команд, а базовые глаголы, такие как 'follow', 'pay', 'ask', 'state', 'express', 'share', 'maintain', 'control' и 'speak' для положительных команд.",
+                "uz": "Bu matn muloqot bo'yicha maslahat berish uchun turli buyruq fe'li shakllaridan foydalanadi. 'Be' 'to be' fe'li uchun, 'don't' inkor buyruqlar uchun, 'follow', 'pay', 'ask', 'state', 'express', 'share', 'maintain', 'control' va 'speak' kabi fe'llarning boshlang'ich shakllari esa ijobiy buyruqlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Your car needs some work, so ___1___ to the mechanic. ___2___ an appointment before you go. ___3___ late for the appointment. ___4___ the mechanic about the strange noise coming from the engine. ___5___ them to check the oil and tires, too. ___6___ your phone number in case they need to contact you. ___7___ to argue with them about the price. ___8___ them to call you with a quote. ___9___ sure you get a quote before they start the work. ___10___ them to explain everything clearly. ___11___ the instructions they give you. ___12___ the receipt when you pick up your car. ___13___ it in a safe place. ___14___ your car to be a little slow at first. ___15___ your seatbelt!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "go"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Make"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Don't be"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Tell/ask"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Ask"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Give"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Don't try"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Ask"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Make"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Ask"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Follow"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Keep"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Put"
+                },
+                {
+                    "blank": "14",
+                    "answer": "Expect"
+                },
+                {
+                    "blank": "15",
+                    "answer": "Wear/fasten"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses imperative forms to give instructions about dealing with a car mechanic. The text uses a combination of positive commands (e.g., 'go', 'make', 'ask', 'give', 'follow', 'keep', 'put', 'expect', and 'wear') and negative commands ('don't').",
+                "ru": "Этот текст использует формы повелительного наклонения, чтобы дать инструкции по общению с автомехаником. В тексте используется комбинация положительных команд (например, 'go', 'make', 'ask', 'give', 'follow', 'keep', 'put', 'expect' и 'wear') и отрицательных команд ('don't').",
+                "uz": "Bu matn avtomobil ustasi bilan muloqot qilish bo'yicha ko'rsatma berish uchun buyruq fe'li shakllaridan foydalanadi. Matnda ijobiy buyruqlar ('go', 'make', 'ask', 'give', 'follow', 'keep', 'put', 'expect' va 'wear') va inkor buyruqlarning ('don't') kombinatsiyasi ishlatilgan."
+            }
+        }
+    ]
+}

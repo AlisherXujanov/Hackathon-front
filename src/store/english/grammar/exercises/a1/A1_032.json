@@ -1,0 +1,839 @@
+{
+    "id": "A1_BASIC_WORD_ORDER_IN_ENGLISH_SUBJECT_VERB_OBJECT_PATTERNS",
+    "title": "Basic word order in English: Subject-verb-object patterns",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "A sandwich eats a girl.",
+                    "correct": false
+                },
+                {
+                    "answer": "A girl eats a sandwich.",
+                    "correct": true
+                },
+                {
+                    "answer": "Eats a girl a sandwich."
+                }
+            ],
+            "explanation": {
+                "en": "In English, the basic word order is Subject-Verb-Object. 'A girl' is the subject, 'eats' is the verb, and 'a sandwich' is the object.",
+                "ru": "В английском языке основной порядок слов - Подлежащее-Сказуемое-Дополнение. 'A girl' (девочка) - это подлежащее, 'eats' (ест) - это сказуемое, и 'a sandwich' (бутерброд) - это дополнение.",
+                "uz": "Ingliz tilida asosiy so'z tartibi Ega-Kesum-To'ldiruvchi bo'lib, 'A girl' (qiz) - ega, 'eats' (yeydi) - kesim va 'a sandwich' (sendvich) - to'ldiruvchidir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Coffee drinks my friend.",
+                    "correct": false
+                },
+                {
+                    "answer": "My friend drinks coffee.",
+                    "correct": true
+                },
+                {
+                    "answer": "Drinks coffee my friend."
+                }
+            ],
+            "explanation": {
+                "en": "The correct Subject-Verb-Object order is 'My friend' (subject) + 'drinks' (verb) + 'coffee' (object).",
+                "ru": "Правильный порядок Подлежащее-Сказуемое-Дополнение - 'My friend' (мой друг) + 'drinks' (пьет) + 'coffee' (кофе).",
+                "uz": "To'g'ri ega-kesim-to'ldiruvchi tartibi 'My friend' (do'stim) + 'drinks' (ichadi) + 'coffee' (kofe)."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the correct word order.",
+                "ru": "Выберите предложение с правильным порядком слов.",
+                "uz": "So'zlar tartibi to'g'ri bo'lgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He loves books.",
+                    "correct": true
+                },
+                {
+                    "answer": "Loves he books.",
+                    "correct": false
+                },
+                {
+                    "answer": "Books loves he."
+                }
+            ],
+            "explanation": {
+                "en": "The correct English word order is Subject ('He') followed by the verb ('loves') and then the object ('books').",
+                "ru": "Правильный порядок слов в английском языке - это Подлежащее ('He') за которым следует сказуемое ('loves'), а затем дополнение ('books').",
+                "uz": "Ingliz tilida to'g'ri so'z tartibi Ega ('He'), keyin Kesim ('loves') va undan keyin To'ldiruvchi ('books')."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which of these is a correct sentence?",
+                "ru": "Какое из этих предложений правильное?",
+                "uz": "Bulardan qaysi biri to'g'ri gap?"
+            },
+            "options": [
+                {
+                    "answer": "My brother plays the guitar.",
+                    "correct": true
+                },
+                {
+                    "answer": "The guitar plays my brother.",
+                    "correct": false
+                },
+                {
+                    "answer": "Plays my brother the guitar."
+                }
+            ],
+            "explanation": {
+                "en": "In this sentence, 'My brother' is the subject, 'plays' is the verb, and 'the guitar' is the object, which is the standard SVO pattern.",
+                "ru": "В этом предложении 'My brother' (мой брат) - подлежащее, 'plays' (играет) - сказуемое, и 'the guitar' (на гитаре) - дополнение, что является стандартным порядком SVO.",
+                "uz": "Bu gapda 'My brother' (akam) - ega, 'plays' (o'ynaydi) - kesim va 'the guitar' (gitarani) - to'ldiruvchi bo'lib, bu standart EKT (SVO) tartibidir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that follows the Subject-Verb-Object rule.",
+                "ru": "Выберите предложение, которое соответствует правилу Подлежащее-Сказуемое-Дополнение.",
+                "uz": "Ega-Kesim-To'ldiruvchi qoidasiga amal qiluvchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "A letter writes she.",
+                    "correct": false
+                },
+                {
+                    "answer": "Writes she a letter.",
+                    "correct": false
+                },
+                {
+                    "answer": "She writes a letter.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The sentence 'She writes a letter' has the correct SVO order: 'She' (subject), 'writes' (verb), 'a letter' (object).",
+                "ru": "Предложение 'She writes a letter' имеет правильный порядок SVO: 'She' (подлежащее), 'writes' (сказуемое), 'a letter' (дополнение).",
+                "uz": "'She writes a letter' gapi to'g'ri EKT tartibiga ega: 'She' (ega), 'writes' (kesim), 'a letter' (to'ldiruvchi)."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He watches television.",
+                    "correct": true
+                },
+                {
+                    "answer": "Television watches he.",
+                    "correct": false
+                },
+                {
+                    "answer": "Watches he television."
+                }
+            ],
+            "explanation": {
+                "en": "The standard English word order is Subject ('He') + Verb ('watches') + Object ('television'). The other options have incorrect word order.",
+                "ru": "Стандартный порядок слов в английском языке - Подлежащее ('He') + Сказуемое ('watches') + Дополнение ('television'). Другие варианты имеют неправильный порядок слов.",
+                "uz": "Ingliz tilida standart so'z tartibi Ega ('He') + Kesim ('watches') + To'ldiruvchi ('television'). Boshqa variantlarda so'z tartibi noto'g'ri."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The dog chases the cat.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cat chases the dog.",
+                    "correct": false
+                },
+                {
+                    "answer": "Chases the dog the cat."
+                }
+            ],
+            "explanation": {
+                "en": "The correct SVO order is 'The dog' (subject) + 'chases' (verb) + 'the cat' (object). The second option reverses the subject and object.",
+                "ru": "Правильный порядок SVO - 'The dog' (собака) + 'chases' (гонится за) + 'the cat' (кошка). Второй вариант меняет местами подлежащее и дополнение.",
+                "uz": "To'g'ri EKT tartibi 'The dog' (it) + 'chases' (quvadi) + 'the cat' (mushuk). Ikkinchi variantda ega va to'ldiruvchi o'rni almashtirilgan."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the correct word order.",
+                "ru": "Выберите предложение с правильным порядком слов.",
+                "uz": "So'zlar tartibi to'g'ri bo'lgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Likes my sister chocolate.",
+                    "correct": false
+                },
+                {
+                    "answer": "Chocolate likes my sister.",
+                    "correct": false
+                },
+                {
+                    "answer": "My sister likes chocolate.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The sentence 'My sister likes chocolate' follows the standard Subject-Verb-Object pattern.",
+                "ru": "Предложение 'My sister likes chocolate' соответствует стандартному порядку Подлежащее-Сказуемое-Дополнение.",
+                "uz": "'My sister likes chocolate' gapi standart Ega-Kesim-To'ldiruvchi tartibiga amal qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which of these is a correct sentence?",
+                "ru": "Какое из этих предложений правильное?",
+                "uz": "Bulardan qaysi biri to'g'ri gap?"
+            },
+            "options": [
+                {
+                    "answer": "He plays with his friends.",
+                    "correct": true
+                },
+                {
+                    "answer": "With his friends he plays.",
+                    "correct": false
+                },
+                {
+                    "answer": "Plays he with his friends."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'He' comes first, followed by the verb 'plays', and then the rest of the sentence. The prepositional phrase 'with his friends' comes after the SVO core.",
+                "ru": "Подлежащее 'He' стоит на первом месте, за ним следует сказуемое 'plays', а затем остальная часть предложения. Предложная фраза 'with his friends' идет после основной части предложения.",
+                "uz": "Ega 'He' birinchi o'rinda keladi, undan keyin 'plays' kesimi va keyin gapning qolgan qismi keladi. 'With his friends' predlogi gapi EKT (SVO) asosidan keyin keladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The sun rises in the morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "Rises the sun in the morning.",
+                    "correct": false
+                },
+                {
+                    "answer": "The sun in the morning rises."
+                }
+            ],
+            "explanation": {
+                "en": "The correct SVO word order is 'The sun' (subject) + 'rises' (verb) + 'in the morning' (adverbial phrase).",
+                "ru": "Правильный порядок слов SVO - 'The sun' (солнце) + 'rises' (встает) + 'in the morning' (утром).",
+                "uz": "To'g'ri EKT so'z tartibi 'The sun' (quyosh) + 'rises' (chiqadi) + 'in the morning' (ertalab)."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My mom ___ a delicious cake.",
+                "ru": "Дополните предложение: My mom ___ a delicious cake.",
+                "uz": "Gapni to'ldiring: My mom ___ a delicious cake."
+            },
+            "options": [
+                {
+                    "answer": "bakes/makes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my mom' is singular, so the verb 'bake' must be in the third-person singular form, 'bakes'.",
+                "ru": "Подлежащее 'my mom' (моя мама) в единственном числе, поэтому глагол 'bake' (печь) должен быть в форме третьего лица единственного числа, 'bakes'.",
+                "uz": "Ega 'my mom' (mening onam) birlikda bo'lgani uchun 'bake' (pishirmoq) fe'li uchinchi shaxs birlik shaklida, 'bakes' bo'lishi kerak."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The students ___ a book in class.",
+                "ru": "Дополните предложение: The students ___ a book in class.",
+                "uz": "Gapni to'ldiring: The students ___ a book in class."
+            },
+            "options": [
+                {
+                    "answer": "read",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the students' is plural, so the verb 'read' remains in its base form.",
+                "ru": "Подлежащее 'the students' (студенты) во множественном числе, поэтому глагол 'read' (читать) остается в своей базовой форме.",
+                "uz": "Ega 'the students' (o'quvchilar) ko'plikda bo'lgani uchun 'read' (o'qimoq) fe'li asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ to the park on Saturdays.",
+                "ru": "Дополните предложение: We ___ to the park on Saturdays.",
+                "uz": "Gapni to'ldiring: We ___ to the park on Saturdays."
+            },
+            "options": [
+                {
+                    "answer": "go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'we' is a plural pronoun, so the verb 'go' does not change form.",
+                "ru": "Подлежащее 'we' (мы) - это местоимение во множественном числе, поэтому глагол 'go' (идти) не меняет форму.",
+                "uz": "Ega 'we' (biz) ko'plik olmoshi bo'lgani uchun 'go' (bormoq) fe'li o'zgarishsiz qoladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The dog ___ after the ball.",
+                "ru": "Дополните предложение: The dog ___ after the ball.",
+                "uz": "Gapni to'ldiring: The dog ___ after the ball."
+            },
+            "options": [
+                {
+                    "answer": "runs",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the dog' is singular, so the verb 'run' needs an '-s' ending.",
+                "ru": "Подлежащее 'the dog' (собака) в единственном числе, поэтому глагол 'run' (бежать) требует окончания '-s'.",
+                "uz": "Ega 'the dog' (it) birlikda bo'lgani uchun 'run' (yugurmoq) fe'li oxiriga '-s' qo'shimchasini talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ my homework after school.",
+                "ru": "Дополните предложение: I ___ my homework after school.",
+                "uz": "Gapni to'ldiring: I ___ my homework after school."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The pronoun 'I' uses the base form of the verb 'do', not 'does'.",
+                "ru": "Местоимение 'I' (я) использует базовую форму глагола 'do' (делать), а не 'does'.",
+                "uz": "'I' (men) olmoshi 'do' fe'lining asosiy shaklidan foydalanadi, 'does' emas."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The sun ___ in the east.",
+                "ru": "Дополните предложение: The sun ___ in the east.",
+                "uz": "Gapni to'ldiring: The sun ___ in the east."
+            },
+            "options": [
+                {
+                    "answer": "rises",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the sun' is singular, so the verb 'rise' takes an '-s' ending.",
+                "ru": "Подлежащее 'the sun' (солнце) в единственном числе, поэтому глагол 'rise' (восходить) принимает окончание '-s'.",
+                "uz": "Ega 'the sun' (quyosh) birlikda bo'lgani uchun 'rise' (chiqmoq) fe'li '-s' qo'shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ a new car.",
+                "ru": "Дополните предложение: He ___ a new car.",
+                "uz": "Gapni to'ldiring: He ___ a new car."
+            },
+            "options": [
+                {
+                    "answer": "has",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'have' becomes 'has' for third-person singular subjects like 'he'.",
+                "ru": "Глагол 'have' (иметь) становится 'has' для подлежащих в третьем лице единственного числа, как 'he' (он).",
+                "uz": "'have' fe'li 'he' (u) kabi uchinchi shaxs birlik egalari uchun 'has' bo'ladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children ___ in the park.",
+                "ru": "Дополните предложение: The children ___ in the park.",
+                "uz": "Gapni to'ldiring: The children ___ in the park."
+            },
+            "options": [
+                {
+                    "answer": "play",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the children' is plural, so the verb 'play' is used in its base form.",
+                "ru": "Подлежащее 'the children' (дети) во множественном числе, поэтому глагол 'play' (играть) используется в своей базовой форме.",
+                "uz": "Ega 'the children' (bolalar) ko'plikda bo'lgani uchun 'play' (o'ynamoq) fe'li o'zining asosiy shaklida ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ their grandparents every weekend.",
+                "ru": "Дополните предложение: They ___ their grandparents every weekend.",
+                "uz": "Gapni to'ldiring: They ___ their grandparents every weekend."
+            },
+            "options": [
+                {
+                    "answer": "visit",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'they' is a plural pronoun, so the verb 'visit' does not need an '-s' ending.",
+                "ru": "Подлежащее 'they' (они) - это местоимение во множественном числе, поэтому глагол 'visit' (посещать) не требует окончания '-s'.",
+                "uz": "Ega 'they' (ular) ko'plik olmoshi bo'lgani uchun 'visit' (tashrif buyurmoq) fe'li '-s' qo'shimchasiga muhtoj emas."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ a teacher.",
+                "ru": "Дополните предложение: She ___ a teacher.",
+                "uz": "Gapni to'ldiring: She ___ a teacher."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'to be' for a singular subject 'she' is 'is'.",
+                "ru": "Глагол 'to be' (быть) для подлежащего в единственном числе 'she' (она) - 'is'.",
+                "uz": "Birlik egasi 'she' (u) uchun 'to be' fe'li 'is' bo'ladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I ___1___ (live) in a big city. My parents ___2___ (have) a small garden on the balcony. Every morning, my father ___3___ (drink) coffee and ___4___ (read) the newspaper. My mother ___5___ (start) her work at nine o'clock. My brother and I ___6___ (study) at the local school. My brother ___7___ (like) to play football with his friends. He ___8___ (kick) the ball very hard. After school, I ___9___ (help) my mother cook dinner. We ___10___ (prepare) a different meal every night. Sometimes, my father ___11___ (watch) television in the evening. My mom ___12___ (listen) to music. We all ___13___ (eat) dinner together at seven o'clock. It is a nice routine.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "live"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "drinks"
+                },
+                {
+                    "blank": "4",
+                    "answer": "reads"
+                },
+                {
+                    "blank": "5",
+                    "answer": "starts"
+                },
+                {
+                    "blank": "6",
+                    "answer": "study"
+                },
+                {
+                    "blank": "7",
+                    "answer": "likes"
+                },
+                {
+                    "blank": "8",
+                    "answer": "kicks"
+                },
+                {
+                    "blank": "9",
+                    "answer": "help"
+                },
+                {
+                    "blank": "10",
+                    "answer": "prepare"
+                },
+                {
+                    "blank": "11",
+                    "answer": "watches"
+                },
+                {
+                    "blank": "12",
+                    "answer": "listens"
+                },
+                {
+                    "blank": "13",
+                    "answer": "eat"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your understanding of subject-verb agreement in the present simple tense. For singular subjects (he, she, my father), the verb takes an '-s' ending. For plural subjects (my family and I, we, they) or the pronoun 'I', the verb stays in its base form.",
+                "ru": "Это упражнение проверяет ваше понимание согласования подлежащего и сказуемого в настоящем простом времени. Для подлежащих в единственном числе (he, she, my father) глагол принимает окончание '-s'. Для подлежащих во множественном числе (my family and I, we, they) или местоимения 'I' глагол остается в своей базовой форме.",
+                "uz": "Bu mashq sizning hozirgi oddiy zamondagi ega-kesim kelishuvini tushunishingizni sinab ko'radi. Birlik egalari (he, she, my father) uchun fe'l '-s' qo'shimchasini oladi. Ko'plik egalari (my family and I, we, they) yoki 'I' olmoshi uchun fe'l asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The small town ___1___ (have) a quiet atmosphere. A local baker ___2___ (make) fresh bread every morning. The children ___3___ (go) to school on their bicycles. The town's clock ___4___ (chime) at noon. In the park, people ___5___ (walk) their dogs and ___6___ (talk) with their neighbors. The library ___7___ (open) at ten and ___8___ (close) at six. An old man ___9___ (sit) on a bench and ___10___ (watch) the world go by. The birds ___11___ (sing) beautifully in the trees. The river ___12___ (flow) slowly through the valley. It ___13___ (be) a peaceful place.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "go"
+                },
+                {
+                    "blank": "4",
+                    "answer": "chimes"
+                },
+                {
+                    "blank": "5",
+                    "answer": "walk"
+                },
+                {
+                    "blank": "6",
+                    "answer": "talk"
+                },
+                {
+                    "blank": "7",
+                    "answer": "opens"
+                },
+                {
+                    "blank": "8",
+                    "answer": "closes"
+                },
+                {
+                    "blank": "9",
+                    "answer": "sits"
+                },
+                {
+                    "blank": "10",
+                    "answer": "watches"
+                },
+                {
+                    "blank": "11",
+                    "answer": "sing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "flows"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on subject-verb agreement and present simple tense. Remember to add '-s' to verbs for singular subjects like 'the town', 'the baker', 'the clock', 'the library', 'an old man', 'the river'. For plural subjects like 'the children' and 'people', the verb remains in the base form.",
+                "ru": "Этот текст посвящен согласованию подлежащего и сказуемого в простом настоящем времени. Не забывайте добавлять '-s' к глаголам для подлежащих в единственном числе, таких как 'the town' (город), 'the baker' (пекарь), 'the clock' (часы), 'the library' (библиотека), 'an old man' (старик), 'the river' (река). Для подлежащих во множественном числе, таких как 'the children' (дети) и 'people' (люди), глагол остается в базовой форме.",
+                "uz": "Bu matn ega-kesim kelishuviga va hozirgi oddiy zamoniga qaratilgan. 'the town' (shahar), 'the baker' (nonvoy), 'the clock' (soat), 'the library' (kutubxona), 'an old man' (qariya), 'the river' (daryo) kabi birlik egalari uchun fe'lga '-s' qo'shishni unutmang. 'the children' (bolalar) va 'people' (odamlar) kabi ko'plik egalari uchun fe'l asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Julia ___1___ (be) a talented artist. She ___2___ (draw) beautiful pictures of animals. Her best friend, Tom, ___3___ (like) to paint landscapes. He ___4___ (use) bright colors. They often ___5___ (work) together in the studio. They ___6___ (share) their ideas and ___7___ (give) each other advice. Julia ___8___ (believe) that art ___9___ (connect) people. Tom ___10___ (agree) with her. He always ___11___ (say), 'Art ___12___ (make) the world a better place.' Their teacher ___13___ (think) they are both very creative.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "draws"
+                },
+                {
+                    "blank": "3",
+                    "answer": "likes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "uses"
+                },
+                {
+                    "blank": "5",
+                    "answer": "work"
+                },
+                {
+                    "blank": "6",
+                    "answer": "share"
+                },
+                {
+                    "blank": "7",
+                    "answer": "give"
+                },
+                {
+                    "blank": "8",
+                    "answer": "believes"
+                },
+                {
+                    "blank": "9",
+                    "answer": "connects"
+                },
+                {
+                    "blank": "10",
+                    "answer": "agrees"
+                },
+                {
+                    "blank": "11",
+                    "answer": "says"
+                },
+                {
+                    "blank": "12",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "13",
+                    "answer": "thinks"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise reviews subject-verb agreement. Pay attention to whether the subject is singular (Julia, Tom, her teacher, art) or plural (They). Singular subjects require verbs ending in '-s' or the form 'is', while plural subjects use the base form of the verb.",
+                "ru": "Это упражнение повторяет согласование подлежащего и сказуемого. Обратите внимание, является ли подлежащее единственным (Julia, Tom, her teacher, art) или множественным числом (They). Подлежащие в единственном числе требуют глаголов, оканчивающихся на '-s', или формы 'is', тогда как подлежащие во множественном числе используют базовую форму глагола.",
+                "uz": "Ushbu mashq ega-kesim kelishuvini takrorlaydi. Ega birlikda (Julia, Tom, her teacher, art) yoki ko'plikda (They) ekanligiga e'tibor bering. Birlik egalari '-s' bilan tugaydigan fe'llarni yoki 'is' shaklini talab qiladi, ko'plik egalari esa fe'lning asosiy shaklidan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every morning, the birds outside my window ___1___ (sing) their songs. My alarm clock ___2___ (ring) at six. I ___3___ (get) up and ___4___ (go) to the kitchen. My cat ___5___ (wait) for me by the door. She ___6___ (want) her breakfast. I ___7___ (pour) some milk into her bowl. My sister ___8___ (sleep) late. She ___9___ (not wake up) easily. I ___10___ (make) my bed and ___11___ (brush) my teeth. My parents ___12___ (leave) for work early. They ___13___ (work) in the hospital. I ___14___ (eat) breakfast and ___15___ (pack) my school bag. The school bus ___16___ (come) at seven thirty.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "sing"
+                },
+                {
+                    "blank": "2",
+                    "answer": "rings"
+                },
+                {
+                    "blank": "3",
+                    "answer": "get"
+                },
+                {
+                    "blank": "4",
+                    "answer": "go"
+                },
+                {
+                    "blank": "5",
+                    "answer": "waits"
+                },
+                {
+                    "blank": "6",
+                    "answer": "wants"
+                },
+                {
+                    "blank": "7",
+                    "answer": "pour"
+                },
+                {
+                    "blank": "8",
+                    "answer": "sleeps"
+                },
+                {
+                    "blank": "9",
+                    "answer": "does not wake up/doesn't wake up"
+                },
+                {
+                    "blank": "10",
+                    "answer": "make"
+                },
+                {
+                    "blank": "11",
+                    "answer": "brush"
+                },
+                {
+                    "blank": "12",
+                    "answer": "leave"
+                },
+                {
+                    "blank": "13",
+                    "answer": "work"
+                },
+                {
+                    "blank": "14",
+                    "answer": "eat"
+                },
+                {
+                    "blank": "15",
+                    "answer": "pack"
+                },
+                {
+                    "blank": "16",
+                    "answer": "comes"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise systematically tests subject-verb agreement in the present simple tense. Remember that for singular subjects like 'my alarm clock', 'my cat', 'she', 'my sister', and 'the school bus', the verb takes an '-s'. For plural subjects like 'the birds' and 'my parents', and for the pronoun 'I', the verb remains in its base form.",
+                "ru": "Это упражнение систематически проверяет согласование подлежащего и сказуемого в настоящем простом времени. Помните, что для подлежащих в единственном числе, таких как 'my alarm clock' (мой будильник), 'my cat' (моя кошка), 'she' (она), 'my sister' (моя сестра) и 'the school bus' (школьный автобус), глагол принимает '-s'. Для подлежащих во множественном числе, таких как 'the birds' (птицы) и 'my parents' (мои родители), и для местоимения 'I', глагол остается в базовой форме.",
+                "uz": "Bu mashq hozirgi oddiy zamondagi ega-kesim kelishuvini tizimli ravishda sinovdan o'tkazadi. Unutmangki, 'my alarm clock' (mening budilnigim), 'my cat' (mening mushukim), 'she' (u), 'my sister' (mening opam/singlim) va 'the school bus' (maktab avtobusi) kabi birlik egalari uchun fe'l '-s' oladi. 'the birds' (qushlar) va 'my parents' (mening ota-onam) kabi ko'plik egalari uchun hamda 'I' (men) olmoshi uchun fe'l asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend Sarah ___1___ (study) at the university. She ___2___ (take) classes in the morning. After classes, she ___3___ (eat) lunch with her friends. They ___4___ (discuss) their homework. Sarah ___5___ (live) in a small apartment near the campus. Her roommate ___6___ (be) also a student. They ___7___ (share) the kitchen and the living room. Sarah ___8___ (study) in the library in the afternoon. She ___9___ (finish) her homework before dinner. In the evening, she often ___10___ (talk) to her family on the phone. Her parents ___11___ (miss) her. Her dog, Max, ___12___ (wait) for her return. Her little brother ___13___ (call) her every week. She ___14___ (love) her family very much.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "studies"
+                },
+                {
+                    "blank": "2",
+                    "answer": "takes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "eats"
+                },
+                {
+                    "blank": "4",
+                    "answer": "discuss"
+                },
+                {
+                    "blank": "5",
+                    "answer": "lives"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "share"
+                },
+                {
+                    "blank": "8",
+                    "answer": "studies"
+                },
+                {
+                    "blank": "9",
+                    "answer": "finishes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "talks"
+                },
+                {
+                    "blank": "11",
+                    "answer": "miss"
+                },
+                {
+                    "blank": "12",
+                    "answer": "waits"
+                },
+                {
+                    "blank": "13",
+                    "answer": "calls"
+                },
+                {
+                    "blank": "14",
+                    "answer": "loves"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your knowledge of subject-verb agreement in the simple present tense. A verb must agree with its subject in number. For third person singular subjects ('Sarah', 'her roommate', 'her brother'), the verb takes an '-s' or the 'is' form. For plural subjects ('her friends', 'her parents') or the pronoun 'they', the verb uses its base form.",
+                "ru": "Это упражнение проверяет ваши знания о согласовании подлежащего и сказуемого в простом настоящем времени. Глагол должен согласовываться с подлежащим в числе. Для подлежащих в третьем лице единственного числа ('Sarah', 'her roommate', 'her brother') глагол принимает окончание '-s' или форму 'is'. Для подлежащих во множественном числе ('her friends', 'her parents') или местоимения 'they' глагол используется в базовой форме.",
+                "uz": "Bu mashq sizning hozirgi oddiy zamondagi ega-kesim kelishuvini bilishingizni sinab ko'radi. Fe'l o'z egasi bilan son jihatdan mos kelishi kerak. Uchinchi shaxs birlik egalari ('Sarah', 'her roommate', 'her brother') uchun fe'l '-s' qo'shimchasini yoki 'is' shaklini oladi. Ko'plik egalari ('her friends', 'her parents') yoki 'they' olmoshi uchun fe'l asosiy shaklida ishlatiladi."
+            }
+        }
+    ]
+}

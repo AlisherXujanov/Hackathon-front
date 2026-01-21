@@ -1,0 +1,771 @@
+{
+    "id": "A2_MODALS_CAN_CANT_COULD_COULDN'T_ABILITY_IN_PAST_AND_POLITE_REQUESTS",
+    "title": "Modals (can/can't/could/couldn't) - Ability in past and polite requests",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't to swim when he was five.",
+                    "correct": false
+                },
+                {
+                    "answer": "He couldn't swim when he was five.",
+                    "correct": true
+                },
+                {
+                    "answer": "He couldn't to swim when he was five.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'couldn't' to talk about a past ability. The structure is 'could/couldn't' + base form of the verb without 'to'.",
+                "ru": "Используйте 'couldn't', чтобы говорить о способности в прошлом. Структура 'could/couldn't' + базовая форма глагола без 'to'.",
+                "uz": "O'tgan zamondagi qobiliyat haqida gapirish uchun 'couldn't' dan foydalaning. Tuzilishi 'could/couldn't' + fe'lning 'to'siz asosiy shakli."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Could you please help me with this box?",
+                    "correct": true
+                },
+                {
+                    "answer": "Can you please helping me with this box?",
+                    "correct": false
+                },
+                {
+                    "answer": "Could you please helps me with this box?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Both 'can' and 'could' are used for polite requests. The verb after a modal verb must be in its base form.",
+                "ru": "И 'can', и 'could' используются для вежливых просьб. Глагол после модального глагола должен быть в своей базовой форме.",
+                "uz": "Ham 'can', ham 'could' xushmuomalalik so'rovlar uchun ishlatiladi. Modal fe'ldan keyingi fe'l o'zining asosiy shaklida bo'lishi kerak."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly describes a past ability?",
+                "ru": "Какое предложение правильно описывает способность в прошлом?",
+                "uz": "Qaysi gap o'tgan zamondagi qobiliyatni to'g'ri tasvirlaydi?"
+            },
+            "options": [
+                {
+                    "answer": "I could sing when I was a child.",
+                    "correct": true
+                },
+                {
+                    "answer": "I can sang when I was a child.",
+                    "correct": false
+                },
+                {
+                    "answer": "I could singing when I was a child.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'could' for past ability. The verb following 'could' must be in its base form, not past tense or continuous form.",
+                "ru": "Используйте 'could' для способности в прошлом. Глагол после 'could' должен быть в базовой форме, а не в прошедшем времени или в форме continuous.",
+                "uz": "'Could' so'zini o'tgan zamondagi qobiliyat uchun ishlating. 'Could' dan keyin keladigan fe'l o'zining asosiy shaklida bo'lishi kerak, o'tgan zamon yoki davomli shaklda emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the most polite request.",
+                "ru": "Выберите наиболее вежливую просьбу.",
+                "uz": "Eng xushmuomala so'rovni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Can you open the door?",
+                    "correct": false
+                },
+                {
+                    "answer": "Could you open the door?",
+                    "correct": true
+                },
+                {
+                    "answer": "You can open the door?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Could' is generally considered more polite and formal than 'can' when making a request.",
+                "ru": "'Could' обычно считается более вежливым и формальным, чем 'can', при обращении с просьбой.",
+                "uz": "'Could' so'roq qilishda 'can' dan ko'ra odatda xushmuomalali va rasmiyroq hisoblanadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can't to cook when she was young.",
+                    "correct": false
+                },
+                {
+                    "answer": "She couldn't cook when she was young.",
+                    "correct": true
+                },
+                {
+                    "answer": "She can't cook when she was young.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Couldn't' is the correct modal to express lack of ability in the past. The simple present 'can't' is not used for past actions.",
+                "ru": "'Couldn't' - это правильный модальный глагол для выражения отсутствия способности в прошлом. Простое настоящее время 'can't' не используется для прошлых действий.",
+                "uz": "'Couldn't' o'tmishdagi qobiliyatsizlikni ifodalash uchun to'g'ri modal fe'ldir. Oddiy hozirgi zamon 'can't' o'tgan zamon harakatlari uchun ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is a polite request for permission?",
+                "ru": "Какой вопрос является вежливой просьбой о разрешении?",
+                "uz": "Qaysi savol ruxsat so'rash uchun xushmuomalalik hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "Could I borrow your pen?",
+                    "correct": true
+                },
+                {
+                    "answer": "Could I to borrow your pen?",
+                    "correct": false
+                },
+                {
+                    "answer": "Can I borrowing your pen?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Could' is used for polite requests for permission. After a modal verb, use the base form of the main verb without 'to'.",
+                "ru": "'Could' используется для вежливых просьб о разрешении. После модального глагола используйте базовую форму основного глагола без 'to'.",
+                "uz": "'Could' ruxsat so'rash uchun xushmuomalalik so'rovlar uchun ishlatiladi. Modal fe'ldan so'ng, asosiy fe'lning 'to'siz asosiy shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can speaks three languages now.",
+                    "correct": false
+                },
+                {
+                    "answer": "She can speak three languages now.",
+                    "correct": true
+                },
+                {
+                    "answer": "She cans speak three languages now.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "After 'can' and 'could', the verb is always in its base form. You don't add '-s' for the third person singular.",
+                "ru": "После 'can' и 'could' глагол всегда находится в базовой форме. Вы не добавляете '-s' для третьего лица единственного числа.",
+                "uz": "'Can' va 'could' dan keyin fe'l har doim o'zining asosiy shaklida bo'ladi. Uchinchi shaxs birlik uchun '-s' qo'shmaysiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which is the correct way to ask for a favor politely?",
+                "ru": "Какой способ правильно попросить об услуге вежливо?",
+                "uz": "Xushmuomalalik bilan yordam so'rashning to'g'ri usuli qaysi?"
+            },
+            "options": [
+                {
+                    "answer": "Could you close the window, please?",
+                    "correct": true
+                },
+                {
+                    "answer": "Can you to close the window, please?",
+                    "correct": false
+                },
+                {
+                    "answer": "You could close the window, please.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure for a polite request is 'Could you + base form of the verb'. The 'to' is not used after 'could'.",
+                "ru": "Правильная структура для вежливой просьбы - 'Could you + базовая форма глагола'. 'To' не используется после 'could'.",
+                "uz": "Xushmuomalalik so'rovning to'g'ri tuzilishi 'Could you + fe'lning asosiy shakli'dir. 'To' 'could' dan keyin ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I could not to see anything in the dark room.",
+                    "correct": false
+                },
+                {
+                    "answer": "I could not saw anything in the dark room.",
+                    "correct": false
+                },
+                {
+                    "answer": "I could not see anything in the dark room.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For negative past ability, use 'couldn't' or 'could not' followed by the base form of the verb.",
+                "ru": "Для отрицательной способности в прошлом используйте 'couldn't' или 'could not', за которым следует базовая форма глагола.",
+                "uz": "O'tgan zamondagi salbiy qobiliyat uchun 'couldn't' yoki 'could not' dan so'ng fe'lning asosiy shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is a polite request for a drink?",
+                "ru": "Какой вопрос является вежливой просьбой о напитке?",
+                "uz": "Qaysi savol ichimlik so'rash uchun xushmuomalalik hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "Could I have a glass of water?",
+                    "correct": true
+                },
+                {
+                    "answer": "Can I having a glass of water?",
+                    "correct": false
+                },
+                {
+                    "answer": "Could I to have a glass of water?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Could I have...?' for polite requests. The verb 'have' must be in its base form.",
+                "ru": "Используйте 'Could I have...?' для вежливых просьб. Глагол 'have' должен быть в своей базовой форме.",
+                "uz": "Xushmuomalalik so'rovlar uchun 'Could I have...?' dan foydalaning. 'Have' fe'li o'zining asosiy shaklida bo'lishi kerak."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When I was young, I ___ ride a bicycle.",
+                "ru": "Дополните предложение: When I was young, I ___ ride a bicycle.",
+                "uz": "Gapni to'ldiring: When I was young, I ___ ride a bicycle."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not/could",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'could' to express an ability that someone had in the past.",
+                "ru": "Используйте 'could' для выражения способности, которая была у кого-то в прошлом.",
+                "uz": "Kimningdir o'tmishda ega bo'lgan qobiliyatini ifodalash uchun 'could' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative modal verb: He ___ swim until he was ten years old.",
+                "ru": "Дополните предложение отрицательным модальным глаголом: He ___ swim until he was ten years old.",
+                "uz": "Gapni salbiy modal fe'l bilan to'ldiring: He ___ swim until he was ten years old."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'couldn't' or 'could not' to talk about a past inability.",
+                "ru": "Используйте 'couldn't' или 'could not', чтобы говорить о неспособности в прошлом.",
+                "uz": "O'tgan zamondagi qobiliyatsizlik haqida gapirish uchun 'couldn't' yoki 'could not' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete this polite request: ___ you tell me the time, please?",
+                "ru": "Дополните эту вежливую просьбу: ___ you tell me the time, please?",
+                "uz": "Bu xushmuomalalik so'rovni to'ldiring: ___ you tell me the time, please?"
+            },
+            "options": [
+                {
+                    "answer": "Could/Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'could' and 'can' are used for polite requests, though 'could' is more formal.",
+                "ru": "И 'could', и 'can' используются для вежливых просьб, хотя 'could' более формален.",
+                "uz": "Ikkalasi ham 'could' va 'can' xushmuomalalik so'rovlar uchun ishlatiladi, garchi 'could' rasmiyroq bo'lsa-da."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative modal verb: The baby ___ walk last month.",
+                "ru": "Дополните предложение отрицательным модальным глаголом: The baby ___ walk last month.",
+                "uz": "Gapni salbiy modal fe'l bilan to'ldiring: The baby ___ walk last month."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past time indicator 'last month' requires the past modal 'couldn't' to express a lack of past ability.",
+                "ru": "Индикатор прошедшего времени 'last month' требует прошедший модальный глагол 'couldn't' для выражения отсутствия способности в прошлом.",
+                "uz": "O'tgan zamon belgisi 'last month' o'tgan zamondagi qobiliyatsizlikni ifodalash uchun 'couldn't' modal fe'lini talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you please pass me the salt?",
+                "ru": "Дополните предложение: ___ you please pass me the salt?",
+                "uz": "Gapni to'ldiring: ___ you please pass me the salt?"
+            },
+            "options": [
+                {
+                    "answer": "Could/Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can' or 'Could' to make a polite request. 'Could' is often preferred for added politeness.",
+                "ru": "Используйте 'Can' или 'Could' для вежливой просьбы. 'Could' часто предпочтительнее для дополнительной вежливости.",
+                "uz": "Xushmuomalalik so'rov qilish uchun 'Can' yoki 'Could' dan foydalaning. 'Could' qo'shimcha xushmuomalalik uchun ko'proq afzal ko'riladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When he was a child, he ___ speak Spanish.",
+                "ru": "Дополните предложение: When he was a child, he ___ speak Spanish.",
+                "uz": "Gapni to'ldiring: When he was a child, he ___ speak Spanish."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not/could",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'When he was a child' indicates a past ability, which is expressed with 'could'.",
+                "ru": "Фраза 'When he was a child' указывает на прошлую способность, которая выражается с помощью 'could'.",
+                "uz": "'When he was a child' iborasi 'could' yordamida ifodalanadigan o'tgan zamondagi qobiliyatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you help me with my homework, please?",
+                "ru": "Дополните предложение: ___ you help me with my homework, please?",
+                "uz": "Gapni to'ldiring: ___ you help me with my homework, please?"
+            },
+            "options": [
+                {
+                    "answer": "Could/Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'can' and 'could' are used to make polite requests for help. 'Could' is a slightly more polite form.",
+                "ru": "И 'can', и 'could' используются для вежливых просьб о помощи. 'Could' является немного более вежливой формой.",
+                "uz": "Ham 'can', ham 'could' yordam so'rash uchun xushmuomalalik so'rovlar qilish uchun ishlatiladi. 'Could' biroz ko'proq xushmuomalalik shaklidir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother ___ play the guitar when he was 15.",
+                "ru": "Дополните предложение: My brother ___ play the guitar when he was 15.",
+                "uz": "Gapni to'ldiring: My brother ___ play the guitar when he was 15."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not/could",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Could' is the past form of 'can' and is used to describe a past ability.",
+                "ru": "'Could' - это прошедшая форма 'can' и используется для описания прошлой способности.",
+                "uz": "'Could' 'can' ning o'tgan zamon shaklidir va o'tgan zamondagi qobiliyatni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ I borrow your phone for a minute?",
+                "ru": "Дополните предложение: ___ I borrow your phone for a minute?",
+                "uz": "Gapni to'ldiring: ___ I borrow your phone for a minute?"
+            },
+            "options": [
+                {
+                    "answer": "Could/Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can I...?' or 'Could I...?' to ask for permission. 'Could' is more polite.",
+                "ru": "Используйте 'Can I...?' или 'Could I...?' для запроса разрешения. 'Could' более вежлив.",
+                "uz": "Ruxsat so'rash uchun 'Can I...?' yoki 'Could I...?' dan foydalaning. 'Could' xushmuomalaliroqdir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ read until she was seven.",
+                "ru": "Дополните предложение: She ___ read until she was seven.",
+                "uz": "Gapni to'ldiring: She ___ read until she was seven."
+            },
+            "options": [
+                {
+                    "answer": "couldn't/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'until she was seven' implies a lack of ability in the past, so 'couldn't' is the correct negative modal.",
+                "ru": "Фраза 'until she was seven' подразумевает отсутствие способности в прошлом, поэтому 'couldn't' является правильным отрицательным модальным глаголом.",
+                "uz": "'Until she was seven' iborasi o'tgan zamondagi qobiliyatsizlikni anglatadi, shuning uchun 'couldn't' to'g'ri salbiy modaldir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My grandmother is a very talented person. When she was young, she ___1___ sing beautifully. She ___2___ also play the piano and the violin. She ___3___ draw portraits and paint landscapes too, so she was very artistic. She remembers that she ___4___ stand on her head for a minute, a skill she learned in her youth. She ___5___ remember all the lyrics to every song she heard. Now she is older, and her abilities have changed. She ___6___ sing as she used to, but she can still tell wonderful stories. ___7___ you please help her carry these books? And ___8___ I ask you a question about her life? Her memory is still very good, but she sometimes ___9___ remember small details. She is a wonderful person, and I'm very proud of what she ___10___ do in her life.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "could"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "could/can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "10",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on past ability ('could') and present inability ('can't'). It also includes examples of polite requests using 'can' or 'could'.",
+                "ru": "Этот текст посвящен способности в прошлом ('could') и неспособности в настоящем ('can't'). Он также содержит примеры вежливых просьб с использованием 'can' или 'could'.",
+                "uz": "Ushbu matn o'tgan zamondagi qobiliyatga ('could') va hozirgi zamondagi qobiliyatsizlikka ('can't') qaratilgan. Unda 'can' yoki 'could' yordamida qilingan xushmuomalalik so'rovlarga misollar ham mavjud."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last year, I had a great time learning new things. I started taking piano lessons, and after a few months, I ___1___ play simple songs. I also joined a photography club, but I ___2___ get the settings on my camera right at first. My friend Alice, who is a fantastic photographer, helped me. She ___3___ show me the correct way to adjust the lens. She said, '___4___ I take a look at your camera? I ___5___ probably fix this.' It was so kind of her. Now, I ___6___ take much better photos. I also started a new sport. At first, I ___7___ jump very high, but now I ___8___ do it easily. ___9___ you believe that I ___10___ run a mile in under seven minutes now?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "could"
+                },
+                {
+                    "blank": "2",
+                    "answer": "couldn't/could not"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "couldn't/could not"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Can/Could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can"
+                }
+            ],
+            "explanation": {
+                "en": "This text contrasts past abilities ('could', 'couldn't') with present abilities ('can'). It also demonstrates a polite request ('Could I...').",
+                "ru": "Этот текст сопоставляет прошлые способности ('could', 'couldn't') с настоящими ('can'). Он также демонстрирует вежливую просьбу ('Could I...').",
+                "uz": "Ushbu matn o'tgan zamondagi qobiliyatlarni ('could', 'couldn't') hozirgi qobiliyatlar bilan ('can') solishtiradi. Shuningdek, u xushmuomalalik so'rovni ('Could I...') ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When my father was a young man, he was a great athlete. He ___1___ run very fast, and he ___2___ also lift heavy weights. He ___3___ climb a rope easily, which surprised many people. He ___4___ do a hundred push-ups without stopping. He was so strong that he ___5___ lift a car wheel by himself. He trained every day. Now, he's much older. He ___6___ do all those things, but he is still very active. He often goes for walks. ___7___ you help me find his old photo albums? ___8___ I ask you a favor? ___9___ you please tell me about his athletic life when you have a moment? I want to learn more about it, but he ___10___ always remember the details.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "could"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can't/cannot"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses 'could' to describe a past ability and 'can't' to describe a present inability. It also uses 'could' and 'can' for polite requests.",
+                "ru": "Этот текст использует 'could' для описания прошлой способности и 'can't' для описания настоящей неспособности. Он также использует 'could' и 'can' для вежливых просьб.",
+                "uz": "Ushbu matn 'could' so'zini o'tgan zamondagi qobiliyatni va 'can't' so'zini hozirgi zamondagi qobiliyatsizlikni tasvirlash uchun ishlatadi. Shuningdek, u 'could' va 'can'ni xushmuomalalik so'rovlar uchun ishlatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When I was in school, I was very good at art. I ___1___ draw very detailed pictures. I also ___2___ paint beautiful landscapes with watercolours. But I ___3___ draw portraits of people. I always found faces very difficult. My best friend, Maria, was good at everything. She ___4___ paint and draw, and she ___5___ also sing. Sometimes I would get frustrated, and she would say, '___6___ I give you some advice?' She was so helpful. Now, I have a different job, and I ___7___ find time for painting. But I still remember those skills. ___8___ I show you some of my old drawings? Maybe you ___9___ tell me which one is your favourite. ___10___ you believe that I still use some of those techniques in my work today?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "could"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could"
+                },
+                {
+                    "blank": "3",
+                    "answer": "couldn't/could not"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Can/Could"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Can/Could"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Can/Could"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses 'could' to express past ability and 'couldn't' for past inability. It also demonstrates how 'can' and 'could' are used for polite offers and requests.",
+                "ru": "Этот текст использует 'could' для выражения прошлой способности и 'couldn't' для прошлой неспособности. Он также демонстрирует, как 'can' и 'could' используются для вежливых предложений и просьб.",
+                "uz": "Ushbu matn 'could' so'zini o'tgan zamondagi qobiliyatni va 'couldn't' so'zini o'tgan zamondagi qobiliyatsizlikni ifodalash uchun ishlatadi. Shuningdek, u 'can' va 'could' xushmuomalalik takliflar va so'rovlar uchun qanday ishlatilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When I was a little boy, I had a very active imagination. I ___1___ create whole worlds in my mind, but I ___2___ express them through drawing. I was never very good at art. My friend, Tom, was different. He ___3___ draw fantastic animals and monsters. He ___4___ also make up amazing stories. I always admired his abilities. I remember once asking him, '___5___ you teach me how to draw?' He said, 'Of course! I ___6___ show you some simple techniques.' He was so patient. Now, I'm a writer, so I ___7___ write my own stories. I still ___8___ draw very well, but I ___9___ write stories about the worlds I imagine. ___10___ you please read my new story and tell me what you think?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "could"
+                },
+                {
+                    "blank": "2",
+                    "answer": "couldn't/could not"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Could/Can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can"
+                },
+                {
+                    "blank": 10,
+                    "answer": "Could/Can"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on past and present abilities and inabilities using 'could', 'couldn't', and 'can', 'can't'. It also includes polite requests with 'can' or 'could'.",
+                "ru": "Этот текст фокусируется на прошлых и настоящих способностях и неспособностях, используя 'could', 'couldn't' и 'can', 'can't'. Он также включает вежливые просьбы с 'can' или 'could'.",
+                "uz": "Ushbu matn o'tgan va hozirgi qobiliyatlar va qobiliyatsizliklarga 'could', 'couldn't' va 'can', 'can't' yordamida e'tibor qaratadi. Shuningdek, u 'can' yoki 'could' bilan xushmuomalalik so'rovlarni o'z ichiga oladi."
+            }
+        }
+    ]
+}

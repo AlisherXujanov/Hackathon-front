@@ -1,0 +1,852 @@
+{
+    "id": "A2_VERB_PLUS_ING_LIKE_HATE_LOVE_VERBS_FOLLOWED_BY_GERUNDS",
+    "title": "Verb + ing (like/hate/love) - Verbs followed by gerunds",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I enjoy to swim in the ocean."
+                },
+                {
+                    "answer": "I enjoy swimming in the ocean.",
+                    "correct": true
+                },
+                {
+                    "answer": "I enjoy swim in the ocean."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'enjoy' is always followed by a gerund (verb + ing), not an infinitive.",
+                "ru": "Глагол 'enjoy' всегда используется с герундием (глагол + ing), а не с инфинитивом.",
+                "uz": "'Enjoy' fe'li doimo gerundiy (fe'l + ing) bilan ishlatiladi, infinitiv bilan emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She hates getting up early.",
+                    "correct": true
+                },
+                {
+                    "answer": "She hates to get up early."
+                },
+                {
+                    "answer": "She hates get up early."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hate' requires a gerund (getting) when expressing general preferences.",
+                "ru": "Глагол 'hate' требует герундий (getting) при выражении общих предпочтений.",
+                "uz": "'Hate' fe'li umumiy afzalliklarni ifodalashda gerundiy (getting) talab qiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We love to dancing together."
+                },
+                {
+                    "answer": "We love dancing together.",
+                    "correct": true
+                },
+                {
+                    "answer": "We love dance together."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'love' takes a gerund (dancing) when expressing general preferences or habits.",
+                "ru": "Глагол 'love' принимает герундий (dancing) при выражении общих предпочтений или привычек.",
+                "uz": "'Love' fe'li umumiy afzalliklar yoki odatlarni ifodalashda gerundiy (dancing) oladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He keeps to forget his keys."
+                },
+                {
+                    "answer": "He keeps forgetting his keys.",
+                    "correct": true
+                },
+                {
+                    "answer": "He keeps forget his keys."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'keep' must be followed by a gerund (forgetting) to mean 'continue doing something'.",
+                "ru": "Глагол 'keep' должен следовать с герундием (forgetting) в значении 'продолжать делать что-то'.",
+                "uz": "'Keep' fe'li 'biror ishni davom ettirish' ma'nosida gerundiy (forgetting) bilan ishlatilishi kerak."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They avoid to eat fast food."
+                },
+                {
+                    "answer": "They avoid eat fast food."
+                },
+                {
+                    "answer": "They avoid eating fast food.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'avoid' is always followed by a gerund (eating), never an infinitive.",
+                "ru": "Глагол 'avoid' всегда используется с герундием (eating), никогда с инфинитивом.",
+                "uz": "'Avoid' fe'li doimo gerundiy (eating) bilan ishlatiladi, hech qachon infinitiv bilan emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I don't mind to help you."
+                },
+                {
+                    "answer": "I don't mind helping you.",
+                    "correct": true
+                },
+                {
+                    "answer": "I don't mind help you."
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'don't mind' requires a gerund (helping), not an infinitive.",
+                "ru": "Выражение 'don't mind' требует герундий (helping), а не инфинитив.",
+                "uz": "'Don't mind' iborasi gerundiy (helping) talab qiladi, infinitiv emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She finished to write the letter."
+                },
+                {
+                    "answer": "She finished writing the letter.",
+                    "correct": true
+                },
+                {
+                    "answer": "She finished write the letter."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'finish' is always followed by a gerund (writing) to show completion of an action.",
+                "ru": "Глагол 'finish' всегда используется с герундием (writing) для обозначения завершения действия.",
+                "uz": "'Finish' fe'li harakatning tugashini ko'rsatish uchun doimo gerundiy (writing) bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We suggest to go to the park."
+                },
+                {
+                    "answer": "We suggest going to the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "We suggest go to the park."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'suggest' takes a gerund (going), not an infinitive, when followed directly by a verb.",
+                "ru": "Глагол 'suggest' принимает герундий (going), а не инфинитив, когда за ним следует глагол.",
+                "uz": "'Suggest' fe'li to'g'ridan-to'g'ri fe'l bilan ergashganda gerundiy (going) oladi, infinitiv emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't stand to wait in long lines."
+                },
+                {
+                    "answer": "He can't stand waiting in long lines.",
+                    "correct": true
+                },
+                {
+                    "answer": "He can't stand wait in long lines."
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'can't stand' requires a gerund (waiting) to express strong dislike.",
+                "ru": "Выражение 'can't stand' требует герундий (waiting) для выражения сильной неприязни.",
+                "uz": "'Can't stand' iborasi kuchli yoqmaslikni ifodalash uchun gerundiy (waiting) talab qiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They postponed to have the meeting.",
+                    "correct": false
+                },
+                {
+                    "answer": "They postponed having the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "They postponed have the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'postpone' is followed by a gerund (having) to indicate delaying an action.",
+                "ru": "Глагол 'postpone' используется с герундием (having) для обозначения откладывания действия.",
+                "uz": "'Postpone' fe'li harakatni kechiktirishni ko'rsatish uchun gerundiy (having) bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She enjoys ___ books in her free time.",
+                "ru": "Дополните предложение: She enjoys ___ books in her free time.",
+                "uz": "Gapni to'ldiring: She enjoys ___ books in her free time."
+            },
+            "options": [
+                {
+                    "answer": "reading",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'enjoy' requires a gerund form, so 'read' becomes 'reading'.",
+                "ru": "Глагол 'enjoy' требует форму герундия, поэтому 'read' становится 'reading'.",
+                "uz": "'Enjoy' fe'li gerundiy shaklini talab qiladi, shuning uchun 'read' 'reading' bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I hate ___ up early on weekends.",
+                "ru": "Дополните предложение: I hate ___ up early on weekends.",
+                "uz": "Gapni to'ldiring: I hate ___ up early on weekends."
+            },
+            "options": [
+                {
+                    "answer": "getting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hate' is followed by a gerund, so 'get' becomes 'getting'.",
+                "ru": "Глагол 'hate' используется с герундием, поэтому 'get' становится 'getting'.",
+                "uz": "'Hate' fe'li gerundiy bilan ishlatiladi, shuning uchun 'get' 'getting' bo'ladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We love ___ to music together.",
+                "ru": "Дополните предложение: We love ___ to music together.",
+                "uz": "Gapni to'ldiring: We love ___ to music together."
+            },
+            "options": [
+                {
+                    "answer": "listening",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'love' takes a gerund when expressing preferences, so 'listen' becomes 'listening'.",
+                "ru": "Глагол 'love' принимает герундий при выражении предпочтений, поэтому 'listen' становится 'listening'.",
+                "uz": "'Love' fe'li afzalliklarni ifodalashda gerundiy oladi, shuning uchun 'listen' 'listening' bo'ladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He keeps ___ the same mistakes.",
+                "ru": "Дополните предложение: He keeps ___ the same mistakes.",
+                "uz": "Gapni to'ldiring: He keeps ___ the same mistakes."
+            },
+            "options": [
+                {
+                    "answer": "making",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'keep' requires a gerund to mean 'continue doing', so 'make' becomes 'making'.",
+                "ru": "Глагол 'keep' требует герундий в значении 'продолжать делать', поэтому 'make' становится 'making'.",
+                "uz": "'Keep' fe'li 'davom ettirish' ma'nosida gerundiy talab qiladi, shuning uchun 'make' 'making' bo'ladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They avoid ___ in heavy traffic.",
+                "ru": "Дополните предложение: They avoid ___ in heavy traffic.",
+                "uz": "Gapni to'ldiring: They avoid ___ in heavy traffic."
+            },
+            "options": [
+                {
+                    "answer": "driving",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'avoid' is always followed by a gerund, so 'drive' becomes 'driving'.",
+                "ru": "Глагол 'avoid' всегда используется с герундием, поэтому 'drive' становится 'driving'.",
+                "uz": "'Avoid' fe'li doimo gerundiy bilan ishlatiladi, shuning uchun 'drive' 'driving' bo'ladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I don't mind ___ the dishes after dinner.",
+                "ru": "Дополните предложение: I don't mind ___ the dishes after dinner.",
+                "uz": "Gapni to'ldiring: I don't mind ___ the dishes after dinner."
+            },
+            "options": [
+                {
+                    "answer": "washing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'don't mind' requires a gerund, so 'wash' becomes 'washing'.",
+                "ru": "Выражение 'don't mind' требует герундий, поэтому 'wash' становится 'washing'.",
+                "uz": "'Don't mind' iborasi gerundiy talab qiladi, shuning uchun 'wash' 'washing' bo'ladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She finished ___ her homework at midnight.",
+                "ru": "Дополните предложение: She finished ___ her homework at midnight.",
+                "uz": "Gapni to'ldiring: She finished ___ her homework at midnight."
+            },
+            "options": [
+                {
+                    "answer": "doing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'finish' is always followed by a gerund, so 'do' becomes 'doing'.",
+                "ru": "Глагол 'finish' всегда используется с герундием, поэтому 'do' становится 'doing'.",
+                "uz": "'Finish' fe'li doimo gerundiy bilan ishlatiladi, shuning uchun 'do' 'doing' bo'ladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We suggest ___ a different route.",
+                "ru": "Дополните предложение: We suggest ___ a different route.",
+                "uz": "Gapni to'ldiring: We suggest ___ a different route."
+            },
+            "options": [
+                {
+                    "answer": "taking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'suggest' takes a gerund when followed directly by a verb, so 'take' becomes 'taking'.",
+                "ru": "Глагол 'suggest' принимает герундий, когда за ним следует глагол, поэтому 'take' становится 'taking'.",
+                "uz": "'Suggest' fe'li to'g'ridan-to'g'ri fe'l bilan ergashganda gerundiy oladi, shuning uchun 'take' 'taking' bo'ladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He can't stand ___ for buses in the rain.",
+                "ru": "Дополните предложение: He can't stand ___ for buses in the rain.",
+                "uz": "Gapni to'ldiring: He can't stand ___ for buses in the rain."
+            },
+            "options": [
+                {
+                    "answer": "waiting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'can't stand' requires a gerund, so 'wait' becomes 'waiting'.",
+                "ru": "Выражение 'can't stand' требует герундий, поэтому 'wait' становится 'waiting'.",
+                "uz": "'Can't stand' iborasi gerundiy talab qiladi, shuning uchun 'wait' 'waiting' bo'ladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They postponed ___ the new office.",
+                "ru": "Дополните предложение: They postponed ___ the new office.",
+                "uz": "Gapni to'ldiring: They postponed ___ the new office."
+            },
+            "options": [
+                {
+                    "answer": "opening",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'postpone' is followed by a gerund, so 'open' becomes 'opening'.",
+                "ru": "Глагол 'postpone' используется с герундием, поэтому 'open' становится 'opening'.",
+                "uz": "'Postpone' fe'li gerundiy bilan ishlatiladi, shuning uchun 'open' 'opening' bo'ladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah has always loved ___1___ new languages, and she recently started ___2___ Spanish at a local community center. She enjoys ___3___ with native speakers online and doesn't mind ___4___ mistakes because she knows it's part of the learning process. Her teacher suggested ___5___ Spanish movies with subtitles to improve her listening skills. At first, Sarah avoided ___6___ movies without subtitles because she found them too difficult, but now she keeps ___7___ to watch them regularly. She finished ___8___ her first Spanish novel last month, which was a huge achievement for her. Sarah can't stand ___9___ boring grammar exercises, so she prefers ___10___ interactive games and apps. She hates ___11___ long vocabulary lists, but she loves ___12___ new words in context through reading. Her friends admire her dedication and often suggest ___13___ language exchange programs together. Sarah postponed ___14___ her Spanish exam until she felt more confident, but she never stops ___15___ towards her goal of becoming fluent.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "learning"
+                },
+                {
+                    "blank": "2",
+                    "answer": "studying"
+                },
+                {
+                    "blank": "3",
+                    "answer": "chatting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "making"
+                },
+                {
+                    "blank": "5",
+                    "answer": "watching"
+                },
+                {
+                    "blank": "6",
+                    "answer": "watching"
+                },
+                {
+                    "blank": "7",
+                    "answer": "trying"
+                },
+                {
+                    "blank": "8",
+                    "answer": "reading"
+                },
+                {
+                    "blank": "9",
+                    "answer": "doing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "using"
+                },
+                {
+                    "blank": "11",
+                    "answer": "memorizing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "discovering"
+                },
+                {
+                    "blank": "13",
+                    "answer": "joining"
+                },
+                {
+                    "blank": "14",
+                    "answer": "taking"
+                },
+                {
+                    "blank": "15",
+                    "answer": "working"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates verbs that require gerunds including love, enjoy, suggest, avoid, keep, finish, can't stand, hate, and postpone.",
+                "ru": "Этот отрывок демонстрирует глаголы, которые требуют герундии, включая love, enjoy, suggest, avoid, keep, finish, can't stand, hate и postpone.",
+                "uz": "Bu parcha gerundiy talab qiluvchi fe'llarni ko'rsatadi: love, enjoy, suggest, avoid, keep, finish, can't stand, hate va postpone."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Mark and his wife Emma have different opinions about ___1___ their free time. Mark loves ___2___ video games on weekends and enjoys ___3___ with his online friends for hours. He doesn't mind ___4___ the same game repeatedly because he finds it relaxing. Emma, on the other hand, hates ___5___ indoors all day and prefers ___6___ outdoor activities like hiking or cycling. She can't stand ___7___ time on what she considers unproductive activities. The couple keeps ___8___ about how to spend their weekends together. Emma suggested ___9___ a compromise where they alternate between indoor and outdoor activities. She finished ___10___ a list of activities they could both enjoy, including cooking classes and museum visits. Mark avoided ___11___ to her suggestions at first, but he eventually agreed to try some new activities. They postponed ___12___ their first cooking class because of Mark's work schedule, but they're both excited about ___13___ something new together. Emma loves ___14___ new experiences, while Mark is gradually getting used to ___15___ his comfort zone. Their different preferences are actually helping them discover new interests and strengthen their relationship.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "spending"
+                },
+                {
+                    "blank": "2",
+                    "answer": "playing"
+                },
+                {
+                    "blank": "3",
+                    "answer": "chatting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "playing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "staying"
+                },
+                {
+                    "blank": "6",
+                    "answer": "doing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "wasting"
+                },
+                {
+                    "blank": "8",
+                    "answer": "arguing"
+                },
+                {
+                    "blank": "9",
+                    "answer": "finding"
+                },
+                {
+                    "blank": "10",
+                    "answer": "making"
+                },
+                {
+                    "blank": "11",
+                    "answer": "listening"
+                },
+                {
+                    "blank": "12",
+                    "answer": "attending"
+                },
+                {
+                    "blank": "13",
+                    "answer": "trying"
+                },
+                {
+                    "blank": "14",
+                    "answer": "having"
+                },
+                {
+                    "blank": "15",
+                    "answer": "leaving"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on verbs followed by gerunds in the context of preferences and activities, including love, enjoy, hate, prefer, can't stand, keep, suggest, finish, avoid, and postpone.",
+                "ru": "Этот текст сосредоточен на глаголах, за которыми следуют герундии в контексте предпочтений и деятельности, включая love, enjoy, hate, prefer, can't stand, keep, suggest, finish, avoid и postpone.",
+                "uz": "Bu matn afzalliklar va faoliyat kontekstida gerundiy bilan ishlatiladigan fe'llarga e'tibor qaratadi: love, enjoy, hate, prefer, can't stand, keep, suggest, finish, avoid va postpone."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Jessica works as a fitness instructor and loves ___1___ people achieve their health goals. She enjoys ___2___ personalized workout plans for her clients and doesn't mind ___3___ extra hours to help them succeed. Jessica hates ___4___ clients give up on their fitness journey, so she keeps ___5___ them even when progress seems slow. She finished ___6___ her certification in nutrition last year and suggested ___7___ healthy meal planning workshops for her gym members. Many clients avoid ___8___ about their eating habits, but Jessica creates a supportive environment where they feel comfortable ___9___ their challenges. She can't stand ___10___ people feel discouraged about their bodies, so she focuses on ___11___ positive reinforcement and celebrating small victories. Jessica postponed ___12___ her own advanced training course because she wanted to dedicate more time to her current clients. She loves ___13___ success stories and testimonials from people who have transformed their lives through fitness. Her passion for ___14___ others motivates her to continue ___15___ in her field and inspiring more people to live healthier lives.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "helping"
+                },
+                {
+                    "blank": "2",
+                    "answer": "creating"
+                },
+                {
+                    "blank": "3",
+                    "answer": "working"
+                },
+                {
+                    "blank": "4",
+                    "answer": "seeing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "encouraging"
+                },
+                {
+                    "blank": "6",
+                    "answer": "completing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "organizing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "talking"
+                },
+                {
+                    "blank": "9",
+                    "answer": "discussing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "making"
+                },
+                {
+                    "blank": "11",
+                    "answer": "providing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "starting"
+                },
+                {
+                    "blank": "13",
+                    "answer": "hearing"
+                },
+                {
+                    "blank": "14",
+                    "answer": "helping"
+                },
+                {
+                    "blank": "15",
+                    "answer": "growing"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates various verbs that take gerunds in professional and personal contexts, emphasizing how these structures express ongoing activities and preferences.",
+                "ru": "Этот отрывок демонстрирует различные глаголы, которые принимают герундии в профессиональном и личном контексте, подчеркивая, как эти структуры выражают продолжающиеся действия и предпочтения.",
+                "uz": "Bu parcha professional va shaxsiy kontekstlarda gerundiy oladigan turli fe'llarni ko'rsatadi, bu tuzilmalar davomiy faoliyat va afzalliklarni qanday ifodalashini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "David recently started his own small business and loves ___1___ his own boss. He enjoys ___2___ creative solutions to everyday problems and doesn't mind ___3___ long hours to make his company successful. However, David hates ___4___ with complicated paperwork and can't stand ___5___ tax forms every month. He keeps ___6___ to learn new business skills through online courses and finished ___7___ a digital marketing program last month. His business partner suggested ___8___ a professional accountant to handle their financial records, which David initially avoided ___9___ because of the cost. They postponed ___10___ this decision until their income increased significantly. David loves ___11___ with potential customers and explaining how their product can solve specific problems. He enjoys ___12___ at trade shows and networking events, even though he used to hate ___13___ to strangers about business topics. His confidence keeps ___14___ as he gains more experience in entrepreneurship. David's goal is to finish ___15___ his business plan and expand into new markets within the next two years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "being"
+                },
+                {
+                    "blank": "2",
+                    "answer": "finding"
+                },
+                {
+                    "blank": "3",
+                    "answer": "working"
+                },
+                {
+                    "blank": "4",
+                    "answer": "dealing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "filling"
+                },
+                {
+                    "blank": "6",
+                    "answer": "trying"
+                },
+                {
+                    "blank": "7",
+                    "answer": "completing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "hiring"
+                },
+                {
+                    "blank": "9",
+                    "answer": "doing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "making"
+                },
+                {
+                    "blank": "11",
+                    "answer": "meeting"
+                },
+                {
+                    "blank": "12",
+                    "answer": "presenting"
+                },
+                {
+                    "blank": "13",
+                    "answer": "talking"
+                },
+                {
+                    "blank": "14",
+                    "answer": "growing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "updating"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates various verbs that require gerunds in business contexts, showing how these structures express preferences, ongoing activities, and completed actions.",
+                "ru": "Этот отрывок демонстрирует различные глаголы, которые требуют герундии в деловом контексте, показывая, как эти структуры выражают предпочтения, продолжающиеся действия и завершенные действия.",
+                "uz": "Bu parcha biznes kontekstida gerundiy talab qiluvchi turli fe'llarni ko'rsatadi, bu tuzilmalar afzalliklar, davomiy faoliyat va tugallangan harakatlarni qanday ifodalashini namoyish etadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Lisa and her teenage daughter Amy have different attitudes toward ___1___ housework. Lisa enjoys ___2___ a clean and organized home, but Amy hates ___3___ her room and can't stand ___4___ dishes after meals. Lisa keeps ___5___ Amy about the importance of responsibility, but Amy avoids ___6___ to these conversations. The situation reached a breaking point when Lisa finished ___7___ Amy's room herself for the tenth time that month. She suggested ___8___ a family meeting to discuss household responsibilities and create a fair chore schedule. Amy initially postponed ___9___ to the meeting, claiming she was too busy with schoolwork. However, Lisa doesn't mind ___10___ patient and waiting for the right moment to have important conversations. She loves ___11___ her daughter succeed and understands that ___12___ independence is part of growing up. After some negotiation, they agreed to try a new system where Amy chooses her preferred chores and commits to ___13___ them consistently. Lisa enjoys ___14___ progress in their relationship and appreciates Amy's efforts to be more responsible. They both keep ___15___ toward a better understanding of each other's perspectives and needs.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "doing"
+                },
+                {
+                    "blank": "2",
+                    "answer": "maintaining"
+                },
+                {
+                    "blank": "3",
+                    "answer": "cleaning"
+                },
+                {
+                    "blank": "4",
+                    "answer": "washing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "reminding"
+                },
+                {
+                    "blank": "6",
+                    "answer": "listening"
+                },
+                {
+                    "blank": "7",
+                    "answer": "organizing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "having"
+                },
+                {
+                    "blank": "9",
+                    "answer": "coming"
+                },
+                {
+                    "blank": "10",
+                    "answer": "being"
+                },
+                {
+                    "blank": "11",
+                    "answer": "seeing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "developing"
+                },
+                {
+                    "blank": "13",
+                    "answer": "completing"
+                },
+                {
+                    "blank": "14",
+                    "answer": "seeing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "working"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how gerunds are used with various verbs to express family dynamics, preferences, and ongoing activities in daily life situations.",
+                "ru": "Этот отрывок показывает, как герундии используются с различными глаголами для выражения семейной динамики, предпочтений и продолжающихся действий в повседневных жизненных ситуациях.",
+                "uz": "Bu parcha gerundiylar turli fe'llar bilan oilaviy munosabatlar, afzalliklar va kundalik hayot vaziyatlaridagi davomiy faoliyatni ifodalash uchun qanday ishlatilishini ko'rsatadi."
+            }
+        }
+    ]
+}

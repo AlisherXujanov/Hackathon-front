@@ -1,0 +1,851 @@
+{
+    "id": "A2_PAST_CONTINUOUS_AND_PAST_SIMPLE_NARRATIVE_TENSES_INTRODUCTION",
+    "title": "Past continuous and past simple - Narrative tenses introduction",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She watched TV when I called her."
+                },
+                {
+                    "answer": "She was watching TV when I called her.",
+                    "correct": true
+                },
+                {
+                    "answer": "She was watched TV when I called her."
+                }
+            ],
+            "explanation": {
+                "en": "We use past continuous for an action in progress when another action interrupted it. The correct form is 'was watching' (past continuous) + 'called' (past simple).",
+                "ru": "Мы используем прошедшее продолженное время для действия в процессе, когда другое действие его прервало. Правильная форма: 'was watching' (прошедшее продолженное) + 'called' (прошедшее простое).",
+                "uz": "Boshqa harakat uni to'xtatganda davom etayotgan harakat uchun past continuous ishlatiladi. To'g'ri shakl: 'was watching' (past continuous) + 'called' (past simple)."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "While I was reading, the phone was ringing."
+                },
+                {
+                    "answer": "While I was reading, the phone rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "While I read, the phone was ringing."
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous for the longer background action and past simple for the interrupting action. 'While I was reading' (background) and 'the phone rang' (interruption).",
+                "ru": "Используйте прошедшее продолженное для более длительного фонового действия и прошедшее простое для прерывающего действия. 'While I was reading' (фон) и 'the phone rang' (прерывание).",
+                "uz": "Uzunroq fon harakati uchun past continuous, to'xtatuvchi harakat uchun past simple ishlatiladi. 'While I was reading' (fon) va 'the phone rang' (to'xtatish)."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Yesterday at 3 PM, I was working in the garden.",
+                    "correct": true
+                },
+                {
+                    "answer": "Yesterday at 3 PM, I worked in the garden."
+                },
+                {
+                    "answer": "Yesterday at 3 PM, I work in the garden."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous is used for actions in progress at a specific time in the past. 'At 3 PM' indicates a specific time, so 'was working' is correct.",
+                "ru": "Прошедшее продолженное используется для действий в процессе в определенное время в прошлом. 'At 3 PM' указывает на конкретное время, поэтому 'was working' правильно.",
+                "uz": "O'tmishda ma'lum vaqtda davom etgan harakatlar uchun past continuous ishlatiladi. 'At 3 PM' aniq vaqtni ko'rsatadi, shuning uchun 'was working' to'g'ri."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They were playing football when it was starting to rain."
+                },
+                {
+                    "answer": "They were playing football when it started to rain.",
+                    "correct": true
+                },
+                {
+                    "answer": "They played football when it was starting to rain."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous describes the ongoing action 'were playing' and past simple describes the interrupting event 'started to rain'.",
+                "ru": "Прошедшее продолженное описывает продолжающееся действие 'were playing', а прошедшее простое описывает прерывающее событие 'started to rain'.",
+                "uz": "Past continuous davomli harakatni 'were playing' tasvirlaydi, past simple esa to'xtatuvchi voqeani 'started to rain' tasvirlaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She was cooking dinner, washed the dishes, and was cleaning the kitchen."
+                },
+                {
+                    "answer": "She cooked dinner, washed the dishes, and cleaned the kitchen.",
+                    "correct": true
+                },
+                {
+                    "answer": "She was cooking dinner, was washing the dishes, and cleaned the kitchen."
+                }
+            ],
+            "explanation": {
+                "en": "For a sequence of completed actions in the past, use past simple for all verbs. These are finished actions that happened one after another.",
+                "ru": "Для последовательности завершенных действий в прошлом используйте прошедшее простое время для всех глаголов. Это завершенные действия, которые произошли одно за другим.",
+                "uz": "O'tmishda tugallangan harakatlar ketma-ketligi uchun barcha fe'llar uchun past simple ishlatiladi. Bu birin-ketin sodir bo'lgan tugallangan harakatlar."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "When I was arriving home, I saw my friend."
+                },
+                {
+                    "answer": "When I arrived home, I saw my friend.",
+                    "correct": true
+                },
+                {
+                    "answer": "When I was arrive home, I saw my friend."
+                }
+            ],
+            "explanation": {
+                "en": "Both actions 'arrived' and 'saw' are completed actions that happened in sequence, so both use past simple tense.",
+                "ru": "Оба действия 'arrived' и 'saw' - это завершенные действия, которые произошли последовательно, поэтому оба используют прошедшее простое время.",
+                "uz": "Ikkala harakat ham 'arrived' va 'saw' ketma-ket sodir bo'lgan tugallangan harakatlar, shuning uchun ikkalasi ham past simple ishlatadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It was raining heavily while we walked to school."
+                },
+                {
+                    "answer": "It was raining heavily while we were walking to school.",
+                    "correct": true
+                },
+                {
+                    "answer": "It rained heavily while we were walking to school."
+                }
+            ],
+            "explanation": {
+                "en": "Both actions were happening at the same time in the past, so both verbs use past continuous: 'was raining' and 'were walking'.",
+                "ru": "Оба действия происходили одновременно в прошлом, поэтому оба глагола используют прошедшее продолженное: 'was raining' и 'were walking'.",
+                "uz": "Ikkala harakat ham o'tmishda bir vaqtda sodir bo'lgan, shuning uchun ikkala fe'l ham past continuous ishlatadi: 'was raining' va 'were walking'."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Last night at 10 o'clock I was studied for my exam."
+                },
+                {
+                    "answer": "Last night at 10 o'clock I was studying for my exam.",
+                    "correct": true
+                },
+                {
+                    "answer": "Last night at 10 o'clock I studied for my exam."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous is formed with was/were + verb-ing. The correct form is 'was studying', not 'was studied'.",
+                "ru": "Прошедшее продолженное образуется с помощью was/were + глагол-ing. Правильная форма - 'was studying', а не 'was studied'.",
+                "uz": "Past continuous was/were + fe'l-ing bilan tuziladi. To'g'ri shakl 'was studying', 'was studied' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We were having dinner when the doorbell was ringing."
+                },
+                {
+                    "answer": "We were having dinner when the doorbell rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "We had dinner when the doorbell rang."
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous for the ongoing action 'were having dinner' and past simple for the interrupting action 'rang'.",
+                "ru": "Используйте прошедшее продолженное для продолжающегося действия 'were having dinner' и прошедшее простое для прерывающего действия 'rang'.",
+                "uz": "Davomli harakat uchun past continuous 'were having dinner' va to'xtatuvchi harakat uchun past simple 'rang' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The children was playing in the garden when their mother called them."
+                },
+                {
+                    "answer": "The children were playing in the garden when their mother called them.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children were played in the garden when their mother called them."
+                }
+            ],
+            "explanation": {
+                "en": "'Children' is plural, so use 'were' not 'was'. Past continuous is formed with were + playing, not 'were played'.",
+                "ru": "'Children' - множественное число, поэтому используйте 'were', а не 'was'. Прошедшее продолженное образуется с were + playing, а не 'were played'.",
+                "uz": "'Children' ko'plik, shuning uchun 'was' emas, 'were' ishlatiladi. Past continuous were + playing bilan tuziladi, 'were played' bilan emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: While I was reading a book, my brother ___ home.",
+                "ru": "Дополните предложение: While I was reading a book, my brother ___ home.",
+                "uz": "Gapni to'ldiring: While I was reading a book, my brother ___ home."
+            },
+            "options": [
+                {
+                    "answer": "came",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past simple 'came' for the action that interrupted the ongoing past continuous action 'was reading'.",
+                "ru": "Используйте прошедшее простое 'came' для действия, которое прервало продолжающееся действие в прошедшем продолженном 'was reading'.",
+                "uz": "Davomli past continuous harakat 'was reading'ni to'xtatgan harakat uchun past simple 'came' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: At 8 PM yesterday, we ___ dinner together.",
+                "ru": "Дополните предложение: At 8 PM yesterday, we ___ dinner together.",
+                "uz": "Gapni to'ldiring: At 8 PM yesterday, we ___ dinner together."
+            },
+            "options": [
+                {
+                    "answer": "were having",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'were having' for an action in progress at a specific time in the past (8 PM yesterday).",
+                "ru": "Используйте прошедшее продолженное 'were having' для действия в процессе в определенное время в прошлом (8 PM yesterday).",
+                "uz": "O'tmishda ma'lum vaqtda (8 PM yesterday) davom etgan harakat uchun past continuous 'were having' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ to music when the electricity went out.",
+                "ru": "Дополните предложение: She ___ to music when the electricity went out.",
+                "uz": "Gapni to'ldiring: She ___ to music when the electricity went out."
+            },
+            "options": [
+                {
+                    "answer": "was listening",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'was listening' for the ongoing action that was interrupted by 'the electricity went out'.",
+                "ru": "Используйте прошедшее продолженное 'was listening' для продолжающегося действия, которое было прервано 'the electricity went out'.",
+                "uz": "'The electricity went out' tomonidan to'xtatilgan davomli harakat uchun past continuous 'was listening' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When the teacher entered the classroom, the students ___ quietly.",
+                "ru": "Дополните предложение: When the teacher entered the classroom, the students ___ quietly.",
+                "uz": "Gapni to'ldiring: When the teacher entered the classroom, the students ___ quietly."
+            },
+            "options": [
+                {
+                    "answer": "were sitting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'were sitting' to describe what the students were doing when the teacher entered (interrupting action).",
+                "ru": "Используйте прошедшее продолженное 'were sitting', чтобы описать, что делали студенты, когда учитель вошел (прерывающее действие).",
+                "uz": "O'qituvchi kirganida (to'xtatuvchi harakat) talabalar nima qilganlarini tasvirlash uchun past continuous 'were sitting' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Last Sunday morning, it ___ heavily outside.",
+                "ru": "Дополните предложение: Last Sunday morning, it ___ heavily outside.",
+                "uz": "Gapni to'ldiring: Last Sunday morning, it ___ heavily outside."
+            },
+            "options": [
+                {
+                    "answer": "was raining",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'was raining' to describe weather conditions in progress at a specific time in the past.",
+                "ru": "Используйте прошедшее продолженное 'was raining' для описания погодных условий в процессе в определенное время в прошлом.",
+                "uz": "O'tmishda ma'lum vaqtda davom etgan ob-havo sharoitini tasvirlash uchun past continuous 'was raining' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: While my mother was cooking, I ___ the table.",
+                "ru": "Дополните предложение: While my mother was cooking, I ___ the table.",
+                "uz": "Gapni to'ldiring: While my mother was cooking, I ___ the table."
+            },
+            "options": [
+                {
+                    "answer": "set",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past simple 'set' for a completed action that happened during the ongoing action 'was cooking'.",
+                "ru": "Используйте прошедшее простое 'set' для завершенного действия, которое произошло во время продолжающегося действия 'was cooking'.",
+                "uz": "Davomli harakat 'was cooking' paytida sodir bo'lgan tugallangan harakat uchun past simple 'set' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The phone ___ while I was taking a shower.",
+                "ru": "Дополните предложение: The phone ___ while I was taking a shower.",
+                "uz": "Gapni to'ldiring: The phone ___ while I was taking a shower."
+            },
+            "options": [
+                {
+                    "answer": "rang",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past simple 'rang' for the interrupting action that happened during the ongoing activity 'was taking a shower'.",
+                "ru": "Используйте прошедшее простое 'rang' для прерывающего действия, которое произошло во время продолжающейся деятельности 'was taking a shower'.",
+                "uz": "Davomli faoliyat 'was taking a shower' paytida sodir bo'lgan to'xtatuvchi harakat uchun past simple 'rang' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: At midnight, the baby ___ peacefully in his crib.",
+                "ru": "Дополните предложение: At midnight, the baby ___ peacefully in his crib.",
+                "uz": "Gapni to'ldiring: At midnight, the baby ___ peacefully in his crib."
+            },
+            "options": [
+                {
+                    "answer": "was sleeping",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'was sleeping' for an action in progress at a specific time in the past (at midnight).",
+                "ru": "Используйте прошедшее продолженное 'was sleeping' для действия в процессе в определенное время в прошлом (at midnight).",
+                "uz": "O'tmishda ma'lum vaqtda (at midnight) davom etgan harakat uchun past continuous 'was sleeping' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When I saw him yesterday, he ___ a blue jacket.",
+                "ru": "Дополните предложение: When I saw him yesterday, he ___ a blue jacket.",
+                "uz": "Gapni to'ldiring: When I saw him yesterday, he ___ a blue jacket."
+            },
+            "options": [
+                {
+                    "answer": "was wearing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past continuous 'was wearing' to describe what he was doing at the moment when I saw him.",
+                "ru": "Используйте прошедшее продолженное 'was wearing', чтобы описать, что он делал в момент, когда я его увидел.",
+                "uz": "Men uni ko'rgan paytda u nima qilganini tasvirlash uchun past continuous 'was wearing' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: First she washed the dishes, then she ___ the kitchen floor.",
+                "ru": "Дополните предложение: First she washed the dishes, then she ___ the kitchen floor.",
+                "uz": "Gapni to'ldiring: First she washed the dishes, then she ___ the kitchen floor."
+            },
+            "options": [
+                {
+                    "answer": "cleaned",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use past simple 'cleaned' for a sequence of completed actions. Both 'washed' and 'cleaned' are finished actions that happened one after another.",
+                "ru": "Используйте прошедшее простое 'cleaned' для последовательности завершенных действий. И 'washed', и 'cleaned' - это завершенные действия, которые произошли одно за другим.",
+                "uz": "Tugallangan harakatlar ketma-ketligi uchun past simple 'cleaned' ishlatiladi. 'Washed' ham, 'cleaned' ham birin-ketin sodir bo'lgan tugallangan harakatlar."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last Saturday evening, Sarah ___1___ at home when she ___2___ a strange noise outside. She ___3___ her book on the table and ___4___ to the window to investigate. While she ___5___ through the curtains, she ___6___ a cat that ___7___ stuck in a tree. The poor animal ___8___ loudly for help. Sarah quickly ___9___ her coat and ___10___ outside to help. When she ___11___ the tree, she ___12___ that the cat ___13___ very scared. She ___14___ some food from her kitchen and ___15___ it near the tree. After waiting patiently for several minutes, the hungry cat finally came down and ate the food gratefully.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was reading"
+                },
+                {
+                    "blank": "2",
+                    "answer": "heard"
+                },
+                {
+                    "blank": "3",
+                    "answer": "put"
+                },
+                {
+                    "blank": "4",
+                    "answer": "went"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was looking"
+                },
+                {
+                    "blank": "6",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was crying"
+                },
+                {
+                    "blank": "9",
+                    "answer": "put on"
+                },
+                {
+                    "blank": "10",
+                    "answer": "ran"
+                },
+                {
+                    "blank": "11",
+                    "answer": "reached"
+                },
+                {
+                    "blank": "12",
+                    "answer": "noticed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "was"
+                },
+                {
+                    "blank": "14",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "15",
+                    "answer": "placed"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise combines past continuous for ongoing actions and background activities with past simple for completed actions and interrupting events in a narrative sequence.",
+                "ru": "Это упражнение сочетает прошедшее продолженное время для продолжающихся действий и фоновых активностей с прошедшим простым для завершенных действий и прерывающих событий в повествовательной последовательности.",
+                "uz": "Bu mashq davomli harakatlar va fon faoliyatlari uchun past continuous bilan hikoyaviy ketma-ketlikda tugallangan harakatlar va to'xtatuvchi voqealar uchun past simple ni birlashtiradi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Yesterday morning, Tom ___1___ his breakfast when his phone ___2___. It ___3___ his best friend Mike who ___4___ him about their weekend plans. While they ___5___ on the phone, Tom ___6___ that it ___7___ to rain outside. He ___8___ Mike that they should change their hiking plans because the weather ___9___ terrible. Mike ___10___ that he ___11___ the weather forecast earlier and it ___12___ that the rain would stop by afternoon. They ___13___ to meet at 2 PM instead of 10 AM. When Tom ___14___ up the phone, he ___15___ his coffee and continued reading the morning newspaper while the rain was falling gently against his window.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was eating"
+                },
+                {
+                    "blank": "2",
+                    "answer": "rang"
+                },
+                {
+                    "blank": "3",
+                    "answer": "was"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was calling"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were talking"
+                },
+                {
+                    "blank": "6",
+                    "answer": "noticed"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was starting"
+                },
+                {
+                    "blank": "8",
+                    "answer": "told"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was getting"
+                },
+                {
+                    "blank": "10",
+                    "answer": "said"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had checked"
+                },
+                {
+                    "blank": "12",
+                    "answer": "showed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "14",
+                    "answer": "hung"
+                },
+                {
+                    "blank": "15",
+                    "answer": "finished"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates the use of past continuous for actions in progress and past simple for completed actions and sudden events in narrative storytelling.",
+                "ru": "Этот отрывок демонстрирует использование прошедшего продолженного времени для действий в процессе и прошедшего простого для завершенных действий и внезапных событий в повествовательном рассказе.",
+                "uz": "Bu parcha hikoyaviy hikoyada davom etayotgan harakatlar uchun past continuous va tugallangan harakatlar hamda to'satdan sodir bo'lgan voqealar uchun past simple ishlatishni namoyish etadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last Thursday evening, the Johnson family ___1___ dinner together when the lights suddenly ___2___ out. The children ___3___ a little frightened, but their father ___4___ them not to worry. He ___5___ some candles from the kitchen while their mother ___6___ looking for a flashlight. When Dad ___7___ back with the candles, everyone ___8___ relieved. They ___9___ their meal by candlelight, which ___10___ quite romantic and fun. The youngest daughter ___11___ that it ___12___ like camping indoors. While they ___13___ dessert, the electricity ___14___ back on, but they ___15___ to finish their special dinner by candlelight anyway because they were enjoying the cozy atmosphere so much.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "were having"
+                },
+                {
+                    "blank": "2",
+                    "answer": "went"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "told"
+                },
+                {
+                    "blank": "5",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "came"
+                },
+                {
+                    "blank": "8",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "9",
+                    "answer": "continued"
+                },
+                {
+                    "blank": "10",
+                    "answer": "was"
+                },
+                {
+                    "blank": "11",
+                    "answer": "said"
+                },
+                {
+                    "blank": "12",
+                    "answer": "was"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were eating"
+                },
+                {
+                    "blank": "14",
+                    "answer": "came"
+                },
+                {
+                    "blank": "15",
+                    "answer": "decided"
+                }
+            ],
+            "explanation": {
+                "en": "This story uses past continuous for ongoing actions and background situations, and past simple for completed actions and sudden interrupting events in a family dinner narrative.",
+                "ru": "В этой истории используется прошедшее продолженное время для продолжающихся действий и фоновых ситуаций, и прошедшее простое для завершенных действий и внезапных прерывающих событий в повествовании о семейном ужине.",
+                "uz": "Bu hikoyada davomli harakatlar va fon vaziyatlari uchun past continuous, oilaviy kechki ovqat hikoyasida tugallangan harakatlar va to'satdan to'xtatuvchi voqealar uchun past simple ishlatilgan."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "On Monday morning, Emma ___1___ to work when she ___2___ her colleague James at the bus stop. He ___3___ very upset and ___4___ on the phone with someone. While Emma ___5___ for the bus to arrive, she ___6___ that James ___7___ an argument with his girlfriend. When the bus finally ___8___, James ___9___ his call and ___10___ Emma with a sad smile. During the journey, Emma ___11___ to cheer him up by telling funny stories about her weekend. James ___12___ a little better by the time they ___13___ their office building. Emma ___14___ him that everything would work out fine, and James ___15___ her for being such a good friend and listener.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was walking"
+                },
+                {
+                    "blank": "2",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "3",
+                    "answer": "looked"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was talking"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was waiting"
+                },
+                {
+                    "blank": "6",
+                    "answer": "realized"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was having"
+                },
+                {
+                    "blank": "8",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "9",
+                    "answer": "ended"
+                },
+                {
+                    "blank": "10",
+                    "answer": "greeted"
+                },
+                {
+                    "blank": "11",
+                    "answer": "tried"
+                },
+                {
+                    "blank": "12",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "13",
+                    "answer": "reached"
+                },
+                {
+                    "blank": "14",
+                    "answer": "told"
+                },
+                {
+                    "blank": "15",
+                    "answer": "thanked"
+                }
+            ],
+            "explanation": {
+                "en": "This passage combines past continuous for actions in progress and states, with past simple for completed actions and events that moved the story forward.",
+                "ru": "Этот отрывок сочетает прошедшее продолженное время для действий в процессе и состояний с прошедшим простым для завершенных действий и событий, которые продвигали историю вперед.",
+                "uz": "Bu parcha davom etayotgan harakatlar va holatlar uchun past continuous bilan hikoyani oldinga siljitadigan tugallangan harakatlar va voqealar uchun past simple ni birlashtiradi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last weekend, Maria and her friends ___1___ a picnic in the park when dark clouds ___2___ to gather in the sky. They ___3___ their sandwiches and ___4___ games on the grass when the first drops of rain ___5___ to fall. Maria ___6___ up at the sky and ___7___ her friends that they should pack everything quickly. While everyone ___8___ their belongings into bags, the rain ___9___ heavier. They ___10___ their picnic blankets and ___11___ towards the nearest shelter. By the time they ___12___ under the pavilion, they ___13___ completely soaked but still laughing. Maria ___14___ that next time she would check the weather forecast more carefully, and her friends ___15___ that despite the rain, they had enjoyed their adventurous picnic experience.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "were having"
+                },
+                {
+                    "blank": "2",
+                    "answer": "started"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were eating"
+                },
+                {
+                    "blank": "4",
+                    "answer": "were playing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "began"
+                },
+                {
+                    "blank": "6",
+                    "answer": "looked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "told"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was putting"
+                },
+                {
+                    "blank": "9",
+                    "answer": "became"
+                },
+                {
+                    "blank": "10",
+                    "answer": "grabbed"
+                },
+                {
+                    "blank": "11",
+                    "answer": "ran"
+                },
+                {
+                    "blank": "12",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were"
+                },
+                {
+                    "blank": "14",
+                    "answer": "promised"
+                },
+                {
+                    "blank": "15",
+                    "answer": "agreed"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates past continuous for ongoing activities and past simple for sudden changes and completed actions in a picnic adventure story.",
+                "ru": "Это упражнение демонстрирует прошедшее продолженное время для продолжающихся действий и прошедшее простое для внезапных изменений и завершенных действий в истории приключенческого пикника.",
+                "uz": "Bu mashq piknik sarguzasht hikoyasida davomli faoliyatlar uchun past continuous va to'satdan o'zgarishlar hamda tugallangan harakatlar uchun past simple ni namoyish etadi."
+            }
+        }
+    ]
+}

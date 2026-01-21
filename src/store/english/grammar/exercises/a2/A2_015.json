@@ -1,0 +1,791 @@
+{
+    "id": "A2_PREPOSITIONS_OF_TIME_INCLUDING_IN_ON_AT_TIME_EXPRESSIONS_MASTERY",
+    "title": "Prepositions of time (including in/on/at) - Time expressions mastery",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have a meeting on 2:30 PM."
+                },
+                {
+                    "answer": "I have a meeting at 2:30 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have a meeting in 2:30 PM."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'at' for specific times like 'at 2:30 PM' or 'at midnight'.",
+                "ru": "Используйте 'at' для указания точного времени, например 'at 2:30 PM' или 'at midnight'.",
+                "uz": "Aniq vaqtni ko'rsatish uchun 'at' ishlatiladi, masalan, 'at 2:30 PM' yoki 'at midnight'."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We go on holiday at the summer."
+                },
+                {
+                    "answer": "We go on holiday on the summer."
+                },
+                {
+                    "answer": "We go on holiday in the summer.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for seasons like 'in the summer' and 'in the winter'.",
+                "ru": "Используйте 'in' с названиями времен года, например 'in the summer' и 'in the winter'.",
+                "uz": "Mavsum nomlari bilan 'in' ishlatiladi, masalan, 'in the summer' va 'in the winter'."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I was born in October 10th."
+                },
+                {
+                    "answer": "I was born on October 10th.",
+                    "correct": true
+                },
+                {
+                    "answer": "I was born at October 10th."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' for specific dates, like 'on October 10th'.",
+                "ru": "Используйте 'on' для конкретных дат, например 'on October 10th'.",
+                "uz": "Aniq sanalar uchun 'on' ishlatiladi, masalan, 'on October 10th'."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The shop closes in Saturday."
+                },
+                {
+                    "answer": "The shop closes at Saturday."
+                },
+                {
+                    "answer": "The shop closes on Saturday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' for days of the week, like 'on Saturday' or 'on Monday'.",
+                "ru": "Используйте 'on' с днями недели, например 'on Saturday' или 'on Monday'.",
+                "uz": "Hafta kunlari bilan 'on' ishlatiladi, masalan, 'on Saturday' yoki 'on Monday'."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I will see you on the morning."
+                },
+                {
+                    "answer": "I will see you in the morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "I will see you at the morning."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for parts of the day, except for 'at night'. So it's 'in the morning', 'in the afternoon', and 'in the evening'.",
+                "ru": "Используйте 'in' с частями дня, за исключением 'at night'. Например, 'in the morning', 'in the afternoon' и 'in the evening'.",
+                "uz": "Kun qismlari bilan 'at night'dan tashqari 'in' ishlatiladi. Masalan, 'in the morning', 'in the afternoon' va 'in the evening'."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My birthday is at November."
+                },
+                {
+                    "answer": "My birthday is on November."
+                },
+                {
+                    "answer": "My birthday is in November.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for months, like 'in November' or 'in March'.",
+                "ru": "Используйте 'in' с названиями месяцев, например 'in November' или 'in March'.",
+                "uz": "Oylar nomlari bilan 'in' ishlatiladi, masalan, 'in November' yoki 'in March'."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We went to the beach at the weekend."
+                },
+                {
+                    "answer": "We went to the beach on the weekend.",
+                    "correct": true
+                },
+                {
+                    "answer": "We went to the beach in the weekend."
+                }
+            ],
+            "explanation": {
+                "en": "For 'weekend,' you can use either 'on' or 'at' ('on the weekend' is more common in American English, 'at the weekend' in British English). Both are acceptable, but 'on the weekend' is a common A2 usage.",
+                "ru": "С 'weekend' можно использовать как 'on', так и 'at' ('on the weekend' чаще используется в американском английском, 'at the weekend' — в британском). Оба варианта приемлемы, но 'on the weekend' — более распространенное употребление на уровне A2.",
+                "uz": "'Weekend' so'zi bilan 'on' yoki 'at' ishlatish mumkin ('on the weekend' Amerika inglizchasida, 'at the weekend' Britaniya inglizchasida ko'proq uchraydi). Ikkalasi ham qabul qilinadi, lekin 'on the weekend' A2 darajasida ko'proq tarqalgan."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He started his job on 2020."
+                },
+                {
+                    "answer": "He started his job at 2020."
+                },
+                {
+                    "answer": "He started his job in 2020.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for years and centuries, like 'in 2020' or 'in the 21st century'.",
+                "ru": "Используйте 'in' с годами и веками, например 'in 2020' или 'in the 21st century'.",
+                "uz": "Yillar va asrlar bilan 'in' ishlatiladi, masalan, 'in 2020' yoki 'in the 21st century'."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The sun rises at the morning."
+                },
+                {
+                    "answer": "The sun rises on the morning."
+                },
+                {
+                    "answer": "The sun rises in the morning.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for parts of the day, such as 'in the morning,' 'in the afternoon,' and 'in the evening.'",
+                "ru": "Используйте 'in' с частями дня, такими как 'in the morning', 'in the afternoon' и 'in the evening'.",
+                "uz": "Kun qismlari bilan 'in' ishlatiladi, masalan, 'in the morning', 'in the afternoon' va 'in the evening'."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The party is at next Friday."
+                },
+                {
+                    "answer": "The party is on next Friday."
+                },
+                {
+                    "answer": "The party is next Friday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Do not use a preposition before time expressions with 'next', 'last', 'this', and 'every'.",
+                "ru": "Не используйте предлоги перед выражениями времени, содержащими 'next', 'last', 'this' и 'every'.",
+                "uz": "'next', 'last', 'this' va 'every' bilan ishlatiladigan vaqt iboralari oldidan predlog ishlatmang."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother was born ___ March.",
+                "ru": "Дополните предложение: My brother was born ___ March.",
+                "uz": "Gapni to'ldiring: My brother was born ___ March."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for months and years.",
+                "ru": "Используйте 'in' с месяцами и годами.",
+                "uz": "Oylar va yillar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The train leaves ___ 6:00 AM.",
+                "ru": "Дополните предложение: The train leaves ___ 6:00 AM.",
+                "uz": "Gapni to'ldiring: The train leaves ___ 6:00 AM."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'at' for specific clock times.",
+                "ru": "Используйте 'at' для точного времени по часам.",
+                "uz": "Aniq vaqtni ko'rsatish uchun 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We usually have a picnic ___ the weekend.",
+                "ru": "Дополните предложение: We usually have a picnic ___ the weekend.",
+                "uz": "Gapni to'ldiring: We usually have a picnic ___ the weekend."
+            },
+            "options": [
+                {
+                    "answer": "on/at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "You can use either 'on' or 'at' with 'the weekend'.",
+                "ru": "С 'the weekend' можно использовать как 'on', так и 'at'.",
+                "uz": "'the weekend' so'zi bilan 'on' yoki 'at' ishlatish mumkin."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I will call you ___ the afternoon.",
+                "ru": "Дополните предложение: I will call you ___ the afternoon.",
+                "uz": "Gapni to'ldiring: I will call you ___ the afternoon."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for parts of the day like 'the afternoon'.",
+                "ru": "Используйте 'in' с частями дня, такими как 'the afternoon'.",
+                "uz": "Kun qismlari bilan 'in' ishlatiladi, masalan, 'the afternoon'."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The museum is closed ___ Sunday.",
+                "ru": "Дополните предложение: The museum is closed ___ Sunday.",
+                "uz": "Gapni to'ldiring: The museum is closed ___ Sunday."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' for days of the week.",
+                "ru": "Используйте 'on' с днями недели.",
+                "uz": "Hafta kunlari bilan 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She always arrives ___ time.",
+                "ru": "Дополните предложение: She always arrives ___ time.",
+                "uz": "Gapni to'ldiring: She always arrives ___ time."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'on time' means punctually, at the scheduled time.",
+                "ru": "Выражение 'on time' означает 'вовремя', точно по расписанию.",
+                "uz": "'on time' iborasi 'o'z vaqtida', ya'ni belgilangan vaqtda degan ma'noni anglatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: What do you do ___ Christmas Day?",
+                "ru": "Дополните предложение: What do you do ___ Christmas Day?",
+                "uz": "Gapni to'ldiring: What do you do ___ Christmas Day?"
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' for specific holidays that include the word 'day'.",
+                "ru": "Используйте 'on' для конкретных праздников, включающих слово 'day'.",
+                "uz": "'day' so'zini o'z ichiga olgan aniq bayramlar uchun 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'll finish my homework ___ an hour.",
+                "ru": "Дополните предложение: I'll finish my homework ___ an hour.",
+                "uz": "Gapni to'ldiring: I'll finish my homework ___ an hour."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' to indicate a period of time in the future before something happens.",
+                "ru": "Используйте 'in', чтобы указать период времени в будущем, в течение которого что-то произойдет.",
+                "uz": "Kelajakda nimadir sodir bo'lishidan oldingi vaqt oralig'ini bildirish uchun 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We always get up early ___ the morning.",
+                "ru": "Дополните предложение: We always get up early ___ the morning.",
+                "uz": "Gapni to'ldiring: We always get up early ___ the morning."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for parts of the day.",
+                "ru": "Используйте 'in' с частями дня.",
+                "uz": "Kun qismlari bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: What are you doing ___ New Year's Eve?",
+                "ru": "Дополните предложение: What are you doing ___ New Year's Eve?",
+                "uz": "Gapni to'ldiring: What are you doing ___ New Year's Eve?"
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' for specific holiday dates, such as New Year's Eve.",
+                "ru": "Используйте 'on' для конкретных праздничных дат, таких как 'New Year's Eve'.",
+                "uz": "New Year's Eve kabi aniq bayram sanalari uchun 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My birthday is ___ 2005.",
+                "ru": "Дополните предложение: My birthday is ___ 2005.",
+                "uz": "Gapni to'ldiring: My birthday is ___ 2005."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for years.",
+                "ru": "Используйте 'in' с годами.",
+                "uz": "Yillar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He works late ___ night.",
+                "ru": "Дополните предложение: He works late ___ night.",
+                "uz": "Gapni to'ldiring: He works late ___ night."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct preposition for 'night' is 'at'.",
+                "ru": "Правильный предлог для 'night' — 'at'.",
+                "uz": "'night' so'zi uchun to'g'ri predlog 'at' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa13",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The party is ___ Saturday.",
+                "ru": "Дополните предложение: The party is ___ Saturday.",
+                "uz": "Gapni to'ldiring: The party is ___ Saturday."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'on' with days of the week.",
+                "ru": "Используйте 'on' с днями недели.",
+                "uz": "Hafta kunlari bilan 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa14",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We usually go skiing ___ winter.",
+                "ru": "Дополните предложение: We usually go skiing ___ winter.",
+                "uz": "Gapni to'ldiring: We usually go skiing ___ winter."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'in' for seasons.",
+                "ru": "Используйте 'in' с временами года.",
+                "uz": "Mavsumlar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa15",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The meeting starts ___ 9:00.",
+                "ru": "Дополните предложение: The meeting starts ___ 9:00.",
+                "uz": "Gapni to'ldiring: The meeting starts ___ 9:00."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'at' for specific times.",
+                "ru": "Используйте 'at' для конкретного времени.",
+                "uz": "Aniq vaqtlar uchun 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Sarah, is a very busy person. She always wakes up early ___1___ the morning, usually ___2___ 6 a.m. ___3___ Tuesdays and Thursdays, she has a yoga class. She goes to work ___4___ 8:30 a.m. every day. ___5___ the afternoon, she has lunch with her colleagues. Her work finishes ___6___ 5 p.m., but sometimes she works late ___7___ night. ___8___ the weekend, she likes to relax. ___9___ winter, she goes skiing, and ___10___ summer, she likes to swim. Last year, she went to Spain ___11___ July. She has a big family reunion ___12___ August 15th every year. Her grandparents were born ___13___ the 1950s. She always calls her grandmother ___14___ her birthday. The grandmother's birthday is ___15___ December 20th.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "at"
+                },
+                {
+                    "blank": "3",
+                    "answer": "On"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "In"
+                },
+                {
+                    "blank": "6",
+                    "answer": "at"
+                },
+                {
+                    "blank": "7",
+                    "answer": "at"
+                },
+                {
+                    "blank": "8",
+                    "answer": "On/At"
+                },
+                {
+                    "blank": "9",
+                    "answer": "In"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "in"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on"
+                },
+                {
+                    "blank": "13",
+                    "answer": "in"
+                },
+                {
+                    "blank": "14",
+                    "answer": "on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "on"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of 'in' for months, years, and seasons; 'at' for specific times and 'night'; and 'on' for days and specific dates.",
+                "ru": "Это упражнение проверяет использование 'in' с месяцами, годами и временами года; 'at' для точного времени и 'night'; и 'on' для дней и конкретных дат.",
+                "uz": "Ushbu mashq 'in' predlogining oylar, yillar va fasllar bilan; 'at' predlogining aniq vaqt va 'night' bilan; 'on' predlogining esa kunlar va aniq sanalar bilan ishlatilishini tekshiradi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last year, I decided to learn a new skill. ___1___ January, I started a coding course. The classes were held ___2___ the evenings, specifically ___3___ Monday and Wednesday. My first class was ___4___ 7:00 p.m. ___5___ the end of the course, I felt much more confident. ___6___ the last day of the course, we had a final project. The project was due ___7___ Friday ___8___ 5:00 p.m. I was very nervous, but I finished it ___9___ time. My next goal is to learn a new language ___10___ the autumn. The language course starts ___11___ October 1st. I am going to meet a new friend from class ___12___ lunch. We will meet ___13___ noon. I am excited to begin this new journey. My journey begins ___14___ three weeks. I hope to be fluent ___15___ two years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "In"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "on"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "At"
+                },
+                {
+                    "blank": "6",
+                    "answer": "On"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "at"
+                },
+                {
+                    "blank": "9",
+                    "answer": "on"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "at"
+                },
+                {
+                    "blank": "14",
+                    "answer": "in"
+                },
+                {
+                    "blank": "15",
+                    "answer": "in"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise reviews the prepositions 'in' for months, seasons, and future periods; 'on' for days and specific dates; and 'at' for specific times of day and meals.",
+                "ru": "Это упражнение повторяет предлоги 'in' для месяцев, сезонов и будущих периодов; 'on' для дней и конкретных дат; и 'at' для конкретного времени суток и приемов пищи.",
+                "uz": "Ushbu mashq 'in' predlogining oylar, fasllar va kelajakdagi davrlar bilan; 'on' predlogining kunlar va aniq sanalar bilan; 'at' predlogining esa kunning aniq vaqtlari va ovqatlanish vaqtlari bilan ishlatilishini takrorlaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I are planning a trip to the countryside. We are going to leave ___1___ Saturday morning. The journey will take a few hours, so we will probably arrive ___2___ the afternoon. We plan to stay there ___3___ three days. We hope to get there ___4___ the weekend to have a short break. It's a special trip because our grandmother’s birthday is ___5___ the same week, ___6___ Wednesday. We will have a big celebration ___7___ the evening. We will light some candles ___8___ sunset. My grandfather, who was born ___9___ 1965, loves telling stories. He will tell us about his childhood. He lived ___10___ a small village and worked ___11___ the farm. He met my grandmother ___12___ a special day, ___13___ their high school dance. They got married ___14___ June, 1985. We will sing songs and share memories until late ___15___ night.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "on"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "for"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at/on"
+                },
+                {
+                    "blank": "5",
+                    "answer": "in"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "at"
+                },
+                {
+                    "blank": "9",
+                    "answer": "in"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on"
+                },
+                {
+                    "blank": "13",
+                    "answer": "at"
+                },
+                "on",
+                "at"
+            ],
+            "explanation": {
+                "en": "This text uses 'on' for days and dates, 'in' for parts of the day, years, and months, and 'at' for specific times and 'night'. It also includes 'for' to describe a duration.",
+                "ru": "В этом тексте 'on' используется для дней и дат, 'in' — для частей дня, лет и месяцев, а 'at' — для конкретного времени и 'night'. Также используется 'for' для обозначения продолжительности.",
+                "uz": "Bu matnda 'on' kunlar va sanalar bilan, 'in' kunning qismlari, yillar va oylar bilan, 'at' esa aniq vaqtlar va 'night' bilan ishlatilgan. Bundan tashqari, muddatni ifodalash uchun 'for' ham ishlatilgan."
+            }
+        }
+    ]
+}

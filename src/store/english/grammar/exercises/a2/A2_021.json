@@ -1,0 +1,851 @@
+{
+    "id": "A2_TO_BE_INCLUDING_QUESTION_NEGATIVES_COMPLETE_MASTERY",
+    "title": "To be (including question + negatives) - Complete mastery",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She am happy."
+                },
+                {
+                    "answer": "She is happy.",
+                    "correct": true
+                },
+                {
+                    "answer": "She are happy."
+                }
+            ],
+            "explanation": {
+                "en": "With third person singular 'she', we use 'is', not 'am' or 'are'.",
+                "ru": "С третьим лицом единственного числа 'she' используется 'is', а не 'am' или 'are'.",
+                "uz": "'She' uchinchi shaxs birlik soni bilan 'is' ishlatiladi, 'am' yoki 'are' emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which negative sentence is correct?",
+                "ru": "Какое отрицательное предложение правильное?",
+                "uz": "Qaysi inkor gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They not are students."
+                },
+                {
+                    "answer": "They are not students.",
+                    "correct": true
+                },
+                {
+                    "answer": "They aren't not students."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form is 'are not' or the contraction 'aren't'.",
+                "ru": "Правильная отрицательная форма - 'are not' или сокращение 'aren't'.",
+                "uz": "To'g'ri inkor shakli 'are not' yoki qisqargan 'aren't' ko'rinishidir."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are you ready?",
+                    "correct": true
+                },
+                {
+                    "answer": "You are ready?"
+                },
+                {
+                    "answer": "Do you are ready?"
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'be' verb require inversion: auxiliary verb comes before the subject.",
+                "ru": "Вопросы с глаголом 'be' требуют инверсии: вспомогательный глагол ставится перед подлежащим.",
+                "uz": "'Be' fe'li bilan savollarda inversiya kerak: yordamchi fe'l ega oldidan keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am not tired.",
+                    "correct": true
+                },
+                {
+                    "answer": "I amn't tired."
+                },
+                {
+                    "answer": "I not am tired."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form of 'I am' is 'I am not'. 'Amn't' is not standard English.",
+                "ru": "Правильная отрицательная форма 'I am' - это 'I am not'. 'Amn't' не является стандартным английским.",
+                "uz": "'I am'ning to'g'ri inkor shakli 'I am not'dir. 'Amn't' standart ingliz tiliga kirmaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We is friends."
+                },
+                {
+                    "answer": "We am friends."
+                },
+                {
+                    "answer": "We are friends.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With plural subject 'we', the correct form of 'be' is 'are'.",
+                "ru": "С подлежащим во множественном числе 'we' правильная форма глагола 'be' - это 'are'.",
+                "uz": "Ko'plik ega 'we' bilan 'be' fe'lining to'g'ri shakli 'are'dir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question form is correct?",
+                "ru": "Какая вопросительная форма правильная?",
+                "uz": "Qaysi so'roq shakli to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Is she your sister?",
+                    "correct": true
+                },
+                {
+                    "answer": "She is your sister?"
+                },
+                {
+                    "answer": "Does she is your sister?"
+                }
+            ],
+            "explanation": {
+                "en": "In questions with 'be', the verb comes before the subject without using 'do/does'.",
+                "ru": "В вопросах с глаголом 'be' глагол ставится перед подлежащим без использования 'do/does'.",
+                "uz": "'Be' bilan savollarda fe'l ega oldidan keladi, 'do/does' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct negative form.",
+                "ru": "Выберите правильную отрицательную форму.",
+                "uz": "To'g'ri inkor shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He isn't at home.",
+                    "correct": true
+                },
+                {
+                    "answer": "He not is at home."
+                },
+                {
+                    "answer": "He doesn't be at home."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative contraction of 'he is' is 'he isn't', not using 'do/does'.",
+                "ru": "Правильное отрицательное сокращение 'he is' - это 'he isn't', без использования 'do/does'.",
+                "uz": "'He is'ning to'g'ri inkor qisqartmasi 'he isn't'dir, 'do/does' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "You is my best friend."
+                },
+                {
+                    "answer": "You am my best friend."
+                },
+                {
+                    "answer": "You are my best friend.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With 'you' (both singular and plural), we always use 'are'.",
+                "ru": "С местоимением 'you' (как в единственном, так и во множественном числе) всегда используется 'are'.",
+                "uz": "'You' olmoshi bilan (birlik va ko'plik) doimo 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Am I late?",
+                    "correct": true
+                },
+                {
+                    "answer": "I am late?"
+                },
+                {
+                    "answer": "Do I am late?"
+                }
+            ],
+            "explanation": {
+                "en": "In questions with 'I am', we invert to 'Am I' without using auxiliary 'do'.",
+                "ru": "В вопросах с 'I am' происходит инверсия в 'Am I' без использования вспомогательного 'do'.",
+                "uz": "'I am' bilan savollarda 'Am I'ga o'zgaradi, yordamchi 'do' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which negative sentence is correct?",
+                "ru": "Какое отрицательное предложение правильное?",
+                "uz": "Qaysi inkor gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It not is cold today."
+                },
+                {
+                    "answer": "It isn't cold today.",
+                    "correct": true
+                },
+                {
+                    "answer": "It doesn't be cold today."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form is 'it isn't' or 'it is not', never with 'do/does'.",
+                "ru": "Правильная отрицательная форма - 'it isn't' или 'it is not', никогда с 'do/does'.",
+                "uz": "To'g'ri inkor shakli 'it isn't' yoki 'it is not'dir, 'do/does' bilan emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ from Spain.",
+                "ru": "Дополните предложение: They ___ from Spain.",
+                "uz": "Gapni to'ldiring: They ___ from Spain."
+            },
+            "options": [
+                {
+                    "answer": "are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With plural subject 'they', we use 'are'.",
+                "ru": "С подлежащим во множественном числе 'they' используется 'are'.",
+                "uz": "Ko'plik ega 'they' bilan 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: She ___ hungry.",
+                "ru": "Дополните отрицание: She ___ hungry.",
+                "uz": "Inkornı to'ldiring: She ___ hungry."
+            },
+            "options": [
+                {
+                    "answer": "isn't/is not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'she is' is 'she isn't' or 'she is not'.",
+                "ru": "Отрицательная форма 'she is' - это 'she isn't' или 'she is not'.",
+                "uz": "'She is'ning inkor shakli 'she isn't' yoki 'she is not'dir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ you a teacher?",
+                "ru": "Дополните вопрос: ___ you a teacher?",
+                "uz": "Savolni to'ldiring: ___ you a teacher?"
+            },
+            "options": [
+                {
+                    "answer": "Are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'you' start with 'Are' through inversion.",
+                "ru": "Вопросы с 'you' начинаются с 'Are' через инверсию.",
+                "uz": "'You' bilan savollar inversiya orqali 'Are' bilan boshlanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: I ___ happy today.",
+                "ru": "Дополните правильной формой: I ___ happy today.",
+                "uz": "To'g'ri shakl bilan to'ldiring: I ___ happy today."
+            },
+            "options": [
+                {
+                    "answer": "am",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With first person singular 'I', we always use 'am'.",
+                "ru": "С первым лицом единственного числа 'I' всегда используется 'am'.",
+                "uz": "Birinchi shaxs birlik 'I' bilan doimo 'am' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: We ___ ready yet.",
+                "ru": "Дополните отрицание: We ___ ready yet.",
+                "uz": "Inkornı to'ldiring: We ___ ready yet."
+            },
+            "options": [
+                {
+                    "answer": "aren't/are not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'we are' is 'we aren't' or 'we are not'.",
+                "ru": "Отрицательная форма 'we are' - это 'we aren't' или 'we are not'.",
+                "uz": "'We are'ning inkor shakli 'we aren't' yoki 'we are not'dir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ he your brother?",
+                "ru": "Дополните вопрос: ___ he your brother?",
+                "uz": "Savolni to'ldiring: ___ he your brother?"
+            },
+            "options": [
+                {
+                    "answer": "Is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with third person singular 'he' start with 'Is'.",
+                "ru": "Вопросы с третьим лицом единственного числа 'he' начинаются с 'Is'.",
+                "uz": "Uchinchi shaxs birlik 'he' bilan savollar 'Is' bilan boshlanadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The cat ___ sleeping.",
+                "ru": "Дополните предложение: The cat ___ sleeping.",
+                "uz": "Gapni to'ldiring: The cat ___ sleeping."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With singular noun 'cat', we use 'is'.",
+                "ru": "С существительным в единственном числе 'cat' используется 'is'.",
+                "uz": "Birlik ot 'cat' bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: It ___ raining now.",
+                "ru": "Дополните отрицание: It ___ raining now.",
+                "uz": "Inkornı to'ldiring: It ___ raining now."
+            },
+            "options": [
+                {
+                    "answer": "isn't/is not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'it is' is 'it isn't' or 'it is not'.",
+                "ru": "Отрицательная форма 'it is' - это 'it isn't' или 'it is not'.",
+                "uz": "'It is'ning inkor shakli 'it isn't' yoki 'it is not'dir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ they at school?",
+                "ru": "Дополните вопрос: ___ they at school?",
+                "uz": "Savolni to'ldiring: ___ they at school?"
+            },
+            "options": [
+                {
+                    "answer": "Are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with plural 'they' start with 'Are'.",
+                "ru": "Вопросы с множественным числом 'they' начинаются с 'Are'.",
+                "uz": "Ko'plik 'they' bilan savollar 'Are' bilan boshlanadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: I ___ not tired.",
+                "ru": "Дополните отрицание: I ___ not tired.",
+                "uz": "Inkornı to'ldiring: I ___ not tired."
+            },
+            "options": [
+                {
+                    "answer": "am",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With 'I', the negative form is 'I am not' (no contraction exists).",
+                "ru": "С 'I' отрицательная форма - 'I am not' (сокращения не существует).",
+                "uz": "'I' bilan inkor shakli 'I am not'dir (qisqargan shakli yo'q)."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, my name ___1___ Sarah and I ___2___ from London. I ___3___ twenty-five years old and I ___4___ a teacher. My husband ___5___ not English - he ___6___ from Italy. We ___7___ very happy together. ___8___ you married too? My parents ___9___ both doctors and they ___10___ very busy people. They ___11___ not at home very often because they ___12___ always working. ___13___ your parents busy too? My brother ___14___ a student and he ___15___ not interested in medicine like our parents.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "am"
+                },
+                {
+                    "blank": "3",
+                    "answer": "am"
+                },
+                {
+                    "blank": "4",
+                    "answer": "am"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests all forms of 'be' verb: am (with I), is (with he/she/it/singular nouns), are (with you/we/they/plural nouns), including negative forms and questions.",
+                "ru": "Это упражнение проверяет все формы глагола 'be': am (с I), is (с he/she/it/существительными в единственном числе), are (с you/we/they/существительными во множественном числе), включая отрицательные формы и вопросы.",
+                "uz": "Bu mashq 'be' fe'lining barcha shakllarini tekshiradi: am (I bilan), is (he/she/it/birlik otlar bilan), are (you/we/they/ko'plik otlar bilan), inkor shakllari va savollar bilan birga."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Today ___1___ Monday and the weather ___2___ very cold. The children ___3___ not at school because it ___4___ a holiday. ___5___ you cold too? I ___6___ wearing my warm jacket because I ___7___ not used to this weather. My friends ___8___ from different countries. Maria ___9___ from Spain and she ___10___ always complaining about the cold weather here. ___11___ she right about the weather? The other students in my class ___12___ not from warm countries like Spain. They ___13___ from places where it ___14___ cold in winter, so they ___15___ more comfortable with this temperature.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "am"
+                },
+                {
+                    "blank": "7",
+                    "answer": "am"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "This passage practices 'be' verb forms in context with weather, nationality, and descriptions, including questions and negative forms.",
+                "ru": "Этот текст отрабатывает формы глагола 'be' в контексте с погодой, национальностью и описаниями, включая вопросы и отрицательные формы.",
+                "uz": "Ushbu matn ob-havo, millat va tavsiflar kontekstida 'be' fe'li shakllarini mashq qiladi, savollar va inkor shakllar bilan birga."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family ___1___ very important to me. My mother ___2___ a nurse and my father ___3___ an engineer. They ___4___ not young anymore, but they ___5___ still very active. ___6___ your parents still working? My sister ___7___ married and she ___8___ living in another city with her husband. Her children ___9___ my favorite nephews. They ___10___ not old enough for school yet. The youngest one ___11___ only two years old and he ___12___ very funny. ___13___ you close to your family too? Family relationships ___14___ not always easy, but love ___15___ the most important thing that keeps us together.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on family relationships using all forms of 'be' verb with different subjects, ages, and descriptions.",
+                "ru": "Этот текст сосредоточен на семейных отношениях, используя все формы глагола 'be' с различными подлежащими, возрастами и описаниями.",
+                "uz": "Ushbu matn turli egalar, yoshlar va tavsiflar bilan 'be' fe'lining barcha shakllarini ishlatib, oila munosabatlariga qaratilgan."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The library ___1___ a quiet place where students like to study. The books ___2___ organized by subject and the librarians ___3___ very helpful. ___4___ you a member of this library? The computers ___5___ not working properly today, so many people ___6___ frustrated. The reading room ___7___ usually full of students during exam time. ___8___ it busy today too? The new section ___9___ dedicated to digital resources and it ___10___ very popular among young people. The opening hours ___11___ convenient - the library ___12___ open from morning until late evening. ___13___ the staff friendly? Yes, they ___14___ always ready to help. The atmosphere ___15___ perfect for concentration and learning.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses 'be' verb forms to describe places, objects, and people in a library setting with questions and statements.",
+                "ru": "Этот текст использует формы глагола 'be' для описания мест, предметов и людей в библиотеке с вопросами и утверждениями.",
+                "uz": "Ushbu matn kutubxona muhitida joylar, buyumlar va odamlarni tasvirlash uchun 'be' fe'li shakllarini savollar va bayonotlar bilan ishlatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Shopping ___1___ not my favorite activity, but sometimes it ___2___ necessary. The supermarket ___3___ usually crowded on weekends. ___4___ you a person who enjoys shopping? The prices ___5___ not always reasonable, especially for organic food. The staff ___6___ generally helpful when you need assistance. The vegetables ___7___ fresh today, but the meat section ___8___ not very appealing. ___9___ the checkout lines long? Yes, they ___10___ always busy during peak hours. The parking lot ___11___ full, so finding a space ___12___ difficult. The new self-service machines ___13___ convenient, but some elderly customers ___14___ not comfortable using them. Overall, the shopping experience ___15___ better when the store is less crowded.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses 'be' verb forms to describe shopping experiences, including gerunds as subjects, plural nouns, and questions.",
+                "ru": "Этот текст использует формы глагола 'be' для описания опыта покупок, включая герундий в качестве подлежащих, существительные во множественном числе и вопросы.",
+                "uz": "Ushbu matn xarid qilish tajribasini tasvirlash uchun 'be' fe'li shakllarini ishlatadi, shu jumladan gerund egalar, ko'plik otlar va savollar."
+            }
+        }
+    ]
+}

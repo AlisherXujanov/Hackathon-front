@@ -1,0 +1,823 @@
+{
+    "id": "C1_ADVANCED_MODAL_VERBS_AND_EXPRESSIONS_SUBTLE_MODAL_MEANINGS_AND_COMBINATIONS",
+    "title": "Advanced modal verbs and expressions - Subtle modal meanings and combinations",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that expresses the strongest degree of certainty.",
+                "ru": "Выберите предложение, выражающее наивысшую степень уверенности.",
+                "uz": "Eng yuqori darajadagi ishonchni ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She might have finished the report by now."
+                },
+                {
+                    "answer": "She must have finished the report by now.",
+                    "correct": true
+                },
+                {
+                    "answer": "She could have finished the report by now."
+                }
+            ],
+            "explanation": {
+                "en": "'Must have' expresses strong logical deduction based on evidence, while 'might have' and 'could have' express possibility with less certainty.",
+                "ru": "'Must have' выражает сильную логическую дедукцию на основе доказательств, в то время как 'might have' и 'could have' выражают возможность с меньшей уверенностью.",
+                "uz": "'Must have' dalillarga asoslangan kuchli mantiqiy xulosani bildiradi, 'might have' va 'could have' esa kamroq ishonch bilan imkoniyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses a polite suggestion with subtle criticism?",
+                "ru": "Какое предложение правильно выражает вежливое предложение с тонкой критикой?",
+                "uz": "Qaysi gap nozik tanqid bilan muloyim taklifni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "You should have been more careful with that."
+                },
+                {
+                    "answer": "You might want to consider being more careful next time.",
+                    "correct": true
+                },
+                {
+                    "answer": "You must be more careful from now on."
+                }
+            ],
+            "explanation": {
+                "en": "'Might want to consider' is a diplomatically softened way of making suggestions, less direct than 'should have' or 'must'.",
+                "ru": "'Might want to consider' - это дипломатично смягченный способ давать предложения, менее прямой, чем 'should have' или 'must'.",
+                "uz": "'Might want to consider' takliflarni diplomatik ravishda yumshatilgan usuli bo'lib, 'should have' yoki 'must'dan kamroq to'g'ridan-to'g'ri."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence that expresses reluctant permission.",
+                "ru": "Выберите предложение, выражающее неохотное разрешение.",
+                "uz": "Istamagan ruxsatni ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You can go if you want to."
+                },
+                {
+                    "answer": "You may as well go, I suppose.",
+                    "correct": true
+                },
+                {
+                    "answer": "You should go ahead and leave."
+                }
+            ],
+            "explanation": {
+                "en": "'May as well' combined with 'I suppose' conveys reluctant acceptance or permission with a tone of resignation.",
+                "ru": "'May as well' в сочетании с 'I suppose' передает неохотное согласие или разрешение с оттенком смирения.",
+                "uz": "'May as well' va 'I suppose' birgalikda istamagan rozilik yoki ruxsatni taslim bo'lish ohangida bildiradi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence expresses hypothetical ability in the past with regret?",
+                "ru": "Какое предложение выражает гипотетическую способность в прошлом с сожалением?",
+                "uz": "Qaysi gap o'tmishdagi faraziy qobiliyatni afsuslanish bilan ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "I was able to help him yesterday."
+                },
+                {
+                    "answer": "I could help him if he asked."
+                },
+                {
+                    "answer": "I could have helped him if only he had asked.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Could have' + past participle expresses unrealized past ability, often with regret. 'If only' intensifies the sense of missed opportunity.",
+                "ru": "'Could have' + причастие прошедшего времени выражает нереализованную способность в прошлом, часто с сожалением. 'If only' усиливает чувство упущенной возможности.",
+                "uz": "'Could have' + o'tgan zamon sifatdoshi amalga oshirilmagan o'tmish qobiliyatini, ko'pincha afsuslanish bilan ifodalaydi. 'If only' o'tkazib yuborilgan imkoniyat hissini kuchaytiradi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that best expresses annoyed disbelief.",
+                "ru": "Выберите предложение, которое лучше всего выражает раздраженное недоверие.",
+                "uz": "G'azablangan ishonchsizlikni eng yaxshi ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She might not have known about the meeting."
+                },
+                {
+                    "answer": "She can't possibly have forgotten about the meeting!",
+                    "correct": true
+                },
+                {
+                    "answer": "She shouldn't have missed the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "'Can't possibly have' expresses strong disbelief or incredulity, often with emotional undertones of frustration or annoyance.",
+                "ru": "'Can't possibly have' выражает сильное недоверие или недоверчивость, часто с эмоциональными оттенками фрустрации или раздражения.",
+                "uz": "'Can't possibly have' kuchli ishonchsizlik yoki hayratni, ko'pincha xafa bo'lish yoki g'azablanishning hissiy ohanglari bilan ifodalaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses inevitable consequence?",
+                "ru": "Какое предложение правильно выражает неизбежное последствие?",
+                "uz": "Qaysi gap muqarrar oqibatni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "If you keep smoking, you might get sick."
+                },
+                {
+                    "answer": "If you keep smoking, you will get sick."
+                },
+                {
+                    "answer": "If you keep smoking, you're bound to get sick.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Be bound to' expresses inevitability or certainty that something will happen, stronger than 'will' and much stronger than 'might'.",
+                "ru": "'Be bound to' выражает неизбежность или уверенность в том, что что-то произойдет, сильнее чем 'will' и намного сильнее чем 'might'.",
+                "uz": "'Be bound to' muqarrarlik yoki biror narsa sodir bo'lishiga ishonchni bildiradi, 'will'dan kuchli va 'might'dan ancha kuchli."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence that expresses tentative disagreement.",
+                "ru": "Выберите предложение, выражающее осторожное несогласие.",
+                "uz": "Ehtiyotkorona norozilikni ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I don't think that's right."
+                },
+                {
+                    "answer": "That can't be correct."
+                },
+                {
+                    "answer": "I wouldn't say that's entirely accurate.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Wouldn't say' with 'entirely' creates a diplomatic way to express disagreement without being confrontational or absolute.",
+                "ru": "'Wouldn't say' с 'entirely' создает дипломатичный способ выразить несогласие, не будучи конфронтационным или категоричным.",
+                "uz": "'Wouldn't say' va 'entirely' bilan norozilikni konfrontatsiyaga yoki mutlaqlikka o'tmasdan diplomatik tarzda ifodalash usulini yaratadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence expresses a conditional obligation that depends on circumstances?",
+                "ru": "Какое предложение выражает условную обязанность, которая зависит от обстоятельств?",
+                "uz": "Qaysi gap vaziyatga bog'liq shartli majburiyatni ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "You must complete this by tomorrow."
+                },
+                {
+                    "answer": "You should complete this by tomorrow."
+                },
+                {
+                    "answer": "You might have to complete this by tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Might have to' expresses obligation that is uncertain and depends on future circumstances or conditions.",
+                "ru": "'Might have to' выражает обязанность, которая является неопределенной и зависит от будущих обстоятельств или условий.",
+                "uz": "'Might have to' noaniq bo'lgan va kelajakdagi holatlar yoki shartlarga bog'liq majburiyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that best expresses speculative criticism.",
+                "ru": "Выберите предложение, которое лучше всего выражает предположительную критику.",
+                "uz": "Taxminiy tanqidni eng yaxshi ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She definitely made a mistake."
+                },
+                {
+                    "answer": "She must have made a mistake somewhere."
+                },
+                {
+                    "answer": "She may well have been careless with the details.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May well have' expresses a reasonable possibility with an undertone of mild criticism or disapproval.",
+                "ru": "'May well have' выражает разумную возможность с оттенком мягкой критики или неодобрения.",
+                "uz": "'May well have' yumshoq tanqid yoki norozilik ohangi bilan oqilona imkoniyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses emphatic necessity with personal stake?",
+                "ru": "Какое предложение правильно выражает категорическую необходимость с личной заинтересованностью?",
+                "uz": "Qaysi gap shaxsiy manfaat bilan qat'iy zarurat(majburiyat)ni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "We should leave now."
+                },
+                {
+                    "answer": "We must leave now."
+                },
+                {
+                    "answer": "We've got to leave now!",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Have got to' expresses urgent necessity with emotional involvement and personal investment in the outcome.",
+                "ru": "'Have got to' выражает срочную необходимость с эмоциональным участием и личной заинтересованностью в результате.",
+                "uz": "'Have got to' natijaga shaxsiy qiziqish va hissiy ishtirok bilan shoshilinch zarurat(majburiyat)ni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the appropriate modal expression: Given all the evidence, she ___ (know) the truth from the beginning.",
+                "ru": "Дополните предложение соответствующим модальным выражением: Given all the evidence, she ___ (know) the truth from the beginning.",
+                "uz": "Gapni mos modal ifoda bilan to'ldiring: Given all the evidence, she ___ (know) the truth from the beginning."
+            },
+            "options": [
+                {
+                    "answer": "must have known",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Must have known' expresses strong logical deduction about a past state based on current evidence.",
+                "ru": "'Must have known' выражает сильную логическую дедукцию о прошлом состоянии на основе текущих доказательств.",
+                "uz": "'Must have known' hozirgi dalillarga asoslangan o'tmishdagi holat haqida kuchli mantiqiy xulosani ifodalaydi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the modal that expresses reluctant acceptance: I suppose you ___ go ahead with your plan.",
+                "ru": "Заполните пропуск модальным словом, выражающим неохотное согласие: I suppose you ___ go ahead with your plan.",
+                "uz": "Bo'shliqni istamagan rozilikni ifodalovchi modal so'z bilan to'ldiring: I suppose you ___ go ahead with your plan."
+            },
+            "options": [
+                {
+                    "answer": "may as well",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May as well' expresses resignation and reluctant permission, suggesting the speaker sees no better alternative.",
+                "ru": "'May as well' выражает смирение и неохотное разрешение, предполагая, что говорящий не видит лучшей альтернативы.",
+                "uz": "'May as well' taslim bo'lish va istamagan ruxsatni bildiradi, gapiruvchi yaxshiroq alternativa ko'rmayotganini anglatadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal expressing inevitable consequence: If she continues working those hours, she ___ burn out eventually.",
+                "ru": "Дополните модальным словом, выражающим неизбежное последствие: If she continues working those hours, she ___ burn out eventually.",
+                "uz": "Muqarrar oqibatni ifodalovchi modal so'z bilan to'ldiring: If she continues working those hours, she ___ burn out eventually."
+            },
+            "options": [
+                {
+                    "answer": "is bound to/will inevitably",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Is bound to' expresses certainty that something negative will happen as an inevitable result of current actions.",
+                "ru": "'Is bound to' выражает уверенность в том, что что-то негативное произойдет как неизбежный результат текущих действий.",
+                "uz": "'Is bound to' hozirgi harakatlarning muqarrar natijasi sifatida salbiy narsa sodir bo'lishiga ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap with the modal expressing annoyed disbelief: He ___ forgotten our anniversary again!",
+                "ru": "Заполните пропуск модальным словом, выражающим раздраженное недоверие: He ___ forgotten our anniversary again!",
+                "uz": "Bo'shliqni g'azablangan ishonchsizlikni ifodalovchi modal so'z bilan to'ldiring: He ___ forgotten our anniversary again!"
+            },
+            "options": [
+                {
+                    "answer": "can't possibly have/cannot have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Can't possibly have' expresses strong disbelief mixed with frustration about a past action or event.",
+                "ru": "'Can't possibly have' выражает сильное недоверие, смешанное с фрустрацией по поводу прошлого действия или события.",
+                "uz": "'Can't possibly have' o'tmish harakat yoki voqea bo'yicha xafagarchilik bilan aralashgan kuchli ishonchsizlikni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a modal expressing tentative disagreement: I ___ (say) that's the best approach to this problem.",
+                "ru": "Дополните предложение модальным словом, выражающим осторожное несогласие: I ___ (say) that's the best approach to this problem.",
+                "uz": "Gapni ehtiyotkorona norozilikni ifodalovchi modal so'z bilan to'ldiring: I ___ (say) that's the best approach to this problem."
+            },
+            "options": [
+                {
+                    "answer": "wouldn't say/wouldn't think/would not say",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Wouldn't say' or 'wouldn't think' expresses polite disagreement without being confrontational or absolute.",
+                "ru": "'Wouldn't say' или 'wouldn't think' выражает вежливое несогласие без конфронтации или категоричности.",
+                "uz": "'Wouldn't say' yoki 'wouldn't think' konfrontatsiya yoki mutlaqliksiz muloyim norozilikni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal expressing regret about unrealized past ability: I ___ more supportive during her difficult time.",
+                "ru": "Заполните модальным словом, выражающим сожаление о нереализованной способности в прошлом: I ___ more supportive during her difficult time.",
+                "uz": "Amalga oshirilmagan o'tmish qobiliyati haqida afsuslanishni ifodalovchi modal so'z bilan to'ldiring: I ___ more supportive during her difficult time."
+            },
+            "options": [
+                {
+                    "answer": "could have been/should have been",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Could have been' or 'should have been' expresses regret about missed opportunities or unrealized potential in the past.",
+                "ru": "'Could have been' или 'should have been' выражает сожаление об упущенных возможностях или нереализованном потенциале в прошлом.",
+                "uz": "'Could have been' yoki 'should have been' o'tmishdagi o'tkazib yuborilgan imkoniyatlar yoki amalga oshirilmagan salohiyat haqida afsuslanishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal expressing conditional obligation: Depending on the weather, we ___ cancel the outdoor event.",
+                "ru": "Дополните модальным словом, выражающим условную обязанность: Depending on the weather, we ___ cancel the outdoor event.",
+                "uz": "Shartli majburiyatni ifodalovchi modal so'z bilan to'ldiring: Depending on the weather, we ___ cancel the outdoor event."
+            },
+            "options": [
+                {
+                    "answer": "might have to/may need to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Might have to' or 'may need to' expresses obligation that is uncertain and depends on future circumstances.",
+                "ru": "'Might have to' или 'may need to' выражает обязанность, которая является неопределенной и зависит от будущих обстоятельств.",
+                "uz": "'Might have to' yoki 'may need to' noaniq bo'lgan va kelajakdagi holatga bog'liq majburiyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal expressing speculative criticism: She ___ more careful with those important documents.",
+                "ru": "Заполните модальным словом, выражающим предположительную критику: She ___ more careful with those important documents.",
+                "uz": "Taxminiy tanqidni ifodalovchi modal so'z bilan to'ldiring: She ___ more careful with those important documents."
+            },
+            "options": [
+                {
+                    "answer": "may well have been/might have been",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May well have been' or 'might have been' expresses reasonable possibility with an undertone of mild criticism.",
+                "ru": "'May well have been' или 'might have been' выражает разумную возможность с оттенком мягкой критики.",
+                "uz": "'May well have been' yoki 'might have been' yumshoq tanqid ohangi bilan oqilona imkoniyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal expressing emphatic necessity: We ___ address this issue immediately before it gets worse.",
+                "ru": "Дополните модальным словом, выражающим категорическую необходимость: We ___ address this issue immediately before it gets worse.",
+                "uz": "Qat'iy zarurat(majburiyat)ni ifodalovchi modal so'z bilan to'ldiring: We ___ address this issue immediately before it gets worse."
+            },
+            "options": [
+                {
+                    "answer": "have got to/need to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Have got to' or 'need to' expresses urgent necessity with emotional involvement and personal investment.",
+                "ru": "'Have got to' или 'need to' выражает срочную необходимость с эмоциональным участием и личной заинтересованностью.",
+                "uz": "'Have got to' yoki 'need to' hissiy ishtirok va shaxsiy qiziqish bilan shoshilinch zarurat(majburiyat)ni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal expressing polite but firm suggestion with criticism: You ___ consider your words more carefully next time.",
+                "ru": "Заполните модальным словом, выражающим вежливое, но твердое предложение с критикой: You ___ consider your words more carefully next time.",
+                "uz": "Tanqid bilan muloyim ammo qat'iy taklifni ifodalovchi modal so'z bilan to'ldiring: You ___ consider your words more carefully next time."
+            },
+            "options": [
+                {
+                    "answer": "might want to/would do well to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Might want to' or 'would do well to' provides diplomatic criticism disguised as helpful suggestion.",
+                "ru": "'Might want to' или 'would do well to' предоставляет дипломатичную критику, замаскированную под полезное предложение.",
+                "uz": "'Might want to' yoki 'would do well to' foydali taklif qiyofasidagi diplomatik tanqidni beradi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal verbs and expressions",
+                "ru": "Заполните пропуски правильными модальными глаголами и выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal fe'llar va iboralar bilan to'ldiring"
+            },
+            "text": "The mysterious disappearance of Dr. Elizabeth Harper from the research facility has left investigators puzzled and colleagues deeply concerned. Security footage shows her entering the building at 7:30 AM on Tuesday, but there is no record of her leaving. Given her meticulous nature and strict adherence to protocols, she ___1___ have simply walked away without informing anyone. Her research partner believes she ___2___ have discovered something significant in her latest experiments, something that ___3___ have put her in danger. The laboratory equipment was found in an unusual state, suggesting she ___4___ have been working on something urgent before her disappearance. Her computer files show encrypted data that investigators ___5___ been able to access yet. Colleagues report that Dr. Harper had been acting strangely in recent weeks, often staying late and appearing increasingly anxious. She ___6___ have confided in someone about her concerns, but if she did, that person hasn't come forward. The police detective assigned to the case believes she ___7___ have left voluntarily, citing the lack of signs of struggle. However, her family insists she ___8___ have contacted them by now if she were safe. The research director admits the facility ___9___ have implemented better security measures long ago, especially given the sensitive nature of the work conducted there. If Dr. Harper doesn't surface soon, the authorities ___10___ be forced to treat this as a criminal investigation rather than a missing person case. Her groundbreaking research on quantum computing ___11___ attract the attention of foreign intelligence agencies, according to security experts. The scientific community ___12___ lose one of its most brilliant minds if she doesn't return safely.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can't"
+                },
+                {
+                    "blank": "2",
+                    "answer": "might"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "must"
+                },
+                {
+                    "blank": "5",
+                    "answer": "haven't"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should"
+                },
+                {
+                    "blank": "7",
+                    "answer": "may"
+                },
+                {
+                    "blank": "8",
+                    "answer": "would"
+                },
+                {
+                    "blank": "9",
+                    "answer": "should"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will"
+                },
+                {
+                    "blank": "11",
+                    "answer": "could"
+                },
+                {
+                    "blank": "12",
+                    "answer": "may"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers various modal meanings including impossibility (can't), possibility (might, may, could), deduction (must), obligation (should), conditional statements (would), and future probability (will).",
+                "ru": "Это упражнение охватывает различные модальные значения, включая невозможность (can't), возможность (might, may, could), дедукцию (must), обязательство (should), условные утверждения (would) и вероятность в будущем (will).",
+                "uz": "Bu mashq turli modal ma'nolarni qamrab oladi, jumladan imkonsizlik (can't), imkoniyat (might, may, could), xulosa (must), majburiyat (should), shartli bayonotlar (would) va kelajakdagi ehtimollik (will)."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal verbs and expressions",
+                "ru": "Заполните пропуски правильными модальными глаголами и выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal fe'llar va iboralar bilan to'ldiring"
+            },
+            "text": "The decision to restructure the company's operations has created significant tension among employees and management. The CEO announced that some departments ___1___ be eliminated entirely, while others ___2___ undergo substantial changes in the coming months. Employees are understandably worried about their job security, wondering who ___3___ be affected by these sweeping reforms. The human resources director tried to reassure staff, explaining that the company ___4___ have made these difficult decisions to remain competitive in the global market. However, many workers feel that management ___5___ have consulted them before implementing such drastic measures. Union representatives argue that the executives ___6___ have explored alternative cost-cutting strategies before resorting to layoffs. The finance department's analysis suggests that without these changes, the company ___7___ face bankruptcy within two years. Some senior managers privately admit they ___8___ have anticipated the market downturn and prepared more effectively. The board of directors maintains that these measures ___9___ ensure the company's long-term survival, though they acknowledge the short-term pain it ___10___ cause for many families. Industry analysts believe the restructuring ___11___ be successful if implemented carefully, but they warn that poorly managed transitions ___12___ result in the loss of valuable talent and institutional knowledge. The next few months ___13___ determine whether these bold moves will save the company or accelerate its decline. Employees ___14___ start receiving more detailed information about their individual situations soon, as the uncertainty is affecting morale and productivity throughout the organization.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had to"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "could"
+                },
+                {
+                    "blank": "7",
+                    "answer": "could"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will"
+                },
+                {
+                    "blank": "11",
+                    "answer": "could"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will"
+                },
+                {
+                    "blank": "14",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates modal usage in business contexts, including future certainty (will), necessity (must, had to), possibility (might, could), obligation and advice (should), covering both present and past modal meanings.",
+                "ru": "Этот отрывок демонстрирует использование модальных глаголов в деловых контекстах, включая будущую уверенность (will), необходимость (must, had to), возможность (might, could), обязательство и совет (should), охватывая как настоящие, так и прошлые модальные значения.",
+                "uz": "Bu parcha biznes kontekstida modal fe'llardan foydalanishni ko'rsatadi, jumladan kelajakdagi ishonch (will), zarurat (must, had to), imkoniyat (might, could), majburiyat va maslahat (should), hozirgi va o'tmish modal ma'nolarni qamrab oladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal verbs and expressions",
+                "ru": "Заполните пропуски правильными модальными глаголами и выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal fe'llar va iboralar bilan to'ldiring"
+            },
+            "text": "The archaeological discovery in the remote valley has challenged many established theories about ancient civilizations. The artifacts found at the site ___1___ have belonged to a previously unknown culture that flourished thousands of years ago. Carbon dating results indicate that these objects ___2___ be much older than initially estimated, potentially rewriting our understanding of human development in this region. Dr. Martinez, the lead archaeologist, believes the intricate carvings ___3___ have been created using advanced tools that ___4___ have existed at that time according to conventional wisdom. The team ___5___ have been more careful during the initial excavation, as some valuable specimens were damaged in the process. Local authorities now recognize they ___6___ have provided better protection for the site from treasure hunters who have been looting artifacts. The discovery ___7___ attract international attention from researchers and funding organizations, which ___8___ enable more comprehensive studies in the future. However, political instability in the region ___9___ force the team to suspend operations temporarily. The government ___10___ have declared the area a protected archaeological zone months ago to prevent further damage. If weather conditions remain favorable, the excavation ___11___ continue for another six months before the rainy season begins. The findings ___12___ revolutionize our understanding of prehistoric trade routes and cultural exchanges. Future generations of archaeologists ___13___ benefit greatly from this groundbreaking research, provided that adequate funding and security ___14___ be maintained throughout the project's duration.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "may"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should"
+                },
+                {
+                    "blank": "8",
+                    "answer": "could"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "should"
+                },
+                {
+                    "blank": "11",
+                    "answer": "can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "could"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise explores modal verbs in academic and scientific contexts, featuring deduction (must), possibility (may, could, might), ability (can), obligation and criticism (should, shouldn't), and future predictions (will).",
+                "ru": "Это упражнение исследует модальные глаголы в академических и научных контекстах, представляя дедукцию (must), возможность (may, could, might), способность (can), обязательство и критику (should, shouldn't), и будущие предсказания (will).",
+                "uz": "Bu mashq akademik va ilmiy kontekstlarda modal fe'llarni o'rganadi, xulosani (must), imkoniyatni (may, could, might), qobiliyatni (can), majburiyat va tanqidni (should, shouldn't), va kelajak bashoratlarini (will) taqdim etadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal verbs and expressions",
+                "ru": "Заполните пропуски правильными модальными глаголами и выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal fe'llar va iboralar bilan to'ldiring"
+            },
+            "text": "The recent surge in cyber attacks on financial institutions has prompted urgent discussions about digital security measures. Banking executives acknowledge that they ___1___ have invested more heavily in cybersecurity infrastructure years ago, before these sophisticated threats emerged. Current security protocols ___2___ be sufficient to protect against traditional hacking methods, but they ___3___ prove inadequate against the advanced persistent threats that criminal organizations are now employing. Customers are rightfully concerned about the safety of their personal data and ___4___ expect their banks to implement the most robust protection available. Industry experts warn that without significant improvements, more institutions ___5___ fall victim to these devastating attacks in the coming months. The regulatory authorities have indicated they ___6___ introduce stricter compliance requirements for all financial service providers. Banks ___7___ have taken these warnings more seriously when they were first issued last year, according to cybersecurity consultants. The cost of upgrading security systems ___8___ be substantial, but the potential losses from successful attacks ___9___ be far greater. Some smaller institutions worry they ___10___ be able to afford the necessary technological investments without external support. Government officials suggest that public-private partnerships ___11___ provide the solution to this growing problem. The financial sector ___12___ work together more collaboratively to share threat intelligence and best practices. If current trends continue, consumers ___13___ lose confidence in digital banking services, which ___14___ force a return to more traditional, but less efficient, banking methods.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "may"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will"
+                },
+                {
+                    "blank": "6",
+                    "answer": "may"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "won't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "could"
+                },
+                {
+                    "blank": "12",
+                    "answer": "must"
+                },
+                {
+                    "blank": "13",
+                    "answer": "may"
+                },
+                {
+                    "blank": "14",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on modals expressing criticism and regret (should have), possibility and uncertainty (may, might, could), necessity (must), future predictions (will), and negative ability (won't).",
+                "ru": "Этот отрывок фокусируется на модальных глаголах, выражающих критику и сожаление (should have), возможность и неопределенность (may, might, could), необходимость (must), будущие предсказания (will) и отрицательную способность (won't).",
+                "uz": "Bu parcha tanqid va afsuslanishni (should have), imkoniyat va noaniqlikni (may, might, could), zarurat(majburiyat)ni (must), kelajak bashoratlarini (will) va salbiy qobiliyatni (won't) ifodalovchi modal fe'llarga e'tibor qaratadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal verbs and expressions",
+                "ru": "Заполните пропуски правильными модальными глаголами и выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal fe'llar va iboralar bilan to'ldiring"
+            },
+            "text": "The international climate summit has concluded with mixed results, leaving environmental activists both hopeful and frustrated. World leaders ___1___ have reached more ambitious agreements on carbon emissions reduction, according to many participants who felt the final commitments were insufficient. The negotiation process revealed that developing nations ___2___ receive substantial financial support from wealthier countries to transition to renewable energy sources. However, critics argue that the promised funding ___3___ materialize, based on the poor track record of previous international commitments. The conference organizers ___4___ have anticipated the logistical challenges better, as several important sessions were delayed due to overcrowding and technical difficulties. Delegates from small island nations emphasized that their countries ___5___ disappear entirely within decades if global temperatures continue to rise at current rates. The scientific community maintains that governments ___6___ implement drastic policy changes immediately to prevent catastrophic climate consequences. Some participants expressed optimism that emerging technologies ___7___ provide breakthrough solutions that ___8___ make the difference between success and failure in combating climate change. The private sector ___9___ play a crucial role in developing and deploying these innovations, but they ___10___ need strong government incentives to accelerate their efforts. Environmental lawyers warn that future generations ___11___ hold current leaders legally responsible for inadequate climate action. The next summit ___12___ produce more concrete results if participating countries arrive with more detailed implementation plans. Young climate activists insist that their voices ___13___ be heard more prominently in future negotiations, as they ___14___ inherit the consequences of today's decisions.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might not"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "must"
+                },
+                {
+                    "blank": "7",
+                    "answer": "might"
+                },
+                {
+                    "blank": "8",
+                    "answer": "could"
+                },
+                {
+                    "blank": "9",
+                    "answer": "must"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will"
+                },
+                {
+                    "blank": "11",
+                    "answer": "may"
+                },
+                {
+                    "blank": "12",
+                    "answer": "should"
+                },
+                {
+                    "blank": "13",
+                    "answer": "must"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers modals in environmental and political contexts, including criticism (should have), necessity (must), negative possibility (might not), potential consequences (could), future certainty (will), and possibility (may, might).",
+                "ru": "Это упражнение охватывает модальные глаголы в экологических и политических контекстах, включая критику (should have), необходимость (must), негативную возможность (might not), потенциальные последствия (could), будущую уверенность (will) и возможность (may, might).",
+                "uz": "Bu mashq ekologik va siyosiy kontekstlardagi modal fe'llarni qamrab oladi, jumladan tanqid (should have), zarurat(majburiyat) (must), salbiy imkoniyat (might not), potentsial oqibatlar (could), kelajakdagi ishonch (will) va imkoniyat (may, might)."
+            }
+        }
+    ]
+}

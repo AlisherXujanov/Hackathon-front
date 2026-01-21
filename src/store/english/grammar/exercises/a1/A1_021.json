@@ -1,0 +1,774 @@
+{
+    "id": "A1_HAVE_GOT_POSSESSION_AND_CHARACTERISTICS",
+    "title": "Have got - Possession and characteristics",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He have got a new bike."
+                },
+                {
+                    "answer": "He has got a new bike.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is got a new bike."
+                }
+            ],
+            "explanation": {
+                "en": "For third-person singular subjects (he, she, it), we use 'has got'. 'Have got' is used for I, you, we, and they.",
+                "ru": "Для подлежащих в третьем лице единственного числа (he, she, it) используется 'has got'. 'Have got' используется для I, you, we, и they.",
+                "uz": "Uchinchi shaxs birlik egalari (he, she, it) uchun 'has got' ishlatiladi. 'Have got' I, you, we va they uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We hasn't got a car."
+                },
+                {
+                    "answer": "We have not got a car.",
+                    "correct": true
+                },
+                {
+                    "answer": "We is not got a car."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form for 'have got' with 'we' is 'have not got' or 'haven't got'. 'Hasn't got' is used for he/she/it.",
+                "ru": "Правильная отрицательная форма для 'have got' с 'we' — 'have not got' или 'haven't got'. 'Hasn't got' используется для he/she/it.",
+                "uz": "'We' bilan 'have got' ning to'g'ri salbiy shakli 'have not got' yoki 'haven't got'. 'Hasn't got' he/she/it uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question form.",
+                "ru": "Выберите правильную форму вопроса.",
+                "uz": "To'g'ri so'roq shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Does she got a brother?"
+                },
+                {
+                    "answer": "Has she got a brother?",
+                    "correct": true
+                },
+                {
+                    "answer": "Have she got a brother?"
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with 'have got', you invert the subject and 'have'/'has'. 'Has' is used for 'she'.",
+                "ru": "Чтобы задать вопрос с 'have got', нужно поменять местами подлежащее и 'have'/'has'. 'Has' используется с 'she'.",
+                "uz": "'Have got' bilan savol yasash uchun ega bilan 'have'/'has' o'rnini almashtirish kerak. 'She' bilan 'has' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They has a big house."
+                },
+                {
+                    "answer": "They have got a big house.",
+                    "correct": true
+                },
+                {
+                    "answer": "They have getting a big house."
+                }
+            ],
+            "explanation": {
+                "en": "For the pronoun 'they', the correct form is 'have got'. 'Has' is incorrect, and 'getting' is not part of this structure.",
+                "ru": "Для местоимения 'they' правильная форма — 'have got'. 'Has' неправильно, а 'getting' не является частью этой структуры.",
+                "uz": "'They' olmoshi uchun to'g'ri shakl 'have got'. 'Has' noto'g'ri, 'getting' esa bu tuzilmaning bir qismi emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I don't have got a passport."
+                },
+                {
+                    "answer": "I haven't got a passport.",
+                    "correct": true
+                },
+                {
+                    "answer": "I hasn't got a passport."
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form for 'I' is 'haven't got' or 'have not got'. 'Hasn't got' is used with he/she/it.",
+                "ru": "Правильная отрицательная форма для 'I' — 'haven't got' или 'have not got'. 'Hasn't got' используется с he/she/it.",
+                "uz": "'I' uchun to'g'ri salbiy shakl 'haven't got' yoki 'have not got'. 'Hasn't got' he/she/it bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They has a lot of friends."
+                },
+                {
+                    "answer": "They have got a lot of friends.",
+                    "correct": true
+                },
+                {
+                    "answer": "They have got lot of friends."
+                }
+            ],
+            "explanation": {
+                "en": "The correct phrase is 'a lot of'. 'Lot of' is grammatically incomplete. 'Have got' is the correct form for 'they'.",
+                "ru": "Правильная фраза — 'a lot of'. 'Lot of' грамматически неполная. 'Have got' — правильная форма для 'they'.",
+                "uz": "To'g'ri ibora 'a lot of'. 'Lot of' grammatik jihatdan to'liq emas. 'Have got' 'they' uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She have got a long hair."
+                },
+                {
+                    "answer": "She has got long hair.",
+                    "correct": true
+                },
+                {
+                    "answer": "She got a long hair."
+                }
+            ],
+            "explanation": {
+                "en": "'Hair' is an uncountable noun, so it does not take an article like 'a'. For 'she', 'has got' is the correct form.",
+                "ru": "'Hair' — это неисчисляемое существительное, поэтому оно не используется с артиклем 'a'. Для 'she' используется 'has got'.",
+                "uz": "'Hair' sanalmaydigan ot bo'lgani uchun 'a' artiklini olmaydi. 'She' uchun 'has got' to'g'ri shakl hisoblanadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It is got big eyes."
+                },
+                {
+                    "answer": "It has got big eyes.",
+                    "correct": true
+                },
+                {
+                    "answer": "It have got big eyes."
+                }
+            ],
+            "explanation": {
+                "en": "For the subject 'it', which is third-person singular, the correct verb form is 'has got'.",
+                "ru": "Для подлежащего 'it', которое является третьим лицом единственного числа, правильная форма глагола — 'has got'.",
+                "uz": "Uchinchi shaxs birlik 'it' egasi uchun to'g'ri fe'l shakli 'has got' hisoblanadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question form.",
+                "ru": "Выберите правильную форму вопроса.",
+                "uz": "To'g'ri so'roq shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Have you a brother?"
+                },
+                {
+                    "answer": "Have you got a brother?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you have got a brother?"
+                }
+            ],
+            "explanation": {
+                "en": "The correct way to form a question with 'have got' is to invert 'have' and the subject. 'Do' is not used in this structure.",
+                "ru": "Правильный способ задать вопрос с 'have got' — это поменять местами 'have' и подлежащее. 'Do' в этой структуре не используется.",
+                "uz": "'Have got' bilan savol yasashning to'g'ri usuli 'have' va egaga o'rin almashtirishdir. Bu tuzilmada 'Do' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "My parents has a big TV."
+                },
+                {
+                    "answer": "My parents have got a big TV.",
+                    "correct": true
+                },
+                {
+                    "answer": "My parents is got a big TV."
+                }
+            ],
+            "explanation": {
+                "en": "'My parents' is a plural subject, so it requires 'have got'. 'Has' and 'is' are incorrect for plural subjects.",
+                "ru": "'My parents' — это подлежащее во множественном числе, поэтому оно требует 'have got'. 'Has' и 'is' неправильны для подлежащих во множественном числе.",
+                "uz": "'My parents' ko'plikdagi ega bo'lib, 'have got' talab qiladi. 'Has' va 'is' ko'plikdagi egalar uchun noto'g'ri."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ got a new phone.",
+                "ru": "Дополните предложение: I ___ got a new phone.",
+                "uz": "Gapni to'ldiring: I ___ got a new phone."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the pronoun 'I', the correct form is 'have got' to express possession.",
+                "ru": "Для местоимения 'I' правильная форма — 'have got' для выражения обладания.",
+                "uz": "'I' olmoshi uchun egalikni ifodalashda to'g'ri shakl 'have got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ got a beautiful dress.",
+                "ru": "Дополните предложение: She ___ got a beautiful dress.",
+                "uz": "Gapni to'ldiring: She ___ got a beautiful dress."
+            },
+            "options": [
+                {
+                    "answer": "has/has not/hasn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For third-person singular subjects (she), the correct form is 'has got'.",
+                "ru": "Для подлежащих в третьем лице единственного числа (she) правильная форма — 'has got'.",
+                "uz": "Uchinchi shaxs birlikdagi egalar (she) uchun to'g'ri shakl 'has got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ got a lot of homework.",
+                "ru": "Дополните предложение: We ___ got a lot of homework.",
+                "uz": "Gapni to'ldiring: We ___ got a lot of homework."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the pronoun 'we', the correct form is 'have got'.",
+                "ru": "Для местоимения 'we' правильная форма — 'have got'.",
+                "uz": "'We' olmoshi uchun to'g'ri shakl 'have got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ got blue eyes.",
+                "ru": "Дополните предложение: He ___ got blue eyes.",
+                "uz": "Gapni to'ldiring: He ___ got blue eyes."
+            },
+            "options": [
+                {
+                    "answer": "has/has not/hasn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the third-person singular subject 'he', the correct form is 'has got'.",
+                "ru": "Для подлежащего в третьем лице единственного числа 'he' правильная форма — 'has got'.",
+                "uz": "Uchinchi shaxs birlikdagi 'he' egasi uchun to'g'ri shakl 'has got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ got a nice teacher.",
+                "ru": "Дополните предложение: They ___ got a nice teacher.",
+                "uz": "Gapni to'ldiring: They ___ got a nice teacher."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the pronoun 'they', the correct form is 'have got' to show possession.",
+                "ru": "Для местоимения 'they' правильная форма — 'have got' для выражения обладания.",
+                "uz": "'They' olmoshi uchun egalikni ko'rsatishda to'g'ri shakl 'have got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My dog ___ got long ears.",
+                "ru": "Дополните предложение: My dog ___ got long ears.",
+                "uz": "Gapni to'ldiring: My dog ___ got long ears."
+            },
+            "options": [
+                {
+                    "answer": "has/has not/hasn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'My dog' is a singular subject, so 'has got' is the correct form.",
+                "ru": "'My dog' — это подлежащее в единственном числе, поэтому 'has got' — правильная форма.",
+                "uz": "'My dog' birlikdagi ega bo'lgani uchun 'has got' to'g'ri shakl hisoblanadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ got a beautiful smile.",
+                "ru": "Дополните предложение: You ___ got a beautiful smile.",
+                "uz": "Gapni to'ldiring: You ___ got a beautiful smile."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the pronoun 'you', the correct form is 'have got'.",
+                "ru": "Для местоимения 'you' правильная форма — 'have got'.",
+                "uz": "'You' olmoshi uchun to'g'ri shakl 'have got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The kids ___ got a lot of toys.",
+                "ru": "Дополните предложение: The kids ___ got a lot of toys.",
+                "uz": "Gapni to'ldiring: The kids ___ got a lot of toys."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'The kids' is a plural subject, so the correct form is 'have got'.",
+                "ru": "'The kids' — это подлежащее во множественном числе, поэтому правильная форма — 'have got'.",
+                "uz": "'The kids' ko'plikdagi ega bo'lgani uchun to'g'ri shakl 'have got' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother ___ got a new job.",
+                "ru": "Дополните предложение: My brother ___ got a new job.",
+                "uz": "Gapni to'ldiring: My brother ___ got a new job."
+            },
+            "options": [
+                {
+                    "answer": "has/has not/hasn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'My brother' is a singular subject (he), so it requires 'has got'.",
+                "ru": "'My brother' — это подлежащее в единственном числе (he), поэтому оно требует 'has got'.",
+                "uz": "'My brother' birlikdagi ega (he) bo'lgani uchun 'has got' talab qiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ not got any money.",
+                "ru": "Дополните предложение: We ___ not got any money.",
+                "uz": "Gapni to'ldiring: We ___ not got any money."
+            },
+            "options": [
+                {
+                    "answer": "have/have not/haven't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In the negative form, 'have not got' is used with 'we' to express lack of possession.",
+                "ru": "В отрицательной форме 'have not got' используется с 'we' для выражения отсутствия обладания.",
+                "uz": "Salbiy shaklda, 'have not got' 'we' bilan egalik yo'qligini ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, my name is Alex and I'm 22 years old. I ___1___ got a big family. I ___2___ got a brother and a sister. My brother, Tom, ___3___ got a great sense of humour. He ___4___ got a lot of friends because he is very funny. My sister, Sarah, ___5___ got long, blonde hair and big, blue eyes. She ___6___ got a small dog named Max. I ___7___ got a new job and I'm very happy. I ___8___ got a nice boss. My parents ___9___ got a new car, and they ___10___ got a big house near the park. We ___11___ got a small garden behind our house. My parents ___12___ got a lot of trees in the garden. My grandparents ___13___ got a lot of stories to tell. They ___14___ got a farm with many animals. I ___15___ got so lucky to have such a great family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "has"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'have' for I, you, we, and they. Use 'has' for he, she, and it. These words are used with 'got' to show possession.",
+                "ru": "Используйте 'have' для I, you, we, и they. Используйте 'has' для he, she, и it. Эти слова используются с 'got' для выражения обладания.",
+                "uz": "I, you, we, va they uchun 'have' dan foydalaning. He, she, va it uchun 'has' dan foydalaning. Bu so'zlar egalikni ifodalash uchun 'got' bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend Emily ___1___ got a beautiful dog named Buddy. Buddy ___2___ got brown and white fur, and he ___3___ got a very short tail. Emily and her brother ___4___ got a big garden where Buddy loves to play. They ___5___ got a lot of flowers and some fruit trees. Their parents ___6___ got a small vegetable patch. Emily ___7___ got a new camera, and she takes pictures of Buddy every day. Her brother ___8___ not got a camera, but he ___9___ got a tablet. They ___10___ not got a cat because Emily's mom ___11___ got an allergy. So, they ___12___ got only one pet. Emily ___13___ got a lot of books about dogs. Her brother ___14___ got a big collection of comics. We ___15___ got a very good time when we visit them.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "has"
+                },
+                {
+                    "blank": "3",
+                    "answer": "has"
+                },
+                {
+                    "blank": "4",
+                    "answer": "have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has"
+                },
+                {
+                    "blank": "9",
+                    "answer": "has"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "The subject determines whether you use 'have' or 'has'. Singular subjects like 'Emily' and 'her brother' (individually) use 'has', while plural subjects like 'Emily and her brother' use 'have'.",
+                "ru": "Подлежащее определяет, использовать 'have' или 'has'. Подлежащие в единственном числе, такие как 'Emily' и 'her brother' (по отдельности), используют 'has', тогда как подлежащие во множественном числе, такие как 'Emily and her brother', используют 'have'.",
+                "uz": "Ega 'have' yoki 'has' ishlatilishini belgilaydi. 'Emily' va 'her brother' (yakka holda) kabi birlikdagi egalar 'has' dan foydalanadi, 'Emily and her brother' kabi ko'plikdagi egalar esa 'have' dan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My new friend, Ben, is really interesting. He ___1___ got two hobbies. First, he ___2___ got a huge collection of stamps. He ___3___ got stamps from all over the world, which is amazing. He ___4___ got more than a thousand stamps. Second, he ___5___ got a small telescope. He ___6___ got a big interest in stars and planets. His parents ___7___ not got a telescope, but they ___8___ got a big backyard where he can use it. I ___9___ got a small book about stars, and he ___10___ got a lot of books on the same topic. I ___11___ got two pets, a cat and a fish. He ___12___ got only one pet, a dog. I ___13___ got a big family, but he ___14___ got a small family with just a brother. His brother ___15___ got a great collection of comic books.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "has"
+                },
+                {
+                    "blank": "3",
+                    "answer": "has"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has"
+                }
+            ],
+            "explanation": {
+                "en": "'Have got' and 'has got' are used to express possession. 'Has got' is for singular subjects like 'he' or 'his brother', while 'have got' is for plural subjects like 'his parents' or the first-person subject 'I'.",
+                "ru": "'Have got' и 'has got' используются для выражения обладания. 'Has got' используется для подлежащих в единственном числе, таких как 'he' или 'his brother', тогда как 'have got' — для подлежащих во множественном числе, таких как 'his parents' или подлежащего в первом лице 'I'.",
+                "uz": "'Have got' va 'has got' egalikni ifodalash uchun ishlatiladi. 'Has got' 'he' yoki 'his brother' kabi birlikdagi egalar uchun, 'have got' esa 'his parents' yoki birinchi shaxs 'I' kabi ko'plikdagi egalar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My new neighbour, Sarah, ___1___ got a beautiful garden. She ___2___ got a lot of different flowers. Her neighbours ___3___ got a big tree that provides shade, but Sarah's garden ___4___ got more sunlight. She ___5___ got a small vegetable garden, too. She ___6___ got a lot of fresh tomatoes and cucumbers. Sarah's son ___7___ got a small swing set in the garden. He ___8___ got a little red tricycle. Sarah's husband ___9___ not got a green thumb, so he ___10___ not got any plants inside the house. I ___11___ got a few potted plants, but I ___12___ not got a garden like hers. Sarah ___13___ got a great knowledge of plants. Her friends ___14___ got many questions for her. I ___15___ got a lot to learn from her about gardening.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "has"
+                },
+                {
+                    "blank": "3",
+                    "answer": "have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has"
+                },
+                {
+                    "blank": "9",
+                    "answer": "has"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'has' with singular subjects like 'Sarah' and 'her husband'. Use 'have' with plural subjects like 'her neighbours' and 'her friends'. 'I' also takes 'have'.",
+                "ru": "Используйте 'has' с подлежащими в единственном числе, такими как 'Sarah' и 'her husband'. Используйте 'have' с подлежащими во множественном числе, такими как 'her neighbours' и 'her friends'. 'I' также используется с 'have'.",
+                "uz": "Birlikdagi egalar, masalan, 'Sarah' va 'her husband' bilan 'has' dan foydalaning. Ko'plikdagi egalar, masalan, 'her neighbours' va 'her friends' bilan 'have' dan foydalaning. 'I' ham 'have' oladi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "topic": "Write a short email to a friend about your weekend plans.",
+        "relatedVocabulary": {
+            "en": {
+                "plan": "a detailed proposal for doing or achieving something",
+                "weekend": "Saturday and Sunday",
+                "friend": "a person whom one knows and with whom one has a bond of mutual affection",
+                "email": "messages distributed by electronic means from one computer user to one or more recipients via a network",
+                "visit": "go to see and spend time with (someone) socially",
+                "cinema": "a movie theater",
+                "restaurant": "a place where people pay to sit and eat meals that are cooked and served on the premises",
+                "relax": "make or become less tense or anxious",
+                "together": "with or near each other",
+                "look forward to": "anticipate with pleasure"
+            },
+            "ru": {
+                "plan": "план",
+                "weekend": "выходные",
+                "friend": "друг",
+                "email": "электронное письмо",
+                "visit": "посетить",
+                "cinema": "кинотеатр",
+                "restaurant": "ресторан",
+                "relax": "расслабиться",
+                "together": "вместе",
+                "look forward to": "ждать с нетерпением"
+            },
+            "uz": {
+                "plan": "reja",
+                "weekend": "dam olish kunlari",
+                "friend": "do'st",
+                "email": "elektron pochta",
+                "visit": "tashrif buyurmoq",
+                "cinema": "kino",
+                "restaurant": "restoran",
+                "relax": "dam olmoq",
+                "together": "birga",
+                "look forward to": "intizorlik bilan kutmoq"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Describe your favourite room in your house and why you like it.",
+        "relatedVocabulary": {
+            "en": {
+                "favourite": "preferred before all others of the same kind",
+                "room": "a part of a building enclosed by walls, floor, and ceiling",
+                "house": "a building for human habitation",
+                "like": "find agreeable, enjoyable, or satisfactory",
+                "comfortable": "providing physical ease and relaxation",
+                "cosy": "giving a feeling of comfort, warmth, and relaxation",
+                "picture": "a painting or drawing",
+                "shelf": "a flat length of wood or metal, attached horizontally to a wall or within a cupboard, for holding things",
+                "lamp": "a device for giving light",
+                "read": "look at and comprehend the meaning of written or printed matter"
+            },
+            "ru": {
+                "favourite": "любимый",
+                "room": "комната",
+                "house": "дом",
+                "like": "нравиться",
+                "comfortable": "удобный",
+                "cosy": "уютный",
+                "picture": "картина",
+                "shelf": "полка",
+                "lamp": "лампа",
+                "read": "читать"
+            },
+            "uz": {
+                "favourite": "sevimli",
+                "room": "xona",
+                "house": "uy",
+                "like": "yoqtirmoq",
+                "comfortable": "qulay",
+                "cosy": "shinam",
+                "picture": "rasm",
+                "shelf": "javon",
+                "lamp": "chiroq",
+                "read": "o'qimoq"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "topic": "Talk about your daily routine on a typical weekday.",
+        "relatedVocabulary": {
+            "en": {
+                "daily": "happening every day",
+                "routine": "a sequence of actions regularly followed",
+                "typical": "having or exhibiting the characteristics of a particular type or group",
+                "weekday": "a day of the week other than Sunday or Saturday",
+                "wake up": "emerge or arise from sleep",
+                "breakfast": "a meal eaten in the morning, the first of the day",
+                "work": "activity involving mental or physical effort done in order to achieve a purpose or result",
+                "study": "the devotion of time and attention to gaining knowledge of an academic subject",
+                "dinner": "the main meal of the day, taken either around midday or in the evening",
+                "go to bed": "retire for the night"
+            },
+            "ru": {
+                "daily": "ежедневный",
+                "routine": "распорядок",
+                "typical": "типичный",
+                "weekday": "будний день",
+                "wake up": "просыпаться",
+                "breakfast": "завтрак",
+                "work": "работать",
+                "study": "учиться",
+                "dinner": "ужин",
+                "go to bed": "ложиться спать"
+            },
+            "uz": {
+                "daily": "kundalik",
+                "routine": "tartib",
+                "typical": "odatiy",
+                "weekday": "ish kuni",
+                "wake up": "uyg'onmoq",
+                "breakfast": "nonushta",
+                "work": "ishlamoq",
+                "study": "o'qimoq",
+                "dinner": "kechki ovqat",
+                "go to bed": "uxlashga yotmoq"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "topic": "Write about your plans for your next holiday.",
+        "relatedVocabulary": {
+            "en": {
+                "plan": "a detailed proposal for doing or achieving something",
+                "holiday": "a period of rest from work or school",
+                "travel": "go from one place to another",
+                "destination": "the place to which someone or something is going or being sent",
+                "hotel": "an establishment providing accommodation, meals, and other services for travellers and tourists",
+                "beach": "a shore of a sea, lake, or river, covered with sand, pebbles, or rock",
+                "mountain": "a large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill",
+                "swim": "propel the body through water by the combined movements of the limbs and the body",
+                "explore": "travel through (a an unfamiliar area) in order to learn about or familiarize oneself with it",
+                "souvenir": "a thing that is kept as a reminder of a place visited"
+            },
+            "ru": {
+                "plan": "план",
+                "holiday": "отпуск, праздник",
+                "travel": "путешествовать",
+                "destination": "место назначения",
+                "hotel": "отель",
+                "beach": "пляж",
+                "mountain": "гора",
+                "swim": "плавать",
+                "explore": "исследовать",
+                "souvenir": "сувенир"
+            },
+            "uz": {
+                "plan": "reja",
+                "holiday": "ta'til, bayram",
+                "travel": "sayohat qilmoq",
+                "destination": "manzil",
+                "hotel": "mehmonxona",
+                "beach": "plyaj",
+                "mountain": "tog'",
+                "swim": "suzmoq",
+                "explore": "tadqiq qilmoq",
+                "souvenir": "suvenir"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Describe a person you admire and why.",
+        "relatedVocabulary": {
+            "en": {
+                "admire": "regard with respect or warm approval",
+                "person": "a human being",
+                "why": "for what reason or purpose",
+                "kind": "having or showing a friendly, generous, and considerate nature",
+                "helpful": "giving or rendering assistance and support",
+                "intelligent": "having or showing intelligence, especially of a high level",
+                "hard-working": "tending to apply oneself diligently to work",
+                "successful": "having achieved popularity, profit, or distinction",
+                "respect": "a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements",
+                "inspire": "fill (someone) with the urge or ability to do or feel something, especially to do something creative"
+            },
+            "ru": {
+                "admire": "восхищаться",
+                "person": "человек",
+                "why": "почему",
+                "kind": "добрый",
+                "helpful": "полезный, отзывчивый",
+                "intelligent": "умный",
+                "hard-working": "трудолюбивый",
+                "successful": "успешный",
+                "respect": "уважать",
+                "inspire": "вдохновлять"
+            },
+            "uz": {
+                "admire": "hayratlanmoq",
+                "person": "shaxs",
+                "why": "nima uchun",
+                "kind": "mehribon",
+                "helpful": "foydali, yordam beradigan",
+                "intelligent": "aqlli",
+                "hard-working": "mehnatkash",
+                "successful": "muvaffaqiyatli",
+                "respect": "hurmat qilmoq",
+                "inspire": "ilhomlantirmoq"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "topic": "Write about your favourite type of food.",
+        "relatedVocabulary": {
+            "en": {
+                "favourite": "preferred before all others of the same kind",
+                "type": "a category of people or things having common characteristics",
+                "food": "any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth",
+                "delicious": "highly pleasant to the taste",
+                "healthy": "in a good physical or mental condition; in good health",
+                "ingredient": "a component part of any mixture",
+                "recipe": "a set of instructions for preparing a particular dish",
+                "cook": "prepare food, drink, etc. by heating it",
+                "taste": "the sensation of flavour perceived in the mouth and throat on contact with a substance",
+                "try": "eat or drink (something), typically to ascertain its quality"
+            },
+            "ru": {
+                "favourite": "любимый",
+                "type": "тип, вид",
+                "food": "еда",
+                "delicious": "вкусный",
+                "healthy": "здоровый",
+                "ingredient": "ингредиент",
+                "recipe": "рецепт",
+                "cook": "готовить",
+                "taste": "вкус",
+                "try": "попробовать"
+            },
+            "uz": {
+                "favourite": "sevimli",
+                "type": "tur, xil",
+                "food": "ovqat",
+                "delicious": "mazali",
+                "healthy": "sog'lom",
+                "ingredient": "ingredient",
+                "recipe": "retsept",
+                "cook": "pishirmoq",
+                "taste": "ta'm",
+                "try": "tatib ko'rmoq"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Talk about a hobby you enjoy doing in your free time.",
+        "relatedVocabulary": {
+            "en": {
+                "hobby": "an activity done regularly in one's leisure time for pleasure",
+                "enjoy": "take delight or pleasure in (an activity or occasion)",
+                "free time": "time when one is not working or occupied; leisure time",
+                "play": "engage in activity for enjoyment and recreation rather than a serious or practical purpose",
+                "listen": "give one's attention to a sound",
+                "watch": "look at (someone or something) for an extended time",
+                "create": "bring something into existence",
+                "skill": "the ability to do something well; expertise",
+                "relax": "make or become less tense or anxious",
+                "interesting": "arousing curiosity or interest; holding the attention"
+            },
+            "ru": {
+                "hobby": "хобби, увлечение",
+                "enjoy": "наслаждаться",
+                "free time": "свободное время",
+                "play": "играть",
+                "listen": "слушать",
+                "watch": "смотреть",
+                "create": "создавать",
+                "skill": "навык, умение",
+                "relax": "расслабляться",
+                "interesting": "интересный"
+            },
+            "uz": {
+                "hobby": "hobi",
+                "enjoy": "rohatlanmoq",
+                "free time": "bo'sh vaqt",
+                "play": "o'ynamoq",
+                "listen": "tinglamoq",
+                "watch": "tomosha qilmoq",
+                "create": "yaratmoq",
+                "skill": "ko'nikma, mahorat",
+                "relax": "dam olmoq",
+                "interesting": "qiziqarli"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Describe your dream job.",
+        "relatedVocabulary": {
+            "en": {
+                "dream": "a cherished aspiration, ambition, or ideal",
+                "job": "a paid position of regular employment",
+                "work": "activity involving mental or physical effort done in order to achieve a purpose or result",
+                "salary": "a fixed regular payment, typically monthly, made by an employer, especially in the case of professional or office work",
+                "interesting": "arousing curiosity or interest; holding the attention",
+                "helpful": "giving or rendering assistance and support",
+                "team": "a group of people who work together at a particular job",
+                "learn": "gain or acquire knowledge of or skill in (something) by study, experience, or being taught",
+                "travel": "go from one place to another",
+                "future": "the time regarded as still to come"
+            },
+            "ru": {
+                "dream": "мечта",
+                "job": "работа",
+                "work": "работать",
+                "salary": "зарплата",
+                "interesting": "интересный",
+                "helpful": "полезный, отзывчивый",
+                "team": "команда",
+                "learn": "учиться",
+                "travel": "путешествовать",
+                "future": "будущее"
+            },
+            "uz": {
+                "dream": "orzu",
+                "job": "ish",
+                "work": "ishlamoq",
+                "salary": "maosh",
+                "interesting": "qiziqarli",
+                "helpful": "foydali, yordam beradigan",
+                "team": "jamoa",
+                "learn": "o'rganmoq",
+                "travel": "sayohat qilmoq",
+                "future": "kelajak"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "topic": "Write about the importance of learning English.",
+        "relatedVocabulary": {
+            "en": {
+                "important": "of great significance or value; likely to have a profound effect on success, survival, or development",
+                "learn": "gain or acquire knowledge of or skill in (something) by study, experience, or being taught",
+                "English": "the language of England, now also used in many other countries",
+                "communicate": "share or exchange information, news, or ideas",
+                "travel": "go from one place to another",
+                "work": "activity involving mental or physical effort done in order to achieve a purpose or result",
+                "study": "the devotion of time and attention to gaining knowledge of an academic subject",
+                "understand": "perceive the intended meaning of (words, a language, or a speaker)",
+                "opportunity": "a set of circumstances that makes it possible to do something",
+                "world": "the earth, together with all of its countries, peoples, and natural features"
+            },
+            "ru": {
+                "important": "важный",
+                "learn": "учить, изучать",
+                "English": "английский",
+                "communicate": "общаться",
+                "travel": "путешествовать",
+                "work": "работать",
+                "study": "учиться",
+                "understand": "понимать",
+                "opportunity": "возможность",
+                "world": "мир"
+            },
+            "uz": {
+                "important": "muhim",
+                "learn": "o'rganmoq",
+                "English": "ingliz tili",
+                "communicate": "muloqot qilmoq",
+                "travel": "sayohat qilmoq",
+                "work": "ishlamoq",
+                "study": "o'qimoq",
+                "understand": "tushunmoq",
+                "opportunity": "imkoniyat",
+                "world": "dunyo"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Describe your favourite type of weather.",
+        "relatedVocabulary": {
+            "en": {
+                "favourite": "preferred before all others of the same kind",
+                "type": "a category of people or things having common characteristics",
+                "weather": "the state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.",
+                "sunny": "receiving or full of light from the sun",
+                "rainy": "having a lot of rain",
+                "cold": "at a low temperature",
+                "hot": "having a high temperature",
+                "warm": "of or at a fairly high temperature",
+                "enjoy": "take delight or pleasure in (an activity or occasion)",
+                "outside": "on the outside of a building"
+            },
+            "ru": {
+                "favourite": "любимый",
+                "type": "тип, вид",
+                "weather": "погода",
+                "sunny": "солнечный",
+                "rainy": "дождливый",
+                "cold": "холодный",
+                "hot": "горячий, жаркий",
+                "warm": "теплый",
+                "enjoy": "наслаждаться",
+                "outside": "снаружи, на улице"
+            },
+            "uz": {
+                "favourite": "sevimli",
+                "type": "tur, xil",
+                "weather": "ob-havo",
+                "sunny": "quyoshli",
+                "rainy": "yomg'irli",
+                "cold": "sovuq",
+                "hot": "issiq",
+                "warm": "iliq",
+                "enjoy": "rohatlanmoq",
+                "outside": "tashqarida, ko'chada"
+            }
+        }
+    }
+]

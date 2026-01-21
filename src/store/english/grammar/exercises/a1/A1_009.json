@@ -1,0 +1,851 @@
+{
+    "id": "A1_THERE_IS_THERE_ARE_BASIC_EXISTENCE_STATEMENTS",
+    "title": "There is/There are - Basic existence statements",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is three cats in the garden."
+                },
+                {
+                    "answer": "There are three cats in the garden.",
+                    "correct": true
+                },
+                {
+                    "answer": "There have three cats in the garden."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural nouns like 'cats'",
+                "ru": "Используйте 'there are' с существительными во множественном числе, например 'cats'",
+                "uz": "Ko‘plikdagi otlar bilan 'there are' ishlating, masalan 'cats'"
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are a book on the table."
+                },
+                {
+                    "answer": "There is a book on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "There have a book on the table."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' with singular nouns like 'a book'",
+                "ru": "Используйте 'there is' с существительными в единственном числе, например 'a book'",
+                "uz": "Yakka otlar bilan 'there is' ishlating, masalan 'a book'"
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are there any milk in the fridge?"
+                },
+                {
+                    "answer": "Is there any milk in the fridge?",
+                    "correct": true
+                },
+                {
+                    "answer": "There is any milk in the fridge?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Is there' with uncountable nouns like 'milk'",
+                "ru": "Используйте 'Is there' с неисчисляемыми существительными, например 'milk'",
+                "uz": "Hisoblab bo‘lmaydigan otlar bilan 'Is there' ishlating, masalan 'milk'"
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There aren't any students in the classroom.",
+                    "correct": true
+                },
+                {
+                    "answer": "There isn't any students in the classroom."
+                },
+                {
+                    "answer": "There not any students in the classroom."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there aren't' with plural nouns like 'students'",
+                "ru": "Используйте 'there aren't' с существительными во множественном числе, например 'students'",
+                "uz": "Ko‘plikdagi otlar bilan 'there aren't' ishlating, masalan 'students'"
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are many people at the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is many people at the party."
+                },
+                {
+                    "answer": "There have many people at the party."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural nouns like 'people'",
+                "ru": "Используйте 'there are' с существительными во множественном числе, например 'people'",
+                "uz": "Ko‘plikdagi otlar bilan 'there are' ishlating, masalan 'people'"
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are there a cinema near here?"
+                },
+                {
+                    "answer": "Is there a cinema near here?",
+                    "correct": true
+                },
+                {
+                    "answer": "There is a cinema near here?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Is there' with singular nouns like 'a cinema'",
+                "ru": "Используйте 'Is there' с существительными в единственном числе, например 'a cinema'",
+                "uz": "Yakka otlar bilan 'Is there' ishlating, masalan 'a cinema'"
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There isn't no cookies left."
+                },
+                {
+                    "answer": "There aren't any cookies left.",
+                    "correct": true
+                },
+                {
+                    "answer": "There not any cookies left."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there aren't' with plural nouns and avoid double negatives",
+                "ru": "Используйте 'there aren't' с существительными во множественном числе и избегайте двойных отрицаний",
+                "uz": "Ko‘plikdagi otlar bilan 'there aren't' ishlating va ikki karra inkordan saqlaning"
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are some water in the bottle."
+                },
+                {
+                    "answer": "There is some water in the bottle.",
+                    "correct": true
+                },
+                {
+                    "answer": "There have some water in the bottle."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' with uncountable nouns like 'water'",
+                "ru": "Используйте 'there is' с неисчисляемыми существительными, например 'water'",
+                "uz": "Hisoblab bo‘lmaydigan otlar bilan 'there is' ishlating, masalan 'water'"
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is two dogs in the park."
+                },
+                {
+                    "answer": "There are two dogs in the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "There have two dogs in the park."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural nouns like 'dogs'",
+                "ru": "Используйте 'there are' с существительными во множественном числе, например 'dogs'",
+                "uz": "Ko‘plikdagi otlar bilan 'there are' ishlating, masalan 'dogs'"
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are there a hospital in this town?"
+                },
+                {
+                    "answer": "Is there a hospital in this town?",
+                    "correct": true
+                },
+                {
+                    "answer": "There are a hospital in this town?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Is there' with singular nouns like 'a hospital'",
+                "ru": "Используйте 'Is there' с существительными в единственном числе, например 'a hospital'",
+                "uz": "Yakka otlar bilan 'Is there' ishlating, masalan 'a hospital'"
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there is' or 'there are': ___ a cat under the bed.",
+                "ru": "Дополните 'there is' или 'there are': ___ a cat under the bed.",
+                "uz": "'there is' yoki 'there are' bilan to'ldiring: ___ a cat under the bed."
+            },
+            "options": [
+                {
+                    "answer": "there is/There is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' with singular nouns",
+                "ru": "Используйте 'there is' с существительными в единственном числе",
+                "uz": "Yakka otlar bilan 'there is' ishlating"
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there is' or 'there are': ___ five apples on the table.",
+                "ru": "Дополните 'there is' или 'there are': ___ five apples on the table.",
+                "uz": "'there is' yoki 'there are' bilan to'ldiring: ___ five apples on the table."
+            },
+            "options": [
+                {
+                    "answer": "there are/There are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural nouns",
+                "ru": "Используйте 'there are' с существительными во множественном числе",
+                "uz": "Ko‘plikdagi otlar bilan 'there are' ishlating"
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make a negative sentence: There are some students in the library. → There ___ students in the library.",
+                "ru": "Сделайте отрицательное предложение: There are some students in the library. → There ___ students in the library.",
+                "uz": "Inkorli gap tuzing: There are some students in the library. → There ___ students in the library."
+            },
+            "options": [
+                {
+                    "answer": "aren't any/are not any/are no",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'aren't any' or 'are no' for negative plural forms",
+                "ru": "Используйте 'aren't any' или 'are no' для отрицательных форм во множественном числе",
+                "uz": "Ko‘plikdagi inkor shakllar uchun 'aren't any' yoki 'are no' dan foydalaning"
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'Is there' or 'Are there': ___ any bread in the kitchen?",
+                "ru": "Дополните 'Is there' или 'Are there': ___ any bread in the kitchen?",
+                "uz": "'Is there' yoki 'Are there' bilan to'ldiring: ___ any bread in the kitchen?"
+            },
+            "options": [
+                {
+                    "answer": "Is there/is there",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Is there' with uncountable nouns like 'bread'",
+                "ru": "Используйте 'Is there' с неисчисляемыми существительными, например 'bread'",
+                "uz": "Hisoblab bo‘lmaydigan otlar bilan 'Is there' ishlating, masalan 'bread'"
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there is' or 'there are': ___ many cars in the street.",
+                "ru": "Дополните 'there is' или 'there are': ___ many cars in the street.",
+                "uz": "'there is' yoki 'there are' bilan to'ldiring: ___ many cars in the street."
+            },
+            "options": [
+                {
+                    "answer": "there are/There are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural countable nouns",
+                "ru": "Используйте 'there are' с исчисляемыми существительными во множественном числе",
+                "uz": "Ko‘plikdagi sanaladigan otlar bilan 'there are' ishlating"
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make a question: There is a post office near here. → ___ a post office near here?",
+                "ru": "Сделайте вопрос: There is a post office near here. → ___ a post office near here?",
+                "uz": "Savol tuzing: There is a post office near here. → ___ a post office near here?"
+            },
+            "options": [
+                {
+                    "answer": "Is there/is there",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Is there' for questions with singular nouns",
+                "ru": "Используйте 'Is there' для вопросов с существительными в единственном числе",
+                "uz": "Yakka otlar bilan savollarda 'Is there' ishlating"
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there isn't' or 'there aren't': ___ any sugar in my coffee.",
+                "ru": "Дополните 'there isn't' или 'there aren't': ___ any sugar in my coffee.",
+                "uz": "'there isn't' yoki 'there aren't' bilan to'ldiring: ___ any sugar in my coffee."
+            },
+            "options": [
+                {
+                    "answer": "there isn't/There isn't/there is not/There is not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there isn't' with uncountable nouns like 'sugar'",
+                "ru": "Используйте 'there isn't' с неисчисляемыми существительными, например 'sugar'",
+                "uz": "Hisoblab bo‘lmaydigan otlar bilan 'there isn't' ishlating, masalan 'sugar'"
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'Are there' or 'Is there': ___ any children in the playground?",
+                "ru": "Дополните 'Are there' или 'Is there': ___ any children in the playground?",
+                "uz": "'Are there' yoki 'Is there' bilan to'ldiring: ___ any children in the playground?"
+            },
+            "options": [
+                {
+                    "answer": "Are there/are there",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Are there' with plural nouns like 'children'",
+                "ru": "Используйте 'Are there' с существительными во множественном числе, например 'children'",
+                "uz": "Ko‘plikdagi otlar bilan 'Are there' ishlating, masalan 'children'"
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there is' or 'there are': ___ a big tree in the garden.",
+                "ru": "Дополните 'there is' или 'there are': ___ a big tree in the garden.",
+                "uz": "'there is' yoki 'there are' bilan to'ldiring: ___ a big tree in the garden."
+            },
+            "options": [
+                {
+                    "answer": "there is/There is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' with singular nouns like 'a tree'",
+                "ru": "Используйте 'there is' с существительными в единственном числе, например 'a tree'",
+                "uz": "Yakka otlar bilan 'there is' ishlating, masalan 'a tree'"
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'there aren't' or 'there isn't': ___ any shops open today.",
+                "ru": "Дополните 'there aren't' или 'there isn't': ___ any shops open today.",
+                "uz": "'there aren't' yoki 'there isn't' bilan to'ldiring: ___ any shops open today."
+            },
+            "options": [
+                {
+                    "answer": "there aren't/There aren't/there are not/There are not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there aren't' with plural nouns like 'shops'",
+                "ru": "Используйте 'there aren't' с существительными во множественном числе, например 'shops'",
+                "uz": "Ko‘plikdagi otlar bilan 'there aren't' ishlating, masalan 'shops'"
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Welcome to Green Valley, a beautiful small town in the countryside. ___1___ many interesting places to visit here. In the town center, ___2___ a lovely old church with a tall bell tower. Next to the church, ___3___ a small park where families like to have picnics. ___4___ any restaurants in the town? Yes, ___5___ three excellent restaurants on Main Street. ___6___ also a cozy café near the park that serves delicious homemade cakes. For shopping, ___7___ two small shops and a supermarket. ___8___ a library in the town? Unfortunately, ___9___ a library, but ___10___ a mobile library that visits every Tuesday. ___11___ many friendly people living here, and ___12___ always something happening during the weekend. In summer, ___13___ a weekly market in the town square, and ___14___ often live music performances. ___15___ really a wonderful place to live or visit for a peaceful holiday.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "There are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there isn't/there is not"
+                },
+                {
+                    "blank": "10",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It is/it is/It's/it's"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is/are' to describe what exists in a place",
+                "ru": "Используйте 'there is/are', чтобы описать, что существует в каком-либо месте",
+                "uz": "Qaysidir joyda nima mavjudligini tasvirlash uchun 'there is/are' dan foydalaning"
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "My new apartment is in a great location. ___1___ a big supermarket just across the street from my building. ___2___ also many restaurants and cafés in the area. ___3___ a subway station nearby? Yes, ___4___ a subway station only five minutes away on foot. In my apartment building, ___5___ an elevator, so I don't need to walk up the stairs to the fourth floor. ___6___ a gym in the building? Unfortunately, ___7___ a gym here, but ___8___ a nice fitness center two blocks away. ___9___ a small balcony in my apartment where I can sit and enjoy my morning coffee. ___10___ any parks near here? Yes, ___11___ a beautiful park with a lake just ten minutes away. ___12___ also a library and a post office in the same area. ___13___ any problems with this location? Well, ___14___ sometimes a lot of traffic noise because we're near a busy street, but ___15___ still a wonderful place to live.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "4",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "7",
+                    "answer": "there isn't/there is not"
+                },
+                {
+                    "blank": "8",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "11",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "it is/it's"
+                }
+            ],
+            "explanation": {
+                "en": "Practice using 'there is/are' in questions, positive and negative statements",
+                "ru": "Потренируйтесь использовать 'there is/are' в вопросительных, утвердительных и отрицательных предложениях",
+                "uz": "'there is/are' ni savol, ijobiy va inkor gaplarda qo‘llashni mashq qiling"
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Welcome to our school! ___1___ 500 students studying here, and ___2___ 30 teachers working with them. ___3___ a large library on the second floor with thousands of books. ___4___ computers in the library? Yes, ___5___ ten computers that students can use for research. ___6___ also a science laboratory and an art room. ___7___ a swimming pool at this school? No, ___8___ a swimming pool, but ___9___ a large sports hall where students play basketball and volleyball. In the cafeteria, ___10___ many different food options every day. ___11___ any vegetarian meals available? Of course, ___12___ always vegetarian and vegan options. Outside, ___13___ a big playground and ___14___ many trees and flowers around the school building. ___15___ really a great place for students to learn and grow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "8",
+                    "answer": "there isn't/there is not"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "12",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It is/it is/It's/it's"
+                }
+            ],
+            "explanation": {
+                "en": "Complete description using 'there is/are' for various school facilities",
+                "ru": "Заполните описание, используя 'there is/are' для различных объектов школы",
+                "uz": "Maktabdagi turli inshootlarni 'there is/are' bilan to‘ldirib tasvirlang"
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Let me tell you about my hometown. ___1___ a small city with about 50,000 people. ___2___ many beautiful old buildings in the historic center. ___3___ a castle on the hill that was built 800 years ago. ___4___ any museums to visit? Yes, ___5___ two interesting museums and an art gallery. For entertainment, ___6___ a cinema and a theater in the city center. ___7___ any good restaurants here? Of course! ___8___ many excellent restaurants serving local food. ___9___ also several pubs and cafés where people meet friends. ___10___ a river running through the city, and ___11___ beautiful walks along the riverbank. ___12___ any problems living here? Well, ___13___ not many job opportunities for young people, so many of them move to bigger cities. But ___14___ still a lot of advantages to living in a small city. ___15___ less traffic, cleaner air, and everyone knows their neighbors.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It is/it's/It's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "8",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Are there"
+                },
+                {
+                    "blank": "13",
+                    "answer": "there aren't/there are not"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "There is/there is"
+                }
+            ],
+            "explanation": {
+                "en": "Practice describing places using 'there is/are' structures",
+                "ru": "Тренируйтесь описывать места, используя конструкции 'there is/are'",
+                "uz": "Joylarni 'there is/are' tuzilmalaridan foydalanib tasvirlashni mashq qiling"
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "I want to tell you about my favorite coffee shop. ___1___ called 'The Blue Cup' and ___2___ located on a quiet street near the university. ___3___ about twenty tables inside, and ___4___ also some tables outside on the terrace. ___5___ free wifi available? Yes, ___6___ excellent wifi, so many students come here to study. ___7___ a wide variety of coffee drinks on the menu. ___8___ any food available too? Of course! ___9___ delicious sandwiches, salads, and homemade cakes. The atmosphere is very relaxing because ___10___ soft music playing and ___11___ comfortable armchairs near the window. ___12___ any parking nearby? Unfortunately, ___13___ much parking in this area, but ___14___ a bus stop right outside. ___15___ really my favorite place to meet friends and relax after classes.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It is/it's/It's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "it is/it's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There are/there are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There is/there is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "there are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Is there"
+                },
+                {
+                    "blank": "13",
+                    "answer": "there isn't/there is not"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It is/it's/It's"
+                }
+            ],
+            "explanation": {
+                "en": "Describe a place using 'there is/are' and other existence expressions",
+                "ru": "Опишите место, используя 'there is/are' и другие выражения существования",
+                "uz": "Joyni 'there is/are' va mavjudlikni bildiruvchi boshqa iboralar yordamida tasvirlang"
+            }
+        }
+    ]
+}

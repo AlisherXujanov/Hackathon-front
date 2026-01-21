@@ -1,0 +1,649 @@
+{
+    "id": "A1_SUPERLATIVE_ADJECTIVES_THE_OLDEST_THE_MOST_IMPORTANT_BASIC_SUPERLATIVES",
+    "title": "Superlative Adjectives (the oldest, the most important) - Basic superlatives",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is the bigest building in the city."
+                },
+                {
+                    "answer": "This is the most big building in the city."
+                },
+                {
+                    "answer": "This is the biggest building in the city.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives like 'big', you add '-est' to form the superlative. The final consonant is doubled before adding '-est'.",
+                "ru": "Для односложных прилагательных, таких как 'big', для образования превосходной степени добавляется '-est'. Конечная согласная удваивается перед добавлением '-est'.",
+                "uz": "'big' kabi bir bo'g'inli sifatlar uchun orttirma darajani yasash uchun '-est' qo'shimchasi qo'shiladi. '-est' qo'shilishidan oldin oxirgi undosh harf ikki marta yoziladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is the more beautiful girl in the class."
+                },
+                {
+                    "answer": "She is the most beautiful girl in the class.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is the beautifullest girl in the class."
+                }
+            ],
+            "explanation": {
+                "en": "For long adjectives with three or more syllables, you use 'the most' to form the superlative. 'Beautiful' has three syllables.",
+                "ru": "Для длинных прилагательных с тремя или более слогами, чтобы образовать превосходную степень, используется 'the most'. 'Beautiful' имеет три слога.",
+                "uz": "Uch yoki undan ortiq bo'g'inli uzun sifatlar uchun orttirma darajani yasash uchun 'the most' ishlatiladi. 'Beautiful' so'zida uchta bo'g'in bor."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother is the tallest person in my family.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother is the most tall person in my family."
+                },
+                {
+                    "answer": "My brother is the taller person in my family."
+                }
+            ],
+            "explanation": {
+                "en": "For short adjectives like 'tall', you add '-est' to form the superlative. We also use 'the' before the superlative adjective.",
+                "ru": "Для коротких прилагательных, таких как 'tall', для образования превосходной степени добавляется '-est'. Мы также используем 'the' перед превосходной степенью прилагательного.",
+                "uz": "'tall' kabi qisqa sifatlar uchun orttirma darajani yasash uchun '-est' qo'shimchasi qo'shiladi. Shuningdek, biz orttirma sifatdan oldin 'the' artiklini ishlatamiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is the more difficult exercise."
+                },
+                {
+                    "answer": "This is the difficultest exercise."
+                },
+                {
+                    "answer": "This is the most difficult exercise.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Difficult' is a long adjective, so the superlative form is 'the most difficult', not 'difficultest'.",
+                "ru": "'Difficult' — это длинное прилагательное, поэтому превосходная степень — 'the most difficult', а не 'difficultest'.",
+                "uz": "'Difficult' uzun sifat bo'lgani uchun uning orttirma darajasi 'the most difficult' bo'ladi, 'difficultest' emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is the happyest boy in the world."
+                },
+                {
+                    "answer": "He is the most happy boy in the world."
+                },
+                {
+                    "answer": "He is the happiest boy in the world.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in '-y', we change the 'y' to 'i' and add '-est' to form the superlative.",
+                "ru": "Для двухсложных прилагательных, оканчивающихся на '-y', мы меняем 'y' на 'i' и добавляем '-est' для образования превосходной степени.",
+                "uz": "Oxiri '-y' harfiga tugaydigan ikki bo'g'inli sifatlar uchun orttirma darajani yasashda 'y' harfi 'i' ga o'zgaradi va '-est' qo'shiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "That is the worse movie I have ever seen."
+                },
+                {
+                    "answer": "That is the most bad movie I have ever seen."
+                },
+                {
+                    "answer": "That is the worst movie I have ever seen.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Bad' is an irregular adjective. Its superlative form is 'the worst'.",
+                "ru": "'Bad' — это неправильное прилагательное. Его превосходная степень — 'the worst'.",
+                "uz": "'Bad' noto'g'ri sifatdir. Uning orttirma darajasi 'the worst' bo'ladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is the goodest student in our class."
+                },
+                {
+                    "answer": "She is the better student in our class."
+                },
+                {
+                    "answer": "She is the best student in our class.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Good' is an irregular adjective. Its superlative form is 'the best'.",
+                "ru": "'Good' — это неправильное прилагательное. Его превосходная степень — 'the best'.",
+                "uz": "'Good' noto'g'ri sifatdir. Uning orttirma darajasi 'the best' bo'ladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is the least interesting book I've ever read.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is the most less interesting book I've ever read."
+                },
+                {
+                    "answer": "This is the less interestingest book I've ever read."
+                }
+            ],
+            "explanation": {
+                "en": "To express the lowest degree, we use 'the least' before the adjective. 'Interesting' is a long adjective.",
+                "ru": "Чтобы выразить наименьшую степень, мы используем 'the least' перед прилагательным. 'Interesting' — это длинное прилагательное.",
+                "uz": "Eng past darajani ifodalash uchun sifatdan oldin 'the least' ishlatamiz. 'Interesting' - bu uzun sifat."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Mount Everest is the highest mountain in the world.",
+                    "correct": true
+                },
+                {
+                    "answer": "Mount Everest is the more high mountain in the world."
+                },
+                {
+                    "answer": "Mount Everest is the most high mountain in the world."
+                }
+            ],
+            "explanation": {
+                "en": "'High' is a one-syllable adjective, so its superlative form is 'the highest'.",
+                "ru": "'High' — это односложное прилагательное, поэтому его превосходная степень — 'the highest'.",
+                "uz": "'High' bir bo'g'inli sifat, shuning uchun uning orttirma darajasi 'the highest' bo'ladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He is the cleverest student in the class."
+                },
+                {
+                    "answer": "He is the most clever student in the class."
+                },
+                {
+                    "answer": "Both A and B are correct.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in '-er', '-le', '-ow', or '-y', you can use either '-est' or 'the most'. 'Clever' is a two-syllable adjective ending in '-er'.",
+                "ru": "Для двухсложных прилагательных, оканчивающихся на '-er', '-le', '-ow' или '-y', можно использовать как '-est', так и 'the most'. 'Clever' — это двухсложное прилагательное, оканчивающееся на '-er'.",
+                "uz": "Oxiri '-er', '-le', '-ow' yoki '-y' harflariga tugaydigan ikki bo'g'inli sifatlar uchun '-est' yoki 'the most' ishlatish mumkin. 'Clever' '-er' harfiga tugaydigan ikki bo'g'inli sifat."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the superlative form of 'old': My grandfather is ___ person in our family.",
+                "ru": "Дополните предложение превосходной степенью прилагательного 'old': My grandfather is ___ person in our family.",
+                "uz": "'old' sifatining orttirma darajasi bilan gapni to'ldiring: My grandfather is ___ person in our family."
+            },
+            "options": [
+                {
+                    "answer": "the oldest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives like 'old', you add '-est' and 'the' before it to form the superlative.",
+                "ru": "Для односложных прилагательных, таких как 'old', для образования превосходной степени вы добавляете '-est' и 'the' перед ним.",
+                "uz": "'old' kabi bir bo'g'inli sifatlar uchun orttirma darajani yasash uchun unga '-est' qo'shimchasi qo'shiladi va oldidan 'the' artikli qo'yiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct superlative form: It was ___ day of the year. (hot)",
+                "ru": "Дополните предложение правильной превосходной степенью: It was ___ day of the year. (hot)",
+                "uz": "Gapni to'g'ri orttirma daraja bilan to'ldiring: It was ___ day of the year. (hot)"
+            },
+            "options": [
+                {
+                    "answer": "the hottest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a one-syllable adjective ending in a consonant-vowel-consonant pattern, double the final consonant before adding '-est'.",
+                "ru": "Для односложного прилагательного, оканчивающегося на 'согласная-гласная-согласная', удвойте конечную согласную перед добавлением '-est'.",
+                "uz": "Undosh-unli-undosh tartibida tugaydigan bir bo'g'inli sifatlar uchun '-est' qo'shishdan oldin oxirgi undosh harf ikki marta yoziladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct superlative form: This is ___ book on the shelf. (interesting)",
+                "ru": "Заполните пропуск правильной превосходной степенью: This is ___ book on the shelf. (interesting)",
+                "uz": "Bo'sh joyni to'g'ri orttirma daraja bilan to'ldiring: This is ___ book on the shelf. (interesting)"
+            },
+            "options": [
+                {
+                    "answer": "the most interesting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Interesting' is a long adjective with three or more syllables, so we use 'the most' to form the superlative.",
+                "ru": "'Interesting' — это длинное прилагательное с тремя или более слогами, поэтому для образования превосходной степени мы используем 'the most'.",
+                "uz": "'Interesting' uch yoki undan ortiq bo'g'inli uzun sifatdir, shuning uchun orttirma darajani yasash uchun 'the most' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My dog is ___ dog in the park. (fast)",
+                "ru": "Дополните предложение: My dog is ___ dog in the park. (fast)",
+                "uz": "Gapni to'ldiring: My dog is ___ dog in the park. (fast)"
+            },
+            "options": [
+                {
+                    "answer": "the fastest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives like 'fast', we add '-est' and 'the' before it to form the superlative.",
+                "ru": "Для односложных прилагательных, таких как 'fast', мы добавляем '-est' и 'the' перед ним для образования превосходной степени.",
+                "uz": "'fast' kabi bir bo'g'inli sifatlar uchun orttirma darajani yasash uchun unga '-est' qo'shimchasi qo'shiladi va oldidan 'the' artikli qo'yiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct superlative form: She is ___ student I know. (intelligent)",
+                "ru": "Дополните предложение правильной превосходной степенью: She is ___ student I know. (intelligent)",
+                "uz": "Gapni to'g'ri orttirma daraja bilan to'ldiring: She is ___ student I know. (intelligent)"
+            },
+            "options": [
+                {
+                    "answer": "the most intelligent",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Intelligent' is a long adjective, so 'the most' is used to form the superlative.",
+                "ru": "'Intelligent' — это длинное прилагательное, поэтому для образования превосходной степени используется 'the most'.",
+                "uz": "'Intelligent' uzun sifatdir, shuning uchun orttirma darajani yasash uchun 'the most' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: This is ___ place in the world for me. (special)",
+                "ru": "Заполните пропуск: This is ___ place in the world for me. (special)",
+                "uz": "Bo'sh joyni to'ldiring: This is ___ place in the world for me. (special)"
+            },
+            "options": [
+                {
+                    "answer": "the most special",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Special' is a two-syllable adjective and typically uses 'the most' to form the superlative.",
+                "ru": "'Special' — это двухсложное прилагательное, и для образования превосходной степени обычно используется 'the most'.",
+                "uz": "'Special' ikki bo'g'inli sifat bo'lib, orttirma darajani yasash uchun odatda 'the most' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the superlative form of 'easy': This was ___ test of the semester.",
+                "ru": "Дополните предложение превосходной степенью прилагательного 'easy': This was ___ test of the semester.",
+                "uz": "'easy' sifatining orttirma darajasi bilan gapni to'ldiring: This was ___ test of the semester."
+            },
+            "options": [
+                {
+                    "answer": "the easiest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in '-y', we change the 'y' to 'i' and add '-est'.",
+                "ru": "Для двухсложных прилагательных, оканчивающихся на '-y', мы меняем 'y' на 'i' и добавляем '-est'.",
+                "uz": "Oxiri '-y' harfiga tugaydigan ikki bo'g'inli sifatlar uchun 'y' harfi 'i' ga o'zgaradi va '-est' qo'shiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct superlative form: Who is ___ person you know? (famous)",
+                "ru": "Заполните пропуск правильной превосходной степенью: Who is ___ person you know? (famous)",
+                "uz": "Bo'sh joyni to'g'ri orttirma daraja bilan to'ldiring: Who is ___ person you know? (famous)"
+            },
+            "options": [
+                {
+                    "answer": "the most famous",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Famous' is a two-syllable adjective, and we use 'the most' to form the superlative.",
+                "ru": "'Famous' — это двухсложное прилагательное, и для образования превосходной степени мы используем 'the most'.",
+                "uz": "'Famous' ikki bo'g'inli sifatdir va orttirma darajani yasash uchun 'the most' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: That was ___ meal of my life. (good)",
+                "ru": "Дополните предложение: That was ___ meal of my life. (good)",
+                "uz": "Gapni to'ldiring: That was ___ meal of my life. (good)"
+            },
+            "options": [
+                {
+                    "answer": "the best",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Good' is an irregular adjective. Its superlative form is 'the best'.",
+                "ru": "'Good' — это неправильное прилагательное. Его превосходная степень — 'the best'.",
+                "uz": "'Good' noto'g'ri sifatdir. Uning orttirma darajasi 'the best' bo'ladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: It was ___ day of my life. (happy)",
+                "ru": "Заполните пропуск: It was ___ day of my life. (happy)",
+                "uz": "Bo'sh joyni to'ldiring: It was ___ day of my life. (happy)"
+            },
+            "options": [
+                {
+                    "answer": "the happiest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in '-y', we change the 'y' to 'i' and add '-est'.",
+                "ru": "Для двухсложных прилагательных, оканчивающихся на '-y', мы меняем 'y' на 'i' и добавляем '-est'.",
+                "uz": "Oxiri '-y' harfiga tugaydigan ikki bo'g'inli sifatlar uchun 'y' harfi 'i' ga o'zgaradi va '-est' qo'shiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "The Amazon rainforest is one of ___1___ places on Earth. It is also one of ___2___ ecosystems in the world, home to countless species. The Amazon River is ___3___ river in terms of water volume, and it is also the second ___4___ river after the Nile. The forest is known for its ___5___ biodiversity and is considered ___6___ place on the planet for many types of animals. For example, the jaguar is ___7___ big cat in the Americas, and the anaconda is one of ___8___ snakes in the world. The trees are ___9___ trees you can find in some areas, reaching up to 60 meters. Life here is certainly not always ___10___, but it is one of ___11___ natural wonders of our world.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "the most important"
+                },
+                {
+                    "blank": "2",
+                    "answer": "the richest"
+                },
+                {
+                    "blank": "3",
+                    "answer": "the most massive"
+                },
+                {
+                    "blank": "4",
+                    "answer": "longest"
+                },
+                {
+                    "blank": "5",
+                    "answer": "most diverse"
+                },
+                {
+                    "blank": "6",
+                    "answer": "the most vital"
+                },
+                {
+                    "blank": "7",
+                    "answer": "the biggest"
+                },
+                {
+                    "blank": "8",
+                    "answer": "the heaviest"
+                },
+                {
+                    "blank": "9",
+                    "answer": "the tallest"
+                },
+                {
+                    "blank": "10",
+                    "answer": "easiest"
+                },
+                {
+                    "blank": "11",
+                    "answer": "the greatest"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various superlative forms. Remember to use 'the most' for long adjectives and '-est' for short adjectives, and to apply the rules for spelling changes and irregular forms.",
+                "ru": "Это упражнение проверяет различные формы превосходной степени. Помните, что для длинных прилагательных используется 'the most', для коротких — '-est', и применяйте правила изменения правописания и неправильные формы.",
+                "uz": "Bu mashq orttirma darajaning turli shakllarini tekshiradi. Uzun sifatlar uchun 'the most' va qisqa sifatlar uchun '-est' ishlatilishini hamda imlo o'zgarishlari va noto'g'ri shakllar uchun qoidalarni qo'llashni unutmang."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Traveling is one of ___1___ hobbies you can have. I think the ___2___ city to visit is Rome. It has some of ___3___ historical sites in the world, like the Colosseum. The Colosseum is one of ___4___ buildings I have ever seen. The food is also ___5___ part of the experience; Italian food is probably ___6___ food I have ever tasted. Last summer, I took a train from Rome to Venice. It was ___7___ trip I have ever been on. Venice is a beautiful city, but it is also one of ___8___ cities to walk in because of all the canals. I think Venice is also one of ___9___ cities in the world, especially in the evening. Of course, the ___10___ thing about traveling is meeting new people and learning about new cultures. Overall, my trip to Italy was ___11___ vacation of my life.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "the most wonderful"
+                },
+                {
+                    "blank": "2",
+                    "answer": "the most interesting"
+                },
+                {
+                    "blank": "3",
+                    "answer": "the oldest"
+                },
+                {
+                    "blank": "4",
+                    "answer": "the most impressive"
+                },
+                {
+                    "blank": "5",
+                    "answer": "the best"
+                },
+                {
+                    "blank": "6",
+                    "answer": "the most delicious"
+                },
+                {
+                    "blank": "7",
+                    "answer": "the most amazing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "the most difficult"
+                },
+                {
+                    "blank": "9",
+                    "answer": "the most romantic"
+                },
+                {
+                    "blank": "10",
+                    "answer": "the greatest"
+                },
+                {
+                    "blank": "11",
+                    "answer": "the most memorable"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses various superlative adjectives. Remember to use 'the' before the superlative form. For long adjectives, use 'the most', for short adjectives, add '-est', and use irregular forms for 'good' and other irregulars.",
+                "ru": "В этом тексте используются различные превосходные прилагательные. Помните, что перед превосходной формой нужно использовать 'the'. Для длинных прилагательных используйте 'the most', для коротких добавляйте '-est' и используйте неправильные формы для 'good' и других неправильных прилагательных.",
+                "uz": "Ushbu matnda turli orttirma sifatlar ishlatilgan. Orttirma daraja shaklidan oldin 'the' qo'llashni unutmang. Uzun sifatlar uchun 'the most', qisqa sifatlar uchun '-est' qo'shimchasi qo'llaniladi va 'good' kabi noto'g'ri sifatlar uchun ularning maxsus shakllaridan foydalaniladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My friend Alex is one of ___1___ people I know. He is also one of ___2___ students in our class, always getting the ___3___ grades. His sister, Clara, is ___4___ of her siblings. She is one of ___5___ people you will ever meet, and she is also ___6___ girl in her drama club. She has the ___7___ voice I have ever heard, and she works ___8___ than anyone else to become a great singer. Last week, we went to a concert. It was ___9___ concert I have ever been to. The singer was ___10___ I have ever seen. It was truly ___11___ experience.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "the kindest"
+                },
+                {
+                    "blank": "2",
+                    "answer": "the smartest"
+                },
+                {
+                    "blank": "3",
+                    "answer": "best"
+                },
+                {
+                    "blank": "4",
+                    "answer": "the youngest"
+                },
+                {
+                    "blank": "5",
+                    "answer": "the most talented"
+                },
+                {
+                    "blank": "6",
+                    "answer": "the most energetic"
+                },
+                {
+                    "blank": "7",
+                    "answer": "most beautiful"
+                },
+                {
+                    "blank": "8",
+                    "answer": "hardest"
+                },
+                {
+                    "blank": "9",
+                    "answer": "the most exciting"
+                },
+                {
+                    "blank": "10",
+                    "answer": "the most amazing"
+                },
+                {
+                    "blank": "11",
+                    "answer": "the most wonderful"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise requires using superlatives for both long and short adjectives. Remember that some adjectives are irregular and don't follow the normal rules.",
+                "ru": "Это упражнение требует использования превосходной степени как для длинных, так и для коротких прилагательных. Помните, что некоторые прилагательные являются неправильными и не следуют обычным правилам.",
+                "uz": "Bu mashq uzun va qisqa sifatlar uchun orttirma darajadan foydalanishni talab qiladi. Shuni yodda tutingki, ba'zi sifatlar noto'g'ri bo'ladi va odatdagi qoidalarga bo'ysunmaydi."
+            }
+        }
+    ]
+}

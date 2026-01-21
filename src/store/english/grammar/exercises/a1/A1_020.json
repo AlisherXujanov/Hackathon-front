@@ -1,0 +1,709 @@
+{
+    "id": "A1_PAST_SIMPLE_NEGATIVES_AND_QUESTIONS_PAST_TENSE_INTERROGATIVES",
+    "title": "Past Simple (Negatives and questions) - Past tense interrogatives",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did you went to the store yesterday?",
+                    "correct": false
+                },
+                {
+                    "answer": "Did you go to the store yesterday?",
+                    "correct": true
+                },
+                {
+                    "answer": "You did go to the store yesterday?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In past simple questions, we use the auxiliary verb 'did' followed by the base form of the main verb ('go').",
+                "ru": "В вопросах в Past Simple мы используем вспомогательный глагол 'did' и начальную форму основного глагола ('go').",
+                "uz": "Past Simple savol gaplarda 'did' yordamchi fe'lidan keyin asosiy fe'lning boshlang'ich shakli ('go') ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He didn't finished his homework.",
+                    "correct": false
+                },
+                {
+                    "answer": "He didn't finish his homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "He not finished his homework.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the past simple is 'did not' or 'didn't', followed by the base form of the main verb ('finish').",
+                "ru": "Отрицательная форма Past Simple - 'did not' или 'didn't', за которым следует начальная форма основного глагола ('finish').",
+                "uz": "Past Simple ning inkor shakli 'did not' yoki 'didn't' bo'lib, undan keyin asosiy fe'lning boshlang'ich shakli ('finish') keladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Where did they went last night?",
+                    "correct": false
+                },
+                {
+                    "answer": "Where did they go last night?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where did they went to last night?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In questions, the auxiliary 'did' is used, and the main verb must be in its base form.",
+                "ru": "В вопросах используется вспомогательный глагол 'did', а основной глагол должен быть в начальной форме.",
+                "uz": "Savollarda 'did' yordamchi fe'li ishlatiladi va asosiy fe'lning boshlang'ich shakli bo'lishi kerak."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I didn't saw the movie.",
+                    "correct": false
+                },
+                {
+                    "answer": "I didn't see the movie.",
+                    "correct": true
+                },
+                {
+                    "answer": "I not saw the movie.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary 'did' takes the past tense, so the main verb 'see' must be in its base form.",
+                "ru": "Вспомогательный глагол 'did' уже указывает на прошедшее время, поэтому основной глагол 'see' должен быть в начальной форме.",
+                "uz": "'Did' yordamchi fe'li o'tgan zamonni ifodalaganligi sababli, asosiy fe'l 'see' boshlang'ich shaklida bo'lishi kerak."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Didn't they come to the party?",
+                    "correct": true
+                },
+                {
+                    "answer": "Didn't they came to the party?",
+                    "correct": false
+                },
+                {
+                    "answer": "Did not they came to the party?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'come' should be in its base form after the auxiliary 'didn't'.",
+                "ru": "После вспомогательного глагола 'didn't' глагол 'come' должен быть в начальной форме.",
+                "uz": "'Didn't' yordamchi fe'lidan keyin 'come' fe'li boshlang'ich shaklida bo'lishi kerak."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Why did she bought a new phone?",
+                    "correct": false
+                },
+                {
+                    "answer": "Why she did bought a new phone?",
+                    "correct": false
+                },
+                {
+                    "answer": "Why did she buy a new phone?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In a question with a question word like 'why', the structure is 'question word + did + subject + base verb'.",
+                "ru": "В вопросе с вопросительным словом, таким как 'why', структура такова: 'вопросительное слово + did + подлежащее + начальная форма глагола'.",
+                "uz": "'Why' kabi savol so'zi bilan savol gap tuzilganda, uning tuzilishi 'savol so'zi + did + ega + fe'lning boshlang'ich shakli'dir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They didn't ate dinner.",
+                    "correct": false
+                },
+                {
+                    "answer": "They not ate dinner.",
+                    "correct": false
+                },
+                {
+                    "answer": "They didn't eat dinner.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the past simple uses 'did not' and the base form of the verb, which is 'eat'.",
+                "ru": "Отрицательная форма Past Simple использует 'did not' и начальную форму глагола, которая 'eat'.",
+                "uz": "Past Simple inkor shakli 'did not' va fe'lning boshlang'ich shakli 'eat'dan foydalanadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did she lived in London?",
+                    "correct": false
+                },
+                {
+                    "answer": "Did she live in London?",
+                    "correct": true
+                },
+                {
+                    "answer": "Did she lives in London?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "After 'did', the verb must be in its base form, which is 'live', not 'lived' or 'lives'.",
+                "ru": "После 'did' глагол должен быть в начальной форме, которая 'live', а не 'lived' или 'lives'.",
+                "uz": "'Did'dan keyin fe'l boshlang'ich shaklida bo'lishi kerak, ya'ni 'live', 'lived' yoki 'lives' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We not watched that show.",
+                    "correct": false
+                },
+                {
+                    "answer": "We didn't watched that show.",
+                    "correct": false
+                },
+                {
+                    "answer": "We didn't watch that show.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form for the past simple is 'didn't' followed by the base form of the verb 'watch'.",
+                "ru": "Правильная отрицательная форма Past Simple - 'didn't', за которой следует начальная форма глагола 'watch'.",
+                "uz": "Past Simple ning to'g'ri inkor shakli 'didn't' bo'lib, undan keyin 'watch' fe'lining boshlang'ich shakli keladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What did you done with my keys?",
+                    "correct": false
+                },
+                {
+                    "answer": "What did you do with my keys?",
+                    "correct": true
+                },
+                {
+                    "answer": "What you did do with my keys?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "After the auxiliary verb 'did', the main verb must be in its base form, which is 'do'.",
+                "ru": "После вспомогательного глагола 'did' основной глагол должен быть в начальной форме, 'do'.",
+                "uz": "'Did' yordamchi fe'lidan keyin asosiy fe'l boshlang'ich shaklida bo'lishi kerak, ya'ni 'do'."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (do not) see the movie last night.",
+                "ru": "Дополните предложение: They ___ (do not) see the movie last night.",
+                "uz": "Gapni to'ldiring: They ___ (do not) see the movie last night."
+            },
+            "options": [
+                {
+                    "answer": "didn't/did not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a past simple negative sentence, you use the auxiliary verb 'did' before 'not' and the base form of the main verb.",
+                "ru": "Чтобы образовать отрицательное предложение в Past Simple, вы используете вспомогательный глагол 'did' перед 'not' и начальную форму основного глагола.",
+                "uz": "Past Simple inkor gapini tuzish uchun, 'not' va asosiy fe'lning boshlang'ich shaklidan oldin 'did' yordamchi fe'lini ishlatasiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ not eat pizza yesterday.",
+                "ru": "Дополните предложение: We ___ not eat pizza yesterday.",
+                "uz": "Gapni to'ldiring: We ___ not eat pizza yesterday."
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'did' is used with 'not' to form a negative statement in the past simple tense.",
+                "ru": "Вспомогательный глагол 'did' используется с 'not' для образования отрицательного предложения в Past Simple.",
+                "uz": "'Did' yordamchi fe'li Past Simple zamonida inkor gap tuzish uchun 'not' bilan birga ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (do not) like the gift.",
+                "ru": "Дополните предложение: I ___ (do not) like the gift.",
+                "uz": "Gapni to'ldiring: I ___ (do not) like the gift."
+            },
+            "options": [
+                {
+                    "answer": "did not/didn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To make a past simple sentence negative, you must add the auxiliary verb 'did' before 'not'.",
+                "ru": "Чтобы сделать предложение в Past Simple отрицательным, вы должны добавить вспомогательный глагол 'did' перед 'not'.",
+                "uz": "Past Simple gapini inkor qilish uchun, 'not' dan oldin 'did' yordamchi fe'lini qo'shishingiz kerak."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ you finish your homework?",
+                "ru": "Дополните вопрос: ___ you finish your homework?",
+                "uz": "Savolni to'ldiring: ___ you finish your homework?"
+            },
+            "options": [
+                {
+                    "answer": "Did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For past simple questions, we use 'did' as the auxiliary verb at the beginning of the sentence.",
+                "ru": "Для вопросов в Past Simple мы используем 'did' в качестве вспомогательного глагола в начале предложения.",
+                "uz": "Past Simple savol gaplari uchun gapning boshida 'did' yordamchi fe'lini ishlatamiz."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: Why ___ he miss the train?",
+                "ru": "Дополните вопрос: Why ___ he miss the train?",
+                "uz": "Savolni to'ldiring: Why ___ he miss the train?"
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In questions with a question word, 'did' comes before the subject and the main verb.",
+                "ru": "В вопросах с вопросительным словом 'did' ставится перед подлежащим и основным глаголом.",
+                "uz": "Savol so'zi bilan savol gaplarda 'did' egadan va asosiy fe'ldan oldin keladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ not go to the party.",
+                "ru": "Дополните предложение: They ___ not go to the party.",
+                "uz": "Gapni to'ldiring: They ___ not go to the party."
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'did' is essential for forming negative sentences in the past simple.",
+                "ru": "Вспомогательный глагол 'did' необходим для образования отрицательных предложений в Past Simple.",
+                "uz": "Past Simpleda inkor gaplarni tuzish uchun 'did' yordamchi fe'li juda muhimdir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: Where ___ she find that book?",
+                "ru": "Дополните вопрос: Where ___ she find that book?",
+                "uz": "Savolni to'ldiring: Where ___ she find that book?"
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In past simple questions with a question word, the verb structure is 'did + subject + base verb'.",
+                "ru": "В вопросах в Past Simple с вопросительным словом структура глагола: 'did + подлежащее + начальная форма глагола'.",
+                "uz": "Savol so'zi bilan Past Simple savollarida fe'l tuzilishi 'did + ega + fe'lning boshlang'ich shakli'dir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ not hear the announcement.",
+                "ru": "Дополните предложение: We ___ not hear the announcement.",
+                "uz": "Gapni to'ldiring: We ___ not hear the announcement."
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'did' is used to negate a past simple verb.",
+                "ru": "Вспомогательный глагол 'did' используется для отрицания глагола в Past Simple.",
+                "uz": "'Did' yordamchi fe'li Past Simple fe'lini inkor qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ they finish the project on time?",
+                "ru": "Дополните вопрос: ___ they finish the project on time?",
+                "uz": "Savolni to'ldiring: ___ they finish the project on time?"
+            },
+            "options": [
+                {
+                    "answer": "Did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple questions are formed by placing the auxiliary verb 'did' at the beginning of the sentence.",
+                "ru": "Вопросы в Past Simple образуются путем размещения вспомогательного глагола 'did' в начале предложения.",
+                "uz": "Past Simple savollari 'did' yordamchi fe'lini gapning boshiga qo'yish orqali hosil qilinadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ not know the answer.",
+                "ru": "Дополните предложение: She ___ not know the answer.",
+                "uz": "Gapni to'ldiring: She ___ not know the answer."
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary 'did' is necessary to form the negative for a main verb in the past simple.",
+                "ru": "Вспомогательный глагол 'did' необходим для образования отрицания для основного глагола в Past Simple.",
+                "uz": "Past Simple'da asosiy fe'l uchun inkor shaklini tuzish uchun 'did' yordamchi fe'li zarurdir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My friend and I wanted to go to the new movie, but we ___1___ have enough money. We asked my parents, but they ___2___ want to give us any. I ___3___ understand why. My mom said, '___4___ you not get your allowance last week?' I explained that I ___5___, but I spent it all on a video game. Then she asked, '___6___ you not save any of it?' I said, 'No, I ___7___ save any.' My dad asked, '___8___ you ask your sister for some money?' I told him, 'Yes, I ___9___ ask her, but she ___10___ have any either.' It was a difficult situation. Finally, my dad said, 'Why ___11___ you both not do some chores for money?' I said that was a great idea and we quickly started working. We ___12___ do all the chores, but we did enough to earn the money. We ___13___ go to the movie that night.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "2",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "3",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "did"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "7",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "did"
+                },
+                {
+                    "blank": "10",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "13",
+                    "answer": "did"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise requires the correct use of 'did' for both negative statements and questions in the past simple tense, including 'didn't' for negatives and 'did' for questions and short answers.",
+                "ru": "Это упражнение требует правильного использования 'did' как для отрицательных предложений, так и для вопросов в Past Simple, включая 'didn't' для отрицаний и 'did' для вопросов и кратких ответов.",
+                "uz": "Ushbu mashq Past Simple zamonidagi inkor gaplar va savollar uchun 'did'ni to'g'ri ishlatishni talab qiladi, shu jumladan 'didn't' inkorlar uchun va 'did' savollar hamda qisqa javoblar uchun."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "The detective arrived at the scene of the crime. The first witness, Mr. Jones, was very nervous. 'What ___1___ you see tonight?' the detective asked. Mr. Jones said, 'I ___2___ see anything strange.' The detective was skeptical. '___3___ you not hear the alarm?' Mr. Jones replied, 'I ___4___.' 'And why ___5___ you not call the police immediately?' the detective pressed. Mr. Jones said, 'I ___6___ have my phone with me.' The detective then turned to Mrs. Smith. '___7___ you notice anyone suspicious?' he asked. She said, 'I ___8___ see a man running away, but I ___9___ get a good look at his face.' The detective asked, 'What ___10___ the man wear?' She said, 'I ___11___ not remember. My husband ___12___ not remember either. He ___13___ see the man clearly.' The detective wrote it all down in his notebook. He knew he had more questions to ask. '___14___ you not see the car that drove away?' he asked. 'We ___15___ not see the car.'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "did"
+                },
+                {
+                    "blank": "2",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "did"
+                },
+                {
+                    "blank": "6",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "did"
+                },
+                {
+                    "blank": "13",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "14",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "15",
+                    "answer": "did"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on the correct use of 'did' and 'didn't' to form questions and negative statements when narrating a past event.",
+                "ru": "Это упражнение фокусируется на правильном использовании 'did' и 'didn't' для образования вопросов и отрицательных предложений при рассказе о прошедшем событии.",
+                "uz": "Ushbu mashq o'tgan voqeani hikoya qilishda savollar va inkor gaplar tuzish uchun 'did' va 'didn't' ni to'g'ri ishlatishga qaratilgan."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Last week, I had a very busy day. I had a lot of things to do, and I ___1___ finish everything. I ___2___ not go to the grocery store, and I ___3___ not walk my dog. My brother asked me, '___4___ you not have time to do those things?' I told him, 'No, I ___5___ not.' He then asked, 'What ___6___ you do all day?' I explained that I had to study for a big test. I ___7___ not want to fail it. '___8___ you study for a long time?' he asked. I said, 'Yes, I ___9___.' 'And ___10___ you understand all the material?' he asked. I answered, 'I ___11___ not.' My brother said, '___12___ the teacher not explain the topic clearly?' I replied, 'No, she ___13___ explain it clearly, but I ___14___ not pay attention.' He said, 'Well, ___15___ you not learn your lesson?'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "2",
+                    "answer": "did"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "did"
+                },
+                {
+                    "blank": "6",
+                    "answer": "did"
+                },
+                {
+                    "blank": "7",
+                    "answer": "did"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "did"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "13",
+                    "answer": "did"
+                },
+                {
+                    "blank": "14",
+                    "answer": "did"
+                },
+                {
+                    "blank": "15",
+                    "answer": "did"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices forming negative sentences and questions using 'did' and 'didn't' to discuss a sequence of past events and a conversation about them.",
+                "ru": "Это упражнение тренирует образование отрицательных предложений и вопросов с помощью 'did' и 'didn't' для обсуждения последовательности прошлых событий и разговора о них.",
+                "uz": "Ushbu mashq 'did' va 'didn't' yordamida o'tgan voqealar ketma-ketligini va ular haqidagi suhbatni muhokama qilish uchun inkor gaplar va savollar tuzishni mashq qiladi."
+            }
+        }
+    ]
+}

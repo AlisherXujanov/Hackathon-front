@@ -1,0 +1,851 @@
+{
+    "id": "A1_PAST_SIMPLE_REGULAR_IRREGULAR_VERBS_ALL_OTHER_VERBS_IN_PAST",
+    "title": "Past Simple (Regular/Irregular verbs) - All other verbs in past",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He eat pizza for dinner last night."
+                },
+                {
+                    "answer": "He ate pizza for dinner last night.",
+                    "correct": true
+                },
+                {
+                    "answer": "He eated pizza for dinner last night."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'eat' is 'ate'. We use this form to talk about actions that happened in the past.",
+                "ru": "Простая прошедшая форма неправильного глагола 'eat' - 'ate'. Мы используем эту форму, чтобы говорить о действиях, которые произошли в прошлом.",
+                "uz": "'Eat' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'ate'dir. Biz bu shakldan o'tmishda sodir bo'lgan harakatlar haqida gapirish uchun foydalanamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They did not went to the cinema."
+                },
+                {
+                    "answer": "They didn't go to the cinema.",
+                    "correct": true
+                },
+                {
+                    "answer": "They not went to the cinema."
+                }
+            ],
+            "explanation": {
+                "en": "To form a negative sentence in the past simple, we use 'did not' (or 'didn't') followed by the base form of the main verb. The past form 'went' is incorrect here.",
+                "ru": "Чтобы образовать отрицательное предложение в простом прошедшем времени, мы используем 'did not' (или 'didn't'), за которым следует основная форма глагола. Прошедшая форма 'went' здесь неверна.",
+                "uz": "Oddiy o'tgan zamonda inkor gap tuzish uchun biz 'did not' (yoki 'didn't') dan so'ng fe'lning asosiy shaklidan foydalanamiz. Bu yerda 'went' o'tgan zamon shakli noto'g'ri."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We studyed for the exam yesterday."
+                },
+                {
+                    "answer": "We studied for the exam yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "We studiied for the exam yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "For regular verbs ending in a consonant + 'y', we change the 'y' to 'i' before adding '-ed' to form the past simple.",
+                "ru": "Для правильных глаголов, оканчивающихся на согласную + 'y', мы меняем 'y' на 'i' перед добавлением '-ed', чтобы образовать простое прошедшее время.",
+                "uz": "Undosh harf va 'y' bilan tugaydigan to'g'ri fe'llar uchun, oddiy o'tgan zamonni hosil qilish uchun '-ed' qo'shishdan oldin 'y'ni 'i'ga o'zgartiramiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did she came to the party?"
+                },
+                {
+                    "answer": "Did she come to the party?",
+                    "correct": true
+                },
+                {
+                    "answer": "Does she came to the party?"
+                }
+            ],
+            "explanation": {
+                "en": "When forming a question in the past simple, we use 'did' followed by the base form of the main verb, 'come'.",
+                "ru": "При формировании вопроса в простом прошедшем времени, мы используем 'did', за которым следует основная форма глагола, 'come'.",
+                "uz": "Oddiy o'tgan zamonda savol tuzishda, biz 'did' dan so'ng asosiy fe'lning 'come' shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have my keys yesterday."
+                },
+                {
+                    "answer": "I had my keys yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "I had had my keys yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the verb 'have' is 'had'. We use 'had' to talk about possession in the past.",
+                "ru": "Простая прошедшая форма глагола 'have' - 'had'. Мы используем 'had', чтобы говорить о владении в прошлом.",
+                "uz": "'Have' fe'lining oddiy o'tgan zamon shakli 'had'dir. Biz 'had'dan o'tmishda egalik haqida gapirish uchun foydalanamiz."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She did not watched TV last night."
+                },
+                {
+                    "answer": "She did not watch TV last night.",
+                    "correct": true
+                },
+                {
+                    "answer": "She not watched TV last night."
+                }
+            ],
+            "explanation": {
+                "en": "In negative sentences with 'did not', the main verb is always in its base form.",
+                "ru": "В отрицательных предложениях с 'did not' основной глагол всегда используется в своей базовой форме.",
+                "uz": "'Did not' bilan bo'lgan inkor gaplarda, asosiy fe'l har doim o'zining asosiy shaklida bo'ladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They buy a new car last month."
+                },
+                {
+                    "answer": "They bought a new car last month.",
+                    "correct": true
+                },
+                {
+                    "answer": "They buyed a new car last month."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'buy' is 'bought'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'buy' - 'bought'.",
+                "uz": "'Buy' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'bought'dir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did you saw the movie?"
+                },
+                {
+                    "answer": "Did you see the movie?",
+                    "correct": true
+                },
+                {
+                    "answer": "You did saw the movie?"
+                }
+            ],
+            "explanation": {
+                "en": "For questions in the past simple, we use 'did' and the base form of the verb, which is 'see'.",
+                "ru": "Для вопросов в простом прошедшем времени мы используем 'did' и основную форму глагола, 'see'.",
+                "uz": "Oddiy o'tgan zamonda savollar uchun biz 'did' va 'see' fe'lining asosiy shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I go to the park last weekend."
+                },
+                {
+                    "answer": "I went to the park last weekend.",
+                    "correct": true
+                },
+                {
+                    "answer": "I goed to the park last weekend."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'go' is 'went'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'go' - 'went'.",
+                "uz": "'Go' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'went'dir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She tell me a funny story last night."
+                },
+                {
+                    "answer": "She told me a funny story last night.",
+                    "correct": true
+                },
+                {
+                    "answer": "She tells me a funny story last night."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'tell' is 'told'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'tell' - 'told'.",
+                "uz": "'Tell' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'told'dir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother ___ (drink) a glass of milk this morning.",
+                "ru": "Дополните предложение: My brother ___ (drink) a glass of milk this morning.",
+                "uz": "Gapni to'ldiring: My brother ___ (drink) a glass of milk this morning."
+            },
+            "options": [
+                {
+                    "answer": "drank",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'drink' is 'drank'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'drink' - 'drank'.",
+                "uz": "'Drink' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'drank'dir."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (visit) our grandparents last weekend.",
+                "ru": "Дополните предложение: We ___ (visit) our grandparents last weekend.",
+                "uz": "Gapni to'ldiring: We ___ (visit) our grandparents last weekend."
+            },
+            "options": [
+                {
+                    "answer": "visited",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the regular verb 'visit' is 'visited'. We add '-ed' to the verb.",
+                "ru": "Простая прошедшая форма правильного глагола 'visit' - 'visited'. Мы добавляем к глаголу '-ed'.",
+                "uz": "'Visit' to'g'ri fe'lining oddiy o'tgan zamon shakli 'visited'dir. Biz fe'lga '-ed' qo'shamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (take) a taxi to work yesterday.",
+                "ru": "Дополните предложение: She ___ (take) a taxi to work yesterday.",
+                "uz": "Gapni to'ldiring: She ___ (take) a taxi to work yesterday."
+            },
+            "options": [
+                {
+                    "answer": "took",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'take' is 'took'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'take' - 'took'.",
+                "uz": "'Take' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'took'dir."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (run) in the park an hour ago.",
+                "ru": "Дополните предложение: He ___ (run) in the park an hour ago.",
+                "uz": "Gapni to'ldiring: He ___ (run) in the park an hour ago."
+            },
+            "options": [
+                {
+                    "answer": "ran",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'run' is 'ran'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'run' - 'ran'.",
+                "uz": "'Run' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'ran'dir."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (listen) to music all afternoon.",
+                "ru": "Дополните предложение: They ___ (listen) to music all afternoon.",
+                "uz": "Gapni to'ldiring: They ___ (listen) to music all afternoon."
+            },
+            "options": [
+                {
+                    "answer": "listened",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the regular verb 'listen' is 'listened'.",
+                "ru": "Простая прошедшая форма правильного глагола 'listen' - 'listened'.",
+                "uz": "'Listen' to'g'ri fe'lining oddiy o'tgan zamon shakli 'listened'dir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The movie ___ (begin) at 8 PM.",
+                "ru": "Дополните предложение: The movie ___ (begin) at 8 PM.",
+                "uz": "Gapni to'ldiring: The movie ___ (begin) at 8 PM."
+            },
+            "options": [
+                {
+                    "answer": "began",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'begin' is 'began'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'begin' - 'began'.",
+                "uz": "'Begin' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'began'dir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (drive) to her grandmother's house.",
+                "ru": "Дополните предложение: She ___ (drive) to her grandmother's house.",
+                "uz": "Gapni to'ldiring: She ___ (drive) to her grandmother's house."
+            },
+            "options": [
+                {
+                    "answer": "drove",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'drive' is 'drove'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'drive' - 'drove'.",
+                "uz": "'Drive' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'drove'dir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (find) a new restaurant downtown.",
+                "ru": "Дополните предложение: We ___ (find) a new restaurant downtown.",
+                "uz": "Gapni to'ldiring: We ___ (find) a new restaurant downtown."
+            },
+            "options": [
+                {
+                    "answer": "found",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'find' is 'found'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'find' - 'found'.",
+                "uz": "'Find' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'found'dir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (see) you at the party last night.",
+                "ru": "Дополните предложение: I ___ (see) you at the party last night.",
+                "uz": "Gapni to'ldiring: I ___ (see) you at the party last night."
+            },
+            "options": [
+                {
+                    "answer": "saw",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'see' is 'saw'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'see' - 'saw'.",
+                "uz": "'See' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'saw'dir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (speak) with her friend on the phone.",
+                "ru": "Дополните предложение: She ___ (speak) with her friend on the phone.",
+                "uz": "Gapni to'ldiring: She ___ (speak) with her friend on the phone."
+            },
+            "options": [
+                {
+                    "answer": "spoke",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'speak' is 'spoke'.",
+                "ru": "Простая прошедшая форма неправильного глагола 'speak' - 'spoke'.",
+                "uz": "'Speak' noto'g'ri fe'lining oddiy o'tgan zamon shakli 'spoke'dir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last Saturday, I ___1___ (wake) up early and ___2___ (decide) to go for a walk. I ___3___ (put) on my shoes and ___4___ (leave) the house. The sun ___5___ (shine) and the air was fresh. I ___6___ (walk) for about an hour and ___7___ (find) a small café. I ___8___ (order) a coffee and a sandwich. I ___9___ (read) a book while I ___10___ (wait). After my meal, I ___11___ (pay) and ___12___ (go) back home. My sister ___13___ (call) me in the evening, and we ___14___ (talk) about our day. It was a very nice and relaxing day, and I ___15___ (feel) happy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "woke"
+                },
+                {
+                    "blank": "2",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "3",
+                    "answer": "put"
+                },
+                {
+                    "blank": "4",
+                    "answer": "left"
+                },
+                {
+                    "blank": "5",
+                    "answer": "shone"
+                },
+                {
+                    "blank": "6",
+                    "answer": "walked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "found"
+                },
+                {
+                    "blank": "8",
+                    "answer": "ordered"
+                },
+                {
+                    "blank": "9",
+                    "answer": "read"
+                },
+                {
+                    "blank": "10",
+                    "answer": "waited"
+                },
+                {
+                    "blank": "11",
+                    "answer": "paid"
+                },
+                {
+                    "blank": "12",
+                    "answer": "went"
+                },
+                {
+                    "blank": "13",
+                    "answer": "called"
+                },
+                {
+                    "blank": "14",
+                    "answer": "talked"
+                },
+                {
+                    "blank": "15",
+                    "answer": "felt"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of both regular and irregular verbs in the past simple tense. You need to know the correct past form for each verb.",
+                "ru": "Это упражнение проверяет использование как правильных, так и неправильных глаголов в простом прошедшем времени. Вам нужно знать правильную прошедшую форму для каждого глагола.",
+                "uz": "Ushbu mashq oddiy o'tgan zamonda ham to'g'ri, ham noto'g'ri fe'llardan foydalanishni tekshiradi. Siz har bir fe'lning to'g'ri o'tgan zamon shaklini bilishingiz kerak."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last summer, my family and I ___1___ (decide) to take a trip to the mountains. We ___2___ (pack) our bags and ___3___ (drive) for many hours. When we ___4___ (arrive), we ___5___ (find) a small cabin. It was very beautiful. The next day, we ___6___ (hike) to the top of a mountain. I ___7___ (be) very tired, but the view was amazing. We ___8___ (take) many photos. In the evening, we ___9___ (cook) dinner and ___10___ (tell) stories around the campfire. We ___11___ (see) a lot of stars in the sky. My sister ___12___ (write) a letter to our grandmother about our trip. We ___13___ (have) a wonderful time, and we ___14___ (know) that we would come back again. We ___15___ (love) the experience very much.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "2",
+                    "answer": "packed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "drove"
+                },
+                {
+                    "blank": "4",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "5",
+                    "answer": "found"
+                },
+                {
+                    "blank": "6",
+                    "answer": "hiked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was"
+                },
+                {
+                    "blank": "8",
+                    "answer": "took"
+                },
+                {
+                    "blank": "9",
+                    "answer": "cooked"
+                },
+                {
+                    "blank": "10",
+                    "answer": "told"
+                },
+                {
+                    "blank": "11",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "12",
+                    "answer": "wrote"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had"
+                },
+                {
+                    "blank": "14",
+                    "answer": "knew"
+                },
+                {
+                    "blank": "15",
+                    "answer": "loved"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise requires you to use the past simple form of different verbs, both regular and irregular, to tell a story. Pay attention to the verb type to form the correct past tense.",
+                "ru": "Это упражнение требует от вас использовать простую прошедшую форму разных глаголов, как правильных, так и неправильных, чтобы рассказать историю. Обратите внимание на тип глагола для образования правильного прошедшего времени.",
+                "uz": "Bu mashq sizdan hikoya qilish uchun har xil fe'llarning, ham to'g'ri, ham noto'g'ri fe'llarning oddiy o'tgan zamon shaklidan foydalanishingizni talab qiladi. To'g'ri o'tgan zamonni hosil qilish uchun fe'l turiga e'tibor bering."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Yesterday, I ___1___ (have) a busy day. In the morning, I ___2___ (go) to the supermarket and ___3___ (buy) some groceries. The store ___4___ (be) very crowded. I ___5___ (see) my friend there, and we ___6___ (talk) for a few minutes. After that, I ___7___ (drive) home. I ___8___ (put) away the food and ___9___ (start) to cook lunch. I ___10___ (make) a big salad. In the afternoon, I ___11___ (read) a book for two hours. Later, I ___12___ (decide) to clean the house. I ___13___ (vacuum) the floor and ___14___ (clean) the windows. I ___15___ (finish) everything before dinner.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "went"
+                },
+                {
+                    "blank": "3",
+                    "answer": "bought"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was"
+                },
+                {
+                    "blank": "5",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "6",
+                    "answer": "talked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "drove"
+                },
+                {
+                    "blank": "8",
+                    "answer": "put"
+                },
+                {
+                    "blank": "9",
+                    "answer": "started"
+                },
+                {
+                    "blank": "10",
+                    "answer": "made"
+                },
+                {
+                    "blank": "11",
+                    "answer": "read"
+                },
+                {
+                    "blank": "12",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "13",
+                    "answer": "vacuumed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "cleaned"
+                },
+                {
+                    "blank": "15",
+                    "answer": "finished"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your knowledge of both regular and irregular verbs in the past simple. Remember that some irregular verbs have the same form in the present and past simple, such as 'read' and 'put'.",
+                "ru": "Это упражнение проверяет ваши знания как правильных, так и неправильных глаголов в простом прошедшем времени. Помните, что некоторые неправильные глаголы имеют одинаковую форму в настоящем и прошедшем времени, например, 'read' и 'put'.",
+                "uz": "Bu mashq sizning oddiy o'tgan zamondagi to'g'ri va noto'g'ri fe'llar haqidagi bilimlaringizni sinovdan o'tkazadi. Unutmangki, ba'zi noto'g'ri fe'llarning hozirgi va o'tgan zamon shakli bir xil bo'ladi, masalan, 'read' va 'put'."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last week, a friend and I ___1___ (go) to the park. The weather ___2___ (be) beautiful. We ___3___ (play) football for an hour, and then we ___4___ (sit) on a bench. We ___5___ (bring) some sandwiches and ___6___ (drink) some juice. My friend ___7___ (take) a picture of me. Later, we ___8___ (walk) around the lake. We ___9___ (see) a lot of people and some birds. I ___10___ (feel) so relaxed. My friend ___11___ (say) he ___12___ (enjoy) the day too. We ___13___ (plan) to meet again soon. We ___14___ (stay) there until the sun ___15___ (go) down.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "went"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "played"
+                },
+                {
+                    "blank": "4",
+                    "answer": "sat"
+                },
+                {
+                    "blank": "5",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "6",
+                    "answer": "drank"
+                },
+                {
+                    "blank": "7",
+                    "answer": "took"
+                },
+                {
+                    "blank": "8",
+                    "answer": "walked"
+                },
+                {
+                    "blank": "9",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "10",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "11",
+                    "answer": "said"
+                },
+                {
+                    "blank": "12",
+                    "answer": "enjoyed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "planned"
+                },
+                {
+                    "blank": "14",
+                    "answer": "stayed"
+                },
+                {
+                    "blank": "15",
+                    "answer": "went"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise is a mix of regular and irregular verbs in the past simple. Make sure you know the past forms of common irregular verbs like 'go' and 'take'.",
+                "ru": "Это упражнение представляет собой смесь правильных и неправильных глаголов в простом прошедшем времени. Убедитесь, что вы знаете прошедшие формы распространенных неправильных глаголов, таких как 'go' и 'take'.",
+                "uz": "Ushbu mashq oddiy o'tgan zamondagi to'g'ri va noto'g'ri fe'llarning aralashmasidir. 'Go' va 'take' kabi keng tarqalgan noto'g'ri fe'llarning o'tgan zamon shakllarini bilishingizga ishonch hosil qiling."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "On my last birthday, I ___1___ (have) a party. I ___2___ (invite) all my friends and family. My mom ___3___ (bake) a big cake. I ___4___ (get) a lot of presents. My best friend ___5___ (give) me a new book. We ___6___ (play) games and ___7___ (dance) to music. My dad ___8___ (sing) a song for me. Everyone ___9___ (eat) cake and ice cream. We ___10___ (talk) and ___11___ (laugh) a lot. The party ___12___ (finish) late. I ___13___ (feel) so happy and grateful. My friends ___14___ (help) me clean up. It ___15___ (be) a perfect day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "invited"
+                },
+                {
+                    "blank": "3",
+                    "answer": "baked"
+                },
+                {
+                    "blank": "4",
+                    "answer": "got"
+                },
+                {
+                    "blank": "5",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "6",
+                    "answer": "played"
+                },
+                {
+                    "blank": "7",
+                    "answer": "danced"
+                },
+                {
+                    "blank": "8",
+                    "answer": "sang"
+                },
+                {
+                    "blank": "9",
+                    "answer": "ate"
+                },
+                {
+                    "blank": "10",
+                    "answer": "talked"
+                },
+                {
+                    "blank": "11",
+                    "answer": "laughed"
+                },
+                {
+                    "blank": "12",
+                    "answer": "finished"
+                },
+                {
+                    "blank": "13",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "14",
+                    "answer": "helped"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise is about using the past simple tense to describe a past event. It includes both regular verbs (add '-ed') and irregular verbs (which have special past forms).",
+                "ru": "Это упражнение о том, как использовать простое прошедшее время для описания прошлого события. Оно включает в себя как правильные глаголы (добавление '-ed'), так и неправильные глаголы (которые имеют особые прошедшие формы).",
+                "uz": "Bu mashq o'tgan voqeani tasvirlash uchun oddiy o'tgan zamondan foydalanish haqida. U ham to'g'ri fe'llarni ('-ed' qo'shiladi), ham noto'g'ri fe'llarni (o'ziga xos o'tgan zamon shakllariga ega) o'z ichiga oladi."
+            }
+        }
+    ]
+}

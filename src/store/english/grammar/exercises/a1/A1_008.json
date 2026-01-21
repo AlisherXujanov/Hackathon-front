@@ -1,0 +1,847 @@
+{
+    "id": "A1_PRESENT_CONTINUOUS_BASIC_FORM_STRUCTURE_AND_SIMPLE_USES",
+    "title": "Present Continuous (basic form) - Structure and simple uses",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She working now."
+                },
+                {
+                    "answer": "She is working now.",
+                    "correct": true
+                },
+                {
+                    "answer": "She are working now."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous uses 'be' + verb-ing. 'She' takes 'is'.",
+                "ru": "Present Continuous образуется с помощью 'be' + глагол-ing. С 'She' используется 'is'.",
+                "uz": "Hozirgi davom zamoni 'be' + fe’l-ing bilan tuziladi. 'She' bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They is playing football."
+                },
+                {
+                    "answer": "They am playing football."
+                },
+                {
+                    "answer": "They are playing football.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'They' always takes 'are' in present continuous.",
+                "ru": "С 'They' в Present Continuous всегда используется 'are'.",
+                "uz": "Present Continuous’da 'They' bilan doimo 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What you are doing?"
+                },
+                {
+                    "answer": "What are you doing?",
+                    "correct": true
+                },
+                {
+                    "answer": "What do you doing?"
+                }
+            ],
+            "explanation": {
+                "en": "In questions, 'be' comes before the subject.",
+                "ru": "В вопросах 'be' ставится перед подлежащим.",
+                "uz": "Savollarda 'be' (am/is/are) ega oldidan keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct negative sentence.",
+                "ru": "Выберите правильное отрицательное предложение.",
+                "uz": "To'g'ri inkoriy gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am not sleeping.",
+                    "correct": true
+                },
+                {
+                    "answer": "I not sleeping."
+                },
+                {
+                    "answer": "I don't sleeping."
+                }
+            ],
+            "explanation": {
+                "en": "Negative form uses 'be' + 'not' + verb-ing.",
+                "ru": "Отрицательная форма: 'be' + 'not' + глагол-ing.",
+                "uz": "Inkor shakli: 'be' + 'not' + fe’l-ing."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We is studying English."
+                },
+                {
+                    "answer": "We are studying English.",
+                    "correct": true
+                },
+                {
+                    "answer": "We am studying English."
+                }
+            ],
+            "explanation": {
+                "en": "'We' takes 'are' in present continuous.",
+                "ru": "С 'We' в Present Continuous используется 'are'.",
+                "uz": "Present Continuous’da 'We' bilan 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He eating lunch right now."
+                },
+                {
+                    "answer": "He is eating lunch right now.",
+                    "correct": true
+                },
+                {
+                    "answer": "He are eating lunch right now."
+                }
+            ],
+            "explanation": {
+                "en": "'He' takes 'is' in present continuous.",
+                "ru": "С 'He' в Present Continuous используется 'is'.",
+                "uz": "Present Continuous’da 'He' bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is she cooking dinner?",
+                    "correct": true
+                },
+                {
+                    "answer": "She is cooking dinner?"
+                },
+                {
+                    "answer": "Does she cooking dinner?"
+                }
+            ],
+            "explanation": {
+                "en": "Yes/no questions start with 'be' (am/is/are).",
+                "ru": "Вопросы типа yes/no начинаются с формы 'be' (am/is/are).",
+                "uz": "Ha/yo‘q savollari 'be' (am/is/are) bilan boshlanadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The children is playing in the garden."
+                },
+                {
+                    "answer": "The children are playing in the garden.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children am playing in the garden."
+                }
+            ],
+            "explanation": {
+                "en": "'Children' is plural, so it takes 'are'.",
+                "ru": "'Children' — слово во множественном числе, поэтому используется 'are'.",
+                "uz": "'Children' ko‘plikdagi so‘z, shuning uchun 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct negative sentence.",
+                "ru": "Выберите правильное отрицательное предложение.",
+                "uz": "To'g'ri inkoriy gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They don't watching TV."
+                },
+                {
+                    "answer": "They not watching TV."
+                },
+                {
+                    "answer": "They are not watching TV.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous negative uses 'be not' + verb-ing.",
+                "ru": "Отрицательная форма Present Continuous: 'be not' + глагол-ing.",
+                "uz": "Present Continuous inkor shakli: 'be not' + fe’l-ing."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am reading a book now.",
+                    "correct": true
+                },
+                {
+                    "answer": "I reading a book now."
+                },
+                {
+                    "answer": "I are reading a book now."
+                }
+            ],
+            "explanation": {
+                "en": "'I' takes 'am' in present continuous.",
+                "ru": "С 'I' в Present Continuous используется 'am'.",
+                "uz": "Present Continuous’da 'I' bilan 'am' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form of 'be': She ___ writing a letter.",
+                "ru": "Дополните правильной формой глагола 'be': She ___ writing a letter.",
+                "uz": "'be' fe'lining to'g'ri shaklini qo'ying: She ___ writing a letter."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'She' takes 'is' in present continuous.",
+                "ru": "С 'She' в Present Continuous используется 'is'.",
+                "uz": "Present Continuous’da 'She' bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form of 'be': They ___ playing tennis.",
+                "ru": "Дополните правильной формой глагола 'be': They ___ playing tennis.",
+                "uz": "'be' fe'lining to'g'ri shaklini qo'ying: They ___ playing tennis."
+            },
+            "options": [
+                {
+                    "answer": "are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'They' takes 'are' in present continuous.",
+                "ru": "С 'They' в Present Continuous используется 'are'.",
+                "uz": "Present Continuous’da 'They' bilan 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form of 'be': I ___ doing my homework.",
+                "ru": "Дополните правильной формой глагола 'be': I ___ doing my homework.",
+                "uz": "'be' fe'lining to'g'ri shaklini qo'ying: I ___ doing my homework."
+            },
+            "options": [
+                {
+                    "answer": "am",
+                    "correct": true
+                }
+            ],
+            "explanation": "'I' takes 'am' in present continuous."
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Add -ing to the verb: He is (walk) ___ to school.",
+                "ru": "Добавьте -ing к глаголу: He is (walk) ___ to school.",
+                "uz": "Fe'lga -ing qo'shimchasini qo'shing: He is (walk) ___ to school."
+            },
+            "options": [
+                {
+                    "answer": "walking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Add -ing to the base form of the verb.",
+                "ru": "Добавьте -ing к основной форме глагола.",
+                "uz": "Fe’lning asosiy shakliga -ing qo‘shimchasini qo‘shing."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Add -ing to the verb: We are (listen) ___ to music.",
+                "ru": "Добавьте -ing к глаголу: We are (listen) ___ to music.",
+                "uz": "Fe'lga -ing qo'shimchasini qo'shing: We are (listen) ___ to music."
+            },
+            "options": [
+                {
+                    "answer": "listening",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Add -ing to the base form of the verb.",
+                "ru": "Добавьте -ing к основной форме глагола.",
+                "uz": "Fe’lning asosiy shakliga -ing qo‘shimchasini qo‘shing."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: You ___ not sleeping.",
+                "ru": "Дополните отрицание: You ___ not sleeping.",
+                "uz": "Inkorni to'ldiring: You ___ not sleeping."
+            },
+            "options": [
+                {
+                    "answer": "are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'You' takes 'are' in present continuous.",
+                "ru": "С 'You' в Present Continuous используется 'are'.",
+                "uz": "Present Continuous’da 'You' bilan 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make a question: ___ he working today?",
+                "ru": "Составьте вопрос: ___ he working today?",
+                "uz": "Savol tuzing: ___ he working today?"
+            },
+            "options": [
+                {
+                    "answer": "Is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'He' takes 'is' in questions.",
+                "ru": "В вопросах с 'He' используется 'is'.",
+                "uz": "Savollarda 'He' bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form of 'be': The cat ___ sleeping.",
+                "ru": "Дополните правильной формой глагола 'be': The cat ___ sleeping.",
+                "uz": "'be' fe'lining to'g'ri shaklini qo'ying: The cat ___ sleeping."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'The cat' (singular) takes 'is'.",
+                "ru": "С 'The cat' (ед. число) используется 'is'.",
+                "uz": "'The cat' (yakka) bilan 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Add -ing to the verb: She is (run) ___ in the park.",
+                "ru": "Добавьте -ing к глаголу: She is (run) ___ in the park.",
+                "uz": "Fe'lga -ing qo'shimchasini qo'shing: She is (run) ___ in the park."
+            },
+            "options": [
+                {
+                    "answer": "running",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Double the final consonant and add -ing for short verbs ending in consonant-vowel-consonant.",
+                "ru": "Удвоьте конечную согласную и добавьте -ing для коротких глаголов с окончанием согласная-гласная-согласная.",
+                "uz": "Qisqa fe’llarda (undosh-unli-undosh bilan tugasa) oxirgi undoshni ikki marta yozing va -ing qo‘shing."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make a question: ___ they coming to the party?",
+                "ru": "Составьте вопрос: ___ they coming to the party?",
+                "uz": "Savol tuzing: ___ they coming to the party?"
+            },
+            "options": [
+                {
+                    "answer": "Are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'They' takes 'are' in questions.",
+                "ru": "В вопросах с 'They' используется 'are'.",
+                "uz": "Savollarda 'They' bilan 'are' ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct present continuous forms.",
+                "ru": "Заполните пропуски правильными формами настоящего продолженного времени.",
+                "uz": "Bo'shliqlarni hozirgi davom zamonining to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "Today is Saturday and my family ___1___ having a busy day. My mother ___2___ cooking lunch in the kitchen right now. She ___3___ making pasta with tomato sauce. My father ___4___ working in the garden. He ___5___ planting new flowers and ___6___ watering the plants. My little sister ___7___ playing with her toys in the living room. She ___8___ building a castle with her blocks. I ___9___ doing my homework at my desk. I ___10___ writing an essay about my family. Outside, it ___11___ raining lightly, so we ___12___ staying inside today. The weather ___13___ getting colder, and the leaves ___14___ changing colors. This autumn ___15___ bringing many beautiful changes to our neighborhood.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "am"
+                },
+                {
+                    "blank": "10",
+                    "answer": "am"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "Use the correct form of 'be' (am/is/are) according to the subject.",
+                "ru": "Используйте правильную форму 'be' (am/is/are) в соответствии с подлежащим.",
+                "uz": "Ega(ga) mos ravishda 'be' (am/is/are) ning to‘g‘ri formasini ishlating."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct present continuous forms.",
+                "ru": "Заполните пропуски правильными формами настоящего продолженного времени.",
+                "uz": "Bo'shliqlarni hozirgi davom zamonining to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "It's Monday morning and everyone at school ___1___ very busy. The students ___2___ arriving at school and ___3___ going to their classrooms. In classroom 5A, the teacher ___4___ writing today's lesson on the board. The children ___5___ taking out their books and ___6___ preparing for the first lesson. Some students ___7___ talking quietly with their friends, while others ___8___ reading their homework. In the playground, the younger children ___9___ playing games and ___10___ having fun before classes start. The school bell ___11___ ringing now, so everyone ___12___ getting ready for lessons. Today we ___13___ studying math, English, and science. Our English teacher ___14___ teaching us about present continuous tense, and we ___15___ learning how to use it correctly in sentences.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "Match the correct form of 'be' with each subject in present continuous.",
+                "ru": "Подбирайте правильную форму 'be' для каждого подлежащего в Present Continuous.",
+                "uz": "Present Continuous’da har bir ega uchun 'be' ning to‘g‘ri formasini moslang."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct present continuous forms.",
+                "ru": "Заполните пропуски правильными формами настоящего продолженного времени.",
+                "uz": "Bo'shliqlarni hozirgi davom zamonining to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "This evening, my friends and I ___1___ having a great time at the community center. We ___2___ participating in different activities and ___3___ enjoying ourselves. Sarah ___4___ dancing in the dance class, and she ___5___ learning new steps. Tom and Mike ___6___ playing basketball in the gym, and they ___7___ practicing for next week's game. Lisa ___8___ painting a beautiful picture in the art room. She ___9___ using bright colors and ___10___ creating something amazing. I ___11___ learning to play guitar with the music teacher. He ___12___ showing me how to hold the instrument correctly. Outside, some people ___13___ jogging around the building, and others ___14___ walking their dogs. The evening sun ___15___ setting, and it's making the sky look wonderful with orange and pink colors.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "am"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "Use am/is/are according to the subject in present continuous sentences.",
+                "ru": "Используйте am/is/are в соответствии с подлежащим в предложениях Present Continuous.",
+                "uz": "Present Continuous gaplarida egaga mos ravishda am/is/are ni ishlating."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct present continuous forms.",
+                "ru": "Заполните пропуски правильными формами настоящего продолженного времени.",
+                "uz": "Bo'shliqlarni hozirgi davom zamonining to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "Right now, our city ___1___ experiencing a lovely spring day. The sun ___2___ shining brightly in the clear blue sky. In the central park, families ___3___ having picnics and ___4___ spending quality time together. Children ___5___ running around and ___6___ playing on the swings and slides. Their parents ___7___ watching them carefully and ___8___ taking photos. Some people ___9___ reading books under the trees, while others ___10___ listening to music. A street musician ___11___ playing guitar near the fountain, and people ___12___ stopping to listen to his beautiful songs. The flowers ___13___ blooming everywhere, and the trees ___14___ growing new green leaves. Spring ___15___ bringing new life and energy to everyone in our community.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous describes actions happening now or temporary situations.",
+                "ru": "Present Continuous описывает действия, происходящие сейчас, или временные ситуации.",
+                "uz": "Present Continuous hozir bo‘layotgan harakatlar yoki vaqtincha holatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct present continuous forms.",
+                "ru": "Заполните пропуски правильными формами настоящего продолженного времени.",
+                "uz": "Bo'shliqlarni hozirgi davom zamonining to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "At this moment, I ___1___ sitting in my favorite café and ___2___ observing the busy street outside. People ___3___ walking quickly because they ___4___ going to work or school. The traffic ___5___ moving slowly today due to construction work. Workers ___6___ repairing the road and ___7___ installing new traffic lights. A young woman ___8___ waiting at the bus stop and ___9___ checking her phone. Two friends ___10___ talking and ___11___ laughing as they walk past the café window. The barista ___12___ making coffee for other customers, and the wonderful smell ___13___ filling the air. I ___14___ writing in my diary and ___15___ thinking about my plans for today.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "am"
+                },
+                {
+                    "blank": "2",
+                    "answer": "am"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "am"
+                },
+                {
+                    "blank": "15",
+                    "answer": "am"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous shows actions happening at the moment of speaking.",
+                "ru": "Present Continuous показывает действия, происходящие в момент речи.",
+                "uz": "Present Continuous gapirayotgan paytda bo‘layotgan harakatlarni ko‘rsatadi."
+            }
+        }
+    ]
+}

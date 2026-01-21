@@ -1,0 +1,709 @@
+{
+    "id": "A2_DO_VS_MAKE_COLLOCATIONS_AND_USAGE",
+    "title": "Do vs Make (What's the difference?) - Collocations and usage",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I need to make my homework tonight."
+                },
+                {
+                    "answer": "I need to do my homework tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "I need to doing my homework tonight."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do' with homework, housework, and work activities.",
+                "ru": "Мы используем 'do' с homework, housework и рабочими действиями.",
+                "uz": "'Do' so'zini homework, housework va ish faoliyatlari bilan ishlatamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She makes dinner every evening.",
+                    "correct": true
+                },
+                {
+                    "answer": "She does dinner every evening."
+                },
+                {
+                    "answer": "She making dinner every evening."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make' when creating or preparing something, especially food.",
+                "ru": "Мы используем 'make' когда создаем или готовим что-то, особенно еду.",
+                "uz": "'Make' so'zini biror narsa yaratish yoki tayyorlashda, ayniqsa ovqat tayyorlashda ishlatamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Please make the dishes after lunch."
+                },
+                {
+                    "answer": "Please do the dishes after lunch.",
+                    "correct": true
+                },
+                {
+                    "answer": "Please did the dishes after lunch."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do' with cleaning activities like dishes, laundry, and housework.",
+                "ru": "Мы используем 'do' с действиями по уборке, такими как мытье посуды, стирка и домашняя работа.",
+                "uz": "'Do' so'zini tozalash ishlari bilan ishlatamiz: idish yuvish, kir yuvish va uy ishlari."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He did a cake for his birthday."
+                },
+                {
+                    "answer": "He make a cake for his birthday."
+                },
+                {
+                    "answer": "He made a cake for his birthday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make' when creating something, and the past tense of 'make' is 'made'.",
+                "ru": "Мы используем 'make' когда что-то создаем, а прошедшее время 'make' - это 'made'.",
+                "uz": "'Make' so'zini biror narsa yaratishda ishlatamiz, uning o'tgan zamon shakli 'made'."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I always make my bed in the morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "I always do my bed in the morning."
+                },
+                {
+                    "answer": "I always making my bed in the morning."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make the bed' as a fixed expression meaning to arrange the bedsheets.",
+                "ru": "Мы используем 'make the bed' как устойчивое выражение, означающее заправлять постель.",
+                "uz": "'Make the bed' - bu to'shakni yig'ish ma'nosidagi barqaror ifoda."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Can you make me a favor?"
+                },
+                {
+                    "answer": "Can you do me a favor?",
+                    "correct": true
+                },
+                {
+                    "answer": "Can you does me a favor?"
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do someone a favor' as a fixed expression meaning to help someone.",
+                "ru": "Мы используем 'do someone a favor' как устойчивое выражение, означающее помочь кому-то.",
+                "uz": "'Do someone a favor' - bu birovga yordam berish ma'nosidagi barqaror ifoda."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They do a lot of noise at night."
+                },
+                {
+                    "answer": "They are making a lot of noise at night."
+                },
+                {
+                    "answer": "They make a lot of noise at night.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make noise' as a collocation meaning to produce sound.",
+                "ru": "Мы используем 'make noise' как словосочетание, означающее производить звук.",
+                "uz": "'Make noise' - bu shovqin chiqarish ma'nosidagi so'z birikmasі."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She made her exercise yesterday."
+                },
+                {
+                    "answer": "She do her exercise yesterday."
+                },
+                {
+                    "answer": "She did her exercise yesterday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do exercise' for physical activities, and 'did' is the past tense of 'do'.",
+                "ru": "Мы используем 'do exercise' для физических упражнений, а 'did' - это прошедшее время от 'do'.",
+                "uz": "'Do exercise' jismoniy mashqlar uchun ishlatiladi, 'did' esa 'do' ning o'tgan zamon shakli."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He wants to do money in business."
+                },
+                {
+                    "answer": "He wants to make money in business.",
+                    "correct": true
+                },
+                {
+                    "answer": "He wants to making money in business."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make money' as a fixed expression meaning to earn money.",
+                "ru": "Мы используем 'make money' как устойчивое выражение, означающее зарабатывать деньги.",
+                "uz": "'Make money' - bu pul topish ma'nosidagi barqaror ifoda."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I need to make my shopping today."
+                },
+                {
+                    "answer": "I need to do my shopping today.",
+                    "correct": true
+                },
+                {
+                    "answer": "I need to did my shopping today."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do shopping' as a collocation for the activity of buying things.",
+                "ru": "Мы используем 'do shopping' как словосочетание для обозначения покупок.",
+                "uz": "'Do shopping' xarid qilish faoliyati uchun ishlatiladigan so'z birikmasi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I always ___ my homework before dinner.",
+                "ru": "Дополните предложение: I always ___ my homework before dinner.",
+                "uz": "Gapni to'ldiring: I always ___ my homework before dinner."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do' with homework as it refers to completing tasks or activities.",
+                "ru": "Мы используем 'do' с homework, поскольку это относится к выполнению заданий или деятельности.",
+                "uz": "'Do' so'zini homework bilan ishlatamiz, chunki bu vazifalarni bajarish faoliyatini bildiradi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She will ___ a delicious cake for the party.",
+                "ru": "Дополните предложение: She will ___ a delicious cake for the party.",
+                "uz": "Gapni to'ldiring: She will ___ a delicious cake for the party."
+            },
+            "options": [
+                {
+                    "answer": "make",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'make' when creating or preparing something, especially food items.",
+                "ru": "Мы используем 'make' когда создаем или готовим что-то, особенно продукты питания.",
+                "uz": "'Make' so'zini biror narsa yaratish yoki tayyorlashda, ayniqsa oziq-ovqat mahsulotlarida ishlatamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Can you ___ me a favor and help with this?",
+                "ru": "Дополните предложение: Can you ___ me a favor and help with this?",
+                "uz": "Gapni to'ldiring: Can you ___ me a favor and help with this?"
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Do someone a favor' is a fixed expression meaning to help someone.",
+                "ru": "'Do someone a favor' - устойчивое выражение, означающее помочь кому-то.",
+                "uz": "'Do someone a favor' - birovga yordam berish ma'nosidagi barqaror ifoda."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please don't ___ so much noise during the meeting.",
+                "ru": "Дополните предложение: Please don't ___ so much noise during the meeting.",
+                "uz": "Gapni to'ldiring: Please don't ___ so much noise during the meeting."
+            },
+            "options": [
+                {
+                    "answer": "make",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Make noise' is a standard collocation for producing sounds.",
+                "ru": "'Make noise' - стандартное словосочетание для производства звуков.",
+                "uz": "'Make noise' - tovush chiqarish uchun standart so'z birikmasi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I need to ___ the dishes after breakfast.",
+                "ru": "Дополните предложение: I need to ___ the dishes after breakfast.",
+                "uz": "Gapni to'ldiring: I need to ___ the dishes after breakfast."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do' with household chores like dishes, laundry, and cleaning.",
+                "ru": "Мы используем 'do' с домашними делами, такими как мытье посуды, стирка и уборка.",
+                "uz": "'Do' so'zini uy ishlari bilan ishlatamiz: idish yuvish, kir yuvish va tozalash."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He wants to ___ a lot of money in his new job.",
+                "ru": "Дополните предложение: He wants to ___ a lot of money in his new job.",
+                "uz": "Gapni to'ldiring: He wants to ___ a lot of money in his new job."
+            },
+            "options": [
+                {
+                    "answer": "make",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Make money' is a fixed expression meaning to earn or gain money.",
+                "ru": "'Make money' - устойчивое выражение, означающее зарабатывать или получать деньги.",
+                "uz": "'Make money' - pul topish yoki olish ma'nosidagi barqaror ifoda."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They always ___ their bed in the morning.",
+                "ru": "Дополните предложение: They always ___ their bed in the morning.",
+                "uz": "Gapni to'ldiring: They always ___ their bed in the morning."
+            },
+            "options": [
+                {
+                    "answer": "make",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Make the bed' is a fixed expression for arranging bedsheets and pillows.",
+                "ru": "'Make the bed' - устойчивое выражение для заправления постели и подушек.",
+                "uz": "'Make the bed' - choyshablar va yostiqlarni tartibga solish uchun barqaror ifoda."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We should ___ some exercise every day.",
+                "ru": "Дополните предложение: We should ___ some exercise every day.",
+                "uz": "Gapni to'ldiring: We should ___ some exercise every day."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'do exercise' for physical activities and fitness routines.",
+                "ru": "Мы используем 'do exercise' для физических упражнений и фитнес-программ.",
+                "uz": "'Do exercise' jismoniy mashqlar va fitnes dasturlari uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She needs to ___ the shopping this afternoon.",
+                "ru": "Дополните предложение: She needs to ___ the shopping this afternoon.",
+                "uz": "Gapni to'ldiring: She needs to ___ the shopping this afternoon."
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Do shopping' is the correct collocation for the activity of buying things.",
+                "ru": "'Do shopping' - правильное словосочетание для обозначения покупок.",
+                "uz": "'Do shopping' - xarid qilish faoliyati uchun to'g'ri so'z birikmasi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I will ___ a phone call to my mother tonight.",
+                "ru": "Дополните предложение: I will ___ a phone call to my mother tonight.",
+                "uz": "Gapni to'ldiring: I will ___ a phone call to my mother tonight."
+            },
+            "options": [
+                {
+                    "answer": "make",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Make a phone call' is a standard expression for calling someone.",
+                "ru": "'Make a phone call' - стандартное выражение для звонка кому-то.",
+                "uz": "'Make a phone call' - birovga qo'ng'iroq qilish uchun standart ifoda."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah has a very busy morning routine. First, she always ___1___ her bed as soon as she wakes up. Then she goes to the kitchen to ___2___ breakfast for her family. She usually ___3___ coffee and toast. After breakfast, the children need to ___4___ their homework before school, so she helps them organize their books. Sarah also needs to ___5___ the dishes from the previous night. She prefers to ___6___ all the housework in the morning so she can relax later. Her husband usually ___7___ the shopping on weekends, but Sarah ___8___ a quick trip to the store if they need something urgently. She always tries to ___9___ some exercise in the afternoon, either at the gym or at home. In the evening, Sarah likes to ___10___ phone calls to her friends and family. Before going to bed, she ___11___ sure that all the lights are off and doors are locked. She also ___12___ a mental list of things to do the next day. Sarah believes it's important to ___13___ time for yourself, even when you're busy. She always ___14___ an effort to read a book or listen to music before sleeping. This routine helps her ___15___ the most of each day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "2",
+                    "answer": "make"
+                },
+                {
+                    "blank": "3",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "do"
+                },
+                {
+                    "blank": "5",
+                    "answer": "do"
+                },
+                {
+                    "blank": "6",
+                    "answer": "do"
+                },
+                {
+                    "blank": "7",
+                    "answer": "does"
+                },
+                {
+                    "blank": "8",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "9",
+                    "answer": "do"
+                },
+                {
+                    "blank": "10",
+                    "answer": "make"
+                },
+                {
+                    "blank": "11",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "12",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "13",
+                    "answer": "make"
+                },
+                {
+                    "blank": "14",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "15",
+                    "answer": "make"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates key collocations with 'do' and 'make': make the bed, make breakfast, do homework, do dishes, do housework, do shopping, do exercise, make phone calls, make sure, make a list, make time, make an effort, make the most.",
+                "ru": "Это упражнение демонстрирует ключевые словосочетания с 'do' и 'make': make the bed, make breakfast, do homework, do dishes, do housework, do shopping, do exercise, make phone calls, make sure, make a list, make time, make an effort, make the most.",
+                "uz": "Bu mashq 'do' va 'make' bilan asosiy so'z birikmalarini ko'rsatadi: make the bed, make breakfast, do homework, do dishes, do housework, do shopping, do exercise, make phone calls, make sure, make a list, make time, make an effort, make the most."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tom is starting his own business and learning many new things. He wants to ___1___ a lot of money, but he knows it takes time and hard work. Every morning, he ___2___ a plan for the day and ___3___ a list of important tasks. Tom has to ___4___ research about his competitors and ___5___ phone calls to potential customers. Sometimes he needs to ___6___ presentations for meetings with investors. When clients visit his office, he always tries to ___7___ a good impression. Tom ___8___ his best to answer all emails quickly and ___9___ appointments on time. He also ___10___ sure to keep detailed records of all business transactions. In the evenings, Tom often has to ___11___ paperwork and ___12___ calculations for his budget. He tries not to ___13___ too much noise in the office after hours because other people are still working. Tom ___14___ an effort to network with other business owners and ___15___ new connections in his industry. He believes that if you ___16___ your homework and prepare well, success will come naturally.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "make"
+                },
+                {
+                    "blank": "2",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "do"
+                },
+                {
+                    "blank": "5",
+                    "answer": "make"
+                },
+                {
+                    "blank": "6",
+                    "answer": "make"
+                },
+                {
+                    "blank": "7",
+                    "answer": "make"
+                },
+                {
+                    "blank": "8",
+                    "answer": "does"
+                },
+                {
+                    "blank": "9",
+                    "answer": "make"
+                },
+                {
+                    "blank": "10",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "11",
+                    "answer": "do"
+                },
+                {
+                    "blank": "12",
+                    "answer": "do/make"
+                },
+                {
+                    "blank": "13",
+                    "answer": "make"
+                },
+                {
+                    "blank": "14",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "15",
+                    "answer": "make"
+                },
+                {
+                    "blank": "16",
+                    "answer": "do"
+                }
+            ],
+            "explanation": {
+                "en": "This passage covers business-related collocations with 'do' and 'make': make money, make a plan, make a list, do research, make phone calls, make presentations, make a good impression, do your best, make appointments, make sure, do paperwork, make noise, make an effort, make connections, do homework.",
+                "ru": "Этот текст охватывает деловые словосочетания с 'do' и 'make': make money, make a plan, make a list, do research, make phone calls, make presentations, make a good impression, do your best, make appointments, make sure, do paperwork, make noise, make an effort, make connections, do homework.",
+                "uz": "Bu matn 'do' va 'make' bilan biznes so'z birikmalarini qamrab oladi: make money, make a plan, make a list, do research, make phone calls, make presentations, make a good impression, do your best, make appointments, make sure, do paperwork, make noise, make an effort, make connections, do homework."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma is preparing for her final exams and has developed a strict study schedule. Every day, she ___1___ sure to wake up early and ___2___ her bed immediately. She then ___3___ a healthy breakfast to give her energy for studying. Emma has to ___4___ a lot of reading for her literature class and ___5___ detailed notes about each book. She also needs to ___6___ mathematics problems and ___7___ science experiments for her lab reports. When Emma feels stressed, she tries to ___8___ some exercise or take a short walk outside. She ___9___ an effort to ___10___ regular breaks during long study sessions. Emma's mother helps by ___11___ dinner so Emma can focus on her studies. In the afternoon, Emma often ___12___ study groups with her classmates to review difficult topics together. She ___13___ sure to ___14___ all her assignments on time and never misses deadlines. Emma also ___15___ phone calls to her teacher when she has questions about the material. She believes that if you ___16___ your best effort and ___17___ good study habits, academic success is possible for everyone.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "2",
+                    "answer": "make"
+                },
+                {
+                    "blank": "3",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "do"
+                },
+                {
+                    "blank": "5",
+                    "answer": "make"
+                },
+                {
+                    "blank": "6",
+                    "answer": "do"
+                },
+                {
+                    "blank": "7",
+                    "answer": "do"
+                },
+                {
+                    "blank": "8",
+                    "answer": "do"
+                },
+                {
+                    "blank": "9",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "make"
+                },
+                {
+                    "blank": "11",
+                    "answer": "making"
+                },
+                {
+                    "blank": "12",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "13",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "14",
+                    "answer": "do"
+                },
+                {
+                    "blank": "15",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "16",
+                    "answer": "do"
+                },
+                {
+                    "blank": "17",
+                    "answer": "make"
+                }
+            ],
+            "explanation": {
+                "en": "This academic context showcases student-related collocations: make sure, make the bed, make breakfast, do reading, make notes, do problems, do experiments, do exercise, make an effort, make breaks, making dinner, make study groups, do assignments, make phone calls, do your best, make good habits.",
+                "ru": "Этот академический контекст демонстрирует студенческие словосочетания: make sure, make the bed, make breakfast, do reading, make notes, do problems, do experiments, do exercise, make an effort, make breaks, making dinner, make study groups, do assignments, make phone calls, do your best, make good habits.",
+                "uz": "Bu akademik kontekst talaba bilan bog'liq so'z birikmalarini ko'rsatadi: make sure, make the bed, make breakfast, do reading, make notes, do problems, do experiments, do exercise, make an effort, make breaks, making dinner, make study groups, do assignments, make phone calls, do your best, make good habits."
+            }
+        }
+    ]
+}

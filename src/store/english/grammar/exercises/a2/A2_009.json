@@ -1,0 +1,697 @@
+{
+    "id": "A2_PAST_SIMPLE_OF_TO_BE_REVIEW_WITH_MORE_CONTEXTS",
+    "title": "Past simple of 'to be' - Review with more contexts",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They was at the park yesterday."
+                },
+                {
+                    "answer": "He were a great student."
+                },
+                {
+                    "answer": "We were very happy with the results.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of 'to be' is 'was' for singular subjects (I, he, she, it) and 'were' for plural subjects (we, you, they). The correct sentence uses 'were' with the plural subject 'we'.",
+                "ru": "Прошедшее простое время 'to be' — это 'was' для единственного числа (I, he, she, it) и 'were' для множественного числа (we, you, they). Правильное предложение использует 'were' с подлежащим множественного числа 'we'.",
+                "uz": "'To be' fe'lining o'tgan zamon shakli birlik subyektlar uchun 'was' (I, he, she, it) va ko'plik subyektlar uchun 'were' (we, you, they). To'g'ri gap 'we' ko'plik subyekti bilan 'were' shaklini ishlatadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Was you busy last night?"
+                },
+                {
+                    "answer": "Were she tired after the trip?"
+                },
+                {
+                    "answer": "Were they surprised by the news?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In questions with the past simple of 'to be', the verb comes before the subject. For the subject 'they', the correct form is 'were'.",
+                "ru": "В вопросах с прошедшим простым временем 'to be' глагол ставится перед подлежащим. Для подлежащего 'they' правильная форма — 'were'.",
+                "uz": "'To be' fe'lining o'tgan zamon shakli bilan savol tuzishda fe'l ega oldidan keladi. 'They' egasi uchun to'g'ri shakl 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She weren't at work yesterday."
+                },
+                {
+                    "answer": "She wasn't at work yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "She isn't at work yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the past simple of 'to be' is formed with 'wasn't' or 'weren't'. For the subject 'she', the correct negative form is 'wasn't'.",
+                "ru": "Отрицательная форма прошедшего простого времени 'to be' образуется с помощью 'wasn't' или 'weren't'. Для подлежащего 'she' правильная отрицательная форма — 'wasn't'.",
+                "uz": "'To be' fe'lining o'tgan zamon shaklining inkor shakli 'wasn't' yoki 'weren't' bilan yasaladi. 'She' egasi uchun to'g'ri inkor shakli 'wasn't' hisoblanadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather was beautiful last week.",
+                    "correct": true
+                },
+                {
+                    "answer": "The weather were beautiful last week."
+                },
+                {
+                    "answer": "The weather be beautiful last week."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the weather' is singular, so it requires the singular past form of 'to be', which is 'was'.",
+                "ru": "Подлежащее 'the weather' единственного числа, поэтому требуется форма 'to be' прошедшего времени в единственном числе, то есть 'was'.",
+                "uz": "'The weather' egasi birlikda bo'lganligi sababli, 'to be' fe'lining o'tgan zamon birlik shakli, ya'ni 'was' talab qilinadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The movies wasn't very exciting."
+                },
+                {
+                    "answer": "The movies weren't very exciting.",
+                    "correct": true
+                },
+                {
+                    "answer": "The movies aren't very exciting."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the movies' is plural, so it needs the plural negative form 'weren't'.",
+                "ru": "Подлежащее 'the movies' множественного числа, поэтому оно требует отрицательной формы множественного числа 'weren't'.",
+                "uz": "'The movies' egasi ko'plikda bo'lganligi sababli, 'weren't' ko'plik inkor shakli talab qilinadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They was good friends in high school."
+                },
+                {
+                    "answer": "They were good friends in high school.",
+                    "correct": true
+                },
+                {
+                    "answer": "They are goods friends in high school."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of 'to be' for the plural subject 'they' is 'were'. The sentence describes a past state.",
+                "ru": "Прошедшее простое время 'to be' для подлежащего множественного числа 'they' — это 'were'. Предложение описывает состояние в прошлом.",
+                "uz": "Ko'plikdagi 'they' egasi uchun 'to be' fe'lining o'tgan zamon shakli 'were' hisoblanadi. Gap o'tmishdagi holatni tasvirlaydi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I wasn't ready for the test.",
+                    "correct": true
+                },
+                {
+                    "answer": "I weren't ready for the test."
+                },
+                {
+                    "answer": "I didn't was ready for the test."
+                }
+            ],
+            "explanation": {
+                "en": "For the subject 'I', the correct negative past form of 'to be' is 'wasn't'. The past tense of 'to be' doesn't use the auxiliary verb 'do'.",
+                "ru": "Для подлежащего 'I' правильная отрицательная форма прошедшего времени 'to be' — 'wasn't'. Прошедшее время 'to be' не использует вспомогательный глагол 'do'.",
+                "uz": "'I' egasi uchun 'to be' fe'lining to'g'ri inkor o'tgan zamon shakli 'wasn't' hisoblanadi. 'To be' fe'lining o'tgan zamon shaklida 'do' yordamchi fe'li ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He were a doctor five years ago."
+                },
+                {
+                    "answer": "He was a doctor five years ago.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is a doctor five years ago."
+                }
+            ],
+            "explanation": {
+                "en": "The past form of 'to be' for the singular subject 'he' is 'was'. The phrase 'five years ago' clearly indicates a past time.",
+                "ru": "Прошедшая форма 'to be' для подлежащего единственного числа 'he' — это 'was'. Фраза 'five years ago' (пять лет назад) явно указывает на прошедшее время.",
+                "uz": "Birlikdagi 'he' egasi uchun 'to be' fe'lining o'tgan zamon shakli 'was'. 'Five years ago' (besh yil oldin) jumlasi aniq o'tmish vaqtini bildiradi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We were not in a hurry.",
+                    "correct": true
+                },
+                {
+                    "answer": "We wasn't in a hurry."
+                },
+                {
+                    "answer": "We be not in a hurry."
+                }
+            ],
+            "explanation": {
+                "en": "For the plural subject 'we', the correct negative past form is 'were not' or 'weren't'.",
+                "ru": "Для подлежащего множественного числа 'we' правильная отрицательная форма прошедшего времени — 'were not' или 'weren't'.",
+                "uz": "Ko'plikdagi 'we' egasi uchun 'to be' fe'lining to'g'ri inkor o'tgan zamon shakli 'were not' yoki 'weren't' hisoblanadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Where was your parents last weekend?"
+                },
+                {
+                    "answer": "Where were your parents last weekend?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where were your parent last weekend?."
+                }
+            ],
+            "explanation": {
+                "en": "'Parents' is a plural noun, so it requires the plural form 'were'. The sentence is a question, so the correct punctuation is a question mark.",
+                "ru": "'Parents' — это существительное множественного числа, поэтому оно требует формы множественного числа 'were'. Это вопрос, поэтому правильный знак препинания — вопросительный знак.",
+                "uz": "'Parents' ko'plikdagi ot bo'lganligi sababli, 'were' ko'plik shaklini talab qiladi. Gap savol bo'lganligi sababli, to'g'ri tinish belgisi savol belgisidir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be': The book ___ on the table.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be': The book ___ on the table.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: The book ___ on the table."
+            },
+            "options": [
+                {
+                    "answer": "wasn't/was not/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the book' is singular, so the correct past simple form is 'was'.",
+                "ru": "Подлежащее 'the book' — единственного числа, поэтому правильная форма прошедшего простого времени — 'was'.",
+                "uz": "'The book' egasi birlikda, shuning uchun to'g'ri o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be': They ___ at the concert last night.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be': They ___ at the concert last night.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: They ___ at the concert last night."
+            },
+            "options": [
+                {
+                    "answer": "weren't/were not/were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'they' is plural, so the correct past simple form is 'were'.",
+                "ru": "Подлежащее 'they' — множественного числа, поэтому правильная форма прошедшего простого времени — 'were'.",
+                "uz": "'They' egasi ko'plikda, shuning uchun to'g'ri o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be': She ___ a student in that class.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be': She ___ a student in that class.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: She ___ a student in that class."
+            },
+            "options": [
+                {
+                    "answer": "wasn't/was not/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'she' is singular, so the correct past simple form is 'was'.",
+                "ru": "Подлежащее 'she' — единственного числа, поэтому правильная форма прошедшего простого времени — 'was'.",
+                "uz": "'She' egasi birlikda, shuning uchun to'g'ri o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be' (negative): He ___ happy with the result.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be' (отрицательная форма): He ___ happy with the result.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli (inkor) bilan to'ldiring: He ___ happy with the result."
+            },
+            "options": [
+                {
+                    "answer": "wasn't/was not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'he' is singular, so the negative form is 'wasn't' or 'was not'.",
+                "ru": "Подлежащее 'he' — единственного числа, поэтому отрицательная форма — 'wasn't' или 'was not'.",
+                "uz": "'He' egasi birlikda, shuning uchun inkor shakli 'wasn't' yoki 'was not' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question with the past simple of 'to be': ___ you late for the meeting?",
+                "ru": "Дополните вопрос прошедшим простым временем 'to be': ___ you late for the meeting?",
+                "uz": "Savolni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: ___ you late for the meeting?"
+            },
+            "options": [
+                {
+                    "answer": "Were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In a question with the subject 'you', the correct past simple form of 'to be' is 'were'.",
+                "ru": "В вопросе с подлежащим 'you' правильная форма прошедшего простого времени 'to be' — 'were'.",
+                "uz": "'You' egasi bilan savol tuzishda 'to be' fe'lining to'g'ri o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be' (negative): The children ___ quiet in the library.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be' (отрицательная форма): The children ___ quiet in the library.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli (inkor) bilan to'ldiring: The children ___ quiet in the library."
+            },
+            "options": [
+                {
+                    "answer": "weren't/were not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the children' is plural, so the negative form is 'weren't' or 'were not'.",
+                "ru": "Подлежащее 'the children' — множественного числа, поэтому отрицательная форма — 'weren't' или 'were not'.",
+                "uz": "'The children' egasi ko'plikda, shuning uchun inkor shakli 'weren't' yoki 'were not' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be': My sister ___ a very good swimmer when she was young.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be': My sister ___ a very good swimmer when she was young.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: My sister ___ a very good swimmer when she was young."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my sister' is singular, so the correct past simple form is 'was'.",
+                "ru": "Подлежащее 'my sister' — единственного числа, поэтому правильная форма прошедшего простого времени — 'was'.",
+                "uz": "'My sister' egasi birlikda, shuning uchun to'g'ri o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question with the past simple of 'to be': ___ the party fun?",
+                "ru": "Дополните вопрос прошедшим простым временем 'to be': ___ the party fun?",
+                "uz": "Savolni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: ___ the party fun?"
+            },
+            "options": [
+                {
+                    "answer": "Was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the party' is singular, so the correct form for the question is 'Was'.",
+                "ru": "Подлежащее 'the party' — единственного числа, поэтому правильная форма для вопроса — 'Was'.",
+                "uz": "'The party' egasi birlikda, shuning uchun savol uchun to'g'ri shakl 'Was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple of 'to be': We ___ very cold last night.",
+                "ru": "Дополните предложение прошедшим простым временем 'to be': We ___ very cold last night.",
+                "uz": "Gapni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: We ___ very cold last night."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'we' is plural, so the correct past simple form is 'were'.",
+                "ru": "Подлежащее 'we' — множественного числа, поэтому правильная форма прошедшего простого времени — 'were'.",
+                "uz": "'We' egasi ko'plikda, shuning uchun to'g'ri o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question with the past simple of 'to be': How ___ the movie?",
+                "ru": "Дополните вопрос прошедшим простым временем 'to be': How ___ the movie?",
+                "uz": "Savolni 'to be' fe'lining o'tgan zamon shakli bilan to'ldiring: How ___ the movie?"
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the movie' is singular, so the correct form for the question is 'was'.",
+                "ru": "Подлежащее 'the movie' — единственного числа, поэтому правильная форма для вопроса — 'was'.",
+                "uz": "'The movie' egasi birlikda, shuning uchun savol uchun to'g'ri shakl 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last summer, my family and I ___1___ on vacation. My sister and I ___2___ very excited. We ___3___ in a small house near the beach. The weather ___4___ fantastic. The sun ___5___ shining every day, and the sky ___6___ always clear. My parents ___7___ happy that we ___8___ enjoying ourselves. My little brother, who ___9___ not very good at swimming, ___10___ surprised by how warm the water ___11___. We ___12___ not bored at all. There ___13___ so many things to do. The people in the town ___14___ also very friendly. It ___15___ a perfect holiday.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "were"
+                },
+                {
+                    "blank": "2",
+                    "answer": "were"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was"
+                },
+                {
+                    "blank": "10",
+                    "answer": "was"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was"
+                },
+                {
+                    "blank": "12",
+                    "answer": "were"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were"
+                },
+                {
+                    "blank": "14",
+                    "answer": "were"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses the past simple of 'to be' to describe a past vacation. 'Was' is used for singular subjects (the weather, the sun, the sky, who, the water, it), and 'were' is used for plural subjects (my family and I, my sister and I, we, my parents, there, the people).",
+                "ru": "Этот текст использует прошедшее простое время 'to be' для описания прошлого отпуска. 'Was' используется для подлежащих в единственном числе (the weather, the sun, the sky, who, the water, it), а 'were' — для подлежащих во множественном числе (my family and I, my sister and I, we, my parents, there, the people).",
+                "uz": "Ushbu matn o'tgan ta'tilni tasvirlash uchun 'to be' fe'lining o'tgan zamon shaklidan foydalanadi. 'Was' birlikdagi subyektlar uchun (the weather, the sun, the sky, who, the water, it) va 'were' ko'plikdagi subyektlar uchun (my family and I, my sister and I, we, my parents, there, the people) ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last month, I ___1___ on a business trip. It ___2___ a long journey, and I ___3___ not very happy to travel alone. My colleagues, Jane and Mark, ___4___ with me. They ___5___ a little nervous about the presentation. The flight ___6___ delayed, so we ___7___ late for the meeting. The first few hours ___8___ difficult, but then everything ___9___ fine. The clients ___10___ very nice, and they ___11___ happy with our project. The hotel room ___12___ spacious and comfortable. It ___13___ a great trip in the end. We ___14___ very productive, and our boss ___15___ pleased with our work.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "was"
+                },
+                {
+                    "blank": "4",
+                    "answer": "were"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was"
+                },
+                {
+                    "blank": "10",
+                    "answer": "were"
+                },
+                {
+                    "blank": "11",
+                    "answer": "were"
+                },
+                {
+                    "blank": "12",
+                    "answer": "was"
+                },
+                {
+                    "blank": "13",
+                    "answer": "was"
+                },
+                {
+                    "blank": "14",
+                    "answer": "were"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses the past simple of 'to be' to describe a past business trip. 'Was' is used for singular subjects (I, it, the flight, everything, the hotel room, our boss), and 'were' is used for plural subjects (Jane and Mark, they, we, the first few hours, the clients).",
+                "ru": "Этот текст использует прошедшее простое время 'to be' для описания прошлой деловой поездки. 'Was' используется для подлежащих в единственном числе (I, it, the flight, everything, the hotel room, our boss), а 'were' — для подлежащих во множественном числе (Jane and Mark, they, we, the first few hours, the clients).",
+                "uz": "Ushbu matn o'tgan ish safari haqida hikoya qilish uchun 'to be' fe'lining o'tgan zamon shaklidan foydalanadi. 'Was' birlikdagi subyektlar (I, it, the flight, everything, the hotel room, our boss) uchun va 'were' ko'plikdagi subyektlar (Jane and Mark, they, we, the first few hours, the clients) uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The school play last week ___1___ a great success. It ___2___ a comedy, and all the actors ___3___ brilliant. I ___4___ not in the play myself, but I ___5___ a volunteer backstage. The stagehands ___6___ very busy. They ___7___ responsible for the props. The costumes ___8___ colorful and the music ___9___ perfect. All the students and teachers ___10___ so proud. The director ___11___ very happy with the performance, and he said that we ___12___ an amazing team. The audience ___13___ very supportive and the applause ___14___ loud and long. Everyone ___15___ happy about the result.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was"
+                },
+                {
+                    "blank": "6",
+                    "answer": "were"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was"
+                },
+                {
+                    "blank": "10",
+                    "answer": "were"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was"
+                },
+                {
+                    "blank": "12",
+                    "answer": "were"
+                },
+                {
+                    "blank": "13",
+                    "answer": "was"
+                },
+                {
+                    "blank": "14",
+                    "answer": "was"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was"
+                }
+            ],
+            "explanation": {
+                "en": "This passage describes a past event using the past simple of 'to be'. 'Was' is used for singular subjects (the school play, it, I, the music, the director, the audience, the applause, everyone) and 'were' is used for plural subjects (the actors, the stagehands, they, the costumes, the students and teachers, we).",
+                "ru": "Этот текст описывает прошлое событие с помощью прошедшего простого времени 'to be'. 'Was' используется для подлежащих в единственном числе (the school play, it, I, the music, the director, the audience, the applause, everyone), а 'were' — для подлежащих во множественном числе (the actors, the stagehands, they, the costumes, the students and teachers, we).",
+                "uz": "Ushbu matn o'tgan voqeani 'to be' fe'lining o'tgan zamon shakli bilan tasvirlaydi. 'Was' birlikdagi subyektlar (the school play, it, I, the music, the director, the audience, the applause, everyone) uchun va 'were' ko'plikdagi subyektlar (the actors, the stagehands, they, the costumes, the students and teachers, we) uchun ishlatiladi."
+            }
+        }
+    ]
+}

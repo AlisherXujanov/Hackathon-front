@@ -1,0 +1,831 @@
+{
+    "id": "A1_ADVERBS_OF_MANNER_OR_ADJECTIVES",
+    "title": "Adverbs of Manner (slowly) or Adjectives (slow) - Basic distinction",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is a slow runner.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is a slowly runner."
+                },
+                {
+                    "answer": "He runs slow."
+                }
+            ],
+            "explanation": {
+                "en": "We use an adjective like 'slow' to describe a noun, such as 'runner.' The adverb 'slowly' describes a verb.",
+                "ru": "Мы используем прилагательное 'slow' для описания существительного, например 'runner'. Наречие 'slowly' описывает глагол.",
+                "uz": "Biz 'slow' sifatini 'runner' kabi otni ta'riflash uchun ishlatamiz. 'Slowly' ravishi fe'lni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She speaks soft."
+                },
+                {
+                    "answer": "She speaks softly.",
+                    "correct": true
+                },
+                {
+                    "answer": "Her voice is softly."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'softly' is used to describe how she speaks (the verb 'speaks'). 'Soft' is an adjective and describes a noun.",
+                "ru": "Наречие 'softly' используется, чтобы описать, как она говорит (глагол 'speaks'). 'Soft' — это прилагательное и описывает существительное.",
+                "uz": "'Softly' ravishi uning qanday gapirishini ('speaks' fe'lini) ta'riflash uchun ishlatiladi. 'Soft' sifat bo'lib, otni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The music is loud.",
+                    "correct": true
+                },
+                {
+                    "answer": "The music is loudly."
+                },
+                {
+                    "answer": "The music loudly plays."
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'loud' is used to describe the noun 'music.' The verb 'is' connects the subject to the adjective. 'Loudly' would describe an action verb.",
+                "ru": "Прилагательное 'loud' используется для описания существительного 'music'. Глагол 'is' соединяет подлежащее с прилагательным. 'Loudly' описывало бы глагол действия.",
+                "uz": "'Loud' sifati 'music' otini ta'riflash uchun ishlatiladi. 'Is' fe'li egasini sifat bilan bog'laydi. 'Loudly' harakat fe'lini ta'riflaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The brave soldier fought brave."
+                },
+                {
+                    "answer": "The soldier fought bravely.",
+                    "correct": true
+                },
+                {
+                    "answer": "The soldier bravely fight."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'bravely' is needed to describe the action of fighting (the verb 'fought'). 'Brave' is an adjective and describes a noun.",
+                "ru": "Наречие 'bravely' необходимо для описания действия борьбы (глагол 'fought'). 'Brave' - это прилагательное и описывает существительное.",
+                "uz": "'Bravely' ravishi jang qilish harakatini ('fought' fe'lini) ta'riflash uchun kerak. 'Brave' sifat bo'lib, otni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is a quickly car."
+                },
+                {
+                    "answer": "This is a quick car.",
+                    "correct": true
+                },
+                {
+                    "answer": "This car drives quick."
+                }
+            ],
+            "explanation": {
+                "en": "'Quick' is an adjective that describes the noun 'car.' The adverb 'quickly' is needed to describe a verb.",
+                "ru": "'Quick' — это прилагательное, которое описывает существительное 'car'. Наречие 'quickly' необходимо для описания глагола.",
+                "uz": "'Quick' bu 'car' otini ta'riflovchi sifat. 'Quickly' ravishi fe'lni ta'riflash uchun kerak."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The test was easily."
+                },
+                {
+                    "answer": "The test was easy.",
+                    "correct": true
+                },
+                {
+                    "answer": "I passed the test easy."
+                }
+            ],
+            "explanation": {
+                "en": "'Easy' is an adjective used here to describe the noun 'test.' 'Easily' is an adverb and would be used to describe an action.",
+                "ru": "'Easy' — это прилагательное, используемое здесь для описания существительного 'test'. 'Easily' — это наречие и будет использоваться для описания действия.",
+                "uz": "'Easy' bu yerda 'test' otini ta'riflash uchun ishlatilgan sifat. 'Easily' esa ravish bo'lib, harakatni ta'riflash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The children sang happy."
+                },
+                {
+                    "answer": "The children sang happily.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children are happily."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'happily' describes how the children sang, which is the verb. 'Happy' is an adjective and describes a noun.",
+                "ru": "Наречие 'happily' описывает, как дети пели, что является глаголом. 'Happy' — это прилагательное и описывает существительное.",
+                "uz": "'Happily' ravishi bolalarning qanday kuylaganini (fe'lni) ta'riflaydi. 'Happy' sifat bo'lib, otni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is a goodly swimmer."
+                },
+                {
+                    "answer": "She swims good."
+                },
+                {
+                    "answer": "She swims well.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To describe the verb 'swims,' we need the adverb 'well.' 'Good' is an adjective used to describe a noun.",
+                "ru": "Чтобы описать глагол 'swims', нам нужно наречие 'well'. 'Good' — это прилагательное, используемое для описания существительного.",
+                "uz": "'Swims' fe'lini ta'riflash uchun bizga 'well' ravishi kerak. 'Good' otni ta'riflash uchun ishlatiladigan sifatdir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am a badly writer."
+                },
+                {
+                    "answer": "I write bad."
+                },
+                {
+                    "answer": "I write badly.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'badly' is used to describe the verb 'write.' 'Bad' is an adjective.",
+                "ru": "Наречие 'badly' используется для описания глагола 'write'. 'Bad' — это прилагательное.",
+                "uz": "'Badly' ravishi 'write' fe'lini ta'riflash uchun ishlatiladi. 'Bad' sifatdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is a loudly person."
+                },
+                {
+                    "answer": "He speaks loud."
+                },
+                {
+                    "answer": "He is a loud person.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'loud' is used to describe the noun 'person.' 'Loudly' is an adverb used to describe a verb.",
+                "ru": "Прилагательное 'loud' используется для описания существительного 'person'. 'Loudly' — это наречие, используемое для описания глагола.",
+                "uz": "'Loud' sifati 'person' otini ta'riflash uchun ishlatiladi. 'Loudly' ravish bo'lib, fe'lni ta'riflash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'quiet': The students are working ___.",
+                "ru": "Дополните предложение правильной формой 'quiet': The students are working ___.",
+                "uz": "Gapni 'quiet' so'zining to'g'ri shakli bilan to'ldiring: The students are working ___."
+            },
+            "options": [
+                {
+                    "answer": "quietly",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'quietly' describes how the students are working (the verb 'working').",
+                "ru": "Наречие 'quietly' описывает, как студенты работают (глагол 'working').",
+                "uz": "'Quietly' ravishi talabalarning qanday ishlayotganini ('working' fe'lini) ta'riflaydi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'easy': This is an ___ test.",
+                "ru": "Дополните предложение правильной формой 'easy': This is an ___ test.",
+                "uz": "Gapni 'easy' so'zining to'g'ri shakli bilan to'ldiring: This is an ___ test."
+            },
+            "options": [
+                {
+                    "answer": "easy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'easy' describes the noun 'test.'",
+                "ru": "Прилагательное 'easy' описывает существительное 'test'.",
+                "uz": "'Easy' sifati 'test' otini ta'riflaydi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'careful': She drives a car very ___.",
+                "ru": "Дополните предложение правильной формой 'careful': She drives a car very ___.",
+                "uz": "Gapni 'careful' so'zining to'g'ri shakli bilan to'ldiring: She drives a car very ___."
+            },
+            "options": [
+                {
+                    "answer": "carefully",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'carefully' describes how she drives (the verb 'drives').",
+                "ru": "Наречие 'carefully' описывает, как она водит (глагол 'drives').",
+                "uz": "'Carefully' ravishi uning qanday haydashini ('drives' fe'lini) ta'riflaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'happy': He is a ___ boy.",
+                "ru": "Дополните предложение правильной формой 'happy': He is a ___ boy.",
+                "uz": "Gapni 'happy' so'zining to'g'ri shakli bilan to'ldiring: He is a ___ boy."
+            },
+            "options": [
+                {
+                    "answer": "happy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'happy' is used to describe the noun 'boy.'",
+                "ru": "Прилагательное 'happy' используется для описания существительного 'boy'.",
+                "uz": "'Happy' sifati 'boy' otini ta'riflash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'good': The food tastes ___.",
+                "ru": "Дополните предложение правильной формой 'good': The food tastes ___.",
+                "uz": "Gapni 'good' so'zining to'g'ri shakli bilan to'ldiring: The food tastes ___."
+            },
+            "options": [
+                {
+                    "answer": "good",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With a verb of sense like 'tastes,' we use an adjective 'good' to describe the subject.",
+                "ru": "С глаголом восприятия, таким как 'tastes', мы используем прилагательное 'good' для описания подлежащего.",
+                "uz": "'Tastes' kabi his fe'li bilan, biz ega ta'riflash uchun 'good' sifatini ishlatamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'quick': He ran to the store ___.",
+                "ru": "Дополните предложение правильной формой 'quick': He ran to the store ___.",
+                "uz": "Gapni 'quick' so'zining to'g'ri shakli bilan to'ldiring: He ran to the store ___."
+            },
+            "options": [
+                {
+                    "answer": "quickly",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'quickly' is used to describe how he ran, which is the verb.",
+                "ru": "Наречие 'quickly' используется для описания того, как он бежал, что является глаголом.",
+                "uz": "'Quickly' ravishi uning qanday yugurganini ta'riflash uchun ishlatiladi, bu fe'ldir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'loud': The music is very ___.",
+                "ru": "Дополните предложение правильной формой 'loud': The music is very ___.",
+                "uz": "Gapni 'loud' so'zining to'g'ri shakli bilan to'ldiring: The music is very ___."
+            },
+            "options": [
+                {
+                    "answer": "loud",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'loud' describes the noun 'music.' 'Loudly' is an adverb.",
+                "ru": "Прилагательное 'loud' описывает существительное 'music'. 'Loudly' — это наречие.",
+                "uz": "'Loud' sifati 'music' otini ta'riflaydi. 'Loudly' ravishdir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'bad': The cat smells very ___.",
+                "ru": "Дополните предложение правильной формой 'bad': The cat smells very ___.",
+                "uz": "Gapni 'bad' so'zining to'g'ri shakli bilan to'ldiring: The cat smells very ___."
+            },
+            "options": [
+                {
+                    "answer": "bad",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With a verb of sense like 'smells,' we use an adjective 'bad' to describe the subject.",
+                "ru": "С глаголом восприятия, таким как 'smells', мы используем прилагательное 'bad' для описания подлежащего.",
+                "uz": "'Smells' kabi his fe'li bilan, biz ega ta'riflash uchun 'bad' sifatini ishlatamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'careful': He is a ___ driver.",
+                "ru": "Дополните предложение правильной формой 'careful': He is a ___ driver.",
+                "uz": "Gapni 'careful' so'zining to'g'ri shakli bilan to'ldiring: He is a ___ driver."
+            },
+            "options": [
+                {
+                    "answer": "careful",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adjective 'careful' is used to describe the noun 'driver.'",
+                "ru": "Прилагательное 'careful' используется для описания существительного 'driver'.",
+                "uz": "'Careful' sifati 'driver' otini ta'riflash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of 'slow': The turtle walks ___.",
+                "ru": "Дополните предложение правильной формой 'slow': The turtle walks ___.",
+                "uz": "Gapni 'slow' so'zining to'g'ri shakli bilan to'ldiring: The turtle walks ___."
+            },
+            "options": [
+                {
+                    "answer": "slowly",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'slowly' describes how the turtle walks (the verb 'walks').",
+                "ru": "Наречие 'slowly' описывает, как черепаха ходит (глагол 'walks').",
+                "uz": "'Slowly' ravishi toshbaqaning qanday yurishini ('walks' fe'lini) ta'riflaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My cat, Mimi, is a ___1___ pet. She is very ___2___ and always sleeps ___3___. When she is ___4___, she plays ___5___ with her toys. Mimi can jump very ___6___ and is a ___7___ hunter. One day, a mouse ran ___8___ across the floor. Mimi moved ___9___ and caught it. It was a ___10___ capture. Mimi is a ___11___ cat and a ___12___ friend. She is a very ___13___ part of our family and makes us feel ___14___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "lovely"
+                },
+                {
+                    "blank": "2",
+                    "answer": "lazy"
+                },
+                {
+                    "blank": "3",
+                    "answer": "soundly"
+                },
+                {
+                    "blank": "4",
+                    "answer": "active"
+                },
+                {
+                    "blank": "5",
+                    "answer": "happily"
+                },
+                {
+                    "blank": "6",
+                    "answer": "high"
+                },
+                {
+                    "blank": "7",
+                    "answer": "good"
+                },
+                {
+                    "blank": "8",
+                    "answer": "quickly"
+                },
+                {
+                    "blank": "9",
+                    "answer": "quickly"
+                },
+                {
+                    "blank": "10",
+                    "answer": "quick"
+                },
+                {
+                    "blank": "11",
+                    "answer": "beautiful"
+                },
+                {
+                    "blank": "12",
+                    "answer": "great"
+                },
+                {
+                    "blank": "13",
+                    "answer": "important"
+                },
+                {
+                    "blank": "14",
+                    "answer": "happy"
+                }
+            ],
+            "explanation": {
+                "en": "The adjectives 'lovely,' 'lazy,' 'active,' 'good,' 'quick,' 'beautiful,' 'great,' 'important,' and 'happy' describe nouns like 'pet' and 'hunter.' The adverbs 'soundly' and 'quickly' describe verbs like 'sleeps' and 'ran.'",
+                "ru": "Прилагательные 'lovely', 'lazy', 'active', 'good', 'quick', 'beautiful', 'great', 'important' и 'happy' описывают существительные, такие как 'pet' и 'hunter'. Наречия 'soundly' и 'quickly' описывают глаголы, такие как 'sleeps' и 'ran'.",
+                "uz": "'lovely', 'lazy', 'active', 'good', 'quick', 'beautiful', 'great', 'important' va 'happy' sifatlari 'pet' va 'hunter' kabi otlarni ta'riflaydi. 'soundly' va 'quickly' ravishlari 'sleeps' va 'ran' kabi fe'llarni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Mr. Jones is a very ___1___ artist. He paints ___2___ pictures with many ___3___ colors. He works ___4___ every day. He listens to ___5___ music while he paints. He works ___6___ and always takes his time. His students are very ___7___ to learn from him. They listen to him ___8___ and try to paint ___9___. One student, Leo, is a very ___10___ painter. He works ___11___ and his pictures look ___12___. Mr. Jones says that Leo is a ___13___ student and will be a ___14___ artist.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "famous"
+                },
+                {
+                    "blank": "2",
+                    "answer": "beautiful"
+                },
+                {
+                    "blank": "3",
+                    "answer": "bright"
+                },
+                {
+                    "blank": "4",
+                    "answer": "hard"
+                },
+                {
+                    "blank": "5",
+                    "answer": "soft"
+                },
+                {
+                    "blank": "6",
+                    "answer": "patiently"
+                },
+                {
+                    "blank": "7",
+                    "answer": "happy"
+                },
+                {
+                    "blank": "8",
+                    "answer": "carefully"
+                },
+                {
+                    "blank": "9",
+                    "answer": "well"
+                },
+                {
+                    "blank": "10",
+                    "answer": "good"
+                },
+                {
+                    "blank": "11",
+                    "answer": "diligently"
+                },
+                {
+                    "blank": "12",
+                    "answer": "good"
+                },
+                {
+                    "blank": "13",
+                    "answer": "talented"
+                },
+                {
+                    "blank": "14",
+                    "answer": "famous"
+                }
+            ],
+            "explanation": {
+                "en": "Adjectives like 'famous,' 'beautiful,' 'bright,' 'soft,' 'happy,' 'good,' 'talented' describe nouns or subjects. Adverbs like 'hard,' 'patiently,' 'carefully,' 'well,' and 'diligently' describe verbs.",
+                "ru": "Прилагательные 'famous', 'beautiful', 'bright', 'soft', 'happy', 'good', 'talented' описывают существительные или подлежащие. Наречия 'hard', 'patiently', 'carefully', 'well' и 'diligently' описывают глаголы.",
+                "uz": "'famous', 'beautiful', 'bright', 'soft', 'happy', 'good', 'talented' kabi sifatlar otlarni yoki egani ta'riflaydi. 'hard', 'patiently', 'carefully', 'well' va 'diligently' kabi ravishlar fe'llarni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The students are getting ready for the school play. They are all very ___1___. The main actress, Lily, is a ___2___ singer. She sings her songs ___3___. The director speaks ___4___ to everyone, so they can hear him ___5___. The actors must act ___6___ to show their emotions. They practice ___7___ every day. It is a very ___8___ play. They hope the audience will feel ___9___. The play is about a ___10___ traveler who travels ___11___. He meets a ___12___ king and learns to live ___13___. The actors bow ___14___ at the end.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "excited"
+                },
+                {
+                    "blank": "2",
+                    "answer": "great"
+                },
+                {
+                    "blank": "3",
+                    "answer": "beautifully"
+                },
+                {
+                    "blank": "4",
+                    "answer": "loudly"
+                },
+                {
+                    "blank": "5",
+                    "answer": "well"
+                },
+                {
+                    "blank": "6",
+                    "answer": "dramatically"
+                },
+                {
+                    "blank": "7",
+                    "answer": "diligently"
+                },
+                {
+                    "blank": "8",
+                    "answer": "long"
+                },
+                {
+                    "blank": "9",
+                    "answer": "happy"
+                },
+                {
+                    "blank": "10",
+                    "answer": "brave"
+                },
+                {
+                    "blank": "11",
+                    "answer": "far"
+                },
+                {
+                    "blank": "12",
+                    "answer": "wise"
+                },
+                {
+                    "blank": "13",
+                    "answer": "simply"
+                },
+                {
+                    "blank": "14",
+                    "answer": "respectfully"
+                }
+            ],
+            "explanation": {
+                "en": "Adjectives such as 'excited,' 'great,' 'long,' 'happy,' 'brave,' and 'wise' describe nouns. Adverbs such as 'beautifully,' 'loudly,' 'well,' 'dramatically,' 'diligently,' 'far,' 'simply,' and 'respectfully' describe verbs.",
+                "ru": "Прилагательные 'excited', 'great', 'long', 'happy', 'brave' и 'wise' описывают существительные. Наречия 'beautifully', 'loudly', 'well', 'dramatically', 'diligently', 'far', 'simply' и 'respectfully' описывают глаголы.",
+                "uz": "'excited', 'great', 'long', 'happy', 'brave' va 'wise' kabi sifatlar otlarni ta'riflaydi. 'beautifully', 'loudly', 'well', 'dramatically', 'diligently', 'far', 'simply' va 'respectfully' kabi ravishlar fe'llarni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My grandmother is a very ___1___ person. She always speaks ___2___ and smiles ___3___. She is a ___4___ cook and makes ___5___ food. I eat the food ___6___. She moves ___7___ because she is old. Her movements are very ___8___. She is always ___9___ to help me with my homework. She explains things ___10___ and makes me feel ___11___. I am so ___12___ to have her in my life. She is a very ___13___ person and I love her ___14___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "kind"
+                },
+                {
+                    "blank": "2",
+                    "answer": "softly"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sweetly"
+                },
+                {
+                    "blank": "4",
+                    "answer": "great"
+                },
+                {
+                    "blank": "5",
+                    "answer": "delicious"
+                },
+                {
+                    "blank": "6",
+                    "answer": "happily"
+                },
+                {
+                    "blank": "7",
+                    "answer": "slowly"
+                },
+                {
+                    "blank": "8",
+                    "answer": "slow"
+                },
+                {
+                    "blank": "9",
+                    "answer": "willing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "clearly"
+                },
+                {
+                    "blank": "11",
+                    "answer": "safe"
+                },
+                {
+                    "blank": "12",
+                    "answer": "lucky"
+                },
+                {
+                    "blank": "13",
+                    "answer": "wonderful"
+                },
+                {
+                    "blank": "14",
+                    "answer": "dearly"
+                }
+            ],
+            "explanation": {
+                "en": "Adjectives like 'kind,' 'great,' 'delicious,' 'slow,' 'willing,' 'safe,' 'lucky,' and 'wonderful' describe nouns. Adverbs like 'softly,' 'sweetly,' 'happily,' 'slowly,' 'clearly,' and 'dearly' describe verbs.",
+                "ru": "Прилагательные 'kind', 'great', 'delicious', 'slow', 'willing', 'safe', 'lucky' и 'wonderful' описывают существительные. Наречия 'softly', 'sweetly', 'happily', 'slowly', 'clearly' и 'dearly' описывают глаголы.",
+                "uz": "'kind', 'great', 'delicious', 'slow', 'willing', 'safe', 'lucky' va 'wonderful' kabi sifatlar otlarni ta'riflaydi. 'softly', 'sweetly', 'happily', 'slowly', 'clearly' va 'dearly' kabi ravishlar fe'llarni ta'riflaydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The dog is a ___1___ friend to our family. He runs ___2___ when we play in the park. His fur feels very ___3___. When he is sad, he looks at us ___4___. He is a very ___5___ dog and we love him very ___6___. He can jump very ___7___ and can run ___8___. He is a ___9___ dog, and he eats ___10___. He is a ___11___ part of our family and we are so ___12___ to have him. He is a ___13___ dog who always stays ___14___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "loyal"
+                },
+                {
+                    "blank": "2",
+                    "answer": "quickly"
+                },
+                {
+                    "blank": "3",
+                    "answer": "soft"
+                },
+                {
+                    "blank": "4",
+                    "answer": "sadly"
+                },
+                {
+                    "blank": "5",
+                    "answer": "playful"
+                },
+                {
+                    "blank": "6",
+                    "answer": "much"
+                },
+                {
+                    "blank": "7",
+                    "answer": "high"
+                },
+                {
+                    "blank": "8",
+                    "answer": "fast"
+                },
+                {
+                    "blank": "9",
+                    "answer": "hungry"
+                },
+                {
+                    "blank": "10",
+                    "answer": "greedily"
+                },
+                {
+                    "blank": "11",
+                    "answer": "good"
+                },
+                {
+                    "blank": "12",
+                    "answer": "lucky"
+                },
+                {
+                    "blank": "13",
+                    "answer": "quiet"
+                },
+                {
+                    "blank": "14",
+                    "answer": "calmly"
+                }
+            ],
+            "explanation": {
+                "en": "Adjectives like 'loyal,' 'soft,' 'playful,' 'hungry,' 'good,' 'lucky,' and 'quiet' describe nouns or subjects. Adverbs like 'quickly,' 'sadly,' 'much,' 'high,' 'fast,' 'greedily,' and 'calmly' describe verbs.",
+                "ru": "Прилагательные 'loyal', 'soft', 'playful', 'hungry', 'good', 'lucky' и 'quiet' описывают существительные или подлежащие. Наречия 'quickly', 'sadly', 'much', 'high', 'fast', 'greedily' и 'calmly' описывают глаголы.",
+                "uz": "'loyal', 'soft', 'playful', 'hungry', 'good', 'lucky' va 'quiet' kabi sifatlar otlarni yoki egani ta'riflaydi. 'quickly', 'sadly', 'much', 'high', 'fast', 'greedily' va 'calmly' kabi ravishlar fe'llarni ta'riflaydi."
+            }
+        }
+    ]
+}

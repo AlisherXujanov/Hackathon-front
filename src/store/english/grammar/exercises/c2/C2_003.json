@@ -1,0 +1,543 @@
+{
+    "id": "C2_COMPLEX_SYNTACTIC_STRUCTURES_SOPHISTICATED_SENTENCE_ARCHITECTURE",
+    "title": "Complex syntactic structures - Sophisticated sentence architecture",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Having been thoroughly investigated, the committee found the allegations to be groundless."
+                },
+                {
+                    "answer": "Having thoroughly investigated, the committee found the allegations to be groundless.",
+                    "correct": true
+                },
+                {
+                    "answer": "Having been thoroughly investigating, the committee found the allegations to be groundless."
+                }
+            ],
+            "explanation": {
+                "en": "The participle clause requires the active perfect form 'having investigated' when the subject performs the action, not the passive 'having been investigated'.",
+                "ru": "Причастный оборот требует активной перфектной формы 'having investigated', когда подлежащее выполняет действие, а не пассивной 'having been investigated'.",
+                "uz": "Sifatdosh iborasi sub'ekt harakatni bajarganida aktiv perfekt shakli 'having investigated' talab qiladi, passiv 'having been investigated' emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct use of a cleft construction?",
+                "ru": "Какое предложение демонстрирует правильное использование расщепленной конструкции?",
+                "uz": "Qaysi gap bo'lingan konstruksiyaning to'g'ri ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "It was the manager who made the decision that surprised everyone.",
+                    "correct": true
+                },
+                {
+                    "answer": "It was the manager whom made the decision that surprised everyone."
+                },
+                {
+                    "answer": "It was the manager which made the decision that surprised everyone."
+                }
+            ],
+            "explanation": {
+                "en": "In cleft constructions with 'it was...who', use 'who' for people in subject position, not 'whom' or 'which'.",
+                "ru": "В расщепленных конструкциях с 'it was...who' используется 'who' для людей в позиции подлежащего, а не 'whom' или 'which'.",
+                "uz": "It was...who bilan bo'lingan konstruksiyalarda sub'ekt pozitsiyasidagi odamlar uchun 'who' ishlatiladi, 'whom' yoki 'which' emas."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence with correct inversion after a negative adverbial.",
+                "ru": "Выберите предложение с правильной инверсией после отрицательного наречия.",
+                "uz": "Salbiy ravish so'zidan keyin to'g'ri inversiya qilingan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Never before had we witnessed such extraordinary phenomena."
+                },
+                {
+                    "answer": "Never before we had witnessed such extraordinary phenomena."
+                },
+                {
+                    "answer": "Never before have we witnessed such extraordinary phenomena.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After negative adverbials like 'never before', use present perfect with inversion: 'have we witnessed', not past perfect 'had we witnessed'.",
+                "ru": "После отрицательных наречий как 'never before' используется Present Perfect с инверсией: 'have we witnessed', а не Past Perfect 'had we witnessed'.",
+                "uz": "'never before' kabi salbiy ravish so'zlardan keyin inversiya bilan Present Perfect ishlatiladi: 'have we witnessed', Past Perfect 'had we witnessed' emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the correct subjunctive construction.",
+                "ru": "Выберите предложение с правильной конструкцией сослагательного наклонения.",
+                "uz": "To'g'ri subjunktiv konstruksiyali gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The board insisted that the proposal be reviewed immediately.",
+                    "correct": true
+                },
+                {
+                    "answer": "The board insisted that the proposal is reviewed immediately."
+                },
+                {
+                    "answer": "The board insisted that the proposal was reviewed immediately."
+                }
+            ],
+            "explanation": {
+                "en": "After verbs of insistence like 'insisted', use the subjunctive form 'be' rather than indicative 'is' or 'was'.",
+                "ru": "После глаголов настояния как 'insisted' используется сослагательная форма 'be', а не изъявительная 'is' или 'was'.",
+                "uz": "'insisted' kabi talab bildiruvchi fe'llardan keyin ko'rsatkich 'is' yoki 'was' emas, balki subjunktiv 'be' shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses a nominative absolute construction?",
+                "ru": "Какое предложение правильно использует абсолютную номинативную конструкцию?",
+                "uz": "Qaysi gap nominativ absolyut konstruksiyasini to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "Weather permitting, we shall proceed with the outdoor ceremony."
+                },
+                {
+                    "answer": "Weather permits, we shall proceed with the outdoor ceremony."
+                },
+                {
+                    "answer": "Weather permitted, we shall proceed with the outdoor ceremony.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nominative absolute constructions use the past participle 'permitted' to express condition, not the present participle 'permitting' or finite verb 'permits'.",
+                "ru": "Абсолютные номинативные конструкции используют причастие прошедшего времени 'permitted' для выражения условия, а не причастие настоящего 'permitting' или финитный глагол 'permits'.",
+                "uz": "Nominativ absolyut konstruksiyalar shart ifodalaash uchun o'tgan zamon sifatdoshi 'permitted' ishlatadi, hozirgi zamon sifatdoshi 'permitting' yoki chekli fe'l 'permits' emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct complex sentence.",
+                "ru": "Выберите грамматически правильное сложное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri murakkab gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What concerns me most is whether the data upon which these conclusions are based is reliable.",
+                    "correct": true
+                },
+                {
+                    "answer": "What concerns me most is whether the data upon which these conclusions are based are reliable."
+                },
+                {
+                    "answer": "What concerns me most are whether the data upon which these conclusions are based is reliable."
+                }
+            ],
+            "explanation": {
+                "en": "The plural noun 'data' requires the plural verb 'are', and the singular subject 'what concerns me most' takes the singular verb 'is'.",
+                "ru": "Множественное существительное 'data' требует множественного глагола 'are', а единственное подлежащее 'what concerns me most' принимает единственный глагол 'is'.",
+                "uz": "Ko'plik ot 'data' ko'plik fe'li 'are' talab qiladi, va birlik sub'ekti 'what concerns me most' birlik fe'li 'is' oladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with correct use of the conditional perfect.",
+                "ru": "Выберите предложение с правильным использованием условного перфекта.",
+                "uz": "Shartli perfekt shaklining to'g'ri ishlatilgan gapini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Had I known about the meeting, I would attend it."
+                },
+                {
+                    "answer": "Had I known about the meeting, I would have attended it.",
+                    "correct": true
+                },
+                {
+                    "answer": "Had I known about the meeting, I will have attended it."
+                }
+            ],
+            "explanation": {
+                "en": "Third conditional requires 'would have + past participle' in the main clause when using the inverted 'had I known' structure.",
+                "ru": "Третий тип условных предложений требует 'would have + причастие прошедшего времени' в главном предложении при использовании инвертированной структуры 'had I known'.",
+                "uz": "Uchinchi turdagi shartli gaplarda 'had I known' inversiya strukturasi ishlatilganda asosiy gapda 'would have + o'tgan zamon sifatdoshi' talab qilinadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates proper use of a reduced relative clause?",
+                "ru": "Какое предложение демонстрирует правильное использование редуцированного относительного предложения?",
+                "uz": "Qaysi gap qisqartirilgan nisbiy gapning to'g'ri ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The manuscript discovered in the archives has revealed startling information.",
+                    "correct": true
+                },
+                {
+                    "answer": "The manuscript discovering in the archives has revealed startling information."
+                },
+                {
+                    "answer": "The manuscript having discovered in the archives has revealed startling information."
+                }
+            ],
+            "explanation": {
+                "en": "Reduced relative clauses with passive meaning use the past participle 'discovered', not the active present participle 'discovering'.",
+                "ru": "Редуцированные относительные предложения с пассивным значением используют причастие прошедшего времени 'discovered', а не активное причастие настоящего времени 'discovering'.",
+                "uz": "Passiv ma'noli qisqartirilgan nisbiy gaplar aktiv hozirgi zamon sifatdoshi 'discovering' emas, balki o'tgan zamon sifatdoshi 'discovered' ishlatadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence with correct fronted adverbial placement.",
+                "ru": "Выберите предложение с правильным размещением выдвинутого на первое место наречия.",
+                "uz": "Oldinga chiqarilgan ravish so'zning to'g'ri joylashtirilgan gapini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "So compelling was the evidence that the jury reached a verdict within hours.",
+                    "correct": true
+                },
+                {
+                    "answer": "So compelling the evidence was that the jury reached a verdict within hours."
+                },
+                {
+                    "answer": "So compelling was the evidence so that the jury reached a verdict within hours."
+                }
+            ],
+            "explanation": {
+                "en": "Fronted intensifiers like 'so compelling' require inversion with 'was' and are followed by 'that', not 'so that'.",
+                "ru": "Выдвинутые интенсификаторы как 'so compelling' требуют инверсии с 'was' и сопровождаются 'that', а не 'so that'.",
+                "uz": "'so compelling' kabi oldinga chiqarilgan kuchaytiruvchilar 'was' bilan inversiya talab qiladi va 'so that' emas, 'that' bilan kuzatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence with a complex noun phrase.",
+                "ru": "Выберите грамматически правильное предложение со сложной именной группой.",
+                "uz": "Murakkab ot birikmasili grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The decision to postpone the conference, which many had anticipated, disappointed participants."
+                },
+                {
+                    "answer": "The decision to postpone the conference, that many had anticipated, disappointed participants."
+                },
+                {
+                    "answer": "The decision to postpone the conference, which many had anticipated, disappointed the participants.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Non-restrictive relative clauses use 'which' not 'that', and the definite article 'the' is required before 'participants' for specificity.",
+                "ru": "Неограничительные относительные предложения используют 'which', а не 'that', и определенный артикль 'the' требуется перед 'participants' для конкретности.",
+                "uz": "Cheklanmagan nisbiy gaplarda 'that' emas 'which' ishlatiladi, va aniqlik uchun 'participants' oldidan aniq artikl 'the' talab qilinadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form: Scarcely ___ the presentation begun when technical difficulties arose.",
+                "ru": "Дополните предложение правильной формой: Scarcely ___ the presentation begun when technical difficulties arose.",
+                "uz": "Gapni to'g'ri shakl bilan to'ldiring: Scarcely ___ the presentation begun when technical difficulties arose."
+            },
+            "options": [
+                {
+                    "answer": "had",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'scarcely' use past perfect with inversion: 'had the presentation begun' to show the sequence of past events.",
+                "ru": "После 'scarcely' используется Past Perfect с инверсией: 'had the presentation begun' для показа последовательности прошлых событий.",
+                "uz": "'scarcely' dan keyin o'tgan voqealar ketma-ketligini ko'rsatish uchun inversiya bilan Past Perfect ishlatiladi: 'had the presentation begun'."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: It is essential that every participant ___ (understand) the safety protocols before the expedition.",
+                "ru": "Заполните пропуск: It is essential that every participant ___ (understand) the safety protocols before the expedition.",
+                "uz": "Bo'shliqni to'ldiring: It is essential that every participant ___ (understand) the safety protocols before the expedition."
+            },
+            "options": [
+                {
+                    "answer": "understand",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'it is essential that' use the subjunctive bare infinitive 'understand', not the indicative 'understands'.",
+                "ru": "После 'it is essential that' используется сослагательный инфинитив без to 'understand', а не изъявительный 'understands'.",
+                "uz": "'it is essential that' dan keyin ko'rsatkich 'understands' emas, balki subjunktiv yalang'och infinitiv 'understand' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the construction (with he/she/they): No sooner ___ arrived than the alarm sounded.",
+                "ru": "Дополните конструкцию (с he/she/they): No sooner ___ arrived than the alarm sounded.",
+                "uz": "Konstruksiyani to'ldiring (he/she/they bilan): No sooner ___ arrived than the alarm sounded."
+            },
+            "options": [
+                {
+                    "answer": "had he/had she/had they",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'No sooner' requires past perfect with inversion followed by 'than', showing immediate sequence of past events.",
+                "ru": "'No sooner' требует Past Perfect с инверсией, за которым следует 'than', показывая немедленную последовательность прошлых событий.",
+                "uz": "'No sooner' o'tgan voqealarning darhol ketma-ketligini ko'rsatuvchi 'than' bilan kuzatiladigan inversiya bilan Past Perfect talab qiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the correct form: The committee recommended that the policy ___ reviewed annually.",
+                "ru": "Заполните правильной формой: The committee recommended that the policy ___ reviewed annually.",
+                "uz": "To'g'ri shakl bilan to'ldiring: The committee recommended that the policy ___ reviewed annually."
+            },
+            "options": [
+                {
+                    "answer": "be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After verbs of recommendation, use the subjunctive 'be' in passive constructions rather than indicative forms.",
+                "ru": "После глаголов рекомендации в пассивных конструкциях используется сослагательное 'be', а не изъявительные формы.",
+                "uz": "Tavsiya fe'llaridan keyin passiv konstruksiyalarda ko'rsatkich shakllar emas, balki subjunktiv 'be' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the appropriate word: Under no circumstances ___ this information be disclosed.",
+                "ru": "Дополните подходящим словом: Under no circumstances ___ this information be disclosed.",
+                "uz": "Mos so'z bilan to'ldiring: Under no circumstances ___ this information be disclosed."
+            },
+            "options": [
+                {
+                    "answer": "should/must",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After negative phrases like 'under no circumstances', use modal verbs 'should' or 'must' with inversion for emphatic prohibition.",
+                "ru": "После отрицательных фраз как 'under no circumstances' используются модальные глаголы 'should' или 'must' с инверсией для эмфатического запрета.",
+                "uz": "'under no circumstances' kabi salbiy iboralardan keyin ta'kidli taqiq uchun inversiya bilan 'should' yoki 'must' modal fe'llari ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: ___ though the task may seem, it must be completed.",
+                "ru": "Заполните пропуск: ___ though the task may seem, it must be completed.",
+                "uz": "Bo'shliqni to'ldiring: ___ though the task may seem, it must be completed."
+            },
+            "options": [
+                {
+                    "answer": "Difficult/Hard/Challenging",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In concessive constructions with inverted 'though', place the adjective first: 'Difficult though it may seem'.",
+                "ru": "В уступительных конструкциях с инвертированным 'though' прилагательное ставится первым: 'Difficult though it may seem'.",
+                "uz": "Inversiyalangan 'though' bilan imtiyozli konstruksiyalarda sifat birinchi o'ringa qo'yiladi: 'Difficult though it may seem'."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The data, most of ___ was collected last year, supports our hypothesis.",
+                "ru": "Дополните предложение: The data, most of ___ was collected last year, supports our hypothesis.",
+                "uz": "Gapni to'ldiring: The data, most of ___ was collected last year, supports our hypothesis."
+            },
+            "options": [
+                {
+                    "answer": "which",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After prepositions in relative clauses referring to things, use 'which' not 'that': 'most of which'.",
+                "ru": "После предлогов в относительных предложениях, относящихся к вещам, используется 'which', а не 'that': 'most of which'.",
+                "uz": "Narsalarga tegishli nisbiy gaplardagi predloglardan keyin 'that' emas 'which' ishlatiladi: 'most of which'."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the correct form: It was not until midnight ___ the negotiations concluded.",
+                "ru": "Заполните правильной формой: It was not until midnight ___ the negotiations concluded.",
+                "uz": "To'g'ri shakl bilan to'ldiring: It was not until midnight ___ the negotiations concluded."
+            },
+            "options": [
+                {
+                    "answer": "that",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In cleft constructions with 'it was not until', use 'that' to introduce the main clause, not 'when' or other conjunctions.",
+                "ru": "В расщепленных конструкциях с 'it was not until' используется 'that' для введения главного предложения, а не 'when' или другие союзы.",
+                "uz": "'it was not until' bilan bo'lingan konstruksiyalarda asosiy gapni kiritish uchun 'when' yoki boshqa bog'lovchilar emas, 'that' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the appropriate form: The more thoroughly we investigate, the ___ complex the situation becomes.",
+                "ru": "Дополните подходящей формой: The more thoroughly we investigate, the ___ complex the situation becomes.",
+                "uz": "Mos shakl bilan to'ldiring: The more thoroughly we investigate, the ___ complex the situation becomes."
+            },
+            "options": [
+                {
+                    "answer": "more",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In comparative correlative constructions, use 'the more' with multi-syllable adjectives like 'complex'.",
+                "ru": "В сравнительно-коррелятивных конструкциях используется 'the more' с многосложными прилагательными как 'complex'.",
+                "uz": "Qiyosiy korrelyativ konstruksiyalarda 'complex' kabi ko'p bo'g'inli sifatlar bilan 'the more' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Were the circumstances ___, we would proceed differently.",
+                "ru": "Заполните пропуск: Were the circumstances ___, we would proceed differently.",
+                "uz": "Bo'shliqni to'ldiring: Were the circumstances ___, we would proceed differently."
+            },
+            "options": [
+                {
+                    "answer": "different",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In hypothetical conditionals with 'were' inversion, the adjective 'different' completes the subjunctive construction logically.",
+                "ru": "В гипотетических условных предложениях с инверсией 'were' прилагательное 'different' логически завершает сослагательную конструкцию.",
+                "uz": "'were' inversiyasi bilan gipotetical shartli gaplarda 'different' sifati subjunktiv konstruksiyani mantiqiy ravishda yakunlaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The archaeological expedition, ___1___ had been meticulously planned for over two years, encountered unexpected challenges ___2___ became apparent only after the team had reached the remote site. No sooner ___3___ they begun their excavation work ___4___ torrential rains began, making further progress impossible. The team leader, ___5___ expertise in ancient civilizations was internationally recognized, decided that under no circumstances ___6___ the dig continue in such hazardous conditions. It was essential that all equipment ___7___ secured immediately and that the site ___8___ protected from water damage. ___9___ disappointing though this setback was, the team remained optimistic. The more thoroughly they ___10___ the situation, the ___11___ convinced they became that postponing the excavation was the right decision. Had they ___12___ the weather forecast more carefully, they ___13___ have scheduled the expedition differently. The discovery of ancient artifacts, ___14___ authenticity could not be questioned, would have to wait. It was not until ___15___ following spring that the team returned to complete their groundbreaking research.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "which"
+                },
+                {
+                    "blank": "2",
+                    "answer": "that/which"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had"
+                },
+                {
+                    "blank": "4",
+                    "answer": "than"
+                },
+                {
+                    "blank": "5",
+                    "answer": "whose"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should/could/would"
+                },
+                {
+                    "blank": "7",
+                    "answer": "be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "be"
+                },
+                {
+                    "blank": "9",
+                    "answer": "However/Though"
+                },
+                {
+                    "blank": "10",
+                    "answer": "analyzed/analysed/examined"
+                },
+                {
+                    "blank": "11",
+                    "answer": "more"
+                },
+                {
+                    "blank": "12",
+                    "answer": "studied/checked/examined"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would/could/might"
+                },
+                {
+                    "blank": "14",
+                    "answer": "whose"
+                },
+                {
+                    "blank": "15",
+                    "answer": "the"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests advanced syntactic structures including non-restrictive relative clauses, inversion after negative adverbials, subjunctive forms, comparative correlatives, and cleft constructions typical of C2 level academic writing.",
+                "ru": "Это упражнение проверяет продвинутые синтаксические структуры, включая неограничительные относительные предложения, инверсию после отрицательных наречий, сослагательные формы, сравнительные корреляции и расщепленные конструкции, типичные для академического письма уровня C2.",
+                "uz": "Ushbu mashq C2 darajasidagi akademik yozuvga xos bo'lgan cheklanmagan nisbiy gaplar, salbiy ravish so'zlardan keyin inversiya, subjunktiv shakllar, qiyosiy korrelyativlar va bo'lingan konstruksiyalar kabi ilg'or sintaktik strukturalarni sinaydi."
+            }
+        }
+    ]
+}

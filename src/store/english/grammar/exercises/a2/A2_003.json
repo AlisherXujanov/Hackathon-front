@@ -1,0 +1,801 @@
+{
+    "id": "A2_GOING_TO_EXPANDED_USES_BEYOND_A1",
+    "title": "Going to - Expanded uses beyond A1",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He's going to to visit his grandparents next week."
+                },
+                {
+                    "answer": "They're going to going on a trip this summer."
+                },
+                {
+                    "answer": "We are going to buy a new car tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The structure for future plans is 'be + going to + base form of the verb.' The other sentences have 'to' or 'going' repeated.",
+                "ru": "Структура для планов на будущее — это 'be + going to + базовая форма глагола.' В других предложениях повторяется 'to' или 'going'.",
+                "uz": "Kelajakdagi rejalar uchun tuzilma 'be + going to + fe'lning asosiy shakli'dir. Boshqa gaplarda 'to' yoki 'going' so'zlari takrorlangan."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Look at those dark clouds! It is going to rain.",
+                    "correct": true
+                },
+                {
+                    "answer": "Look at those dark clouds! It is going to rains."
+                },
+                {
+                    "answer": "Look at those dark clouds! It is going rain."
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for predictions based on present evidence, like dark clouds. It must be followed by the base form of the verb, which is 'rain'.",
+                "ru": "'Going to' используется для предсказаний, основанных на имеющихся доказательствах, таких как темные тучи. За ним должна следовать базовая форма глагола, 'rain'.",
+                "uz": "'Going to' hozirgi dalillarga, masalan, qora bulutlarga asoslangan bashoratlar uchun ishlatiladi. Undan keyin fe'lning asosiy shakli, ya'ni 'rain' kelishi kerak."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I'm not going to eats lunch now."
+                },
+                {
+                    "answer": "He's going not to watch a movie tonight."
+                },
+                {
+                    "answer": "We're not going to go to the party.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In negative sentences with 'going to', 'not' comes after the verb 'be'. The structure is: subject + be + not + going to + verb.",
+                "ru": "В отрицательных предложениях с 'going to' 'not' ставится после глагола 'be'. Структура: подлежащее + be + not + going to + глагол.",
+                "uz": "'Going to' bilan bo'lgan inkor gaplarda 'not' 'be' fe'lidan keyin keladi. Tuzilma: ega + be + not + going to + fe'l."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are you going to study for the exam?",
+                    "correct": true
+                },
+                {
+                    "answer": "You are going to study for the exam?"
+                },
+                {
+                    "answer": "Are you going to studying for the exam?"
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with 'going to', you put the verb 'be' before the subject. The main verb stays in its base form.",
+                "ru": "Чтобы задать вопрос с 'going to', нужно поставить глагол 'be' перед подлежащим. Основной глагол остается в базовой форме.",
+                "uz": "'Going to' bilan savol tuzish uchun 'be' fe'lini egadan oldin qo'yish kerak. Asosiy fe'l o'zining asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which option completes the sentence correctly?",
+                "ru": "Какой вариант правильно дополняет предложение?",
+                "uz": "Qaysi variant gapni to'g'ri to'ldiradi?"
+            },
+            "options": [
+                {
+                    "answer": "They're going to travel to Spain, but they have not planned the details yet.",
+                    "correct": true
+                },
+                {
+                    "answer": "They go to travel to Spain, but they have not planned the details yet."
+                },
+                {
+                    "answer": "They're going to travels to Spain, but they have not planned the details yet."
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for intentions and plans that have been decided. The other options are grammatically incorrect.",
+                "ru": "'Going to' используется для намерений и планов, которые уже были решены. Другие варианты грамматически неверны.",
+                "uz": "'Going to' allaqachon qabul qilingan niyatlar va rejalar uchun ishlatiladi. Boshqa variantlar grammatik jihatdan noto'g'ri."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She's going to studying for her test all night."
+                },
+                {
+                    "answer": "She's going to study for her test all night.",
+                    "correct": true
+                },
+                {
+                    "answer": "She's going studying for her test all night."
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure is 'be + going to + verb's base form'. 'Studying' is an incorrect form after 'going to'.",
+                "ru": "Правильная структура: 'be + going to + базовая форма глагола'. 'Studying' - неправильная форма после 'going to'.",
+                "uz": "To'g'ri tuzilma 'be + going to + fe'lning asosiy shakli'dir. 'Studying' 'going to'dan keyin noto'g'ri shaklda kelgan."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "What are you going to do this weekend?",
+                    "correct": true
+                },
+                {
+                    "answer": "What you are going to do this weekend?"
+                },
+                {
+                    "answer": "What are you going doing this weekend?"
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with a question word, the structure is: question word + be + subject + going to + verb.",
+                "ru": "Чтобы сформировать вопрос с вопросительным словом, структура такова: вопросительное слово + be + подлежащее + going to + глагол.",
+                "uz": "Savol so'zi bilan savol tuzish uchun tuzilma quyidagicha: savol so'zi + be + ega + going to + fe'l."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that shows a prediction based on evidence.",
+                "ru": "Выберите предложение, которое показывает предсказание, основанное на доказательствах.",
+                "uz": "Dalillarga asoslangan bashoratni ko'rsatuvchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She's going to win the race, she's a very fast runner.",
+                    "correct": true
+                },
+                {
+                    "answer": "They're going to win the game, I feel it in my heart."
+                },
+                {
+                    "answer": "I'm going to travel to the moon one day."
+                }
+            ],
+            "explanation": {
+                "en": "The first option uses 'going to' for a prediction based on a current fact: 'she's a very fast runner'. The others are personal feelings or distant hopes.",
+                "ru": "Первый вариант использует 'going to' для предсказания, основанного на текущем факте: 'she's a very fast runner'. Остальные — это личные чувства или отдаленные надежды.",
+                "uz": "Birinchi variant 'going to'ni joriy faktga asoslangan bashorat uchun ishlatadi: 'she's a very fast runner'. Qolganlari shaxsiy his-tuyg'ular yoki uzoq istaklardir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It's going to be a cold day tomorrow, the weather report said so.",
+                    "correct": true
+                },
+                {
+                    "answer": "It's going to a cold day tomorrow, the weather report said so."
+                },
+                {
+                    "answer": "It going to be a cold day tomorrow, the weather report said so."
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used to talk about predictions based on evidence, such as a weather report. All options are grammatically correct but one. "
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses 'going to' to express a future intention?",
+                "ru": "Какое предложение правильно использует 'going to' для выражения будущего намерения?",
+                "uz": "Qaysi gap 'going to'ni kelajakdagi niyatni ifodalash uchun to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "I'm going to to play the guitar."
+                },
+                {
+                    "answer": "I'm going to learn to play the guitar.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'm going to learn to play to the guitar."
+                }
+            ],
+            "explanation": {
+                "en": "The sentence is a correct use of 'going to' to express a plan or intention. All options are identical to ensure correct selection.",
+                "ru": "Это предложение правильно использует 'going to' для выражения плана или намерения. Все варианты одинаковы для обеспечения правильного выбора.",
+                "uz": "Ushbu gap 'going to'ni reja yoki niyatni ifodalash uchun to'g'ri ishlatadi. To'g'ri tanlovni ta'minlash uchun barcha variantlar bir xil."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We are ___ to have a picnic this weekend.",
+                "ru": "Дополните предложение: We are ___ to have a picnic this weekend.",
+                "uz": "Gapni to'ldiring: We are ___ to have a picnic this weekend."
+            },
+            "options": [
+                {
+                    "answer": "going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The full phrase for a future plan is 'be + going to + verb'. 'Going' is the missing word.",
+                "ru": "Полная фраза для плана на будущее — 'be + going to + глагол'. Не хватает слова 'going'.",
+                "uz": "Kelajakdagi reja uchun to'liq ibora 'be + going to + fe'l'dir. 'Going' so'zi etishmayapti."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: They are going ___ (buy) a new house.",
+                "ru": "Дополните предложение правильной формой глагола: They are going ___ (buy) a new house.",
+                "uz": "Gapni fe'lning to'g'ri shakli bilan to'ldiring: They are going ___ (buy) a new house."
+            },
+            "options": [
+                {
+                    "answer": "to buy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The structure is 'going to' followed by the base form of the verb, which is 'to buy'.",
+                "ru": "Структура 'going to' followed by the base form of the verb, что является 'to buy'.",
+                "uz": "Tuzilma 'going to'dan keyin fe'lning asosiy shakli, ya'ni 'to buy' keladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I think it's ___ to snow later.",
+                "ru": "Дополните предложение: I think it's ___ to snow later.",
+                "uz": "Gapni to'ldiring: I think it's ___ to snow later."
+            },
+            "options": [
+                {
+                    "answer": "going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used to make a prediction about the future. The missing word is 'going'.",
+                "ru": "'Going to' используется для предсказания будущего. Недостающее слово — 'going'.",
+                "uz": "'Going to' kelajak haqida bashorat qilish uchun ishlatiladi. Etishmayotgan so'z 'going'."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Answer the question: Are you going to eat dinner soon? Yes, I ___.",
+                "ru": "Ответьте на вопрос: Are you going to eat dinner soon? Yes, I ___.",
+                "uz": "Savolga javob bering: Are you going to eat dinner soon? Yes, I ___."
+            },
+            "options": [
+                {
+                    "answer": "am",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The question uses 'are', so the short answer must use the same verb form 'am' for the subject 'I'.",
+                "ru": "В вопросе используется 'are', поэтому краткий ответ должен использовать ту же форму глагола 'am' для подлежащего 'I'.",
+                "uz": "Savolda 'are' ishlatilgan, shuning uchun qisqa javobda 'I' egasi uchun 'am' fe'lining bir xil shakli ishlatilishi kerak."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She is not ___ to call him back.",
+                "ru": "Дополните предложение: She is not ___ to call him back.",
+                "uz": "Gapni to'ldiring: She is not ___ to call him back."
+            },
+            "options": [
+                {
+                    "answer": "going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a negative sentence using 'going to'. The structure is 'be + not + going to + verb'.",
+                "ru": "Это отрицательное предложение с 'going to'. Структура: 'be + not + going to + глагол'.",
+                "uz": "Bu 'going to' bilan bo'lgan inkor gap. Tuzilma: 'be + not + going to + fe'l'."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Where are you ___ go on vacation?",
+                "ru": "Дополните предложение: Where are you ___ go on vacation?",
+                "uz": "Gapni to'ldiring: Where are you ___ go on vacation?"
+            },
+            "options": [
+                {
+                    "answer": "going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a question form of 'going to'. The missing word is 'going'.",
+                "ru": "Это вопросительная форма 'going to'. Недостающее слово — 'going'.",
+                "uz": "Bu 'going to'ning savol shakli. Etishmayotgan so'z 'going'."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He is going to ___ his friends at the cafe.",
+                "ru": "Дополните предложение: He is going to ___ his friends at the cafe.",
+                "uz": "Gapni to'ldiring: He is going to ___ his friends at the cafe."
+            },
+            "options": [
+                {
+                    "answer": "meet/see",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'going to', you need the base form of the verb, which in this context is 'meet'.",
+                "ru": "После 'going to' нужна базовая форма глагола, которая в этом контексте — 'meet'.",
+                "uz": "'Going to'dan keyin fe'lning asosiy shakli, bu vaziyatda 'meet' bo'lishi kerak."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'm ___ to get up early tomorrow.",
+                "ru": "Дополните предложение: I'm ___ to get up early tomorrow.",
+                "uz": "Gapni to'ldiring: I'm ___ to get up early tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a typical use of 'going to' for a future intention or plan.",
+                "ru": "Это типичное использование 'going to' для выражения будущего намерения или плана.",
+                "uz": "Bu 'going to'ning kelajakdagi niyat yoki rejani ifodalash uchun odatiy qo'llanilishi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: She's going ___ (start) a new job.",
+                "ru": "Дополните предложение правильной формой глагола: She's going ___ (start) a new job.",
+                "uz": "Gapni fe'lning to'g'ri shakli bilan to'ldiring: She's going ___ (start) a new job."
+            },
+            "options": [
+                {
+                    "answer": "to start",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The structure is 'going to' followed by the base form of the verb, which is 'start'.",
+                "ru": "Структура 'going to' followed by the base form of the verb, что является 'start'.",
+                "uz": "Tuzilma 'going to'dan keyin fe'lning asosiy shakli, ya'ni 'start' keladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The baby is crying. I think he's ___ to wake up soon.",
+                "ru": "Дополните предложение: The baby is crying. I think he's ___ to wake up soon.",
+                "uz": "Gapni to'ldiring: The baby is crying. I think he's ___ to wake up soon."
+            },
+            "options": [
+                {
+                    "answer": "going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a prediction based on present evidence (the baby crying). 'Going' completes the 'going to' structure.",
+                "ru": "Это предсказание, основанное на текущих доказательствах (ребенок плачет). 'Going' дополняет структуру 'going to'.",
+                "uz": "Bu hozirgi dalilga (bola yig'layapti) asoslangan bashoratdir. 'Going' 'going to' tuzilmasini to'ldiradi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I ___1___ to go on a long trip next month. We've decided we ___2___ to visit a national park. My parents ___3___ to reserve a cabin in the mountains, and my brother and I ___4___ to help them plan the hiking trails. I'm really excited. We ___5___ to go fishing, and my mom ___6___ to teach me how to make a campfire. It's ___7___ to be a great vacation. We ___8___ not to bring our phones so we can really enjoy nature. Our dog, Sparky, ___9___ to stay with my aunt while we are away. My aunt ___10___ to take him for long walks every day. I know he ___11___ to have a lot of fun with her. This trip ___12___ to be an adventure. It is ___13___ to be something we will never forget.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "13",
+                    "answer": "going"
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used to express future plans and intentions. You must use the correct form of the verb 'be' (is/are) before 'going to' depending on the subject.",
+                "ru": "'Going to' используется для выражения будущих планов и намерений. Вы должны использовать правильную форму глагола 'be' (is/are) перед 'going to' в зависимости от подлежащего.",
+                "uz": "'Going to' kelajakdagi rejalar va niyatlarni ifodalash uchun ishlatiladi. 'Going to'dan oldin egaga qarab 'be' fe'lining to'g'ri shaklidan (is/are) foydalanish kerak."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The weather forecast said it ___1___ to be sunny all week. My friend and I ___2___ to go to the beach. We ___3___ to build a sandcastle and play volleyball. My friend, Mark, ___4___ to bring his new surfboard, but I don't think I ___5___ to try it. I ___6___ to stay closer to the shore. We ___7___ to bring a big picnic basket with us, so we have a lot of food. It ___8___ to be a long day, but a fun one. The sky is getting a bit cloudy, so it ___9___ to rain later. We better check the forecast again. I hope we ___10___ not to get wet. The clouds are getting darker and darker, so it ___11___ to be a real storm. Maybe we should go home. My friend's sister said she ___12___ to come with us, but now she ___13___ to stay home instead. It's a shame the weather is bad.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "am not going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "am going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "was going"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is going"
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used for future plans and for predictions based on evidence. Pay attention to the subject to use the correct 'be' verb form (am, is, are).",
+                "ru": "'Going to' используется для будущих планов и предсказаний, основанных на доказательствах. Обращайте внимание на подлежащее, чтобы использовать правильную форму глагола 'be' (am, is, are).",
+                "uz": "'Going to' kelajakdagi rejalar va dalillarga asoslangan bashoratlar uchun ishlatiladi. To'g'ri 'be' fe'l shaklini (am, is, are) ishlatish uchun egaga e'tibor bering."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Sarah, is a very talented artist. She ___1___ to have an art exhibition next month. She ___2___ to display her new paintings and some of her sculptures. She is very busy now; she ___3___ to finish three more paintings before the exhibition. We, her friends, ___4___ to help her with the preparations. I ___5___ to help her hang the paintings, and another friend ___6___ to organize the food and drinks. Sarah's parents ___7___ to travel from another city to support her. They ___8___ to be very proud of her. The exhibition ___9___ to be a big success because her work is so good. A lot of people ___10___ to come. The local newspaper said they ___11___ to write a review. We are all so excited and happy for her. It ___12___ to be a very special event for Sarah.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "am going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is going"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses 'going to' for planned events and predictions. Remember to use 'am', 'is', or 'are' with 'going to' depending on the subject.",
+                "ru": "Этот отрывок использует 'going to' для запланированных событий и предсказаний. Не забывайте использовать 'am', 'is' или 'are' с 'going to' в зависимости от подлежащего.",
+                "uz": "Bu matnda 'going to' rejalashtirilgan voqealar va bashoratlar uchun ishlatilgan. Egaga qarab 'going to' bilan 'am', 'is' yoki 'are' fe'llaridan foydalanishni unutmang."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My neighbor, Mr. Henderson, is selling his old car. He ___1___ to get a new electric car. He ___2___ to get a good price for his old one because it's in great condition. I think he ___3___ to be very happy with his new car. He ___4___ to save a lot of money on gas. He told me that his wife ___5___ to use the new car to go to the city on weekends. She ___6___ to see her family, who live far away. They ___7___ to have a test drive next Saturday. I'm sure they ___8___ to love the new car. I'm also thinking of getting an electric car. I ___9___ to do some research this weekend. My car ___10___ to need a lot of repairs soon, so I think it's a good idea. I hope I ___11___ to find a good deal. I am ___12___ to go to the dealership on Sunday.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "am going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "am going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "going"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses 'going to' for both plans and predictions based on present circumstances. Ensure you use the correct verb form of 'be' for each subject.",
+                "ru": "В этом тексте 'going to' используется как для планов, так и для предсказаний, основанных на текущих обстоятельствах. Убедитесь, что вы используете правильную форму глагола 'be' для каждого подлежащего.",
+                "uz": "Ushbu matnda 'going to' ham rejalar, ham hozirgi sharoitlarga asoslangan bashoratlar uchun ishlatilgan. Har bir ega uchun 'be' fe'lining to'g'ri shaklidan foydalanganligingizga ishonch hosil qiling."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My sister and her husband ___1___ to move to a new apartment next month. They've found a beautiful place downtown. They ___2___ to start packing all their things this weekend. They ___3___ not to bring all their old furniture. They ___4___ to buy new things instead. Their old sofa ___5___ to be too big for the new living room. I ___6___ to help them move their boxes. My parents ___7___ also to help, but they have a business trip. My sister told me that her husband ___8___ to rent a big truck for the moving day. It ___9___ to be a long day, but with a lot of help, it ___10___ to be much easier. I'm sure their new apartment ___11___ to be lovely, and they ___12___ to be very happy there. They ___13___ to have a housewarming party once they've settled in.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "am going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are going"
+                }
+            ],
+            "explanation": {
+                "en": "'Going to' is used to talk about future plans and intentions. Use the correct form of the verb 'be' (am, is, are) with 'going to' based on the subject.",
+                "ru": "'Going to' используется для разговора о будущих планах и намерениях. Используйте правильную форму глагола 'be' (am, is, are) с 'going to' в зависимости от подлежащего.",
+                "uz": "'Going to' kelajakdagi rejalar va niyatlar haqida gapirish uchun ishlatiladi. Egaga qarab 'going to' bilan 'be' fe'lining to'g'ri shaklidan (am, is, are) foydalaning."
+            }
+        }
+    ]
+}

@@ -1,0 +1,819 @@
+{
+    "id": "C1_INVERSION_WITH_NEGATIVE_ADVERBIALS_ADVANCED_EMPHATIC_STRUCTURES",
+    "title": "Inversion with negative adverbials - Advanced emphatic structures",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Never I have seen such a beautiful sunset."
+                },
+                {
+                    "answer": "Never have I seen such a beautiful sunset.",
+                    "correct": true
+                },
+                {
+                    "answer": "Never I seen such a beautiful sunset."
+                }
+            ],
+            "explanation": {
+                "en": "After negative adverbials like 'never', we use inversion with auxiliary verb + subject + main verb.",
+                "ru": "После отрицательных наречий как 'never' используется инверсия: вспомогательный глагол + подлежащее + основной глагол.",
+                "uz": "Never kabi inkor qo'shimchalaridan keyin inversiya ishlatiladi: yordamchi fe'l + ega + asosiy fe'l."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct inversion?",
+                "ru": "Какое предложение показывает правильную инверсию?",
+                "uz": "Qaysi gapda to'g'ri inversiya ko'rsatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "Rarely does she complain about her work.",
+                    "correct": true
+                },
+                {
+                    "answer": "Rarely she does complain about her work."
+                },
+                {
+                    "answer": "Rarely she complains about her work."
+                }
+            ],
+            "explanation": {
+                "en": "With frequency adverbs like 'rarely', inversion requires auxiliary 'does/do' + subject + base verb.",
+                "ru": "С наречиями частотности как 'rarely' инверсия требует вспомогательного глагола 'does/do' + подлежащее + основной глагол.",
+                "uz": "Rarely kabi chastota ravishlarida inversiya does/do yordamchi fe'li + ega + asosiy fe'l talab qiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Not only he speaks French, but he also speaks German."
+                },
+                {
+                    "answer": "Not only does he speak French, but he also speaks German.",
+                    "correct": true
+                },
+                {
+                    "answer": "Not only he does speak French, but he also speaks German."
+                }
+            ],
+            "explanation": {
+                "en": "Not only requires inversion in the first clause: Not only + auxiliary + subject + verb.",
+                "ru": "Not only требует инверсии в первой части: Not only + вспомогательный глагол + подлежащее + глагол.",
+                "uz": "Not only birinchi qismda inversiya talab qiladi: Not only + yordamchi fe'l + ega + fe'l."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows proper inversion with 'hardly'?",
+                "ru": "Какое предложение показывает правильную инверсию с 'hardly'?",
+                "uz": "Qaysi gapda 'hardly' bilan to'g'ri inversiya ko'rsatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "Hardly she had arrived when the phone rang."
+                },
+                {
+                    "answer": "Hardly had she arrived when the phone rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "Hardly she arrived when the phone rang."
+                }
+            ],
+            "explanation": {
+                "en": "Hardly with past perfect requires inversion: Hardly + had + subject + past participle.",
+                "ru": "Hardly с past perfect требует инверсии: Hardly + had + подлежащее + причастие прошедшего времени.",
+                "uz": "Hardly past perfect bilan inversiya talab qiladi: Hardly + had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with correct inversion.",
+                "ru": "Выберите предложение с правильной инверсией.",
+                "uz": "To'g'ri inversiya bilan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Seldom we see such dedication in young people."
+                },
+                {
+                    "answer": "Seldom do we see such dedication in young people.",
+                    "correct": true
+                },
+                {
+                    "answer": "Seldom does we see such dedication in young people."
+                }
+            ],
+            "explanation": {
+                "en": "Seldom requires inversion with 'do' for present simple with plural subjects like 'we'.",
+                "ru": "Seldom требует инверсии с 'do' для настоящего времени с множественными подлежащими как 'we'.",
+                "uz": "Seldom hozirgi zamon va we kabi ko'plik egalar uchun 'do' bilan inversiya talab qiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct inversion with 'no sooner'?",
+                "ru": "Какое предложение показывает правильную инверсию с 'no sooner'?",
+                "uz": "Qaysi gapda 'no sooner' bilan to'g'ri inversiya ko'rsatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "No sooner he had left than it started raining."
+                },
+                {
+                    "answer": "No sooner had he left than it started raining.",
+                    "correct": true
+                },
+                {
+                    "answer": "No sooner he left than it started raining."
+                }
+            ],
+            "explanation": {
+                "en": "No sooner requires inversion with past perfect: No sooner + had + subject + past participle.",
+                "ru": "No sooner требует инверсии с past perfect: No sooner + had + подлежащее + причастие прошедшего времени.",
+                "uz": "No sooner past perfect bilan inversiya talab qiladi: No sooner + had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Little she knew about the surprise party."
+                },
+                {
+                    "answer": "Little did she know about the surprise party.",
+                    "correct": true
+                },
+                {
+                    "answer": "Little she did know about the surprise party."
+                }
+            ],
+            "explanation": {
+                "en": "Little as a negative adverb requires inversion: Little + did + subject + base verb.",
+                "ru": "Little как отрицательное наречие требует инверсии: Little + did + подлежащее + основной глагол.",
+                "uz": "Little inkor ravishi sifatida inversiya talab qiladi: Little + did + ega + asosiy fe'l."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows proper inversion?",
+                "ru": "Какое предложение показывает правильную инверсию?",
+                "uz": "Qaysi gapda to'g'ri inversiya ko'rsatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "Not until midnight the party ended."
+                },
+                {
+                    "answer": "Not until midnight did the party end.",
+                    "correct": true
+                },
+                {
+                    "answer": "Not until midnight the party did end."
+                }
+            ],
+            "explanation": {
+                "en": "Not until requires inversion in the main clause: Not until + time expression + auxiliary + subject + verb.",
+                "ru": "Not until требует инверсии в главной части: Not until + выражение времени + вспомогательный глагол + подлежащее + глагол.",
+                "uz": "Not until asosiy qismda inversiya talab qiladi: Not until + vaqt iborasi + yordamchi fe'l + ega + fe'l."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence with inversion.",
+                "ru": "Выберите правильное предложение с инверсией.",
+                "uz": "Inversiya bilan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Neither he could swim nor could he dive."
+                },
+                {
+                    "answer": "Neither could he swim nor could he dive.",
+                    "correct": true
+                },
+                {
+                    "answer": "Neither could he swim nor he could dive."
+                }
+            ],
+            "explanation": {
+                "en": "Neither...nor requires inversion in both clauses: Neither + auxiliary + subject + verb.",
+                "ru": "Neither...nor требует инверсии в обеих частях: Neither + вспомогательный глагол + подлежащее + глагол.",
+                "uz": "Neither...nor ikkala qismda ham inversiya talab qiladi: Neither + yordamchi fe'l + ega + fe'l."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct inversion with 'scarcely'?",
+                "ru": "Какое предложение показывает правильную инверсию с 'scarcely'?",
+                "uz": "Qaysi gapda 'scarcely' bilan to'g'ri inversiya ko'rsatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "Scarcely she had finished when the bell rang."
+                },
+                {
+                    "answer": "Scarcely had she finished when the bell rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "Scarcely she finished when the bell rang."
+                }
+            ],
+            "explanation": {
+                "en": "Scarcely with past perfect requires inversion: Scarcely + had + subject + past participle.",
+                "ru": "Scarcely с past perfect требует инверсии: Scarcely + had + подлежащее + причастие прошедшего времени.",
+                "uz": "Scarcely past perfect bilan inversiya talab qiladi: Scarcely + had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Never _____ (see) such a talented musician before.",
+                "ru": "Дополните предложение: Never _____ (see) such a talented musician before.",
+                "uz": "Gapni to'ldiring: Never _____ (see) such a talented musician before."
+            },
+            "options": [
+                {
+                    "answer": "have I seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'never', we use present perfect inversion: have/has + subject + past participle.",
+                "ru": "После 'never' используется инверсия в present perfect: have/has + подлежащее + причастие прошедшего времени.",
+                "uz": "Never dan keyin present perfect inversiyasi ishlatiladi: have/has + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Rarely _____ (go) to such an expensive restaurant.",
+                "ru": "Заполните пропуск: Rarely _____ (go) to such an expensive restaurant.",
+                "uz": "Bo'shliqni to'ldiring: Rarely _____ (go) to such an expensive restaurant."
+            },
+            "options": [
+                {
+                    "answer": "do we go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Rarely requires present simple inversion with 'do' for plural subjects: do + subject + base verb.",
+                "ru": "Rarely требует инверсии в present simple с 'do' для множественных подлежащих: do + подлежащее + основной глагол.",
+                "uz": "Rarely ko'plik egalar uchun 'do' bilan hozirgi zamon inversiyasini talab qiladi: do + ega + asosiy fe'l."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with inversion: Not only _____ (pass) the exam, but she also got the highest score.",
+                "ru": "Дополните инверсией: Not only _____ (pass) the exam, but she also got the highest score.",
+                "uz": "Inversiya bilan to'ldiring: Not only _____ (pass) the exam, but she also got the highest score."
+            },
+            "options": [
+                {
+                    "answer": "did she pass",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Not only requires inversion in the first clause: auxiliary + subject + main verb.",
+                "ru": "Not only требует инверсии в первой части: вспомогательный глагол + подлежащее + основной глагол.",
+                "uz": "Not only birinchi qismda inversiya talab qiladi: yordamchi fe'l + ega + asosiy fe'l."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the gap: Little _____ (know) that her life would change completely.",
+                "ru": "Заполните пропуск: Little _____ (know) that her life would change completely.",
+                "uz": "Bo'shliqni to'ldiring: Little _____ (know) that her life would change completely."
+            },
+            "options": [
+                {
+                    "answer": "did she know",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Little as a negative adverb requires past simple inversion: did + subject + base verb.",
+                "ru": "Little как отрицательное наречие требует инверсии в past simple: did + подлежащее + основной глагол.",
+                "uz": "Little inkor ravishi sifatida o'tgan zamon inversiyasini talab qiladi: did + ega + asosiy fe'l."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Seldom _____ (see) so many people at this event.",
+                "ru": "Дополните предложение: Seldom _____ (see) so many people at this event.",
+                "uz": "Gapni to'ldiring: Seldom _____ (see) so many people at this event."
+            },
+            "options": [
+                {
+                    "answer": "have we seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Seldom requires present perfect inversion: have/has + subject + past participle.",
+                "ru": "Seldom требует инверсии в present perfect: have/has + подлежащее + причастие прошедшего времени.",
+                "uz": "Seldom present perfect inversiyasini talab qiladi: have/has + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with inversion: Hardly _____ (arrive) when the storm began.",
+                "ru": "Заполните инверсией: Hardly _____ (arrive) when the storm began.",
+                "uz": "Inversiya bilan to'ldiring: Hardly _____ (arrive) when the storm began."
+            },
+            "options": [
+                {
+                    "answer": "had we arrived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Hardly requires past perfect inversion: had + subject + past participle.",
+                "ru": "Hardly требует инверсии в past perfect: had + подлежащее + причастие прошедшего времени.",
+                "uz": "Hardly past perfect inversiyasini talab qiladi: had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: No sooner _____ (open) the door than the cat ran out.",
+                "ru": "Дополните: No sooner _____ (open) the door than the cat ran out.",
+                "uz": "To'ldiring: No sooner _____ (open) the door than the cat ran out."
+            },
+            "options": [
+                {
+                    "answer": "had I opened",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "No sooner requires past perfect inversion: had + subject + past participle.",
+                "ru": "No sooner требует инверсии в past perfect: had + подлежащее + причастие прошедшего времени.",
+                "uz": "No sooner past perfect inversiyasini talab qiladi: had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the blank: Not until dawn _____ (go) to sleep.",
+                "ru": "Заполните пропуск: Not until dawn _____ (go) to sleep.",
+                "uz": "Bo'shliqni to'ldiring: Not until dawn _____ (go) to sleep."
+            },
+            "options": [
+                {
+                    "answer": "did she go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Not until requires inversion in the main clause: auxiliary + subject + verb.",
+                "ru": "Not until требует инверсии в главной части: вспомогательный глагол + подлежащее + глагол.",
+                "uz": "Not until asosiy qismda inversiya talab qiladi: yordamchi fe'l + ega + fe'l."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with inversion: Neither _____ (sing) nor could she dance.",
+                "ru": "Дополните инверсией: Neither _____ (sing) nor could she dance.",
+                "uz": "Inversiya bilan to'ldiring: Neither _____ (sing) nor could she dance."
+            },
+            "options": [
+                {
+                    "answer": "could she sing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Neither requires inversion in both parts of the structure: could + subject + verb.",
+                "ru": "Neither требует инверсии в обеих частях структуры: could + подлежащее + глагол.",
+                "uz": "Neither strukturaning ikkala qismida ham inversiya talab qiladi: could + ega + fe'l."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in: Scarcely _____ (hear) the news when everyone started talking.",
+                "ru": "Заполните: Scarcely _____ (hear) the news when everyone started talking.",
+                "uz": "To'ldiring: Scarcely _____ (hear) the news when everyone started talking."
+            },
+            "options": [
+                {
+                    "answer": "had we heard",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Scarcely requires past perfect inversion: had + subject + past participle.",
+                "ru": "Scarcely требует инверсии в past perfect: had + подлежащее + причастие прошедшего времени.",
+                "uz": "Scarcely past perfect inversiyasini talab qiladi: had + ega + o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The young entrepreneur Sarah Chen had always dreamed of running her own technology company, but never ___1___ she expected her startup to become so successful so quickly. When she first presented her innovative app idea to investors, rarely ___2___ they show such immediate enthusiasm for a newcomer's proposal. Little ___3___ she realize at the time that her simple social networking concept would revolutionize how people connect online. Not only ___4___ her app gain millions of users within the first year, but it also attracted the attention of major tech corporations seeking partnerships. Hardly ___5___ the app launched when competitor companies began trying to replicate her unique features. Seldom ___6___ the tech industry witnessed such rapid growth from a single application. No sooner ___7___ Sarah's company gone public than its stock price doubled on the first day of trading. Not until she saw the financial reports ___8___ she truly comprehend the magnitude of her achievement. Scarcely ___9___ she believe that her small team of five developers had created something so impactful. Neither ___10___ her family expect such success nor ___11___ they prepare for the media attention that followed. The business magazines featured her story extensively, and never ___12___ a young entrepreneur received so much coverage in such a short period. Investment firms approached her constantly, but rarely ___13___ she accept their offers, preferring to maintain control over her company's direction and values.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "did"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "did"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates inversion with negative adverbials including never, rarely, little, not only, hardly, seldom, no sooner, not until, scarcely, and neither. Each requires appropriate auxiliary verbs based on tense and context.",
+                "ru": "Это упражнение демонстрирует инверсию с отрицательными наречиями включая never, rarely, little, not only, hardly, seldom, no sooner, not until, scarcely и neither. Каждое требует соответствующих вспомогательных глаголов на основе времени и контекста.",
+                "uz": "Bu mashq never, rarely, little, not only, hardly, seldom, no sooner, not until, scarcely va neither kabi inkor ravishlar bilan inversiyani ko'rsatadi. Har biri zamon va kontekstga asosan tegishli yordamchi fe'llarni talab qiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The archaeological expedition to the remote Himalayan valley had been planned for three years, but never ___1___ the team members anticipate the extraordinary discoveries awaiting them. Dr. Amanda Foster, the lead archaeologist, had studied ancient civilizations for decades, and rarely ___2___ she encounter artifacts that challenged established historical timelines so dramatically. Little ___3___ the local guides know that they were leading the expedition to one of the most significant archaeological sites ever discovered. Not only ___4___ the team uncover perfectly preserved manuscripts dating back over two thousand years, but they also found evidence of advanced engineering techniques previously unknown to historians. Hardly ___5___ they begun excavating the first chamber when they realized the magnitude of their find. Seldom ___6___ archaeological discoveries generated such excitement among international scholars. No sooner ___7___ news of the discovery leaked to the media than reporters from around the world descended upon the remote location. Not until the team established strict security measures ___8___ they able to continue their work without interference. Scarcely ___9___ the researchers believe the sophistication of the ancient civilization they had uncovered. Neither ___10___ the artifacts match any known historical period nor ___11___ they fit into current theories about the region's past. The implications were revolutionary, and never ___12___ such findings forced historians to reconsider fundamental assumptions about human development. Universities competed to study the artifacts, but rarely ___13___ Dr. Foster allow outside researchers access until her team completed the initial analysis. The discovery would rewrite textbooks, and seldom ___14___ a single excavation impact multiple academic disciplines so profoundly.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "did"
+                },
+                {
+                    "blank": "2",
+                    "answer": "did"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has"
+                }
+            ],
+            "explanation": {
+                "en": "This passage practices inversion with negative adverbials in an archaeological discovery context. It covers various tenses and auxiliary verbs required for correct inversion patterns with different negative adverbial expressions.",
+                "ru": "Этот отрывок отрабатывает инверсию с отрицательными наречиями в контексте археологического открытия. Он охватывает различные времена и вспомогательные глаголы, необходимые для правильных образцов инверсии с различными отрицательными наречными выражениями.",
+                "uz": "Bu parcha arxeologik kashfiyot kontekstida inkor ravishlar bilan inversiyani mashq qiladi. U turli inkor ravish iboralar bilan to'g'ri inversiya naqshlari uchun zarur bo'lgan turli zamonlar va yordamchi fe'llarni qamrab oladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Captain Maria Rodriguez had sailed the world's oceans for twenty-five years, but never ___1___ she experienced weather conditions as severe as those she encountered during her final voyage. The cargo ship was carrying essential medical supplies to a disaster zone, and rarely ___2___ such missions require navigating through hurricane-force winds and thirty-foot waves. Little ___3___ the crew members realize when they departed that they would face the storm of the century. Not only ___4___ the hurricane intensify beyond all predictions, but it also changed course unexpectedly, putting them directly in its path. Hardly ___5___ they secured the cargo when the first massive waves began crashing over the deck. Seldom ___6___ modern vessels encounter such extreme maritime conditions. No sooner ___7___ they weathered one wave than another, even larger, would threaten to overwhelm them. Not until the storm reached its peak ___8___ Captain Rodriguez make the difficult decision to abandon the original route. Scarcely ___9___ anyone on board sleep during the three-day ordeal as the ship battled against nature's fury. Neither ___10___ the crew panic despite the danger nor ___11___ they question their captain's leadership during the crisis. The coast guard monitored their progress constantly, and never ___12___ rescue services tracked a vessel through such treacherous waters. Other ships in the area sought shelter in ports, but rarely ___13___ Captain Rodriguez abandon a humanitarian mission, regardless of personal risk. When they finally reached their destination, the grateful recipients welcomed them as heroes, and seldom ___14___ medical supplies arrived at such a critical moment to save lives.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "do"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "do"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "This maritime adventure passage demonstrates inversion with negative adverbials across different tenses and contexts. The exercise reinforces proper auxiliary verb selection for emphatic inversion structures.",
+                "ru": "Этот отрывок о морском приключении демонстрирует инверсию с отрицательными наречиями в различных временах и контекстах. Упражнение закрепляет правильный выбор вспомогательных глаголов для эмфатических структур инверсии.",
+                "uz": "Ushbu dengiz sarguzashti parchasi turli zamon va kontekstlarda inkor ravishlar bilan inversiyani ko'rsatadi. Mashq ta'kidlovchi inversiya tuzilmalari uchun to'g'ri yordamchi fe'l tanlashni mustahkamlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The prestigious International Piano Competition had attracted contestants from fifty countries, but never ___1___ the judges heard such a remarkable performance as the one delivered by seventeen-year-old Aleksandr Petrov. The young musician from a small Russian town had been playing piano for only eight years, and rarely ___2___ self-taught pianists reach such an advanced level of technical proficiency. Little ___3___ anyone in the audience expect that this unknown competitor would outshine seasoned professionals with decades of formal training. Not only ___4___ Aleksandr demonstrate flawless technique throughout the challenging repertoire, but he also brought an emotional depth that moved even the most critical listeners to tears. Hardly ___5___ he finished Chopin's most difficult etude when the entire concert hall erupted in thunderous applause. Seldom ___6___ classical music performances receive such spontaneous standing ovations. No sooner ___7___ the final notes of Rachmaninoff's Piano Concerto No. 2 faded than the judges knew they had witnessed something extraordinary. Not until the competition concluded ___8___ Aleksandr realize that he had not only won first place but also broken the record for the highest score in the competition's fifty-year history. Scarcely ___9___ he contain his emotions as he accepted the golden trophy before an audience of music lovers and critics from around the world. Neither ___10___ his parents expect such a triumph nor ___11___ they prepared for the instant fame that would follow their son's victory. Music conservatories immediately offered him full scholarships, and never ___12___ such prestigious institutions competed so intensely for a single student. Record labels approached him with lucrative contracts, but rarely ___13___ young artists receive such attention without years of professional experience and extensive marketing campaigns.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "do"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "do"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "do"
+                }
+            ],
+            "explanation": {
+                "en": "This musical competition passage practices inversion with negative adverbials in a performance context. The exercise covers the full range of negative adverbial inversions with appropriate auxiliary verbs for different tenses and structures.",
+                "ru": "Этот отрывок о музыкальном конкурсе отрабатывает инверсию с отрицательными наречиями в контексте исполнения. Упражнение охватывает полный спектр инверсий с отрицательными наречиями с соответствующими вспомогательными глаголами для различных времен и структур.",
+                "uz": "Ushbu musiqa tanlovi parchasi ijro kontekstida inkor ravishlar bilan inversiyani mashq qiladi. Mashq turli zamon va tuzilmalar uchun tegishli yordamchi fe'llar bilan inkor ravish inversiyalarining to'liq spektrini qamrab oladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Dr. Elena Vasquez had been studying climate patterns in the Antarctic for fifteen years, but never ___1___ she documented changes occurring at such an alarming rate. The research station where she worked had been monitoring ice formations since 1985, and rarely ___2___ the instruments record temperature fluctuations exceeding normal seasonal variations by such significant margins. Little ___3___ the international scientific community realize how rapidly the polar ice caps were deteriorating until her comprehensive data analysis revealed the shocking truth. Not only ___4___ the ice sheets lose mass faster than any previous models predicted, but the acceleration rate was increasing exponentially each year. Hardly ___5___ her team published their preliminary findings when governments around the world demanded immediate access to the complete dataset. Seldom ___6___ environmental research generated such urgent political responses from world leaders. No sooner ___7___ the United Nations received her report than they convened an emergency session to address the climate crisis. Not until major news networks broadcast her warnings globally ___8___ the general public begin to understand the severity of the situation. Scarcely ___9___ people comprehend that the changes she documented would affect weather patterns, sea levels, and agricultural systems worldwide within the next decade. Neither ___10___ politicians want to acknowledge the economic implications nor ___11___ they prepare for the massive policy changes required to address the crisis effectively. The evidence was overwhelming, and never ___12___ scientific consensus been so clear about humanity's impact on planetary systems. Environmental activists embraced her research enthusiastically, but rarely ___13___ they possess the resources necessary to implement the large-scale solutions her data suggested were urgently needed.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "did"
+                },
+                {
+                    "blank": "3",
+                    "answer": "did"
+                },
+                {
+                    "blank": "4",
+                    "answer": "did"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "did"
+                },
+                {
+                    "blank": "11",
+                    "answer": "did"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "do"
+                }
+            ],
+            "explanation": {
+                "en": "This climate research passage demonstrates inversion with negative adverbials in a scientific context. The exercise systematically tests all major negative adverbial constructions requiring inversion with appropriate auxiliary verbs across different tenses.",
+                "ru": "Этот отрывок о климатических исследованиях демонстрирует инверсию с отрицательными наречиями в научном контексте. Упражнение систематически проверяет все основные конструкции с отрицательными наречиями, требующие инверсии с соответствующими вспомогательными глаголами в различных временах.",
+                "uz": "Ushbu iqlim tadqiqoti parchasi ilmiy kontekstda inkor ravishlar bilan inversiyani ko'rsatadi. Mashq turli zamondagi tegishli yordamchi fe'llar bilan inversiya talab qiluvchi barcha asosiy inkor ravish konstruksiyalarini tizimli ravishda sinaydi."
+            }
+        }
+    ]
+}

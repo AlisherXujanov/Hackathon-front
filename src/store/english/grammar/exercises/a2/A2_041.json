@@ -1,0 +1,684 @@
+{
+    "id": "A2_SECOND_CONDITIONAL_UNREAL_PRESENT_SITUATIONS",
+    "title": "Second conditional - Unreal present situations",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If I was rich, I would buy a house."
+                },
+                {
+                    "answer": "If I were rich, I would buy a house.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I am rich, I would buy a house."
+                }
+            ],
+            "explanation": {
+                "en": "In second conditional sentences, we use 'were' for all persons with the verb 'be', not 'was'.",
+                "ru": "В условных предложениях второго типа мы используем 'were' для всех лиц с глаголом 'be', а не 'was'.",
+                "uz": "'Be' fe'li bilan ikkinchi shartli gaplarda barcha shaxslar uchun 'were' ishlatiladi, 'was' emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "If she will have time, she would help us."
+                },
+                {
+                    "answer": "If she had time, she would help us.",
+                    "correct": true
+                },
+                {
+                    "answer": "If she has time, she would help us."
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional uses past simple in the if-clause and would + base verb in the main clause.",
+                "ru": "Второй тип условного предложения использует Past Simple в if-части и would + основной глагол в главной части.",
+                "uz": "Ikkinchi shartli gaplarda if qismida Past Simple, asosiy qismida esa would + fe'lning asosi ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What you would do if you won the lottery?"
+                },
+                {
+                    "answer": "What would you do if you won the lottery?",
+                    "correct": true
+                },
+                {
+                    "answer": "What will you do if you won the lottery?"
+                }
+            ],
+            "explanation": {
+                "en": "In second conditional questions, the word order is: question word + would + subject + base verb.",
+                "ru": "В вопросах второго типа условного предложения порядок слов: вопросительное слово + would + подлежащее + основной глагол.",
+                "uz": "Ikkinchi shartli gaplardagi savollarda so'z tartibi: savol so'zi + would + ega + fe'lning asosi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "If I would be you, I wouldn't do that."
+                },
+                {
+                    "answer": "If I were you, I wouldn't do that.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I am you, I wouldn't do that."
+                }
+            ],
+            "explanation": {
+                "en": "We never use 'would' in the if-clause of second conditional sentences.",
+                "ru": "Мы никогда не используем 'would' в if-части условных предложений второго типа.",
+                "uz": "Ikkinchi shartli gaplarda if qismida hech qachon 'would' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If they studied harder, they will pass the exam."
+                },
+                {
+                    "answer": "If they studied harder, they would pass the exam.",
+                    "correct": true
+                },
+                {
+                    "answer": "If they study harder, they would pass the exam."
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional expresses unreal present situations with past simple in if-clause and would in main clause.",
+                "ru": "Второй тип условного предложения выражает нереальные настоящие ситуации с Past Simple в if-части и would в главной части.",
+                "uz": "Ikkinchi shartli gap hozirgi vaqtdagi noreal vaziyatlarni ifodalaydi: if qismida Past Simple, asosiy qismida would."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I would travel more if I have more money."
+                },
+                {
+                    "answer": "I would travel more if I had more money.",
+                    "correct": true
+                },
+                {
+                    "answer": "I would travel more if I will have more money."
+                }
+            ],
+            "explanation": {
+                "en": "The if-clause in second conditional always uses past simple, never present simple or future forms.",
+                "ru": "If-часть во втором типе условного предложения всегда использует Past Simple, никогда Present Simple или будущие формы.",
+                "uz": "Ikkinchi shartli gaplarda if qismi doim Past Simple ishlatadi, hech qachon Present Simple yoki kelasi zamon shakllari emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If he was taller, he could play basketball better."
+                },
+                {
+                    "answer": "If he were taller, he could play basketball better.",
+                    "correct": true
+                },
+                {
+                    "answer": "If he is taller, he could play basketball better."
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'be' in second conditional, we use 'were' for all persons, including he/she/it.",
+                "ru": "С глаголом 'be' во втором типе условного предложения мы используем 'were' для всех лиц, включая he/she/it.",
+                "uz": "'Be' fe'li bilan ikkinchi shartli gaplarda barcha shaxslar uchun, shu jumladan he/she/it uchun ham 'were' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She wouldn't be late if she will leave earlier."
+                },
+                {
+                    "answer": "She wouldn't be late if she left earlier.",
+                    "correct": true
+                },
+                {
+                    "answer": "She wouldn't be late if she leaves earlier."
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional describes hypothetical situations using past simple in the if-clause.",
+                "ru": "Второй тип условного предложения описывает гипотетические ситуации, используя Past Simple в if-части.",
+                "uz": "Ikkinchi shartli gap faraziy vaziyatlarni tasvirlaydi va if qismida Past Simple ishlatadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If we would have a car, we could drive to the beach."
+                },
+                {
+                    "answer": "If we had a car, we could drive to the beach.",
+                    "correct": true
+                },
+                {
+                    "answer": "If we have a car, we could drive to the beach."
+                }
+            ],
+            "explanation": {
+                "en": "The if-clause in second conditional uses past simple, not 'would have' or present simple.",
+                "ru": "If-часть во втором типе условного предложения использует Past Simple, а не 'would have' или Present Simple.",
+                "uz": "Ikkinchi shartli gaplarda if qismi Past Simple ishlatadi, 'would have' yoki Present Simple emas."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "If it will rain tomorrow, I would stay home."
+                },
+                {
+                    "answer": "If it rained tomorrow, I would stay home.",
+                    "correct": true
+                },
+                {
+                    "answer": "If it rains tomorrow, I would stay home."
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional can refer to unlikely future events using past simple in the if-clause.",
+                "ru": "Второй тип условного предложения может относиться к маловероятным будущим событиям, используя Past Simple в if-части.",
+                "uz": "Ikkinchi shartli gap kelajakdagi ehtimoli kam voqealarni if qismida Past Simple bilan ifodalashi mumkin."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If I ___ (be) rich, I would buy a yacht.",
+                "ru": "Дополните предложение: If I ___ (be) rich, I would buy a yacht.",
+                "uz": "Gapni to'ldiring: If I ___ (be) rich, I would buy a yacht."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In second conditional, we use 'were' for all persons with the verb 'be'.",
+                "ru": "Во втором типе условного предложения мы используем 'were' для всех лиц с глаголом 'be'.",
+                "uz": "Ikkinchi shartli gaplarda 'be' fe'li bilan barcha shaxslar uchun 'were' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (help) us if she had time.",
+                "ru": "Дополните предложение: She ___ (help) us if she had time.",
+                "uz": "Gapni to'ldiring: She ___ (help) us if she had time."
+            },
+            "options": [
+                {
+                    "answer": "would help",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In the main clause of second conditional, we use 'would' + base verb.",
+                "ru": "В главной части условного предложения второго типа мы используем 'would' + основной глагол.",
+                "uz": "Ikkinchi shartli gapning asosiy qismida 'would' + fe'lning asosi ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If they ___ (study) harder, they would pass the exam.",
+                "ru": "Дополните предложение: If they ___ (study) harder, they would pass the exam.",
+                "uz": "Gapni to'ldiring: If they ___ (study) harder, they would pass the exam."
+            },
+            "options": [
+                {
+                    "answer": "studied",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The if-clause in second conditional uses past simple form of the verb.",
+                "ru": "If-часть во втором типе условного предложения использует форму Past Simple.",
+                "uz": "Ikkinchi shartli gaplarda if qismi fe'lning Past Simple shaklini ishlatadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: What ___ you do if you won a million dollars?",
+                "ru": "Дополните предложение: What ___ you do if you won a million dollars?",
+                "uz": "Gapni to'ldiring: What ___ you do if you won a million dollars?"
+            },
+            "options": [
+                {
+                    "answer": "would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In second conditional questions, we use 'would' before the subject.",
+                "ru": "В вопросах второго типа условного предложения мы используем 'would' перед подлежащим.",
+                "uz": "Ikkinchi shartli gap savollarida egadan oldin 'would' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If he ___ (have) a car, he wouldn't take the bus.",
+                "ru": "Дополните предложение: If he ___ (have) a car, he wouldn't take the bus.",
+                "uz": "Gapni to'ldiring: If he ___ (have) a car, he wouldn't take the bus."
+            },
+            "options": [
+                {
+                    "answer": "had",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional uses past simple in the if-clause to express unreal present situations.",
+                "ru": "Второй тип условного предложения использует Past Simple в if-части для выражения нереальных настоящих ситуаций.",
+                "uz": "Ikkinchi shartli gap hozirgi vaqtdagi noreal vaziyatlarni ifodalash uchun if qismida Past Simple ishlatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (travel) around the world if I had enough money.",
+                "ru": "Дополните предложение: I ___ (travel) around the world if I had enough money.",
+                "uz": "Gapni to'ldiring: I ___ (travel) around the world if I had enough money."
+            },
+            "options": [
+                {
+                    "answer": "would travel",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The main clause of second conditional uses 'would' + base verb to express hypothetical results.",
+                "ru": "Главная часть условного предложения второго типа использует 'would' + основной глагол для выражения гипотетических результатов.",
+                "uz": "Ikkinchi shartli gapning asosiy qismi faraziy natijalarni ifodalash uchun 'would' + fe'lning asosini ishlatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If we ___ (live) in Paris, we could visit the Louvre every day.",
+                "ru": "Дополните предложение: If we ___ (live) in Paris, we could visit the Louvre every day.",
+                "uz": "Gapni to'ldiring: If we ___ (live) in Paris, we could visit the Louvre every day."
+            },
+            "options": [
+                {
+                    "answer": "lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional expresses imaginary situations using past simple in the if-clause.",
+                "ru": "Второй тип условного предложения выражает воображаемые ситуации, используя Past Simple в if-части.",
+                "uz": "Ikkinchi shartli gap xayoliy vaziyatlarni if qismida Past Simple ishlatib ifodalaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (not be) so tired if she went to bed earlier.",
+                "ru": "Дополните предложение: She ___ (not be) so tired if she went to bed earlier.",
+                "uz": "Gapni to'ldiring: She ___ (not be) so tired if she went to bed earlier."
+            },
+            "options": [
+                {
+                    "answer": "wouldn't be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For negative main clauses in second conditional, we use 'would not' or 'wouldn't'.",
+                "ru": "Для отрицательных главных частей во втором типе условного предложения мы используем 'would not' или 'wouldn't'.",
+                "uz": "Ikkinchi shartli gapning inkor asosiy qismida 'would not' yoki 'wouldn't' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If it ___ (not rain) so much, we could have a picnic.",
+                "ru": "Дополните предложение: If it ___ (not rain) so much, we could have a picnic.",
+                "uz": "Gapni to'ldiring: If it ___ (not rain) so much, we could have a picnic."
+            },
+            "options": [
+                {
+                    "answer": "didn't rain",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Negative if-clauses in second conditional use 'didn't' + base verb.",
+                "ru": "Отрицательные if-части во втором типе условного предложения используют 'didn't' + основной глагол.",
+                "uz": "Ikkinchi shartli gapdagi inkor if qismlari 'didn't' + fe'lning asosini ishlatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If you ___ (know) the answer, you would tell me.",
+                "ru": "Дополните предложение: If you ___ (know) the answer, you would tell me.",
+                "uz": "Gapni to'ldiring: If you ___ (know) the answer, you would tell me."
+            },
+            "options": [
+                {
+                    "answer": "knew",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional uses past simple in the if-clause to describe hypothetical present situations.",
+                "ru": "Второй тип условного предложения использует Past Simple в if-части для описания гипотетических настоящих ситуаций.",
+                "uz": "Ikkinchi shartli gap hozirgi vaqtdagi faraziy vaziyatlarni tasvirlash uchun if qismida Past Simple ishlatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah often dreams about what her life ___1___ be like if she ___2___ different choices in the past. If she ___3___ rich, she ___4___ buy a beautiful house by the ocean and ___5___ travel around the world whenever she wanted. She imagines that if she ___6___ more confident, she ___7___ ask for that promotion at work that she has been wanting for years. Sometimes she thinks about how different things ___8___ be if she ___9___ born in another country. If she ___10___ from Spain, she ___11___ speak Spanish fluently and ___12___ understand the culture better. Sarah also wonders what ___13___ happen if she ___14___ a famous artist. If people ___15___ her paintings, she ___16___ feel so proud and accomplished. But then she realizes that if she ___17___ dreaming so much about hypothetical situations, she ___18___ have more time to work on making her real dreams come true. She knows that if she ___19___ harder and ___20___ more risks, her life ___21___ definitely improve. The truth is, if Sarah ___22___ action today, she ___23___ regret missing another opportunity tomorrow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "made"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "were"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would"
+                },
+                {
+                    "blank": "8",
+                    "answer": "would"
+                },
+                {
+                    "blank": "9",
+                    "answer": "were"
+                },
+                {
+                    "blank": "10",
+                    "answer": "were"
+                },
+                {
+                    "blank": "11",
+                    "answer": "would"
+                },
+                {
+                    "blank": "12",
+                    "answer": "would"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "were"
+                },
+                {
+                    "blank": "15",
+                    "answer": "bought"
+                },
+                {
+                    "blank": "16",
+                    "answer": "would"
+                },
+                {
+                    "blank": "17",
+                    "answer": "weren't"
+                },
+                {
+                    "blank": "18",
+                    "answer": "would"
+                },
+                {
+                    "blank": "19",
+                    "answer": "worked"
+                },
+                {
+                    "blank": "20",
+                    "answer": "took"
+                },
+                {
+                    "blank": "21",
+                    "answer": "would"
+                },
+                {
+                    "blank": "22",
+                    "answer": "took"
+                },
+                {
+                    "blank": "23",
+                    "answer": "wouldn't"
+                }
+            ],
+            "explanation": {
+                "en": "Second conditional uses past simple in if-clauses and would/could/might + base verb in main clauses to express unreal present situations.",
+                "ru": "Второй тип условного предложения использует Past Simple в if-частях и would/could/might + основной глагол в главных частях для выражения нереальных настоящих ситуаций.",
+                "uz": "Ikkinchi shartli gap hozirgi vaqtdagi noreal vaziyatlarni ifodalash uchun if qismlarida Past Simple, asosiy qismlarda esa would/could/might + fe'lning asosini ishlatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Mark and his friends often discuss what they ___1___ do if they ___2___ unlimited money and time. If Mark ___3___ choose any career, he ___4___ become a professional photographer and ___5___ around the world taking pictures of wildlife. His friend Tom says that if he ___6___ the chance, he ___7___ open a restaurant because he loves cooking. If the restaurant ___8___ successful, Tom ___9___ hire his friends to work with him. Lisa dreams about what ___10___ happen if she ___11___ a famous musician. If she ___12___ concerts in big venues, she ___13___ feel incredibly happy. She believes that if she ___14___ practice the piano eight hours every day, she ___15___ improve much faster. Their friend Jake wonders what his life ___16___ be like if he ___17___ born with different talents. If he ___18___ naturally good at sports, he ___19___ try to become a professional athlete. However, Jake realizes that if he ___20___ complaining about what he doesn't have, he ___21___ appreciate his current abilities more. All of them agree that if they ___22___ working towards their goals instead of just dreaming, they ___23___ achieve much more in life.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "travel"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "would"
+                },
+                {
+                    "blank": "10",
+                    "answer": "would"
+                },
+                {
+                    "blank": "11",
+                    "answer": "were"
+                },
+                {
+                    "blank": "12",
+                    "answer": "performed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "could"
+                },
+                {
+                    "blank": "15",
+                    "answer": "would"
+                },
+                {
+                    "blank": "16",
+                    "answer": "would"
+                },
+                {
+                    "blank": "17",
+                    "answer": "were"
+                },
+                {
+                    "blank": "18",
+                    "answer": "were"
+                },
+                {
+                    "blank": "19",
+                    "answer": "would"
+                },
+                {
+                    "blank": "20",
+                    "answer": "stopped"
+                },
+                {
+                    "blank": "21",
+                    "answer": "would"
+                },
+                {
+                    "blank": "22",
+                    "answer": "started"
+                },
+                {
+                    "blank": "23",
+                    "answer": "would"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates second conditional structure with hypothetical present situations using past tenses in if-clauses and modal verbs in main clauses.",
+                "ru": "Этот отрывок демонстрирует структуру второго условного типа с гипотетическими настоящими ситуациями, используя прошедшие времена в if-частях и модальные глаголы в главных частях.",
+                "uz": "Bu matn ikkinchi shartli gap tuzilishini ko'rsatadi: hozirgi vaqtdagi faraziy vaziyatlar if qismlarida o'tgan zamon, asosiy qismlarda modal fe'llar ishlatilgan."
+            }
+        }
+    ]
+}

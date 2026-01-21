@@ -1,0 +1,817 @@
+{
+    "id": "A2_PRESENT_SIMPLE_-_ALL_USES_AND_EXPANDED_CONTEXTS",
+    "title": "Present simple - All uses and expanded contexts",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He go to the gym on Mondays."
+                },
+                {
+                    "answer": "He goes to the gym on Mondays.",
+                    "correct": true
+                },
+                {
+                    "answer": "He going to the gym on Mondays."
+                }
+            ],
+            "explanation": {
+                "en": "For the third person singular (he, she, it), we add '-es' to the verb 'go'. This is used to talk about habits and routines.",
+                "ru": "Для третьего лица единственного числа (he, she, it) мы добавляем '-es' к глаголу 'go'. Это используется для описания привычек и рутины.",
+                "uz": "Uchinchi shaxs birlik (he, she, it) uchun 'go' fe'liga '-es' qo'shimchasi qo'shiladi. Bu odatlar va kun tartibini ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Do she like coffee?"
+                },
+                {
+                    "answer": "She likes coffee, doesn't she?",
+                    "correct": true
+                },
+                {
+                    "answer": "Does she likes coffee?"
+                }
+            ],
+            "explanation": {
+                "en": "In tag questions, the verb form matches the main sentence. The auxiliary verb 'does' is used with 'she' and the main verb 'like' stays in its base form.",
+                "ru": "В разделительных вопросах форма глагола соответствует основному предложению. Вспомогательный глагол 'does' используется с 'she', а основной глагол 'like' остается в своей базовой форме.",
+                "uz": "Inkor so'roq gaplarda fe'l shakli asosiy gapga mos keladi. 'Does' yordamchi fe'li 'she' bilan ishlatiladi va asosiy fe'l 'like' o'zining asosiy shaklida qoladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The sun rise in the east."
+                },
+                {
+                    "answer": "The sun rises in the east.",
+                    "correct": true
+                },
+                {
+                    "answer": "The sun is rising in the east."
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used for universal truths and scientific facts that are always true. The verb must agree with the subject.",
+                "ru": "Настоящее простое время используется для выражения общепризнанных истин и научных фактов, которые всегда верны. Глагол должен согласовываться с подлежащим.",
+                "uz": "Hozirgi oddiy zamon umumiy haqiqatlar va doimiy to'g'ri bo'lgan ilmiy faktlarni ifodalash uchun ishlatiladi. Fe'l kesimga mos kelishi shart."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I not believe you."
+                },
+                {
+                    "answer": "I don't believe you.",
+                    "correct": true
+                },
+                {
+                    "answer": "I doesn't believe you."
+                }
+            ],
+            "explanation": {
+                "en": "For negative sentences with 'I', 'we', 'you', and 'they', we use the auxiliary verb 'do not' or 'don't' followed by the base form of the main verb.",
+                "ru": "В отрицательных предложениях с 'I', 'we', 'you' и 'they' мы используем вспомогательный глагол 'do not' или 'don't', за которым следует базовая форма основного глагола.",
+                "uz": " 'I', 'we', 'you' va 'they' bilan inkor gaplarni yasashda 'do not' yoki 'don't' yordamchi fe'lidan so'ng asosiy fe'lning boshlang'ich shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We are play tennis every Saturday."
+                },
+                {
+                    "answer": "We plays tennis every Saturday."
+                },
+                {
+                    "answer": "We play tennis every Saturday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used for scheduled events or regular activities. The verb form should be 'play' with the subject 'we'.",
+                "ru": "Настоящее простое время используется для запланированных событий или регулярных занятий. С подлежащим 'we' используется форма глагола 'play'.",
+                "uz": "Hozirgi oddiy zamon rejalashtirilgan tadbirlar yoki muntazam faoliyatlar uchun ishlatiladi. 'We' kesimi bilan 'play' fe'l shakli ishlatilishi kerak."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The movie starts at 8 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "The movie is start at 8 PM."
+                },
+                {
+                    "answer": "The movie start at 8 PM."
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used to talk about scheduled events, such as a movie time. The verb 'starts' agrees with the singular subject 'the movie'.",
+                "ru": "Настоящее простое время используется для разговора о запланированных событиях, таких как время начала фильма. Глагол 'starts' согласуется с единственным числом 'the movie'.",
+                "uz": "Hozirgi oddiy zamon filmlarning boshlanish vaqti kabi rejalashtirilgan voqealar haqida gapirish uchun ishlatiladi. 'Starts' fe'li birlik kesim 'the movie' bilan mos keladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They don't speaks English."
+                },
+                {
+                    "answer": "They don't speak English.",
+                    "correct": true
+                },
+                {
+                    "answer": "They not speak English."
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'do not' or 'don't' is used with plural subjects, and it is followed by the base form of the main verb 'speak'.",
+                "ru": "Вспомогательный глагол 'do not' или 'don't' используется с подлежащими во множественном числе, за которым следует базовая форма основного глагола 'speak'.",
+                "uz": "'Do not' yoki 'don't' yordamchi fe'li ko'plikdagi gaplar bilan ishlatiladi va undan so'ng 'speak' fe'lining asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She are a doctor."
+                },
+                {
+                    "answer": "She is a doctor.",
+                    "correct": true
+                },
+                {
+                    "answer": "She be a doctor."
+                }
+            ],
+            "explanation": {
+                "en": "The present simple form of the verb 'to be' for the third person singular 'she' is 'is'. This is used to state a fact about a person's identity or profession.",
+                "ru": "Форма настоящего простого времени глагола 'to be' для третьего лица единственного числа 'she' — 'is'. Это используется для утверждения факта о личности или профессии человека.",
+                "uz": "Uchinchi shaxs birlikdagi 'she' uchun 'to be' fe'lining hozirgi oddiy zamon shakli 'is' hisoblanadi. Bu insonning shaxsi yoki kasbi haqidagi faktni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They have not any money."
+                },
+                {
+                    "answer": "They not have any money."
+                },
+                {
+                    "answer": "They don't have any money.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'have' for 'they' is 'do not have' or 'don't have'. We use 'do not' followed by the base form of the verb.",
+                "ru": "Отрицательная форма 'have' для 'they' - 'do not have' или 'don't have'. Мы используем 'do not', за которым следует базовая форма глагола.",
+                "uz": "'They' uchun 'have' ning inkor shakli 'do not have' yoki 'don't have' bo'ladi. Biz 'do not' dan so'ng fe'lning asosiy shaklini ishlatamiz."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How often you go to the dentist?"
+                },
+                {
+                    "answer": "How often do you go to the dentist?",
+                    "correct": true
+                },
+                {
+                    "answer": "How often does you go to the dentist?"
+                }
+            ],
+            "explanation": {
+                "en": "To ask a question about a habit with 'you', we use the auxiliary verb 'do' before the subject. 'Does' is only for 'he', 'she', and 'it'.",
+                "ru": "Чтобы задать вопрос о привычке с 'you', мы используем вспомогательный глагол 'do' перед подлежащим. 'Does' используется только с 'he', 'she' и 'it'.",
+                "uz": "'You' bilan biror odat haqida savol berish uchun, kesimdan oldin 'do' yordamchi fe'lidan foydalanamiz. 'Does' faqat 'he', 'she' va 'it' bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: My mother ___ (teach) English.",
+                "ru": "Дополните предложение правильной формой глагола: My mother ___ (teach) English.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: My mother ___ (teach) English."
+            },
+            "options": [
+                {
+                    "answer": "teaches",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my mother' is a third person singular, so we add '-es' to the verb 'teach'.",
+                "ru": "Подлежащее 'my mother' - третье лицо единственного числа, поэтому мы добавляем '-es' к глаголу 'teach'.",
+                "uz": "Kesim 'my mother' uchinchi shaxs birlikda bo'lganligi sababli, 'teach' fe'liga '-es' qo'shimchasi qo'shiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: We ___ (not/work) on Sundays.",
+                "ru": "Дополните предложение правильной формой глагола: We ___ (not/work) on Sundays.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: We ___ (not/work) on Sundays."
+            },
+            "options": [
+                {
+                    "answer": "don't work/do not work",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a negative statement with 'we', use 'don't' followed by the base form of the verb.",
+                "ru": "Для отрицательного утверждения с 'we' используйте 'don't', за которым следует базовая форма глагола.",
+                "uz": "'We' bilan inkor gap yasash uchun 'don't' va undan keyin fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: Water ___ (boil) at 100 degrees Celsius.",
+                "ru": "Дополните предложение правильной формой глагола: Water ___ (boil) at 100 degrees Celsius.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: Water ___ (boil) at 100 degrees Celsius."
+            },
+            "options": [
+                {
+                    "answer": "boils",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a scientific fact, so we use the simple present tense. The subject 'water' is singular, so we add '-s' to the verb.",
+                "ru": "Это научный факт, поэтому мы используем настоящее простое время. Подлежащее 'water' в единственном числе, поэтому мы добавляем '-s' к глаголу.",
+                "uz": "Bu ilmiy fakt bo'lgani uchun hozirgi oddiy zamonni ishlatamiz. 'Water' kesimi birlikda bo'lgani uchun fe'lga '-s' qo'shimchasi qo'shiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: My brother ___ (have) a new car.",
+                "ru": "Дополните предложение правильной формой глагола: My brother ___ (have) a new car.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: My brother ___ (have) a new car."
+            },
+            "options": [
+                {
+                    "answer": "has",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct form of 'have' for the third person singular 'my brother' is 'has'.",
+                "ru": "Правильная форма 'have' для третьего лица единственного числа 'my brother' - 'has'.",
+                "uz": "Uchinchi shaxs birlik 'my brother' uchun 'have' fe'lining to'g'ri shakli 'has' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ he work at the bank?",
+                "ru": "Дополните предложение: ___ he work at the bank?",
+                "uz": "Gapni to'ldiring: ___ he work at the bank?"
+            },
+            "options": [
+                {
+                    "answer": "Does",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with 'he', 'she', or 'it', we use the auxiliary verb 'does' at the beginning of the sentence.",
+                "ru": "Чтобы сформировать вопрос с 'he', 'she' или 'it', мы используем вспомогательный глагол 'does' в начале предложения.",
+                "uz": "'He', 'she' yoki 'it' bilan savol yasash uchun gapning boshida 'does' yordamchi fe'lidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: They ___ (live) in a big city.",
+                "ru": "Дополните предложение правильной формой глагола: They ___ (live) in a big city.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: They ___ (live) in a big city."
+            },
+            "options": [
+                {
+                    "answer": "live",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For 'they', we use the base form of the verb 'live' to describe a general fact or situation.",
+                "ru": "Для 'they' мы используем базовую форму глагола 'live', чтобы описать общий факт или ситуацию.",
+                "uz": "'They' uchun umumiy fakt yoki holatni ta'riflash uchun 'live' fe'lining asosiy shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: I always ___ (get up) early.",
+                "ru": "Дополните предложение правильной формой глагола: I always ___ (get up) early.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: I always ___ (get up) early."
+            },
+            "options": [
+                {
+                    "answer": "get up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'I' uses the base form of the verb 'get up' to describe a repeated action or habit.",
+                "ru": "Подлежащее 'I' использует базовую форму глагола 'get up' для описания повторяющегося действия или привычки.",
+                "uz": "Kesim 'I' takrorlanuvchi harakat yoki odatni ifodalash uchun 'get up' fe'lining asosiy shaklidan foydalanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: The plane ___ (leave) at 10 AM.",
+                "ru": "Дополните предложение правильной формой глагола: The plane ___ (leave) at 10 AM.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: The plane ___ (leave) at 10 AM."
+            },
+            "options": [
+                {
+                    "answer": "leaves",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for fixed schedules. The subject 'the plane' is singular, so we add '-s' to the verb.",
+                "ru": "Настоящее простое время используется для фиксированного расписания. Подлежащее 'the plane' в единственном числе, поэтому мы добавляем '-s' к глаголу.",
+                "uz": "Hozirgi oddiy zamon qat'iy rejalashtirilgan ishlar uchun ishlatiladi. 'The plane' kesimi birlikda bo'lgani uchun fe'lga '-s' qo'shimchasi qo'shiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: We ___ (not/watch) TV in the morning.",
+                "ru": "Дополните предложение правильной формой глагола: We ___ (not/watch) TV in the morning.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: We ___ (not/watch) TV in the morning."
+            },
+            "options": [
+                {
+                    "answer": "don't watch/do not watch",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a negative habit with 'we', use 'don't' followed by the base form of the verb.",
+                "ru": "Для отрицательной привычки с 'we' используйте 'don't', за которым следует базовая форма глагола.",
+                "uz": "'We' bilan inkor odatni ifodalash uchun 'don't' va undan keyin fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: He ___ (not/like) carrots.",
+                "ru": "Дополните предложение правильной формой глагола: He ___ (not/like) carrots.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: He ___ (not/like) carrots."
+            },
+            "options": [
+                {
+                    "answer": "doesn't like/does not like",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a negative statement with 'he', 'she', or 'it', use 'doesn't' followed by the base form of the verb.",
+                "ru": "Для отрицательного утверждения с 'he', 'she' или 'it' используйте 'doesn't', за которым следует базовая форма глагола.",
+                "uz": "'He', 'she' yoki 'it' bilan inkor gap yasash uchun 'doesn't' va undan keyin fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: My dog ___ (bark) at strangers.",
+                "ru": "Дополните предложение правильной формой глагола: My dog ___ (bark) at strangers.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: My dog ___ (bark) at strangers."
+            },
+            "options": [
+                {
+                    "answer": "barks",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my dog' is singular, so we add '-s' to the verb 'bark' to describe a habitual action.",
+                "ru": "Подлежащее 'my dog' в единственном числе, поэтому мы добавляем '-s' к глаголу 'bark' для описания привычного действия.",
+                "uz": "'My dog' kesimi birlikda bo'lgani uchun, odatiy harakatni ifodalash uchun 'bark' fe'liga '-s' qo'shimchasi qo'shiladi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you live near here?",
+                "ru": "Дополните предложение: ___ you live near here?",
+                "uz": "Gapni to'ldiring: ___ you live near here?"
+            },
+            "options": [
+                {
+                    "answer": "Do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with 'you', we use the auxiliary verb 'do' at the beginning of the sentence.",
+                "ru": "Чтобы сформировать вопрос с 'you', мы используем вспомогательный глагол 'do' в начале предложения.",
+                "uz": "'You' bilan savol yasash uchun gapning boshida 'do' yordamchi fe'lidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa13",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: She ___ (study) for her exams every night.",
+                "ru": "Дополните предложение правильной формой глагола: She ___ (study) for her exams every night.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: She ___ (study) for her exams every night."
+            },
+            "options": [
+                {
+                    "answer": "studies",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'she' is a third person singular, so the verb 'study' changes to 'studies'.",
+                "ru": "Подлежащее 'she' - третье лицо единственного числа, поэтому глагол 'study' меняется на 'studies'.",
+                "uz": "'She' kesimi uchinchi shaxs birlikda bo'lgani uchun 'study' fe'li 'studies' ga o'zgaradi."
+            }
+        },
+        {
+            "id": "sa14",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: They ___ (not/go) to bed late.",
+                "ru": "Дополните предложение правильной формой глагола: They ___ (not/go) to bed late.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: They ___ (not/go) to bed late."
+            },
+            "options": [
+                {
+                    "answer": "don't go/do not go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a negative statement with 'they', use 'don't' followed by the base form of the verb 'go'.",
+                "ru": "Для отрицательного утверждения с 'they' используйте 'don't', за которым следует базовая форма глагола 'go'.",
+                "uz": "'They' bilan inkor gap yasash uchun 'don't' va undan keyin 'go' fe'lining asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa15",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: The school bus ___ (arrive) at 8:15 AM every day.",
+                "ru": "Дополните предложение правильной формой глагола: The school bus ___ (arrive) at 8:15 AM every day.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: The school bus ___ (arrive) at 8:15 AM every day."
+            },
+            "options": [
+                {
+                    "answer": "arrives",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This describes a scheduled event. The subject 'the school bus' is singular, so we add '-s' to the verb 'arrive'.",
+                "ru": "Это описывает запланированное событие. Подлежащее 'the school bus' в единственном числе, поэтому мы добавляем '-s' к глаголу 'arrive'.",
+                "uz": "Bu rejalashtirilgan voqeani tasvirlaydi. 'The school bus' kesimi birlikda bo'lgani uchun, 'arrive' fe'liga '-s' qo'shimchasi qo'shiladi."
+            }
+        },
+        {
+            "id": "sa16",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: The earth ___ (revolve) around the sun.",
+                "ru": "Дополните предложение правильной формой глагола: The earth ___ (revolve) around the sun.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: The earth ___ (revolve) around the sun."
+            },
+            "options": [
+                {
+                    "answer": "revolves",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a scientific fact. We use the simple present tense with the singular subject 'the earth'.",
+                "ru": "Это научный факт. Мы используем настоящее простое время с единственным числом 'the earth'.",
+                "uz": "Bu ilmiy fakt. Biz birlikdagi 'the earth' kesimi bilan hozirgi oddiy zamonni ishlatamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Sarah, is a very busy person. Every morning, she ___1___ (wake up) early, usually at 6 AM. She ___2___ (not/like) to be late. After she ___3___ (get) dressed, she ___4___ (make) a big breakfast. Her brother, Tom, often ___5___ (help) her. They ___6___ (eat) breakfast together, and then Sarah ___7___ (go) to the bus stop. The bus ___8___ (arrive) exactly at 7:30 AM. Sarah ___9___ (work) at a library downtown. She ___10___ (love) her job because she ___11___ (meet) a lot of interesting people. On weekends, she ___12___ (not/work) and she ___13___ (relax) at home. She ___14___ (read) books and ___15___ (listen) to music.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "wakes up"
+                },
+                {
+                    "blank": "2",
+                    "answer": "doesn't like/does not like"
+                },
+                {
+                    "blank": "3",
+                    "answer": "gets"
+                },
+                {
+                    "blank": "4",
+                    "answer": "makes"
+                },
+                {
+                    "blank": "5",
+                    "answer": "helps"
+                },
+                {
+                    "blank": "6",
+                    "answer": "eat"
+                },
+                {
+                    "blank": "7",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "8",
+                    "answer": "arrives"
+                },
+                {
+                    "blank": "9",
+                    "answer": "works"
+                },
+                {
+                    "blank": "10",
+                    "answer": "loves"
+                },
+                {
+                    "blank": "11",
+                    "answer": "meets"
+                },
+                {
+                    "blank": "12",
+                    "answer": "doesn't work/does not work"
+                },
+                {
+                    "blank": "13",
+                    "answer": "relaxes"
+                },
+                {
+                    "blank": "14",
+                    "answer": "reads"
+                },
+                {
+                    "blank": "15",
+                    "answer": "listens"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the simple present tense to describe a person's daily routine and habits. Verbs for singular subjects (Sarah, she, her brother, the bus) get '-s' or '-es', while plural subjects (they) and negative sentences use 'do/does' + base form.",
+                "ru": "Этот текст использует настоящее простое время для описания распорядка дня и привычек человека. Глаголы для единственного числа (Sarah, she, her brother, the bus) получают окончания '-s' или '-es', а для множественного числа (they) и в отрицательных предложениях используется 'do/does' + базовая форма глагола.",
+                "uz": "Ushbu matn bir kishining kundalik rejimi va odatlarini tasvirlash uchun hozirgi oddiy zamonni ishlatadi. Birlikdagi kesimlar (Sarah, she, her brother, the bus) uchun fe'llarga '-s' yoki '-es' qo'shimchalari qo'shiladi, ko'plikdagi kesimlar (they) va inkor gaplar uchun esa 'do/does' + fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Earth is our home planet. It ___1___ (be) the third planet from the sun. The Earth ___2___ (rotate) on its axis, which ___3___ (cause) day and night. It ___4___ (also/move) around the sun, and this movement ___5___ (create) the seasons. The climate ___6___ (depend) on many factors, like how much sunlight a region ___7___ (receive) and how close it is to the ocean. People ___8___ (live) all over the world, but not everyone ___9___ (have) the same climate. For example, in some countries, it never ___10___ (snow). Water ___11___ (freeze) at 0 degrees Celsius, and ice ___12___ (not/float) on water, it ___13___ (do) the opposite. Scientists ___14___ (study) the planet to understand its systems better. They ___15___ (know) that the Earth is a complex and beautiful place.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "rotates"
+                },
+                {
+                    "blank": "3",
+                    "answer": "causes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "also moves"
+                },
+                {
+                    "blank": "5",
+                    "answer": "creates"
+                },
+                {
+                    "blank": "6",
+                    "answer": "depends"
+                },
+                {
+                    "blank": "7",
+                    "answer": "receives"
+                },
+                {
+                    "blank": "8",
+                    "answer": "live"
+                },
+                {
+                    "blank": "9",
+                    "answer": "has"
+                },
+                {
+                    "blank": "10",
+                    "answer": "snows"
+                },
+                {
+                    "blank": "11",
+                    "answer": "freezes"
+                },
+                {
+                    "blank": "12",
+                    "answer": "doesn't float/does not float"
+                },
+                {
+                    "blank": "13",
+                    "answer": "does"
+                },
+                {
+                    "blank": "14",
+                    "answer": "study"
+                },
+                {
+                    "blank": "15",
+                    "answer": "know"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the simple present tense to describe universal truths and scientific facts. We use the '-s' or '-es' ending for singular subjects and the base form for plural subjects. Negative statements are formed with 'do/does' + not.",
+                "ru": "Этот текст использует настоящее простое время для описания общепризнанных истин и научных фактов. Мы используем окончания '-s' или '-es' для подлежащих в единственном числе и базовую форму для подлежащих во множественном числе. Отрицательные утверждения формируются с помощью 'do/does' + not.",
+                "uz": "Bu matn universal haqiqatlar va ilmiy faktlarni tasvirlash uchun hozirgi oddiy zamonni ishlatadi. Biz birlikdagi kesimlar uchun '-s' yoki '-es' qo'shimchasini va ko'plikdagi kesimlar uchun fe'lning asosiy shaklini ishlatamiz. Inkor gaplar 'do/does' + not bilan yasaladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every morning, I ___1___ (take) the bus to my office. The bus ___2___ (stop) near my house, so it's very convenient. My colleague, Maria, ___3___ (usually/arrive) at the office before me. She ___4___ (live) closer to the office than I do. We ___5___ (work) on a team, and we ___6___ (have) a meeting every morning at 9 AM. I ___7___ (not/enjoy) the meetings, but they ___8___ (be) necessary. My boss ___9___ (not/like) when we are late. Our company ___10___ (produce) software for small businesses. We ___11___ (design) the products, and the sales team ___12___ (sell) them. I ___13___ (not/know) much about sales, but I ___14___ (be) good at design. Our team leader ___15___ (believe) in us.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "take"
+                },
+                {
+                    "blank": "2",
+                    "answer": "stops"
+                },
+                {
+                    "blank": "3",
+                    "answer": "usually arrives"
+                },
+                {
+                    "blank": "4",
+                    "answer": "lives"
+                },
+                {
+                    "blank": "5",
+                    "answer": "work"
+                },
+                {
+                    "blank": "6",
+                    "answer": "have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "don't enjoy/do not enjoy"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "doesn't like/does not like"
+                },
+                {
+                    "blank": "10",
+                    "answer": "produces"
+                },
+                {
+                    "blank": "11",
+                    "answer": "design"
+                },
+                {
+                    "blank": "12",
+                    "answer": "sells"
+                },
+                {
+                    "blank": "13",
+                    "answer": "don't know/do not know"
+                },
+                {
+                    "blank": "14",
+                    "answer": "am"
+                },
+                {
+                    "blank": "15",
+                    "answer": "believes"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the simple present tense to describe a daily routine and a general situation. The verb form changes based on the subject (singular vs. plural) and the sentence type (affirmative vs. negative).",
+                "ru": "Этот текст использует настоящее простое время для описания распорядка дня и общей ситуации. Форма глагола меняется в зависимости от подлежащего (единственное или множественное число) и типа предложения (утвердительное или отрицательное).",
+                "uz": "Ushbu matn kundalik rejim va umumiy vaziyatni tasvirlash uchun hozirgi oddiy zamonni ishlatadi. Fe'l shakli kesimga (birlik yoki ko'plik) va gap turiga (tasdiq yoki inkor) qarab o'zgaradi."
+            }
+        }
+    ]
+}

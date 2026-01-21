@@ -1,0 +1,495 @@
+{
+    "id": "C2_ADVANCED_STYLISTIC_DEVICES_LITERARY_AND_RHETORICAL_TECHNIQUES",
+    "title": "Advanced stylistic devices - Literary and rhetorical techniques",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the most effective use of chiasmus?",
+                "ru": "Какое предложение демонстрирует наиболее эффективное использование хиазма?",
+                "uz": "Qaysi gap xiazm stilistik usulini eng samarali ishlatishni namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "Ask not what your country can do for you—ask what you can do for your country.",
+                    "correct": true
+                },
+                {
+                    "answer": "The country needs citizens who are willing to serve and sacrifice for others."
+                },
+                {
+                    "answer": "Citizens should always remember their duty to serve their country with dedication."
+                }
+            ],
+            "explanation": {
+                "en": "Chiasmus involves the reversal of grammatical structures in successive phrases or clauses, creating a mirror-like effect that emphasizes contrast and balance.",
+                "ru": "Хиазм включает обращение грамматических структур в последующих фразах или предложениях, создавая зеркальный эффект, который подчеркивает контраст и баланс.",
+                "uz": "Xiazm ketma-ket iboralar yoki gaplarda grammatik tuzilmalarning teskari tartibda qo'llanishini o'z ichiga oladi va qarama-qarshilik hamda muvozanatni ta'kidlovchi oyna effektini yaratadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which example best illustrates the use of zeugma?",
+                "ru": "Какой пример лучше всего иллюстрирует использование зевгмы?",
+                "uz": "Qaysi misol zevgma ishlatishni eng yaxshi tarzda ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She broke her promise and her mother's heart.",
+                    "correct": true
+                },
+                {
+                    "answer": "The broken promise caused great emotional pain to everyone involved."
+                },
+                {
+                    "answer": "Her promise was broken just like the fragile trust between them."
+                }
+            ],
+            "explanation": {
+                "en": "Zeugma occurs when one verb governs two objects in different senses, creating a striking effect through the unexpected pairing of literal and figurative meanings.",
+                "ru": "Зевгма возникает, когда один глагол управляет двумя дополнениями в разных смыслах, создавая поразительный эффект через неожиданное сочетание буквальных и образных значений.",
+                "uz": "Zevgma bir fe'l ikki to'ldiruvchini turli ma'nolarda boshqarganda yuzaga keladi va tom ma'no bilan majoziy ma'noning kutilmagan birlashuvidan hayratlanarli effekt yaratadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which passage demonstrates effective use of polysyndeton?",
+                "ru": "Какой отрывок демонстрирует эффективное использование полисиндетона?",
+                "uz": "Qaysi parcha polisindeton samarali ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "He ran and jumped and leaped and bounded across the field.",
+                    "correct": true
+                },
+                {
+                    "answer": "He ran, jumped, leaped, bounded across the field with incredible speed."
+                },
+                {
+                    "answer": "Running, jumping, leaping, he bounded across the field like a gazelle."
+                }
+            ],
+            "explanation": {
+                "en": "Polysyndeton is the deliberate repetition of conjunctions in close succession, creating emphasis and a sense of accumulation or overwhelming abundance.",
+                "ru": "Полисиндетон - это намеренное повторение союзов в тесной последовательности, создающее акцент и ощущение накопления или подавляющего изобилия.",
+                "uz": "Polisindeton bog'lovchilarning ketma-ket qasddan takrorlanishi bo'lib, ta'kidlash va to'planish yoki haddan tashqari ko'plik hissini yaratadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence best exemplifies litotes?",
+                "ru": "Какое предложение лучше всего иллюстрирует литоту?",
+                "uz": "Qaysi gap litotani eng yaxshi misol qilib ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The performance was not without its merits.",
+                    "correct": true
+                },
+                {
+                    "answer": "The performance was absolutely magnificent and truly exceptional."
+                },
+                {
+                    "answer": "The performance had some good moments mixed with disappointing ones."
+                }
+            ],
+            "explanation": {
+                "en": "Litotes is a form of understatement that achieves emphasis through deliberate restraint, often using double negatives to affirm something positive.",
+                "ru": "Литота - это форма преуменьшения, которая достигает акцента через намеренную сдержанность, часто используя двойные отрицания для утверждения чего-то положительного.",
+                "uz": "Litota kamaytirish shakli bo'lib, qasddan o'zini tutib turish orqali ta'kidlashga erishadi va ko'pincha ijobiy narsani tasdiqlash uchun qo'sh inkordan foydalanadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which example demonstrates the rhetorical device of anadiplosis?",
+                "ru": "Какой пример демонстрирует риторический прием анадиплосиса?",
+                "uz": "Qaysi misol anadiplosis ritorik usulini namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
+                    "correct": true
+                },
+                {
+                    "answer": "Fear, anger, hate, and suffering are all interconnected human emotions."
+                },
+                {
+                    "answer": "The cycle of fear creates anger which generates hate and causes suffering."
+                }
+            ],
+            "explanation": {
+                "en": "Anadiplosis is the repetition of the last word of one clause at the beginning of the next clause, creating a chain-like progression of ideas.",
+                "ru": "Анадиплосис - это повторение последнего слова одной части предложения в начале следующей части, создавая цепную прогрессию идей.",
+                "uz": "Anadiplosis bir gap qismining oxirgi so'zini keyingi gap qismining boshida takrorlash bo'lib, g'oyalarning zanjirsimon rivojlanishini yaratadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which passage best demonstrates the use of asyndeton?",
+                "ru": "Какой отрывок лучше всего демонстрирует использование асиндетона?",
+                "uz": "Qaysi parcha asindeton ishlatilishini eng yaxshi ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "I came, I saw, I conquered.",
+                    "correct": true
+                },
+                {
+                    "answer": "I came and I saw and then I conquered the enemy completely."
+                },
+                {
+                    "answer": "After I came and saw the situation, I was able to conquer."
+                }
+            ],
+            "explanation": {
+                "en": "Asyndeton is the omission of conjunctions between parts of a sentence, creating a sense of urgency, speed, or overwhelming emotion through rapid succession.",
+                "ru": "Асиндетон - это пропуск союзов между частями предложения, создающий ощущение срочности, скорости или подавляющих эмоций через быструю последовательность.",
+                "uz": "Asindeton gap qismlari orasidagi bog'lovchilarni tashlab qoldirish bo'lib, tez ketma-ketlik orqali shoshilinchlik, tezlik yoki kuchli his-tuyg'ular hissini yaratadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates effective use of epistrophe?",
+                "ru": "Какое предложение демонстрирует эффективное использование эпистрофы?",
+                "uz": "Qaysi gap epistrofa samarali ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "Government of the people, by the people, for the people.",
+                    "correct": true
+                },
+                {
+                    "answer": "The people deserve a government that serves them with dedication."
+                },
+                {
+                    "answer": "People should always remember that government exists to serve people."
+                }
+            ],
+            "explanation": {
+                "en": "Epistrophe is the repetition of the same word or phrase at the end of successive clauses or sentences, creating emphasis and rhythmic unity.",
+                "ru": "Эпистрофа - это повторение одного и того же слова или фразы в конце последующих частей или предложений, создающее акцент и ритмическое единство.",
+                "uz": "Epistrofa bir xil so'z yoki iboraning ketma-ket gap qismlari yoki gaplar oxirida takrorlanishi bo'lib, ta'kidlash va ritmik birlikni yaratadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which example best illustrates the use of oxymoron?",
+                "ru": "Какой пример лучше всего иллюстрирует использование оксюморона?",
+                "uz": "Qaysi misol oksimoron ishlatishni eng yaxshi ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The deafening silence filled the room.",
+                    "correct": true
+                },
+                {
+                    "answer": "The room was completely silent and utterly peaceful."
+                },
+                {
+                    "answer": "The silence in the room was so profound it was almost tangible."
+                }
+            ],
+            "explanation": {
+                "en": "An oxymoron combines contradictory terms to create a paradoxical effect that reveals deeper truth or emphasizes complexity through apparent contradiction.",
+                "ru": "Оксюморон сочетает противоречивые термины для создания парадоксального эффекта, который раскрывает более глубокую истину или подчеркивает сложность через кажущееся противоречие.",
+                "uz": "Oksimoron qarama-qarshi atamalarni birlashtiradi va paradoksal effekt yaratadi, bu esa chuqur haqiqatni ochib beradi yoki ko'rinadigan qarama-qarshilik orqali murakkablikni ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which passage demonstrates the rhetorical technique of gradatio?",
+                "ru": "Какой отрывок демонстрирует риторический прием градацио?",
+                "uz": "Qaysi parcha gradatsio ritorik usulini namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "Labor produces prosperity, prosperity produces leisure, leisure produces philosophy.",
+                    "correct": true
+                },
+                {
+                    "answer": "Labor, prosperity, leisure, and philosophy are all connected in society."
+                },
+                {
+                    "answer": "The connection between labor and philosophy involves prosperity and leisure."
+                }
+            ],
+            "explanation": {
+                "en": "Gradatio (climax) builds intensity through a series of clauses that progress in logical sequence, each building upon the previous to create cumulative effect.",
+                "ru": "Градацио (климакс) создает интенсивность через серию частей, которые развиваются в логической последовательности, каждая строится на предыдущей для создания кумулятивного эффекта.",
+                "uz": "Gradatsio (klimaks) mantiqiy ketma-ketlikda rivojlanadigan gap qismlari orqali intensivlikni yaratadi, har biri oldingi ustiga quriladi va jamlangan effekt hosil qiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence best exemplifies the use of synecdoche?",
+                "ru": "Какое предложение лучше всего иллюстрирует использование синекдохи?",
+                "uz": "Qaysi gap sinekdoxa ishlatishni eng yaxshi misol qilib ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "All hands on deck!",
+                    "correct": true
+                },
+                {
+                    "answer": "Everyone needs to help with this urgent task immediately!"
+                },
+                {
+                    "answer": "The entire crew must work together to solve this problem."
+                }
+            ],
+            "explanation": {
+                "en": "Synecdoche substitutes a part for the whole or vice versa; 'hands' represents the entire people, creating vivid imagery through metonymic substitution.",
+                "ru": "Синекдоха заменяет часть целым или наоборот; 'руки' представляют целых людей, создавая яркие образы через метонимическую замену.",
+                "uz": "Sinekdoxa qismni butun bilan yoki aksincha almashtiradi; 'qo'llar' butun odamlarni ifodalaydi va metonimik almashtirish orqali yorqin tasvirlar yaratadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the metaphorical expression: Time is ___.",
+                "ru": "Дополните метафорическое выражение: Time is ___.",
+                "uz": "Metaforik iborani to'ldiring: Time is ___."
+            },
+            "options": [
+                {
+                    "answer": "money/a thief/a healer/an illusion",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Metaphors equate time with concrete concepts to make abstract temporal reality more comprehensible and emotionally resonant.",
+                "ru": "Метафоры приравнивают время к конкретным понятиям, чтобы сделать абстрактную временную реальность более понятной и эмоционально резонирующей.",
+                "uz": "Metaforalar vaqtni aniq tushunchalar bilan tenglashtiradi, bu mavhum vaqt haqiqatini yanada tushunarli va hissiy jihatdan ta'sirli qilish uchun."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Identify the rhetorical device: 'The pen is mightier than the sword.' This is an example of ___.",
+                "ru": "Определите риторический прием: 'The pen is mightier than the sword.' Это пример ___.",
+                "uz": "Ritorik usulni aniqlang: 'The pen is mightier than the sword.' Bu ___ misoli."
+            },
+            "options": [
+                {
+                    "answer": "metonymy/synecdoche",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This uses metonymy where 'pen' represents writing/intellect and 'sword' represents violence/force, substituting associated objects for abstract concepts.",
+                "ru": "Это использует метонимию, где 'перо' представляет письмо/интеллект, а 'меч' представляет насилие/силу, заменяя связанные объекты абстрактными понятиями.",
+                "uz": "Bu metonimiyadan foydalanadi, bu yerda 'qalam' yozuv/aqlni, 'qilich' esa zo'ravonlik/kuchni ifodalaydi, bog'liq ob'ektlarni mavhum tushunchalar bilan almashtiradi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the alliterative phrase: 'Peter Piper picked a peck of ___.'",
+                "ru": "Дополните аллитерационную фразу: 'Peter Piper picked a peck of ___.'",
+                "uz": "Alliteratsiyali iborani to'ldiring: 'Peter Piper picked a peck of ___.'"
+            },
+            "options": [
+                {
+                    "answer": "pickled peppers/pickled pears",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Alliteration repeats initial consonant sounds to create rhythm, memorability, and phonetic harmony in language.",
+                "ru": "Аллитерация повторяет начальные согласные звуки для создания ритма, запоминаемости и фонетической гармонии в языке.",
+                "uz": "Alliteratsiya boshlanish undoshlarini takrorlaydi va tilda ritm, esda qolish va fonetik uyg'unlikni yaratadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "What rhetorical device is demonstrated in 'Veni, vidi, vici'? This is ___.",
+                "ru": "Какой риторический прием демонстрируется в 'Veni, vidi, vici'? Это ___.",
+                "uz": "'Veni, vidi, vici' da qaysi ritorik usul ko'rsatilgan? Bu ___."
+            },
+            "options": [
+                {
+                    "answer": "asyndeton/tricolon",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This demonstrates asyndeton (omission of conjunctions) and tricolon (three parallel elements), creating rhythmic impact and memorable brevity.",
+                "ru": "Это демонстрирует асиндетон (пропуск союзов) и триколон (три параллельных элемента), создавая ритмическое воздействие и запоминающуюся краткость.",
+                "uz": "Bu asindeton (bog'lovchilarni tashlab qoldirish) va trikolonni (uchta parallel element) namoyish etadi, ritmik ta'sir va esda qoladigan qisqalikni yaratadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the paradoxical statement: 'Less is ___.'",
+                "ru": "Дополните парадоксальное утверждение: 'Less is ___.'",
+                "uz": "Paradoksal gapni to'ldiring: 'Less is ___."
+            },
+            "options": [
+                {
+                    "answer": "more",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This paradox suggests that simplicity or reduction can be more effective than excess, embodying minimalist philosophy through apparent contradiction.",
+                "ru": "Этот парадокс предполагает, что простота или сокращение может быть более эффективным, чем избыток, воплощая минималистскую философию через кажущееся противоречие.",
+                "uz": "Bu paradoks soddalik yoki kamaytirishning ortiqchadan samaraliroq bo'lishi mumkinligini ko'rsatadi va ko'rinadigan qarama-qarshilik orqali minimalistik falsafani ifodalaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Identify the device in 'The world is a stage.' This is a ___.",
+                "ru": "Определите прием в 'The world is a stage.' Это ___.",
+                "uz": "'The world is a stage' dagi usulni aniqlang. Bu ___."
+            },
+            "options": [
+                {
+                    "answer": "metaphor",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This metaphor directly equates the world with a stage, suggesting life's theatrical nature and the performative aspects of human existence.",
+                "ru": "Эта метафора напрямую приравнивает мир к сцене, предполагая театральную природу жизни и исполнительские аспекты человеческого существования.",
+                "uz": "Bu metafora dunyoni sahna bilan to'g'ridan-to'g'ri tenglashtirib, hayotning teatral tabiatini va inson mavjudligining ijroiy jihatlarini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the euphemistic expression: 'He passed ___.'",
+                "ru": "Дополните эвфемистическое выражение: 'He passed ___.'",
+                "uz": "Evfemistik iborani to'ldiring: 'He passed ___."
+            },
+            "options": [
+                {
+                    "answer": "away/on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Euphemism substitutes mild or indirect terms for harsh realities; 'passed away' softens the direct reference to death.",
+                "ru": "Эвфемизм заменяет мягкими или косвенными терминами суровые реалии; 'скончался' смягчает прямое упоминание смерти.",
+                "uz": "Evfemizm qattiq haqiqatlarni yumshoq yoki bilvosita atamalar bilan almashtiradi; 'vafot etdi' o'limga to'g'ridan-to'g'ri ishora qilishni yumshatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "What device is used in 'Big Brother is watching you'? This demonstrates ___.",
+                "ru": "Какой прием используется в 'Big Brother is watching you'? Это демонстрирует ___.",
+                "uz": "'Big Brother is watching you' da qaysi usul ishlatilgan? Bu ___ ni namoyish etadi."
+            },
+            "options": [
+                {
+                    "answer": "personification/metonymy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This combines personification (giving human qualities to abstract authority) with metonymy (Big Brother representing totalitarian surveillance system).",
+                "ru": "Это сочетает персонификацию (придание человеческих качеств абстрактной власти) с метонимией (Большой Брат представляет тоталитарную систему слежки).",
+                "uz": "Bu personifikatsiya (mavhum hokimiyatga insoniy fazilatlar berish) va metonimiyani (Katta aka totalitar kuzatuv tizimini ifodalaydi) birlashtiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the hyperbolic statement: 'I've told you a ___ times.'",
+                "ru": "Дополните гиперболическое утверждение: 'I've told you a ___ times.'",
+                "uz": "Giperbolik gapni to'ldiring: 'I've told you a ___ times."
+            },
+            "options": [
+                {
+                    "answer": "million/thousand/hundred",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Hyperbole uses deliberate exaggeration for emphasis; the extreme number emphasizes frustration with repetition rather than literal counting.",
+                "ru": "Гипербола использует намеренное преувеличение для акцента; крайнее число подчеркивает раздражение от повторения, а не буквальный подсчет.",
+                "uz": "Giperbola ta'kidlash uchun qasddan mubolag'ani ishlatadi; haddan tashqari son takrorlashdan bezovtalikni ta'kidlaydi, haqiqiy sanashni emas."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Identify the device: 'The classroom was a zoo.' This is a ___.",
+                "ru": "Определите прием: 'The classroom was a zoo.' Это ___.",
+                "uz": "Usulni aniqlang: 'The classroom was a zoo.' Bu ___."
+            },
+            "options": [
+                {
+                    "answer": "metaphor",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This metaphor compares the chaotic classroom to a zoo, emphasizing the wild, uncontrolled behavior through animal association.",
+                "ru": "Эта метафора сравнивает хаотичный класс с зоопарком, подчеркивая дикое, неконтролируемое поведение через ассоциацию с животными.",
+                "uz": "Bu metafora tartibsiz sinfni hayvonot bog'i bilan solishtiradi va hayvonlar bilan bog'lash orqali yovvoyi, nazoratdan chiqgan xatti-harakatni ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+              "en": "Fill in the blanks with appropriate words to complete the rhetorical devices",
+              "ru": "Заполните пропуски подходящими словами для завершения риторических приемов",
+              "uz": "Ritorik usullarni yakunlash uchun bo'shliqlarni mos so'zlar bilan to'ldiring"
+            },
+            "text": "The art of rhetoric encompasses numerous sophisticated techniques that elevate ordinary language into memorable and persuasive discourse. Consider the powerful effect of ___1___, where successive clauses begin with the same word, as demonstrated in Churchill's wartime speech: 'We shall fight on the beaches, we shall fight on the landing grounds, we shall ___2___ in the fields and in the streets.' This repetitive structure creates both ___3___ and emotional resonance. Conversely, ___4___ achieves dramatic effect through the deliberate omission of conjunctions, as in Caesar's triumphant declaration: 'I came, I saw, I ___5___.' The stark brevity intensifies the impact of each verb. Meanwhile, ___6___ employs the strategic repetition of words at clause endings, exemplified in Lincoln's famous phrase: 'government of the people, by the people, for the ___7___.' Such techniques demonstrate how skilled orators manipulate language structure to achieve maximum rhetorical ___8___. The interplay between sound and meaning becomes particularly evident in devices like ___9___, where contradictory terms unite to reveal paradoxical truths, such as 'deafening silence' or 'bitter ___10___.' These stylistic flourishes transform mundane communication into artistry that resonates across centuries, proving that effective rhetoric transcends mere information ___11___ to become lasting literary ___12___.",
+            "answers": [
+              { "blank": "1", "answer": "anaphora" },
+              { "blank": "2", "answer": "fight" },
+              { "blank": "3", "answer": "rhythm" },
+              { "blank": "4", "answer": "asyndeton" },
+              { "blank": "5", "answer": "conquered" },
+              { "blank": "6", "answer": "epistrophe" },
+              { "blank": "7", "answer": "people" },
+              { "blank": "8", "answer": "impact" },
+              { "blank": "9", "answer": "oxymoron" },
+              { "blank": "10", "answer": "sweet" },
+              { "blank": "11", "answer": "transfer" },
+              { "blank": "12", "answer": "achievement" }
+            ],
+            "explanation": {
+              "en": "This exercise demonstrates key rhetorical devices: anaphora (repetition at beginnings), asyndeton (omission of conjunctions), epistrophe (repetition at endings), and oxymoron (contradictory combinations).",
+              "ru": "Это упражнение демонстрирует ключевые риторические приемы: анафора (повторение в начале), асиндетон (пропуск союзов), эпистрофа (повторение в конце) и оксюморон (противоречивые сочетания).",
+              "uz": "Ushbu mashq asosiy ritorik usullarni ko'rsatadi: anafora (boshida takrorlash), asindeton (bog'lovchilarni tashlab qoldirish), epistrofa (oxirida takrorlash) va oksimoron (qarama-qarshi birlashtirish)."
+            }
+        }
+    ]
+}

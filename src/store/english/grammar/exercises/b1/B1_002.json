@@ -1,0 +1,899 @@
+{
+    "id": "B1_BROADER_RANGE_OF_INTENSIFIERS_DEGREE_MODIFIERS_EXPANSION",
+    "title": "Broader range of intensifiers (such as too, enough) - Degree modifiers expansion",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The coffee is tooo much hot."
+                },
+                {
+                    "answer": "The coffee is too hot.",
+                    "correct": true
+                },
+                {
+                    "answer": "The coffee is very too hot."
+                }
+            ],
+            "explanation": {
+                "en": "'Too' is used before adjectives without additional modifiers like 'much' or 'very'.",
+                "ru": "'Too' используется перед прилагательными без дополнительных модификаторов, таких как 'much' или 'very'.",
+                "uz": "'Too' qo'shimcha modifikatorlar ('much' yoki 'very') ishlatmasdan sifatlar oldida ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is enough tall to reach the shelf."
+                },
+                {
+                    "answer": "She is tall enough to reach the shelf.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is very enough tall to reach the shelf."
+                }
+            ],
+            "explanation": {
+                "en": "'Enough' comes after adjectives: adjective + enough + to-infinitive.",
+                "ru": "'Enough' стоит после прилагательных: прилагательное + enough + инфинитив с to.",
+                "uz": "'Enough' sifatlardan keyin keladi: sifat + enough + to infinitiv."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The movie was quite interesting.",
+                    "correct": true
+                },
+                {
+                    "answer": "The movie was quite much interesting."
+                },
+                {
+                    "answer": "The movie was very quite interesting."
+                }
+            ],
+            "explanation": {
+                "en": "'Quite' is used directly before adjectives without additional intensifiers.",
+                "ru": "'Quite' используется непосредственно перед прилагательными без дополнительных усилителей.",
+                "uz": "'Quite' qo'shimcha kuchaytiruvchilarsiz to'g'ridan-to'g'ri sifatlar oldida ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He speaks rather quick."
+                },
+                {
+                    "answer": "He speaks rather much quickly."
+                },
+                {
+                    "answer": "He speaks rather quickly.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Rather' modifies adverbs directly without additional words.",
+                "ru": "'Rather' модифицирует наречия напрямую без дополнительных слов.",
+                "uz": "'Rather' qo'shimcha so'zlarsiz to'g'ridan-to'g'ri ravishlarni o'zgartiradi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The room is very extremely cold."
+                },
+                {
+                    "answer": "The room is extremely much cold."
+                },
+                {
+                    "answer": "The room is extremely cold.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Extremely' is used directly before adjectives to show very high degree.",
+                "ru": "'Extremely' используется непосредственно перед прилагательными для обозначения очень высокой степени.",
+                "uz": "'Extremely' juda yuqori darajani ko'rsatish uchun to'g'ridan-to'g'ri sifatlar oldida ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is fairly good at tennis.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is fairly much good at tennis."
+                },
+                {
+                    "answer": "She is very fairly good at tennis."
+                }
+            ],
+            "explanation": {
+                "en": "'Fairly' modifies adjectives directly to express moderate degree.",
+                "ru": "'Fairly' модифицирует прилагательные напрямую для выражения умеренной степени.",
+                "uz": "'Fairly' o'rtacha darajani ifodalash uchun sifatlarni to'g'ridan-to'g'ri o'zgartiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The test was incredibly difficult.",
+                    "correct": true
+                },
+                {
+                    "answer": "The test was incredibly much difficult."
+                },
+                {
+                    "answer": "The test was too very incredibly difficult."
+                }
+            ],
+            "explanation": {
+                "en": "'Incredibly' is an intensifier that comes directly before adjectives.",
+                "ru": "'Incredibly' - это усилитель, который стоит непосредственно перед прилагательными.",
+                "uz": "'Incredibly' to'g'ridan-to'g'ri sifatlar oldida keladigan kuchaytiruvchidir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He runs remarkably fast.",
+                    "correct": true
+                },
+                {
+                    "answer": "He runs remarkably much faster."
+                },
+                {
+                    "answer": "He runs very remarkably fast."
+                }
+            ],
+            "explanation": {
+                "en": "'Remarkably' modifies adverbs directly to show exceptional degree.",
+                "ru": "'Remarkably' модифицирует наречия напрямую для обозначения исключительной степени.",
+                "uz": "'Remarkably' alohida darajani ko'rsatish uchun ravishlarni to'g'ridan-to'g'ri o'zgartiradi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather is absolutely perfect.",
+                    "correct": true
+                },
+                {
+                    "answer": "The weather is absolutely much perfect."
+                },
+                {
+                    "answer": "The weather is very absolutely perfect."
+                }
+            ],
+            "explanation": {
+                "en": "'Absolutely' is used with extreme or absolute adjectives without additional modifiers.",
+                "ru": "'Absolutely' используется с экстремальными или абсолютными прилагательными без дополнительных модификаторов.",
+                "uz": "'Absolutely' qo'shimcha modifikatorlarsiz ekstremal yoki mutlaq sifatlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The book is somewhat boring.",
+                    "correct": true
+                },
+                {
+                    "answer": "The book is somewhat much boring."
+                },
+                {
+                    "answer": "The book is very somewhat boring."
+                }
+            ],
+            "explanation": {
+                "en": "'Somewhat' expresses a moderate degree and modifies adjectives directly.",
+                "ru": "'Somewhat' выражает умеренную степень и модифицирует прилагательные напрямую.",
+                "uz": "'Somewhat' o'rtacha darajani ifodalaydi va sifatlarni to'g'ridan-to'g'ri o'zgartiradi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The water is ___ hot to drink.",
+                "ru": "Дополните предложение: The water is ___ hot to drink.",
+                "uz": "Gapni to'ldiring: The water is ___ hot to drink."
+            },
+            "options": [
+                {
+                    "answer": "too/quite",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Too' expresses excessive degree and is followed by an adjective, often with a negative consequence.",
+                "ru": "'Too' выражает чрезмерную степень и следует за прилагательным, часто с отрицательными последствиями.",
+                "uz": "'Too' haddan tashqari darajani ifodalaydi va ko'pincha salbiy oqibatlar bilan sifatdan keyin keladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She is old ___ to drive a car.",
+                "ru": "Дополните предложение: She is old ___ to drive a car.",
+                "uz": "Gapni to'ldiring: She is old ___ to drive a car."
+            },
+            "options": [
+                {
+                    "answer": "enough",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Enough' comes after adjectives to express sufficient degree for a particular purpose.",
+                "ru": "'Enough' стоит после прилагательных для выражения достаточной степени для определенной цели.",
+                "uz": "'Enough' ma'lum bir maqsad uchun yetarli darajani ifodalash uchun sifatlardan keyin keladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The movie was ___ boring that I fell asleep.",
+                "ru": "Дополните предложение: The movie was ___ boring that I fell asleep.",
+                "uz": "Gapni to'ldiring: The movie was ___ boring that I fell asleep."
+            },
+            "options": [
+                {
+                    "answer": "so",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'So' is used with adjectives in 'so...that' constructions to show result or consequence.",
+                "ru": "'So' используется с прилагательными в конструкциях 'so...that' для показа результата или следствия.",
+                "uz": "'So' natija yoki oqibatni ko'rsatish uchun 'so...that' konstruksiyalarida sifatlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The food was ___ delicious.",
+                "ru": "Дополните предложение: The food was ___ delicious.",
+                "uz": "Gapni to'ldiring: The food was ___ delicious."
+            },
+            "options": [
+                {
+                    "answer": "quite/rather/fairly/extremely/incredibly/very",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Multiple intensifiers can modify adjectives to express different degrees of intensity.",
+                "ru": "Множественные усилители могут модифицировать прилагательные для выражения различных степеней интенсивности.",
+                "uz": "Ko'plab kuchaytiruvchilar turli darajadagi intensivlikni ifodalash uchun sifatlarni o'zgartirishi mumkin."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He speaks English ___ well.",
+                "ru": "Дополните предложение: He speaks English ___ well.",
+                "uz": "Gapni to'ldiring: He speaks English ___ well."
+            },
+            "options": [
+                {
+                    "answer": "extremely/remarkably/quite/fairly/rather",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Intensifiers can also modify adverbs to show different degrees of quality or manner.",
+                "ru": "Усилители также могут модифицировать наречия для показа различных степеней качества или способа.",
+                "uz": "Kuchaytiruvchilar sifat yoki usulning turli darajalarini ko'rsatish uchun ravishlarni ham o'zgartirishi mumkin."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The exam was ___ easy that everyone passed.",
+                "ru": "Дополните предложение: The exam was ___ easy that everyone passed.",
+                "uz": "Gapni to'ldiring: The exam was ___ easy that everyone passed."
+            },
+            "options": [
+                {
+                    "answer": "so",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'So' is used before adjectives in result clauses with 'that' to show consequence.",
+                "ru": "'So' используется перед прилагательными в придаточных предложениях результата с 'that' для показа следствия.",
+                "uz": "'So' oqibatni ko'rsatish uchun 'that' bilan natija gaplarida sifatlar oldida ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She is ___ tired to continue working.",
+                "ru": "Дополните предложение: She is ___ tired to continue working.",
+                "uz": "Gapni to'ldiring: She is ___ tired to continue working."
+            },
+            "options": [
+                {
+                    "answer": "too",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Too' expresses excessive degree that prevents an action from happening.",
+                "ru": "'Too' выражает чрезмерную степень, которая препятствует выполнению действия.",
+                "uz": "'Too' harakatning amalga oshirilishiga to'sqinlik qiladigan haddan tashqari darajani ifodalaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The house is big ___ for our family.",
+                "ru": "Дополните предложение: The house is big ___ for our family.",
+                "uz": "Gapni to'ldiring: The house is big ___ for our family."
+            },
+            "options": [
+                {
+                    "answer": "enough",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Enough' after adjectives shows sufficient degree for a specific need or purpose.",
+                "ru": "'Enough' после прилагательных показывает достаточную степень для конкретной потребности или цели.",
+                "uz": "'Enough' sifatlardan keyin ma'lum bir ehtiyoj yoki maqsad uchun yetarli darajani ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The performance was ___ amazing.",
+                "ru": "Дополните предложение: The performance was ___ amazing.",
+                "uz": "Gapni to'ldiring: The performance was ___ amazing."
+            },
+            "options": [
+                {
+                    "answer": "absolutely/incredibly/extremely/quite/rather/very",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Various intensifiers can be used with adjectives to express different levels of emphasis.",
+                "ru": "Различные усилители могут использоваться с прилагательными для выражения разных уровней акцента.",
+                "uz": "Turli kuchaytiruvchilar turli darajadagi ta'kidni ifodalash uchun sifatlar bilan ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He works ___ slowly that he never finishes on time.",
+                "ru": "Дополните предложение: He works ___ slowly that he never finishes on time.",
+                "uz": "Gapni to'ldiring: He works ___ slowly that he never finishes on time."
+            },
+            "options": [
+                {
+                    "answer": "so",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'So' with adverbs in 'so...that' constructions expresses cause and effect relationships.",
+                "ru": "'So' с наречиями в конструкциях 'so...that' выражает причинно-следственные отношения.",
+                "uz": "'So' 'so...that' konstruksiyalarida ravishlar bilan sabab-oqibat munosabatlarini ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Learning a new language can be ___1___ challenging, but it's also ___2___ rewarding. When I started studying English, I found grammar ___3___ difficult to understand. The pronunciation was ___4___ hard that I felt discouraged. However, my teacher was ___5___ patient and helpful. She explained that I was ___6___ young to give up easily. With practice, I became ___7___ confident in speaking. Now I can communicate ___8___ well with native speakers. The vocabulary was ___9___ extensive that it seemed overwhelming at first. But I discovered that reading books was ___10___ effective for learning new words. My progress was ___11___ slow in the beginning, but I was determined ___12___ to succeed. After two years, I was finally fluent ___13___ to hold complex conversations. The experience taught me that consistency is ___14___ important for language learning. Now I'm ___15___ grateful for the journey, even though it was sometimes frustrating.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "2",
+                    "answer": "extremely/incredibly"
+                },
+                {
+                    "blank": "3",
+                    "answer": "too"
+                },
+                {
+                    "blank": "4",
+                    "answer": "quite/rather/extremely"
+                },
+                {
+                    "blank": "5",
+                    "answer": "enough"
+                },
+                {
+                    "blank": "6",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "7",
+                    "answer": "so"
+                },
+                {
+                    "blank": "8",
+                    "answer": "disciplined"
+                },
+                {
+                    "blank": "9",
+                    "answer": "so"
+                },
+                {
+                    "blank": "10",
+                    "answer": "sufficiently"
+                },
+                {
+                    "blank": "11",
+                    "answer": "extremely/incredibly"
+                },
+                {
+                    "blank": "12",
+                    "answer": "just"
+                },
+                {
+                    "blank": "13",
+                    "answer": "so"
+                },
+                {
+                    "blank": "14",
+                    "answer": "increasingly"
+                },
+                {
+                    "blank": "15",
+                    "answer": "sufficiently"
+                },
+                {
+                    "blank": "4",
+                    "answer": "so"
+                },
+                {
+                    "blank": "5",
+                    "answer": "extremely/incredibly/remarkably"
+                },
+                {
+                    "blank": "6",
+                    "answer": "too"
+                },
+                {
+                    "blank": "7",
+                    "answer": "quite/fairly/rather"
+                },
+                {
+                    "blank": "8",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "9",
+                    "answer": "so"
+                },
+                {
+                    "blank": "10",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "11",
+                    "answer": "rather/quite/fairly/somewhat"
+                },
+                {
+                    "blank": "12",
+                    "answer": "enough"
+                },
+                {
+                    "blank": "13",
+                    "answer": "enough"
+                },
+                {
+                    "blank": "14",
+                    "answer": "extremely/incredibly/absolutely"
+                },
+                {
+                    "blank": "15",
+                    "answer": "extremely/incredibly/quite"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates various intensifiers and degree modifiers including 'too' (excess), 'enough' (sufficiency), 'so' (result), and multiple intensifiers for different degrees of emphasis.",
+                "ru": "Это упражнение демонстрирует различные усилители и модификаторы степени, включая 'too' (избыток), 'enough' (достаточность), 'so' (результат) и множественные усилители для разных степеней акцента.",
+                "uz": "Bu mashq turli kuchaytiruvchilar va daraja modifikatorlarini, jumladan 'too' (ortiqcha), 'enough' (yetarlilik), 'so' (natija) va turli darajadagi ta'kid uchun ko'plab kuchaytiruvchilarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The mountain climbing expedition was ___1___ challenging that we needed extensive preparation. The weather conditions were ___2___ harsh for inexperienced climbers. Our guide was ___3___ experienced to lead us safely to the summit. The equipment was ___4___ heavy that we had to redistribute the load among team members. The altitude made breathing ___5___ difficult, but we were determined ___6___ to reach our goal. The view from halfway up was ___7___ spectacular that we stopped to take photos. Some team members were ___8___ tired to continue immediately, so we took a longer rest. The final ascent was ___9___ steep that we needed special climbing gear. When we finally reached the top, we were ___10___ exhausted to celebrate properly. However, the sense of achievement was ___11___ overwhelming that tears came to our eyes. The descent was ___12___ treacherous in some sections, requiring ___13___ careful navigation. By the end of the day, we were all ___14___ grateful for the experience, despite being ___15___ worn out to do anything except sleep.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "so"
+                },
+                {
+                    "blank": "2",
+                    "answer": "too"
+                },
+                {
+                    "blank": "3",
+                    "answer": "experienced/qualified"
+                },
+                {
+                    "blank": "4",
+                    "answer": "so"
+                },
+                {
+                    "blank": "5",
+                    "answer": "quite/rather/extremely"
+                },
+                {
+                    "blank": "6",
+                    "answer": "enough"
+                },
+                {
+                    "blank": "7",
+                    "answer": "so"
+                },
+                {
+                    "blank": "8",
+                    "answer": "too"
+                },
+                {
+                    "blank": "9",
+                    "answer": "so"
+                },
+                {
+                    "blank": "10",
+                    "answer": "too"
+                },
+                {
+                    "blank": "11",
+                    "answer": "so"
+                },
+                {
+                    "blank": "12",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "13",
+                    "answer": "extremely/incredibly"
+                },
+                {
+                    "blank": "14",
+                    "answer": "extremely/incredibly"
+                },
+                {
+                    "blank": "15",
+                    "answer": "too"
+                }
+            ],
+            "explanation": {
+                "en": "This passage illustrates the usage of intensifiers in context, showing how 'too' indicates excess, 'so...that' expresses result, 'enough' shows sufficiency, and other intensifiers modify the degree of adjectives and adverbs.",
+                "ru": "Этот отрывок иллюстрирует использование усилителей в контексте, показывая, как 'too' указывает на избыток, 'so...that' выражает результат, 'enough' показывает достаточность, а другие усилители изменяют степень прилагательных и наречий.",
+                "uz": "Bu parcha kuchaytiruvchilarning kontekstda ishlatilishini tasvirlaydi, 'too' ortiqchani, 'so...that' natijani, 'enough' yetarlilikni qanday ko'rsatishini va boshqa kuchaytiruvchilar sifat va ravishlar darajasini qanday o'zgartirishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Preparing for a job interview can be ___1___ stressful, but proper preparation makes it ___2___ manageable. First, research the company ___3___ thoroughly to understand their values and goals. Practice common interview questions until you're ___4___ confident to answer them naturally. Your appearance should be ___5___ professional to make a good first impression. Arrive ___6___ early to show punctuality, but not ___7___ early that you seem overeager. During the interview, speak ___8___ clearly and maintain eye contact. Some questions might be ___9___ challenging that you need time to think. It's ___10___ acceptable to pause briefly before answering. Show enthusiasm, but don't be ___11___ excited that you appear unprofessional. Ask questions that are ___12___ relevant to demonstrate your genuine interest. Be ___13___ honest about your skills and experience. If you're not ___14___ qualified for certain aspects of the role, express your willingness to learn. Remember that the interviewer wants you to succeed - they're looking for the right person for the job, and you might be ___15___ suitable for the position.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "2",
+                    "answer": "quite/rather/much"
+                },
+                {
+                    "blank": "3",
+                    "answer": "enough/sufficiently"
+                },
+                {
+                    "blank": "4",
+                    "answer": "confident"
+                },
+                {
+                    "blank": "5",
+                    "answer": "sufficiently"
+                },
+                {
+                    "blank": "6",
+                    "answer": "early"
+                },
+                {
+                    "blank": "7",
+                    "answer": "too"
+                },
+                {
+                    "blank": "8",
+                    "answer": "clearly"
+                },
+                {
+                    "blank": "9",
+                    "answer": "so"
+                },
+                {
+                    "blank": "10",
+                    "answer": "perfectly"
+                },
+                {
+                    "blank": "11",
+                    "answer": "too"
+                },
+                {
+                    "blank": "12",
+                    "answer": "sufficiently"
+                },
+                {
+                    "blank": "13",
+                    "answer": "completely"
+                },
+                {
+                    "blank": "14",
+                    "answer": "fully"
+                },
+                {
+                    "blank": "15",
+                    "answer": "perfectly"
+                }
+            ],
+            "explanation": {
+                "en": "This text demonstrates practical use of degree modifiers and intensifiers in professional contexts, showing how they help express appropriate levels of emphasis and qualification in formal situations.",
+                "ru": "Этот текст демонстрирует практическое использование модификаторов степени и усилителей в профессиональных контекстах, показывая, как они помогают выражать соответствующие уровни акцента и квалификации в формальных ситуациях.",
+                "uz": "Bu matn professional kontekstlarda daraja modifikatorlari va kuchaytiruvchilarning amaliy ishlatilishini ko'rsatadi, ular rasmiy vaziyatlarda tegishli ta'kid va malaka darajalarini ifodalashga qanday yordam berishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Online learning has become ___1___ popular that traditional educational institutions are adapting their methods. Students find it ___2___ convenient to study from home, but some courses are ___3___ complex for self-study. The flexibility is ___4___ appealing to working professionals who don't have ___5___ time to attend regular classes. However, staying motivated can be ___6___ challenging without direct supervision. Technology has advanced ___7___ significantly that virtual classrooms now offer interactive experiences. Some students are ___8___ disciplined to manage their study schedule effectively, while others struggle with time management. The cost of online courses is ___9___ reasonable that more people can access quality education. Instructors must be ___10___ skilled in digital tools to deliver effective lessons. Student engagement becomes ___11___ important in virtual environments where distractions are numerous. The learning outcomes can be ___12___ successful as traditional methods when properly implemented. Many universities are now ___13___ confident in online delivery that they offer complete degree programs. The future of education seems ___14___ digital that institutions must adapt or risk becoming obsolete. Students today are ___15___ tech-savvy to embrace these new learning platforms enthusiastically.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "so"
+                },
+                {
+                    "blank": "2",
+                    "answer": "quite/rather/extremely"
+                },
+                {
+                    "blank": "3",
+                    "answer": "too"
+                },
+                {
+                    "blank": "4",
+                    "answer": "quite/rather/extremely"
+                },
+                {
+                    "blank": "5",
+                    "answer": "enough"
+                },
+                {
+                    "blank": "6",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "7",
+                    "answer": "so"
+                },
+                {
+                    "blank": "8",
+                    "answer": "disciplined"
+                },
+                {
+                    "blank": "9",
+                    "answer": "so"
+                },
+                {
+                    "blank": "10",
+                    "answer": "sufficiently"
+                },
+                {
+                    "blank": "11",
+                    "answer": "extremely/incredibly"
+                },
+                {
+                    "blank": "12",
+                    "answer": "just"
+                },
+                {
+                    "blank": "13",
+                    "answer": "so"
+                },
+                {
+                    "blank": "14",
+                    "answer": "increasingly"
+                },
+                {
+                    "blank": "15",
+                    "answer": "sufficiently"
+                }
+            ],
+            "explanation": {
+                "en": "This passage explores intensifiers in the context of modern education, demonstrating how 'so...that' constructions, 'too' for excess, 'enough' for sufficiency, and various other degree modifiers help express nuanced meanings in academic discussions.",
+                "ru": "Этот отрывок исследует усилители в контексте современного образования, демонстрируя, как конструкции 'so...that', 'too' для избытка, 'enough' для достаточности и различные другие модификаторы степени помогают выразить нюансированные значения в академических дискуссиях.",
+                "uz": "Bu parcha zamonaviy ta'lim kontekstida kuchaytiruvchilarni o'rganadi, 'so...that' konstruksiyalari, ortiqcha uchun 'too', yetarlilik uchun 'enough' va boshqa turli daraja modifikatorlari akademik munozaralarda nozik ma'nolarni ifodalashga qanday yordam berishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The restaurant we visited last night was ___1___ busy that we had to wait for a table. The atmosphere was ___2___ romantic with dim lighting and soft music. Our waiter was ___3___ attentive throughout the evening, ensuring our glasses were never empty. The menu was ___4___ extensive that it took us twenty minutes to decide what to order. The appetizers arrived ___5___ quickly, which impressed us greatly. The soup was ___6___ hot that we had to let it cool down before eating. The main course was ___7___ delicious that we complimented the chef personally. The portion sizes were ___8___ generous that we couldn't finish everything on our plates. The wine selection was ___9___ impressive with bottles from various regions. However, some dishes were ___10___ expensive for our budget, so we chose ___11___ carefully. The dessert menu looked ___12___ tempting that we decided to share a chocolate cake. The service was ___13___ professional that we felt like VIP guests. By the end of the evening, we were ___14___ satisfied with our dining experience. The restaurant is definitely good ___15___ to recommend to friends and family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "so"
+                },
+                {
+                    "blank": "2",
+                    "answer": "quite/rather/extremely"
+                },
+                {
+                    "blank": "3",
+                    "answer": "extremely/remarkably"
+                },
+                {
+                    "blank": "4",
+                    "answer": "so"
+                },
+                {
+                    "blank": "5",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "6",
+                    "answer": "so"
+                },
+                {
+                    "blank": "7",
+                    "answer": "so"
+                },
+                {
+                    "blank": "8",
+                    "answer": "so"
+                },
+                {
+                    "blank": "9",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "10",
+                    "answer": "too"
+                },
+                {
+                    "blank": "11",
+                    "answer": "quite/rather/fairly"
+                },
+                {
+                    "blank": "12",
+                    "answer": "so"
+                },
+                {
+                    "blank": "13",
+                    "answer": "so"
+                },
+                {
+                    "blank": "14",
+                    "answer": "completely/thoroughly"
+                },
+                {
+                    "blank": "15",
+                    "answer": "enough"
+                }
+            ],
+            "explanation": {
+                "en": "This dining experience narrative demonstrates how intensifiers enhance descriptive language, using 'so...that' for results, 'too' for excess, 'enough' for sufficiency, and various degree modifiers to create vivid descriptions of a restaurant visit.",
+                "ru": "Этот рассказ о ужине в ресторане демонстрирует, как усилители улучшают описательный язык, используя 'so...that' для результатов, 'too' для избытка, 'enough' для достаточности и различные модификаторы степени для создания ярких описаний посещения ресторана.",
+                "uz": "Bu restoranda kechki ovqat tajribasi haqidagi hikoya kuchaytiruvchilar tasviriy tilni qanday yaxshilashini ko'rsatadi, natijalar uchun 'so...that', ortiqcha uchun 'too', yetarlilik uchun 'enough' va restoran tashrifining yorqin tasvirlarini yaratish uchun turli daraja modifikatorlaridan foydalanadi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,855 @@
+{
+    "id": "B1_ADJECTIVES_AND_ADVERBS_COMPLETE_COMPARISON_AND_MODIFICATION_SYSTEM",
+    "title": "Adjectives and adverbs - Complete comparison and modification system",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She runs more faster than her brother."
+                },
+                {
+                    "answer": "She runs faster than her brother.",
+                    "correct": true
+                },
+                {
+                    "answer": "She runs most fast than her brother."
+                }
+            ],
+            "explanation": {
+                "en": "Use the comparative form 'faster' without 'more' for one-syllable adjectives and adverbs ending in -er.",
+                "ru": "Используйте сравнительную форму 'faster' без 'more' для односложных прилагательных и наречий с окончанием -er.",
+                "uz": "Bir bo'g'inli sifat va ravishlar uchun 'more' so'zisiz 'faster' taqqoslash formasini ishlating."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is the most beautiful garden I have ever seen.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is the more beautiful garden I have ever seen."
+                },
+                {
+                    "answer": "This is the beautifulest garden I have ever seen."
+                }
+            ],
+            "explanation": {
+                "en": "Use superlative form 'most beautiful' for adjectives with three or more syllables, not 'more' or incorrect '-est' ending.",
+                "ru": "Используйте превосходную форму 'most beautiful' для прилагательных с тремя и более слогами, а не 'more' или неправильное окончание '-est'.",
+                "uz": "Uch yoki undan ko'p bo'g'inli sifatlar uchun 'most beautiful' orttirma darajasini ishlating, 'more' yoki noto'g'ri '-est' qo'shimchasini emas."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He speaks very careful in meetings."
+                },
+                {
+                    "answer": "He speaks very carefully in meetings.",
+                    "correct": true
+                },
+                {
+                    "answer": "He speaks very carefuly in meetings."
+                }
+            ],
+            "explanation": {
+                "en": "Use adverbs to modify verbs. 'Carefully' is the correct adverb form of 'careful', and it modifies how he speaks.",
+                "ru": "Используйте наречия для изменения глаголов. 'Carefully' - правильная наречная форма от 'careful', она изменяет способ речи.",
+                "uz": "Fe'llarni o'zgartirish uchun ravishlardan foydalaning. 'Carefully' - 'careful' so'zining to'g'ri ravish shakli, u gapirish usulini bildiradi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is the older of the three sisters."
+                },
+                {
+                    "answer": "She is the eldest of the three sisters.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is the more old of the three sisters."
+                }
+            ],
+            "explanation": {
+                "en": "Use superlative form 'eldest' when comparing three or more people, not comparative 'older' which is for comparing two people.",
+                "ru": "Используйте превосходную форму 'eldest' при сравнении трёх или более людей, а не сравнительную 'older', которая для сравнения двух людей.",
+                "uz": "Uch yoki undan ko'p odamni solishtirganda 'eldest' orttirma darajasini ishlating, ikki kishini solishtirishda qo'llaniladigan 'older' ni emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather is getting more worse every day."
+                },
+                {
+                    "answer": "The weather is getting worse every day.",
+                    "correct": true
+                },
+                {
+                    "answer": "The weather is getting worser every day."
+                }
+            ],
+            "explanation": {
+                "en": "'Worse' is the irregular comparative form of 'bad'. Do not use 'more worse' or 'worser'.",
+                "ru": "'Worse' - неправильная сравнительная форма от 'bad'. Не используйте 'more worse' или 'worser'.",
+                "uz": "'Worse' - 'bad' so'zining tartibsiz taqqoslash shakli. 'More worse' yoki 'worser' ishlatmang."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This exercise is much more easier than the last one."
+                },
+                {
+                    "answer": "This exercise is much easier than the last one.",
+                    "correct": true
+                },
+                {
+                    "answer": "This exercise is much more easy than the last one."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'easier' (comparative + -er) for two-syllable adjectives ending in -y, not 'more easier' or 'more easy'.",
+                "ru": "Используйте 'easier' (сравнительная + -er) для двусложных прилагательных, оканчивающихся на -y, а не 'more easier' или 'more easy'.",
+                "uz": "-y bilan tugagan ikki bo'g'inli sifatlar uchun 'easier' (taqqoslash + -er) ni ishlating, 'more easier' yoki 'more easy' ni emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She arrived earliest than expected."
+                },
+                {
+                    "answer": "She arrived earlier than expected.",
+                    "correct": true
+                },
+                {
+                    "answer": "She arrived more early than expected."
+                }
+            ],
+            "explanation": {
+                "en": "Use comparative 'earlier' when comparing two things with 'than'. 'Earliest' is superlative and 'more early' is incorrect.",
+                "ru": "Используйте сравнительную форму 'earlier' при сравнении двух вещей с 'than'. 'Earliest' - превосходная степень, а 'more early' неправильно.",
+                "uz": "'Than' bilan ikki narsani solishtirganda 'earlier' taqqoslash shaklini ishlating. 'Earliest' orttirma daraja, 'more early' esa noto'g'ri."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He works hardly to support his family."
+                },
+                {
+                    "answer": "He works hard to support his family.",
+                    "correct": true
+                },
+                {
+                    "answer": "He works very hardly to support his family."
+                }
+            ],
+            "explanation": {
+                "en": "'Hard' functions as both adjective and adverb. 'Hardly' means 'scarcely' or 'barely', not 'with great effort'.",
+                "ru": "'Hard' функционирует как прилагательное и наречие. 'Hardly' означает 'едва' или 'с трудом', а не 'с большим усилием'.",
+                "uz": "'Hard' ham sifat, ham ravish vazifasini bajaradi. 'Hardly' 'zo'rg'a' yoki 'deyarli emas' degan ma'noni bildiradi, 'katta harakat bilan' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is the more expensive car in the showroom."
+                },
+                {
+                    "answer": "This is the most expensive car in the showroom.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is the expensivest car in the showroom."
+                }
+            ],
+            "explanation": {
+                "en": "Use superlative 'most expensive' when comparing one thing to all others in a group, not comparative 'more expensive'.",
+                "ru": "Используйте превосходную степень 'most expensive' при сравнении одной вещи со всеми другими в группе, а не сравнительную 'more expensive'.",
+                "uz": "Bir narsani guruhdagi barcha boshqalar bilan solishtirganda 'most expensive' orttirma darajasini ishlating, 'more expensive' taqqoslashni emas."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She sings beautiful at the concert."
+                },
+                {
+                    "answer": "She sings beautifully at the concert.",
+                    "correct": true
+                },
+                {
+                    "answer": "She sings very beautiful at the concert."
+                }
+            ],
+            "explanation": {
+                "en": "Use adverbs to modify verbs. 'Beautifully' is the adverb form that modifies how she sings, not the adjective 'beautiful'.",
+                "ru": "Используйте наречия для изменения глаголов. 'Beautifully' - наречная форма, которая изменяет то, как она поёт, а не прилагательное 'beautiful'.",
+                "uz": "Fe'llarni o'zgartirish uchun ravishlardan foydalaning. 'Beautifully' - uning qanday qo'shiq aytishini bildiruvchi ravish shakli, 'beautiful' sifati emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct comparative form: My house is ___ (big) than yours.",
+                "ru": "Дополните предложение правильной сравнительной формой: My house is ___ (big) than yours.",
+                "uz": "Gapni to'g'ri taqqoslash shakli bilan to'ldiring: My house is ___ (big) than yours."
+            },
+            "options": [
+                {
+                    "answer": "bigger",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives, add -er for comparative form. 'Big' becomes 'bigger' with doubled final consonant.",
+                "ru": "Для односложных прилагательных добавляйте -er для сравнительной формы. 'Big' становится 'bigger' с удвоенной последней согласной.",
+                "uz": "Bir bo'g'inli sifatlar uchun taqqoslash shakli uchun -er qo'shimchasini qo'shing. 'Big' so'zi oxirgi undosh ikki marta yozilgan holda 'bigger' bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap with the correct superlative form: This is the ___ (interesting) book I have ever read.",
+                "ru": "Заполните пропуск правильной превосходной формой: This is the ___ (interesting) book I have ever read.",
+                "uz": "Bo'shliqni to'g'ri orttirma daraja bilan to'ldiring: This is the ___ (interesting) book I have ever read."
+            },
+            "options": [
+                {
+                    "answer": "most interesting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For adjectives with three or more syllables, use 'most' + adjective for superlative form.",
+                "ru": "Для прилагательных с тремя или более слогами используйте 'most' + прилагательное для превосходной степени.",
+                "uz": "Uch yoki undan ko'p bo'g'inli sifatlar uchun orttirma daraja shakli uchun 'most' + sifat ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct adverb form: She drives very ___ (careful).",
+                "ru": "Дополните правильной наречной формой: She drives very ___ (careful).",
+                "uz": "To'g'ri ravish shakli bilan to'ldiring: She drives very ___ (careful)."
+            },
+            "options": [
+                {
+                    "answer": "carefully",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form adverbs from adjectives ending in -ful, add -ly. 'Careful' becomes 'carefully'.",
+                "ru": "Для образования наречий от прилагательных, оканчивающихся на -ful, добавьте -ly. 'Careful' становится 'carefully'.",
+                "uz": "-ful bilan tugagan sifatlardan ravish yasash uchun -ly qo'shimchasini qo'shing. 'Careful' so'zi 'carefully' bo'ladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct comparative form: Today is ___ (cold) than yesterday.",
+                "ru": "Заполните пропуск правильной сравнительной формой: Today is ___ (cold) than yesterday.",
+                "uz": "Bo'shliqni to'g'ri taqqoslash shakli bilan to'ldiring: Today is ___ (cold) than yesterday."
+            },
+            "options": [
+                {
+                    "answer": "colder",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives, add -er for comparative form. 'Cold' becomes 'colder'.",
+                "ru": "Для односложных прилагательных добавляйте -er для сравнительной формы. 'Cold' становится 'colder'.",
+                "uz": "Bir bo'g'inli sifatlar uchun taqqoslash shakli uchun -er qo'shimchasini qo'shing. 'Cold' so'zi 'colder' bo'ladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the irregular comparative: This situation is ___ (bad) than before.",
+                "ru": "Дополните предложение неправильной сравнительной формой: This situation is ___ (bad) than before.",
+                "uz": "Gapni tartibsiz taqqoslash shakli bilan to'ldiring: This situation is ___ (bad) than before."
+            },
+            "options": [
+                {
+                    "answer": "worse",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Bad' has the irregular comparative form 'worse'. Do not use 'badder' or 'more bad'.",
+                "ru": "'Bad' имеет неправильную сравнительную форму 'worse'. Не используйте 'badder' или 'more bad'.",
+                "uz": "'Bad' so'zining tartibsiz taqqoslash shakli 'worse'. 'Badder' yoki 'more bad' ishlatmang."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap with the correct superlative: She is the ___ (good) student in the class.",
+                "ru": "Заполните пропуск правильной превосходной формой: She is the ___ (good) student in the class.",
+                "uz": "Bo'shliqni to'g'ri orttirma daraja bilan to'ldiring: She is the ___ (good) student in the class."
+            },
+            "options": [
+                {
+                    "answer": "best",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Good' has the irregular superlative form 'best'. Do not use 'goodest' or 'most good'.",
+                "ru": "'Good' имеет неправильную превосходную форму 'best'. Не используйте 'goodest' или 'most good'.",
+                "uz": "'Good' so'zining tartibsiz orttirma daraja shakli 'best'. 'Goodest' yoki 'most good' ishlatmang."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct comparative: This task is ___ (easy) than I expected.",
+                "ru": "Дополните правильной сравнительной формой: This task is ___ (easy) than I expected.",
+                "uz": "To'g'ri taqqoslash shakli bilan to'ldiring: This task is ___ (easy) than I expected."
+            },
+            "options": [
+                {
+                    "answer": "easier",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in -y, change y to i and add -er. 'Easy' becomes 'easier'.",
+                "ru": "Для двусложных прилагательных, оканчивающихся на -y, замените y на i и добавьте -er. 'Easy' становится 'easier'.",
+                "uz": "-y bilan tugagan ikki bo'g'inli sifatlarda y ni i ga o'zgartirib, -er qo'shing. 'Easy' so'zi 'easier' bo'ladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct adverb: He speaks English ___ (fluent).",
+                "ru": "Заполните пропуск правильным наречием: He speaks English ___ (fluent).",
+                "uz": "Bo'shliqni to'g'ri ravish bilan to'ldiring: He speaks English ___ (fluent)."
+            },
+            "options": [
+                {
+                    "answer": "fluently",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form adverbs from most adjectives, add -ly. 'Fluent' becomes 'fluently' to modify the verb 'speaks'.",
+                "ru": "Для образования наречий от большинства прилагательных добавьте -ly. 'Fluent' становится 'fluently' для изменения глагола 'speaks'.",
+                "uz": "Ko'pchilik sifatlardan ravish yasash uchun -ly qo'shimchasini qo'shing. 'Fluent' so'zi 'speaks' fe'lini o'zgartirish uchun 'fluently' bo'ladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct superlative: This is the ___ (far) I have ever traveled.",
+                "ru": "Дополните предложение правильной превосходной формой: This is the ___ (far) I have ever traveled.",
+                "uz": "Gapni to'g'ri orttirma daraja bilan to'ldiring: This is the ___ (far) I have ever traveled."
+            },
+            "options": [
+                {
+                    "answer": "farthest/furthest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Far' has two superlative forms: 'farthest' (for physical distance) and 'furthest' (for abstract distance). Both are acceptable here.",
+                "ru": "'Far' имеет две превосходные формы: 'farthest' (для физического расстояния) и 'furthest' (для абстрактного расстояния). Обе приемлемы здесь.",
+                "uz": "'Far' so'zining ikkita orttirma daraja shakli bor: 'farthest' (jismoniy masofa uchun) va 'furthest' (mavhum masofa uchun). Ikkalasi ham bu yerda qabul qilinadigan."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap with the correct comparative: She works ___ (hard) than anyone else.",
+                "ru": "Заполните пропуск правильной сравнительной формой: She works ___ (hard) than anyone else.",
+                "uz": "Bo'shliqni to'g'ri taqqoslash shakli bilan to'ldiring: She works ___ (hard) than anyone else."
+            },
+            "options": [
+                {
+                    "answer": "harder",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Hard' as an adverb forms comparative with -er. Do not confuse with 'hardly' which has a different meaning.",
+                "ru": "'Hard' как наречие образует сравнительную форму с -er. Не путайте с 'hardly', которое имеет другое значение.",
+                "uz": "'Hard' ravish sifatida -er bilan taqqoslash shaklini hosil qiladi. Boshqa ma'noga ega bo'lgan 'hardly' bilan adashtirmang."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah has always been known as one of the ___1___ (intelligent) students in her university. She studies ___2___ (hard) than most of her classmates and consistently achieves the ___3___ (good) grades in every subject. Her professors often comment that she writes ___4___ (clear) and thinks ___5___ (logical) than many graduate students. When it comes to mathematics, she solves problems ___6___ (quick) and ___7___ (accurate) than anyone else in her class. Sarah's approach to learning is ___8___ (systematic) than her peers, which makes her work ___9___ (effective). During presentations, she speaks ___10___ (confident) and expresses her ideas ___11___ (persuasive) than other students. Her research papers are always ___12___ (thorough) and ___13___ (well-organized) than the assignment requirements demand. Sarah's dedication to excellence makes her the ___14___ (promising) candidate for the scholarship program, and her professors believe she will become ___15___ (successful) in her chosen field than many previous graduates.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "most intelligent"
+                },
+                {
+                    "blank": "2",
+                    "answer": "harder"
+                },
+                {
+                    "blank": "3",
+                    "answer": "best"
+                },
+                {
+                    "blank": "4",
+                    "answer": "more clearly"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more logically"
+                },
+                {
+                    "blank": "6",
+                    "answer": "more quickly"
+                },
+                {
+                    "blank": "7",
+                    "answer": "more accurately"
+                },
+                {
+                    "blank": "8",
+                    "answer": "more systematic"
+                },
+                {
+                    "blank": "9",
+                    "answer": "more effective"
+                },
+                {
+                    "blank": "10",
+                    "answer": "more confidently"
+                },
+                {
+                    "blank": "11",
+                    "answer": "more persuasively"
+                },
+                {
+                    "blank": "12",
+                    "answer": "more thorough"
+                },
+                {
+                    "blank": "13",
+                    "answer": "better organized"
+                },
+                {
+                    "blank": "14",
+                    "answer": "most promising"
+                },
+                {
+                    "blank": "15",
+                    "answer": "more successful"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers comparative and superlative forms of adjectives and adverbs, including regular patterns, irregular forms, and the use of 'more/most' with longer words.",
+                "ru": "Это упражнение охватывает сравнительные и превосходные формы прилагательных и наречий, включая правильные образцы, неправильные формы и использование 'more/most' с длинными словами.",
+                "uz": "Ushbu mashq sifat va ravishlarning taqqoslash va orttirma daraja shakllarini, shu jumladan muntazam naqshlar, tartibsiz shakllar va uzun so'zlar bilan 'more/most' ishlatishni o'z ichiga oladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The weather forecast shows that today will be ___1___ (cold) than yesterday, but tomorrow should be ___2___ (warm) day of the week. People are advised to dress ___3___ (appropriate) for the changing conditions. The meteorologist explained that wind speeds will increase ___4___ (dramatic) during the afternoon, making it feel ___5___ (cold) than the actual temperature suggests. Mountain regions will experience the ___6___ (severe) weather conditions, with snow falling ___7___ (heavy) than expected. Coastal areas will remain ___8___ (mild), but residents should drive ___9___ (careful) due to reduced visibility. The storm system is moving ___10___ (fast) than initially predicted, arriving ___11___ (early) than scheduled. Emergency services are working ___12___ (efficient) to prepare for potential problems. Citizens are urged to stay indoors and avoid traveling unless ___13___ (absolute) necessary. The ___14___ (safe) approach is to wait until conditions improve and the weather becomes ___15___ (stable) before venturing outside.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "colder"
+                },
+                {
+                    "blank": "2",
+                    "answer": "the warmest"
+                },
+                {
+                    "blank": "3",
+                    "answer": "appropriately"
+                },
+                {
+                    "blank": "4",
+                    "answer": "dramatically"
+                },
+                {
+                    "blank": "5",
+                    "answer": "colder"
+                },
+                {
+                    "blank": "6",
+                    "answer": "most severe"
+                },
+                {
+                    "blank": "7",
+                    "answer": "more heavily"
+                },
+                {
+                    "blank": "8",
+                    "answer": "milder"
+                },
+                {
+                    "blank": "9",
+                    "answer": "more carefully"
+                },
+                {
+                    "blank": "10",
+                    "answer": "faster"
+                },
+                {
+                    "blank": "11",
+                    "answer": "earlier"
+                },
+                {
+                    "blank": "12",
+                    "answer": "efficiently"
+                },
+                {
+                    "blank": "13",
+                    "answer": "absolutely"
+                },
+                {
+                    "blank": "14",
+                    "answer": "safest"
+                },
+                {
+                    "blank": "15",
+                    "answer": "more stable"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates the use of comparative and superlative adjectives in context, as well as adverb formation and modification patterns.",
+                "ru": "Этот текст демонстрирует использование сравнительных и превосходных прилагательных в контексте, а также образование наречий и модели модификации.",
+                "uz": "Ushbu matn kontekstda taqqoslash va orttirma daraja sifatlaridan foydalanishni, shuningdek ravish yasash va o'zgartirish naqshlarini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Technology is advancing ___1___ (rapid) than ever before, creating opportunities that are ___2___ (exciting) than we could have imagined. Artificial intelligence systems can now process information ___3___ (efficient) than human analysts, while robots work ___4___ (precise) in manufacturing environments. However, experts argue that we must implement these technologies ___5___ (careful) to ensure they benefit society. Some companies adopt new systems ___6___ (quick) without considering the consequences, which can lead to problems. The ___7___ (successful) organizations are those that integrate technology ___8___ (gradual) and train their employees ___9___ (thorough). Digital communication allows people to connect ___10___ (easy) across vast distances, making collaboration ___11___ (effective) than traditional methods. Social media platforms compete to offer the ___12___ (engaging) user experience, constantly updating their features to work ___13___ (smooth). Privacy concerns have become ___14___ (important) as technology becomes ___15___ (sophisticated), requiring companies to handle personal data ___16___ (responsible) and transparently.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more rapidly"
+                },
+                {
+                    "blank": "2",
+                    "answer": "more exciting"
+                },
+                {
+                    "blank": "3",
+                    "answer": "more efficiently"
+                },
+                {
+                    "blank": "4",
+                    "answer": "more precisely"
+                },
+                {
+                    "blank": "5",
+                    "answer": "carefully"
+                },
+                {
+                    "blank": "6",
+                    "answer": "quickly"
+                },
+                {
+                    "blank": "7",
+                    "answer": "most successful"
+                },
+                {
+                    "blank": "8",
+                    "answer": "gradually"
+                },
+                {
+                    "blank": "9",
+                    "answer": "thoroughly"
+                },
+                {
+                    "blank": "10",
+                    "answer": "easily"
+                },
+                {
+                    "blank": "11",
+                    "answer": "more effective"
+                },
+                {
+                    "blank": "12",
+                    "answer": "most engaging"
+                },
+                {
+                    "blank": "13",
+                    "answer": "smoothly"
+                },
+                {
+                    "blank": "14",
+                    "answer": "more important"
+                },
+                {
+                    "blank": "15",
+                    "answer": "more sophisticated"
+                },
+                {
+                    "blank": "16",
+                    "answer": "responsibly"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on adverb formation from adjectives, comparative and superlative forms, and the proper use of adverbs to modify verbs and adjectives in technology contexts.",
+                "ru": "Это упражнение сосредотачивается на образовании наречий от прилагательных, сравнительных и превосходных формах, и правильном использовании наречий для изменения глаголов и прилагательных в технологических контекстах.",
+                "uz": "Ushbu mashq sifatlardan ravish yasashga, taqqoslash va orttirma daraja shakllariga, texnologiya kontekstlarida fe'l va sifatlarni o'zgartirish uchun ravishlardan to'g'ri foydalanishga e'tibor qaratadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Exercise and nutrition play crucial roles in maintaining health. Regular physical activity helps people feel ___1___ (energetic) and sleep ___2___ (well) at night. Those who exercise ___3___ (consistent) report feeling ___4___ (happy) and ___5___ (confident) in their daily lives. Swimming is considered one of the ___6___ (complete) forms of exercise because it works multiple muscle groups ___7___ (simultaneous). Running outdoors can be ___8___ (challenging) than using a treadmill, but many people find it ___9___ (enjoyable). Strength training should be performed ___10___ (safe) with proper form to avoid injury. A balanced diet works ___11___ (effective) when combined with regular exercise. Fresh vegetables and fruits provide nutrients that help the body function ___12___ (optimal). The ___13___ (important) factor in any fitness program is consistency rather than intensity. People who approach fitness ___14___ (realistic) are ___15___ (likely) to maintain their healthy habits long-term.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more energetic"
+                },
+                {
+                    "blank": "2",
+                    "answer": "better"
+                },
+                {
+                    "blank": "3",
+                    "answer": "consistently"
+                },
+                {
+                    "blank": "4",
+                    "answer": "happier"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more confident"
+                },
+                {
+                    "blank": "6",
+                    "answer": "most complete"
+                },
+                {
+                    "blank": "7",
+                    "answer": "simultaneously"
+                },
+                {
+                    "blank": "8",
+                    "answer": "more challenging"
+                },
+                {
+                    "blank": "9",
+                    "answer": "more enjoyable"
+                },
+                {
+                    "blank": "10",
+                    "answer": "safely"
+                },
+                {
+                    "blank": "11",
+                    "answer": "more effectively"
+                },
+                {
+                    "blank": "12",
+                    "answer": "optimally"
+                },
+                {
+                    "blank": "13",
+                    "answer": "most important"
+                },
+                {
+                    "blank": "14",
+                    "answer": "realistically"
+                },
+                {
+                    "blank": "15",
+                    "answer": "more likely"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates comparative and superlative forms alongside adverb usage, particularly focusing on health and fitness vocabulary at B1 level.",
+                "ru": "Этот текст демонстрирует сравнительные и превосходные формы наряду с использованием наречий, особенно сосредоточиваясь на лексике здоровья и фитнеса на уровне B1.",
+                "uz": "Ushbu matn taqqoslash va orttirma daraja shakllari hamda ravishlardan foydalanishni ko'rsatadi, ayniqsa B1 darajasidagi sog'liqni saqlash va fitnes lug'atiga e'tibor qaratadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Urban planning requires careful consideration of how cities can grow ___1___ (sustainable) while providing residents with the ___2___ (good) quality of life possible. Modern cities are becoming ___3___ (crowded) each year, making efficient transportation systems ___4___ (essential) than ever before. Public transportation networks must operate ___5___ (reliable) to encourage people to travel ___6___ (frequent) by bus or train rather than by private car. Green spaces should be distributed ___7___ (even) throughout urban areas to ensure all residents can access them ___8___ (convenient). The ___9___ (effective) city designs incorporate mixed-use development, where people can live, work, and shop ___10___ (close) together. Smart city technologies allow municipal services to respond ___11___ (quick) to citizen needs and manage resources ___12___ (efficient). Environmental concerns are becoming ___13___ (urgent), pushing city planners to think ___14___ (creative) about sustainable solutions. The ___15___ (successful) urban development projects are those that balance economic growth with environmental protection and social equity.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "sustainably"
+                },
+                {
+                    "blank": "2",
+                    "answer": "best"
+                },
+                {
+                    "blank": "3",
+                    "answer": "more crowded"
+                },
+                {
+                    "blank": "4",
+                    "answer": "more essential"
+                },
+                {
+                    "blank": "5",
+                    "answer": "reliably"
+                },
+                {
+                    "blank": "6",
+                    "answer": "frequently"
+                },
+                {
+                    "blank": "7",
+                    "answer": "evenly"
+                },
+                {
+                    "blank": "8",
+                    "answer": "conveniently"
+                },
+                {
+                    "blank": "9",
+                    "answer": "most effective"
+                },
+                {
+                    "blank": "10",
+                    "answer": "closely"
+                },
+                {
+                    "blank": "11",
+                    "answer": "quickly"
+                },
+                {
+                    "blank": "12",
+                    "answer": "efficiently"
+                },
+                {
+                    "blank": "13",
+                    "answer": "more urgent"
+                },
+                {
+                    "blank": "14",
+                    "answer": "creatively"
+                },
+                {
+                    "blank": "15",
+                    "answer": "most successful"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise emphasizes adverb formation, comparative structures, and superlative usage within the context of urban planning and city development vocabulary.",
+                "ru": "Это упражнение подчеркивает образование наречий, сравнительные структуры и использование превосходных форм в контексте лексики городского планирования и развития городов.",
+                "uz": "Ushbu mashq shahar rejalashtirish va shahar rivojlanish lug'ati kontekstida ravish yasash, taqqoslash tuzilmalari va orttirma daraja shakllaridan foydalanishni ta'kidlaydi."
+            }
+        }
+    ]
+}

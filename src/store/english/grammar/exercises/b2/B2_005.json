@@ -1,0 +1,944 @@
+{
+    "id": "B2_MODALS_PAST_MODAL_MEANINGS",
+    "title": "Modals (can't have, needn't have) - Past modal meanings",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can't forgot the meeting - she wrote it down."
+                },
+                {
+                    "answer": "She can't have forgotten the meeting - she wrote it down.",
+                    "correct": true
+                },
+                {
+                    "answer": "She can't had forgotten the meeting - she wrote it down."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express strong disbelief about something in the past.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени' для выражения сильного недоверия к чему-то в прошлом.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' yordamida o'tmishda sodir bo'lgan narsaga kuchli ishonmaslikni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "You needn't have bought so much food - there were only three guests.",
+                    "correct": true
+                },
+                {
+                    "answer": "You needn't had bought so much food - there were only three guests."
+                },
+                {
+                    "answer": "You need haven't bought so much food - there were only three guests."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' to say something was unnecessary but was done anyway.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', чтобы сказать, что что-то было ненужно, но все равно было сделано.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' yordamida kerak bo'lmagan, lekin bajarilgan ishni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't sleep when I called - his phone was busy."
+                },
+                {
+                    "answer": "He can't have been sleeping when I called - his phone was busy.",
+                    "correct": true
+                },
+                {
+                    "answer": "He can't been sleeping when I called - his phone was busy."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have been + -ing' for continuous actions we believe didn't happen in the past.",
+                "ru": "Мы используем 'can't have been + -ing' для длительных действий, которые, по нашему мнению, не происходили в прошлом.",
+                "uz": "'Can't have been + -ing' o'tmishda sodir bo'lmagan davomiy harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They needn't had worried about the weather - it was perfect."
+                },
+                {
+                    "answer": "They needn't have worried about the weather - it was perfect.",
+                    "correct": true
+                },
+                {
+                    "answer": "They needn't worried about the weather - it was perfect."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' to express that past worry or action was unnecessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', чтобы выразить, что прошлое беспокойство или действие было ненужным.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' o'tmishda keraksiz bo'lgan tashvish yoki harakatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can't have understand the instructions - she did everything wrong."
+                },
+                {
+                    "answer": "She can't have understood the instructions - she did everything wrong.",
+                    "correct": true
+                },
+                {
+                    "answer": "She can't understood the instructions - she did everything wrong."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express certainty that something didn't happen in the past.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить уверенность, что что-то не произошло в прошлом.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' o'tmishda nimadir sodir bo'lmaganiga ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We needn't have taken the umbrella - it didn't rain at all.",
+                    "correct": true
+                },
+                {
+                    "answer": "We needn't took the umbrella - it didn't rain at all."
+                },
+                {
+                    "answer": "We needn't taking the umbrella - it didn't rain at all."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' to say an action was done but wasn't necessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', чтобы сказать, что действие было выполнено, но не было необходимым.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' bajariladigan, lekin kerak bo'lmagan harakatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't have arrive yet - the train was delayed for two hours."
+                },
+                {
+                    "answer": "He can't have arrived yet - the train was delayed for two hours.",
+                    "correct": true
+                },
+                {
+                    "answer": "He can't arrived yet - the train was delayed for two hours."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express strong belief that something hasn't happened yet.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить твердую уверенность, что что-то еще не произошло.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' nimadir hali sodir bo'lmaganiga kuchli ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "You needn't cleaned the house - the guests cancelled."
+                },
+                {
+                    "answer": "You needn't have cleaned the house - the guests cancelled.",
+                    "correct": true
+                },
+                {
+                    "answer": "You needn't clean the house - the guests cancelled."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' for completed unnecessary actions in the past.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени' для завершенных ненужных действий в прошлом.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' o'tmishda tugallangan keraksiz harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can't have finish the project - it was too complicated."
+                },
+                {
+                    "answer": "She can't have finished the project - it was too complicated.",
+                    "correct": true
+                },
+                {
+                    "answer": "She can't finish the project - it was too complicated."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express disbelief about a completed past action.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить недоверие к завершенному действию в прошлом.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' o'tmishda tugallangan harakatga ishonmaslikni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They needn't have hurry - the meeting started late anyway."
+                },
+                {
+                    "answer": "They needn't have hurried - the meeting started late anyway.",
+                    "correct": true
+                },
+                {
+                    "answer": "They needn't hurried - the meeting started late anyway."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' for actions that were done but proved unnecessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени' для действий, которые были выполнены, но оказались ненужными.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' bajarilgan, lekin keraksiz bo'lib chiqgan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc11",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't have working all night - the lights were off."
+                },
+                {
+                    "answer": "He can't have been working all night - the lights were off.",
+                    "correct": true
+                },
+                {
+                    "answer": "He can't been working all night - the lights were off."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have been + -ing' to express disbelief about continuous past actions.",
+                "ru": "Мы используем 'can't have been + -ing', чтобы выразить недоверие к длительным действиям в прошлом.",
+                "uz": "'Can't have been + -ing' o'tmishdagi davomiy harakatlarga ishonmaslikni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc12",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We needn't have booked so many rooms - half the group didn't come.",
+                    "correct": true
+                },
+                {
+                    "answer": "We needn't booked so many rooms - half the group didn't come."
+                },
+                {
+                    "answer": "We needn't have book so many rooms - half the group didn't come."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' to say something was done unnecessarily in the past.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', чтобы сказать, что что-то было сделано без необходимости в прошлом.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' o'tmishda keraksiz bajarilgan ishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ have known about the party - nobody told her.",
+                "ru": "Дополните предложение: She ___ have known about the party - nobody told her.",
+                "uz": "Gapni to'ldiring: She ___ have known about the party - nobody told her."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express certainty that something didn't happen.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить уверенность, что что-то не произошло.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' nimadir sodir bo'lmaganiga ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ have called me - I was already on my way.",
+                "ru": "Дополните предложение: You ___ have called me - I was already on my way.",
+                "uz": "Gapni to'ldiring: You ___ have called me - I was already on my way."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' for actions that were done but weren't necessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени' для действий, которые были выполнены, но не были необходимы.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' bajarilgan, lekin kerak bo'lmagan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ have heard the news - he was abroad without internet.",
+                "ru": "Дополните предложение: He ___ have heard the news - he was abroad without internet.",
+                "uz": "Gapni to'ldiring: He ___ have heard the news - he was abroad without internet."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express strong disbelief about past events.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить сильное недоверие к прошлым событиям.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' o'tmish voqealarga kuchli ishonmaslikni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ have bought so much food - there were leftovers for days.",
+                "ru": "Дополните предложение: They ___ have bought so much food - there were leftovers for days.",
+                "uz": "Gapni to'ldiring: They ___ have bought so much food - there were leftovers for days."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' to say something was done but wasn't necessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', чтобы сказать, что что-то было сделано, но не было необходимым.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' bajarilgan, lekin kerak bo'lmagan ishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ have been at home - all the lights were off.",
+                "ru": "Дополните предложение: She ___ have been at home - all the lights were off.",
+                "uz": "Gapni to'ldiring: She ___ have been at home - all the lights were off."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express certainty about what didn't happen in the past.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить уверенность в том, что не произошло в прошлом.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' o'tmishda sodir bo'lmagan narsaga ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ have taken a taxi - the bus was much cheaper.",
+                "ru": "Дополните предложение: We ___ have taken a taxi - the bus was much cheaper.",
+                "uz": "Gapni to'ldiring: We ___ have taken a taxi - the bus was much cheaper."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' for unnecessary actions that were completed in the past.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени' для ненужных действий, которые были выполнены в прошлом.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' o'tmishda tugallangan keraksiz harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ have finished the report - it was due next week.",
+                "ru": "Дополните предложение: He ___ have finished the report - it was due next week.",
+                "uz": "Gapni to'ldiring: He ___ have finished the report - it was due next week."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' when something was done early or unnecessarily.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', когда что-то было сделано рано или без необходимости.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' erta yoki keraksiz bajarilgan ishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ have seen him - she was looking the other way.",
+                "ru": "Дополните предложение: She ___ have seen him - she was looking the other way.",
+                "uz": "Gapni to'ldiring: She ___ have seen him - she was looking the other way."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' to express impossibility about past events.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', чтобы выразить невозможность прошлых событий.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' o'tmish voqealarning imkonsizligini ifodalaydi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ have waited for me - I told you to go ahead.",
+                "ru": "Дополните предложение: You ___ have waited for me - I told you to go ahead.",
+                "uz": "Gapni to'ldiring: You ___ have waited for me - I told you to go ahead."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' for actions done despite being told they were unnecessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени' для действий, выполненных, несмотря на то, что их сказали не делать.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' keraksiz deyilgan, lekin bajarilgan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ have left already - his car is still in the parking lot.",
+                "ru": "Дополните предложение: He ___ have left already - his car is still in the parking lot.",
+                "uz": "Gapni to'ldiring: He ___ have left already - his car is still in the parking lot."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' when evidence contradicts a possibility.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', когда доказательства противоречат возможности.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' dalillar imkoniyatga zid kelganda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ have dressed so formally - it was just a casual dinner.",
+                "ru": "Дополните предложение: We ___ have dressed so formally - it was just a casual dinner.",
+                "uz": "Gapni to'ldiring: We ___ have dressed so formally - it was just a casual dinner."
+            },
+            "options": [
+                {
+                    "answer": "needn't/need not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'needn't have + past participle' when preparation was excessive or unnecessary.",
+                "ru": "Мы используем 'needn't have + причастие прошедшего времени', когда подготовка была чрезмерной или ненужной.",
+                "uz": "'Needn't have + o'tgan zamon sifatdoshi' tayyorgarlik ortiqcha yoki keraksiz bo'lganda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ have received my message - her phone was turned off.",
+                "ru": "Дополните предложение: She ___ have received my message - her phone was turned off.",
+                "uz": "Gapni to'ldiring: She ___ have received my message - her phone was turned off."
+            },
+            "options": [
+                {
+                    "answer": "can't/couldn't/can not/could not",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'can't have + past participle' when circumstances make something impossible.",
+                "ru": "Мы используем 'can't have + причастие прошедшего времени', когда обстоятельства делают что-то невозможным.",
+                "uz": "'Can't have + o'tgan zamon sifatdoshi' vaziyat nimanidir imkonsiz qilganda ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Yesterday was Sarah's first day at her new job, and she was extremely nervous. She ___1___ slept very well the night before because she was worried about making a good impression. When she arrived at the office, she realized she ___2___ worried so much - everyone was incredibly welcoming and friendly. Her manager showed her around and explained that she ___3___ brought her own laptop because the company provided all necessary equipment. Sarah felt embarrassed because she had carried her heavy laptop all the way from home. During lunch, her colleague mentioned that Sarah ___4___ taken the bus to work as there was free parking available for employees. She ___5___ known about this earlier! In the afternoon, Sarah attended her first team meeting. She was surprised to learn that the project deadline had been moved forward. The team leader explained that they ___6___ completed the initial phase last week, but there had been some technical difficulties. Sarah's supervisor told her that she ___7___ started working on the main project immediately, but it would be better to spend a few days learning the company's procedures first. By the end of the day, Sarah realized that she ___8___ stressed so much about her first day. Her new colleagues were supportive, and she ___9___ asked for help anytime she needed it. Looking back, she understood that she ___10___ prepared so extensively for the interview because she had already impressed them enough to get the job. Sarah felt confident that she ___11___ made the right decision in accepting this position, and she was excited about the opportunities ahead.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "couldn't have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "didn't need to"
+                },
+                {
+                    "blank": "8",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "couldn't have"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests past modal meanings: 'couldn't have' for impossibility in the past, 'needn't have' for unnecessary completed actions, 'should have' for missed obligations, 'didn't need to' for unnecessary actions that weren't done, and 'could have' for past possibility.",
+                "ru": "Это упражнение проверяет значения модальных глаголов в прошлом: 'couldn't have' для невозможности в прошлом, 'needn't have' для ненужных выполненных действий, 'should have' для упущенных обязательств, 'didn't need to' для ненужных действий, которые не выполнялись, и 'could have' для прошлой возможности.",
+                "uz": "Bu mashq o'tmishdagi modal ma'nolarni tekshiradi: 'couldn't have' o'tmishdagi imkonsizlik uchun, 'needn't have' bajarilgan keraksiz harakatlar uchun, 'should have' o'tkazib yuborilgan majburiyatlar uchun, 'didn't need to' bajarilmagan keraksiz harakatlar uchun, va 'could have' o'tmishdagi imkoniyat uchun."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last summer, Tom decided to climb Mount Everest, which was something he had dreamed about for years. His friends told him that he ___1___ crazy to attempt such a dangerous feat without proper experience. However, Tom was determined and spent months preparing for the expedition. He hired a professional guide who explained that he ___2___ underestimated the risks involved in high-altitude climbing. The guide warned Tom that many climbers fail because they think they ___3___ trained harder, but physical preparation is only part of the challenge. During the preparation phase, Tom realized he ___4___ bought so much expensive equipment initially, as his guide provided most of the specialized gear. Tom's doctor told him he ___5___ gotten a complete medical check-up before attempting the climb, which he thankfully had already done. When Tom reached base camp, he met other climbers who shared their experiences. One experienced mountaineer told him that he ___6___ attempted Everest on his first try because the weather conditions had been terrible that year. Another climber mentioned that she ___7___ brought so many energy bars because there were sufficient supplies at the camp. Tom learned that several climbers had turned back because they realized they ___8___ prepared mentally for the psychological challenges of high-altitude climbing. On the day of the final ascent, Tom's guide informed the team that they ___9___ started earlier due to changing weather patterns. Unfortunately, Tom ___10___ completed the climb because he developed altitude sickness just below the summit. Looking back, he realized he ___11___ rushed his preparation and should have spent more time acclimatizing. Despite not reaching the summit, Tom felt proud of his achievement and knew he ___12___ given up easily throughout the challenging journey.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "shouldn't have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "ought to have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "shouldn't have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "couldn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "shouldn't have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "couldn't have"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers various past modal meanings including deduction ('must have been'), regret and criticism ('should have', 'shouldn't have'), unnecessary actions ('needn't have'), formal obligation ('ought to have'), and impossibility ('couldn't', 'couldn't have').",
+                "ru": "Это упражнение охватывает различные значения модальных глаголов в прошлом, включая дедукцию ('must have been'), сожаление и критику ('should have', 'shouldn't have'), ненужные действия ('needn't have'), формальное обязательство ('ought to have') и невозможность ('couldn't', 'couldn't have').",
+                "uz": "Bu mashq turli o'tmish modal ma'nolarni qamrab oladi, jumladan xulosachiqarish ('must have been'), pushaymon bo'lish va tanqid ('should have', 'shouldn't have'), keraksiz harakatlar ('needn't have'), rasmiy majburiyat ('ought to have') va imkonsizlik ('couldn't', 'couldn't have')."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Detective Johnson was investigating a mysterious burglary that had occurred at the prestigious Whitmore Gallery. The security footage showed that the thief ___1___ been very skilled because they managed to disable the alarm system without triggering it. The gallery owner explained that the stolen painting ___2___ been worth millions of dollars, making this a high-profile case. Johnson examined the evidence carefully and concluded that the burglar ___3___ had inside information about the gallery's security procedures. The security guard mentioned that he ___4___ checked the back entrance more frequently, as that's where the thief had entered. Johnson discovered that the gallery ___5___ installed additional cameras in the storage area, but they had decided it was too expensive. During his investigation, Johnson learned that the gallery's previous security company ___6___ warned them about potential vulnerabilities in their system. The detective realized that the thief ___7___ studied the gallery's routine for weeks before attempting the robbery. Witnesses reported seeing a suspicious person near the gallery, but Johnson knew that person ___8___ been the actual burglar because the timing didn't match the security footage. The gallery's insurance investigator told Johnson that the owners ___9___ reported the theft immediately, but they had waited several hours before calling the police. Johnson suspected that the painting ___10___ been sold on the black market already, given how quickly professional art thieves typically work. After reviewing all the evidence, Johnson concluded that this ___11___ been a random crime, but rather a carefully planned operation. The detective knew that solving this case ___12___ require international cooperation, as art theft often involves criminal networks across multiple countries.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "couldn't have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "ought to have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "might have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "couldn't have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "would"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on past modal verbs for deduction ('must have', 'couldn't have'), possibility ('could have', 'might have'), obligation and advice ('should have', 'ought to have'), and conditional situations ('would'). These modals help express different degrees of certainty and judgment about past events.",
+                "ru": "Это упражнение сосредоточено на модальных глаголах прошедшего времени для дедукции ('must have', 'couldn't have'), возможности ('could have', 'might have'), обязательства и совета ('should have', 'ought to have') и условных ситуаций ('would'). Эти модальные глаголы помогают выражать разные степени уверенности и суждения о прошлых событиях.",
+                "uz": "Bu mashq xulosachiqarish ('must have', 'couldn't have'), imkoniyat ('could have', 'might have'), majburiyat va maslahat ('should have', 'ought to have') va shartli vaziyatlar ('would') uchun o'tmish modal fe'llariga qaratilgan. Bu modal fe'llar o'tmish voqealar haqida turli darajadagi ishonch va mulohazalarni ifodalashga yordam beradi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma was preparing for her final university exams when she discovered that her laptop had crashed, taking all her research notes with it. She panicked initially, thinking she ___1___ backed up her files more regularly. Her roommate tried to comfort her, saying that the situation ___2___ been worse if it had happened during exam week itself. Emma realized she ___3___ saved her work to the cloud storage system that the university provided for free. Her computer science friend offered to help, explaining that the data ___4___ still be recoverable if the hard drive wasn't completely damaged. Emma felt foolish because she ___5___ listened to her professor's advice about backing up important files. The next morning, Emma took her laptop to the university's IT support center. The technician examined it and told her that she ___6___ brought it in sooner, as the damage had worsened overnight. Fortunately, the technician managed to recover most of her files, though Emma ___7___ lost some of her most recent work permanently. Emma's supervisor told her that she ___8___ worried so much because the university had copies of most research materials in their digital library. Looking back, Emma realized that she ___9___ been more careful with her technology, but she was grateful for the lesson learned. Her friend pointed out that this experience ___10___ taught her valuable skills about data management that would benefit her in her future career. Emma decided that she ___11___ invested in a reliable backup system much earlier, and she immediately set up automatic cloud synchronization for all her devices. By the end of the week, Emma understood that she ___12___ handled the situation better initially, but the crisis had ultimately made her more organized and responsible with her academic work.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "might"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "may have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "needn't have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "could have"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests past modals for regret and missed opportunities ('should have'), past possibility ('could have', 'may have', 'might'), and unnecessary worry ('needn't have'). These structures help express different attitudes toward past actions and their consequences.",
+                "ru": "Это упражнение проверяет модальные глаголы прошедшего времени для сожаления и упущенных возможностей ('should have'), прошлой возможности ('could have', 'may have', 'might') и ненужного беспокойства ('needn't have'). Эти структуры помогают выразить разное отношение к прошлым действиям и их последствиям.",
+                "uz": "Bu mashq pushaymonlik va o'tkazib yuborilgan imkoniyatlar ('should have'), o'tmish imkoniyati ('could have', 'may have', 'might') va keraksiz tashvish ('needn't have') uchun o'tmish modal fe'llarni tekshiradi. Bu strukturalar o'tmish harakatlar va ularning oqibatlariga nisbatan turli munosabatlarni ifodalashga yordam beradi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The small coastal town of Millbrook was preparing for what meteorologists predicted would be the strongest hurricane in decades. The mayor announced that all residents ___1___ evacuated immediately, but many chose to stay and protect their homes. Mrs. Henderson, who had lived in the town for fifty years, insisted that she ___2___ seen storms like this before and wasn't worried. However, her neighbor pointed out that she ___3___ underestimated the power of this particular hurricane based on the satellite images. The emergency services coordinator explained that residents ___4___ have left by noon to avoid the worst conditions, but several families were still packing their belongings in the afternoon. Local business owners were frustrated because they felt the authorities ___5___ given them more advance warning to secure their properties properly. The hurricane arrived earlier than expected, and many residents realized they ___6___ taken the warnings more seriously. Roads became impassable quickly, and rescue teams discovered that some people ___7___ left when they had the chance, as they were now trapped in dangerous conditions. The community center, which had been designated as an emergency shelter, proved inadequate because organizers ___8___ anticipated such a large number of evacuees. Volunteers worked tirelessly to accommodate everyone, though they ___9___ prepared better if they had known how many people would need help. After the storm passed, residents surveyed the damage and many admitted they ___10___ stayed in their homes during such a severe weather event. Insurance assessors arrived the following week and determined that much of the property damage ___11___ been prevented if proper storm shutters had been installed. The community learned valuable lessons about disaster preparedness, and residents agreed that they ___12___ ignored the severity of weather warnings in the future.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "shouldn't have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "shouldn't have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "could have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "couldn't"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise combines past modals for obligation and advice ('should have', 'shouldn't have'), deduction ('must have'), past possibility ('could have'), and future determination ('couldn't'). These modals express judgment, regret, and lessons learned from past experiences.",
+                "ru": "Это упражнение объединяет модальные глаголы прошедшего времени для обязательства и совета ('should have', 'shouldn't have'), дедукции ('must have'), прошлой возможности ('could have') и будущей решимости ('couldn't'). Эти модальные глаголы выражают суждение, сожаление и уроки, извлеченные из прошлого опыта.",
+                "uz": "Bu mashq majburiyat va maslahat ('should have', 'shouldn't have'), xulosachiqarish ('must have'), o'tmish imkoniyati ('could have') va kelajak qat'iyatliligi ('couldn't') uchun o'tmish modal fe'llarni birlashtiradi. Bu modal fe'llar mulohaza, pushaymonlik va o'tmish tajribalardan olingan saboqlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf6",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Dr. Martinez was reviewing the medical records of a patient who had recovered from a rare condition after an experimental treatment. The patient's symptoms had been so unusual that Dr. Martinez initially thought there ___1___ been a misdiagnosis by the referring physician. However, after conducting extensive tests, she realized that the previous doctor ___2___ been correct in his initial assessment after all. The patient's family was concerned about the experimental treatment and felt that Dr. Martinez ___3___ tried conventional therapies first before proposing such a risky procedure. Dr. Martinez explained that conventional treatments ___4___ worked in this particular case due to the aggressive nature of the condition. She noted that they ___5___ waited any longer to begin treatment, as the patient's condition was deteriorating rapidly. The hospital's ethics committee had initially been hesitant to approve the experimental protocol, suggesting that the medical team ___6___ considered all possible alternatives more carefully. Dr. Martinez argued that she ___7___ exhausted all conventional options before recommending the experimental approach. During the treatment process, the patient experienced some unexpected side effects, and Dr. Martinez wondered if she ___8___ prepared the family better for these possibilities. The nursing staff observed that the patient ___9___ responded to the treatment much faster than anyone had anticipated, showing significant improvement within days. Looking back at the case, Dr. Martinez concluded that the treatment ___10___ failed completely if they had delayed it any longer. The patient's remarkable recovery proved that the medical team ___11___ made the right decision, even though it had seemed very risky at the time. Dr. Martinez documented the case thoroughly, knowing that this information ___12___ help other doctors facing similar challenging situations in the future.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "wouldn't have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "couldn't have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "might have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers past modals for deduction and certainty ('must have'), criticism and advice ('should have'), impossibility ('couldn't have'), conditional outcomes ('wouldn't have', 'might have'), and future possibility ('could'). These structures express medical reasoning and professional judgment.",
+                "ru": "Это упражнение охватывает модальные глаголы прошедшего времени для дедукции и уверенности ('must have'), критики и совета ('should have'), невозможности ('couldn't have'), условных результатов ('wouldn't have', 'might have') и будущей возможности ('could'). Эти структуры выражают медицинское мышление и профессиональное суждение.",
+                "uz": "Bu mashq xulosachiqarish va ishonch ('must have'), tanqid va maslahat ('should have'), imkonsizlik ('couldn't have'), shartli natijalar ('wouldn't have', 'might have') va kelajak imkoniyati ('could') uchun o'tmish modal fe'llarni qamrab oladi. Bu strukturalar tibbiy fikrlash va professional mulohazalarni ifodalaydi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,774 @@
+{
+    "id": "A2_PRESENT_PERFECT_FORM_AND_USE_INTRODUCTION_TO_PRESENT_PERFECT",
+    "title": "Present perfect (Form and use) - Introduction to present perfect",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have seen this movie yesterday."
+                },
+                {
+                    "answer": "I have seen this movie before.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have see this movie before."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'have/has + past participle' and shows completed actions with present relevance, not specific past times.",
+                "ru": "Present perfect использует 'have/has + причастие прошедшего времени' и показывает завершенные действия с настоящей значимостью, а не конкретное прошедшее время.",
+                "uz": "Present perfect 'have/has + o'tgan zamon sifatdoshi' ishlatadi va hozirgi paytga tegishli bo'lgan tugallangan harakatlarni bildiradi, aniq o'tgan vaqtni emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She has wrote three letters today."
+                },
+                {
+                    "answer": "She has written three letters today.",
+                    "correct": true
+                },
+                {
+                    "answer": "She have written three letters today."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect requires 'has' with third person singular and the correct past participle 'written', not 'wrote'.",
+                "ru": "Present perfect требует 'has' с третьим лицом единственного числа и правильное причастие прошедшего времени 'written', а не 'wrote'.",
+                "uz": "Present perfect uchinchi shaxs birlikda 'has' va to'g'ri o'tgan zamon sifatdoshi 'written'ni talab qiladi, 'wrote' emas."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They has lived here for five years."
+                },
+                {
+                    "answer": "They have lived here for five years.",
+                    "correct": true
+                },
+                {
+                    "answer": "They have live here for five years."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with plural subjects uses 'have' plus the past participle 'lived', not the base form 'live'.",
+                "ru": "Present perfect с подлежащими во множественном числе использует 'have' плюс причастие прошедшего времени 'lived', а не основную форму 'live'.",
+                "uz": "Present perfect ko'plik sub'ektlar bilan 'have' va o'tgan zamon sifatdoshi 'lived'ni ishlatadi, asosiy shakl 'live' emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Have you ever been to Paris?"
+                },
+                {
+                    "answer": "Have you ever been to Paris?",
+                    "correct": true
+                },
+                {
+                    "answer": "Did you ever been to Paris?"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect questions use 'Have/Has + subject + past participle' for experiences without specific time references.",
+                "ru": "Вопросы в present perfect используют 'Have/Has + подлежащее + причастие прошедшего времени' для опыта без конкретных временных ссылок.",
+                "uz": "Present perfect savollar aniq vaqt ko'rsatmasdan tajriba uchun 'Have/Has + ega + o'tgan zamon sifatdoshi' ishlatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I haven't never been to Japan."
+                },
+                {
+                    "answer": "I have never been to Japan.",
+                    "correct": true
+                },
+                {
+                    "answer": "I haven't ever been to Japan never."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect negative uses 'have not/haven't' or 'never' but not double negatives like 'haven't never'.",
+                "ru": "Отрицательная форма present perfect использует 'have not/haven't' или 'never', но не двойные отрицания как 'haven't never'.",
+                "uz": "Present perfect inkor shakli 'have not/haven't' yoki 'never' ishlatadi, lekin 'haven't never' kabi qo'sh inkor ishlatmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We has just finished our homework."
+                },
+                {
+                    "answer": "We have just finished our homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have just finish our homework."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'just' uses 'have' with plural subjects and requires the past participle 'finished'.",
+                "ru": "Present perfect с 'just' использует 'have' с подлежащими во множественном числе и требует причастие прошедшего времени 'finished'.",
+                "uz": "Present perfect 'just' bilan ko'plik egalarda 'have' va o'tgan zamon sifatdoshi 'finished'ni ishlatadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He have already eaten lunch."
+                },
+                {
+                    "answer": "He has already eaten lunch.",
+                    "correct": true
+                },
+                {
+                    "answer": "He has already ate lunch."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with third person singular uses 'has' and the past participle 'eaten', not the past tense 'ate'.",
+                "ru": "Present perfect с третьим лицом единственного числа использует 'has' и причастие прошедшего времени 'eaten', а не прошедшее время 'ate'.",
+                "uz": "Present perfect uchinchi shaxs birlikda 'has' va o'tgan zamon sifatdoshi 'eaten'ni ishlatadi, o'tgan zamon 'ate' emas."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She hasn't came home yet."
+                },
+                {
+                    "answer": "She hasn't come home yet.",
+                    "correct": true
+                },
+                {
+                    "answer": "She hasn't coming home yet."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect negative uses 'hasn't/haven't + past participle', so 'come' is correct, not 'came' or 'coming'.",
+                "ru": "Отрицательная форма present perfect использует 'hasn't/haven't + причастие прошедшего времени', поэтому правильно 'come', а не 'came' или 'coming'.",
+                "uz": "Present perfect inkor shakli 'hasn't/haven't + o'tgan zamon sifatdoshi' ishlatadi, shuning uchun 'come' to'g'ri, 'came' yoki 'coming' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How long do you live here?"
+                },
+                {
+                    "answer": "How long have you lived here?",
+                    "correct": true
+                },
+                {
+                    "answer": "How long are you living here?"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'How long' shows duration from past to present, using 'have/has + past participle'.",
+                "ru": "Present perfect с 'How long' показывает продолжительность от прошлого к настоящему, используя 'have/has + причастие прошедшего времени'.",
+                "uz": "Present perfect 'How long' bilan o'tmishdan hozirgi vaqtgacha davomiylikni ko'rsatadi, 'have/has + o'tgan zamon sifatdoshi' ishlatadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I have went to the store."
+                },
+                {
+                    "answer": "I have gone to the store.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have go to the store."
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'go' is 'gone', not 'went' (which is past tense) or 'go' (base form).",
+                "ru": "Причастие прошедшего времени от 'go' это 'gone', а не 'went' (прошедшее время) или 'go' (основная форма).",
+                "uz": "'Go' fe'lining o'tgan zamon sifatdoshi 'gone', 'went' (o'tgan zamon) yoki 'go' (asosiy shakl) emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ already finished their project.",
+                "ru": "Дополните предложение: They ___ already finished their project.",
+                "uz": "Gapni to'ldiring: They ___ already finished their project."
+            },
+            "options": [
+                {
+                    "answer": "have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'have' with plural subjects like 'they' plus past participle.",
+                "ru": "Present perfect использует 'have' с подлежащими во множественном числе как 'they' плюс причастие прошедшего времени.",
+                "uz": "Present perfect 'they' kabi ko'plik egalarda 'have' va o'tgan zamon sifatdoshini ishlatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ never been to Australia.",
+                "ru": "Дополните предложение: She ___ never been to Australia.",
+                "uz": "Gapni to'ldiring: She ___ never been to Australia."
+            },
+            "options": [
+                {
+                    "answer": "has",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'has' with third person singular subjects like 'she'.",
+                "ru": "Present perfect использует 'has' с подлежащими третьего лица единственного числа как 'she'.",
+                "uz": "Present perfect 'she' kabi uchinchi shaxs birlik egalarda 'has' ishlatadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I haven't ___ (see) him today.",
+                "ru": "Дополните предложение: I haven't ___ (see) him today.",
+                "uz": "Gapni to'ldiring: I haven't ___ (see) him today."
+            },
+            "options": [
+                {
+                    "answer": "seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses the past participle form 'seen' after 'haven't', not the base form 'see'.",
+                "ru": "Present perfect использует причастие прошедшего времени 'seen' после 'haven't', а не основную форму 'see'.",
+                "uz": "Present perfect 'haven't' dan keyin o'tgan zamon sifatdoshi 'seen'ni ishlatadi, asosiy shakl 'see' emas."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you ever tried sushi?",
+                "ru": "Дополните предложение: ___ you ever tried sushi?",
+                "uz": "Gapni to'ldiring: ___ you ever tried sushi?"
+            },
+            "options": [
+                {
+                    "answer": "Have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect questions start with 'Have' or 'Has' depending on the subject.",
+                "ru": "Вопросы в present perfect начинаются с 'Have' или 'Has' в зависимости от подлежащего.",
+                "uz": "Present perfect savollar egaga qarab 'Have' yoki 'Has' bilan boshlanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We have just ___ (arrive) at the airport.",
+                "ru": "Дополните предложение: We have just ___ (arrive) at the airport.",
+                "uz": "Gapni to'ldiring: We have just ___ (arrive) at the airport."
+            },
+            "options": [
+                {
+                    "answer": "arrived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect requires the past participle 'arrived' after 'have just'.",
+                "ru": "Present perfect требует причастие прошедшего времени 'arrived' после 'have just'.",
+                "uz": "Present perfect 'have just' dan keyin o'tgan zamon sifatdoshi 'arrived'ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ lived in London since 2010.",
+                "ru": "Дополните предложение: He ___ lived in London since 2010.",
+                "uz": "Gapni to'ldiring: He ___ lived in London since 2010."
+            },
+            "options": [
+                {
+                    "answer": "has",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'since' uses 'has' with third person singular subjects.",
+                "ru": "Present perfect с 'since' использует 'has' с подлежащими третьего лица единственного числа.",
+                "uz": "Present perfect 'since' bilan uchinchi shaxs birlik egalarda 'has' ishlatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I have ___ (write) three emails this morning.",
+                "ru": "Дополните предложение: I have ___ (write) three emails this morning.",
+                "uz": "Gapni to'ldiring: I have ___ (write) three emails this morning."
+            },
+            "options": [
+                {
+                    "answer": "written",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'write' is 'written' in present perfect constructions.",
+                "ru": "Причастие прошедшего времени от 'write' это 'written' в конструкциях present perfect.",
+                "uz": "'Write' fe'lining o'tgan zamon sifatdoshi present perfect qurilmalarida 'written'."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They haven't ___ (do) their homework yet.",
+                "ru": "Дополните предложение: They haven't ___ (do) their homework yet.",
+                "uz": "Gapni to'ldiring: They haven't ___ (do) their homework yet."
+            },
+            "options": [
+                {
+                    "answer": "done",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'do' is 'done' in present perfect negative constructions.",
+                "ru": "Причастие прошедшего времени от 'do' это 'done' в отрицательных конструкциях present perfect.",
+                "uz": "'Do' fe'lining o'tgan zamon sifatdoshi present perfect inkor qurilmalarida 'done'."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ she finished her work?",
+                "ru": "Дополните предложение: ___ she finished her work?",
+                "uz": "Gapni to'ldiring: ___ she finished her work?"
+            },
+            "options": [
+                {
+                    "answer": "Has",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect questions with third person singular subjects use 'Has'.",
+                "ru": "Вопросы в present perfect с подлежащими третьего лица единственного числа используют 'Has'.",
+                "uz": "Present perfect savollar uchinchi shaxs birlik egalarda 'Has' ishlatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We have ___ (be) friends for ten years.",
+                "ru": "Дополните предложение: We have ___ (be) friends for ten years.",
+                "uz": "Gapni to'ldiring: We have ___ (be) friends for ten years."
+            },
+            "options": [
+                {
+                    "answer": "been",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'be' is 'been' in present perfect constructions showing duration.",
+                "ru": "Причастие прошедшего времени от 'be' это 'been' в конструкциях present perfect, показывающих длительность.",
+                "uz": "'Be' fe'lining o'tgan zamon sifatdoshi davomiylikni ko'rsatuvchi present perfect qurilmalarida 'been'."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah ___1___ always been interested in languages. She ___2___ studied French for three years and ___3___ recently started learning Spanish. Her teacher ___4___ told her that she ___5___ made excellent progress since the beginning of the course. Sarah ___6___ never traveled to Spain before, but she ___7___ already planned a trip for next summer. She ___8___ read several Spanish books this month and ___9___ watched many Spanish movies with subtitles. Her friends ___10___ noticed how much her pronunciation ___11___ improved. They ___12___ encouraged her to continue practicing every day. Sarah ___13___ joined a conversation club where she ___14___ met other language learners. The experience ___15___ been very rewarding so far, and she feels confident about her future Spanish adventures.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "has"
+                },
+                {
+                    "blank": "3",
+                    "answer": "has"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has"
+                },
+                {
+                    "blank": "9",
+                    "answer": "has"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'has' with singular subjects and 'have' with plural subjects, followed by past participles to show completed actions with present relevance.",
+                "ru": "Present perfect использует 'has' с подлежащими в единственном числе и 'have' с подлежащими во множественном числе, за которыми следуют причастия прошедшего времени для обозначения завершенных действий с настоящей значимостью.",
+                "uz": "Present perfect birlik egalarda 'has', ko'plik egalarda 'have' ishlatadi, keyin hozirgi paytga tegishli bo'lgan tugallangan harakatlarni bildirish uchun o'tgan zamon sifatdoshlari keladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Johnson family ___1___ lived in their current house for fifteen years. Mr. Johnson ___2___ worked at the same company since he graduated from university. Mrs. Johnson ___3___ recently started her own business, and it ___4___ been very successful so far. Their eldest son ___5___ just finished his master's degree and ___6___ already found a good job. The younger daughter ___7___ never shown much interest in academics, but she ___8___ discovered her passion for art this year. The family ___9___ traveled to many countries together, but they ___10___ never been to Asia. They ___11___ always wanted to visit Japan and ___12___ finally decided to book a trip for next spring. The children ___13___ grown up in this neighborhood and ___14___ made many lasting friendships here. Overall, life ___15___ been good to the Johnson family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "have"
+                },
+                {
+                    "blank": "2",
+                    "answer": "has"
+                },
+                {
+                    "blank": "3",
+                    "answer": "has"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has"
+                },
+                {
+                    "blank": "9",
+                    "answer": "have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect demonstrates how actions from the past connect to the present, using 'has' for singular subjects and 'have' for plural subjects.",
+                "ru": "Present perfect демонстрирует, как действия из прошлого связаны с настоящим, используя 'has' для подлежащих в единственном числе и 'have' для подлежащих во множественном числе.",
+                "uz": "Present perfect o'tmishdagi harakatlarning hozirgi vaqt bilan qanday bog'lanishini ko'rsatadi, birlik egalarda 'has', ko'plik egalarda 'have' ishlatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Technology ___1___ changed our lives dramatically in recent decades. Smartphones ___2___ become essential tools that people ___3___ integrated into their daily routines. Social media ___4___ transformed the way we communicate and ___5___ created new forms of entertainment. Online shopping ___6___ revolutionized retail, and customers ___7___ adapted quickly to digital marketplaces. Remote work ___8___ gained popularity, especially after the pandemic ___9___ forced many companies to reconsider traditional office setups. Students ___10___ embraced online learning platforms that ___11___ made education more accessible. However, this digital revolution ___12___ also brought challenges that society ___13___ not fully addressed yet. Privacy concerns ___14___ increased, and experts ___15___ warned about the potential risks of our digital dependency.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has"
+                },
+                {
+                    "blank": "9",
+                    "answer": "has"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect shows how past developments continue to affect the present, using appropriate auxiliary verbs based on subject-verb agreement.",
+                "ru": "Present perfect показывает, как прошлые события продолжают влиять на настоящее, используя соответствующие вспомогательные глаголы в зависимости от согласования подлежащего и сказуемого.",
+                "uz": "Present perfect o'tmishdagi voqealar hozirgi vaqtga qanday ta'sir ko'rsatishini bildiradi, ega va kesim moslashuviga qarab tegishli yordamchi fe'llarni ishlatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The climate ___1___ changed dramatically over the last century. Scientists ___2___ documented rising temperatures and melting ice caps around the world. Many species ___3___ already disappeared due to habitat loss, while others ___4___ adapted to new environmental conditions. Governments ___5___ implemented various policies to address these challenges, but progress ___6___ been slow in many regions. Renewable energy ___7___ become more affordable and accessible than ever before. Solar panels and wind turbines ___8___ transformed entire landscapes in some countries. Environmental activists ___9___ organized countless campaigns to raise awareness about climate issues. Young people ___10___ joined these movements in large numbers and ___11___ demanded immediate action from world leaders. The Paris Agreement ___12___ established important goals for reducing carbon emissions. However, many nations ___13___ struggled to meet their commitments. Research ___14___ shown that individual actions also make a significant difference. Everyone ___15___ the power to contribute to environmental protection through daily choices.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "have"
+                },
+                {
+                    "blank": "5",
+                    "answer": "have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "have"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect connects past events to present situations, using 'has' with singular subjects and 'have' with plural subjects to show ongoing environmental impacts.",
+                "ru": "Present perfect связывает прошлые события с настоящими ситуациями, используя 'has' с подлежащими в единственном числе и 'have' с подлежащими во множественном числе для показа продолжающегося воздействия на окружающую среду.",
+                "uz": "Present perfect o'tmishdagi voqealarni hozirgi vaziyat bilan bog'laydi, atrof-muhitga davomiy ta'sirni ko'rsatish uchun birlik egalarda 'has', ko'plik egalarda 'have' ishlatadi."
+            }
+        }
+    ]
+}

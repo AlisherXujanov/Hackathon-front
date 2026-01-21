@@ -1,0 +1,150 @@
+@use '../assets/styles/_settings' as *;
+
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-4;
+  margin-top: $space-8;
+  padding: $space-6;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border-radius: $border-radius-xl;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: $shadow-md;
+}
+
+.info {
+  text-align: center;
+  
+  @media (max-width: $breakpoint-sm) {
+    font-size: 0.875rem;
+  }
+}
+
+.nav {
+  width: 100%;
+}
+
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-2;
+  flex-wrap: wrap;
+}
+
+.navButton {
+  min-width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  &:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+  
+  &:not(:disabled):hover {
+    background-color: rgba($primary-color, 0.1);
+    transform: translateY(-1px);
+  }
+}
+
+.pageNumbers {
+  display: flex;
+  align-items: center;
+  gap: $space-1;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pageButton {
+  min-width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: $border-radius-md;
+  font-weight: $font-weight-medium;
+  font-size: 0.9375rem;
+  color: $dark-color;
+  background: transparent;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: all $transition-base;
+  
+  &:hover:not(.active) {
+    background-color: rgba($primary-color, 0.1);
+    border-color: rgba($primary-color, 0.2);
+    color: $primary-color;
+    transform: translateY(-1px);
+  }
+  
+  &.active {
+    background: linear-gradient(135deg, $primary-color, $accent-color);
+    color: white;
+    border-color: transparent;
+    box-shadow: 0 4px 12px rgba($primary-color, 0.3);
+    font-weight: $font-weight-semibold;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba($primary-color, 0.4);
+    }
+  }
+  
+  &:focus {
+    outline: none;
+    ring: 2px;
+    ring-color: $primary-color;
+    ring-offset: 2px;
+  }
+}
+
+.ellipsis {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  height: 44px;
+  color: rgba($dark-color, 0.5);
+  font-weight: $font-weight-medium;
+  user-select: none;
+}
+
+// Responsive adjustments
+@media (max-width: $breakpoint-md) {
+  .pageNumbers {
+    gap: $space-1;
+    
+    // Hide some page numbers on tablet
+    .pageButton {
+      min-width: 40px;
+      height: 40px;
+      font-size: 0.875rem;
+    }
+  }
+}
+
+@media (max-width: $breakpoint-sm) {
+  .pagination {
+    padding: $space-4;
+    gap: $space-3;
+  }
+  
+  .pageNumbers {
+    // Show fewer page numbers on mobile
+    .pageButton {
+      min-width: 36px;
+      height: 36px;
+      font-size: 0.8125rem;
+    }
+  }
+  
+  .navButton {
+    min-width: 40px;
+    height: 40px;
+  }
+}

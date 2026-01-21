@@ -1,0 +1,851 @@
+{
+    "id": "A1_BE_GOING_TO_PLANS_AND_PREDICTIONS_NEAR_FUTURE_INTENTIONS",
+    "title": "Be going to (Plans and predictions) - Near future intentions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is going to watch a movie tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "He are going to watch a movie tonight."
+                },
+                {
+                    "answer": "He is go to watch a movie tonight."
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure for 'be going to' is 'subject + am/is/are + going to + base form of the verb'. The verb 'be' must agree with the subject.",
+                "ru": "Правильная структура для 'be going to' - 'подлежащее + am/is/are + going to + базовая форма глагола'. Глагол 'be' должен согласовываться с подлежащим.",
+                "uz": "'be going to' uchun to'g'ri tuzilma 'egalik + am/is/are + going to + fe'lning asosiy shakli' hisoblanadi. 'be' fe'li egaga mos kelishi kerak."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows a plan for the near future?",
+                "ru": "Какое предложение показывает план на ближайшее будущее?",
+                "uz": "Qaysi gap yaqin kelajakdagi rejani ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "I am going to visit my grandparents this weekend.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am going visit my grandparents this weekend."
+                },
+                {
+                    "answer": "I go to visit my grandparents this weekend."
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'am going to' is used to talk about plans and intentions. It is followed by the base form of the verb, 'visit'.",
+                "ru": "Фраза 'am going to' используется для разговора о планах и намерениях. За ней следует базовая форма глагола, 'visit'.",
+                "uz": "'am going to' iborasi rejalar va niyatlar haqida gapirish uchun ishlatiladi. Undan keyin 'visit' fe'lining asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We is going to have a party next week."
+                },
+                {
+                    "answer": "We are going to have a party next week.",
+                    "correct": true
+                },
+                {
+                    "answer": "We are going have a party next week."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'we' is plural, so it requires the form 'are' from the verb 'to be'. The structure 'are going to' is correct.",
+                "ru": "Подлежащее 'we' во множественном числе, поэтому требует форму 'are' от глагола 'to be'. Структура 'are going to' является правильной.",
+                "uz": "'we' egasi ko'plikda, shuning uchun 'to be' fe'lining 'are' shaklini talab qiladi. 'are going to' tuzilmasi to'g'ri."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is going study for her test tomorrow."
+                },
+                {
+                    "answer": "She are going to study for her test tomorrow."
+                },
+                {
+                    "answer": "She is going to study for her test tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'She' is singular, so the correct form of 'to be' is 'is'. The full phrase 'is going to study' is the correct structure.",
+                "ru": "Подлежащее 'She' в единственном числе, поэтому правильная форма 'to be' - 'is'. Полная фраза 'is going to study' является правильной структурой.",
+                "uz": "'She' egasi birlikda, shuning uchun 'to be' fe'lining to'g'ri shakli 'is' hisoblanadi. To'liq 'is going to study' iborasi to'g'ri tuzilmadir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence to make a prediction based on present evidence.",
+                "ru": "Выберите правильное предложение, чтобы сделать предсказание, основанное на текущих доказательствах.",
+                "uz": "Mavjud dalillarga asoslanib bashorat qilish uchun to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Look at those dark clouds! It is going to rain.",
+                    "correct": true
+                },
+                {
+                    "answer": "Look at those dark clouds! It is go to rain."
+                },
+                {
+                    "answer": "Look at those dark clouds! It are going to rain."
+                }
+            ],
+            "explanation": {
+                "en": "'Be going to' is used for predictions based on something we can see or feel now. The structure is correct with 'It' and 'is going to'.",
+                "ru": "'Be going to' используется для предсказаний, основанных на том, что мы можем видеть или чувствовать сейчас. Структура с 'It' и 'is going to' верна.",
+                "uz": "'Be going to' biz hozir ko'ra yoki his qila oladigan narsaga asoslangan bashoratlar uchun ishlatiladi. 'It' va 'is going to' bilan tuzilma to'g'ri."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the correct grammar.",
+                "ru": "Выберите предложение с правильной грамматикой.",
+                "uz": "To'g'ri grammatikaga ega bo'lgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They am going to buy a new car."
+                },
+                {
+                    "answer": "They are going to buy a new car.",
+                    "correct": true
+                },
+                {
+                    "answer": "They is going to buy a new car."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'They' is plural, which requires the form 'are' from the verb 'to be'. The verb 'buy' is in its base form, which is correct.",
+                "ru": "Подлежащее 'They' во множественном числе, что требует формы 'are' от глагола 'to be'. Глагол 'buy' находится в базовой форме, что правильно.",
+                "uz": "'They' egasi ko'plikda, bu 'to be' fe'lining 'are' shaklini talab qiladi. 'buy' fe'li asosiy shaklda, bu to'g'ri."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence uses 'going to' correctly for an intention?",
+                "ru": "Какое предложение использует 'going to' правильно для выражения намерения?",
+                "uz": "Qaysi gap 'going to' iborasini niyatni ifodalash uchun to'g'ri qo'llaydi?"
+            },
+            "options": [
+                {
+                    "answer": "I going to learn to play the guitar."
+                },
+                {
+                    "answer": "I am going to learn to play the guitar.",
+                    "correct": true
+                },
+                {
+                    "answer": "I are going to learn to play the guitar."
+                }
+            ],
+            "explanation": {
+                "en": "The pronoun 'I' always takes the 'am' form of the verb 'to be' when using the 'going to' structure.",
+                "ru": "Местоимение 'I' всегда принимает форму 'am' глагола 'to be' при использовании структуры 'going to'.",
+                "uz": "'I' olmoshi 'going to' tuzilmasidan foydalanganda har doim 'to be' fe'lining 'am' shaklini oladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is going to travel London next month."
+                },
+                {
+                    "answer": "She is going to travel to London next month.",
+                    "correct": true
+                },
+                {
+                    "answer": "She are going to travel to London next month."
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'She' is singular, so it requires the 'is' form of the verb 'to be' and is followed by the base verb 'travel'.",
+                "ru": "Подлежащее 'She' в единственном числе, поэтому требует форму 'is' от глагола 'to be' и сопровождается базовым глаголом 'travel'.",
+                "uz": "'She' egasi birlikda bo'lgani uchun, u 'to be' fe'lining 'is' shaklini talab qiladi va undan keyin 'travel' asosiy fe'li keladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly predicts a future event?",
+                "ru": "Какое предложение правильно предсказывает будущее событие?",
+                "uz": "Qaysi gap kelajakdagi hodisani to'g'ri bashorat qiladi?"
+            },
+            "options": [
+                {
+                    "answer": "Look at the ice! The water is going freeze."
+                },
+                {
+                    "answer": "Look at the ice! The water is going to freeze.",
+                    "correct": true
+                },
+                {
+                    "answer": "Look at the ice! The water are going to freeze."
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'is going to freeze' is a prediction based on the evidence of ice already being present in the water.",
+                "ru": "Фраза 'is going to freeze' - это предсказание, основанное на свидетельстве того, что лед уже присутствует в воде.",
+                "uz": "'is going to freeze' iborasi suvda allaqachon muz borligini ko'rsatadigan dalilga asoslangan bashoratdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother am going to start a new job next month."
+                },
+                {
+                    "answer": "My brother is going to start a new job next month.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother are going to start a new job next month."
+                }
+            ],
+            "explanation": {
+                "en": "The singular subject 'My brother' requires the singular form 'is' from the verb 'to be' to form the 'be going to' structure.",
+                "ru": "Единственное подлежащее 'My brother' требует единственной формы 'is' от глагола 'to be' для формирования структуры 'be going to'.",
+                "uz": "Birlikdagi 'My brother' egasi 'be going to' tuzilmasini hosil qilish uchun 'to be' fe'lining birlikdagi 'is' shaklini talab qiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My family ___ (travel) to the beach next summer.",
+                "ru": "Дополните предложение: My family ___ (travel) to the beach next summer.",
+                "uz": "Gapni to'ldiring: My family ___ (travel) to the beach next summer."
+            },
+            "options": [
+                {
+                    "answer": "is going to travel",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'is going to travel' is used to express a future plan. 'Family' is treated as a singular noun in this context.",
+                "ru": "Фраза 'is going to travel' используется для выражения будущего плана. В данном контексте 'Family' рассматривается как существительное в единственном числе.",
+                "uz": "'is going to travel' iborasi kelajakdagi rejani ifodalash uchun ishlatiladi. Bu kontekstda 'Family' birlikdagi ot sifatida qabul qilinadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (study) for my exam tomorrow.",
+                "ru": "Дополните предложение: I ___ (study) for my exam tomorrow.",
+                "uz": "Gapni to'ldiring: I ___ (study) for my exam tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "am going to study",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'I' is used with 'am going to' to express a future intention. The base form of the verb 'study' is used after 'going to'.",
+                "ru": "Подлежащее 'I' используется с 'am going to' для выражения будущего намерения. Базовая форма глагола 'study' используется после 'going to'.",
+                "uz": "'I' egasi kelajakdagi niyatni ifodalash uchun 'am going to' bilan ishlatiladi. 'study' fe'lining asosiy shakli 'going to'dan keyin ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (buy) a new house next year.",
+                "ru": "Дополните предложение: They ___ (buy) a new house next year.",
+                "uz": "Gapni to'ldiring: They ___ (buy) a new house next year."
+            },
+            "options": [
+                {
+                    "answer": "are going to buy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The plural subject 'they' takes the form 'are' from the verb 'to be' to form a 'going to' sentence for a future plan.",
+                "ru": "Множественное подлежащее 'they' принимает форму 'are' от глагола 'to be' для формирования предложения 'going to', обозначающего будущий план.",
+                "uz": "Ko'plikdagi 'they' egasi kelajakdagi rejani ifodalash uchun 'going to' gapini hosil qilish uchun 'to be' fe'lining 'are' shaklini oladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (run) in the marathon next month.",
+                "ru": "Дополните предложение: He ___ (run) in the marathon next month.",
+                "uz": "Gapni to'ldiring: He ___ (run) in the marathon next month."
+            },
+            "options": [
+                {
+                    "answer": "is going to run",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The singular subject 'he' requires the form 'is' from the verb 'to be' to express a future intention using 'going to'.",
+                "ru": "Единственное подлежащее 'he' требует форму 'is' от глагола 'to be' для выражения будущего намерения с помощью 'going to'.",
+                "uz": "Birlikdagi 'he' egasi 'going to' yordamida kelajakdagi niyatni ifodalash uchun 'to be' fe'lining 'is' shaklini talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (build) a new school in our town.",
+                "ru": "Дополните предложение: We ___ (build) a new school in our town.",
+                "uz": "Gapni to'ldiring: We ___ (build) a new school in our town."
+            },
+            "options": [
+                {
+                    "answer": "are going to build",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The plural subject 'we' takes the 'are' form of the verb 'to be' to form the 'be going to' structure for a future plan.",
+                "ru": "Множественное подлежащее 'we' принимает форму 'are' от глагола 'to be' для формирования структуры 'be going to' для будущего плана.",
+                "uz": "Ko'plikdagi 'we' egasi kelajakdagi reja uchun 'be going to' tuzilmasini hosil qilish uchun 'to be' fe'lining 'are' shaklini oladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (start) her new job next week.",
+                "ru": "Дополните предложение: She ___ (start) her new job next week.",
+                "uz": "Gapni to'ldiring: She ___ (start) her new job next week."
+            },
+            "options": [
+                {
+                    "answer": "is going to start",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The singular subject 'she' requires 'is going to' for a future intention.",
+                "ru": "Единственное подлежащее 'she' требует 'is going to' для выражения будущего намерения.",
+                "uz": "Birlikdagi 'she' egasi kelajakdagi niyat uchun 'is going to'ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Look at that boy on the bike! He ___ (fall).",
+                "ru": "Дополните предложение: Look at that boy on the bike! He ___ (fall).",
+                "uz": "Gapni to'ldiring: Look at that boy on the bike! He ___ (fall)."
+            },
+            "options": [
+                {
+                    "answer": "is going to fall",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'is going to fall' is a prediction based on present evidence, which is the boy's unstable position on the bike.",
+                "ru": "Фраза 'is going to fall' - это предсказание, основанное на текущих доказательствах, которыми является неустойчивое положение мальчика на велосипеде.",
+                "uz": "'is going to fall' iborasi hozirgi dalilga, ya'ni bolaning velosipeddagi beqaror holatiga asoslangan bashoratdir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (cook) a special dinner for my parents.",
+                "ru": "Дополните предложение: I ___ (cook) a special dinner for my parents.",
+                "uz": "Gapni to'ldiring: I ___ (cook) a special dinner for my parents."
+            },
+            "options": [
+                {
+                    "answer": "am going to cook",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The structure 'am going to cook' is correct for the subject 'I' to express a future plan or intention.",
+                "ru": "Структура 'am going to cook' верна для подлежащего 'I' для выражения будущего плана или намерения.",
+                "uz": "'am going to cook' tuzilmasi kelajakdagi reja yoki niyatni ifodalash uchun 'I' egasi uchun to'g'ri hisoblanadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The sky is very dark. It ___ (snow).",
+                "ru": "Дополните предложение: The sky is very dark. It ___ (snow).",
+                "uz": "Gapni to'ldiring: The sky is very dark. It ___ (snow)."
+            },
+            "options": [
+                {
+                    "answer": "is going to snow",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'is going to snow' is a prediction based on the evidence of the dark sky.",
+                "ru": "Фраза 'is going to snow' - это предсказание, основанное на свидетельстве темного неба.",
+                "uz": "'is going to snow' iborasi qorong'i osmon daliliga asoslangan bashoratdir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My friends and I ___ (play) football this afternoon.",
+                "ru": "Дополните предложение: My friends and I ___ (play) football this afternoon.",
+                "uz": "Gapni to'ldiring: My friends and I ___ (play) football this afternoon."
+            },
+            "options": [
+                {
+                    "answer": "are going to play",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'My friends and I' is plural, so it takes the form 'are' from the verb 'to be' to express a future plan.",
+                "ru": "Подлежащее 'My friends and I' во множественном числе, поэтому оно принимает форму 'are' от глагола 'to be' для выражения будущего плана.",
+                "uz": "'My friends and I' egasi ko'plikda, shuning uchun u kelajakdagi rejani ifodalash uchun 'to be' fe'lining 'are' shaklini oladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I are excited about our vacation. We ___1___ (go) to the mountains next week. My sister ___2___ (learn) how to ski. My brother ___3___ (try) snowboarding for the first time. We ___4___ (stay) in a small cabin by the lake. My father ___5___ (teach) us how to fish, and my mother ___6___ (take) a lot of pictures. The weather report says it ___7___ (be) sunny all week, but we ___8___ (pack) warm clothes just in case. I think we ___9___ (have) an amazing time. Our parents said we ___10___ (go) on a long hike up the mountain as well. I believe it ___11___ (be) a lot of fun, and we ___12___ (see) a lot of animals. We ___13___ (leave) early in the morning so we can arrive before sunset. Our grandmother ___14___ (come) to take care of our dog. The dog ___15___ (be) very happy with her.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going to go"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is going to learn"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is going to try"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going to stay"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is going to teach"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is going to take"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are going to pack"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are going to have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are going to go"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are going to see"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are going to leave"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is going to come"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is going to be"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of 'be going to' for expressing plans and future intentions, with each blank requiring the correct form of the verb 'be' followed by 'going to' and the base verb.",
+                "ru": "Это упражнение проверяет использование 'be going to' для выражения планов и будущих намерений, при этом каждый пропуск требует правильной формы глагола 'be', за которой следует 'going to' и базовый глагол.",
+                "uz": "Ushbu mashq 'be going to' iborasini rejalar va kelajakdagi niyatlarni ifodalash uchun ishlatishni sinovdan o'tkazadi, bunda har bir bo'shliq 'be' fe'lining to'g'ri shakli, undan keyin 'going to' va asosiy fe'lni talab qiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tomorrow is going to be a busy day. I ___1___ (wake) up early to finish my homework. After that, I ___2___ (meet) my friends at the park. We ___3___ (play) soccer for a few hours. Then, my friend Mary ___4___ (come) over to my house. We ___5___ (watch) a new movie. My mom ___6___ (make) pizza for us. My dad ___7___ (go) to the supermarket to buy some drinks. Later in the evening, I ___8___ (help) my brother with his science project. It ___9___ (be) a lot of work, but we ___10___ (finish) it. Before bed, I think I ___11___ (read) a book for a bit. My parents said they ___12___ (travel) to the countryside next weekend, so I ___13___ (be) home alone. My neighbor ___14___ (look after) me. I ___15___ (have) a lot of fun.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "am going to wake"
+                },
+                {
+                    "blank": "2",
+                    "answer": "am going to meet"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going to play"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is going to come"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are going to watch"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is going to make"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is going to go"
+                },
+                {
+                    "blank": "8",
+                    "answer": "am going to help"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are going to finish"
+                },
+                {
+                    "blank": "11",
+                    "answer": "am going to read"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are going to travel"
+                },
+                {
+                    "blank": "13",
+                    "answer": "am going to be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is going to look after"
+                },
+                {
+                    "blank": "15",
+                    "answer": "am going to have"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise requires using the 'be going to' structure to describe a series of planned events for a future day, focusing on subject-verb agreement.",
+                "ru": "Это упражнение требует использования структуры 'be going to' для описания серии запланированных событий на будущий день, с акцентом на согласование подлежащего и глагола.",
+                "uz": "Ushbu mashq kelajakdagi bir kun uchun rejalashtirilgan voqealarni tasvirlash uchun 'be going to' tuzilmasidan foydalanishni talab qiladi, bu yerda ega va fe'lning mos kelishiga e'tibor qaratilgan."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friends and I ___1___ (organize) a big surprise party for our teacher. We ___2___ (do) everything secretly. We ___3___ (buy) a lot of balloons and decorations. My friend Sarah ___4___ (bake) a big cake. I ___5___ (make) a special card. The other friends ___6___ (bring) food and drinks. The party ___7___ (be) on Friday after school. Our teacher ___8___ (think) we have a normal class, so he ___9___ (be) very surprised. My dad ___10___ (help) us set up the room. We ___11___ (tell) everyone to arrive at 2:00 PM. Our parents ___12___ (come) to help, too. We ___13___ (hide) in the classroom and jump out when he arrives. I think he ___14___ (be) really happy. He ___15___ (not forget) this day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going to organize"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going to do"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going to buy"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is going to bake"
+                },
+                {
+                    "blank": "5",
+                    "answer": "am going to make"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are going to bring"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going to think"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going to help"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are going to tell"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are going to come"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are going to hide"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is not going to forget"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses 'be going to' to describe a future plan to organize a surprise party. The gaps test subject-verb agreement and the structure of negative sentences.",
+                "ru": "Этот отрывок использует 'be going to' для описания будущего плана по организации вечеринки-сюрприза. Пропуски проверяют согласование подлежащего и глагола, а также структуру отрицательных предложений.",
+                "uz": "Ushbu parchada 'be going to' iborasi syurpriz partiyani tashkil qilish uchun kelajakdagi rejani tasvirlash uchun ishlatilgan. Bo'shliqlar ega va fe'lning mos kelishi hamda inkor gaplarning tuzilishini sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The school year is almost over, and my classmates and I have many plans for the summer. Our class ___1___ (organize) a big end-of-year picnic. We ___2___ (choose) a date and a location, and we ___3___ (send) invitations. I ___4___ (bring) my famous chocolate chip cookies. My friend Tom ___5___ (bring) his guitar to play music. We ___6___ (play) a lot of fun games. My mom said she ___7___ (help) us with the organization. Our teacher ___8___ (be) there, too, and he ___9___ (make) a speech. I think he ___10___ (say) something about our hard work this year. The weather report says it ___11___ (be) hot and sunny. We ___12___ (not forget) to bring sunscreen. It ___13___ (be) a great day. We ___14___ (take) many pictures to remember it. My best friend ___15___ (start) a new hobby during the summer.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is going to organize"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going to choose"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are going to send"
+                },
+                {
+                    "blank": "4",
+                    "answer": "am going to bring"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is going to bring"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are going to play"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is going to help"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going to make"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going to say"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are not going to forget"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are going to take"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is going to start"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the 'be going to' structure to talk about plans for the near future, specifically for a summer picnic. It requires learners to choose the correct verb forms based on the subject.",
+                "ru": "Этот текст использует структуру 'be going to' для разговора о планах на ближайшее будущее, в частности о летнем пикнике. Он требует от учащихся выбора правильных форм глагола в зависимости от подлежащего.",
+                "uz": "Ushbu matn 'be going to' tuzilmasidan yaqin kelajakdagi rejalar, xususan, yozgi piknik haqida gapirish uchun foydalanadi. U talabalardan ega asosida fe'lning to'g'ri shakllarini tanlashni talab qiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My sister and her husband are very busy planning their new life. They just bought a new house and ___1___ (move) in next month. She said that they ___2___ (paint) all the rooms themselves to save money. My brother-in-law ___3___ (build) some new shelves in the living room. They ___4___ (buy) new furniture for the kitchen next weekend. My mother ___5___ (help) them decorate the house. I ___6___ (visit) them a lot to help. They also said that they ___7___ (have) a big party to celebrate. The party ___8___ (be) on the last Saturday of the month. My sister said she ___9___ (cook) all the food herself, and her husband ___10___ (be) in charge of the drinks. I think it ___11___ (be) a lot of work, but they ___12___ (enjoy) it. My parents ___13___ (come) to the party, too. I think the house ___14___ (look) amazing. I also heard that they ___15___ (get) a new pet soon, maybe a cat.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are going to move"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are going to paint"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is going to build"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going to buy"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is going to help"
+                },
+                {
+                    "blank": "6",
+                    "answer": "am going to visit"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are going to have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is going to cook"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is going to be"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are going to enjoy"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are going to come"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is going to look"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are going to get"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices using 'be going to' to describe future plans and intentions related to moving into a new house. It focuses on subject-verb agreement and proper sentence construction.",
+                "ru": "Это упражнение практикует использование 'be going to' для описания будущих планов и намерений, связанных с переездом в новый дом. Оно сосредоточено на согласовании подлежащего и глагола и правильном построении предложений.",
+                "uz": "Ushbu mashq yangi uyga ko'chish bilan bog'liq kelajakdagi rejalar va niyatlarni tasvirlash uchun 'be going to' iborasini qo'llashni amalda sinaydi. U ega va fe'lning mos kelishiga hamda gapni to'g'ri tuzishga qaratilgan."
+            }
+        }
+    ]
+}

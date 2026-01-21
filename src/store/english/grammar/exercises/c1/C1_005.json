@@ -1,0 +1,1047 @@
+{
+    "id": "C1_COMPLEX_PASSIVE_CONSTRUCTIONS_SOPHISTICATED_PASSIVE_VOICE_USAGE",
+    "title": "Complex passive constructions - Sophisticated passive voice usage",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The report is said to have been completed yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "The report is said to have completed yesterday."
+                },
+                {
+                    "answer": "The report is said to being completed yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "Complex passive constructions with 'be said to' require the perfect infinitive 'to have been + past participle' when referring to past actions.",
+                "ru": "Сложные пассивные конструкции с 'be said to' требуют перфектного инфинитива 'to have been + причастие прошедшего времени' при указании на прошлые действия.",
+                "uz": "Complex passive konstruksiyalar 'be said to' bilan perfect infinitive 'to have been + past participle' talab qiladi o'tgan harakatlarga ishora qilganda."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct causative passive construction?",
+                "ru": "Какое предложение демонстрирует правильную каузативную пассивную конструкцию?",
+                "uz": "Qaysi gap to'g'ri kausativ passiv konstruksiyani ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She had her car washed by the mechanic.",
+                    "correct": true
+                },
+                {
+                    "answer": "She had her car washing by the mechanic."
+                },
+                {
+                    "answer": "She had her car to wash by the mechanic."
+                }
+            ],
+            "explanation": {
+                "en": "Causative passive uses 'have + object + past participle' to show someone else performed the action on the object.",
+                "ru": "Каузативный пассив использует 'have + дополнение + причастие прошедшего времени', чтобы показать, что кто-то другой выполнил действие над объектом.",
+                "uz": "Kausativ passiv 'have + object + past participle' dan foydalanib, boshqa kishi obyekt ustida harakat bajarganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct passive construction.",
+                "ru": "Выберите грамматически правильную пассивную конструкцию.",
+                "uz": "Grammatik jihatdan to'g'ri passiv konstruksiyani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The decision is believed having been made hastily."
+                },
+                {
+                    "answer": "The decision is believed to have been made hastily.",
+                    "correct": true
+                },
+                {
+                    "answer": "The decision is believed to being made hastily."
+                }
+            ],
+            "explanation": {
+                "en": "Reporting verbs in passive voice require 'to have been + past participle' for completed past actions.",
+                "ru": "Сообщающие глаголы в пассивном залоге требуют 'to have been + причастие прошедшего времени' для завершенных прошлых действий.",
+                "uz": "Passiv zalogdagi xabar beruvchi fe'llar tugallangan o'tgan harakatlar uchun 'to have been + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows correct passive infinitive usage?",
+                "ru": "Какое предложение показывает правильное использование пассивного инфинитива?",
+                "uz": "Qaysi gap passiv infinitivning to'g'ri ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The problem appears to solve easily."
+                },
+                {
+                    "answer": "The problem appears to be solved easily.",
+                    "correct": true
+                },
+                {
+                    "answer": "The problem appears to solving easily."
+                }
+            ],
+            "explanation": {
+                "en": "Passive infinitives are formed with 'to be + past participle' to show the subject receives the action.",
+                "ru": "Пассивные инфинитивы образуются с помощью 'to be + причастие прошедшего времени', чтобы показать, что подлежащее получает действие.",
+                "uz": "Passiv infinitivlar 'to be + past participle' bilan hosil bo'lib, ega harakatni qabul qilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct impersonal passive construction.",
+                "ru": "Выберите правильную безличную пассивную конструкцию.",
+                "uz": "To'g'ri impersonal passiv konstruksiyani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It is expected that the meeting to be postponed."
+                },
+                {
+                    "answer": "It is expected that the meeting will be postponed.",
+                    "correct": true
+                },
+                {
+                    "answer": "It is expected that the meeting being postponed."
+                }
+            ],
+            "explanation": {
+                "en": "Impersonal passive with 'it is expected that' requires a complete clause with proper tense formation.",
+                "ru": "Безличный пассив с 'it is expected that' требует полного предложения с правильным образованием времени.",
+                "uz": "Impersonal passiv 'it is expected that' bilan to'liq gap va to'g'ri zamon shakllanishini talab qiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct passive perfect infinitive?",
+                "ru": "Какое предложение демонстрирует правильный пассивный перфектный инфинитив?",
+                "uz": "Qaysi gap to'g'ri passiv perfect infinitivni ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The work seems to have completed already."
+                },
+                {
+                    "answer": "The work seems to have been completed already.",
+                    "correct": true
+                },
+                {
+                    "answer": "The work seems to having been completed already."
+                }
+            ],
+            "explanation": {
+                "en": "Perfect passive infinitives use 'to have been + past participle' to indicate completed actions in the past.",
+                "ru": "Перфектные пассивные инфинитивы используют 'to have been + причастие прошедшего времени' для обозначения завершенных действий в прошлом.",
+                "uz": "Perfect passiv infinitivlar o'tmishda tugallangan harakatlarni bildirish uchun 'to have been + past participle' dan foydalanadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct passive construction with modal verbs.",
+                "ru": "Выберите правильную пассивную конструкцию с модальными глаголами.",
+                "uz": "Modal fe'llar bilan to'g'ri passiv konstruksiyani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The documents must have sent yesterday."
+                },
+                {
+                    "answer": "The documents must have been sent yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "The documents must have sending yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "Modal perfect passive constructions require 'modal + have been + past participle' for past actions.",
+                "ru": "Модальные перфектные пассивные конструкции требуют 'модальный глагол + have been + причастие прошедшего времени' для прошлых действий.",
+                "uz": "Modal perfect passiv konstruksiyalar o'tgan harakatlar uchun 'modal + have been + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows correct passive gerund usage?",
+                "ru": "Какое предложение показывает правильное использование пассивного герундия?",
+                "uz": "Qaysi gap passiv gerundning to'g'ri ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "He avoided be criticized by his colleagues."
+                },
+                {
+                    "answer": "He avoided being criticized by his colleagues.",
+                    "correct": true
+                },
+                {
+                    "answer": "He avoided been criticized by his colleagues."
+                }
+            ],
+            "explanation": {
+                "en": "Passive gerunds are formed with 'being + past participle' after verbs that require gerund forms.",
+                "ru": "Пассивные герундии образуются с помощью 'being + причастие прошедшего времени' после глаголов, требующих форм герундия.",
+                "uz": "Passiv gerundlar gerund shakllarini talab qiluvchi fe'llardan keyin 'being + past participle' bilan hosil bo'ladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct complex passive with continuous aspect.",
+                "ru": "Выберите правильный сложный пассив с длительным аспектом.",
+                "uz": "Uzluksiz aspektli to'g'ri murakkab passivni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The building is said to have been being constructed for years."
+                },
+                {
+                    "answer": "The building is said to have been under construction for years.",
+                    "correct": true
+                },
+                {
+                    "answer": "The building is said to be being constructed for years."
+                }
+            ],
+            "explanation": {
+                "en": "Complex passive continuous constructions often use alternative expressions like 'under construction' to avoid awkward 'being being' forms.",
+                "ru": "Сложные пассивные длительные конструкции часто используют альтернативные выражения вроде 'under construction', чтобы избежать неуклюжих форм 'being being'.",
+                "uz": "Murakkab passiv uzluksiz konstruksiyalar noqulay 'being being' shakllaridan qochish uchun ko'pincha 'under construction' kabi muqobil iboralardan foydalanadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates correct passive with prepositional verbs?",
+                "ru": "Какое предложение демонстрирует правильный пассив с предложными глаголами?",
+                "uz": "Qaysi gap prepozitsiyali fe'llar bilan to'g'ri passivni ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "The proposal was looked into by the committee."
+                },
+                {
+                    "answer": "The proposal was look by the committee into."
+                },
+                {
+                    "answer": "The proposal was looked at carefully by the committee.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Phrasal verbs in passive voice keep their prepositions together immediately after the past participle.",
+                "ru": "Фразовые глаголы в пассивном залоге сохраняют свои предлоги вместе непосредственно после причастия прошедшего времени.",
+                "uz": "Passiv zalogdagi phrasal fe'llar o'zlarining prepositsiyalarini past participle dan keyin birga saqlaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The results are believed ___ manipulated during the experiment.",
+                "ru": "Дополните предложение: The results are believed ___ manipulated during the experiment.",
+                "uz": "Gapni to'ldiring: The results are believed ___ manipulated during the experiment."
+            },
+            "options": [
+                {
+                    "answer": "to have been",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Reporting verbs in passive require perfect infinitive 'to have been' + past participle for completed past actions.",
+                "ru": "Сообщающие глаголы в пассиве требуют перфектного инфинитива 'to have been' + причастие прошедшего времени для завершенных прошлых действий.",
+                "uz": "Passivdagi xabar beruvchi fe'llar tugallangan o'tgan harakatlar uchun 'to have been' + past participle perfect infinitivni talab qiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: She had her thesis ___ (review) by a professional editor.",
+                "ru": "Заполните пропуск: She had her thesis ___ (review) by a professional editor.",
+                "uz": "Bo'shliqni to'ldiring: She had her thesis ___ (review) by a professional editor."
+            },
+            "options": [
+                {
+                    "answer": "reviewed/edited/proofread",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Causative passive constructions use 'have + object + past participle' to show someone else performed the service.",
+                "ru": "Каузативные пассивные конструкции используют 'have + дополнение + причастие прошедшего времени', чтобы показать, что кто-то другой оказал услугу.",
+                "uz": "Kausativ passiv konstruksiyalar boshqa kishi xizmat ko'rsatganini bildirish uchun 'have + object + past participle' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: The issue needs ___ addressed immediately.",
+                "ru": "Дополните правильной формой: The issue needs ___ addressed immediately.",
+                "uz": "To'g'ri shakl bilan to'ldiring: The issue needs ___ addressed immediately."
+            },
+            "options": [
+                {
+                    "answer": "to be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'need' in formal contexts requires passive infinitive 'to be + past participle' rather than gerund forms.",
+                "ru": "Глагол 'need' в формальных контекстах требует пассивного инфинитива 'to be + причастие прошедшего времени' вместо форм герундия.",
+                "uz": "Rasmiy kontekstlarda 'need' fe'li gerund shaklari o'rniga passiv infinitiv 'to be + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the gap: It is rumored that the company ___ sold to a foreign investor.",
+                "ru": "Заполните пропуск: It is rumored that the company ___ sold to a foreign investor.",
+                "uz": "Bo'shliqni to'ldiring: It is rumored that the company ___ sold to a foreign investor."
+            },
+            "options": [
+                {
+                    "answer": "will be/is being",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Impersonal passive constructions with 'it is rumored that' require proper passive voice formation in the subordinate clause.",
+                "ru": "Безличные пассивные конструкции с 'it is rumored that' требуют правильного образования пассивного залога в придаточном предложении.",
+                "uz": "Impersonal passiv konstruksiyalar 'it is rumored that' bilan ergash gapda to'g'ri passiv zalog shakllanishini talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The error appears ___ been made during data entry.",
+                "ru": "Дополните предложение: The error appears ___ been made during data entry.",
+                "uz": "Gapni to'ldiring: The error appears ___ been made during data entry."
+            },
+            "options": [
+                {
+                    "answer": "to have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Verbs of appearance require perfect infinitive passive 'to have been + past participle' for completed past actions.",
+                "ru": "Глаголы видимости требуют перфектного инфинитива пассива 'to have been + причастие прошедшего времени' для завершенных прошлых действий.",
+                "uz": "Ko'rinish fe'llari tugallangan o'tgan harakatlar uchun perfect infinitiv passiv 'to have been + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: The witness avoided ___ questioned about the incident.",
+                "ru": "Заполните пропуск: The witness avoided ___ questioned about the incident.",
+                "uz": "Bo'shliqni to'ldiring: The witness avoided ___ questioned about the incident."
+            },
+            "options": [
+                {
+                    "answer": "being",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Verbs like 'avoid' require passive gerund forms 'being + past participle' when the subject receives the action.",
+                "ru": "Глаголы вроде 'avoid' требуют форм пассивного герундия 'being + причастие прошедшего времени', когда подлежащее получает действие.",
+                "uz": "'Avoid' kabi fe'llar ega harakatni qabul qilganda passiv gerund shakllari 'being + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with correct form: The documents should ___ been filed yesterday.",
+                "ru": "Дополните правильной формой: The documents should ___ been filed yesterday.",
+                "uz": "To'g'ri shakl bilan to'ldiring: The documents should ___ been filed yesterday."
+            },
+            "options": [
+                {
+                    "answer": "have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Modal perfect passive uses 'modal + have been + past participle' to express past obligation or probability.",
+                "ru": "Модальный перфектный пассив использует 'модальный глагол + have been + причастие прошедшего времени' для выражения прошлого обязательства или вероятности.",
+                "uz": "Modal perfect passiv o'tgan majburiyat yoki ehtimollikni ifodalash uchun 'modal + have been + past participle' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the gap: The proposal is expected ___ approved by the board next week.",
+                "ru": "Заполните пропуск: The proposal is expected ___ approved by the board next week.",
+                "uz": "Bo'shliqni to'ldiring: The proposal is expected ___ approved by the board next week."
+            },
+            "options": [
+                {
+                    "answer": "to be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Reporting verbs in passive voice require passive infinitive 'to be + past participle' for future actions.",
+                "ru": "Сообщающие глаголы в пассивном залоге требуют пассивного инфинитива 'to be + причастие прошедшего времени' для будущих действий.",
+                "uz": "Passiv zalogdagi xabar beruvchi fe'llar kelajak harakatlar uchun passiv infinitiv 'to be + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The patient prefers not ___ disturbed during treatment.",
+                "ru": "Дополните предложение: The patient prefers not ___ disturbed during treatment.",
+                "uz": "Gapni to'ldiring: The patient prefers not ___ disturbed during treatment."
+            },
+            "options": [
+                {
+                    "answer": "to be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'prefer' with negative 'not' requires passive infinitive 'to be + past participle' construction.",
+                "ru": "Глагол 'prefer' с отрицанием 'not' требует конструкции пассивного инфинитива 'to be + причастие прошедшего времени'.",
+                "uz": "'Prefer' fe'li 'not' inkori bilan passiv infinitiv 'to be + past participle' konstruksiyasini talab qiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: The investigation is thought ___ been completed last month.",
+                "ru": "Заполните пропуск: The investigation is thought ___ been completed last month.",
+                "uz": "Bo'shliqni to'ldiring: The investigation is thought ___ been completed last month."
+            },
+            "options": [
+                {
+                    "answer": "to have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Complex passive reporting structures require perfect infinitive 'to have been + past participle' for past completed actions.",
+                "ru": "Сложные пассивные отчетные структуры требуют перфектного инфинитива 'to have been + причастие прошедшего времени' для завершенных прошлых действий.",
+                "uz": "Murakkab passiv hisobot tuzilmalari o'tmishda tugallangan harakatlar uchun perfect infinitiv 'to have been + past participle' talab qiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The controversial pharmaceutical study ___1___ alleged ___2___ ___3___ ___4___ conducted without proper regulatory oversight. Participants claim they ___5___ not adequately informed about potential side effects, and several consent forms appear ___6___ ___7___ ___8___ falsified by research staff. The principal investigator is reported ___9___ ___10___ ___11___ suspended from all clinical trials pending a full investigation. University officials are believed ___12___ ___13___ considering terminating the entire research program. The data ___14___ currently ___15___ ___16___ reviewed by an independent ethics committee, and all trial participants ___17___ ___18___ contacted for follow-up medical examinations. The final report is expected ___19___ ___20___ completed by the end of next quarter.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "to"
+                },
+                {
+                    "blank": "3",
+                    "answer": "have"
+                },
+                {
+                    "blank": "4",
+                    "answer": "been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "have"
+                },
+                {
+                    "blank": "11",
+                    "answer": "been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "being"
+                },
+                {
+                    "blank": "16",
+                    "answer": "reviewed"
+                },
+                {
+                    "blank": "17",
+                    "answer": "are"
+                },
+                {
+                    "blank": "18",
+                    "answer": "being"
+                },
+                {
+                    "blank": "19",
+                    "answer": "to"
+                },
+                {
+                    "blank": "20",
+                    "answer": "be"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates sophisticated passive constructions including reporting verbs with perfect infinitives, passive continuous forms, and complex causative passive structures in professional contexts.",
+                "ru": "Это упражнение демонстрирует сложные пассивные конструкции, включая сообщающие глаголы с перфектными инфинитивами, пассивные длительные формы и сложные каузативные пассивные структуры в профессиональных контекстах.",
+                "uz": "Ushbu mashq professional kontekstlarda perfect infinitivlar bilan xabar beruvchi fe'llar, passiv uzluksiz shakllar va murakkab kausativ passiv tuzilmalar kabi murakkab passiv konstruksiyalarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The ancient Byzantine manuscript ___1___ discovered in a monastery last year continues ___2___ ___3___ analyzed by international paleographers. The document is thought ___4___ ___5___ ___6___ created sometime during the tenth century, based on preliminary carbon dating results. Several pages appear ___7___ ___8___ ___9___ damaged by moisture and insects over the centuries. Scholars are having the fragile parchment ___10___ by conservation specialists using state-of-the-art digital imaging techniques. The translation work is proving ___11___ ___12___ extremely challenging, as the text ___13___ written in an archaic Greek dialect that is considered ___14___ ___15___ nearly extinct. Experts avoid ___16___ the original document directly and prefer ___17___ ___18___ ___19___ with high-resolution digital copies instead. Once the comprehensive analysis ___20___ ___21___ completed, the findings will ___22___ presented at the International Byzantine Studies Conference.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "that"
+                },
+                {
+                    "blank": "2",
+                    "answer": "to"
+                },
+                {
+                    "blank": "3",
+                    "answer": "be"
+                },
+                {
+                    "blank": "4",
+                    "answer": "to"
+                },
+                {
+                    "blank": "5",
+                    "answer": "have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "to"
+                },
+                {
+                    "blank": "8",
+                    "answer": "have"
+                },
+                {
+                    "blank": "9",
+                    "answer": "been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "examined"
+                },
+                {
+                    "blank": "11",
+                    "answer": "to"
+                },
+                {
+                    "blank": "12",
+                    "answer": "be"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "to"
+                },
+                {
+                    "blank": "15",
+                    "answer": "be"
+                },
+                {
+                    "blank": "16",
+                    "answer": "handling"
+                },
+                {
+                    "blank": "17",
+                    "answer": "to"
+                },
+                {
+                    "blank": "18",
+                    "answer": "be"
+                },
+                {
+                    "blank": "19",
+                    "answer": "working"
+                },
+                {
+                    "blank": "20",
+                    "answer": "has"
+                },
+                {
+                    "blank": "21",
+                    "answer": "been"
+                },
+                {
+                    "blank": "22",
+                    "answer": "be"
+                }
+            ],
+            "explanation": {
+                "en": "This passage emphasizes complex passive infinitive constructions, causative passive forms, perfect passive structures, and passive gerund usage in academic and archaeological contexts.",
+                "ru": "Этот отрывок подчеркивает сложные пассивные инфинитивные конструкции, каузативные пассивные формы, перфектные пассивные структуры и использование пассивного герундия в академических и археологических контекстах.",
+                "uz": "Ushbu parcha akademik va arxeologik kontekstlarda murakkab passiv infinitiv konstruksiyalar, kausativ passiv shakllar, perfect passiv tuzilmalar va passiv gerund ishlatilishini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The ambitious urban redevelopment project is rumored ___1___ ___2___ ___3___ delayed indefinitely due to financial constraints. City planners avoid ___4___ ___5___ about specific timelines and prefer ___6___ ___7___ ___8___ vague about implementation schedules. Local residents are having their properties ___9___ by independent assessors while they wait for official announcements. The proposed changes ___10___ believed ___11___ ___12___ more extensive than initially anticipated, potentially affecting thousands of households. Construction companies risk ___13___ ___14___ from the bidding process if they fail to meet the new environmental standards. The revised plans ___15___ expected ___16___ ___17___ submitted to the municipal council within six months. Community leaders insist that citizens need ___18___ ___19___ properly consulted before any major decisions ___20___ ___21___. The final budget allocation ___22___ likely ___23___ ___24___ approved only after a thorough cost-benefit analysis ___25___ ___26___ conducted by external auditors.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "being"
+                },
+                {
+                    "blank": "5",
+                    "answer": "questioned"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "kept"
+                },
+                {
+                    "blank": "9",
+                    "answer": "evaluated"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are"
+                },
+                {
+                    "blank": "11",
+                    "answer": "to"
+                },
+                {
+                    "blank": "12",
+                    "answer": "be"
+                },
+                {
+                    "blank": "13",
+                    "answer": "being"
+                },
+                {
+                    "blank": "14",
+                    "answer": "excluded"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are"
+                },
+                {
+                    "blank": "16",
+                    "answer": "to"
+                },
+                {
+                    "blank": "17",
+                    "answer": "be"
+                },
+                {
+                    "blank": "18",
+                    "answer": "to"
+                },
+                {
+                    "blank": "19",
+                    "answer": "be"
+                },
+                {
+                    "blank": "20",
+                    "answer": "are"
+                },
+                {
+                    "blank": "21",
+                    "answer": "made"
+                },
+                {
+                    "blank": "22",
+                    "answer": "is"
+                },
+                {
+                    "blank": "23",
+                    "answer": "to"
+                },
+                {
+                    "blank": "24",
+                    "answer": "be"
+                },
+                {
+                    "blank": "25",
+                    "answer": "has"
+                },
+                {
+                    "blank": "26",
+                    "answer": "been"
+                }
+            ],
+            "explanation": {
+                "en": "This comprehensive exercise covers advanced passive constructions including reporting verbs with perfect infinitives, causative passive structures, passive gerunds, and complex modal passive formations in urban planning contexts.",
+                "ru": "Это комплексное упражнение охватывает продвинутые пассивные конструкции, включая сообщающие глаголы с перфектными инфинитивами, каузативные пассивные структуры, пассивные герундии и сложные модальные пассивные образования в контексте городского планирования.",
+                "uz": "Ushbu keng qamrovli mashq shahar rejalashtirish kontekstida perfect infinitivlar bilan xabar beruvchi fe'llar, kausativ passiv tuzilmalar, passiv gerundlar va murakkab modal passiv shakllanishlar kabi ilg'or passiv konstruksiyalarni qamrab oladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The groundbreaking artificial intelligence system is said ___1___ ___2___ ___3___ developed in complete secrecy over the past five years. Tech industry insiders claim the technology ___4___ ___5___ revolutionize multiple sectors simultaneously. The research team appears ___6___ ___7___ ___8___ working under extreme security protocols to prevent corporate espionage. Investors are having their funds ___9___ into the project without receiving detailed technical specifications. The system is alleged ___10___ ___11___ capabilities that were previously considered ___12___ ___13___ impossible by leading computer scientists. Beta testing is reported ___14___ ___15___ ___16___ conducted with selected government agencies, though this information ___17___ not ___18___ officially confirmed. The developers avoid ___19___ ___20___ about specific applications and prefer ___21___ ___22___ ___23___ cautious about public demonstrations. Once the technology ___24___ ___25___ fully tested and validated, it ___26___ ___27___ ___28___ to transform entire industries within the next decade.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will"
+                },
+                {
+                    "blank": "5",
+                    "answer": "be"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "have"
+                },
+                {
+                    "blank": "8",
+                    "answer": "been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "channeled"
+                },
+                {
+                    "blank": "10",
+                    "answer": "to"
+                },
+                {
+                    "blank": "11",
+                    "answer": "possess"
+                },
+                {
+                    "blank": "12",
+                    "answer": "to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "be"
+                },
+                {
+                    "blank": "14",
+                    "answer": "to"
+                },
+                {
+                    "blank": "15",
+                    "answer": "be"
+                },
+                {
+                    "blank": "16",
+                    "answer": "being"
+                },
+                {
+                    "blank": "17",
+                    "answer": "has"
+                },
+                {
+                    "blank": "18",
+                    "answer": "been"
+                },
+                {
+                    "blank": "19",
+                    "answer": "being"
+                },
+                {
+                    "blank": "20",
+                    "answer": "questioned"
+                },
+                {
+                    "blank": "21",
+                    "answer": "to"
+                },
+                {
+                    "blank": "22",
+                    "answer": "be"
+                },
+                {
+                    "blank": "23",
+                    "answer": "kept"
+                },
+                {
+                    "blank": "24",
+                    "answer": "has"
+                },
+                {
+                    "blank": "25",
+                    "answer": "been"
+                },
+                {
+                    "blank": "26",
+                    "answer": "is"
+                },
+                {
+                    "blank": "27",
+                    "answer": "expected"
+                },
+                {
+                    "blank": "28",
+                    "answer": "to"
+                }
+            ],
+            "explanation": {
+                "en": "This advanced exercise demonstrates sophisticated passive voice usage including complex reporting structures, causative passive constructions, passive continuous forms, and modal passive combinations in technology and business contexts.",
+                "ru": "Это продвинутое упражнение демонстрирует сложное использование пассивного залога, включая сложные отчетные структуры, каузативные пассивные конструкции, пассивные длительные формы и модальные пассивные комбинации в технологических и деловых контекстах.",
+                "uz": "Ushbu ilg'or mashq texnologiya va biznes kontekstlarida murakkab hisobot tuzilmalari, kausativ passiv konstruksiyalar, passiv uzluksiz shakllar va modal passiv kombinatsiyalar kabi murakkab passiv zalog ishlatilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The prestigious international summit is understood ___1___ ___2___ ___3___ postponed until further notice due to diplomatic tensions. Government representatives avoid ___4___ ___5___ directly about the cancellation and prefer ___6___ ___7___ ___8___ that discussions are ongoing. Security arrangements ___9___ ___10___ ___11___ reviewed extensively by intelligence agencies from multiple countries. The venue is having its facilities ___12___ by counter-terrorism specialists as a precautionary measure. Delegates ___13___ advised ___14___ ___15___ flexible with their travel plans while organizers work to resolve the political complications. The agenda ___16___ believed ___17___ ___18___ ___19___ modified significantly to address emerging global concerns. Media coverage is expected ___20___ ___21___ restricted to accredited journalists only, and all interviews must ___22___ ___23___ approved by the diplomatic protocol office. The rescheduled event ___24___ likely ___25___ ___26___ announced once international relations ___27___ ___28___ stabilized.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "being"
+                },
+                {
+                    "blank": "5",
+                    "answer": "questioned"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "told"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "being"
+                },
+                {
+                    "blank": "11",
+                    "answer": "reviewed"
+                },
+                {
+                    "blank": "12",
+                    "answer": "inspected"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "to"
+                },
+                {
+                    "blank": "15",
+                    "answer": "remain"
+                },
+                {
+                    "blank": "16",
+                    "answer": "is"
+                },
+                {
+                    "blank": "17",
+                    "answer": "to"
+                },
+                {
+                    "blank": "18",
+                    "answer": "have"
+                },
+                {
+                    "blank": "19",
+                    "answer": "been"
+                },
+                {
+                    "blank": "20",
+                    "answer": "to"
+                },
+                {
+                    "blank": "21",
+                    "answer": "be"
+                },
+                {
+                    "blank": "22",
+                    "answer": "be"
+                },
+                {
+                    "blank": "23",
+                    "answer": "pre-approved"
+                },
+                {
+                    "blank": "24",
+                    "answer": "will"
+                },
+                {
+                    "blank": "25",
+                    "answer": "be"
+                },
+                {
+                    "blank": "26",
+                    "answer": "announced"
+                },
+                {
+                    "blank": "27",
+                    "answer": "have"
+                },
+                {
+                    "blank": "28",
+                    "answer": "been"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on advanced passive constructions in diplomatic and political contexts, including complex reporting structures, causative passive forms, and sophisticated modal passive combinations.",
+                "ru": "Это упражнение сосредоточено на продвинутых пассивных конструкциях в дипломатических и политических контекстах, включая сложные отчетные структуры, каузативные пассивные формы и сложные модальные пассивные комбинации.",
+                "uz": "Ushbu mashq diplomatik va siyosiy kontekstlardagi ilg'or passiv konstruksiyalarga qaratilgan, jumladan murakkab hisobot tuzilmalari, kausativ passiv shakllar va murakkab modal passiv kombinatsiyalar."
+            }
+        }
+    ]
+}

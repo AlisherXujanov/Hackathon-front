@@ -1,0 +1,669 @@
+{
+    "id": "A2_ADVERBS_OF_FREQUENCY_-_EXTENDED_RANGE_AND_POSITION",
+    "title": "Adverbs of frequency - Extended range and position",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is always on time.",
+                    "correct": true
+                },
+                {
+                    "answer": "He always is on time."
+                },
+                {
+                    "answer": "He is on time always."
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency like 'always' usually come after the verb 'to be' but before other verbs.",
+                "ru": "Наречия частоты, такие как 'always', обычно ставятся после глагола 'to be', но перед другими глаголами.",
+                "uz": "'Always' kabi chastota ravishlari odatda 'to be' fe'lidan keyin, lekin boshqa fe'llardan oldin keladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We often go to the cinema.",
+                    "correct": true
+                },
+                {
+                    "answer": "We go to the often cinema."
+                },
+                {
+                    "answer": "Both A and B are correct."
+                }
+            ],
+            "explanation": {
+                "en": "Most adverbs of frequency are placed before the main verb.",
+                "ru": "Большинство наречий частоты ставятся перед основным глаголом.",
+                "uz": "Keng tarqalgan chastota ravishlari asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am rarely bored.",
+                    "correct": true
+                },
+                {
+                    "answer": "I rarely am bored."
+                },
+                {
+                    "answer": "Rarely I am bored."
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency like 'rarely' are placed after the verb 'to be'.",
+                "ru": "Наречия частоты, такие как 'rarely', ставятся после глагола 'to be'.",
+                "uz": "'Rarely' kabi chastota ravishlari 'to be' fe'lidan keyin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She plays tennis sometimes."
+                },
+                {
+                    "answer": "Sometimes she plays tennis."
+                },
+                {
+                    "answer": "She sometimes plays tennis.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The most common position for adverbs like 'sometimes' is between the subject and the main verb.",
+                "ru": "Наиболее распространенная позиция для наречий, таких как 'sometimes', - между подлежащим и основным глаголом.",
+                "uz": "'Sometimes' kabi ravishlar uchun eng keng tarqalgan o'rin ega va asosiy fe'l orasidadir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We see them hardly ever."
+                },
+                {
+                    "answer": "We see hardly ever them."
+                },
+                {
+                    "answer": "We hardly ever see them.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'hardly ever' usually goes before the main verb (after the subject).",
+                "ru": "Фраза 'hardly ever' обычно используется перед основным глаголом (после подлежащего).",
+                "uz": "'Hardly ever' iborasi gapning boshida egadan keyin kesimdan oldin qo'laniladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She rarely is home before 7 PM."
+                },
+                {
+                    "answer": "She is rarely home before 7 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "Rarely she is home before 7 PM."
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency like 'rarely' are placed after the verb 'to be'.",
+                "ru": "Наречия частоты, такие как 'rarely', ставятся после глагола 'to be'.",
+                "uz": "'Rarely' kabi chastota ravishlari 'to be' fe'lidan keyin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He never speaks about his past.",
+                    "correct": true
+                },
+                {
+                    "answer": "Never he speaks about his past."
+                },
+                {
+                    "answer": "He speaks about his past never."
+                }
+            ],
+            "explanation": {
+                "en": "'never' is usually placed before the main verb.",
+                "ru": "'never' обычно ставится перед основным глаголом.",
+                "uz": "'Never' odatda asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Do you often go to the library?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you go often to the library?"
+                },
+                {
+                    "answer": "Do often you go to the library?"
+                }
+            ],
+            "explanation": {
+                "en": "In questions, the adverb of frequency 'often' is usually placed before the main verb.",
+                "ru": "В вопросах наречие частоты 'often' обычно ставится перед основным глаголом.",
+                "uz": "Savollarda 'often' chastota ravishi odatda asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We are sometimes tired after work.",
+                    "correct": true
+                },
+                {
+                    "answer": "We sometimes are tired after work."
+                },
+                {
+                    "answer": "Sometimes we are tired after work."
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb of frequency 'sometimes' is placed after the verb.",
+                "ru": "С глаголом 'to be' наречие частоты 'sometimes' ставится после глагола.",
+                "uz": "'To be' fe'li bilan 'sometimes' chastota ravishi fe'ldan keyin qo'yiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They seldom visit us.",
+                    "correct": true
+                },
+                {
+                    "answer": "They visit seldom us."
+                },
+                {
+                    "answer": "Seldom they visit us."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'seldom' is placed before the main verb.",
+                "ru": "Наречие 'seldom' ставится перед основным глаголом.",
+                "uz": "'Seldom' ravishi asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative adverb of frequency: I ___ drink coffee after 8 PM.",
+                "ru": "Дополните предложение отрицательным наречием частоты: I ___ drink coffee after 8 PM.",
+                "uz": "Gapni salbiy chastota ravishi bilan to'ldiring: I ___ drink coffee after 8 PM."
+            },
+            "options": [
+                {
+                    "answer": "never/hardly ever",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'never/hardly ever' is used to say that something doesn't happen at all.",
+                "ru": "Наречие 'never/hardly ever' используется, чтобы сказать, что что-то никогда не происходит.",
+                "uz": "'Never/hardly ever' ravishi biror narsa umuman sodir bo'lmasligini aytish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct adverb position: They ___ (o.te.) visit their grandparents.",
+                "ru": "Дополните предложение правильным наречием: They ___ (o.te.) visit their grandparents.",
+                "uz": "Gapni to'g'ri ravish o'rni bilan to'ldiring: They ___ (o.te.) visit their grandparents."
+            },
+            "options": [
+                {
+                    "answer": "often",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency like 'often' are usually placed before the main verb.",
+                "ru": "Наречия частоты, такие как 'often', обычно ставятся перед основным глаголом.",
+                "uz": "'Often' kabi chastota ravishlari odatda asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an adverb of frequency: We are ___ (.s.a.ly) happy on Fridays.",
+                "ru": "Дополните предложение наречием частоты: We are ___ (.s.a.ly) happy on Fridays.",
+                "uz": "Gapni chastota ravishi bilan to'ldiring: We are ___ (.s.a.ly) happy on Fridays."
+            },
+            "options": [
+                {
+                    "answer": "usually",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency come after the verb 'to be'.",
+                "ru": "Наречия частоты ставятся после глагола 'to be'.",
+                "uz": "Chastota ravishlari 'to be' fe'lidan keyin keladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct adverb position: I ___ (h..d.y) know anyone here.",
+                "ru": "Дополните предложение правильным наречием: I ___ (h..d.y) know anyone here.",
+                "uz": "Gapni to'g'ri ravish o'rni bilan to'ldiring: I ___ (h..d.y) know anyone here."
+            },
+            "options": [
+                {
+                    "answer": "hardly",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'hardly' is placed before the main verb.",
+                "ru": "Наречие 'hardly' ставится перед основным глаголом.",
+                "uz": "'Hardly' ravishi asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an adverb of frequency: She ___ (s.m.t..es) gets a taxi.",
+                "ru": "Дополните предложение наречием частоты: She ___ (s.m.t..es) gets a taxi.",
+                "uz": "Gapni chastota ravishi bilan to'ldiring: She ___ (s.m.t..es) gets a taxi."
+            },
+            "options": [
+                {
+                    "answer": "sometimes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'sometimes' is placed between the subject and the main verb.",
+                "ru": "Наречие 'sometimes' ставится между подлежащим и основным глаголом.",
+                "uz": "'Sometimes' ravishi ega va asosiy fe'l orasiga qo'yiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct adverb position: They ___ (r.r.l.) eat meat.",
+                "ru": "Дополните предложение правильным наречием: They ___ (r.r.l.) eat meat.",
+                "uz": "Gapni to'g'ri ravish o'rni bilan to'ldiring: They ___ (r.r.l.) eat meat."
+            },
+            "options": [
+                {
+                    "answer": "rarely",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'rarely' is placed before the main verb.",
+                "ru": "Наречие 'rarely' ставится перед основным глаголом.",
+                "uz": "'Rarely' ravishi asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct adverb: She is ___ (ne.e.) rude.",
+                "ru": "Дополните предложение правильным наречием: She is ___ (ne.e.) rude.",
+                "uz": "Gapni to'g'ri ravish bilan to'ldiring: She is ___ (ne.e.) rude."
+            },
+            "options": [
+                {
+                    "answer": "never",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency like 'never' are placed after the verb 'to be'.",
+                "ru": "Наречия частоты, такие как 'never', ставятся после глагола 'to be'.",
+                "uz": "'Never' kabi chastota ravishlari 'to be' fe'lidan keyin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an adverb of frequency: We ___ (a.wa..) have breakfast together.",
+                "ru": "Дополните предложение наречием частоты: We ___ (a.wa..) have breakfast together.",
+                "uz": "Gapni chastota ravishi bilan to'ldiring: We ___ (a.wa..) have breakfast together."
+            },
+            "options": [
+                {
+                    "answer": "always",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'always' is placed before the main verb.",
+                "ru": "Наречие 'always' ставится перед основным глаголом.",
+                "uz": "'Always' ravishi asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct adverb position: He is ___ (.f.e.) late for class.",
+                "ru": "Дополните предложение правильным наречием: He is ___ (.f.e.) late for class.",
+                "uz": "Gapni to'g'ri ravish o'rni bilan to'ldiring: He is ___ (.f.e.) late for class."
+            },
+            "options": [
+                {
+                    "answer": "often",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency are placed after the verb 'to be'.",
+                "ru": "Наречия частоты ставятся после глагола 'to be'.",
+                "uz": "Chastota ravishlari 'to be' fe'lidan keyin keladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a negative adverb of frequency: I ___ (se.d.m) eat junk food.",
+                "ru": "Дополните предложение отрицательным наречием частоты: I ___ (se.d.m) eat junk food.",
+                "uz": "Gapni salbiy chastota ravishi bilan to'ldiring: I ___ (se.d.m) eat junk food."
+            },
+            "options": [
+                {
+                    "answer": "seldom",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'seldom' means 'not often' and is placed before the main verb.",
+                "ru": "Наречие 'seldom' означает 'нечасто' и ставится перед основным глаголом.",
+                "uz": "'Seldom' ravishi 'ko'p emas' ma'nosini bildiradi va asosiy fe'ldan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Leo, is a very active person. He ___1___ gets up early, usually before 6 AM. He ___2___ goes running in the morning, and on weekends, he ___3___ goes hiking in the mountains. He's an expert at finding new trails, and he ___4___ is bored with his hobbies. His family says he's ___5___ on the move. They say he ___6___ stays still for more than a minute. Leo ___7___ has a healthy breakfast. He ___8___ eats pancakes, but he ___9___ prefers fruit and yogurt. He told me he ___10___ feels tired after a long day of exercise. He believes being active is the best way to live, and he's ___11___ happy with his routine. Sometimes, he ___12___ surprises us with a spontaneous trip.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "always"
+                },
+                {
+                    "blank": "2",
+                    "answer": "often"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "never"
+                },
+                {
+                    "blank": "5",
+                    "answer": "always"
+                },
+                {
+                    "blank": "6",
+                    "answer": "never"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "rarely/seldom"
+                },
+                {
+                    "blank": "9",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "10",
+                    "answer": "never"
+                },
+                {
+                    "blank": "11",
+                    "answer": "always"
+                },
+                {
+                    "blank": "12",
+                    "answer": "sometimes"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of adverbs of frequency, which are usually placed before the main verb but after the verb 'to be'. 'Sometimes' can also be placed at the beginning or end of a sentence.",
+                "ru": "Это упражнение проверяет правильное расположение наречий частоты, которые обычно ставятся перед основным глаголом, но после глагола 'to be'. 'Sometimes' также может быть поставлено в начале или в конце предложения.",
+                "uz": "Ushbu mashq chastota ravishlarining to'g'ri o'rnini tekshiradi, ular odatda asosiy fe'ldan oldin, 'to be' fe'lidan keyin qo'yiladi. 'Sometimes' esa gapning boshida yoki oxirida ham kelishi mumkin."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My sister, Maria, and I are very different. I ___1___ watch movies, while she ___2___ watches them. I'm ___3___ tired on the weekends because I like to relax. She ___4___ goes out with friends. She's ___5___ busy, and she ___6___ sleeps in on a Saturday. She says she's ___7___ interested in new adventures. Her friends ___8___ come to our house to get her. They ___9___ go to the cinema, but she ___10___ prefers to go to concerts. My parents ___11___ worry about her because she is ___12___ very independent. She is ___13___ happy when she is out, and she ___14___ gets home late.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "often/usually"
+                },
+                {
+                    "blank": "2",
+                    "answer": "seldom/rarely"
+                },
+                {
+                    "blank": "3",
+                    "answer": "always"
+                },
+                {
+                    "blank": "4",
+                    "answer": "always/often"
+                },
+                {
+                    "blank": "5",
+                    "answer": "always"
+                },
+                {
+                    "blank": "6",
+                    "answer": "never"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "often/usually"
+                },
+                {
+                    "blank": "9",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "always"
+                },
+                {
+                    "blank": "11",
+                    "answer": "never"
+                },
+                {
+                    "blank": "12",
+                    "answer": "always"
+                },
+                {
+                    "blank": "13",
+                    "answer": "always"
+                },
+                {
+                    "blank": "14",
+                    "answer": "sometimes"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise reinforces the rules for placing adverbs of frequency, showing how they are used with different verbs and in various contexts to describe habits.",
+                "ru": "Это упражнение закрепляет правила расстановки наречий частоты, показывая, как они используются с разными глаголами и в различных контекстах для описания привычек.",
+                "uz": "Ushbu mashq chastota ravishlarining qo'llash qoidalarini mustahkamlaydi, ularning har xil fe'llar va turli kontekstlarda odatlarni tasvirlash uchun qanday ishlatilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My neighbors, the Smiths, are a quiet family. They ___1___ spend their weekends at home. Mr. Smith ___2___ works in his garden, and his wife ___3___ bakes. Their children ___4___ play outside, but they are ___5___ inside reading or doing homework. They are ___6___ very quiet. I ___7___ hear them, which is perfect for me. We ___8___ speak, but we are ___9___ friendly with each other. They ___10___ invite us to their barbecues. I am ___11___ there and I am ___12___ very grateful for their invitation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "2",
+                    "answer": "often"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "rarely"
+                },
+                {
+                    "blank": "5",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "6",
+                    "answer": "always"
+                },
+                {
+                    "blank": "7",
+                    "answer": "hardly ever/seldom"
+                },
+                {
+                    "blank": "8",
+                    "answer": "seldom/rarely"
+                },
+                {
+                    "blank": "9",
+                    "answer": "always"
+                },
+                {
+                    "blank": "10",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "11",
+                    "answer": "always"
+                },
+                {
+                    "blank": "12",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This passage tests the correct use of adverbs of frequency with a variety of verbs, including 'to be', and reinforces their standard positions in a sentence.",
+                "ru": "Этот отрывок проверяет правильное использование наречий частоты с различными глаголами, включая 'to be', и закрепляет их стандартные позиции в предложении.",
+                "uz": "Ushbu matn chastota ravishlarining 'to be' fe'li kabi turli fe'llar bilan to'g'ri ishlatilishini tekshiradi va ularning gapdagi standart o'rnini mustahkamlaydi."
+            }
+        }
+    ]
+}

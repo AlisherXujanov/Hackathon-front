@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "topic": "Some people believe that it is better for children to grow up in the countryside, while others argue that the city offers more advantages. Discuss both views and give your own opinion.",
+        "relatedVocabulary": {
+            "en": {
+                "rural area": "a geographic area that is located outside cities and towns",
+                "urban environment": "the surroundings and conditions in a city or town",
+                "amenities": "desirable or useful features or facilities of a building or place",
+                "pace of life": "the speed at which life is lived or takes place",
+                "commute": "travel some distance between one's home and place of work on a regular basis",
+                "green spaces": "areas of grass, trees, or other vegetation in a city or town",
+                "healthcare facilities": "places where medical care is provided",
+                "educational opportunities": "chances to learn and study",
+                "social interaction": "the way people talk and act with each other",
+                "quality of life": "the standard of health, comfort, and happiness experienced by an individual or group"
+            },
+            "ru": {
+                "rural area": "сельская местность",
+                "urban environment": "городская среда",
+                "amenities": "удобства",
+                "pace of life": "темп жизни",
+                "commute": "поездка на работу/учебу",
+                "green spaces": "зеленые зоны",
+                "healthcare facilities": "медицинские учреждения",
+                "educational opportunities": "возможности для образования",
+                "social interaction": "социальное взаимодействие",
+                "quality of life": "качество жизни"
+            },
+            "uz": {
+                "rural area": "qishloq joylari",
+                "urban environment": "shahar muhiti",
+                "amenities": "qulayliklar",
+                "pace of life": "hayot sur'ati",
+                "commute": "ishga/o'qishga qatnash",
+                "green spaces": "yashil maydonlar",
+                "healthcare facilities": "sog'liqni saqlash muassasalari",
+                "educational opportunities": "ta'lim imkoniyatlari",
+                "social interaction": "ijtimoiy o'zaro ta'sir",
+                "quality of life": "hayot sifati"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Nowadays, many people prefer shopping online rather than in physical stores. What are the reasons for this, and what are the advantages and disadvantages of online shopping?",
+        "relatedVocabulary": {
+            "en": {
+                "e-commerce": "commercial transactions conducted electronically on the internet",
+                "convenience": "the state of being able to do something with little difficulty",
+                "variety": "a number or range of things of the same general class that are distinct in character or quality",
+                "bargain": "a thing bought or offered for sale much more cheaply than is usual or expected",
+                "delivery": "the process of transporting goods from a source to a designated destination",
+                "returns policy": "rules about giving back goods that have been bought",
+                "privacy concerns": "worries about personal information being seen or used by others",
+                "impulse buying": "buying things suddenly without planning",
+                "customer reviews": "opinions about a product or service written by people who have bought it",
+                "secure payment": "a system for paying that is protected against theft or fraud"
+            },
+            "ru": {
+                "e-commerce": "электронная коммерция",
+                "convenience": "удобство",
+                "variety": "разнообразие",
+                "bargain": "выгодная покупка",
+                "delivery": "доставка",
+                "returns policy": "политика возврата товаров",
+                "privacy concerns": "вопросы конфиденциальности",
+                "impulse buying": "импульсивные покупки",
+                "customer reviews": "отзывы клиентов",
+                "secure payment": "безопасный платеж"
+            },
+            "uz": {
+                "e-commerce": "elektron tijorat",
+                "convenience": "qulaylik",
+                "variety": "xilma-xillik",
+                "bargain": "arzon narxdagi xarid",
+                "delivery": "yetkazib berish",
+                "returns policy": "qaytarish siyosati",
+                "privacy concerns": "maxfiylik bilan bog'liq xavotirlar",
+                "impulse buying": "tasodifiy xaridlar",
+                "customer reviews": "xaridor sharhlari",
+                "secure payment": "xavfsiz to'lov"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "topic": "Some people argue that zoos are cruel and should be closed down, while others believe they play an important role in conservation and education. Discuss both views and give your own opinion.",
+        "relatedVocabulary": {
+            "en": {
+                "captivity": "the state of being imprisoned or confined",
+                "conservation": "the action of conserving something, in particular, the preservation of wildlife",
+                "animal welfare": "the physical and mental well-being of animals",
+                "habitat": "the natural home or environment of an animal, plant, or other organism",
+                "endangered species": "a species that is in danger of becoming extinct",
+                "breeding programmes": "programmes that help animals to reproduce in captivity",
+                "educational value": "the worth of something in terms of teaching or learning",
+                "ethical concerns": "moral issues or worries",
+                "natural environment": "the environment that has not been significantly affected by human activity",
+                "contribute to": "to help to cause or bring about"
+            },
+            "ru": {
+                "captivity": "неволя",
+                "conservation": "сохранение (природы)",
+                "animal welfare": "благополучие животных",
+                "habitat": "среда обитания",
+                "endangered species": "вымирающие виды",
+                "breeding programmes": "программы разведения",
+                "educational value": "образовательная ценность",
+                "ethical concerns": "этические соображения",
+                "natural environment": "природная среда",
+                "contribute to": "вносить вклад в"
+            },
+            "uz": {
+                "captivity": "asirlik",
+                "conservation": "saqlash (tabiatni)",
+                "animal welfare": "hayvonlar farovonligi",
+                "habitat": "yashash joyi",
+                "endangered species": "yo'qolib ketish xavfidagi turlar",
+                "breeding programmes": "ko'paytirish dasturlari",
+                "educational value": "ta'limiy ahamiyat",
+                "ethical concerns": "etik masalalar",
+                "natural environment": "tabiiy muhit",
+                "contribute to": "hissa qo'shish"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "topic": "The internet has revolutionized the way we communicate and access information. What are the main benefits and drawbacks of the internet?",
+        "relatedVocabulary": {
+            "en": {
+                "access information": "to find and retrieve information",
+                "communication tool": "something used to exchange information or ideas",
+                "global village": "the world considered as being closely connected by modern communications",
+                "reliable source": "a source that can be trusted for accurate information",
+                "misinformation": "false or inaccurate information",
+                "cyberbullying": "the use of electronic communication to bully a person",
+                "online privacy": "the degree to which your personal information is protected on the internet",
+                "digital divide": "the gap between those who have access to computers and the internet and those who do not",
+                "instant communication": "communication that happens immediately",
+                "vast amount": "a very large quantity"
+            },
+            "ru": {
+                "access information": "доступ к информации",
+                "communication tool": "средство связи",
+                "global village": "глобальная деревня",
+                "reliable source": "надежный источник",
+                "misinformation": "дезинформация",
+                "cyberbullying": "киберзапугивание",
+                "online privacy": "конфиденциальность в интернете",
+                "digital divide": "цифровое неравенство",
+                "instant communication": "мгновенная связь",
+                "vast amount": "огромное количество"
+            },
+            "uz": {
+                "access information": "ma'lumotga kirish",
+                "communication tool": "aloqa vositasi",
+                "global village": "global qishloq",
+                "reliable source": "ishonchli manba",
+                "misinformation": "noto'g'ri ma'lumot",
+                "cyberbullying": "kiberbulling",
+                "online privacy": "onlayn maxfiylik",
+                "digital divide": "raqamli tafovut",
+                "instant communication": "tezkor aloqa",
+                "vast amount": "ulkan miqdor"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Tourism is a growing industry worldwide. What are the positive and negative effects of tourism on a country and its people?",
+        "relatedVocabulary": {
+            "en": {
+                "boost the economy": "to improve the financial situation",
+                "cultural exchange": "the sharing of ideas and traditions between different cultures",
+                "environmental impact": "the effect that something has on the environment",
+                "local community": "the people who live in a particular area",
+                "infrastructure": "the basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise",
+                "preserve": "to maintain something in its original or existing state",
+                "exploit": "to make full use of and derive benefit from (a resource)",
+                "sustainable tourism": "tourism that takes full account of its current and future economic, social and environmental impacts",
+                "cultural heritage": "the traditions, customs, and artifacts of a cultural group",
+                "generate income": "to produce money"
+            },
+            "ru": {
+                "boost the economy": "стимулировать экономику",
+                "cultural exchange": "культурный обмен",
+                "environmental impact": "воздействие на окружающую среду",
+                "local community": "местное сообщество",
+                "infrastructure": "инфраструктура",
+                "preserve": "сохранять",
+                "exploit": "эксплуатировать",
+                "sustainable tourism": "устойчивый туризм",
+                "cultural heritage": "культурное наследие",
+                "generate income": "приносить доход"
+            },
+            "uz": {
+                "boost the economy": "iqtisodiyotni jonlantirish",
+                "cultural exchange": "madaniy almashinuv",
+                "environmental impact": "atrof-muhitga ta'sir",
+                "local community": "mahalliy hamjamiyat",
+                "infrastructure": "infratuzilma",
+                "preserve": "saqlab qolish",
+                "exploit": "ekspluatatsiya qilish",
+                "sustainable tourism": "barqaror turizm",
+                "cultural heritage": "madaniy meros",
+                "generate income": "daromad keltirish"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "topic": "In many countries, the number of people who are overweight or obese is increasing. What are the causes of this, and what can be done to solve this problem?",
+        "relatedVocabulary": {
+            "en": {
+                "sedentary lifestyle": "a lifestyle characterized by a lot of sitting and little or no exercise",
+                "processed foods": "foods that have been altered from their natural state for safety or convenience",
+                "portion size": "the amount of food considered to be a single serving",
+                "metabolism": "the chemical processes that occur within a living organism in order to maintain life",
+                "public health campaign": "an organized effort to improve the health of a population",
+                "nutritional value": "the substances in food that are good for your health",
+                "physical activity": "any bodily movement produced by skeletal muscles that requires energy expenditure",
+                "awareness": "knowledge or perception of a situation or fact",
+                "regulate": "to control or maintain the rate or speed of (a machine or process) so that it operates properly",
+                "contribute to": "to help to cause or bring about"
+            },
+            "ru": {
+                "sedentary lifestyle": "сидячий образ жизни",
+                "processed foods": "обработанные продукты",
+                "portion size": "размер порции",
+                "metabolism": "метаболизм",
+                "public health campaign": "кампания общественного здравоохранения",
+                "nutritional value": "пищевая ценность",
+                "physical activity": "физическая активность",
+                "awareness": "осведомленность",
+                "regulate": "регулировать",
+                "contribute to": "способствовать"
+            },
+            "uz": {
+                "sedentary lifestyle": "kamharakat turmush tarzi",
+                "processed foods": "qayta ishlangan mahsulotlar",
+                "portion size": "porsiya hajmi",
+                "metabolism": "metabolizm",
+                "public health campaign": "jamoat salomatligi kampaniyasi",
+                "nutritional value": "ovqatlanish qiymati",
+                "physical activity": "jismoniy faollik",
+                "awareness": "xabardorlik",
+                "regulate": "tartibga solish",
+                "contribute to": "hissa qo'shish"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Some people argue that traditional skills like cooking and sewing are becoming less important in modern society. To what extent do you agree or disagree?",
+        "relatedVocabulary": {
+            "en": {
+                "acquire skills": "to learn new abilities",
+                "self-sufficiency": "the ability to provide for one's own needs without external assistance",
+                "manual labour": "work that involves physical effort",
+                "convenience food": "food that is sold packaged and can be prepared quickly and easily",
+                "cost-effective": "effective or productive in relation to its cost",
+                "pass down": "to give something to a younger person",
+                "cultural heritage": "the traditions, customs, and artifacts of a cultural group",
+                "household chores": "routine tasks performed around the home",
+                "consumer society": "a society in which the buying and selling of goods and services is the most important social and economic activity",
+                "well-being": "the state of being comfortable, healthy, or happy"
+            },
+            "ru": {
+                "acquire skills": "приобретать навыки",
+                "self-sufficiency": "самодостаточность",
+                "manual labour": "ручной труд",
+                "convenience food": "полуфабрикаты",
+                "cost-effective": "экономически эффективный",
+                "pass down": "передавать (по наследству)",
+                "cultural heritage": "культурное наследие",
+                "household chores": "домашние дела",
+                "consumer society": "общество потребления",
+                "well-being": "благополучие"
+            },
+            "uz": {
+                "acquire skills": "ko'nikmalarga ega bo'lish",
+                "self-sufficiency": "o'zini-o'zi ta'minlash",
+                "manual labour": "qo'l mehnati",
+                "convenience food": "tayyor ovqatlar",
+                "cost-effective": "iqtisodiy samarali",
+                "pass down": "meros qoldirish",
+                "cultural heritage": "madaniy meros",
+                "household chores": "uy ishlari",
+                "consumer society": "iste'molchilar jamiyati",
+                "well-being": "farovonlik"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Many people choose to study abroad. What are the benefits and challenges of studying in a foreign country?",
+        "relatedVocabulary": {
+            "en": {
+                "broaden horizons": "to increase one's range of knowledge, experience, or understanding",
+                "cultural shock": "the feeling of disorientation experienced by someone when suddenly subjected to an unfamiliar culture, way of life, or set of attitudes",
+                "adapt to": "to become adjusted to new conditions",
+                "gain independence": "to become self-reliant and not dependent on others",
+                "improve language skills": "to become better at speaking or understanding a language",
+                "networking opportunities": "chances to meet and interact with people who can be helpful to one's career or social life",
+                "financial burden": "a cost that is difficult to bear",
+                "homesickness": "a feeling of longing for one's home during a period of absence from it",
+                "global perspective": "a way of looking at the world that involves a consideration of various viewpoints and cultures",
+                "résumé": "a brief summary of a person's education, qualifications, and previous experience, typically sent with a job application"
+            },
+            "ru": {
+                "broaden horizons": "расширять кругозор",
+                "cultural shock": "культурный шок",
+                "adapt to": "адаптироваться к",
+                "gain independence": "обрести независимость",
+                "improve language skills": "улучшать языковые навыки",
+                "networking opportunities": "возможности для налаживания связей",
+                "financial burden": "финансовое бремя",
+                "homesickness": "тоска по дому",
+                "global perspective": "глобальная перспектива",
+                "résumé": "резюме"
+            },
+            "uz": {
+                "broaden horizons": "dunyoqarashni kengaytirish",
+                "cultural shock": "madaniy shok",
+                "adapt to": "moslashish",
+                "gain independence": "mustaqillikka erishish",
+                "improve language skills": "til ko'nikmalarini yaxshilash",
+                "networking opportunities": "aloqa o'rnatish imkoniyatlari",
+                "financial burden": "moliyaviy yuk",
+                "homesickness": "uyga sog'inish",
+                "global perspective": "global nuqtai nazar",
+                "résumé": "rezyume"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "topic": "Climate change is one of the most serious threats facing the world today. What are the causes of climate change, and what measures can be taken to address it?",
+        "relatedVocabulary": {
+            "en": {
+                "greenhouse gases": "gases that trap heat in the atmosphere",
+                "fossil fuels": "natural fuels formed in the geological past from the remains of living organisms",
+                "carbon footprint": "the total amount of greenhouse gases caused by an individual, event, organisation, or product",
+                "renewable energy": "energy from a source that is not depleted when used, such as wind or solar power",
+                "deforestation": "the action of clearing a wide area of trees",
+                "sustainable practices": "ways of doing things that do not harm the environment in the long term",
+                "global warming": "a gradual increase in the overall temperature of the earth's atmosphere",
+                "sea level rise": "an increase in the level of the world's oceans due to the effects of global warming",
+                "extreme weather events": "severe and unusual weather conditions",
+                "mitigation": "the action of reducing the severity, seriousness, or painfulness of something"
+            },
+            "ru": {
+                "greenhouse gases": "парниковые газы",
+                "fossil fuels": "ископаемое топливо",
+                "carbon footprint": "углеродный след",
+                "renewable energy": "возобновляемая энергия",
+                "deforestation": "вырубка лесов",
+                "sustainable practices": "устойчивые практики",
+                "global warming": "глобальное потепление",
+                "sea level rise": "повышение уровня моря",
+                "extreme weather events": "экстремальные погодные явления",
+                "mitigation": "смягчение"
+            },
+            "uz": {
+                "greenhouse gases": "issiqxona gazlari",
+                "fossil fuels": "qazilma yoqilg'ilar",
+                "carbon footprint": "uglerod izi",
+                "renewable energy": "qayta tiklanuvchi energiya",
+                "deforestation": "o'rmonlarning kesilishi",
+                "sustainable practices": "barqaror amaliyotlar",
+                "global warming": "global isish",
+                "sea level rise": "dengiz sathining ko'tarilishi",
+                "extreme weather events": "ekstremal ob-havo hodisalari",
+                "mitigation": "yumshatish"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Some people believe that advertising has a negative impact on society because it encourages people to buy things they don't need. To what extent do you agree or disagree?",
+        "relatedVocabulary": {
+            "en": {
+                "consumerism": "the protection or promotion of the interests of consumers",
+                "manipulate": "to control or influence (a person or situation) cleverly, unfairly, or unscrupulously",
+                "target audience": "the particular group of people at which an advertisement or product is aimed",
+                "brand loyalty": "the tendency of some consumers to continue buying the same brand of goods rather than competing brands",
+                "peer pressure": "influence from members of one's peer group",
+                "materialistic": "excessively concerned with material possessions and money",
+                "ethical considerations": "moral issues that need to be thought about",
+                "raise awareness": "to make people more informed about a particular subject",
+                "generate revenue": "to produce income",
+                "misleading": "giving the wrong idea or impression"
+            },
+            "ru": {
+                "consumerism": "потребительство",
+                "manipulate": "манипулировать",
+                "target audience": "целевая аудитория",
+                "brand loyalty": "приверженность бренду",
+                "peer pressure": "давление сверстников",
+                "materialistic": "материалистичный",
+                "ethical considerations": "этические соображения",
+                "raise awareness": "повышать осведомленность",
+                "generate revenue": "приносить доход",
+                "misleading": "вводящий в заблуждение"
+            },
+            "uz": {
+                "consumerism": "iste'molchilik",
+                "manipulate": "manipulyatsiya qilish",
+                "target audience": "maqsadli auditoriya",
+                "brand loyalty": "brendga sodiqlik",
+                "peer pressure": "tengdoshlar bosimi",
+                "materialistic": "materialistik",
+                "ethical considerations": "etik masalalar",
+                "raise awareness": "xabardorlikni oshirish",
+                "generate revenue": "daromad keltirish",
+                "misleading": "chalg'ituvchi"
+            }
+        }
+    }
+]

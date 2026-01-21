@@ -1,0 +1,665 @@
+{
+    "id": "A2_MIGHT_MIGHT_NOT_POSSIBILITY_EXPRESSING_POSSIBILITY",
+    "title": "Might, might not (Possibility) - Expressing possibility",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It might rains tomorrow."
+                },
+                {
+                    "answer": "It might rain tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "It might to rain tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "After 'might', we use the base form of the verb without 'to' or any endings.",
+                "ru": "После 'might' мы используем базовую форму глагола без 'to' или окончаний.",
+                "uz": "'Might'dan keyin fe'lning asosiy shaklini 'to'siz va qo'shimchalarsiz ishlatamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses possibility?",
+                "ru": "Какое предложение правильно выражает возможность?",
+                "uz": "Qaysi gap imkoniyatni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "She might not comes to the party."
+                },
+                {
+                    "answer": "She might not come to the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "She might not coming to the party."
+                }
+            ],
+            "explanation": {
+                "en": "With 'might not', we use the base form of the verb without any changes.",
+                "ru": "С 'might not' мы используем базовую форму глагола без изменений.",
+                "uz": "'Might not' bilan fe'lning asosiy shaklini hech qanday o'zgarishsiz ishlatamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They might be at home now.",
+                    "correct": true
+                },
+                {
+                    "answer": "They might are at home now."
+                },
+                {
+                    "answer": "They might being at home now."
+                }
+            ],
+            "explanation": {
+                "en": "After 'might', we use 'be' for states and continuous actions, not 'are' or 'being'.",
+                "ru": "После 'might' мы используем 'be' для состояний и длительных действий, не 'are' или 'being'.",
+                "uz": "'Might'dan keyin holatlar va davomiy harakatlar uchun 'be'ni ishlatamiz, 'are' yoki 'being'ni emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows correct usage of 'might'?",
+                "ru": "Какое предложение показывает правильное употребление 'might'?",
+                "uz": "Qaysi gap 'might'ning to'g'ri ishlatilishini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "He might goes to London next week."
+                },
+                {
+                    "answer": "He might go to London next week.",
+                    "correct": true
+                },
+                {
+                    "answer": "He might going to London next week."
+                }
+            ],
+            "explanation": {
+                "en": "Modal verb 'might' is followed by the base form of the main verb without any endings.",
+                "ru": "Модальный глагол 'might' сопровождается базовой формой основного глагола без окончаний.",
+                "uz": "Modal fe'l 'might' asosiy fe'lning bazaviy shakli bilan qo'shimchalarsiz keladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct negative form.",
+                "ru": "Выберите правильную отрицательную форму.",
+                "uz": "To'g'ri inkor shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I might not have time today.",
+                    "correct": true
+                },
+                {
+                    "answer": "I might don't have time today."
+                },
+                {
+                    "answer": "I might not has time today."
+                }
+            ],
+            "explanation": {
+                "en": "The negative form is 'might not' followed by the base form of the verb.",
+                "ru": "Отрицательная форма - это 'might not' с базовой формой глагола.",
+                "uz": "Inkor shakli 'might not' fe'lning asosiy shakli bilan keladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses possibility about the past?",
+                "ru": "Какое предложение правильно выражает возможность о прошлом?",
+                "uz": "Qaysi gap o'tmish haqida imkoniyatni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "She might have finished her work."
+                },
+                {
+                    "answer": "She might finished her work.",
+                    "correct": true
+                },
+                {
+                    "answer": "She might has finished her work."
+                }
+            ],
+            "explanation": {
+                "en": "For simple past possibilities at A2 level, we use 'might' + base form of past verb.",
+                "ru": "For simple past possibilities at A2 level, we use 'might' + base form of past verb.",
+                "uz": "A2 darajasida oddiy o'tmish imkoniyatlari uchun 'might' + o'tmish fe'lning asosiy shaklini ishlatamiz."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We might not see you tomorrow."
+                },
+                {
+                    "answer": "We might not sees you tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "We might not seeing you tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "With 'might not', always use the base form of the verb without 's' or 'ing'.",
+                "ru": "С 'might not' всегда используйте базовую форму глагола без 's' или 'ing'.",
+                "uz": "'Might not' bilan har doim fe'lning asosiy shaklini 's' yoki 'ing'siz ishlating."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The bus might late today."
+                },
+                {
+                    "answer": "The bus might be late today.",
+                    "correct": true
+                },
+                {
+                    "answer": "The bus might is late today."
+                }
+            ],
+            "explanation": {
+                "en": "When using adjectives after 'might', we need the verb 'be' in its base form.",
+                "ru": "При использовании прилагательных после 'might' нам нужен глагол 'be' в базовой форме.",
+                "uz": "'Might'dan keyin sifatlar ishlatganda 'be' fe'lini asosiy shaklda kerak."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence expressing possibility.",
+                "ru": "Выберите правильное предложение, выражающее возможность.",
+                "uz": "Imkoniyatni ifodalovchi to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It might snow tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "It might snows tonight."
+                },
+                {
+                    "answer": "It might snowing tonight."
+                }
+            ],
+            "explanation": {
+                "en": "Modal 'might' takes the base form of the verb without any additions.",
+                "ru": "Модальный глагол 'might' принимает базовую форму глагола без добавлений.",
+                "uz": "Modal fe'l 'might' hech qanday qo'shimchasiz fe'lning asosiy shaklini oladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses 'might not'?",
+                "ru": "Какое предложение правильно использует 'might not'?",
+                "uz": "Qaysi gap 'might not'ni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "They might not coming with us."
+                },
+                {
+                    "answer": "They might not come with us.",
+                    "correct": true
+                },
+                {
+                    "answer": "They might not comes with us."
+                }
+            ],
+            "explanation": {
+                "en": "The structure is 'might not' + base form of the verb without any endings.",
+                "ru": "Структура: 'might not' + базовая форма глагола без окончаний.",
+                "uz": "Struktura: 'might not' + fe'lning asosiy shakli hech qanday qo'shimchasiz."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ be at work right now.",
+                "ru": "Дополните предложение: She ___ be at work right now.",
+                "uz": "Gapni to'ldiring: She ___ be at work right now."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might' to express possibility about present situations.",
+                "ru": "Мы используем 'might' для выражения возможности в настоящих ситуациях.",
+                "uz": "Hozirgi vaziyatlarda imkoniyatni ifodalash uchun 'might'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ not understand the lesson.",
+                "ru": "Дополните предложение: They ___ not understand the lesson.",
+                "uz": "Gapni to'ldiring: They ___ not understand the lesson."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might not' to express that something is possibly not true.",
+                "ru": "Мы используем 'might not' чтобы выразить, что что-то возможно неправда.",
+                "uz": "Biror narsa ehtimol noto'g'ri ekanligini ifodalash uchun 'might not'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: It ___ rain this afternoon.",
+                "ru": "Дополните предложение: It ___ rain this afternoon.",
+                "uz": "Gapni to'ldiring: It ___ rain this afternoon."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might' to talk about future possibilities we're not sure about.",
+                "ru": "Мы используем 'might' для разговора о будущих возможностях, в которых не уверены.",
+                "uz": "Aniq bo'lmagan kelajak imkoniyatlari haqida gapirish uchun 'might'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ not come to the meeting tomorrow.",
+                "ru": "Дополните предложение: He ___ not come to the meeting tomorrow.",
+                "uz": "Gapni to'ldiring: He ___ not come to the meeting tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might not' to express uncertainty about future events.",
+                "ru": "Мы используем 'might not' для выражения неуверенности о будущих событиях.",
+                "uz": "Kelajak voqealar haqida noaniqlikni ifodalash uchun 'might not'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The shop ___ be closed on Sunday.",
+                "ru": "Дополните предложение: The shop ___ be closed on Sunday.",
+                "uz": "Gapni to'ldiring: The shop ___ be closed on Sunday."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might be' to express possibility about states or conditions.",
+                "ru": "Мы используем 'might be' для выражения возможности состояний или условий.",
+                "uz": "Holatlar yoki shartlar haqida imkoniyatni ifodalash uchun 'might be'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ go to the cinema tonight.",
+                "ru": "Дополните предложение: We ___ go to the cinema tonight.",
+                "uz": "Gapni to'ldiring: We ___ go to the cinema tonight."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might' to express possible plans or activities.",
+                "ru": "Мы используем 'might' для выражения возможных планов или действий.",
+                "uz": "Mumkin bo'lgan rejalar yoki faoliyatlarni ifodalash uchun 'might'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ not like the food here.",
+                "ru": "Дополните предложение: She ___ not like the food here.",
+                "uz": "Gapni to'ldiring: She ___ not like the food here."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might not' to express that something is possibly not the case.",
+                "ru": "Мы используем 'might not' чтобы выразить, что что-то возможно не так.",
+                "uz": "Biror narsa ehtimol bunday emasligini ifodalash uchun 'might not'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The train ___ be late because of the weather.",
+                "ru": "Дополните предложение: The train ___ be late because of the weather.",
+                "uz": "Gapni to'ldiring: The train ___ be late because of the weather."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might' to express possible reasons or explanations.",
+                "ru": "Мы используем 'might' для выражения возможных причин или объяснений.",
+                "uz": "Mumkin bo'lgan sabablar yoki tushuntirishlarni ifodalash uchun 'might'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ not have enough money for the trip.",
+                "ru": "Дополните предложение: I ___ not have enough money for the trip.",
+                "uz": "Gapni to'ldiring: I ___ not have enough money for the trip."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might not' to express uncertainty about our own situations.",
+                "ru": "Мы используем 'might not' для выражения неуверенности в собственных ситуациях.",
+                "uz": "O'z vaziyatlarimiz haqida noaniqlikni ifodalash uchun 'might not'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ know the answer to this question.",
+                "ru": "Дополните предложение: They ___ know the answer to this question.",
+                "uz": "Gapni to'ldiring: They ___ know the answer to this question."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'might' to express possibility about what others know or understand.",
+                "ru": "Мы используем 'might' для выражения возможности того, что знают или понимают другие.",
+                "uz": "Boshqalar nimani bilishi yoki tushunishi mumkinligini ifodalash uchun 'might'ni ishlatamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is looking at the weather forecast for her weekend camping trip. It ___1___ rain on Saturday, but Sunday ___2___ be sunny according to the prediction. However, weather forecasts ___3___ not always be accurate, so she's preparing for different scenarios. She ___4___ need to pack extra waterproof clothing just in case. Her tent ___5___ not be completely waterproof since it's quite old. If it rains heavily, they ___6___ have to find shelter in the nearby visitor center. The campsite ___7___ be crowded this weekend because it's a holiday. They ___8___ not find a good spot if they arrive late on Friday evening. Sarah's friend Tom ___9___ join them, but he hasn't confirmed yet. The hiking trail they planned to explore ___10___ be closed due to recent storms. They ___11___ have to choose an alternative route, or they ___12___ decide to do other activities like fishing instead. Despite the uncertainties, Sarah believes the trip ___13___ still be enjoyable regardless of the weather conditions.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "might"
+                },
+                {
+                    "blank": "2",
+                    "answer": "might"
+                },
+                {
+                    "blank": "3",
+                    "answer": "may"
+                },
+                {
+                    "blank": "4",
+                    "answer": "might"
+                },
+                {
+                    "blank": "5",
+                    "answer": "might"
+                },
+                {
+                    "blank": "6",
+                    "answer": "might"
+                },
+                {
+                    "blank": "7",
+                    "answer": "could"
+                },
+                {
+                    "blank": "8",
+                    "answer": "might"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "could"
+                },
+                {
+                    "blank": "11",
+                    "answer": "might"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "'Might', 'may', and 'could' are used to express possibility. 'Might' and 'may' show something is possible but uncertain. 'Could' suggests ability or possibility in different situations.",
+                "ru": "'Might', 'may' и 'could' используются для выражения возможности. 'Might' и 'may' показывают, что что-то возможно, но неопределенно. 'Could' предполагает способность или возможность в различных ситуациях.",
+                "uz": "'Might', 'may' va 'could' imkoniyatni ifodalash uchun ishlatiladi. 'Might' va 'may' nimadir mumkin, lekin noaniqligini ko'rsatadi. 'Could' turli vaziyatlarda qobiliyat yoki imkoniyatni bildiradi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Johnson family is planning to move to a new city next year. Mr. Johnson ___1___ get a promotion at work, which would make the move necessary. However, the company ___2___ not approve his transfer request. Mrs. Johnson is worried that they ___3___ not find a good school for their children in the new location. Their teenage daughter ___4___ be upset about leaving her friends behind. The housing market in the new city ___5___ be very expensive, so they ___6___ not be able to afford a house as nice as their current one. On the positive side, the new job ___7___ offer better career opportunities for Mr. Johnson. The family ___8___ make new friends quickly if they join local community activities. Their son ___9___ actually prefer the new city since it has better sports facilities. The move ___10___ be stressful initially, but it ___11___ not be as difficult as they expect. They ___12___ discover that the change brings unexpected benefits and new adventures for the whole family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "might"
+                },
+                {
+                    "blank": "2",
+                    "answer": "might"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "might"
+                },
+                {
+                    "blank": "7",
+                    "answer": "could"
+                },
+                {
+                    "blank": "8",
+                    "answer": "could"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "could"
+                },
+                {
+                    "blank": "11",
+                    "answer": "might"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise uses 'might', 'could', and their negative forms to express different degrees of possibility. 'Could' often suggests potential outcomes, while 'might' expresses uncertainty about future events.",
+                "ru": "Это упражнение использует 'might', 'could' и их отрицательные формы для выражения различных степеней возможности. 'Could' часто предполагает потенциальные исходы, а 'might' выражает неуверенность в будущих событиях.",
+                "uz": "Bu mashq turli darajadagi imkoniyatlarni ifodalash uchun 'might', 'could' va ularning inkor shakllaridan foydalanadi. 'Could' ko'pincha potentsial natijalarni bildiradi, 'might' esa kelajak voqealar haqida noaniqlikni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma is thinking about starting her own online business. She ___1___ have a good idea for selling handmade jewelry, but she ___2___ not have enough experience in business management. The initial investment ___3___ be quite high for purchasing materials and equipment. However, she ___4___ start small and gradually expand if the business is successful. Online marketing ___5___ be challenging since there's a lot of competition. Emma ___6___ need to learn about social media advertising and website design. Her products ___7___ not appeal to enough customers initially. Friends and family ___8___ support her by sharing her posts on social media. The business ___9___ take several months before it becomes profitable. Emma realizes she ___10___ have to keep her current part-time job while building the business. Success ___11___ not come immediately, but with patience and hard work, her venture ___12___ eventually become a thriving enterprise that provides her with financial independence.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "might"
+                },
+                {
+                    "blank": "2",
+                    "answer": "may"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "could"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could"
+                },
+                {
+                    "blank": "6",
+                    "answer": "might"
+                },
+                {
+                    "blank": "7",
+                    "answer": "might"
+                },
+                {
+                    "blank": "8",
+                    "answer": "could"
+                },
+                {
+                    "blank": "9",
+                    "answer": "could"
+                },
+                {
+                    "blank": "10",
+                    "answer": "might"
+                },
+                {
+                    "blank": "11",
+                    "answer": "may"
+                },
+                {
+                    "blank": "12",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise combines 'might', 'may', and 'could' to express various possibilities about starting a business. Each modal verb shows different levels of possibility and potential outcomes.",
+                "ru": "Это упражнение объединяет 'might', 'may' и 'could' для выражения различных возможностей открытия бизнеса. Каждый модальный глагол показывает разные уровни возможности и потенциальные исходы.",
+                "uz": "Bu mashq biznes boshlash haqida turli imkoniyatlarni ifodalash uchun 'might', 'may' va 'could' ni birlashtiradi. Har bir modal fe'l turli imkoniyat darajalari va potentsial natijalarni ko'rsatadi."
+            }
+        }
+    ]
+}

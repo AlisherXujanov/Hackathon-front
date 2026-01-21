@@ -1,0 +1,563 @@
+{
+    "id": "A1_PAST_SIMPLE_WAS_WERE",
+    "title": "Past Simple (was/were) - Only 'be' verb in past",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He was at the park yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "They was happy.",
+                    "correct": false
+                },
+                {
+                    "answer": "She were sad.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For singular subjects like 'he' and 'she', we use 'was' in the past simple. For plural subjects like 'they' and 'we', we use 'were'.",
+                "ru": "Для единственного числа ('he', 'she') используется 'was' в прошедшем времени. Для множественного числа ('they', 'we') используется 'were'.",
+                "uz": "Birlikdagi otlar ('he', 'she') uchun o'tgan zamonda 'was' ishlatiladi. Ko'plikdagi otlar ('they', 'we') uchun esa 'were' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The students was in the classroom.",
+                    "correct": false
+                },
+                {
+                    "answer": "The cat were on the roof.",
+                    "correct": false
+                },
+                {
+                    "answer": "The children were tired after the game.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the children' is plural, so we must use 'were'. 'Was' is used for singular subjects.",
+                "ru": "Подлежащее 'the children' (дети) стоит во множественном числе, поэтому нужно использовать 'were'. 'Was' используется для единственного числа.",
+                "uz": "The children' (bolalar) ot so'zi ko'plikda, shuning uchun 'were' ishlatishimiz kerak. 'Was' birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Was you at the party last night?",
+                    "correct": false
+                },
+                {
+                    "answer": "Were you at the party last night?",
+                    "correct": true
+                },
+                {
+                    "answer": "Were she angry?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In questions with 'you', we use 'were'. 'Was' is used with 'he', 'she', 'it' and singular nouns.",
+                "ru": "В вопросах с 'you' используется 'were'. 'Was' используется с 'he', 'she', 'it' и существительными в единственном числе.",
+                "uz": "'You' bilan savollarda 'were' ishlatiladi. 'Was' 'he', 'she', 'it' va birlikdagi otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I wasn't happy with the result.",
+                    "correct": true
+                },
+                {
+                    "answer": "She weren't sad.",
+                    "correct": false
+                },
+                {
+                    "answer": "They wasn't ready.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form for 'I' is 'wasn't'. 'Weren't' is the negative form for plural subjects like 'they' and 'we'.",
+                "ru": "Правильная отрицательная форма для 'I' — 'wasn't'. 'Weren't' — отрицательная форма для подлежащих во множественном числе, таких как 'they' и 'we'.",
+                "uz": "'I' uchun to'g'ri inkor shakli 'wasn't' hisoblanadi. 'Weren't' 'they' va 'we' kabi ko'plikdagi otlar uchun inkor shaklidir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Were John and Mary at home?",
+                    "correct": true
+                },
+                {
+                    "answer": "Was John and Mary at home?",
+                    "correct": false
+                },
+                {
+                    "answer": "Where was John and Mary?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'John and Mary' is plural, so the correct verb is 'were'. 'Was' is only used for singular subjects.",
+                "ru": "Подлежащее 'John and Mary' (Джон и Мэри) — это множественное число, поэтому правильный глагол — 'were'. 'Was' используется только для единственного числа.",
+                "uz": "'John and Mary' ot so'zi ko'plikda, shuning uchun to'g'ri fe'l 'were' hisoblanadi. 'Was' faqat birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather were great.",
+                    "correct": false
+                },
+                {
+                    "answer": "My parents was busy.",
+                    "correct": false
+                },
+                {
+                    "answer": "My friend was sick yesterday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my friend' is singular, so we use 'was'. 'Were' is used for plural subjects.",
+                "ru": "Подлежащее 'my friend' (мой друг) стоит в единственном числе, поэтому используется 'was'. 'Were' используется для множественного числа.",
+                "uz": "'My friend' (mening do'stim) ot so'zi birlikda, shuning uchun 'was' ishlatamiz. 'Were' ko'plikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Why were you late?",
+                    "correct": true
+                },
+                {
+                    "answer": "Why was you late?",
+                    "correct": false
+                },
+                {
+                    "answer": "Why wasn't you late?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "When asking a question with the subject 'you', the correct verb is 'were'. 'Was' is only used for singular subjects.",
+                "ru": "При построении вопроса с подлежащим 'you', правильный глагол — 'were'. 'Was' используется только для единственного числа.",
+                "uz": "'You' ot so'zi bilan savol berayotganda, to'g'ri fe'l 'were' hisoblanadi. 'Was' faqat birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The keys was on the table.",
+                    "correct": false
+                },
+                {
+                    "answer": "The water were cold.",
+                    "correct": false
+                },
+                {
+                    "answer": "The books were heavy.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the books' is plural, so we use 'were'. 'Was' is for singular subjects.",
+                "ru": "Подлежащее 'the books' (книги) во множественном числе, поэтому используется 'were'. 'Was' — для единственного числа.",
+                "uz": "'The books' (kitoblar) ot so'zi ko'plikda, shuning uchun 'were' ishlatamiz. 'Was' birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It were a sunny day.",
+                    "correct": false
+                },
+                {
+                    "answer": "She were my best friend.",
+                    "correct": false
+                },
+                {
+                    "answer": "He was a great student.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For singular subjects like 'he', 'she', and 'it', we use 'was'. 'Were' is used for plural subjects.",
+                "ru": "Для подлежащих в единственном числе ('he', 'she', 'it') используется 'was'. 'Were' используется для подлежащих во множественном числе.",
+                "uz": "Birlikdagi otlar ('he', 'she', 'it') uchun 'was' ishlatiladi. 'Were' esa ko'plikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We wasn't ready for the test.",
+                    "correct": false
+                },
+                {
+                    "answer": "They weren't at the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "The food weren't good.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'they' is plural, so the correct negative form is 'weren't'. 'Wasn't' is for singular subjects.",
+                "ru": "Подлежащее 'they' (они) во множественном числе, поэтому правильная отрицательная форма — 'weren't'. 'Wasn't' — для подлежащих в единственном числе.",
+                "uz": "'They' (ular) ot so'zi ko'plikda, shuning uchun to'g'ri inkor shakli 'weren't' hisoblanadi. 'Wasn't' birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I (to be) ___ at home last night.",
+                "ru": "Дополните предложение: I (to be) ___ at home last night.",
+                "uz": "Gapni to'ldiring: I (to be) ___ at home last night."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct past form of 'to be' for the subject 'I' is 'was'.",
+                "ru": "Правильная форма прошедшего времени глагола 'to be' для подлежащего 'I' — 'was'.",
+                "uz": "'I' ot so'zi uchun 'to be' fe'lining to'g'ri o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They (to be) ___ very happy with the results.",
+                "ru": "Дополните предложение: They (to be) ___ very happy with the results.",
+                "uz": "Gapni to'ldiring: They (to be) ___ very happy with the results."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past form of 'to be' for the plural subject 'they' is 'were'.",
+                "ru": "Форма прошедшего времени глагола 'to be' для подлежащего во множественном числе 'they' — 'were'.",
+                "uz": "'They' ot so'zi uchun 'to be' fe'lining o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She (to be) ___ a teacher ten years ago.",
+                "ru": "Дополните предложение: She (to be) ___ a teacher ten years ago.",
+                "uz": "Gapni to'ldiring: She (to be) ___ a teacher ten years ago."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For singular subjects like 'she', 'he', and 'it', we use 'was' in the past simple.",
+                "ru": "Для подлежащих в единственном числе, таких как 'she', 'he' и 'it', используется 'was' в прошедшем времени.",
+                "uz": "Birlikdagi otlar, ya'ni 'she', 'he' va 'it' uchun o'tgan zamonda 'was' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We (to be) ___ friends in high school.",
+                "ru": "Дополните предложение: We (to be) ___ friends in high school.",
+                "uz": "Gapni to'ldiring: We (to be) ___ friends in high school."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct past form of 'to be' for the plural subject 'we' is 'were'.",
+                "ru": "Правильная форма прошедшего времени глагола 'to be' для подлежащего во множественном числе 'we' — 'were'.",
+                "uz": "'We' ko'plik ot so'zi uchun 'to be' fe'lining to'g'ri o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: It (to be) ___ a beautiful day yesterday.",
+                "ru": "Дополните предложение: It (to be) ___ a beautiful day yesterday.",
+                "uz": "Gapni to'ldiring: It (to be) ___ a beautiful day yesterday."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the singular subject 'it', the past form of 'to be' is 'was'.",
+                "ru": "Для подлежащего в единственном числе 'it', форма прошедшего времени глагола 'to be' — 'was'.",
+                "uz": "'It' birlikdagi ot so'zi uchun 'to be' fe'lining o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The books (to be) ___ on the table.",
+                "ru": "Дополните предложение: The books (to be) ___ on the table.",
+                "uz": "Gapni to'ldiring: The books (to be) ___ on the table."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the books' is plural, so the past form of 'to be' is 'were'.",
+                "ru": "Подлежащее 'the books' (книги) во множественном числе, поэтому форма прошедшего времени глагола 'to be' — 'were'.",
+                "uz": "'The books' (kitoblar) ot so'zi ko'plikda, shuning uchun 'to be' fe'lining o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The dog (to be) ___ very hungry.",
+                "ru": "Дополните предложение: The dog (to be) ___ very hungry.",
+                "uz": "Gapni to'ldiring: The dog (to be) ___ very hungry."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the dog' is singular, so the past form of 'to be' is 'was'.",
+                "ru": "Подлежащее 'the dog' (собака) в единственном числе, поэтому форма прошедшего времени глагола 'to be' — 'was'.",
+                "uz": "'The dog' (it) ot so'zi birlikda, shuning uchun 'to be' fe'lining o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children (to be) ___ playing in the park.",
+                "ru": "Дополните предложение: The children (to be) ___ playing in the park.",
+                "uz": "Gapni to'ldiring: The children (to be) ___ playing in the park."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the children' is plural, so we use 'were' as the past form of 'to be'.",
+                "ru": "Подлежащее 'the children' (дети) во множественном числе, поэтому в качестве формы прошедшего времени 'to be' используется 'were'.",
+                "uz": "'The children' (bolalar) ot so'zi ko'plikda, shuning uchun 'to be' fe'lining o'tgan zamon shakli 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You (to be) ___ late for the meeting.",
+                "ru": "Дополните предложение: You (to be) ___ late for the meeting.",
+                "uz": "Gapni to'ldiring: You (to be) ___ late for the meeting."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the subject 'you', the past simple form of 'to be' is always 'were'.",
+                "ru": "Для подлежащего 'you' форма прошедшего времени 'to be' всегда 'were'.",
+                "uz": "'You' ot so'zi uchun 'to be' fe'lining o'tgan zamon shakli doimo 'were' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother (to be) ___ at the cinema with his friends.",
+                "ru": "Дополните предложение: My brother (to be) ___ at the cinema with his friends.",
+                "uz": "Gapni to'ldiring: My brother (to be) ___ at the cinema with his friends."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my brother' is singular, so the past form of 'to be' is 'was'.",
+                "ru": "Подлежащее 'my brother' (мой брат) в единственном числе, поэтому форма прошедшего времени глагола 'to be' — 'was'.",
+                "uz": "'My brother' (mening akam) ot so'zi birlikda, shuning uchun 'to be' fe'lining o'tgan zamon shakli 'was' hisoblanadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last summer, my family and I ___1___ on a long vacation. The weather ___2___ hot and sunny every day. My sister and I ___3___ excited to explore new places. The hotel we stayed in ___4___ big and very comfortable. Our rooms ___5___ on the third floor. I remember one day, my parents ___6___ a little worried because we ___7___ late for a tour. But in the end, everything ___8___ fine. Our tour guide ___9___ a very kind person. He ___10___ knowledgeable about the history of the city. We ___11___ happy to have him. It ___12___ a great trip and we ___13___ sad to leave. We ___14___ sure that we wanted to come back again soon. The whole family ___15___ happy with the vacation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "were"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "were"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was"
+                },
+                {
+                    "blank": "10",
+                    "answer": "was"
+                },
+                {
+                    "blank": "11",
+                    "answer": "were"
+                },
+                {
+                    "blank": "12",
+                    "answer": "was"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were"
+                },
+                {
+                    "blank": "14",
+                    "answer": "were"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'was' for singular subjects (the weather, the hotel, everything, our tour guide, he, it, the whole family) and 'were' for plural subjects (my family and I, my sister and I, our rooms, my parents, we, they, you).",
+                "ru": "Используйте 'was' для подлежащих в единственном числе (the weather, the hotel, everything, our tour guide, he, it, the whole family) и 'were' для подлежащих во множественном числе (my family and I, my sister and I, our rooms, my parents, we, they, you).",
+                "uz": "Birlikdagi otlar (the weather, the hotel, everything, our tour guide, he, it, the whole family) uchun 'was' va ko'plikdagi otlar (my family and I, my sister and I, our rooms, my parents, we, they, you) uchun 'were' ishlatiladi."
+            }
+        }
+    ]
+}

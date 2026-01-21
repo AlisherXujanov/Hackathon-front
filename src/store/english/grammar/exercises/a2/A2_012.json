@@ -1,0 +1,755 @@
+{
+    "id": "A2_POSSESSIVE_S_COMPLEX_POSSESSION_AND_RELATIONSHIPS",
+    "title": "Possessive 's - Complex possession and relationships",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The girls's books are on the table."
+                },
+                {
+                    "answer": "The girls' books are on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "The girl's' books are on the table."
+                }
+            ],
+            "explanation": {
+                "en": "For plural nouns ending in 's', you add the apostrophe after the 's' to show possession.",
+                "ru": "Для существительных во множественном числе, оканчивающихся на 's', вы добавляете апостроф после 's' для обозначения принадлежности.",
+                "uz": "Tugallanadigan ko'plik otlar uchun, egalikni ko'rsatish uchun 's' dan keyin apostrof qo'shiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My friends's car is blue."
+                },
+                {
+                    "answer": "My friend's car is blue.",
+                    "correct": true
+                },
+                {
+                    "answer": "My friend car is blue."
+                }
+            ],
+            "explanation": {
+                "en": "Use an apostrophe and 's' ('s) to show possession with a singular noun, like 'friend'.",
+                "ru": "Используйте апостроф и 's' ('s), чтобы показать принадлежность с единственным числом существительного, например 'friend'.",
+                "uz": "Egalikni ko'rsatish uchun bitta ot bilan apostrof va 's' ('s) dan foydalaning, masalan, 'friend'."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is my parent's house."
+                },
+                {
+                    "answer": "This is my parents' house.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is my parents's house."
+                }
+            ],
+            "explanation": {
+                "en": "The correct form for a singular noun like 'parent' is 'parent's' to show possession.",
+                "ru": "Правильная форма для существительного в единственном числе, такого как 'parent', это 'parent's' для обозначения принадлежности.",
+                "uz": "'Parent' kabi birlikdagi ot uchun to'g'ri shakl 'parent's' bo'lib, bu egalikni bildiradi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the correct possessive form.",
+                "ru": "Выберите предложение с правильной формой притяжательного падежа.",
+                "uz": "Egalik shakli to'g'ri bo'lgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The children's' toys are everywhere."
+                },
+                {
+                    "answer": "The children's toys are everywhere.",
+                    "correct": true
+                },
+                {
+                    "answer": "The childrens' toys are everywhere."
+                }
+            ],
+            "explanation": {
+                "en": "Irregular plural nouns like 'children' do not end in 's', so you add 's after them to show possession.",
+                "ru": "Неправильные существительные во множественном числе, как 'children', не оканчиваются на 's', поэтому вы добавляете 's после них, чтобы показать принадлежность.",
+                "uz": "'Children' kabi noto'g'ri ko'plik otlari 's' bilan tugamaydi, shuning uchun egalikni ko'rsatish uchun ulardan keyin 's qo'shasiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which option correctly uses the possessive form?",
+                "ru": "Какой вариант правильно использует притяжательную форму?",
+                "uz": "Qaysi variant egalik shaklidan to'g'ri foydalanadi?"
+            },
+            "options": [
+                {
+                    "answer": "James' book is on the desk."
+                },
+                {
+                    "answer": "James's book is on the desk.",
+                    "correct": true
+                },
+                {
+                    "answer": "Jame's book is on the desk."
+                }
+            ],
+            "explanation": {
+                "en": "For names ending in 's', it is common to add 's to show possession. 'James's' is the standard form.",
+                "ru": "Для имен, оканчивающихся на 's', обычно добавляют 's, чтобы показать принадлежность. 'James's' - это стандартная форма.",
+                "uz": "Ismlarning 's' bilan tugallanishi uchun egalikni ko'rsatish uchun 's qo'shish odatiy holdir. 'James's' standart shakldir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My dogs's toys are in the basket."
+                },
+                {
+                    "answer": "My dog's toys are in the basket.",
+                    "correct": true
+                },
+                {
+                    "answer": "My dog's' toys are in the basket."
+                }
+            ],
+            "explanation": {
+                "en": "For a singular noun like 'dog', you must use 's to show possession.",
+                "ru": "Для существительного в единственном числе, такого как 'dog', вы должны использовать 's, чтобы показать принадлежность.",
+                "uz": "'Dog' kabi birlikdagi ot uchun egalikni ko'rsatish uchun 's dan foydalanishingiz kerak."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is our friend's' new house."
+                },
+                {
+                    "answer": "This is our friends's new house."
+                },
+                {
+                    "answer": "This is our friends' new house.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For regular plural nouns like 'friends', you add the apostrophe after the 's' to show possession.",
+                "ru": "Для обычных существительных во множественном числе, как 'friends', вы добавляете апостроф после 's' для обозначения принадлежности.",
+                "uz": "Odatdagi ko'plik otlar uchun, masalan, 'friends', egalikni ko'rsatish uchun apostrofni 's' dan keyin qo'shasiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The men's' shirts are clean."
+                },
+                {
+                    "answer": "The mens' shirts are clean."
+                },
+                {
+                    "answer": "The men's shirts are clean.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For irregular plural nouns like 'men', you add 's to show possession because they do not end in 's'.",
+                "ru": "Для неправильных существительных во множественном числе, таких как 'men', вы добавляете 's, чтобы показать принадлежность, потому что они не оканчиваются на 's'.",
+                "uz": "'Men' kabi noto'g'ri ko'plik otlari uchun egalikni ko'rsatish uchun 's qo'shasiz, chunki ular 's' bilan tugamaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses the possessive form?",
+                "ru": "Какое предложение правильно использует притяжательную форму?",
+                "uz": "Qaysi gap egalik shaklidan to'g'ri foydalanadi?"
+            },
+            "options": [
+                {
+                    "answer": "The womans' jacket is red."
+                },
+                {
+                    "answer": "The womans's jacket is red."
+                },
+                {
+                    "answer": "The woman's jacket is red.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive form for the singular noun 'woman' is 'woman's'.",
+                "ru": "Правильная притяжательная форма для существительного в единственном числе 'woman' это 'woman's'.",
+                "uz": "'Woman' birlikdagi ot uchun to'g'ri egalik shakli 'woman's' bo'ladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The two boys's bicycles are new."
+                },
+                {
+                    "answer": "The two boys' bicycles are new.",
+                    "correct": true
+                },
+                {
+                    "answer": "The two boy's' bicycles are new."
+                }
+            ],
+            "explanation": {
+                "en": "For a regular plural noun like 'boys', you add the apostrophe after the 's' to show possession.",
+                "ru": "Для обычного существительного во множественном числе, как 'boys', вы добавляете апостроф после 's' для обозначения принадлежности.",
+                "uz": "'Boys' kabi odatdagi ko'plik ot uchun egalikni ko'rsatish uchun apostrofni 's' dan keyin qo'shasiz."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother's room is always tidy. My parents' room is messy. My ___ room is the cleanest.",
+                "ru": "Дополните предложение: My brother's room is always tidy. My parents' room is messy. My ___ room is the cleanest.",
+                "uz": "Gapni to'ldiring: My brother's room is always tidy. My parents' room is messy. My ___ room is the cleanest."
+            },
+            "options": [
+                {
+                    "answer": "brother's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive form 'brother's' shows that the room belongs to the brother.",
+                "ru": "Притяжательная форма 'brother's' показывает, что комната принадлежит брату.",
+                "uz": "Egalik shakli 'brother's' xona akaga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My cousins' names are Leo and Mia. My uncle's name is John. My ___ (aunt) name is Mary.",
+                "ru": "Дополните предложение: My cousins' names are Leo and Mia. My uncle's name is John. My ___ (aunt) name is Mary.",
+                "uz": "Gapni to'ldiring: My cousins' names are Leo and Mia. My uncle's name is John. My ___ (aunt) name is Mary."
+            },
+            "options": [
+                {
+                    "answer": "aunt's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive form 'aunt's' is used for a singular friend to show that the name belongs to them.",
+                "ru": "Притяжательная форма 'aunt's' используется для одного друга, чтобы показать, что имя принадлежит ему.",
+                "uz": "Egalik shakli 'aunt's' bitta do'stga tegishli ismni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The boys' football team won. The girl's team lost. The ___ team played well.",
+                "ru": "Дополните предложение: The boys' football team won. The girl's team lost. The ___ team played well.",
+                "uz": "Gapni to'ldiring: The boys' football team won. The girl's team lost. The ___ team played well."
+            },
+            "options": [
+                {
+                    "answer": "boys'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive form 'boys'' is used for a group of boys to show possession of the team.",
+                "ru": "Притяжательная форма 'boys'' используется для группы мальчиков, чтобы показать принадлежность команды.",
+                "uz": "'Boys'' egalik shakli bir guruh o'g'il bolalarga tegishli jamoani ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My sister's hobby is drawing. My brothers' hobby is playing video games. My ___ hobby is drawing.",
+                "ru": "Дополните предложение: My sister's hobby is drawing. My brothers' hobby is playing video games. My ___ hobby is drawing.",
+                "uz": "Gapni to'ldiring: My sister's hobby is drawing. My brothers' hobby is playing video games. My ___ hobby is drawing."
+            },
+            "options": [
+                {
+                    "answer": "sister's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive 'sister's' shows that the hobby belongs to one sister.",
+                "ru": "Притяжательная форма 'sister's' показывает, что хобби принадлежит одной сестре.",
+                "uz": "'Sister's' egalik shakli shug'ullanish bitta singilga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The teachers' meeting is tomorrow. The student's homework is late. The ___ meeting is tomorrow.",
+                "ru": "Дополните предложение: The teachers' meeting is tomorrow. The student's homework is late. The ___ meeting is tomorrow.",
+                "uz": "Gapni to'ldiring: The teachers' meeting is tomorrow. The student's homework is late. The ___ meeting is tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "teachers'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive 'teachers'' shows that the meeting is for more than one teacher. It is a plural possessive.",
+                "ru": "Притяжательная форма 'teachers'' показывает, что встреча предназначена для нескольких учителей. Это притяжательный падеж множественного числа.",
+                "uz": "'Teachers'' egalik shakli uchrashuv birdan ortiq o'qituvchilar uchun ekanligini ko'rsatadi. Bu ko'plik egalik shaklidir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My aunt's cat is black. My grandparents' dog is brown. My ___ cat is black.",
+                "ru": "Дополните предложение: My aunt's cat is black. My grandparents' dog is brown. My ___ cat is black.",
+                "uz": "Gapni to'ldiring: My aunt's cat is black. My grandparents' dog is brown. My ___ cat is black."
+            },
+            "options": [
+                {
+                    "answer": "aunt's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive 'aunt's' shows that the cat belongs to one aunt.",
+                "ru": "Притяжательная форма 'aunt's' показывает, что кошка принадлежит одной тете.",
+                "uz": "'Aunt's' egalik shakli mushuk bitta xolaga/ammaga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My parents' car is new. My cousin's car is old. The ___ car is new.",
+                "ru": "Дополните предложение: My parents' car is new. My cousin's car is old. The ___ car is new.",
+                "uz": "Gapni to'ldiring: My parents' car is new. My cousin's car is old. The ___ car is new."
+            },
+            "options": [
+                {
+                    "answer": "parents'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive form 'parents'' shows that the car belongs to both parents.",
+                "ru": "Притяжательная форма 'parents'' показывает, что машина принадлежит обоим родителям.",
+                "uz": "'Parents'' egalik shakli mashina ikkala ota-onaga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The women's bathroom is on the left. The men's bathroom is on the right. The ___ bathroom is on the left.",
+                "ru": "Дополните предложение: The women's bathroom is on the left. The men's bathroom is on the right. The ___ bathroom is on the left.",
+                "uz": "Gapni to'ldiring: The women's bathroom is on the left. The men's bathroom is on the right. The ___ bathroom is on the left."
+            },
+            "options": [
+                {
+                    "answer": "women's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive 'women's' is used for the plural, irregular noun 'women' to show possession.",
+                "ru": "Притяжательная форма 'women's' используется для существительного 'women' во множественном числе, чтобы показать принадлежность.",
+                "uz": "Egalik shakli 'women's' 'women' ko'plikdagi ot uchun egalikni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother's bike is red. My sisters' bikes are blue. My ___ bike is red.",
+                "ru": "Дополните предложение: My brother's bike is red. My sisters' bikes are blue. My ___ bike is red.",
+                "uz": "Gapni to'ldiring: My brother's bike is red. My sisters' bikes are blue. My ___ bike is red."
+            },
+            "options": [
+                {
+                    "answer": "brother's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive form 'brother's' is used for a singular noun to show possession.",
+                "ru": "Притяжательная форма 'brother's' используется для существительного в единственном числе, чтобы показать принадлежность.",
+                "uz": "Egalik shakli 'brother's' birlikdagi ot uchun egalikni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The teachers' lounge is quiet. The student's desk is messy. The ___ lounge is quiet.",
+                "ru": "Дополните предложение: The teachers' lounge is quiet. The student's desk is messy. The ___ lounge is quiet.",
+                "uz": "Gapni to'ldiring: The teachers' lounge is quiet. The student's desk is messy. The ___ lounge is quiet."
+            },
+            "options": [
+                {
+                    "answer": "teachers'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive 'teachers'' is used for the plural noun 'teachers' to show possession of the lounge.",
+                "ru": "Притяжательная форма 'teachers'' используется для существительного во множественном числе 'teachers', чтобы показать принадлежность к комнате отдыха.",
+                "uz": "'Teachers'' egalik shakli 'teachers' ko'plik ot uchun dam olish xonasiga egalikni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The ___1___ family is going on vacation. It's a big event. The two ___2___ toys are all packed up. They are taking the ___3___ car, which has a lot of space. The ___4___ suitcase is bright red. Their ___5___ dog, Max, is staying with the neighbors. The neighbors' dog and the two ___6___ dogs will have fun together. The ___7___ clothes are folded neatly, and the ___8___ laptop is in the bag. The two ___9___ suitcases are black, and the two ___10___ backpacks are yellow. It's a big adventure for the whole family, and everyone is excited about their ___11___ trip.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "4",
+                    "answer": "mother's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "family's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "boys'"
+                },
+                {
+                    "blank": "7",
+                    "answer": "father's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "father's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "girls'"
+                },
+                {
+                    "blank": "11",
+                    "answer": "family's"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses both singular and plural possessive forms. 'Children's' and 'women's' are irregular plural possessives, while 'parents'' and 'boys'' are regular plural possessives. 'Mother's', 'father's', and 'family's' are singular possessives.",
+                "ru": "Этот текст использует как притяжательные формы в единственном, так и во множественном числе. 'Children's' и 'women's' - это неправильные притяжательные формы множественного числа, в то время как 'parents'' и 'boys'' - правильные притяжательные формы множественного числа. 'Mother's', 'father's' и 'family's' - это притяжательные формы единственного числа.",
+                "uz": "Ushbu matn birlik va ko'plik egalik shakllaridan foydalanadi. 'Children's' va 'women's' noto'g'ri ko'plik egaliklari, 'parents'' va 'boys'' esa to'g'ri ko'plik egaliklari. 'Mother's', 'father's' va 'family's' birlik egaliklaridir."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The small town is getting ready for its annual festival. The ___1___ school has a big dance performance. The two ___2___ teams are practicing hard. The ___3___ club has organized a food fair, and the ___4___ music is playing everywhere. All the ___5___ shops are decorated with bright lights. The ___6___ families are coming to the town square to watch the show. The ___7___ performance is going to be the highlight. Everyone is excited, even the local ___8___ pets are dressed up in small costumes. The ___9___ festival is a huge success. The two ___10___ projects are also a highlight.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "students'"
+                },
+                {
+                    "blank": "3",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "town's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "people's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "town's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "town's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "students'"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses possessive forms to show ownership and relationships. 'Children's', 'men's', 'women's', and 'people's' are irregular plural possessives. 'Students'' is a regular plural possessive, and 'town's' is a singular possessive.",
+                "ru": "Этот текст использует притяжательные формы, чтобы показать владение и отношения. 'Children's', 'men's', 'women's' и 'people's' - это неправильные притяжательные формы множественного числа. 'Students'' - это правильная притяжательная форма множественного числа, а 'town's' - притяжательная форма единственного числа.",
+                "uz": "Ushbu matn egalik va munosabatlarni ko'rsatish uchun egalik shakllaridan foydalanadi. 'Children's', 'men's', 'women's' va 'people's' noto'g'ri ko'plik egaliklari. 'Students'' esa to'g'ri ko'plik egaligi, 'town's' esa birlik egaligidir."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The ___1___ team is celebrating its big victory. It was a close game, but they won. The ___2___ coach is very proud. They will have a big party at the ___3___ park. The two ___4___ parents are all coming to celebrate. The ___5___ friends are also invited. The ___6___ families will bring lots of food. The ___7___ victory is the talk of the town. All the ___8___ clubs are congratulating the team. Even the ___9___ newspaper is running a special story. It is a big moment for the two ___10___ players.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "students'"
+                },
+                {
+                    "blank": "2",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "players'"
+                },
+                {
+                    "blank": "5",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "players'"
+                },
+                {
+                    "blank": "7",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "school's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "town's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "boys'"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses possessive forms to show ownership and relationships. 'Students'' and 'players'' are regular plural possessives. 'Team's', 'children's', 'school's', and 'town's' are singular possessives.",
+                "ru": "Этот текст использует притяжательные формы, чтобы показать владение и отношения. 'Students'' и 'players'' - это правильные притяжательные формы множественного числа. 'Team's', 'children's', 'school's' и 'town's' - это притяжательные формы единственного числа.",
+                "uz": "Ushbu matn egalik va munosabatlarni ko'rsatish uchun egalik shakllaridan foydalanadi. 'Students'' va 'players'' to'g'ri ko'plik egaliklari. 'Team's', 'children's', 'school's' va 'town's' esa birlik egaliklaridir."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The two ___1___ families are celebrating Christmas together. It's a busy day. My ___2___ decorations are all over the house. My ___3___ presents are under the tree. The two ___4___ dogs are playing in the living room. The ___5___ food is cooking in the kitchen. My ___6___ family is helping with everything. My ___7___ children are playing with their new toys. All the ___8___ toys are scattered everywhere. My ___9___ parents' house is full of noise and happiness. My ___10___ parents' help is a big relief.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "friends'"
+                },
+                {
+                    "blank": "2",
+                    "answer": "family's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "friends'"
+                },
+                {
+                    "blank": "5",
+                    "answer": "mother's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "brother's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "sister's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "brother's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "friend's"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses possessive forms to show ownership and relationships. 'Friends'' is a regular plural possessive, 'family's' is a singular possessive, 'children's' is an irregular plural possessive. 'Mother's', 'brother's', and 'sister's' are singular possessives.",
+                "ru": "Этот текст использует притяжательные формы, чтобы показать владение и отношения. 'Friends'' - это правильная притяжательная форма множественного числа, 'family's' - притяжательная форма единственного числа, 'children's' - неправильная притяжательная форма множественного числа. 'Mother's', 'brother's' и 'sister's' - это притяжательные формы единственного числа.",
+                "uz": "Ushbu matn egalik va munosabatlarni ko'rsatish uchun egalik shakllaridan foydalanadi. 'Friends'' to'g'ri ko'plik egaligi, 'family's' birlik egaligi, 'children's' noto'g'ri ko'plik egaligi. 'Mother's', 'brother's' va 'sister's' birlik egaliklaridir."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The local museum is holding a new exhibition about ancient history. The two ___1___ work is on display. My ___2___ thesis is also part of the exhibition. My ___3___ teacher is also a big part of the planning. The ___4___ collection is incredible, and the two ___5___ statues are masterpieces. The ___6___ artifacts are from different parts of the world. My ___7___ boss is very impressed with the two ___8___ exhibition. The ___9___ school is also a big sponsor. The two ___10___ projects are a highlight.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "artist's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "museum's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "artists'"
+                },
+                {
+                    "blank": "6",
+                    "answer": "museum's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "artists'"
+                },
+                {
+                    "blank": "9",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "students'"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses possessive forms to show ownership and relationships. 'Artist's' and 'friend's' are singular possessives. 'Artists'' and 'students'' are regular plural possessives. 'Museum's' is a singular possessive.",
+                "ru": "Этот текст использует притяжательные формы, чтобы показать владение и отношения. 'Artist's' и 'friend's' - это притяжательные формы единственного числа. 'Artists'' и 'students'' - правильные притяжательные формы множественного числа. 'Museum's' - притяжательная форма единственного числа.",
+                "uz": "Ushbu matn egalik va munosabatlarni ko'rsatish uchun egalik shakllaridan foydalanadi. 'Artist's' va 'friend's' birlik egaliklari. 'Artists'' va 'students'' to'g'ri ko'plik egaliklari. 'Museum's' birlik egaligidir."
+            }
+        }
+    ]
+}

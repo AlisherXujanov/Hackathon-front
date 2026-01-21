@@ -1,0 +1,859 @@
+{
+    "id": "C2_NUANCED_MODAL_MEANINGS_SUBTLE_MODAL_DISTINCTIONS_AND_IMPLICATIONS",
+    "title": "Nuanced modal meanings - Subtle modal distinctions and implications",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that expresses the most appropriate modal nuance for a formal academic recommendation.",
+                "ru": "Выберите предложение, которое выражает наиболее подходящий модальный оттенок для формальной академической рекомендации.",
+                "uz": "Rasmiy akademik tavsiya uchun eng mos modal ma'noni ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Students might consider exploring interdisciplinary approaches."
+                },
+                {
+                    "answer": "Students would do well to explore interdisciplinary approaches.",
+                    "correct": true
+                },
+                {
+                    "answer": "Students could possibly explore interdisciplinary approaches."
+                }
+            ],
+            "explanation": {
+                "en": "In formal academic contexts, 'would do well to' expresses a stronger, more authoritative recommendation than the tentative 'might' or the uncertain 'could possibly'.",
+                "ru": "В формальных академических контекстах 'would do well to' выражает более сильную, авторитетную рекомендацию, чем неопределённые 'might' или неуверенное 'could possibly'.",
+                "uz": "Rasmiy akademik kontekstlarda 'would do well to' noaniq 'might' yoki ishonchsiz 'could possibly'ga qaraganda kuchliroq, obro'li tavsiyani ifodalaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses epistemic necessity with the highest degree of certainty?",
+                "ru": "Какое предложение правильно выражает эпистемическую необходимость с наивысшей степенью уверенности?",
+                "uz": "Qaysi gap epistemik zaruriyatni eng yuqori ishonch darajasi bilan to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "The results should indicate a significant correlation."
+                },
+                {
+                    "answer": "The results must indicate a significant correlation.",
+                    "correct": true
+                },
+                {
+                    "answer": "The results ought to indicate a significant correlation."
+                }
+            ],
+            "explanation": {
+                "en": "Epistemic 'must' expresses the strongest logical deduction or certainty, while 'should' and 'ought to' express expectation with less certainty.",
+                "ru": "Эпистемическое 'must' выражает наиболее сильный логический вывод или уверенность, в то время как 'should' и 'ought to' выражают ожидание с меньшей уверенностью.",
+                "uz": "Epistemik 'must' eng kuchli mantiqiy xulosa yoki ishonchni ifodalaydi, 'should' va 'ought to' esa kamroq ishonch bilan kutishni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence that demonstrates the most nuanced expression of polite disagreement in academic discourse.",
+                "ru": "Выберите предложение, которое демонстрирует наиболее тонкое выражение вежливого несогласия в академическом дискурсе.",
+                "uz": "Akademik nutqda muloyim norozilikni eng nozik ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This interpretation may not fully account for the complexity of the data."
+                },
+                {
+                    "answer": "This interpretation might not entirely capture the nuances inherent in the data.",
+                    "correct": true
+                },
+                {
+                    "answer": "This interpretation could be somewhat problematic given the data."
+                }
+            ],
+            "explanation": {
+                "en": "'Might not entirely capture the nuances' uses epistemic modality with hedging language to express disagreement diplomatically while acknowledging complexity.",
+                "ru": "'Might not entirely capture the nuances' использует эпистемическую модальность с языком хеджирования для дипломатичного выражения несогласия с признанием сложности.",
+                "uz": "'Might not entirely capture the nuances' murakkablikni tan olgan holda norozilikni diplomatik tarzda ifodalash uchun epistemik modallik bilan hedging tilini ishlatadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which modal expression best conveys hypothetical necessity in counterfactual reasoning?",
+                "ru": "Какое модальное выражение лучше всего передаёт гипотетическую необходимость в контрфактических рассуждениях?",
+                "uz": "Qaysi modal ifoda kontrafaktual mulohazalarda faraziy zaruriyatni eng yaxshi etkazadi?"
+            },
+            "options": [
+                {
+                    "answer": "If the conditions were different, we should have proceeded differently."
+                },
+                {
+                    "answer": "If the conditions were different, we would have had to proceed differently.",
+                    "correct": true
+                },
+                {
+                    "answer": "If the conditions were different, we might have proceeded differently."
+                }
+            ],
+            "explanation": {
+                "en": "'Would have had to' expresses hypothetical necessity in past counterfactual contexts, while 'should have' suggests advisability and 'might have' indicates possibility.",
+                "ru": "'Would have had to' выражает гипотетическую необходимость в прошлых контрфактических контекстах, в то время как 'should have' предполагает желательность, а 'might have' указывает на возможность.",
+                "uz": "'Would have had to' o'tmishdagi kontrafaktual kontekstlarda faraziy zaruriyatni ifodalaydi, 'should have' ma'qullikni, 'might have' esa imkoniyatni bildiradi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that most appropriately expresses deontic obligation with institutional authority.",
+                "ru": "Выберите предложение, которое наиболее уместно выражает деонтическую обязанность с институциональной властью.",
+                "uz": "Institutsional vakolatga ega deontic majburiyatni eng mos tarzda ifodalovchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "All candidates should submit their applications by the deadline."
+                },
+                {
+                    "answer": "All candidates are required to submit their applications by the deadline.",
+                    "correct": true
+                },
+                {
+                    "answer": "All candidates ought to submit their applications by the deadline."
+                }
+            ],
+            "explanation": {
+                "en": "'Are required to' expresses explicit institutional obligation with clear authority, while 'should' and 'ought to' express recommendation or moral obligation.",
+                "ru": "'Are required to' выражает явную институциональную обязанность с ясной властью, в то время как 'should' и 'ought to' выражают рекомендацию или моральную обязанность.",
+                "uz": "'Are required to' aniq vakolat bilan ochiq institutsional majburiyatni ifodalaydi, 'should' va 'ought to' esa tavsiya yoki axloqiy majburiyatni bildiradi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the most sophisticated use of modal layering for expressing uncertainty about past events?",
+                "ru": "Какое предложение демонстрирует наиболее изощрённое использование модального наслоения для выражения неопределённости о прошлых событиях?",
+                "uz": "Qaysi gap o'tmish voqealar haqidagi noaniqlikni ifodalash uchun modal qatlamlardan eng murakkab foydalanishni namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "He might have been able to complete the project on time."
+                },
+                {
+                    "answer": "He may well have been capable of completing the project on time.",
+                    "correct": true
+                },
+                {
+                    "answer": "He could have possibly finished the project on time."
+                }
+            ],
+            "explanation": {
+                "en": "'May well have been capable of' layers epistemic possibility with intensification and sophisticated lexical choice to express nuanced uncertainty about past ability.",
+                "ru": "'May well have been capable of' сочетает эпистемическую возможность с усилением и изощрённым лексическим выбором для выражения тонкой неопределённости о прошлой способности.",
+                "uz": "'May well have been capable of' o'tmishdagi qobiliyat haqidagi nozik noaniqlikni ifodalash uchun epistemik imkoniyatni kuchaytirish va murakkab leksik tanlov bilan birlashtiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the most appropriate modal expression for conveying reluctant permission in a professional context.",
+                "ru": "Выберите наиболее подходящее модальное выражение для передачи неохотного разрешения в профессиональном контексте.",
+                "uz": "Professional kontekstda istaksiz ruxsatni etkazish uchun eng mos modal ifodani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You can submit the report late if absolutely necessary."
+                },
+                {
+                    "answer": "You may submit the report late, though this is not ideal.",
+                    "correct": true
+                },
+                {
+                    "answer": "You might be able to submit the report late under certain circumstances."
+                }
+            ],
+            "explanation": {
+                "en": "'May' with the qualifying clause 'though this is not ideal' formally grants permission while expressing reservation, unlike 'can' (neutral) or 'might' (uncertain).",
+                "ru": "'May' с оговоркой 'though this is not ideal' формально даёт разрешение, выражая при этом оговорки, в отличие от 'can' (нейтральное) или 'might' (неопределённое).",
+                "uz": "'May' 'though this is not ideal' shartilar bilan rasmiy ravishda ruxsat beradi va ayni paytda ikkilanishni ifodalaydi, 'can' (neytral) yoki 'might' (noaniq)dan farqli ravishda."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence best exemplifies the use of modality to express speculative reasoning in academic writing?",
+                "ru": "Какое предложение лучше всего иллюстрирует использование модальности для выражения спекулятивных рассуждений в академическом письме?",
+                "uz": "Qaysi gap akademik yozuvda spekulyativ mulohazalarni ifodalash uchun modallikdan foydalanishni eng yaxshi misol qilib ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "These findings might suggest a correlation between the variables."
+                },
+                {
+                    "answer": "These findings would seem to suggest a tentative correlation between the variables.",
+                    "correct": true
+                },
+                {
+                    "answer": "These findings could indicate some correlation between the variables."
+                }
+            ],
+            "explanation": {
+                "en": "'Would seem to suggest' with 'tentative' creates layered epistemic hedging appropriate for cautious academic speculation, more nuanced than simple 'might' or 'could'.",
+                "ru": "'Would seem to suggest' с 'tentative' создаёт многослойное эпистемическое хеджирование, подходящее для осторожных академических спекуляций, более тонкое, чем простые 'might' или 'could'.",
+                "uz": "'Would seem to suggest' 'tentative' bilan ehtiyotkor akademik spekulation uchun mos keladigan qatlamli epistemik hedgingni yaratadi, oddiy 'might' yoki 'could'dan ko'ra nozikroq."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the modal construction that most effectively expresses conditional necessity with temporal specificity.",
+                "ru": "Выберите модальную конструкцию, которая наиболее эффективно выражает условную необходимость с временной спецификой.",
+                "uz": "Vaqt aniqligiga ega shartli zaruriyatni eng samarali ifodalovchi modal konstruksiyani tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Should the deadline approach, we must expedite the process."
+                },
+                {
+                    "answer": "Were the deadline to approach, we would need to expedite the process.",
+                    "correct": true
+                },
+                {
+                    "answer": "If the deadline approaches, we should expedite the process."
+                }
+            ],
+            "explanation": {
+                "en": "The subjunctive 'were...to' construction with 'would need to' expresses formal conditional necessity with sophisticated temporal framing, more precise than 'should' or simple conditional.",
+                "ru": "Сослагательная конструкция 'were...to' с 'would need to' выражает формальную условную необходимость с изощрённым временным обрамлением, более точно, чем 'should' или простое условное.",
+                "uz": "Subjunctive 'were...to' konstruksiyasi 'would need to' bilan murakkab vaqtinchalik ramka bilan rasmiy shartli zaruriyatni ifodalaydi, 'should' yoki oddiy shartli gapdan aniqroq."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the most nuanced expression of epistemic possibility with evidential support?",
+                "ru": "Какое предложение демонстрирует наиболее тонкое выражение эпистемической возможности с доказательной поддержкой?",
+                "uz": "Qaysi gap dalil yordami bilan epistemik imkoniyatning eng nozik ifodasini namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "The data might indicate a trend."
+                },
+                {
+                    "answer": "The data would appear to indicate a discernible trend.",
+                    "correct": true
+                },
+                {
+                    "answer": "The data could suggest a possible trend."
+                }
+            ],
+            "explanation": {
+                "en": "'Would appear to indicate' with 'discernible' provides evidential modality with precise qualification, showing cautious but informed assessment rather than simple possibility.",
+                "ru": "'Would appear to indicate' с 'discernible' обеспечивает доказательную модальность с точной квалификацией, показывая осторожную, но информированную оценку, а не простую возможность.",
+                "uz": "'Would appear to indicate' 'discernible' bilan aniq malaka bilan daliliy modallikni ta'minlaydi, oddiy imkoniyat emas, balki ehtiyotkor, ammo xabardor baholashni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the appropriate modal for expressing tentative academic conclusion: The research findings ___ to confirm the initial hypothesis.",
+                "ru": "Дополните предложение подходящим модальным словом для выражения предварительного академического заключения: The research findings ___ to confirm the initial hypothesis.",
+                "uz": "Gapni taxminiy akademik xulosa uchun mos modal so'z bilan to'ldiring: The research findings ___ to confirm the initial hypothesis."
+            },
+            "options": [
+                {
+                    "answer": "would seem/appear/tend",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Academic writing requires hedging when drawing conclusions; 'would seem/appear/tend' express tentative inference appropriate for scholarly discourse.",
+                "ru": "Академическое письмо требует хеджирования при формулировке выводов; 'would seem/appear/tend' выражают предварительный вывод, подходящий для научного дискурса.",
+                "uz": "Akademik yozuv xulosa chiqarishda hedgingni talab qiladi; 'would seem/appear/tend' ilmiy nutq uchun mos keladigan taxminiy xulosani ifodalaydi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the modal that expresses the strongest epistemic certainty about a logical deduction: Given the evidence, the conclusion ___ be correct.",
+                "ru": "Заполните пропуск модальным словом, которое выражает наивысшую эпистемическую уверенность в логическом выводе: Given the evidence, the conclusion ___ be correct.",
+                "uz": "Bo'shliqni mantiqiy xulosa haqida eng kuchli epistemik ishonchni ifodalovchi modal so'z bilan to'ldiring: Given the evidence, the conclusion ___ be correct."
+            },
+            "options": [
+                {
+                    "answer": "must",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Epistemic 'must' expresses logical necessity and the highest degree of certainty based on evidence, stronger than 'should', 'would', or 'might'.",
+                "ru": "Эпистемическое 'must' выражает логическую необходимость и наивысшую степень уверенности на основе доказательств, сильнее чем 'should', 'would' или 'might'.",
+                "uz": "Epistemik 'must' mantiqiy zaruriyat va dalillar asosida eng yuqori ishonch darajasini ifodalaydi, 'should', 'would' yoki 'might'dan kuchliroq."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal construction for expressing polite but firm institutional requirement: All participants ___ provide documentation before the deadline.",
+                "ru": "Дополните модальной конструкцией для выражения вежливого, но твёрдого институционального требования: All participants ___ provide documentation before the deadline.",
+                "uz": "Muloyim, ammo qat'iy institutsional talabni ifodalash uchun modal konstruksiya bilan to'ldiring: All participants ___ provide documentation before the deadline."
+            },
+            "options": [
+                {
+                    "answer": "are required to/must",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Are required to' or 'must' express deontic obligation with institutional authority, conveying non-negotiable requirements in formal contexts.",
+                "ru": "'Are required to' или 'must' выражают деонтическую обязанность с институциональной властью, передавая безоговорочные требования в формальных контекстах.",
+                "uz": "'Are required to' yoki 'must' institutsional vakolat bilan deontic majburiyatni ifodalaydi, rasmiy kontekstlarda muhokama qilib bo'lmaydigan talablarni etkazadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal for expressing hypothetical ability in past counterfactual context: If the resources had been available, we ___ completed the project successfully.",
+                "ru": "Заполните модальным словом для выражения гипотетической способности в прошлом контрфактическом контексте: If the resources had been available, we ___ completed the project successfully.",
+                "uz": "O'tmishdagi kontrafaktual kontekstda faraziy qobiliyatni ifodalash uchun modal so'z bilan to'ldiring: If the resources had been available, we ___ completed the project successfully."
+            },
+            "options": [
+                {
+                    "answer": "could have/would have been able to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Could have' or 'would have been able to' express hypothetical past ability in counterfactual conditions, showing unrealized potential.",
+                "ru": "'Could have' или 'would have been able to' выражают гипотетическую прошлую способность в контрфактических условиях, показывая нереализованный потенциал.",
+                "uz": "'Could have' yoki 'would have been able to' kontrafaktual sharoitlarda faraziy o'tmish qobiliyatini ifodalaydi, amalga oshmaganpotentsialni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal expression for academic hedging when presenting contrary evidence: This interpretation ___ not fully account for the anomalous data.",
+                "ru": "Дополните модальным выражением для академического хеджирования при представлении противоречивых доказательств: This interpretation ___ not fully account for the anomalous data.",
+                "uz": "Qarama-qarshi dalillarni taqdim qilishda akademik hedging uchun modal ifoda bilan to'ldiring: This interpretation ___ not fully account for the anomalous data."
+            },
+            "options": [
+                {
+                    "answer": "may/might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May' or 'might' with negative polarity provide appropriate hedging for diplomatic disagreement in academic discourse, softening criticism.",
+                "ru": "'May' или 'might' с отрицательной полярностью обеспечивают подходящее хеджирование для дипломатичного несогласия в академическом дискурсе, смягчая критику.",
+                "uz": "'May' yoki 'might' salbiy qutb bilan akademik nutqda diplomatik norozilik uchun mos hedgingni ta'minlaydi, tanqidni yumshatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the modal for expressing reluctant permission with reservation: You ___ extend the deadline, though this sets a concerning precedent.",
+                "ru": "Заполните модальным словом для выражения неохотного разрешения с оговоркой: You ___ extend the deadline, though this sets a concerning precedent.",
+                "uz": "Shartlar bilan istaksiz ruxsatni ifodalash uchun modal so'z bilan to'ldiring: You ___ extend the deadline, though this sets a concerning precedent."
+            },
+            "options": [
+                {
+                    "answer": "may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May' formally grants permission while the qualifying clause expresses reservation, creating appropriate reluctant authorization in professional contexts.",
+                "ru": "'May' формально даёт разрешение, в то время как уточняющая фраза выражает оговорки, создавая подходящую неохотную авторизацию в профессиональных контекстах.",
+                "uz": "'May' rasmiy ravishda ruxsat beradi, aniqlovchi gap esa shubhani ifodalaydi, professional kontekstlarda mos istaksiz avtorizatsiyani yaratadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal construction for expressing speculative causation in research: The temperature fluctuations ___ have contributed to the unexpected results.",
+                "ru": "Дополните модальной конструкцией для выражения спекулятивной причинности в исследованиях: The temperature fluctuations ___ have contributed to the unexpected results.",
+                "uz": "Tadqiqotda spekulyativ sababiyatni ifodalash uchun modal konstruksiya bilan to'ldiring: The temperature fluctuations ___ have contributed to the unexpected results."
+            },
+            "options": [
+                {
+                    "answer": "may well/might well",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May well' or 'might well' express epistemic possibility with strengthening adverb, appropriate for cautious causal speculation in research contexts.",
+                "ru": "'May well' или 'might well' выражают эпистемическую возможность с усиливающим наречием, подходящим для осторожной причинной спекуляции в исследовательских контекстах.",
+                "uz": "'May well' yoki 'might well' kuchaytiruvchi ravish bilan epistemik imkoniyatni ifodalaydi, tadqiqot kontekstida ehtiyotkor sababiy spekulation uchun mos."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal for expressing strong recommendation with authority: Researchers ___ consider the ethical implications before proceeding.",
+                "ru": "Заполните модальным словом для выражения сильной рекомендации с авторитетом: Researchers ___ consider the ethical implications before proceeding.",
+                "uz": "Vakolat bilan kuchli tavsiyani ifodalash uchun modal so'z bilan to'ldiring: Researchers ___ consider the ethical implications before proceeding."
+            },
+            "options": [
+                {
+                    "answer": "should/must",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Should' or 'must' express strong deontic recommendation with moral or professional authority, appropriate for ethical guidelines in research.",
+                "ru": "'Should' или 'must' выражают сильную деонтическую рекомендацию с моральным или профессиональным авторитетом, подходящую для этических руководящих принципов в исследованиях.",
+                "uz": "'Should' yoki 'must' axloqiy yoki professional vakolat bilan kuchli deontic tavsiyani ifodalaydi, tadqiqotda axloqiy yo'riqnomalar uchun mos."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the modal for expressing epistemic necessity based on logical inference: Given these parameters, the system ___ fail under such conditions.",
+                "ru": "Дополните модальным словом для выражения эпистемической необходимости на основе логического вывода: Given these parameters, the system ___ fail under such conditions.",
+                "uz": "Mantiqiy xulosa asosida epistemik zaruriyatni ifodalash uchun modal so'z bilan to'ldiring: Given these parameters, the system ___ fail under such conditions."
+            },
+            "options": [
+                {
+                    "answer": "must/will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Must' or 'will' express logical necessity based on evidence and parameters, showing inevitable consequence rather than mere possibility.",
+                "ru": "'Must' или 'will' выражают логическую необходимость на основе доказательств и параметров, показывая неизбежное следствие, а не просто возможность.",
+                "uz": "'Must' yoki 'will' dalillar va parametrlar asosida mantiqiy zaruriyatni ifodalaydi, oddiy imkoniyat emas, balki muqarrar oqibatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in with the modal construction for expressing conditional obligation in formal contexts: ___ the proposal be approved, all stakeholders must comply with the new regulations.",
+                "ru": "Заполните модальной конструкцией для выражения условной обязанности в формальных контекстах: ___ the proposal be approved, all stakeholders must comply with the new regulations.",
+                "uz": "Rasmiy kontekstlarda shartli majburiyatni ifodalash uchun modal konstruksiya bilan to'ldiring: ___ the proposal be approved, all stakeholders must comply with the new regulations."
+            },
+            "options": [
+                {
+                    "answer": "Should/Were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Should' or 'Were' in conditional inversion express formal conditional obligation, creating elevated register appropriate for legal or institutional contexts.",
+                "ru": "'Should' или 'Were' в условной инверсии выражают формальную условную обязанность, создавая возвышенный регистр, подходящий для правовых или институциональных контекстов.",
+                "uz": "Shartli inversiyada 'Should' yoki 'Were' rasmiy shartli majburiyatni ifodalaydi, huquqiy yoki institutsional kontekstlar uchun mos keladigan yuqori registrni yaratadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal expressions",
+                "ru": "Заполните пропуски правильными модальными выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal ifodalar bilan to'ldiring"
+            },
+            "text": "The academic committee's recent deliberations reveal the complex nature of institutional decision-making processes. When evaluating research proposals, committee members ___1___ consider not only the scientific merit but also the ethical implications of each study. The chair noted that applicants ___2___ demonstrate a thorough understanding of methodological requirements, as inadequate preparation ___3___ lead to project failure. Furthermore, ___4___ a proposal receive preliminary approval, the researchers ___5___ still undergo rigorous peer review before final authorization. The committee's guidelines stipulate that all participants ___6___ provide comprehensive documentation, though exceptional circumstances ___7___ warrant consideration for deadline extensions. During yesterday's session, one member observed that the current economic climate ___8___ have influenced recent funding decisions, though this remains speculative. The committee acknowledges that their recommendations ___9___ not always align with individual preferences, yet they maintain that institutional standards ___10___ be upheld consistently. Looking forward, the committee ___11___ implement new evaluation criteria that ___12___ better reflect contemporary research priorities. However, these changes ___13___ require extensive consultation with stakeholders before implementation can proceed effectively.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "should"
+                },
+                {
+                    "blank": "3",
+                    "answer": "may"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should"
+                },
+                {
+                    "blank": "5",
+                    "answer": "must"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are required to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "may"
+                },
+                {
+                    "blank": "8",
+                    "answer": "might"
+                },
+                {
+                    "blank": "9",
+                    "answer": "may"
+                },
+                {
+                    "blank": "10",
+                    "answer": "must"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will"
+                },
+                {
+                    "blank": "12",
+                    "answer": "would"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates various modal functions: epistemic necessity (must), recommendation (should), possibility (may/might), institutional obligation (are required to), conditional necessity (would), and future certainty (will).",
+                "ru": "Это упражнение демонстрирует различные функции модальных глаголов: эпистемическую необходимость (must), рекомендацию (should), возможность (may/might), институциональную обязанность (are required to), условную необходимость (would) и будущую определённость (will).",
+                "uz": "Ushbu mashq turli modal funksiyalarni namoyish etadi: epistemik zaruriyat (must), tavsiya (should), imkoniyat (may/might), institutsional majburiyat (are required to), shartli zaruriyat (would) va kelajak aniqligi (will)."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal expressions",
+                "ru": "Заполните пропуски правильными модальными выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal ifodalar bilan to'ldiring"
+            },
+            "text": "Contemporary climate research presents numerous methodological challenges that ___1___ significantly impact scientific conclusions. Researchers working in this field ___2___ navigate complex data sets while maintaining rigorous analytical standards. The latest findings ___3___ to suggest that previous models ___4___ have underestimated the rate of environmental change, though this interpretation ___5___ not fully account for all variables. Lead scientist Dr. Martinez explains that the team ___6___ initially ___7___ to complete the analysis by December, but unexpected complications ___8___ force them to extend the timeline. The research methodology ___9___ be refined to address these challenges, as current approaches ___10___ prove insufficient for capturing the full complexity of climate dynamics. International collaboration ___11___ become essential, given that individual institutions ___12___ not possess all necessary resources independently. Critics argue that such ambitious projects ___13___ require more substantial funding, though supporters contend that the urgency of climate issues ___14___ justify immediate action regardless of budgetary constraints. The implications of this research ___15___ extend far beyond academic circles, potentially influencing policy decisions that ___16___ affect millions of people worldwide.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "may"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would appear"
+                },
+                {
+                    "blank": "4",
+                    "answer": "may"
+                },
+                {
+                    "blank": "5",
+                    "answer": "may"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had"
+                },
+                {
+                    "blank": "7",
+                    "answer": "hoped"
+                },
+                {
+                    "blank": "8",
+                    "answer": "may"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will need to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "may"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must"
+                },
+                {
+                    "blank": "12",
+                    "answer": "may"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "should"
+                },
+                {
+                    "blank": "15",
+                    "answer": "may well"
+                },
+                {
+                    "blank": "16",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This passage explores modal hedging in scientific discourse, including speculative reasoning (would appear), epistemic possibility (may), necessity (must), future obligation (will need to), and conditional arguments (would/should/could).",
+                "ru": "Этот отрывок исследует модальное хеджирование в научном дискурсе, включая спекулятивные рассуждения (would appear), эпистемическую возможность (may), необходимость (must), будущую обязанность (will need to) и условные аргументы (would/should/could).",
+                "uz": "Ushbu parcha ilmiy nutqda modal hedgingni o'rganadi, jumladan spekulyativ mulohaza (would appear), epistemik imkoniyat (may), zaruriyat (must), kelajakdagi majburiyat (will need to) va shartli argumentlar (would/should/could)."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal expressions",
+                "ru": "Заполните пропуски правильными модальными выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal ifodalar bilan to'ldiring"
+            },
+            "text": "The university's new assessment policy has generated considerable debate among faculty members who ___1___ now adapt their teaching methodologies accordingly. Department heads argue that professors ___2___ have been consulted more extensively before these changes were implemented, as the current transition ___3___ prove challenging for both educators and students. The policy document states that all instructors ___4___ integrate digital assessment tools, though some flexibility ___5___ be granted for courses with specialized requirements. Critics suggest that the administration ___6___ not have fully considered the practical implications of such rapid implementation. Professor Chen observes that students ___7___ initially struggle with the new format, but adaptation ___8___ occur naturally over time. The policy review committee acknowledges that certain aspects ___9___ require modification, particularly regarding accessibility provisions that ___10___ better serve students with diverse learning needs. Training sessions ___11___ be mandatory for all teaching staff, as inadequate preparation ___12___ compromise educational outcomes. Looking ahead, the university ___13___ monitor implementation progress closely, and adjustments ___14___ be made where necessary. Faculty representatives maintain that meaningful change ___15___ only emerge through collaborative dialogue between administration and teaching staff, as unilateral decisions ___16___ undermine the collegial atmosphere essential for academic excellence.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "should"
+                },
+                {
+                    "blank": "3",
+                    "answer": "may"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are required to"
+                },
+                {
+                    "blank": "5",
+                    "answer": "may"
+                },
+                {
+                    "blank": "6",
+                    "answer": "may"
+                },
+                {
+                    "blank": "7",
+                    "answer": "may"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should"
+                },
+                {
+                    "blank": "9",
+                    "answer": "may"
+                },
+                {
+                    "blank": "10",
+                    "answer": "would"
+                },
+                {
+                    "blank": "11",
+                    "answer": "should"
+                },
+                {
+                    "blank": "12",
+                    "answer": "could"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will need to"
+                },
+                {
+                    "blank": "14",
+                    "answer": "may"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can"
+                },
+                {
+                    "blank": "16",
+                    "answer": "could"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on institutional contexts, featuring deontic modality (must, should, are required to), epistemic possibility and speculation (may, could), conditional recommendations (would), and ability (can).",
+                "ru": "Это упражнение сосредоточено на институциональных контекстах, включая деонтическую модальность (must, should, are required to), эпистемическую возможность и спекуляцию (may, could), условные рекомендации (would) и способность (can).",
+                "uz": "Ushbu mashq institutsional kontekstlarga qaratilgan bo'lib, deontic modallik (must, should, are required to), epistemik imkoniyat va spekulation (may, could), shartli tavsiyalar (would) va qobiliyatni (can) o'z ichiga oladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal expressions",
+                "ru": "Заполните пропуски правильными модальными выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal ifodalar bilan to'ldiring"
+            },
+            "text": "The pharmaceutical industry's approach to drug development has evolved dramatically, as researchers ___1___ now consider multiple variables that previous generations ___2___ not have anticipated. Modern clinical trials ___3___ incorporate more diverse participant populations, ensuring that results ___4___ be more broadly applicable across different demographic groups. Regulatory agencies maintain that companies ___5___ demonstrate comprehensive safety profiles before any medication ___6___ receive market approval. The complexity of contemporary drug interactions ___7___ to require sophisticated analytical approaches that ___8___ account for individual patient variations. Dr. Williams suggests that personalized medicine ___9___ represent the future of pharmaceutical treatment, though implementation ___10___ face significant technical and economic obstacles. Ethics committees emphasize that researchers ___11___ never compromise patient safety, even when promising preliminary results ___12___ indicate potential breakthrough discoveries. The recent controversy over accelerated approval processes ___13___ have highlighted the tension between innovation urgency and methodological rigor. Industry specialists argue that current regulatory frameworks ___14___ be updated to reflect modern scientific capabilities, while patient advocacy groups contend that safety standards ___15___ remain paramount regardless of commercial pressures. Future developments ___16___ depend largely on how effectively these competing interests can be balanced within existing institutional structures.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "could"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will"
+                },
+                {
+                    "blank": "5",
+                    "answer": "must"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would appear"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "may"
+                },
+                {
+                    "blank": "10",
+                    "answer": "may"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "may"
+                },
+                {
+                    "blank": "14",
+                    "answer": "should"
+                },
+                {
+                    "blank": "15",
+                    "answer": "must"
+                },
+                {
+                    "blank": "16",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This passage examines modality in professional and regulatory contexts, featuring strong obligation (must), capability (can), expectation (should), epistemic assessment (would appear), speculation (may/might), and future certainty (will).",
+                "ru": "Этот отрывок исследует модальность в профессиональных и регулятивных контекстах, включая сильную обязанность (must), возможность (can), ожидание (should), эпистемическую оценку (would appear), спекуляцию (may/might) и будущую определённость (will).",
+                "uz": "Ushbu parcha professional va tartibga solish kontekstlarida modallikni tekshiradi, kuchli majburiyat (must), qobiliyat (can), kutish (should), epistemik baholash (would appear), spekulation (may/might) va kelajak aniqligi (will)ni o'z ichiga oladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct modal expressions",
+                "ru": "Заполните пропуски правильными модальными выражениями",
+                "uz": "Bo'shliqlarni to'g'ri modal ifodalar bilan to'ldiring"
+            },
+            "text": "International diplomacy requires nuanced communication strategies that ___1___ accommodate diverse cultural perspectives while maintaining institutional objectives. Career diplomats ___2___ develop sophisticated linguistic skills, as miscommunication ___3___ have severe consequences for bilateral relationships. Recent negotiations demonstrate that successful outcomes ___4___ be achieved when all parties ___5___ engage constructively, though reaching consensus ___6___ prove challenging given competing national interests. The ambassador noted that cultural misunderstandings ___7___ often arise from assumptions that ___8___ seem reasonable within one's own context but ___9___ appear inappropriate to international partners. Protocol guidelines specify that representatives ___10___ observe formal diplomatic etiquette, as violations ___11___ damage institutional credibility irreparably. Historical analysis suggests that major breakthrough agreements ___12___ have emerged from informal discussions that ___13___ initially have seemed unlikely to produce substantive results. Contemporary diplomatic challenges ___14___ require innovative approaches that ___15___ bridge traditional practices with modern technological capabilities. The future of international relations ___16___ depend significantly on whether diplomatic institutions can adapt effectively to rapidly changing global circumstances while preserving the fundamental principles that have guided successful negotiations throughout history.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "could"
+                },
+                {
+                    "blank": "4",
+                    "answer": "can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are willing to"
+                },
+                {
+                    "blank": "6",
+                    "answer": "may"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "may"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "must"
+                },
+                {
+                    "blank": "11",
+                    "answer": "could"
+                },
+                {
+                    "blank": "12",
+                    "answer": "may"
+                },
+                {
+                    "blank": "13",
+                    "answer": "might"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can"
+                },
+                {
+                    "blank": "16",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This diplomatic context showcases various modal functions: ability and possibility (can), necessity (must), potential consequences (could), willingness (are willing to), epistemic possibility (may/might), and future certainty (will).",
+                "ru": "Этот дипломатический контекст демонстрирует различные модальные функции: способность и возможность (can), необходимость (must), потенциальные последствия (could), готовность (are willing to), эпистемическую возможность (may/might) и будущую определённость (will).",
+                "uz": "Ushbu diplomatik kontekst turli modal funksiyalarni namoyish etadi: qobiliyat va imkoniyat (can), zaruriyat (must), potentsial oqibatlar (could), tayyorgarlik (are willing to), epistemik imkoniyat (may/might) va kelajak aniqligi (will)."
+            }
+        }
+    ]
+}

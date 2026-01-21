@@ -1,0 +1,794 @@
+{
+    "id": "A1_ADDITIONAL_PREPOSITIONS_COMMON_ONES_BEYOND_IN_ON_AT",
+    "title": "Additional Prepositions",
+    "items": [
+      {
+        "id": "mc1",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The book is between the chair.",
+            "correct": false
+          },
+          {
+            "answer": "The book is in the table.",
+            "correct": false
+          },
+          {
+            "answer": "The book is on the table.",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'on' correctly describes the position of the book relative to the table. 'Between' requires two or more items, and 'on' would mean the book is on top of the table.",
+          "ru": "Предлог 'on' правильно описывает положение книги относительно стола. 'Between' требует два или более предмета, а 'on' означал бы, что книга находится на столе.",
+          "uz": "'on' predlogi kitobning stolga nisbatan o'rnini to'g'ri ifodalaydi. 'Between' ikkita yoki undan ortiq narsani talab qiladi, 'on' esa kitob stol ustida degan ma'noni anglatadi."
+        }
+      },
+      {
+        "id": "mc2",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The cat is next to the box.",
+            "correct": true
+          },
+          {
+            "answer": "The cat is next from the box.",
+            "correct": false
+          },
+          {
+            "answer": "The cat is next on the box.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The correct prepositional phrase is 'next to' to indicate a close position. 'Next from' and 'next on' are not standard English phrases.",
+          "ru": "Правильное предложное словосочетание — 'next to', которое указывает на близкое расположение. 'Next from' и 'next on' не являются стандартными английскими фразами.",
+          "uz": "To'g'ri predlogli ibora 'next to' bo'lib, yaqin joylashuvni bildiradi. 'Next from' va 'next on' standart inglizcha iboralar emas."
+        }
+      },
+      {
+        "id": "mc3",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "He walks along the river.",
+            "correct": true
+          },
+          {
+            "answer": "He walks among the river.",
+            "correct": false
+          },
+          {
+            "answer": "He walks across the river.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "'Along' is used to indicate movement in a line beside something, like a river. 'Among' is used for being surrounded by things, and 'across' means from one side to the other.",
+          "ru": "'Along' используется для обозначения движения по линии рядом с чем-либо, например, рекой. 'Among' используется для обозначения нахождения в окружении чего-либо, а 'across' означает движение от одного берега к другому.",
+          "uz": "'Along' biror narsaning yonida, masalan, daryo bo'ylab harakatni bildirish uchun ishlatiladi. 'Among' narsalar orasida bo'lishni, 'across' esa bir tomondan ikkinchi tomonga o'tishni anglatadi."
+        }
+      },
+      {
+        "id": "mc4",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The car drove on the tunnel.",
+            "correct": false
+          },
+          {
+            "answer": "The car drove into the tunnel.",
+            "correct": true
+          },
+          {
+            "answer": "The car drove along the tunnel.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'into' is used to show movement towards the inside of something. 'On' is for a surface, and 'along' is for movement beside something.",
+          "ru": "Предлог 'into' используется для обозначения движения внутрь чего-либо. 'On' используется для поверхности, а 'along' для движения рядом с чем-либо.",
+          "uz": "'Into' predlogi biror narsaning ichiga harakatlanishni ko'rsatish uchun ishlatiladi. 'On' yuza uchun, 'along' esa biror narsaning yonida harakatlanish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mc5",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "He is talking from his brother.",
+            "correct": false
+          },
+          {
+            "answer": "He is talking with his brother.",
+            "correct": true
+          },
+          {
+            "answer": "He is talking on his brother.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'with' is correctly used here to indicate that two people are together doing an action. 'From' indicates origin, and 'on' indicates the topic of conversation.",
+          "ru": "Предлог 'with' здесь правильно используется, чтобы указать, что два человека выполняют действие вместе. 'From' указывает на происхождение, а 'on' — на тему разговора.",
+          "uz": "Bu yerda 'with' predlogi ikki kishining birgalikda harakat qilayotganini ko'rsatish uchun to'g'ri ishlatilgan. 'From' kelib chiqishini bildiradi, 'on' esa suhbat mavzusini ko'rsatadi."
+        }
+      },
+      {
+        "id": "mc6",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The box is between the two chairs.",
+            "correct": true
+          },
+          {
+            "answer": "The box is among the two chairs.",
+            "correct": false
+          },
+          {
+            "answer": "The box is through the two chairs.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'between' is used for two specific items, in this case, the two chairs. 'Among' is used for three or more items.",
+          "ru": "Предлог 'between' используется для двух конкретных предметов, в данном случае — двух стульев. 'Among' используется для трех и более предметов.",
+          "uz": "'Between' predlogi ikki aniq narsa uchun, bu holatda esa ikkita stul uchun ishlatiladi. 'Among' uchta yoki undan ortiq narsalar uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mc7",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The gift is for you.",
+            "correct": true
+          },
+          {
+            "answer": "The gift is to you.",
+            "correct": false
+          },
+          {
+            "answer": "The gift is about you.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'for' is used to indicate the person who receives something. 'To' can indicate direction, and 'about' indicates a topic.",
+          "ru": "Предлог 'for' используется для указания человека, который что-то получает. 'To' может указывать на направление, а 'about' — на тему.",
+          "uz": "'For' predlogi biror narsani qabul qiluvchi shaxsni ko'rsatish uchun ishlatiladi. 'To' yo'nalishni, 'about' esa mavzuni bildirish uchun ishlatilishi mumkin."
+        }
+      },
+      {
+        "id": "mc8",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "The dog is running behind the ball.",
+            "correct": true
+          },
+          {
+            "answer": "The dog is running in the ball.",
+            "correct": false
+          },
+          {
+            "answer": "The dog is running from the ball.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "'Behind' correctly describes the position of the dog following the ball. 'In' is used for being inside something, and 'from' indicates origin.",
+          "ru": "'Behind' правильно описывает положение собаки, следующей за мячом. 'In' используется для обозначения нахождения внутри чего-либо, а 'from' — для указания происхождения.",
+          "uz": "'Behind' itning to'p ortidan yugurayotganini to'g'ri ifodalaydi. 'In' biror narsaning ichida bo'lishni, 'from' esa kelib chiqishini bildirish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mc9",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "I am standing near to the bus stop.",
+            "correct": false
+          },
+          {
+            "answer": "I am standing near the bus stop.",
+            "correct": true
+          },
+          {
+            "answer": "I am standing next the bus stop.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "'Near' is used to indicate a close distance without 'to'.",
+          "ru": "'Near' используется для обозначения близкого расстояния без 'to'.",
+          "uz": "'Near' 'to'siz yaqin masofani ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mc10",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "He is going to home.",
+            "correct": false
+          },
+          {
+            "answer": "He is going home.",
+            "correct": true
+          },
+          {
+            "answer": "He is going to the home.",
+            "correct": false
+          }
+        ],
+        "explanation": {
+          "en": "The word 'home' is a special case and does not require a preposition like 'to' when used with verbs of motion like 'go'.",
+          "ru": "Слово 'home' является особым случаем и не требует предлога 'to' при использовании с глаголами движения, такими как 'go'.",
+          "uz": "'Home' so'zi alohida holat bo'lib, 'go' kabi harakat fe'llari bilan ishlatilganda 'to' predlogini talab qilmaydi."
+        }
+      },
+      {
+        "id": "sa1",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The keys are ___ the bowl.",
+          "ru": "Дополните предложение: The keys are ___ the bowl.",
+          "uz": "Gapni to'ldiring: The keys are ___ the bowl."
+        },
+        "options": [
+          {
+            "answer": "in",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'in' is used to show that something is inside another object.",
+          "ru": "Предлог 'in' используется, чтобы показать, что что-то находится внутри другого предмета.",
+          "uz": "'In' predlogi biror narsaning boshqa narsaning ichida ekanligini ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa2",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The bridge goes ___ the river.",
+          "ru": "Дополните предложение: The bridge goes ___ the river.",
+          "uz": "Gapni to'ldiring: The bridge goes ___ the river."
+        },
+        "options": [
+          {
+            "answer": "over",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'over' is used to describe a position or movement above something, which is suitable for a bridge.",
+          "ru": "Предлог 'over' используется для описания положения или движения над чем-либо, что подходит для моста.",
+          "uz": "'Over' predlogi biror narsaning ustidagi holat yoki harakatni tasvirlash uchun ishlatiladi, bu ko'prik uchun mos keladi."
+        }
+      },
+      {
+        "id": "sa3",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: We walk ___ the park to get to the store.",
+          "ru": "Дополните предложение: We walk ___ the park to get to the store.",
+          "uz": "Gapni to'ldiring: We walk ___ the park to get to the store."
+        },
+        "options": [
+          {
+            "answer": "through",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'through' is used to show movement from one side of a space or area to the other side.",
+          "ru": "Предлог 'through' используется для обозначения движения от одной стороны пространства или области к другой.",
+          "uz": "'Through' predlogi biror joyning bir tomonidan ikkinchi tomoniga harakatni ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa4",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The cat jumped ___ the chair.",
+          "ru": "Дополните предложение: The cat jumped ___ the chair.",
+          "uz": "Gapni to'ldiring: The cat jumped ___ the chair."
+        },
+        "options": [
+          {
+            "answer": "onto",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'onto' is used to show movement towards a surface. 'On' shows a stationary position on the surface.",
+          "ru": "Предлог 'onto' используется, чтобы показать движение на поверхность. 'On' показывает стационарное положение на поверхности.",
+          "uz": "'Onto' predlogi yuzaga qarab harakatni ko'rsatish uchun ishlatiladi. 'On' esa yuzadagi turgan holatni bildiradi."
+        }
+      },
+      {
+        "id": "sa5",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The dog ran ___ the house.",
+          "ru": "Дополните предложение: The dog ran ___ the house.",
+          "uz": "Gapni to'ldiring: The dog ran ___ the house."
+        },
+        "options": [
+          {
+            "answer": "around",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'around' is used to describe movement in a circle or in a way that encircles something.",
+          "ru": "Предлог 'around' используется для описания движения по кругу или вокруг чего-либо.",
+          "uz": "'Around' predlogi aylanma yoki biror narsani o'rab harakatlanishni tasvirlash uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa6",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The boy is sitting ___ his mother.",
+          "ru": "Дополните предложение: The boy is sitting ___ his mother.",
+          "uz": "Gapni to'ldiring: The boy is sitting ___ his mother."
+        },
+        "options": [
+          {
+            "answer": "beside/next to/at the side of",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'Beside' means 'next to' or 'at the side of', which correctly describes the boy's position.",
+          "ru": "'Beside' означает 'рядом' или 'сбоку от', что правильно описывает положение мальчика.",
+          "uz": "'Beside' 'yonida' yoki 'biror narsaning yonida' degan ma'noni anglatadi, bu bolaning holatini to'g'ri ifodalaydi."
+        }
+      },
+      {
+        "id": "sa7",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: I am going ___ the store.",
+          "ru": "Дополните предложение: I am going ___ the store.",
+          "uz": "Gapni to'ldiring: I am going ___ the store."
+        },
+        "options": [
+          {
+            "answer": "to",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The preposition 'to' is used to indicate direction or a destination.",
+          "ru": "Предлог 'to' используется для обозначения направления или места назначения.",
+          "uz": "'To' predlogi yo'nalish yoki manzilni ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa8",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: He walked ___ the door and into the room.",
+          "ru": "Дополните предложение: He walked ___ the door and into the room.",
+          "uz": "Gapni to'ldiring: He walked ___ the door and into the room."
+        },
+        "options": [
+          {
+            "answer": "through",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'Through' shows movement from one side of an opening to the other.",
+          "ru": "'Through' показывает движение с одной стороны проема на другую.",
+          "uz": "'Through' biror narsaning bir tomonidan boshqasiga harakatlanishni ko'rsatadi."
+        }
+      },
+      {
+        "id": "sa9",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: We can see the stars ___ the sky.",
+          "ru": "Дополните предложение: We can see the stars ___ the sky.",
+          "uz": "Gapni to'ldiring: We can see the stars ___ the sky."
+        },
+        "options": [
+          {
+            "answer": "in",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'In' is used to describe a general location or area, such as 'in the sky'.",
+          "ru": "'In' используется для описания общего местоположения или области, например, 'in the sky'.",
+          "uz": "'In' umimiy joy yoki hududni tasvirlash uchun ishlatiladi, masalan, 'in the sky'."
+        }
+      },
+      {
+        "id": "sa10",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: He put the book ___ the chair and the table.",
+          "ru": "Дополните предложение: He put the book ___ the chair and the table.",
+          "uz": "Gapni to'ldiring: He put the book ___ the chair and the table."
+        },
+        "options": [
+          {
+            "answer": "between",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'Between' is used to describe a position located in the space separating two objects.",
+          "ru": "'Between' используется для описания положения, находящегося в пространстве, разделяющем два объекта.",
+          "uz": "'Between' ikkita narsani ajratib turuvchi bo'shliqda joylashgan o'rinni tasvirlash uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf1",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "My friend, Tom, is planning a trip to the mountains. He wants to go hiking ___1___ the trails and camp ___2___ the trees. He will take his dog, Max, ___3___ him. Max loves to run ___4___ the open fields. Tom will put his tent ___5___ a big rock and a tall tree. They will sit ___6___ the campfire at night and look ___7___ the stars. They will be very far ___8___ the city. The mountains are very high, and the wind blows ___9___ the tops of the peaks. He has a map to go ___10___ the many paths. It is a long journey ___11___ his home. Tom thinks it is a good idea to bring extra food ___12___ them. The mountains are wonderful, and there is a beautiful view ___13___ the top. They will put their bags ___14___ the tent. He is very excited ___15___ this trip.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "along"
+          },
+          {
+            "blank": "2",
+            "answer": "among"
+          },
+          {
+            "blank": "3",
+            "answer": "with"
+          },
+          {
+            "blank": "4",
+            "answer": "across"
+          },
+          {
+            "blank": "5",
+            "answer": "between"
+          },
+          {
+            "blank": "6",
+            "answer": "beside"
+          },
+          {
+            "blank": "7",
+            "answer": "at"
+          },
+          {
+            "blank": "8",
+            "answer": "from"
+          },
+          {
+            "blank": "9",
+            "answer": "over"
+          },
+          {
+            "blank": "10",
+            "answer": "through"
+          },
+          {
+            "blank": "11",
+            "answer": "from"
+          },
+          {
+            "blank": "12",
+            "answer": "with"
+          },
+          {
+            "blank": "13",
+            "answer": "from"
+          },
+          {
+            "blank": "14",
+            "answer": "inside"
+          },
+          {
+            "blank": "15",
+            "answer": "about"
+          }
+        ],
+        "explanation": {
+          "en": "This exercise tests various prepositions. 'Along' is used for movement beside a trail, 'among' for being surrounded by trees, 'with' for accompanying someone, 'across' for movement over an area, and 'between' for a position separating two things. 'Beside' means next to, 'at' is used with 'look' to mean direction, and 'from' indicates origin. 'Over' means above, 'through' means moving inside a space, 'inside' means within, and 'about' means concerning.",
+          "ru": "Это упражнение проверяет различные предлоги. 'Along' используется для движения рядом с тропой, 'among' — для нахождения в окружении деревьев, 'with' — для сопровождения кого-либо, 'across' — для движения по области, а 'between' — для положения между двумя вещами. 'Beside' означает рядом, 'at' используется с 'look' для указания направления, а 'from' указывает на происхождение. 'Over' означает над, 'through' — движение внутри пространства, 'inside' — внутри, а 'about' — о чем-либо.",
+          "uz": "Ushbu mashq turli predloglarni sinovdan o'tkazadi. 'Along' so'qmoq bo'ylab harakatlanish uchun, 'among' daraxtlar orasida bo'lish uchun, 'with' kim bilandir birga bo'lish uchun, 'across' biror hudud bo'ylab harakatlanish uchun, 'between' esa ikki narsa orasidagi o'rinni bildirish uchun ishlatiladi. 'Beside' yonida degan ma'noni anglatadi, 'at' 'look' bilan yo'nalishni bildirish uchun ishlatiladi, 'from' esa kelib chiqishini ko'rsatadi. 'Over' ustida, 'through' bo'shliq ichida harakatlanish, 'inside' ichida, 'about' esa biror narsa haqida degan ma'noni beradi."
+        }
+      },
+      {
+        "id": "mgf2",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "My family lives ___1___ a big city, but we like to travel to the countryside. We are going to visit my grandmother's farm. The farm is located ___2___ a small lake. There is a small bridge that goes ___3___ the water. My grandmother's house is ___4___ the big barn. The barn is very old and has a lot of hay ___5___ it. The chickens run ___6___ the garden all day. We can see them from a distance, running ___7___ the bushes. The farm is very different ___8___ our city life. My grandmother has a lot of stories ___9___ the farm and her life. I like to sit ___10___ her on the porch and listen. The farm has a lot of animals; we can walk ___11___ them. The cat is always sleeping ___12___ the warm stove. Sometimes we walk ___13___ the fields. The sun sets ___14___ the hills, and it is a beautiful sight. I am very happy to be ___15___ my family on the farm.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "in"
+          },
+          {
+            "blank": "2",
+            "answer": "by"
+          },
+          {
+            "blank": "3",
+            "answer": "over"
+          },
+          {
+            "blank": "4",
+            "answer": "behind"
+          },
+          {
+            "blank": "5",
+            "answer": "inside"
+          },
+          {
+            "blank": "6",
+            "answer": "around"
+          },
+          {
+            "blank": "7",
+            "answer": "between"
+          },
+          {
+            "blank": "8",
+            "answer": "from"
+          },
+          {
+            "blank": "9",
+            "answer": "about"
+          },
+          {
+            "blank": "10",
+            "answer": "with"
+          },
+          {
+            "blank": "11",
+            "answer": "among"
+          },
+          {
+            "blank": "12",
+            "answer": "beside"
+          },
+          {
+            "blank": "13",
+            "answer": "across"
+          },
+          {
+            "blank": "14",
+            "answer": "behind"
+          },
+          {
+            "blank": "15",
+            "answer": "with"
+          }
+        ],
+        "explanation": {
+          "en": "This exercise tests common prepositions. 'In' is used for a general location like a city. 'By' indicates 'next to' or 'near'. 'Over' describes movement above something, 'behind' indicates a position at the back of something, and 'inside' means within. 'Around' shows movement in a circle, 'between' is for a position separating two things. 'From' is for comparison, 'about' indicates a topic, 'with' means together with, 'among' is for being surrounded by, 'beside' means next to, 'across' means from one side to the other. 'Behind' can also mean 'beyond' or 'on the far side of'.",
+          "ru": "Это упражнение проверяет распространенные предлоги. 'In' используется для обозначения общего местоположения, например, в городе. 'By' указывает на 'рядом' или 'возле'. 'Over' описывает движение над чем-либо, 'behind' — положение сзади, а 'inside' — внутри. 'Around' показывает движение по кругу, 'between' — положение между двумя вещами. 'From' используется для сравнения, 'about' — для темы, 'with' — вместе с, 'among' — в окружении, 'beside' — рядом, 'across' — с одной стороны на другую. 'Behind' также может означать 'за' или 'по ту сторону'.",
+          "uz": "Bu mashq keng tarqalgan predloglarni sinovdan o'tkazadi. 'In' shahar kabi umumiy joylashuv uchun ishlatiladi. 'By' 'yonida' yoki 'yaqinida' ma'nosini bildiradi. 'Over' biror narsaning ustida harakatlanishni, 'behind' orqadagi holatni, 'inside' esa ichida degan ma'noni bildiradi. 'Around' aylanma harakatni ko'rsatadi, 'between' esa ikki narsani ajratib turuvchi joyni bildiradi. 'From' taqqoslash uchun, 'about' mavzu uchun, 'with' birgalikda, 'among' biror narsalar orasida, 'beside' yonida, 'across' esa bir tomondan ikkinchi tomonga ma'nosini beradi. 'Behind' 'ortida' yoki 'narigi tomonda' ma'nosini ham anglatishi mumkin."
+        }
+      },
+      {
+        "id": "mgf3",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "My friend and I went to the zoo. We walked ___1___ the big gate. The first thing we saw was a monkey jumping ___2___ a tree. We walked slowly ___3___ the animals' enclosures. We saw lions sitting ___4___ the shade of the big rocks. Then we walked ___5___ the bears' area and saw one drinking water ___6___ a small pond. We went ___7___ a path that led to the elephants. The elephants were walking ___8___ their large area. We stood ___9___ the fence to get a good view. My friend took a photo ___10___ the elephants. We walked ___11___ the path to see the monkeys again. A monkey was sitting ___12___ the tree and looking ___13___ us. We were a little scared. We walked ___14___ the zoo for three hours. It was a very good day ___15___ us.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "through"
+          },
+          {
+            "blank": "2",
+            "answer": "from"
+          },
+          {
+            "blank": "3",
+            "answer": "past"
+          },
+          {
+            "blank": "4",
+            "answer": "under"
+          },
+          {
+            "blank": "5",
+            "answer": "to"
+          },
+          {
+            "blank": "6",
+            "answer": "from"
+          },
+          {
+            "blank": "7",
+            "answer": "down"
+          },
+          {
+            "blank": "8",
+            "answer": "around"
+          },
+          {
+            "blank": "9",
+            "answer": "at"
+          },
+          {
+            "blank": "10",
+            "answer": "of"
+          },
+          {
+            "blank": "11",
+            "answer": "back"
+          },
+          {
+            "blank": "12",
+            "answer": "on"
+          },
+          {
+            "blank": "13",
+            "answer": "at"
+          },
+          {
+            "blank": "14",
+            "answer": "in"
+          },
+          {
+            "blank": "15",
+            "answer": "for"
+          }
+        ],
+        "explanation": {
+          "en": "This exercise tests various prepositions. 'Through' is for entering a space. 'From' is used for movement away from a place. 'Past' means going by something. 'Under' indicates a lower position. 'To' shows a destination. 'From' indicates origin. 'Down' is a preposition of movement. 'Around' shows movement in a circle. 'At' indicates a specific point, often used with 'look'. 'Of' indicates possession. 'Back' is an adverb of place. 'On' is for a surface. 'In' is used for a duration of time. 'For' is used to show purpose.",
+          "ru": "Это упражнение проверяет различные предлоги. 'Through' — для входа в пространство. 'From' используется для движения от места. 'Past' означает проходить мимо чего-либо. 'Under' указывает на более низкое положение. 'To' показывает направление. 'From' указывает на происхождение. 'Down' — предлог движения. 'Around' показывает движение по кругу. 'At' указывает на конкретную точку, часто используется с 'look'. 'Of' указывает на принадлежность. 'Back' — это наречие места. 'On' — для поверхности. 'In' используется для продолжительности времени. 'For' используется для указания цели.",
+          "uz": "Ushbu mashq turli xil predloglarni sinovdan o'tkazadi. 'Through' joyga kirish uchun ishlatiladi. 'From' biror joydan uzoqlashish harakatini bildiradi. 'Past' biror narsaning yonidan o'tishni anglatadi. 'Under' pastki o'rinni bildiradi. 'To' manzilni ko'rsatadi. 'From' kelib chiqishini bildiradi. 'Down' harakat predlogidir. 'Around' aylanma harakatni ko'rsatadi. 'At' aniq bir nuqtani bildiradi, ko'pincha 'look' bilan ishlatiladi. 'Of' egalikni bildiradi. 'Back' joy ravishidir. 'On' yuza uchun ishlatiladi. 'In' vaqt davomiyligi uchun ishlatiladi. 'For' maqsadni ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf4",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "My sister and I are going to the library. It is ___1___ a big park. We have to walk ___2___ the park to get there. The library is ___3___ a small café and a bank. We are going there to get some new books ___4___ our school project. Our teacher told us to find information ___5___ different animals. We will find books ___6___ the shelves and then sit ___7___ the big reading table. I will sit ___8___ my sister. The books are organized ___9___ subject, so it is easy to find what we need. I am looking ___10___ books with a lot of pictures. My sister is interested ___11___ old history. We will be at the library ___12___ two hours. It is a quiet place, and we must be silent ___13___ we are there. We will bring the books home ___14___ us. We are very happy ___15___ the project.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "near"
+          },
+          {
+            "blank": "2",
+            "answer": "through"
+          },
+          {
+            "blank": "3",
+            "answer": "between"
+          },
+          {
+            "blank": "4",
+            "answer": "for"
+          },
+          {
+            "blank": "5",
+            "answer": "about"
+          },
+          {
+            "blank": "6",
+            "answer": "on"
+          },
+          {
+            "blank": "7",
+            "answer": "at"
+          },
+          {
+            "blank": "8",
+            "answer": "beside"
+          },
+          {
+            "blank": "9",
+            "answer": "by"
+          },
+          {
+            "blank": "10",
+            "answer": "for"
+          },
+          {
+            "blank": "11",
+            "answer": "in"
+          },
+          {
+            "blank": "12",
+            "answer": "for"
+          },
+          {
+            "blank": "13",
+            "answer": "while"
+          },
+          {
+            "blank": "14",
+            "answer": "with"
+          },
+          {
+            "blank": "15",
+            "answer": "about"
+          }
+        ],
+        "explanation": {
+          "en": "This exercise tests common prepositions and phrasal verbs. 'Near' indicates close proximity. 'Through' describes movement in a space. 'Between' is for a position separating two things. 'For' indicates purpose. 'About' is for a topic. 'On' is for a surface. 'At' indicates a specific place. 'Beside' means next to. 'By' indicates organization. 'Look for' is a phrasal verb meaning to search. 'Interested in' is a common expression. 'For' is used for a duration. 'While' means during the time that. 'With' means together with. 'About' is used to express feelings concerning something.",
+          "ru": "Это упражнение проверяет распространенные предлоги и фразовые глаголы. 'Near' указывает на близкое расстояние. 'Through' описывает движение в пространстве. 'Between' — для положения между двумя вещами. 'For' указывает на цель. 'About' — для темы. 'On' — для поверхности. 'At' указывает на конкретное место. 'Beside' означает рядом. 'By' указывает на организацию. 'Look for' — фразовый глагол, означающий поиск. 'Interested in' — распространенное выражение. 'For' используется для продолжительности. 'While' означает в то время как. 'With' означает вместе с. 'About' используется для выражения чувств по поводу чего-либо.",
+          "uz": "Ushbu mashq keng tarqalgan predloglar va iboraviy fe'llarni sinovdan o'tkazadi. 'Near' yaqinlikni bildiradi. 'Through' bo'shliq ichida harakatni tasvirlaydi. 'Between' ikki narsani ajratib turuvchi o'rin uchun. 'For' maqsadni bildiradi. 'About' mavzu uchun. 'On' yuza uchun. 'At' aniq bir joyni bildiradi. 'Beside' yonida degan ma'noni beradi. 'By' tartibni bildiradi. 'Look for' qidirishni anglatuvchi iboraviy fe'ldir. 'Interested in' keng tarqalgan ifodadir. 'For' davomiylik uchun ishlatiladi. 'While' - biror narsa sodir bo'layotgan paytda. 'With' birga degan ma'noni beradi. 'About' biror narsa haqida his-tuyg'ularni ifodalash uchun ishlatiladi."
+        }
+      }
+    ]
+  }

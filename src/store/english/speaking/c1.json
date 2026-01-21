@@ -1,0 +1,106 @@
+{
+  "topics": [
+    {
+      "id": "ethics_artificial_intelligence",
+      "title": "Ethics and Artificial Intelligence",
+      "level": "C1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Technology and ethics",
+        "instructions": "I'd like to explore your thoughts on technology and ethical considerations.",
+        "questions": [
+          "How do you think artificial intelligence will impact society in the next decade?",
+          "What ethical concerns do you have about AI and automation?",
+          "Do you believe there should be limits on AI development?",
+          "How might AI change the nature of work and employment?",
+          "What role should humans maintain in an increasingly automated world?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a moral dilemma",
+        "cueCard": {
+          "title": "Describe a situation where technology raises ethical questions",
+          "description": "You should say:",
+          "points": [
+            "What the situation or technology is",
+            "What ethical concerns it raises",
+            "What different perspectives people might have on this issue",
+            "And explain how you think society should address these concerns"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Ethics in the digital age",
+        "instructions": "Now let's delve deeper into ethical considerations in our technological society.",
+        "questions": [
+          "How can we ensure that technological advancement serves humanity's best interests?",
+          "What are the implications of increasing surveillance capabilities for privacy and freedom?",
+          "Should there be international agreements governing the development of AI?",
+          "How might algorithmic bias affect social equality and justice?",
+          "What responsibilities do tech companies have towards society?",
+          "How can individuals maintain their autonomy in an age of data-driven decision making?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to discuss the ethical implications of facial recognition technology, which presents a fascinating yet concerning technological development. This technology involves using algorithms to identify individuals by analyzing their facial features from images or video feeds, and it's increasingly being deployed in public spaces, airports, and even retail environments. The ethical concerns surrounding this technology are multifaceted and significant. Privacy advocates argue that ubiquitous facial recognition creates a surveillance state where people cannot move freely without being tracked and monitored. There are also concerns about data security, accuracy, and the potential for misuse by both governments and private entities. Different stakeholders hold varying perspectives on this issue. Law enforcement agencies emphasize the technology's potential for enhancing public safety and solving crimes more efficiently. Businesses tout its benefits for preventing theft and improving customer service. However, civil liberties organizations warn about the erosion of anonymity and the chilling effect on free expression and assembly. Additionally, there are documented cases of higher error rates for certain demographic groups, raising questions about algorithmic bias and discrimination. I believe society should address these concerns through comprehensive regulation that balances security benefits with fundamental rights. This could include requiring explicit consent for commercial use, establishing clear limitations on government surveillance, implementing regular audits for accuracy and bias, and ensuring transparency about when and how the technology is being used."
+      }
+    },
+    {
+      "id": "social_inequality_justice",
+      "title": "Social Inequality and Justice",
+      "level": "C1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Social issues and inequality",
+        "instructions": "Let's discuss social inequality and justice issues.",
+        "questions": [
+          "What do you consider to be the most pressing social issues in your society?",
+          "How do you think education can address social inequality?",
+          "What role should governments play in reducing inequality?",
+          "Do you believe that social mobility has improved or declined in recent years?",
+          "How can individuals contribute to creating a more just society?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a social justice issue",
+        "cueCard": {
+          "title": "Describe a social justice issue that you feel strongly about",
+          "description": "You should say:",
+          "points": [
+            "What the issue is and why it matters",
+            "Who is affected by this problem",
+            "What factors contribute to this issue",
+            "And explain what actions you think could help address it"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Systemic inequality and social change",
+        "instructions": "Let's examine the broader aspects of social inequality and potential solutions.",
+        "questions": [
+          "What are the root causes of persistent social inequality in modern societies?",
+          "How effective are current social welfare systems in addressing inequality?",
+          "What role does education play in perpetuating or reducing social divisions?",
+          "How can societies ensure equal opportunities for all citizens regardless of their background?",
+          "What are the long-term consequences of increasing inequality for social cohesion?",
+          "How might globalization and technological change affect social inequality in the future?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

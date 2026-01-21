@@ -1,0 +1,872 @@
+{
+    "id": "A1_WHOSE_POSSESSIVE_S_ASKING_ABOUT_AND_SHOWING_POSSESSION",
+    "title": "Whose, possessive 's - Asking about and showing possession",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Whose is this book?",
+                    "correct": true
+                },
+                {
+                    "answer": "Who is this book?",
+                    "correct": false
+                },
+                {
+                    "answer": "This book is whose.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "To ask about possession, we use 'Whose' at the beginning of the question. The structure is 'Whose + noun + verb + ...?'.",
+                "ru": "Чтобы спросить о принадлежности, мы используем 'Whose' в начале вопроса. Структура: 'Whose + существительное + глагол + ...?'.",
+                "uz": "Egalik haqida so'rash uchun savolning boshida 'Whose' ishlatamiz. Tuzilishi: 'Whose + ot + fe'l + ...?'."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "That is my friend's car.",
+                    "correct": true
+                },
+                {
+                    "answer": "That is my friends car.",
+                    "correct": false
+                },
+                {
+                    "answer": "That is my friend' car's.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For a singular noun like 'friend', we add an apostrophe and 's' ('s) to show possession. The structure is 'noun's + object'.",
+                "ru": "Для единственного существительного, такого как 'friend', мы добавляем апостроф и 's' ('s), чтобы показать принадлежность. Структура: 'существительное's + объект'.",
+                "uz": "'Friend' kabi birlik ot uchun egalikni ko'rsatish uchun apostrof va 's' ('s) qo'shamiz. Tuzilishi: 'ot's + obyekt'."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The kids' toys are in the box.",
+                    "correct": true
+                },
+                {
+                    "answer": "The kid's' toys are in the box.",
+                    "correct": false
+                },
+                {
+                    "answer": "The kids toys' are in the box.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For a plural noun that ends in 's', we only add an apostrophe (') to show possession. The noun 'kids' is plural and ends in 's'.",
+                "ru": "Для существительного во множественном числе, которое заканчивается на 's', мы добавляем только апостроф (') для показа принадлежности. Существительное 'kids' - множественное и заканчивается на 's'.",
+                "uz": "'S' bilan tugaydigan ko'plik ot uchun egalikni ko'rsatish uchun faqat apostrof (') qo'shamiz. 'Kids' oti ko'plikda va 's' bilan tugaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is a men's restroom.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is a mens' restroom.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is a men' restroom.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For irregular plural nouns like 'men', 'women', or 'children', we add an apostrophe and 's' ('s) to show possession.",
+                "ru": "Для неправильных существительных во множественном числе, таких как 'men', 'women' или 'children', мы добавляем апостроф и 's' ('s), чтобы показать принадлежность.",
+                "uz": "'Men', 'women' yoki 'children' kabi noto'g'ri ko'plik otlari uchun egalikni ko'rsatish uchun apostrof va 's' ('s) qo'shamiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is my brother's room.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is my brother's' room.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is my brother room.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For a singular noun, we use 's to show that something belongs to it. 'Brother' is a singular noun.",
+                "ru": "Для единственного существительного мы используем 's, чтобы показать, что что-то принадлежит ему. 'Brother' — это единственное существительное.",
+                "uz": "Birlik ot uchun biz 's dan foydalanib biror narsaning unga tegishli ekanligini ko'rsatamiz. 'Brother' birlik otdir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Whose bag is this?",
+                    "correct": true
+                },
+                {
+                    "answer": "Who's bag is this?",
+                    "correct": false
+                },
+                {
+                    "answer": "Who bag is this?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Whose' is a possessive pronoun used to ask a question about ownership. 'Who's' is a contraction of 'who is'.",
+                "ru": "'Whose' — это притяжательное местоимение, используемое для вопросов о принадлежности. 'Who's' — это сокращение от 'who is'.",
+                "uz": "'Whose' egalikni so'rash uchun ishlatiladigan egalik olmoshidir. 'Who's' 'who is' so'zlarining qisqartmasidir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "These are the doctors' offices.",
+                    "correct": true
+                },
+                {
+                    "answer": "These are the doctor's offices.",
+                    "correct": false
+                },
+                {
+                    "answer": "These are the doctors offices.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "When a plural noun ends in 's', we add an apostrophe (') after the 's' to show possession, as in 'doctors''.",
+                "ru": "Когда существительное во множественном числе заканчивается на 's', мы добавляем апостроф (') после 's', чтобы показать принадлежность, как в 'doctors''.",
+                "uz": "Ko'plik ot 's' bilan tugaganda, egalikni ko'rsatish uchun 's' dan keyin apostrof (') qo'shamiz, masalan, 'doctors''."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The children's books are on the shelf.",
+                    "correct": true
+                },
+                {
+                    "answer": "The childrens' books are on the shelf.",
+                    "correct": false
+                },
+                {
+                    "answer": "The children's' books are on the shelf.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The irregular plural noun 'children' does not end in 's', so we use an apostrophe and 's' ('s) to show possession.",
+                "ru": "Неправильное существительное во множественном числе 'children' не заканчивается на 's', поэтому для показа принадлежности мы используем апостроф и 's' ('s).",
+                "uz": "'Children' noto'g'ri ko'plik oti 's' bilan tugamaydi, shuning uchun egalikni ko'rsatish uchun apostrof va 's' ('s) ishlatamiz."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Whose turn is it?",
+                    "correct": true
+                },
+                {
+                    "answer": "Who's turn is it?",
+                    "correct": false
+                },
+                {
+                    "answer": "Who turn is it?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Whose' is the correct word to ask about possession or belonging. 'Who's' is a contraction of 'who is'.",
+                "ru": "'Whose' — это правильное слово, чтобы спросить о принадлежности. 'Who's' — это сокращение от 'who is'.",
+                "uz": "'Whose' egalik yoki tegishlilik haqida so'rash uchun to'g'ri so'zdir. 'Who's' 'who is' so'zining qisqartmasidir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is James's book.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is James' book.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is Jame's book.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For singular nouns ending in 's', both 's' and adding just an apostrophe are acceptable, but adding 's' is more common in modern English.",
+                "ru": "Для единственных существительных, заканчивающихся на 's', оба варианта ('s' и просто добавление апострофа) допустимы, но добавление 's' является более распространенным в современном английском.",
+                "uz": "'S' bilan tugaydigan birlik otlar uchun 's' ham, faqat apostrof qo'shish ham qabul qilinadi, lekin 's' qo'shish zamonaviy ingliz tilida ko'proq uchraydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: That is my (sister) ___ dog.",
+                "ru": "Дополните предложение: That is my (sister)  ___ dog.",
+                "uz": "Gapni to'ldiring: That is my (sister) ___ dog."
+            },
+            "options": [
+                {
+                    "answer": "sister's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show that the dog belongs to your singular sister, we use the possessive form 'sister's'.",
+                "ru": "Чтобы показать, что собака принадлежит вашей единственной сестре, мы используем притяжательную форму 'sister's'.",
+                "uz": "Itning yakka singlingizga tegishli ekanligini ko'rsatish uchun, biz egalik shakli 'sister's' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ keys are on the table?",
+                "ru": "Дополните предложение: ___ keys are on the table?",
+                "uz": "Gapni to'ldiring: ___ keys are on the table?"
+            },
+            "options": [
+                {
+                    "answer": "Whose",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Whose' to ask a question about who the keys belong to.",
+                "ru": "Используйте 'Whose', чтобы задать вопрос, кому принадлежат ключи.",
+                "uz": "Kalitlar kimga tegishli ekanligi haqida savol berish uchun 'Whose' so'zidan foydalaning."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I am going to the (neighbours) ___ house.",
+                "ru": "Дополните предложение: I am going to the (neighbours) ___ house.",
+                "uz": "Gapni to'ldiring: I am going to the (neighbours) ___ house."
+            },
+            "options": [
+                {
+                    "answer": "neighbours'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive form for the plural noun 'neighbours' is 'neighbours's' or 'neighbors's'.",
+                "ru": "Правильная притяжательная форма для существительного 'neighbours' во множественном числе — 'neighbours's' или 'neighbors's'.",
+                "uz": "Ko'plik 'neighbours' so'zi uchun to'g'ri egalik shakli 'neighbours's' yoki 'neighbors's' hisoblanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This is my (cousin) ___ cat.",
+                "ru": "Дополните предложение: This is my (cousin) ___ cat.",
+                "uz": "Gapni to'ldiring: This is my (cousin) ___ cat."
+            },
+            "options": [
+                {
+                    "answer": "cousin's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show that the cat belongs to your singular cousin, use the possessive form 'cousin's'.",
+                "ru": "Чтобы показать, что кошка принадлежит вашему единственному двоюродному брату/сестре, используйте притяжательную форму 'cousin's'.",
+                "uz": "Mushukning yakka amaki/xola/tog'a/singlingizga tegishli ekanligini ko'rsatish uchun 'cousin's' egalik shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The (boys)  ___ names are Alex and Ben.",
+                "ru": "Дополните предложение: The (boys) ___ names are Alex and Ben.",
+                "uz": "Gapni to'ldiring: The (boys) ___ names are Alex and Ben."
+            },
+            "options": [
+                {
+                    "answer": "boys'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Since there are multiple boys, the noun is plural. We add an apostrophe (') after the 's' to show possession.",
+                "ru": "Поскольку мальчиков много, существительное стоит во множественном числе. Мы добавляем апостроф (') после 's', чтобы показать принадлежность.",
+                "uz": "Bir nechta o'g'il bolalar bo'lgani uchun, ot ko'plikda. Egalikni ko'rsatish uchun 's' dan keyin apostrof (') qo'shamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This is my (dad)  ___ shirt.",
+                "ru": "Дополните предложение: This is my (dad) ___ shirt.",
+                "uz": "Gapni to'ldiring: This is my (dad)  ___ shirt."
+            },
+            "options": [
+                {
+                    "answer": "dad's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show that the shirt belongs to your singular dad, use the possessive form 'dad's'.",
+                "ru": "Чтобы показать, что рубашка принадлежит вашему единственному папе, используйте притяжательную форму 'dad's'.",
+                "uz": "Ko'ylakning yakka otangizga tegishli ekanligini ko'rsatish uchun 'dad's' egalik shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The (students) ___ coats are on the chair.",
+                "ru": "Дополните предложение: The (students) ___ coats are on the chair.",
+                "uz": "Gapni to'ldiring: The (students) ___ coats are on the chair."
+            },
+            "options": [
+                {
+                    "answer": "students'",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'students' is plural and ends in 's'. To show possession, we add an apostrophe after the 's'.",
+                "ru": "Существительное 'students' во множественном числе и заканчивается на 's'. Чтобы показать принадлежность, мы добавляем апостроф после 's'.",
+                "uz": "'Students' oti ko'plikda va 's' bilan tugaydi. Egalikni ko'rsatish uchun 's' dan keyin apostrof qo'shamiz."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: That is the (dog)  ___ ball.",
+                "ru": "Дополните предложение: That is the (dog) ___ ball.",
+                "uz": "Gapni to'ldiring: That is the (dog) ___ ball."
+            },
+            "options": [
+                {
+                    "answer": "dog's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show that the ball belongs to the singular dog, we use the possessive form 'dog's'.",
+                "ru": "Чтобы показать, что мяч принадлежит единственной собаке, мы используем притяжательную форму 'dog's'.",
+                "uz": "To'pning yakka itga tegishli ekanligini ko'rsatish uchun, biz egalik shakli 'dog's' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ pencil is this?",
+                "ru": "Дополните предложение: ___ pencil is this?",
+                "uz": "Gapni to'ldiring: ___ pencil is this?"
+            },
+            "options": [
+                {
+                    "answer": "Whose",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Whose' to ask about the owner of the pencil.",
+                "ru": "Используйте 'Whose', чтобы спросить о владельце карандаша.",
+                "uz": "Qalamning egasi haqida so'rash uchun 'Whose' so'zidan foydalaning."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The (teacher) ___ room is very clean.",
+                "ru": "Дополните предложение: The (teacher) ___ room is very clean.",
+                "uz": "Gapni to'ldiring: The (teacher) ___ room is very clean."
+            },
+            "options": [
+                {
+                    "answer": "teacher's",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show that the room belongs to the singular teacher, use the possessive form 'teacher's'.",
+                "ru": "Чтобы показать, что комната принадлежит единственному учителю, используйте притяжательную форму 'teacher's'.",
+                "uz": "Xonaning yakka o'qituvchiga tegishli ekanligini ko'rsatish uchun 'teacher's' egalik shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "I met a new friend today, her name is Lily. I was looking for my book, but I couldn't find it. My mom asked me, “___1___ book is that on the table?” I looked over and saw a book with a bright red cover. I said, “It's not mine, it must be my ___2___.” The book belonged to her, so I knew it was her ___3___ book. Then my dad came home and asked, “___4___ is that new bag in the kitchen?” It was my sister's. She had just bought it. The bag was my ___5___. We also have two cats. Their ___6___ are long and fluffy. The food bowl is the ___7___ food bowl, and the scratching post is the ___8___ post. We have two dogs too. The ___9___ bowls are outside. The ___10___ owner's name is John. The ___11___ team won the championship. The ___12___ books were all over the place. The ___13___ house is next door. The ___14___ party was last night. The ___15___ bags were all lost.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Whose"
+                },
+                {
+                    "blank": "2",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Whose"
+                },
+                {
+                    "blank": "5",
+                    "answer": "sister's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "tails"
+                },
+                {
+                    "blank": "7",
+                    "answer": "cats'"
+                },
+                {
+                    "blank": "8",
+                    "answer": "cats'"
+                },
+                {
+                    "blank": "9",
+                    "answer": "dogs'"
+                },
+                {
+                    "blank": "10",
+                    "answer": "dogs'"
+                },
+                {
+                    "blank": "11",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "12",
+                    "answer": "students'"
+                },
+                {
+                    "blank": "13",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "14",
+                    "answer": "parent's"
+                },
+                {
+                    "blank": "15",
+                    "answer": "passengers'"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your knowledge of 'Whose' to ask about possession and the use of the possessive 's for singular, plural, and irregular nouns to show ownership.",
+                "ru": "Это упражнение проверяет ваши знания 'Whose' для вопросов о принадлежности и использование притяжательного 's' для существительных в единственном, множественном и неправильных формах для показа принадлежности.",
+                "uz": "Bu mashq 'Whose' egalik haqida so'rash uchun bilimingizni va 's' egalik formasini birlik, ko'plik va noto'g'ri otlar uchun egalikni ko'rsatishda qo'llashni tekshiradi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family is planning a trip to the zoo. We are so excited! My sister, Sarah, loves animals, especially the monkeys. She says, “The monkeys' favorite food is bananas.” The zookeeper says the monkeys are the ___1___ favorite animals. My brother, Tom, wants to see the lions. He says, “The lions are the ___2___ of the jungle!” We also want to see the new baby giraffe. The baby giraffe is the ___3___ new addition to the zoo. The zoo has a special section for exotic birds. The parrots' cage is huge! The birds' feathers are so colorful. We bought some souvenirs. The souvenir shop has gifts for everyone. The ___4___ section has clothes, and the ___5___ section has toys. We got a toy giraffe for my brother. It was his ___6___ favorite toy. My brother’s friend, Ben, is coming with us. The trip is a gift for my ___7___ birthday. Ben also wants to see the lions. The zoo is very big. The ___8___ are all so big! The ___9___ habitats are clean. My mom and dad also bought a new map. It is the ___10___ guide. The map shows the ___11___ locations. The ___12___ section has food. The ___13___ are excited for the trip. The ___14___ toys are in the car. It is the ___15___ trip of the year.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "zookeeper's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "king"
+                },
+                {
+                    "blank": "3",
+                    "answer": "giraffe's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "brother's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "brother's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "elephants'"
+                },
+                {
+                    "blank": "9",
+                    "answer": "lions'"
+                },
+                {
+                    "blank": "10",
+                    "answer": "visitor's"
+                },
+                {
+                    "blank": "11",
+                    "answer": "animals'"
+                },
+                {
+                    "blank": "12",
+                    "answer": "eatery's"
+                },
+                {
+                    "blank": "13",
+                    "answer": "parents"
+                },
+                {
+                    "blank": "14",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "15",
+                    "answer": "family's"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your ability to use possessive forms for singular, plural, and irregular nouns to show ownership in a cohesive text.",
+                "ru": "Это упражнение проверяет вашу способность использовать притяжательные формы для единственных, множественных и неправильных существительных, чтобы показать принадлежность в связном тексте.",
+                "uz": "Bu mashq egalik shakllarini birlik, ko'plik va noto'g'ri otlar uchun mantiqiy matnda egalikni ko'rsatish qobiliyatingizni tekshiradi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I are celebrating my grandparents' wedding anniversary. The ___1___ party is at my parents' house. My ___2___ name is Mary, and my ___3___ name is John. They are so happy together. I brought my sister's gift for them. It is my ___4___ gift to them. My brother also brought a gift. His gift is a beautiful painting. It is the ___5___ painting for them. My ___6___ friends are also coming. They are all excited. The ___7___ clothes are so fancy. They are wearing their best dresses. My ___8___ clothes are also very nice. He is wearing a suit. The ___9___ clothes are also very nice. My cousins are coming too. The ___10___ toys are everywhere. They love to play. The ___11___ team won the game. The ___12___ house is beautiful. My ___13___ favorite food is pizza. The ___14___ parents are coming from out of town. The ___15___ names are Alex and Maria.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "grandparents'"
+                },
+                {
+                    "blank": "2",
+                    "answer": "grandmother's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "grandfather's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "sister's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "brother's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "7",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "father's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "cousins'"
+                },
+                {
+                    "blank": "11",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "12",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "13",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "14",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "15",
+                    "answer": "babies'"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise helps you practice using possessive forms with both regular and irregular plural nouns, as well as singular nouns, in different contexts.",
+                "ru": "Это упражнение помогает вам практиковаться в использовании притяжательных форм с правильными и неправильными существительными во множественном числе, а также с существительными в единственном числе, в разных контекстах.",
+                "uz": "Bu mashq egalik shakllarini turli kontekstlarda ham to'g'ri, ham noto'g'ri ko'plik otlar, shuningdek birlik otlar bilan ishlatishga yordam beradi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "There are many different types of sports that people enjoy. One of the most popular is football. My ___1___ team is the best. The team's coach is a great strategist. The ___2___ strategy is always on point. The team has a new player. The new player is the ___3___ best player. He is also the new ___4___ favorite player. The team's rival is very good too. The ___5___ team is very good. My sister loves basketball. She plays for the ___6___ team. The ___7___ coach is very strict. The team has a star player. The star player is the ___8___ captain. My friends play baseball. The ___9___ bats are so cool. The ___10___ uniforms are black and red. My ___11___ friends are also good. The ___12___ team is very strong. The ___13___ team won the championship. The ___14___ parents are very supportive. The ___15___ names are Alex and Ben.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "friend's"
+                },
+                {
+                    "blank": "2",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "coach's"
+                },
+                {
+                    "blank": "4",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "5",
+                    "answer": "rival's"
+                },
+                {
+                    "blank": "6",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "women's"
+                },
+                {
+                    "blank": "8",
+                    "answer": "team's"
+                },
+                {
+                    "blank": "9",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "men's"
+                },
+                {
+                    "blank": "11",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "12",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "13",
+                    "answer": "boys'"
+                },
+                {
+                    "blank": "14",
+                    "answer": "boys'"
+                },
+                {
+                    "blank": "15",
+                    "answer": "girls'"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise helps you practice using possessive forms with both singular and plural nouns, as well as irregular nouns, in a sports context.",
+                "ru": "Это упражнение помогает вам практиковаться в использовании притяжательных форм с существительными в единственном и множественном числе, а также с неправильными существительными, в контексте спорта.",
+                "uz": "Bu mashq egalik shakllarini sport kontekstida ham birlik, ham ko'plik otlar, shuningdek noto'g'ri otlar bilan ishlatishga yordam beradi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "My family and I are planning a surprise party for my grandmother's birthday. My mom and dad are in charge of the decorations. The ___1___ decorations are beautiful. My sister and I are in charge of the cake. The ___2___ cake is a masterpiece. My grandmother's name is Martha. She is my favorite person in the world. The party is a celebration of her life. My grandparents' friends are also coming. The ___3___ friends are all so kind. My parents' friends are also coming. The ___4___ friends are all so nice. My cousins are coming too. The ___5___ parents are very excited for the party. The ___6___ presents are all so thoughtful. The ___7___ favorite food is cake. The ___8___ favorite drink is coffee. The ___9___ favorite game is checkers. The ___10___ favorite song is 'Happy Birthday'. The ___11___ favorite color is purple. The ___12___ parents are coming. The ___13___ house is beautiful. The ___14___ team won the game. The ___15___ bags are all lost.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "2",
+                    "answer": "sister's"
+                },
+                {
+                    "blank": "3",
+                    "answer": "grandparents'"
+                },
+                {
+                    "blank": "4",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "5",
+                    "answer": "cousins'"
+                },
+                {
+                    "blank": "6",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "7",
+                    "answer": "guests'"
+                },
+                {
+                    "blank": "8",
+                    "answer": "grandmother's"
+                },
+                "9",
+                {
+                    "blank": "9",
+                    "answer": "grandfather's"
+                },
+                {
+                    "blank": "10",
+                    "answer": "everyone's"
+                },
+                {
+                    "blank": "11",
+                    "answer": "grandmother's"
+                },
+                {
+                    "blank": "12",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "13",
+                    "answer": "parents'"
+                },
+                {
+                    "blank": "14",
+                    "answer": "children's"
+                },
+                {
+                    "blank": "15",
+                    "answer": "women's"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your ability to use possessive forms with singular and plural nouns, as well as irregular nouns, in a party context.",
+                "ru": "Это упражнение помогает вам практиковаться в использовании притяжательных форм с существительными в единственном и множественном числе, а также с неправильными существительными, в контексте вечеринки.",
+                "uz": "Bu mashq egalik shakllarini partiya kontekstida ham birlik, ham ko'plik otlar, shuningdek noto'g'ri otlar bilan ishlatishga yordam beradi."
+            }
+        }
+    ]
+}

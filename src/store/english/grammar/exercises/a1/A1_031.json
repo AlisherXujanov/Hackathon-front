@@ -1,0 +1,852 @@
+{
+    "id": "A1_ADVERBS_OF_FREQUENCY_WITH_PRESENT_SIMPLE_ETC",
+    "title": "Adverbs of frequency with present simple - Always, sometimes, never, etc.",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She sometimes reads a book.",
+                    "correct": true
+                },
+                {
+                    "answer": "She reads sometimes a book."
+                },
+                {
+                    "answer": "Sometimes she reads a book."
+                }
+            ],
+            "explanation": {
+                "en": "Adverbs of frequency, like 'sometimes', are placed before the main verb.",
+                "ru": "Наречия частотности, как 'sometimes', ставятся перед основным глаголом.",
+                "uz": "Chastota ravishlari, 'sometimes' kabi, asosiy fe'ldan oldin joylashadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We are always happy.",
+                    "correct": true
+                },
+                {
+                    "answer": "We always are happy."
+                },
+                {
+                    "answer": "Always we are happy."
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb of frequency 'always' comes after the verb.",
+                "ru": "С глаголом 'to be' наречие частотности 'always' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'always' chastota ravishi fe'ldan keyin keladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He never eats meat."
+                },
+                {
+                    "answer": "He eats never meat."
+                },
+                {
+                    "answer": "Never he eats meat.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'never' is placed before the main verb, but can also be used at the beginning of a sentence for emphasis.",
+                "ru": "Наречие 'never' ставится перед основным глаголом, но также может быть использовано в начале предложения для акцента.",
+                "uz": "'never' ravishi asosiy fe'ldan oldin joylashadi, lekin urg'u uchun gapning boshida ham ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They often visit their friends.",
+                    "correct": true
+                },
+                {
+                    "answer": "They visit often their friends."
+                },
+                {
+                    "answer": "Often they visit their friends."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'often' is placed before the main verb.",
+                "ru": "Наречие 'often' ставится перед основным глаголом.",
+                "uz": "'often' ravishi asosiy fe'ldan oldin joylashadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is usually tired after work.",
+                    "correct": true
+                },
+                {
+                    "answer": "She usually is tired after work."
+                },
+                {
+                    "answer": "Usually she is tired after work."
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb 'usually' comes after the verb.",
+                "ru": "С глаголом 'to be' наречие 'usually' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'usually' ravishi fe'ldan keyin joylashadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He goes rarely to the gym."
+                },
+                {
+                    "answer": "He rarely goes to the gym.",
+                    "correct": true
+                },
+                {
+                    "answer": "Rarely he goes to the gym."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'rarely' is placed before the main verb.",
+                "ru": "Наречие 'rarely' ставится перед основным глаголом.",
+                "uz": "'rarely' ravishi asosiy fe'ldan oldin joylashadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The sun always rises in the east.",
+                    "correct": true
+                },
+                {
+                    "answer": "The sun rises always in the east."
+                },
+                {
+                    "answer": "Always the sun rises in the east."
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'always' is placed before the main verb 'rises'.",
+                "ru": "Наречие 'always' ставится перед основным глаголом 'rises'.",
+                "uz": "'always' ravishi 'rises' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We are sometimes late for dinner."
+                },
+                {
+                    "answer": "We sometimes are late for dinner."
+                },
+                {
+                    "answer": "Sometimes we are late for dinner.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'sometimes' can be placed at the beginning of a sentence for emphasis.",
+                "ru": "Наречие 'sometimes' может быть поставлено в начале предложения для акцента.",
+                "uz": "'sometimes' ravishi urg'u uchun gapning boshida joylashishi mumkin."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is ever hardly at home ends."
+                },
+                {
+                    "answer": "She hardly ever is at home on weekends."
+                },
+                {
+                    "answer": "She is hardly ever at home on weekends.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb phrase 'hardly ever' comes after the verb.",
+                "ru": "С глаголом 'to be' наречное словосочетание 'hardly ever' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'hardly ever' ravish birikmasi fe'ldan keyin keladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I seldom go to the dentist."
+                },
+                {
+                    "answer": "I go seldom to the dentist."
+                },
+                {
+                    "answer": "Seldom I go to the dentist.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'seldom' can be placed at the beginning of a sentence for emphasis.",
+                "ru": "Наречие 'seldom' может быть поставлено в начале предложения для акцента.",
+                "uz": "'seldom' ravishi urg'u uchun gapning boshida joylashishi mumkin."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother ___ watches movies. (always)",
+                "ru": "Дополните предложение: My brother ___ watches movies. (always)",
+                "uz": "Gapni to'ldiring: My brother ___ watches movies. (always)"
+            },
+            "options": [
+                {
+                    "answer": "always",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'always' is placed before the main verb 'watches'.",
+                "ru": "Наречие 'always' ставится перед основным глаголом 'watches'.",
+                "uz": "'always' ravishi 'watches' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We are ___ busy on weekends. (usually)",
+                "ru": "Дополните предложение: We are ___ busy on weekends. (usually)",
+                "uz": "Gapni to'ldiring: We are ___ busy on weekends. (usually)"
+            },
+            "options": [
+                {
+                    "answer": "usually",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb 'usually' is placed after the verb.",
+                "ru": "С глаголом 'to be' наречие 'usually' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'usually' ravishi fe'ldan keyin joylashadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ forgets his keys. (never)",
+                "ru": "Дополните предложение: He ___ forgets his keys. (never)",
+                "uz": "Gapni to'ldiring: He ___ forgets his keys. (never)"
+            },
+            "options": [
+                {
+                    "answer": "never",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'never' is placed before the main verb 'forgets'.",
+                "ru": "Наречие 'never' ставится перед основным глаголом 'forgets'.",
+                "uz": "'never' ravishi 'forgets' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ go to the park on Saturdays. (sometimes)",
+                "ru": "Дополните предложение: I ___ go to the park on Saturdays. (sometimes)",
+                "uz": "Gapni to'ldiring: I ___ go to the park on Saturdays. (sometimes)"
+            },
+            "options": [
+                {
+                    "answer": "sometimes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'sometimes' is placed before the main verb 'go'.",
+                "ru": "Наречие 'sometimes' ставится перед основным глаголом 'go'.",
+                "uz": "'sometimes' ravishi 'go' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She is ___ on time for class. (always)",
+                "ru": "Дополните предложение: She is ___ on time for class. (always)",
+                "uz": "Gapni to'ldiring: She is ___ on time for class. (always)"
+            },
+            "options": [
+                {
+                    "answer": "always",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb 'always' is placed after the verb.",
+                "ru": "С глаголом 'to be' наречие 'always' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'always' ravishi fe'ldan keyin joylashadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ eat breakfast at home. (often)",
+                "ru": "Дополните предложение: They ___ eat breakfast at home. (often)",
+                "uz": "Gapni to'ldiring: They ___ eat breakfast at home. (often)"
+            },
+            "options": [
+                {
+                    "answer": "often",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'often' is placed before the main verb 'eat'.",
+                "ru": "Наречие 'often' ставится перед основным глаголом 'eat'.",
+                "uz": "'often' ravishi 'eat' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ go on vacation. (seldom)",
+                "ru": "Дополните предложение: We ___ go on vacation. (seldom)",
+                "uz": "Gapni to'ldiring: We ___ go on vacation. (seldom)"
+            },
+            "options": [
+                {
+                    "answer": "seldom",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'seldom' is placed before the main verb 'go'.",
+                "ru": "Наречие 'seldom' ставится перед основным глаголом 'go'.",
+                "uz": "'seldom' ravishi 'go' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He is ___ late for work. (never)",
+                "ru": "Дополните предложение: He is ___ late for work. (never)",
+                "uz": "Gapni to'ldiring: He is ___ late for work. (never)"
+            },
+            "options": [
+                {
+                    "answer": "never",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With the verb 'to be', the adverb 'never' is placed after the verb.",
+                "ru": "С глаголом 'to be' наречие 'never' ставится после глагола.",
+                "uz": "'to be' fe'li bilan 'never' ravishi fe'ldan keyin joylashadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ drink coffee in the morning. (usually)",
+                "ru": "Дополните предложение: I ___ drink coffee in the morning. (usually)",
+                "uz": "Gapni to'ldiring: I ___ drink coffee in the morning. (usually)"
+            },
+            "options": [
+                {
+                    "answer": "usually",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'usually' is placed before the main verb 'drink'.",
+                "ru": "Наречие 'usually' ставится перед основным глаголом 'drink'.",
+                "uz": "'usually' ravishi 'drink' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ play video games. (rarely)",
+                "ru": "Дополните предложение: They ___ play video games. (rarely)",
+                "uz": "Gapni to'ldiring: They ___ play video games. (rarely)"
+            },
+            "options": [
+                {
+                    "answer": "rarely",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The adverb 'rarely' is placed before the main verb 'play'.",
+                "ru": "Наречие 'rarely' ставится перед основным глаголом 'play'.",
+                "uz": "'rarely' ravishi 'play' asosiy fe'lidan oldin joylashadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Sarah, is a very busy person. She ___1___ works late at the office. She is ___2___ tired after a long day. She ___3___ has time to cook, so she ___4___ orders food online. On weekends, she ___5___ relaxes at home. She ___6___ goes to parties. Her brother, Mike, is the opposite. He ___7___ goes to the gym. He ___8___ eats out with his friends. He is ___9___ on the go. Mike ___10___ plays video games, but Sarah ___11___ plays them. They ___12___ talk on the phone, but they ___13___ see each other in person. They ___14___ have a good relationship. They ___15___ support each other.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "2",
+                    "answer": "always"
+                },
+                {
+                    "blank": "3",
+                    "answer": "seldom"
+                },
+                {
+                    "blank": "4",
+                    "answer": "often"
+                },
+                {
+                    "blank": "5",
+                    "answer": "always"
+                },
+                {
+                    "blank": "6",
+                    "answer": "never"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "often"
+                },
+                {
+                    "blank": "9",
+                    "answer": "always"
+                },
+                {
+                    "blank": "10",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "11",
+                    "answer": "never"
+                },
+                {
+                    "blank": "12",
+                    "answer": "often"
+                },
+                {
+                    "blank": "13",
+                    "answer": "rarely"
+                },
+                {
+                    "blank": "14",
+                    "answer": "always"
+                },
+                {
+                    "blank": "15",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of various adverbs of frequency before main verbs and after the verb 'to be' in a descriptive context.",
+                "ru": "Это упражнение проверяет правильное расположение различных наречий частотности перед основными глаголами и после глагола 'to be' в описательном контексте.",
+                "uz": "Ushbu mashq tavsifiy kontekstda asosiy fe'llardan oldin va 'to be' fe'lidan keyin turli chastota ravishlarining to'g'ri joylashishini sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family is very active. We ___1___ go for a walk in the park on Sundays. My dad ___2___ goes running in the morning. My mom ___3___ does yoga. My brother and I ___4___ play football in the yard. We ___5___ eat ice cream after dinner. We ___6___ like to stay indoors. We are ___7___ a very active family. We ___8___ go on vacation in the summer. We ___9___ visit new places. We are ___10___ excited to travel. My parents ___11___ tell us stories about their travels. My brother ___12___ listens to them. I ___13___ ask questions about their adventures. We ___14___ have a lot of fun together. I ___15___ love my family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "always"
+                },
+                {
+                    "blank": "2",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "3",
+                    "answer": "often"
+                },
+                {
+                    "blank": "4",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "5",
+                    "answer": "rarely"
+                },
+                {
+                    "blank": "6",
+                    "answer": "never"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "always"
+                },
+                {
+                    "blank": "9",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "10",
+                    "answer": "always"
+                },
+                {
+                    "blank": "11",
+                    "answer": "often"
+                },
+                {
+                    "blank": "12",
+                    "answer": "always"
+                },
+                {
+                    "blank": "13",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "14",
+                    "answer": "always"
+                },
+                {
+                    "blank": "15",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of adverbs of frequency before main verbs and after the verb 'to be'.",
+                "ru": "Это упражнение проверяет правильное расположение наречий частотности перед основными глаголами и после глагола 'to be'.",
+                "uz": "Ushbu mashq chastota ravishlarining asosiy fe'llardan oldin va 'to be' fe'lidan keyin to'g'ri joylashishini sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My cat, Fluffy, is a very lazy cat. She ___1___ sleeps on the sofa. She is ___2___ quiet. She ___3___ meows for food. She is ___4___ hungry. Fluffy ___5___ plays with her toys. She ___6___ likes to chase birds. My dog, Buddy, is the opposite. He ___7___ runs around the house. He is ___8___ very energetic. He ___9___ barks at the mailman. He ___10___ plays fetch with me. He is ___11___ a good friend. We ___12___ go to the park together. He ___13___ chases the ball. He is ___14___ very happy when we play. I ___15___ love my pets.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "always"
+                },
+                {
+                    "blank": "2",
+                    "answer": "always"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "4",
+                    "answer": "always"
+                },
+                {
+                    "blank": "5",
+                    "answer": "seldom"
+                },
+                {
+                    "blank": "6",
+                    "answer": "rarely"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "always"
+                },
+                {
+                    "blank": "9",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "10",
+                    "answer": "often"
+                },
+                {
+                    "blank": "11",
+                    "answer": "always"
+                },
+                {
+                    "blank": "12",
+                    "answer": "always"
+                },
+                {
+                    "blank": "13",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "14",
+                    "answer": "always"
+                },
+                {
+                    "blank": "15",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of adverbs of frequency before main verbs and after the verb 'to be' in a descriptive passage.",
+                "ru": "Это упражнение проверяет правильное расположение наречий частотности перед основными глаголами и после глагола 'to be' в описательном отрывке.",
+                "uz": "Ushbu mashq tavsifiy parchada chastota ravishlarining asosiy fe'llardan oldin va 'to be' fe'lidan keyin to'g'ri joylashishini sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Mark, is a very good student. He ___1___ studies for his exams. He is ___2___ at the top of his class. He ___3___ gets good grades. He ___4___ helps his friends with their homework. He is ___5___ patient. He ___6___ explains difficult concepts to us. We ___7___ ask him for help. We ___8___ have a study group. We ___9___ meet after school to study. Mark is ___10___ the best student. He is ___11___ helpful. He ___12___ gives us good advice. We ___13___ trust him. We ___14___ learn a lot from him. He ___15___ inspires us to work hard.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "always"
+                },
+                {
+                    "blank": "2",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "3",
+                    "answer": "always"
+                },
+                {
+                    "blank": "4",
+                    "answer": "often"
+                },
+                {
+                    "blank": "5",
+                    "answer": "always"
+                },
+                {
+                    "blank": "6",
+                    "answer": "always"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "always"
+                },
+                {
+                    "blank": "9",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "10",
+                    "answer": "always"
+                },
+                {
+                    "blank": "11",
+                    "answer": "always"
+                },
+                {
+                    "blank": "12",
+                    "answer": "often"
+                },
+                {
+                    "blank": "13",
+                    "answer": "always"
+                },
+                {
+                    "blank": "14",
+                    "answer": "always"
+                },
+                {
+                    "blank": "15",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of adverbs of frequency before main verbs and after the verb 'to be' in a descriptive passage.",
+                "ru": "Это упражнение проверяет правильное расположение наречий частотности перед основными глаголами и после глагола 'to be' в описательном отрывке.",
+                "uz": "Ushbu mashq chastota ravishlarining asosiy fe'llardan oldin va 'to be' fe'lidan keyin to'g'ri joylashishini sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My sister, Emily, is a very talented artist. She ___1___ draws in her sketchbook. She is ___2___ very creative. She ___3___ paints beautiful pictures. She ___4___ goes to art class on weekends. She is ___5___ a very good student. She ___6___ helps me with my drawings. I ___7___ ask her for advice. We ___8___ paint together in the park. We ___9___ have a lot of fun. We ___10___ talk about art. She ___11___ tells me about her favorite artists. She ___12___ inspires me to draw. We ___13___ have a very good relationship. We ___14___ support each other. We are ___15___ very close.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "always"
+                },
+                {
+                    "blank": "2",
+                    "answer": "always"
+                },
+                {
+                    "blank": "3",
+                    "answer": "often"
+                },
+                {
+                    "blank": "4",
+                    "answer": "usually"
+                },
+                {
+                    "blank": "5",
+                    "answer": "always"
+                },
+                {
+                    "blank": "6",
+                    "answer": "always"
+                },
+                {
+                    "blank": "7",
+                    "answer": "always"
+                },
+                {
+                    "blank": "8",
+                    "answer": "sometimes"
+                },
+                {
+                    "blank": "9",
+                    "answer": "always"
+                },
+                "10",
+                {
+                    "blank": "10",
+                    "answer": "often"
+                },
+                {
+                    "blank": "11",
+                    "answer": "always"
+                },
+                {
+                    "blank": "12",
+                    "answer": "always"
+                },
+                {
+                    "blank": "13",
+                    "answer": "always"
+                },
+                {
+                    "blank": "14",
+                    "answer": "always"
+                },
+                {
+                    "blank": "15",
+                    "answer": "always"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct placement of adverbs of frequency before main verbs and after the verb 'to be' in a descriptive passage.",
+                "ru": "Это упражнение проверяет правильное расположение наречий частотности перед основными глаголами и после глагола 'to be' в описательном отрывке.",
+                "uz": "Ushbu mashq tavsifiy parchada chastota ravishlarining asosiy fe'llardan oldin va 'to be' fe'lidan keyin to'g'ri joylashishini sinovdan o'tkazadi."
+            }
+        }
+    ]
+}

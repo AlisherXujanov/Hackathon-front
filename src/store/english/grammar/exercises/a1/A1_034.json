@@ -1,0 +1,696 @@
+{
+    "id": "A1_THERE_OR_IT_-_CHOOSING_THE_RIGHT_SUBJECT",
+    "title": "There or it - Choosing the right subject",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It is a lot of students in the classroom."
+                },
+                {
+                    "answer": "There are a lot of students in the classroom.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is a lot of students in the classroom."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there are' with plural nouns. 'Students' is a plural noun, so 'there are' is the correct choice.",
+                "ru": "Используйте 'there are' с существительными во множественном числе. 'Students' - существительное во множественном числе, поэтому 'there are' - правильный выбор.",
+                "uz": "'There are' so'zini ko'plikdagi otlar bilan ishlating. 'Students' ko'plikdagi ot bo'lgani uchun, 'there are' to'g'ri tanlov hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It cold outside today."
+                },
+                {
+                    "answer": "It is cold outside today.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is cold outside today."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' to talk about the weather. 'It' is used as a dummy subject for time, weather, and distance.",
+                "ru": "Используйте 'It is', когда говорите о погоде. 'It' используется как безличное подлежащее для времени, погоды и расстояния.",
+                "uz": "Ob-havo haqida gapirish uchun 'It is' so'zidan foydalaning. 'It' so'zi vaqt, ob-havo va masofa uchun mavhum ega sifatida ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is easy to learn English."
+                },
+                {
+                    "answer": "It is easy to learn English.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are easy to learn English."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' when you describe a situation or an activity. 'It' acts as the subject for the infinitive phrase 'to learn English'.",
+                "ru": "Используйте 'It is', когда описываете ситуацию или действие. 'It' выступает в качестве подлежащего для инфинитивной фразы 'to learn English'.",
+                "uz": "Biror vaziyat yoki harakatni tasvirlaganingizda 'It is' so'zidan foydalaning. 'It' 'to learn English' infinitiv iborasi uchun ega vazifasini bajaradi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It is two books on the table."
+                },
+                {
+                    "answer": "There are two books on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is two books on the table."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' or 'there are' to state the existence of something. Since 'two books' is plural, 'there are' is correct.",
+                "ru": "Используйте 'there is' или 'there are', чтобы констатировать существование чего-либо. Поскольку 'two books' (две книги) - это множественное число, 'there are' - правильный вариант.",
+                "uz": "Biror narsaning mavjudligini aytish uchun 'there is' yoki 'there are' so'zlaridan foydalaning. 'Two books' (ikki kitob) ko'plikda bo'lgani uchun, 'there are' to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is 10 o'clock in the morning."
+                },
+                {
+                    "answer": "It is 10 o'clock in the morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "It are 10 o'clock in the morning."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' when you are telling the time. 'It' is the dummy subject for time.",
+                "ru": "Используйте 'It is', когда называете время. 'It' - это безличное подлежащее для времени.",
+                "uz": "Vaqtni aytayotganingizda 'It is' so'zidan foydalaning. 'It' so'zi vaqt uchun mavhum ega hisoblanadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There is a long way to the city."
+                },
+                {
+                    "answer": "It is a long way to the city.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are a long way to the city."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' to talk about distance. 'It' is the dummy subject for distance.",
+                "ru": "Используйте 'It is', чтобы говорить о расстоянии. 'It' - это безличное подлежащее для расстояния.",
+                "uz": "Masofa haqida gapirish uchun 'It is' so'zidan foydalaning. 'It' masofa uchun mavhum ega hisoblanadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are a big problem with my computer."
+                },
+                {
+                    "answer": "There is a big problem with my computer.",
+                    "correct": true
+                },
+                {
+                    "answer": "It is a big problem with my computer."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' or 'there are' to state the existence of something. 'A big problem' is a singular noun, so 'there is' is correct.",
+                "ru": "Используйте 'there is' или 'there are', чтобы констатировать существование чего-либо. 'A big problem' (большая проблема) - существительное в единственном числе, поэтому 'there is' - правильный вариант.",
+                "uz": "Biror narsaning mavjudligini aytish uchun 'there is' yoki 'there are' so'zlaridan foydalaning. 'A big problem' birlikdagi ot bo'lgani uchun, 'there is' to'g'ri hisoblanadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There is my favorite book on the shelf."
+                },
+                {
+                    "answer": "It is my favorite book on the shelf.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are my favorite book on the shelf."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' when you are identifying a specific item. 'It' refers to 'my favorite book'.",
+                "ru": "Используйте 'It is', когда вы указываете на конкретный предмет. 'It' относится к 'my favorite book'.",
+                "uz": "Muayyan buyumni aniqlash uchun 'It is' so'zidan foydalaning. 'It' 'my favorite book' so'ziga ishora qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is a lot of noise in the street."
+                },
+                {
+                    "answer": "There are a lot of noise in the street."
+                },
+                {
+                    "answer": "It is a lot of noise in the street."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'there is' to state the existence of an uncountable noun. 'Noise' is an uncountable noun.",
+                "ru": "Используйте 'there is', чтобы констатировать существование неисчисляемого существительного. 'Noise' - это неисчисляемое существительное.",
+                "uz": "Sanalmaydigan otning mavjudligini aytish uchun 'there is' so'zidan foydalaning. 'Noise' sanalmaydigan ot hisoblanadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There is a good idea to go to the park."
+                },
+                {
+                    "answer": "It is a good idea to go to the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "It are a good idea to go to the park."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It is' when you give an opinion about a situation or activity. 'It' is the subject for the infinitive phrase 'to go to the park'.",
+                "ru": "Используйте 'It is', когда высказываете мнение о ситуации или действии. 'It' - подлежащее для инфинитивной фразы 'to go to the park'.",
+                "uz": "Biror vaziyat yoki harakat haqida fikr bildirganingizda 'It is' so'zidan foydalaning. 'It' 'to go to the park' infinitiv iborasi uchun ega hisoblanadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ are two cats in the garden.",
+                "ru": "Дополните предложение: ___ are two cats in the garden.",
+                "uz": "Gapni to'ldiring: ___ are two cats in the garden."
+            },
+            "options": [
+                {
+                    "answer": "There",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' with 'are' to show the existence of multiple things. 'Cats' is plural.",
+                "ru": "Используйте 'There' с 'are', чтобы показать существование нескольких предметов. 'Cats' - это множественное число.",
+                "uz": "Bir nechta narsaning mavjudligini ko'rsatish uchun 'There' so'zini 'are' bilan ishlating. 'Cats' ko'plikdagi ot."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is a dog under the chair.",
+                "ru": "Дополните предложение: ___ is a dog under the chair.",
+                "uz": "Gapni to'ldiring: ___ is a dog under the chair."
+            },
+            "options": [
+                {
+                    "answer": "There",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' with 'is' to show the existence of a single thing. 'A dog' is singular.",
+                "ru": "Используйте 'There' с 'is', чтобы показать существование одного предмета. 'A dog' - это единственное число.",
+                "uz": "Bitta narsaning mavjudligini ko'rsatish uchun 'There' so'zini 'is' bilan ishlating. 'A dog' birlikda."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is sunny today.",
+                "ru": "Дополните предложение: ___ is sunny today.",
+                "uz": "Gapni to'ldiring: ___ is sunny today."
+            },
+            "options": [
+                {
+                    "answer": "It",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It' as the dummy subject when talking about the weather.",
+                "ru": "Используйте 'It' как безличное подлежащее, когда говорите о погоде.",
+                "uz": "Ob-havo haqida gapirganda 'It' so'zini mavhum ega sifatida ishlating."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is 5 o'clock.",
+                "ru": "Дополните предложение: ___ is 5 o'clock.",
+                "uz": "Gapni to'ldiring: ___ is 5 o'clock."
+            },
+            "options": [
+                {
+                    "answer": "It",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It' as the dummy subject when telling the time.",
+                "ru": "Используйте 'It' как безличное подлежащее, когда называете время.",
+                "uz": "Vaqtni aytayotganda 'It' so'zini mavhum ega sifatida ishlating."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is difficult to finish the project alone.",
+                "ru": "Дополните предложение: ___ is difficult to finish the project alone.",
+                "uz": "Gapni to'ldiring: ___ is difficult to finish the project alone."
+            },
+            "options": [
+                {
+                    "answer": "It",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It' as the subject for an infinitive phrase, expressing an opinion about an action.",
+                "ru": "Используйте 'It' в качестве подлежащего для инфинитивной фразы, выражая мнение о действии.",
+                "uz": "Harakat haqida fikr bildirish uchun infinitiv ibora uchun ega sifatida 'It' so'zidan foydalaning."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is a new student in my class.",
+                "ru": "Дополните предложение: ___ is a new student in my class.",
+                "uz": "Gapni to'ldiring: ___ is a new student in my class."
+            },
+            "options": [
+                {
+                    "answer": "There",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' with 'is' to introduce the existence of a new student.",
+                "ru": "Используйте 'There' с 'is', чтобы представить существование нового студента.",
+                "uz": "Yangi talabaning mavjudligini bildirish uchun 'There' so'zini 'is' bilan ishlating."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ are many birds on the tree.",
+                "ru": "Дополните предложение: ___ are many birds on the tree.",
+                "uz": "Gapni to'ldiring: ___ are many birds on the tree."
+            },
+            "options": [
+                {
+                    "answer": "There",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' with 'are' to show the existence of multiple things. 'Birds' is a plural noun.",
+                "ru": "Используйте 'There' с 'are', чтобы показать существование нескольких предметов. 'Birds' - это существительное во множественном числе.",
+                "uz": "Bir nechta narsaning mavjudligini ko'rsatish uchun 'There' so'zini 'are' bilan ishlating. 'Birds' ko'plikdagi ot."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is a good book. I recommend it.",
+                "ru": "Дополните предложение: ___ is a good book. I recommend it.",
+                "uz": "Gapni to'ldiring: ___ is a good book. I recommend it."
+            },
+            "options": [
+                {
+                    "answer": "It",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It' to refer to a specific item previously mentioned or understood from context. 'A good book' is the item.",
+                "ru": "Используйте 'It', чтобы сослаться на конкретный предмет, упомянутый ранее или понятный из контекста. 'A good book' - это предмет.",
+                "uz": "Avval aytib o'tilgan yoki kontekstdan tushunarli bo'lgan ma'lum bir narsaga ishora qilish uchun 'It' so'zidan foydalaning. 'A good book' o'sha narsadir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is very foggy this morning.",
+                "ru": "Дополните предложение: ___ is very foggy this morning.",
+                "uz": "Gapni to'ldiring: ___ is very foggy this morning."
+            },
+            "options": [
+                {
+                    "answer": "It",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'It' to describe the weather. 'Foggy' is a weather condition.",
+                "ru": "Используйте 'It', чтобы описать погоду. 'Foggy' - это погодное условие.",
+                "uz": "Ob-havoni tasvirlash uchun 'It' so'zidan foydalaning. 'Foggy' ob-havo sharoiti hisoblanadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ is a lot of sugar in this tea.",
+                "ru": "Дополните предложение: ___ is a lot of sugar in this tea.",
+                "uz": "Gapni to'ldiring: ___ is a lot of sugar in this tea."
+            },
+            "options": [
+                {
+                    "answer": "There",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' with 'is' to state the existence of an uncountable noun. 'Sugar' is uncountable.",
+                "ru": "Используйте 'There' с 'is', чтобы констатировать существование неисчисляемого существительного. 'Sugar' - неисчисляемое.",
+                "uz": "Sanalmaydigan otning mavjudligini aytish uchun 'There' so'zini 'is' bilan ishlating. 'Sugar' sanalmaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, my name is Alex. Today I want to tell you about my city. ___1___ is a small but beautiful city. ___2___ are many interesting places to visit, like the museum and the park. ___3___ is a big lake near my house, and ___4___ is very peaceful to sit by the water. When you walk in the city, ___5___ are often a lot of people in the streets. ___6___ is a famous restaurant on Main Street, and ___7___ is always very busy. ___8___ is nice and warm today, so a lot of people are outside. ___9___ is a good time to go for a walk. ___10___ are many tall buildings downtown, and ___11___ is a new one near the station. ___12___ is important to keep the city clean. ___13___ are two new recycling bins on my street. ___14___ is getting late, so I need to go home. ___15___ is my city, and I love it!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there"
+                },
+                {
+                    "blank": "6",
+                    "answer": "There"
+                },
+                {
+                    "blank": "7",
+                    "answer": "it"
+                },
+                {
+                    "blank": "8",
+                    "answer": "It"
+                },
+                {
+                    "blank": "9",
+                    "answer": "It"
+                },
+                {
+                    "blank": "10",
+                    "answer": "There"
+                },
+                {
+                    "blank": "11",
+                    "answer": "there"
+                },
+                {
+                    "blank": "12",
+                    "answer": "It"
+                },
+                {
+                    "blank": "13",
+                    "answer": "There"
+                },
+                {
+                    "blank": "14",
+                    "answer": "It"
+                },
+                {
+                    "blank": "15",
+                    "answer": "This"
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used for weather, time, and general statements. 'There' is used to show existence of people or things. The last 'This' is used to refer to the city as a whole, a common conversational form.",
+                "ru": "'It' используется для погоды, времени и общих утверждений. 'There' используется для обозначения существования людей или вещей. Последнее 'This' используется для обозначения города в целом, это распространенная разговорная форма.",
+                "uz": "'It' so'zi ob-havo, vaqt va umumiy bayonotlar uchun ishlatiladi. 'There' so'zi odamlar yoki narsalarning mavjudligini ko'rsatish uchun ishlatiladi. Oxirgi 'This' so'zi shahar haqida umuman gapirganda ishlatiladi, bu keng tarqalgan nutqiy shakl."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I are planning a trip to the mountains. ___1___ is a beautiful place for a holiday. ___2___ are many hiking trails and waterfalls. ___3___ is not cold in the mountains in the summer, and ___4___ is a perfect time to go. ___5___ is fun to explore the nature and take pictures. ___6___ is a small cabin we can rent. ___7___ is very quiet there, and ___8___ is a good place to relax. ___9___ are a lot of animals in the forest, and ___10___ is important to be careful. ___11___ is a long drive to the mountains, but ___12___ is worth it. ___13___ are some friends coming with us, too. ___14___ will be a great trip. ___15___ is a special day for us all to be together.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "It"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "It"
+                },
+                {
+                    "blank": "6",
+                    "answer": "There"
+                },
+                {
+                    "blank": "7",
+                    "answer": "It"
+                },
+                {
+                    "blank": "8",
+                    "answer": "it"
+                },
+                {
+                    "blank": "9",
+                    "answer": "There"
+                },
+                {
+                    "blank": "10",
+                    "answer": "it"
+                },
+                {
+                    "blank": "11",
+                    "answer": "It"
+                },
+                {
+                    "blank": "12",
+                    "answer": "it"
+                },
+                {
+                    "blank": "13",
+                    "answer": "There"
+                },
+                {
+                    "blank": "14",
+                    "answer": "It"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It"
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used for descriptions of places, weather, and general statements about activities. 'There' is used to talk about the existence of specific things.",
+                "ru": "'It' используется для описания мест, погоды и общих утверждений о действиях. 'There' используется для разговора о существовании конкретных вещей.",
+                "uz": "'It' so'zi joylar, ob-havo va harakatlar haqidagi umumiy bayonotlar uchun ishlatiladi. 'There' so'zi ma'lum narsalarning mavjudligi haqida gapirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My new school is very big. ___1___ is a huge library on the first floor. ___2___ are many books there, and ___3___ is a quiet place to study. ___4___ is a cafeteria where we can eat lunch. ___5___ is a lot of food there, and ___6___ is always delicious. ___7___ is a new swimming pool, and ___8___ is fun to swim after class. ___9___ are 20 computers in the computer lab. ___10___ is easy to do homework there. ___11___ is a small garden behind the school. ___12___ are some flowers in the garden. ___13___ is a great school, and I like ___14___ a lot. ___15___ is nice to have so many new friends.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "There"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "There"
+                },
+                {
+                    "blank": "5",
+                    "answer": "There"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There"
+                },
+                {
+                    "blank": "8",
+                    "answer": "it"
+                },
+                {
+                    "blank": "9",
+                    "answer": "There"
+                },
+                {
+                    "blank": "10",
+                    "answer": "It"
+                },
+                {
+                    "blank": "11",
+                    "answer": "There"
+                },
+                {
+                    "blank": "12",
+                    "answer": "There"
+                },
+                {
+                    "blank": "13",
+                    "answer": "It"
+                },
+                {
+                    "blank": "14",
+                    "answer": "it"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'There' to introduce the existence of nouns (library, computers, etc.). Use 'It' to describe a place or situation, to give an opinion, or as a dummy subject.",
+                "ru": "Используйте 'There', чтобы представить существование существительных (библиотека, компьютеры и т. д.). Используйте 'It', чтобы описать место или ситуацию, выразить мнение или как безличное подлежащее.",
+                "uz": "'There' so'zini otlarning mavjudligini (kutubxona, kompyuterlar va boshqalar) bildirish uchun ishlating. 'It' so'zini joy yoki vaziyatni tasvirlash, fikr bildirish yoki mavhum ega sifatida ishlating."
+            }
+        }
+    ]
+}

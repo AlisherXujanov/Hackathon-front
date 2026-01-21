@@ -1,0 +1,580 @@
+{
+    "id": "A1_COMPARATIVE_ADJECTIVES_OLDER_THAN_MORE_IMPORTANT_THAN_BASIC_COMPARISONS",
+    "title": "Comparative Adjectives (older than, more important than) - Basic Comparisons",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother is more taller than me."
+                },
+                {
+                    "answer": "My brother is tall than me."
+                },
+                {
+                    "answer": "My brother is taller than me.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives like 'tall,' we add '-er' to form the comparative. We do not use 'more.'",
+                "ru": "Для односложных прилагательных, таких как 'tall', мы добавляем '-er' для образования сравнительной степени. Мы не используем 'more.'",
+                "uz": "'Tall' kabi bir bo'g'inli sifatlar uchun taqqoslash darajasini hosil qilish uchun '-er' qo'shimchasini qo'shamiz. 'More' dan foydalanilmaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "A car is faster a bicycle."
+                },
+                {
+                    "answer": "A car is faster than a bicycle.",
+                    "correct": true
+                },
+                {
+                    "answer": "A car is more fast than a bicycle."
+                }
+            ],
+            "explanation": {
+                "en": "When comparing two things, you must use 'than' after the comparative adjective.",
+                "ru": "При сравнении двух вещей вы должны использовать 'than' после сравнительного прилагательного.",
+                "uz": "Ikki narsani solishtirishda, taqqoslash sifatidan keyin 'than' so'zidan foydalanishingiz kerak."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This book is more interesting as that one."
+                },
+                {
+                    "answer": "This book is more interesting that that one."
+                },
+                {
+                    "answer": "This book is more interesting than that one.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To compare two things with multi-syllable adjectives, use 'more' and 'than.' 'As' is used for similarity, not comparison.",
+                "ru": "Чтобы сравнить два предмета с многосложными прилагательными, используйте 'more' и 'than.' 'As' используется для сходства, а не для сравнения.",
+                "uz": "Bir nechta bo'g'inli sifatlar bilan ikki narsani solishtirish uchun 'more' va 'than' dan foydalaning. 'As' o'xshashlik uchun ishlatiladi, taqqoslash uchun emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "London is bigger than Paris.",
+                    "correct": true
+                },
+                {
+                    "answer": "London is big than Paris."
+                },
+                {
+                    "answer": "London is more big than Paris."
+                }
+            ],
+            "explanation": {
+                "en": "For one-syllable adjectives that end in a consonant and have a single vowel before it, you double the consonant before adding '-er.'",
+                "ru": "Для односложных прилагательных, оканчивающихся на согласную с одной гласной перед ней, согласная удваивается перед добавлением '-er.'",
+                "uz": "Bir bo'g'inli, oxiri undosh harf bilan tugab, undan oldin bitta unli harf bo'lsa, '-er' qo'shimchasini qo'shishdan oldin undosh harf ikki marta yoziladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The sun is warmer than the moon.",
+                    "correct": true
+                },
+                {
+                    "answer": "The sun is more warm than the moon."
+                },
+                {
+                    "answer": "The sun is warm than the moon."
+                }
+            ],
+            "explanation": {
+                "en": "The correct comparative form of the one-syllable adjective 'warm' is 'warmer.'",
+                "ru": "Правильная сравнительная форма односложного прилагательного 'warm' - 'warmer.'",
+                "uz": "Bir bo'g'inli 'warm' sifatining to'g'ri taqqoslash darajasi 'warmer' bo'ladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This movie is more boring than the last one.",
+                    "correct": true
+                },
+                {
+                    "answer": "This movie is boringer than the last one."
+                },
+                {
+                    "answer": "This movie is more boring as the last one."
+                }
+            ],
+            "explanation": {
+                "en": "For adjectives with two or more syllables like 'boring,' we use 'more' to form the comparative.",
+                "ru": "Для прилагательных, состоящих из двух и более слогов, таких как 'boring,' мы используем 'more' для образования сравнительной степени.",
+                "uz": "'Boring' kabi ikki yoki undan ortiq bo'g'inli sifatlar uchun taqqoslash darajasini hosil qilish uchun 'more' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "An elephant is big than a mouse."
+                },
+                {
+                    "answer": "An elephant is more big than a mouse."
+                },
+                {
+                    "answer": "An elephant is bigger than a mouse.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'big' is 'bigger.' The final consonant is doubled because it's a CVC word.",
+                "ru": "Сравнительная форма 'big' - 'bigger.' Конечная согласная удваивается, потому что это слово типа 'согласная-гласная-согласная'.",
+                "uz": "'Big' sifatining taqqoslash darajasi 'bigger' bo'ladi. U oxirgi undosh harf bilan tugaganligi uchun u ikki marta yoziladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My phone is newer than your phone.",
+                    "correct": true
+                },
+                {
+                    "answer": "My phone is new than your phone."
+                },
+                {
+                    "answer": "My phone is more new than your phone."
+                }
+            ],
+            "explanation": {
+                "en": "For the one-syllable adjective 'new,' the correct comparative form is 'newer.'",
+                "ru": "Для односложного прилагательного 'new' правильная сравнительная форма - 'newer.'",
+                "uz": "Bir bo'g'inli 'new' sifati uchun to'g'ri taqqoslash darajasi 'newer' bo'ladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is more happy than her sister."
+                },
+                {
+                    "answer": "She is happier than her sister.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is happy than her sister."
+                }
+            ],
+            "explanation": {
+                "en": "For two-syllable adjectives ending in '-y,' change the 'y' to 'i' and add '-er.'",
+                "ru": "Для двусложных прилагательных, оканчивающихся на '-y', измените 'y' на 'i' и добавьте '-er.'",
+                "uz": "'-y' bilan tugaydigan ikki bo'g'inli sifatlar uchun 'y' harfini 'i'ga o'zgartirib, '-er' qo'shimchasini qo'shing."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This car is more expensive as that one."
+                },
+                {
+                    "answer": "This car is expensiver than that one."
+                },
+                {
+                    "answer": "This car is more expensive than that one.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For multi-syllable adjectives like 'expensive,' use 'more' before the adjective to form the comparative.",
+                "ru": "Для многосложных прилагательных, таких как 'expensive,' используйте 'more' перед прилагательным для образования сравнительной степени.",
+                "uz": "'Expensive' kabi ko'p bo'g'inli sifatlar uchun taqqoslash darajasini hosil qilish uchun sifatdan oldin 'more' so'zidan foydalaning."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: A lion is ___ than a cat. (strong)",
+                "ru": "Дополните предложение: A lion is ___ than a cat. (strong)",
+                "uz": "Gapni to'ldiring: A lion is ___ than a cat. (strong)"
+            },
+            "options": [
+                {
+                    "answer": "stronger",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of the one-syllable adjective 'strong' is 'stronger.'",
+                "ru": "Сравнительная форма односложного прилагательного 'strong' - 'stronger.'",
+                "uz": "Bir bo'g'inli 'strong' sifatining taqqoslash darajasi 'stronger' bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My new house is ___ than my old one. (big)",
+                "ru": "Дополните предложение: My new house is ___ than my old one. (big)",
+                "uz": "Gapni to'ldiring: My new house is ___ than my old one. (big)"
+            },
+            "options": [
+                {
+                    "answer": "bigger",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When a one-syllable adjective ends with a consonant and is preceded by a single vowel, you double the final consonant before adding '-er.'",
+                "ru": "Когда односложное прилагательное заканчивается на согласную, перед которой стоит одна гласная, вы удваиваете последнюю согласную перед добавлением '-er.'",
+                "uz": "Bir bo'g'inli sifat undosh harf bilan tugab, undan oldin bitta unli harf bo'lsa, '-er' qo'shimchasini qo'shishdan oldin undosh harf ikki marta yoziladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The second test was ___ than the first one. (easy)",
+                "ru": "Дополните предложение: The second test was ___ than the first one. (easy)",
+                "uz": "Gapni to'ldiring: The second test was ___ than the first one. (easy)"
+            },
+            "options": [
+                {
+                    "answer": "easier",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When a two-syllable adjective ends in '-y,' you change the 'y' to 'i' and add '-er.'",
+                "ru": "Когда двусложное прилагательное заканчивается на '-y', вы меняете 'y' на 'i' и добавляете '-er.'",
+                "uz": "Ikki bo'g'inli sifat '-y' bilan tugasa, 'y' harfini 'i'ga o'zgartirib, '-er' qo'shimchasini qo'shasiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This book is ___ than that book. (interesting)",
+                "ru": "Дополните предложение: This book is ___ than that book. (interesting)",
+                "uz": "Gapni to'ldiring: This book is ___ than that book. (interesting)"
+            },
+            "options": [
+                {
+                    "answer": "more interesting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For adjectives with three or more syllables, we use 'more' before the adjective to form the comparative.",
+                "ru": "Для прилагательных, состоящих из трех и более слогов, мы используем 'more' перед прилагательным для образования сравнительной степени.",
+                "uz": "Uch yoki undan ortiq bo'g'inli sifatlar uchun taqqoslash darajasini hosil qilish uchun sifatdan oldin 'more' so'zidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Your cat is ___ than my dog. (small)",
+                "ru": "Дополните предложение: Your cat is ___ than my dog. (small)",
+                "uz": "Gapni to'ldiring: Your cat is ___ than my dog. (small)"
+            },
+            "options": [
+                {
+                    "answer": "smaller",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct comparative form for the one-syllable adjective 'small' is 'smaller.'",
+                "ru": "Правильная сравнительная форма односложного прилагательного 'small' - 'smaller.'",
+                "uz": "Bir bo'g'inli 'small' sifatining to'g'ri taqqoslash darajasi 'smaller' bo'ladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My new job is ___ than my old one. (good)",
+                "ru": "Дополните предложение: My new job is ___ than my old one. (good)",
+                "uz": "Gapni to'ldiring: My new job is ___ than my old one. (good)"
+            },
+            "options": [
+                {
+                    "answer": "better",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of the irregular adjective 'good' is 'better.'",
+                "ru": "Сравнительная форма неправильного прилагательного 'good' - 'better.'",
+                "uz": "Noto'g'ri 'good' sifatining taqqoslash darajasi 'better' bo'ladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This problem is ___ than the last one. (difficult)",
+                "ru": "Дополните предложение: This problem is ___ than the last one. (difficult)",
+                "uz": "Gapni to'ldiring: This problem is ___ than the last one. (difficult)"
+            },
+            "options": [
+                {
+                    "answer": "more difficult",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For multi-syllable adjectives like 'difficult,' we use 'more' to form the comparative.",
+                "ru": "Для многосложных прилагательных, таких как 'difficult,' мы используем 'more' для образования сравнительной степени.",
+                "uz": "'Difficult' kabi ko'p bo'g'inli sifatlar uchun taqqoslash darajasini hosil qilish uchun 'more' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This sofa is ___ than the chair. (comfortable)",
+                "ru": "Дополните предложение: This sofa is ___ than the chair. (comfortable)",
+                "uz": "Gapni to'ldiring: This sofa is ___ than the chair. (comfortable)"
+            },
+            "options": [
+                {
+                    "answer": "more comfortable",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For long adjectives like 'comfortable,' use 'more' before the adjective to form the comparative.",
+                "ru": "Для длинных прилагательных, таких как 'comfortable,' используйте 'more' перед прилагательным для образования сравнительной степени.",
+                "uz": "'Comfortable' kabi uzun sifatlar uchun taqqoslash darajasini hosil qilish uchun sifatdan oldin 'more' so'zidan foydalaning."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother is two years ___ than me. (old)",
+                "ru": "Дополните предложение: My brother is two years ___ than me. (old)",
+                "uz": "Gapni to'ldiring: My brother is two years ___ than me. (old)"
+            },
+            "options": [
+                {
+                    "answer": "older",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct comparative form for the one-syllable adjective 'old' is 'older.'",
+                "ru": "Правильная сравнительная форма односложного прилагательного 'old' - 'older.'",
+                "uz": "Bir bo'g'inli 'old' sifatining to'g'ri taqqoslash darajasi 'older' bo'ladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The train is much ___ than the bus. (fast)",
+                "ru": "Дополните предложение: The train is much ___ than the bus. (fast)",
+                "uz": "Gapni to'ldiring: The train is much ___ than the bus. (fast)"
+            },
+            "options": [
+                {
+                    "answer": "faster",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'fast' is 'faster.' We add '-er' to this one-syllable adjective.",
+                "ru": "Сравнительная форма 'fast' - 'faster.' Мы добавляем '-er' к этому односложному прилагательному.",
+                "uz": "'Fast' sifatining taqqoslash darajasi 'faster' bo'ladi. Ushbu bir bo'g'inli sifatga '-er' qo'shimchasini qo'shamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family lives in a small town. It is much ___1___ than the city. Life here is also ___2___ than in the city. Our house is ___3___ than my grandparents' house. It has four bedrooms, and their house has only two. My sister, Clara, is two years ___4___ than me. She is also a lot ___5___ than I am because she loves to study. I think my school is ___6___ than her school, but she disagrees. My mother says that our house is ___7___ than my sister's messy room. My father's car is ___8___ than our old car, but it is not as fast as our neighbor's car. I think our dog, Max, is ___9___ than any other dog in the world. He is the ___10___ pet I have ever had.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "quieter"
+                },
+                {
+                    "blank": "2",
+                    "answer": "safer"
+                },
+                {
+                    "blank": "3",
+                    "answer": "bigger"
+                },
+                {
+                    "blank": "4",
+                    "answer": "older"
+                },
+                {
+                    "blank": "5",
+                    "answer": "smarter"
+                },
+                {
+                    "blank": "6",
+                    "answer": "better"
+                },
+                {
+                    "blank": "7",
+                    "answer": "cleaner"
+                },
+                {
+                    "blank": "8",
+                    "answer": "newer"
+                },
+                {
+                    "blank": "9",
+                    "answer": "friendlier/more friendly"
+                },
+                {
+                    "blank": "10",
+                    "answer": "best"
+                }
+            ],
+            "explanation": {
+                "en": "The text uses comparative adjectives to describe differences between things and people. 'Quieter,' 'safer,' 'bigger,' 'older,' 'smarter,' and 'newer' are formed by adding '-er' to the base adjective. 'Friendlier' changes the 'y' to an 'i' and adds '-er'. 'Better' is an irregular form of 'good.' 'Best' is a superlative, indicating the highest degree of a quality.",
+                "ru": "В тексте используются сравнительные прилагательные для описания различий между вещами и людьми. 'Quieter,' 'safer,' 'bigger,' 'older,' 'smarter' и 'newer' образуются путем добавления '-er' к базовому прилагательному. 'Friendlier' меняет 'y' на 'i' и добавляет '-er'. 'Better' - это неправильная форма 'good.' 'Best' - это превосходная степень, указывающая на высшую степень качества.",
+                "uz": "Matn narsalar va odamlar o'rtasidagi farqlarni taqqoslash sifatlari yordamida tasvirlaydi. 'Quieter,' 'safer,' 'bigger,' 'older,' 'smarter' va 'newer' asosiy sifatga '-er' qo'shimchasini qo'shish orqali hosil qilinadi. 'Friendlier' so'zida 'y' 'i'ga o'zgaradi va '-er' qo'shiladi. 'Better' 'good' sifatining noto'g'ri shakli. 'Best' esa sifatning eng yuqori darajasini ko'rsatadigan sifatning ustunlik darajasidir."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Leo, is a very talented artist. He is much ___1___ than me at drawing and painting. He can create ___2___ pictures than I can, and he is ___3___ at using colors. His work is ___4___ and more detailed than mine. His paintings are often a lot ___5___ than mine, too. We both agree that a portrait is ___6___ to paint than a landscape because it is ___7___ to capture a person's personality. Leo's cat, Mittens, is ___8___ than my cat, Bella. Mittens loves to play, but Bella is ___9___. Leo and I have a great time painting together, but I think his art is definitely ___10___ than mine, for now.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "better"
+                },
+                {
+                    "blank": "2",
+                    "answer": "more beautiful"
+                },
+                {
+                    "blank": "3",
+                    "answer": "better"
+                },
+                {
+                    "blank": "4",
+                    "answer": "more creative"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more expensive"
+                },
+                {
+                    "blank": "6",
+                    "answer": "more difficult"
+                },
+                {
+                    "blank": "7",
+                    "answer": "harder"
+                },
+                {
+                    "blank": "8",
+                    "answer": "more active"
+                },
+                {
+                    "blank": "9",
+                    "answer": "lazier"
+                },
+                {
+                    "blank": "10",
+                    "answer": "better"
+                }
+            ],
+            "explanation": {
+                "en": "The passage uses a mix of comparative forms. 'Better' is the irregular comparative form of 'good.' 'More' is used with multi-syllable adjectives like 'beautiful,' 'creative,' 'expensive,' 'difficult,' and 'active.' 'Harder' is formed by adding '-er' to 'hard.' 'Lazie'r changes the 'y' to an 'i' and adds '-er.'",
+                "ru": "В тексте используется сочетание сравнительных форм. 'Better' - это неправильная сравнительная форма 'good.' 'More' используется с многосложными прилагательными, такими как 'beautiful,' 'creative,' 'expensive,' 'difficult' и 'active.' 'Harder' образуется путем добавления '-er' к 'hard.' 'Lazie'r меняет 'y' на 'i' и добавляет '-er.'",
+                "uz": "Matnda taqqoslash darajasining turli xil shakllari qo'llanilgan. 'Better' 'good' sifatining noto'g'ri taqqoslash darajasi. 'More' 'beautiful,' 'creative,' 'expensive,' 'difficult' va 'active' kabi ko'p bo'g'inli sifatlar bilan ishlatiladi. 'Harder' 'hard' sifatiga '-er' qo'shimchasini qo'shish orqali hosil qilinadi. 'Lazier' so'zida 'y' 'i'ga o'zgaradi va '-er' qo'shiladi."
+            }
+        }
+    ]
+}

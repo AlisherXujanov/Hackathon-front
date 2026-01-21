@@ -1,0 +1,851 @@
+{
+    "id": "A1_BASIC_MODAL_VERBS_CAN_CANT",
+    "title": "Basic Modal Verbs (can, can't) - Ability and permission only",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I can to swim very well."
+                },
+                {
+                    "answer": "I can swim very well.",
+                    "correct": true
+                },
+                {
+                    "answer": "I can swimming very well."
+                }
+            ],
+            "explanation": {
+                "en": "After 'can', we use the base form of the verb without 'to'.",
+                "ru": "После 'can' используется начальная форма глагола без 'to'.",
+                "uz": "'can'dan keyin fe’lning 'to'siz asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She can't drives a car."
+                },
+                {
+                    "answer": "She can't drive a car.",
+                    "correct": true
+                },
+                {
+                    "answer": "She can't driving a car."
+                }
+            ],
+            "explanation": {
+                "en": "After 'can't', we use the base form of the verb.",
+                "ru": "После 'can't' используется начальная форма глагола.",
+                "uz": "'can't'dan keyin fe’lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Can you speak English?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you can speak English?"
+                },
+                {
+                    "answer": "Are you can speak English?"
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'can' start with 'Can' followed by the subject.",
+                "ru": "Вопросы с 'can' начинаются с 'Can', затем идёт подлежащее.",
+                "uz": "'can' bilan savollar 'Can' bilan boshlanadi va undan so‘ng ega keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We can't to come tomorrow."
+                },
+                {
+                    "answer": "We can't come tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "We don't can come tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'can' is 'can't' or 'cannot'.",
+                "ru": "Отрицательная форма 'can' — 'can't' или 'cannot'.",
+                "uz": "'can' ning inkor shakli — 'can't' yoki 'cannot'."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Can I use your phone?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do I can use your phone?"
+                },
+                {
+                    "answer": "Am I can use your phone?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can I...?' to ask for permission.",
+                "ru": "Используйте 'Can I...?' чтобы попросить разрешение.",
+                "uz": "Ruxsat so‘rash uchun 'Can I...?' dan foydalaning."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They can plays football."
+                },
+                {
+                    "answer": "They can play football.",
+                    "correct": true
+                },
+                {
+                    "answer": "They can to play football."
+                }
+            ],
+            "explanation": {
+                "en": "After 'can', use the base form of the verb.",
+                "ru": "После 'can' используйте начальную форму глагола.",
+                "uz": "'can'dan keyin fe’lning asosiy shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother can't cooking."
+                },
+                {
+                    "answer": "My brother can't cook.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother doesn't can cook."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can't' + base form of the verb for negative sentences.",
+                "ru": "Для отрицательных предложений используйте 'can't' + начальную форму глагола.",
+                "uz": "Inkor gaplarda 'can't' + fe’lning asosiy shaklini ishlating."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Can she singing well?"
+                },
+                {
+                    "answer": "Can she sing well?",
+                    "correct": true
+                },
+                {
+                    "answer": "Does she can sing well?"
+                }
+            ],
+            "explanation": {
+                "en": "In questions, 'can' comes before the subject and the main verb is in base form.",
+                "ru": "В вопросах 'can' стоит перед подлежащим, а смысловой глагол — в начальной форме.",
+                "uz": "Savollarda 'can' ega oldidan keladi va asosiy fe’l asosiy shaklda bo‘ladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You can opens the window."
+                },
+                {
+                    "answer": "You can open the window.",
+                    "correct": true
+                },
+                {
+                    "answer": "You can to open the window."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' + base form when giving permission.",
+                "ru": "Для разрешения используйте 'can' + начальную форму глагола.",
+                "uz": "Ruxsat berishda 'can' + fe’lning asosiy shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't understands French."
+                },
+                {
+                    "answer": "He can't understand French.",
+                    "correct": true
+                },
+                {
+                    "answer": "He doesn't can understand French."
+                }
+            ],
+            "explanation": {
+                "en": "After 'can't', always use the base form of the verb.",
+                "ru": "После 'can't' всегда используется начальная форма глагола.",
+                "uz": "'can't'dan keyin har doim fe’lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with 'can' or 'can't': I _____ swim but I _____ dive.",
+                "ru": "Дополните 'can' или 'can't': I _____ swim but I _____ dive.",
+                "uz": "'can' yoki 'can't' bilan to'ldiring: I _____ swim but I _____ dive."
+            },
+            "options": [
+                {
+                    "answer": "can can't/can cannot/can, can't/can, cannot",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' for ability and 'can't' for lack of ability.",
+                "ru": "Используйте 'can' для обозначения способности и 'can't' — для её отсутствия.",
+                "uz": "Qobiliyatni bildirish uchun 'can', qobiliyat yo‘qligini ko‘rsatish uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make a question with 'can': _____ you speak Spanish?",
+                "ru": "Составьте вопрос с 'can': _____ you speak Spanish?",
+                "uz": "'can' bilan savol tuzing: _____ you speak Spanish?"
+            },
+            "options": [
+                {
+                    "answer": "Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'can' start with 'Can' followed by the subject.",
+                "ru": "Вопросы с 'can' начинаются с 'Can', затем идёт подлежащее.",
+                "uz": "'can' bilan savollar 'Can' bilan boshlanadi va undan so‘ng ega keladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the negative: She _____ play the piano.",
+                "ru": "Дополните отрицательную форму: She _____ play the piano.",
+                "uz": "Inkor shakliga to'ldiring: She _____ play the piano."
+            },
+            "options": [
+                {
+                    "answer": "can't/cannot",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative of 'can' is 'can't' or 'cannot'.",
+                "ru": "Отрицательная форма 'can' — 'can't' или 'cannot'.",
+                "uz": "'can' ning inkor shakli — 'can't' yoki 'cannot'."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Ask for permission to go home: _____ I go home?",
+                "ru": "Попросите разрешение пойти домой: _____ I go home?",
+                "uz": "Uyga borishga ruxsat so'rang: _____ I go home?"
+            },
+            "options": [
+                {
+                    "answer": "Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can I...?' to ask for permission.",
+                "ru": "Используйте 'Can I...?' чтобы попросить разрешение.",
+                "uz": "Ruxsat so‘rash uchun 'Can I...?' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: My dog _____ run very fast.",
+                "ru": "Дополните: My dog _____ run very fast.",
+                "uz": "To'ldiring: My dog _____ run very fast."
+            },
+            "options": [
+                {
+                    "answer": "can't/cannot/can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' to express ability.",
+                "ru": "Используйте 'can', чтобы выразить способность.",
+                "uz": "Qobiliyatni ifodalash uchun 'can' ishlating."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make negative: We _____ hear you.",
+                "ru": "Сделайте отрицательным: We _____ hear you.",
+                "uz": "Inkor qiling: We _____ hear you."
+            },
+            "options": [
+                {
+                    "answer": "can't/cannot",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can't' or 'cannot' for negative sentences.",
+                "ru": "Для отрицательных предложений используйте 'can't' или 'cannot'.",
+                "uz": "Inkor gaplar uchun 'can't' yoki 'cannot' ishlating."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: _____ they come to the party?",
+                "ru": "Дополните вопрос: _____ they come to the party?",
+                "uz": "Savolni to'ldiring: _____ they come to the party?"
+            },
+            "options": [
+                {
+                    "answer": "Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can' at the beginning of yes/no questions.",
+                "ru": "В вопросах типа да/нет ставьте 'Can' в начале.",
+                "uz": "Ha/yo‘q savollarida 'Can' ni boshida qo‘ying."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: You _____ sit here if you want.",
+                "ru": "Дополните: You _____ sit here if you want.",
+                "uz": "To'ldiring: You _____ sit here if you want."
+            },
+            "options": [
+                {
+                    "answer": "can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' to give permission.",
+                "ru": "Используйте 'can' для выражения разрешения.",
+                "uz": "Ruxsat berish uchun 'can' ishlating."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Make negative: The baby _____ walk yet.",
+                "ru": "Сделайте отрицательным: The baby _____ walk yet.",
+                "uz": "Inkor qiling: The baby _____ walk yet."
+            },
+            "options": [
+                {
+                    "answer": "can't/cannot",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can't' to show lack of ability.",
+                "ru": "Используйте 'can't', чтобы показать отсутствие способности.",
+                "uz": "Qobiliyat yo‘qligini ko‘rsatish uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Ask permission to leave: _____ I leave early today?",
+                "ru": "Попросите разрешение уйти: _____ I leave early today?",
+                "uz": "Erta ketishga ruxsat so'rang: _____ I leave early today?"
+            },
+            "options": [
+                {
+                    "answer": "Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can I...?' to request permission.",
+                "ru": "Используйте 'Can I...?' чтобы запросить разрешение.",
+                "uz": "Ruxsat so‘rash uchun 'Can I...?' dan foydalaning."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with 'can' or 'can't'",
+                "ru": "Заполните пропуски словами 'can' или 'can't'",
+                "uz": "Bo'shliqlarni 'can' yoki 'can't' bilan to'ldiring"
+            },
+            "text": "My name is Sarah and I want to tell you about my family's abilities. My father ___1___ drive a car very well, but he ___2___ ride a bicycle. My mother is amazing - she ___3___ cook delicious food and she ___4___ speak three languages: English, French, and Spanish. However, she ___5___ swim because she is afraid of water. My little brother Tom is only five years old, so he ___6___ read books yet, but he ___7___ draw beautiful pictures. He loves art! I am fifteen and I ___8___ play the guitar and sing. My friends say I ___9___ sing very well. Unfortunately, I ___10___ dance at all - I always step on people's feet! My grandmother lives with us and even though she is seventy, she ___11___ use a computer and send emails. She ___12___ also knit warm sweaters for the whole family. What about sports? Well, I ___13___ play tennis but I ___14___ play football. My brother ___15___ run very fast for his age.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "3",
+                    "answer": "can"
+                },
+                {
+                    "blank": "4",
+                    "answer": "can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "11",
+                    "answer": "can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "can"
+                },
+                {
+                    "blank": "13",
+                    "answer": "can"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' for abilities people have and 'can't' for abilities they don't have.",
+                "ru": "Используйте 'can' для способностей, которые у людей есть, и 'can't' — для тех, которых нет.",
+                "uz": "Odamlarda mavjud qobiliyatlar uchun 'can', mavjud bo‘lmaganlari uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Complete the dialogue with 'can', 'can't', or 'Can'",
+                "ru": "Дополните диалог словами 'can', 'can't' или 'Can'",
+                "uz": "Dialogni 'can', 'can't' yoki 'Can' bilan to'ldiring"
+            },
+            "text": "Anna: Hi Mike! ___1___ you help me with my homework? Mike: Of course! What subject is it? Anna: It's math. I ___2___ understand this problem at all. Mike: Let me see. Oh, this is easy! You ___3___ solve it like this. First, you add these numbers. Anna: ___4___ you show me step by step? Mike: Sure! Look, you ___5___ use this formula here. Anna: I think I understand now, but I ___6___ remember the formula. ___7___ you write it down for me? Mike: No problem. Here it is. Now, ___8___ you try the next problem yourself? Anna: I think so. Let me see... Yes! I ___9___ do it now! Mike: Great! You ___10___ learn this very quickly. Anna: Thank you so much! ___11___ I ask you for help again tomorrow? Mike: Of course! I ___12___ meet you in the library after school. Anna: Perfect! And maybe you ___13___ help me with science too? I ___14___ understand chemistry at all. Mike: Sure, but I ___15___ help you with physics because I'm not good at it.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "3",
+                    "answer": "can"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "can"
+                },
+                {
+                    "blank": "13",
+                    "answer": "can"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can't/cannot"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Can' for questions, 'can' for positive statements, and 'can't' for negative statements.",
+                "ru": "Используйте 'Can' для вопросов, 'can' — для утвердительных предложений, а 'can't' — для отрицательных.",
+                "uz": "Savollar uchun 'Can', ijobiy gaplar uchun 'can', inkor gaplar uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks about classroom rules and abilities",
+                "ru": "Заполните пропуски о правилах класса и способностях",
+                "uz": "Sinf qoidalari va qobiliyatlar haqida bo'shliqlarni to'ldiring"
+            },
+            "text": "Welcome to our English class! Here are some important things you need to know. Students ___1___ bring their books to every lesson - this is very important. You ___2___ also bring a notebook and a pen. During the lesson, you ___3___ ask questions if you don't understand something. However, you ___4___ use your mobile phone during class - please turn it off. If you need to leave the room, you ___5___ ask for permission first. You ___6___ say 'Can I go to the bathroom?' or 'Can I get some water?' Now, let me tell you about our classroom activities. Some students ___7___ speak English very well already, but others ___8___ speak much yet. Don't worry if you ___9___ understand everything immediately. You ___10___ practice at home with the exercises I give you. All students ___11___ borrow books from our class library. You ___12___ also use the computers during break time, but you ___13___ play games on them - they are for studying only. Remember, you ___14___ always ask me for help if you need it. I ___15___ help you during class or after school.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "can"
+                },
+                {
+                    "blank": "3",
+                    "answer": "can"
+                },
+                {
+                    "blank": "4",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can"
+                },
+                {
+                    "blank": "11",
+                    "answer": "can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "can"
+                },
+                {
+                    "blank": "13",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' for permissions and abilities, 'can't' for restrictions and lack of ability.",
+                "ru": "Используйте 'can' для разрешений и способностей, 'can't' — для запретов и отсутствия способности.",
+                "uz": "Ruxsat va qobiliyatlar uchun 'can', cheklov va qobiliyat yo‘qligi uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Complete the text about pets and their abilities",
+                "ru": "Дополните текст о домашних животных и их способностях",
+                "uz": "Uy hayvonlari va ularning qobiliyatlari haqidagi matnni to'ldiring"
+            },
+            "text": "I love animals and I want to tell you about different pets and what they ___1___ do. Dogs are amazing pets because they ___2___ learn many tricks. They ___3___ sit, stay, and come when you call them. Most dogs ___4___ also swim, but some dogs ___5___ swim because they are afraid of water. Cats are very independent animals. They ___6___ climb trees very well and they ___7___ see in the dark. However, most cats ___8___ swim - they don't like water at all! Birds are fascinating pets. Parrots ___9___ talk and repeat words, and some ___10___ even sing songs. Small birds like canaries ___11___ fly around the house, but you ___12___ let them outside because they might get lost. Fish are quiet pets that ___13___ swim all day in their tank. They ___14___ make any noise, which is perfect for apartments. However, fish ___15___ live outside their water tank - they need water to breathe.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "can"
+                },
+                {
+                    "blank": "3",
+                    "answer": "can"
+                },
+                {
+                    "blank": "4",
+                    "answer": "can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can"
+                },
+                {
+                    "blank": "11",
+                    "answer": "can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "13",
+                    "answer": "can"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can't/cannot"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' for natural abilities and 'can't' for things animals cannot do.",
+                "ru": "Используйте 'can' для естественных способностей, а 'can't' — для того, что животные делать не могут.",
+                "uz": "Tabiiy qobiliyatlar uchun 'can', hayvonlar qila olmaydigan narsalar uchun 'can't' ishlating."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the gaps about weekend activities and permissions",
+                "ru": "Заполните пропуски о выходных активностях и разрешениях",
+                "uz": "Dam olish kunlari va ruxsatlar haqida bo'shliqlarni to'ldiring"
+            },
+            "text": "This weekend is going to be great! On Saturday morning, I ___1___ sleep late because I don't have school. My parents said I ___2___ stay in bed until ten o'clock. After breakfast, I want to go to the park with my friends. My mom said I ___3___ go, but I ___4___ come home before dark. At the park, we ___5___ play football and basketball. My friend Jack ___6___ bring his new ball. We ___7___ also have a picnic there. My sister ___8___ come with us because she has to study for her exam. On Sunday, my family ___9___ visit my grandparents. My grandmother ___10___ cook amazing food - she's a great cook! My grandfather ___11___ tell us interesting stories about when he was young. He ___12___ remember everything from fifty years ago! In the evening, we ___13___ watch a movie together. My little cousin ___14___ choose the movie because it's his birthday. I hope he ___15___ pick something good for everyone!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "can"
+                },
+                {
+                    "blank": "2",
+                    "answer": "can"
+                },
+                {
+                    "blank": "3",
+                    "answer": "can"
+                },
+                {
+                    "blank": "4",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "5",
+                    "answer": "can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "can't/cannot"
+                },
+                {
+                    "blank": "9",
+                    "answer": "can"
+                },
+                {
+                    "blank": "10",
+                    "answer": "can"
+                },
+                {
+                    "blank": "11",
+                    "answer": "can"
+                },
+                {
+                    "blank": "12",
+                    "answer": "can"
+                },
+                {
+                    "blank": "13",
+                    "answer": "can"
+                },
+                {
+                    "blank": "14",
+                    "answer": "can"
+                },
+                {
+                    "blank": "15",
+                    "answer": "can"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'can' for abilities and permissions, 'can't' for restrictions and impossibilities.",
+                "ru": "Используйте 'can' для способностей и разрешений, 'can't' — для ограничений и невозможности.",
+                "uz": "Qobiliyat va ruxsatlar uchun 'can', cheklov va imkonsizliklar uchun 'can't' ishlating."
+            }
+        }
+    ]
+}

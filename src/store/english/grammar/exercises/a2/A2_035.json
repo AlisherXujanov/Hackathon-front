@@ -1,0 +1,620 @@
+{
+    "id": "A2_THE_DIFFERENT_USES_OF_THE_VERB_GET_GET_ADJECTIVES_PREPOSITIONS",
+    "title": "The different uses of the verb 'get' - Get + adjectives, prepositions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I get tired after work every day.",
+                    "correct": true
+                },
+                {
+                    "answer": "I get tire after work every day."
+                },
+                {
+                    "answer": "I get tiredly after work every day."
+                }
+            ],
+            "explanation": {
+                "en": "After 'get', we use adjectives, not verbs or adverbs. 'Get tired' means to become tired.",
+                "ru": "После 'get' мы используем прилагательные, а не глаголы или наречия. 'Get tired' означает устать.",
+                "uz": "'Get' dan keyin sifatlar ishlatiladi, fe'llar yoki ravishlar emas. 'Get tired' charchash ma'nosini bildiradi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She gets on the bus at 8 AM.",
+                    "correct": true
+                },
+                {
+                    "answer": "She gets in the bus at 8 AM."
+                },
+                {
+                    "answer": "She gets to the bus at 8 AM."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'get on' with public transport like buses and trains. 'Get in' is for cars, and 'get to' means arrive.",
+                "ru": "Мы используем 'get on' с общественным транспортом, как автобусы и поезда. 'Get in' для машин, а 'get to' означает прибыть.",
+                "uz": "Jamoat transporti (avtobus, poyezd) uchun 'get on' ishlatiladi. 'Get in' mashinalar uchun, 'get to' esa yetib borish ma'nosini bildiradi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The weather is getting cold in winter."
+                },
+                {
+                    "answer": "The weather is getting coldly in winter."
+                },
+                {
+                    "answer": "The weather gets cold in winter.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'get' and 'getting' work with adjectives, but for general facts we use simple present 'gets'. We don't use adverbs like 'coldly'.",
+                "ru": "И 'get', и 'getting' работают с прилагательными, но для общих фактов мы используем простое настоящее 'gets'. Мы не используем наречия как 'coldly'.",
+                "uz": "'Get' va 'getting' ikkalasi ham sifatlar bilan ishlaydi, lekin umumiy faktlar uchun oddiy hozirgi zamon 'gets' ishlatiladi. 'Coldly' kabi ravishlar ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I need to get up early tomorrow."
+                },
+                {
+                    "answer": "I need to get off early tomorrow."
+                },
+                {
+                    "answer": "I need to get out early tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "All three are correct but mean different things. 'Get out' means leave a place, 'get up' means wake up, 'get off' means leave transport.",
+                "ru": "Все три правильные, но означают разное. 'Get out' означает покинуть место, 'get up' проснуться, 'get off' сойти с транспорта.",
+                "uz": "Uchala gap ham to'g'ri, lekin har xil ma'noni bildiradi. 'Get out' joyni tark etish, 'get up' uyg'onish, 'get off' transportdan tushish ma'nosini bildiradi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My grandmother is getting older every year."
+                },
+                {
+                    "answer": "My grandmother gets old every year."
+                },
+                {
+                    "answer": "My grandmother is getting old.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Getting old' shows a gradual process happening now. 'Getting older' is also correct but 'getting old' is more natural for this meaning.",
+                "ru": "'Getting old' показывает постепенный процесс, происходящий сейчас. 'Getting older' тоже правильно, но 'getting old' более естественно для этого значения.",
+                "uz": "'Getting old' hozir sodir bo'layotgan bosqichma-bosqich jarayonni ko'rsatadi. 'Getting older' ham to'g'ri, lekin 'getting old' bu ma'no uchun tabiiiroq."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I get angry when people are late.",
+                    "correct": true
+                },
+                {
+                    "answer": "I get angrily when people are late."
+                },
+                {
+                    "answer": "I get anger when people are late."
+                }
+            ],
+            "explanation": {
+                "en": "'Get' is followed by adjectives like 'angry', not adverbs like 'angrily' or nouns like 'anger'.",
+                "ru": "После 'get' идут прилагательные как 'angry', а не наречия как 'angrily' или существительные как 'anger'.",
+                "uz": "'Get' dan keyin 'angry' kabi sifatlar keladi, 'angrily' kabi ravishlar yoki 'anger' kabi otlar emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Can you get me some water from the kitchen?"
+                },
+                {
+                    "answer": "Can you get to me some water from the kitchen?"
+                },
+                {
+                    "answer": "Can you get for me some water from the kitchen?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When 'get' means obtain something for someone, we use the pattern 'get someone something' or 'get something for someone'.",
+                "ru": "Когда 'get' означает получить что-то для кого-то, мы используем модель 'get someone something' или 'get something for someone'.",
+                "uz": "'Get' kimgadir nimadir olish ma'nosida bo'lganda, 'get someone something' yoki 'get something for someone' modelini ishlatamiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The children get excited about Christmas.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children get excitement about Christmas."
+                },
+                {
+                    "answer": "The children get excitedly about Christmas."
+                }
+            ],
+            "explanation": {
+                "en": "'Get excited' uses the adjective form. We say 'get excited about' something, not 'get excitement' or 'get excitedly'.",
+                "ru": "'Get excited' использует форму прилагательного. Мы говорим 'get excited about' что-то, а не 'get excitement' или 'get excitedly'.",
+                "uz": "'Get excited' sifat shaklini ishlatadi. Nimadir haqida 'get excited about' deb aytamiz, 'get excitement' yoki 'get excitedly' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We got to the station just in time.",
+                    "correct": true
+                },
+                {
+                    "answer": "We got at the station just in time."
+                },
+                {
+                    "answer": "We got on the station just in time."
+                }
+            ],
+            "explanation": {
+                "en": "'Get to' means arrive at a place. 'Get on' is for boarding transport, and 'get at' has different meanings but not for arriving.",
+                "ru": "'Get to' означает прибыть в место. 'Get on' для посадки на транспорт, а 'get at' имеет другие значения, но не для прибытия.",
+                "uz": "'Get to' joyga yetib borish ma'nosini bildiradi. 'Get on' transportga chiqish uchun, 'get at' esa boshqa ma'nolarni bildiradi, lekin yetib borish uchun emas."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "It's getting dark outside.",
+                    "correct": true
+                },
+                {
+                    "answer": "It's getting darkly outside."
+                },
+                {
+                    "answer": "It's getting darkness outside."
+                }
+            ],
+            "explanation": {
+                "en": "'Getting dark' uses the adjective 'dark' to show a gradual change. We don't use 'darkly' (adverb) or 'darkness' (noun) here.",
+                "ru": "'Getting dark' использует прилагательное 'dark' для показа постепенного изменения. Мы не используем 'darkly' (наречие) или 'darkness' (существительное) здесь.",
+                "uz": "'Getting dark' bosqichma-bosqich o'zgarishni ko'rsatish uchun 'dark' sifatini ishlatadi. Bu yerda 'darkly' (ravish) yoki 'darkness' (ot) ishlatilmaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The weather is getting ___ in autumn.",
+                "ru": "Дополните предложение: The weather is getting ___ in autumn.",
+                "uz": "Gapni to'ldiring: The weather is getting ___ in autumn."
+            },
+            "options": [
+                {
+                    "answer": "cold/colder/cool/cooler",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'getting' we use adjectives to show gradual change. 'Cold', 'colder', 'cool', or 'cooler' all work here.",
+                "ru": "После 'getting' мы используем прилагательные для показа постепенного изменения. 'Cold', 'colder', 'cool' или 'cooler' все подходят здесь.",
+                "uz": "'Getting' dan keyin bosqichma-bosqich o'zgarishni ko'rsatish uchun sifatlar ishlatiladi. Bu yerda 'cold', 'colder', 'cool' yoki 'cooler' mos keladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I get ___ when I watch scary movies.",
+                "ru": "Дополните предложение: I get ___ when I watch scary movies.",
+                "uz": "Gapni to'ldiring: I get ___ when I watch scary movies."
+            },
+            "options": [
+                {
+                    "answer": "scared/frightened/afraid",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Get' + adjective shows a change of state or feeling. 'Scared', 'frightened', or 'afraid' all describe fear.",
+                "ru": "'Get' + прилагательное показывает изменение состояния или чувства. 'Scared', 'frightened' или 'afraid' все описывают страх.",
+                "uz": "'Get' + sifat holat yoki his-tuyg'u o'zgarishini ko'rsatadi. 'Scared', 'frightened' yoki 'afraid' barchasi qo'rquvni tasvirlaydi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please get ___ the car when we arrive.",
+                "ru": "Дополните предложение: Please get ___ the car when we arrive.",
+                "uz": "Gapni to'ldiring: Please get ___ the car when we arrive."
+            },
+            "options": [
+                {
+                    "answer": "out of/out",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'get out of' or 'get out' to leave a car. This is the opposite of 'get in' or 'get into'.",
+                "ru": "Мы используем 'get out of' или 'get out' чтобы выйти из машины. Это противоположность 'get in' или 'get into'.",
+                "uz": "Mashinadan chiqish uchun 'get out of' yoki 'get out' ishlatiladi. Bu 'get in' yoki 'get into' ning teskarisidir."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My little brother gets ___ very easily when he's tired.",
+                "ru": "Дополните предложение: My little brother gets ___ very easily when he's tired.",
+                "uz": "Gapni to'ldiring: My little brother gets ___ very easily when he's tired."
+            },
+            "options": [
+                {
+                    "answer": "angry/upset/cranky/grumpy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Get' + adjective describes becoming a certain way. Children often become 'angry', 'upset', 'cranky', or 'grumpy' when tired.",
+                "ru": "'Get' + прилагательное описывает становление определенным образом. Дети часто становятся 'angry', 'upset', 'cranky' или 'grumpy' когда устали.",
+                "uz": "'Get' + sifat ma'lum holatga kelishni tasvirlaydi. Bolalar charchaganda ko'pincha 'angry', 'upset', 'cranky' yoki 'grumpy' bo'lishadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We need to get ___ the bus at the next stop.",
+                "ru": "Дополните предложение: We need to get ___ the bus at the next stop.",
+                "uz": "Gapni to'ldiring: We need to get ___ the bus at the next stop."
+            },
+            "options": [
+                {
+                    "answer": "off",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'get off' to leave public transport like buses, trains, or planes. This is the opposite of 'get on'.",
+                "ru": "Мы используем 'get off' чтобы выйти из общественного транспорта как автобусы, поезда или самолеты. Это противоположность 'get on'.",
+                "uz": "Jamoat transporti (avtobus, poyezd, samolyot)dan tushish uchun 'get off' ishlatiladi. Bu 'get on' ning teskarisidir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The coffee is getting ___. Let me heat it up.",
+                "ru": "Дополните предложение: The coffee is getting ___. Let me heat it up.",
+                "uz": "Gapni to'ldiring: The coffee is getting ___. Let me heat it up."
+            },
+            "options": [
+                {
+                    "answer": "cold/cool",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Getting cold' or 'getting cool' shows the coffee is becoming less hot. The context 'heat it up' confirms this meaning.",
+                "ru": "'Getting cold' или 'getting cool' показывает, что кофе становится менее горячим. Контекст 'heat it up' подтверждает это значение.",
+                "uz": "'Getting cold' yoki 'getting cool' qahva kam issiq bo'lib ketayotganini ko'rsatadi. 'Heat it up' konteksti bu ma'noni tasdiqlaydi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Can you get me ___ book from the shelf?",
+                "ru": "Дополните предложение: Can you get me ___ book from the shelf?",
+                "uz": "Gapni to'ldiring: Can you get me ___ book from the shelf?"
+            },
+            "options": [
+                {
+                    "answer": "that/the",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When asking someone to get something for you, we need an article or determiner. 'That book' or 'the book' both work here.",
+                "ru": "Когда просим кого-то взять что-то для нас, нужен артикль или определитель. 'That book' или 'the book' оба подходят здесь.",
+                "uz": "Kimgadir o'zingiz uchun nimadir olishni so'raganda, artikl yoki aniqlovchi kerak. Bu yerda 'that book' yoki 'the book' ikkalasi ham mos."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I usually get ___ at 7 AM on weekdays.",
+                "ru": "Дополните предложение: I usually get ___ at 7 AM on weekdays.",
+                "uz": "Gapni to'ldiring: I usually get ___ at 7 AM on weekdays."
+            },
+            "options": [
+                {
+                    "answer": "up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Get up' means to wake up and get out of bed. This is a common phrasal verb used for morning routines.",
+                "ru": "'Get up' означает проснуться и встать с кровати. Это обычный фразовый глагол для утренних рутин.",
+                "uz": "'Get up' uyg'onish va to'shakdan turish ma'nosini bildiradi. Bu ertalabki ishlar uchun keng tarqalgan frazeologik fe'l."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She gets really ___ before important exams.",
+                "ru": "Дополните предложение: She gets really ___ before important exams.",
+                "uz": "Gapni to'ldiring: She gets really ___ before important exams."
+            },
+            "options": [
+                {
+                    "answer": "nervous/anxious/worried/stressed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Get' + adjective describes emotional states. People commonly feel 'nervous', 'anxious', 'worried', or 'stressed' before exams.",
+                "ru": "'Get' + прилагательное описывает эмоциональные состояния. Люди обычно чувствуют 'nervous', 'anxious', 'worried' или 'stressed' перед экзаменами.",
+                "uz": "'Get' + sifat hissiy holatlarni tasvirlaydi. Odamlar imtihon oldida odatda 'nervous', 'anxious', 'worried' yoki 'stressed' bo'lishadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How long does it take to get ___ the city center?",
+                "ru": "Дополните предложение: How long does it take to get ___ the city center?",
+                "uz": "Gapni to'ldiring: How long does it take to get ___ the city center?"
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Get to' means arrive at a place. We ask 'How long does it take to get to...?' when asking about travel time.",
+                "ru": "'Get to' означает прибыть в место. Мы спрашиваем 'How long does it take to get to...?' когда спрашиваем о времени в пути.",
+                "uz": "'Get to' joyga yetib borish ma'nosini bildiradi. Yo'l vaqti haqida so'raganda 'How long does it take to get to...?' deb so'raymiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every morning, Sarah has to ___1___ up early for work. She usually gets ___2___ around 6:30 AM because her job starts at 8:00. First, she gets ___3___ of bed and goes to the bathroom. Then she gets ___4___ and has breakfast. The weather is getting ___5___ now that winter is coming, so she needs to wear warm clothes. Sarah gets ___6___ about being late, so she always leaves home with plenty of time. She walks to the bus stop and gets ___7___ the number 42 bus. The journey takes about 20 minutes to get ___8___ her office building. During rush hour, the bus gets really ___9___ with commuters, but Sarah doesn't mind. She gets ___10___ the bus right in front of her building, which is very convenient. Sometimes her colleagues get ___11___ when the elevator is slow, but Sarah stays calm. She gets ___12___ her desk by 7:50 AM and starts preparing for her day. Sarah loves her job and never gets ___13___ of helping customers solve their problems. At lunchtime, she gets ___14___ of the office building to buy food from nearby restaurants. The food gets ___15___ quickly in the microwave, and she enjoys eating while chatting with coworkers about their weekend plans.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "get"
+                },
+                {
+                    "blank": "2",
+                    "answer": "up"
+                },
+                {
+                    "blank": "3",
+                    "answer": "out"
+                },
+                {
+                    "blank": "4",
+                    "answer": "dressed"
+                },
+                {
+                    "blank": "5",
+                    "answer": "cold"
+                },
+                {
+                    "blank": "6",
+                    "answer": "worried"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "to"
+                },
+                {
+                    "blank": "9",
+                    "answer": "crowded"
+                },
+                {
+                    "blank": "10",
+                    "answer": "off"
+                },
+                {
+                    "blank": "11",
+                    "answer": "frustrated"
+                },
+                {
+                    "blank": "12",
+                    "answer": "to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "tired"
+                },
+                {
+                    "blank": "14",
+                    "answer": "out"
+                },
+                {
+                    "blank": "15",
+                    "answer": "hot"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates various uses of 'get': phrasal verbs (get up, get on/off, get out), get + adjectives (tired, cold, worried), and get + prepositions (get to places).",
+                "ru": "Это упражнение демонстрирует различные употребления 'get': фразовые глаголы (get up, get on/off, get out), get + прилагательные (tired, cold, worried), и get + предлоги (get to places).",
+                "uz": "Bu mashq 'get' ning turli ishlatilishini ko'rsatadi: frazeologik fe'llar (get up, get on/off, get out), get + sifatlar (tired, cold, worried) va get + predloglar (get to places)."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last weekend, Tom decided to visit his grandmother who lives in the countryside. He got ___1___ early on Saturday morning and got ___2___ quickly because he wanted to catch the 8 AM train. The weather was getting ___3___ as autumn approached, so he put on a warm jacket. Tom got ___4___ his car and drove to the train station. He got ___5___ of his car in the parking lot and hurried to the platform. The train was already there, so he got ___6___ immediately. During the journey, Tom got ___7___ reading a good book. The countryside looked beautiful, and the leaves were getting ___8___ with autumn colors. After two hours, the train arrived at his destination, and Tom got ___9___ with his backpack. He walked through the small town to get ___10___ his grandmother's house. When he arrived, his grandmother got very ___11___ to see him. She had prepared his favorite lunch, and they sat down to eat together. Tom's grandmother told him stories about the old days, and he never gets ___12___ of listening to them. In the evening, they watched TV together, and his grandmother got ___13___ during the movie. Tom covered her with a blanket and got ___14___ to prepare some tea. The next morning, Tom got ready to return home, but he promised his grandmother that he would get ___15___ to visit her again very soon. These family visits always make both of them feel happy and connected.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "up"
+                },
+                {
+                    "blank": "2",
+                    "answer": "dressed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "colder"
+                },
+                {
+                    "blank": "4",
+                    "answer": "into"
+                },
+                {
+                    "blank": "5",
+                    "answer": "out"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "busy"
+                },
+                {
+                    "blank": "8",
+                    "answer": "colorful"
+                },
+                {
+                    "blank": "9",
+                    "answer": "off"
+                },
+                {
+                    "blank": "10",
+                    "answer": "to"
+                },
+                {
+                    "blank": "11",
+                    "answer": "excited"
+                },
+                {
+                    "blank": "12",
+                    "answer": "tired"
+                },
+                {
+                    "blank": "13",
+                    "answer": "sleepy"
+                },
+                {
+                    "blank": "14",
+                    "answer": "up"
+                },
+                {
+                    "blank": "15",
+                    "answer": "back"
+                }
+            ],
+            "explanation": {
+                "en": "This passage practices 'get' in different contexts: movement (get on/off, get into/out of), states and feelings (get excited, sleepy, tired), and direction (get to, get back).",
+                "ru": "Этот отрывок практикует 'get' в разных контекстах: движение (get on/off, get into/out of), состояния и чувства (get excited, sleepy, tired), и направление (get to, get back).",
+                "uz": "Bu matn 'get' ni turli kontekstlarda mashq qildiradi: harakat (get on/off, get into/out of), holatlar va his-tuyg'ular (get excited, sleepy, tired) va yo'nalish (get to, get back)."
+            }
+        }
+    ]
+}

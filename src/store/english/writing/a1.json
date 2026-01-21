@@ -1,0 +1,2102 @@
+[
+    {
+        "id": 1,
+        "topic": "Write about your family. Who lives in your house?",
+        "relatedVocabulary": {
+            "en": {
+                "family": "people related to you by birth or marriage",
+                "mother": "female parent",
+                "father": "male parent",
+                "sister": "female sibling",
+                "brother": "male sibling",
+                "house": "building where people live",
+                "home": "place where you live",
+                "love": "strong feeling of care",
+                "live": "to have your home in a place",
+                "together": "with each other"
+            },
+            "ru": {
+                "family": "семья",
+                "mother": "мать",
+                "father": "отец",
+                "sister": "сестра",
+                "brother": "брат",
+                "house": "дом",
+                "home": "дом",
+                "love": "любовь",
+                "live": "жить",
+                "together": "вместе"
+            },
+            "uz": {
+                "family": "oila",
+                "mother": "ona",
+                "father": "ota",
+                "sister": "opa",
+                "brother": "aka",
+                "house": "uy",
+                "home": "uy",
+                "love": "sevgi",
+                "live": "yashash",
+                "together": "birga"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Describe your daily routine. What do you do every day?",
+        "relatedVocabulary": {
+            "en": {
+                "morning": "early part of the day",
+                "wake": "to stop sleeping",
+                "breakfast": "first meal of the day",
+                "work": "job or activity you do",
+                "school": "place where you learn",
+                "lunch": "meal eaten in the middle of the day",
+                "evening": "late part of the day",
+                "dinner": "main meal of the day",
+                "sleep": "to rest with eyes closed",
+                "every": "each one"
+            },
+            "ru": {
+                "morning": "утро",
+                "wake": "просыпаться",
+                "breakfast": "завтрак",
+                "work": "работа",
+                "school": "школа",
+                "lunch": "обед",
+                "evening": "вечер",
+                "dinner": "ужин",
+                "sleep": "спать",
+                "every": "каждый"
+            },
+            "uz": {
+                "morning": "ertalab",
+                "wake": "uyg'onish",
+                "breakfast": "nonushta",
+                "work": "ish",
+                "school": "maktab",
+                "lunch": "tushlik",
+                "evening": "kechqurun",
+                "dinner": "kechki ovqat",
+                "sleep": "uxlash",
+                "every": "har"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "topic": "What is your favorite food? Why do you like it?",
+        "relatedVocabulary": {
+            "en": {
+                "food": "things you eat",
+                "favorite": "the one you like most",
+                "like": "to enjoy something",
+                "taste": "flavor of food",
+                "cook": "to prepare food",
+                "eat": "to put food in your mouth",
+                "hungry": "wanting to eat",
+                "delicious": "very good taste",
+                "meal": "food eaten at one time",
+                "kitchen": "room where you cook"
+            },
+            "ru": {
+                "food": "еда",
+                "favorite": "любимый",
+                "like": "нравиться",
+                "taste": "вкус",
+                "cook": "готовить",
+                "eat": "есть",
+                "hungry": "голодный",
+                "delicious": "вкусный",
+                "meal": "еда",
+                "kitchen": "кухня"
+            },
+            "uz": {
+                "food": "ovqat",
+                "favorite": "sevimli",
+                "like": "yoqtirish",
+                "taste": "ta'm",
+                "cook": "pishirish",
+                "eat": "yeyish",
+                "hungry": "och",
+                "delicious": "mazali",
+                "meal": "ovqat",
+                "kitchen": "oshxona"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "topic": "Tell about your best friend. What do you do together?",
+        "relatedVocabulary": {
+            "en": {
+                "friend": "person you like and know well",
+                "best": "most good",
+                "play": "to have fun",
+                "talk": "to speak with someone",
+                "share": "to give part of something",
+                "help": "to make things easier",
+                "fun": "enjoyable activity",
+                "meet": "to see someone",
+                "laugh": "to laugh",
+                "enjoy": "to like doing something"
+            },
+            "ru": {
+                "friend": "друг",
+                "best": "лучший",
+                "play": "играть",
+                "talk": "говорить",
+                "share": "делиться",
+                "help": "помогать",
+                "fun": "весело",
+                "meet": "встречать",
+                "laugh": "смеяться",
+                "enjoy": "наслаждаться"
+            },
+            "uz": {
+                "friend": "do'st",
+                "best": "eng yaxshi",
+                "play": "qiziq",
+                "talk": "gaplashish",
+                "share": "bo'lishish",
+                "help": "yordam berish",
+                "fun": "zavqlanish",
+                "meet": "ko'rish",
+                "laugh": "kulish",
+                "enjoy": "zavqlanish"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Describe your bedroom. What things are in it?",
+        "relatedVocabulary": {
+            "en": {
+                "bedroom": "room where you sleep",
+                "bed": "furniture for sleeping",
+                "window": "opening in wall for light",
+                "door": "entrance to room",
+                "clothes": "things you wear",
+                "table": "flat surface with legs",
+                "chair": "seat for one person",
+                "book": "pages with words",
+                "light": "thing that makes bright",
+                "clean": "not dirty"
+            },
+            "ru": {
+                "bedroom": "спальня",
+                "bed": "кровать",
+                "window": "окно",
+                "door": "дверь",
+                "clothes": "одежда",
+                "table": "стол",
+                "chair": "стул",
+                "book": "книга",
+                "light": "свет",
+                "clean": "чистый"
+            },
+            "uz": {
+                "bedroom": "yotoq xona",
+                "bed": "karavot",
+                "window": "deraza",
+                "door": "eshik",
+                "clothes": "kiyim",
+                "table": "stol",
+                "chair": "stul",
+                "book": "kitob",
+                "light": "yorug'lik",
+                "clean": "toza"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "topic": "What do you do in your free time? What hobbies do you have?",
+        "relatedVocabulary": {
+            "en": {
+                "free": "not busy",
+                "time": "hours and minutes",
+                "hobby": "activity you enjoy",
+                "read": "to look at words",
+                "music": "sounds that are nice",
+                "watch": "to look at something",
+                "movie": "film with story",
+                "draw": "to make pictures",
+                "sing": "to make music with voice",
+                "dance": "to move to music"
+            },
+            "ru": {
+                "free": "свободный",
+                "time": "время",
+                "hobby": "хобби",
+                "read": "читать",
+                "music": "музыка",
+                "watch": "смотреть",
+                "movie": "фильм",
+                "draw": "рисовать",
+                "sing": "петь",
+                "dance": "танцевать"
+            },
+            "uz": {
+                "free": "bo'sh",
+                "time": "vaqt",
+                "hobby": "sevimli mashg'ulot",
+                "read": "o'qish",
+                "music": "musiqa",
+                "watch": "tomosha qilish",
+                "movie": "film",
+                "draw": "rasm chizish",
+                "sing": "qo'shiq aytish",
+                "dance": "raqsga tushish"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Write about your school. What subjects do you study?",
+        "relatedVocabulary": {
+            "en": {
+                "school": "place where you learn",
+                "student": "person who learns",
+                "teacher": "person who teaches",
+                "subject": "topic you study",
+                "learn": "to get new knowledge",
+                "study": "to try to learn",
+                "class": "group of students",
+                "homework": "work you do at home",
+                "test": "questions to check knowledge",
+                "grade": "mark for your work"
+            },
+            "ru": {
+                "school": "школа",
+                "student": "ученик",
+                "teacher": "учитель",
+                "subject": "предмет",
+                "learn": "учиться",
+                "study": "изучать",
+                "class": "класс",
+                "homework": "домашнее задание",
+                "test": "тест",
+                "grade": "оценка"
+            },
+            "uz": {
+                "school": "maktab",
+                "student": "o'quvchi",
+                "teacher": "o'qituvchi",
+                "subject": "fan",
+                "learn": "o'rganish",
+                "study": "o'qish",
+                "class": "sinf",
+                "homework": "uy vazifasi",
+                "test": "test",
+                "grade": "baho"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Describe your neighborhood. What places are near your house?",
+        "relatedVocabulary": {
+            "en": {
+                "neighborhood": "area where you live",
+                "near": "close to",
+                "shop": "place to buy things",
+                "park": "green area with trees",
+                "street": "road in city",
+                "market": "place to buy food",
+                "hospital": "place for sick people",
+                "bank": "place for money",
+                "restaurant": "place to eat",
+                "quiet": "not noisy"
+            },
+            "ru": {
+                "neighborhood": "район",
+                "near": "рядом",
+                "shop": "магазин",
+                "park": "парк",
+                "street": "улица",
+                "market": "рынок",
+                "hospital": "больница",
+                "bank": "банк",
+                "restaurant": "ресторан",
+                "quiet": "тихий"
+            },
+            "uz": {
+                "neighborhood": "mahalla",
+                "near": "yaqin",
+                "shop": "do'kon",
+                "park": "bog'",
+                "street": "ko'cha",
+                "market": "bozor",
+                "hospital": "kasalxona",
+                "bank": "bank",
+                "restaurant": "restoran",
+                "quiet": "jim"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "topic": "What is your favorite season? Why do you like it?",
+        "relatedVocabulary": {
+            "en": {
+                "season": "time of year",
+                "spring": "warm season after winter",
+                "summer": "hot season",
+                "autumn": "cool season",
+                "winter": "cold season",
+                "weather": "how hot or cold it is",
+                "sunny": "with bright sun",
+                "rain": "water falling from sky",
+                "snow": "white ice from sky",
+                "warm": "not cold"
+            },
+            "ru": {
+                "season": "сезон",
+                "spring": "весна",
+                "summer": "лето",
+                "autumn": "осень",
+                "winter": "зима",
+                "weather": "погода",
+                "sunny": "солнечный",
+                "rain": "дождь",
+                "snow": "снег",
+                "warm": "теплый"
+            },
+            "uz": {
+                "season": "fasl",
+                "spring": "bahor",
+                "summer": "yoz",
+                "autumn": "kuz",
+                "winter": "qish",
+                "weather": "ob-havo",
+                "sunny": "quyoshli",
+                "rain": "yomg'ir",
+                "snow": "qor",
+                "warm": "iliq"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Tell about your pet or a favorite animal. What does it look like?",
+        "relatedVocabulary": {
+            "en": {
+                "pet": "animal you keep at home",
+                "animal": "living thing like dog or cat",
+                "dog": "animal that barks",
+                "cat": "animal that meows",
+                "bird": "animal that flies",
+                "fish": "animal that swims",
+                "cute": "nice to look at",
+                "friendly": "kind and nice",
+                "care": "to look after",
+                "feed": "to give food"
+            },
+            "ru": {
+                "pet": "домашнее животное",
+                "animal": "животное",
+                "dog": "собака",
+                "cat": "кошка",
+                "bird": "птица",
+                "fish": "рыба",
+                "cute": "милый",
+                "friendly": "дружелюбный",
+                "care": "заботиться",
+                "feed": "кормить"
+            },
+            "uz": {
+                "pet": "uy hayvoni",
+                "animal": "hayvon",
+                "dog": "it",
+                "cat": "mushuk",
+                "bird": "qush",
+                "fish": "baliq",
+                "cute": "chiroyli",
+                "friendly": "do'stona",
+                "care": "g'amxo'rlik qilish",
+                "feed": "ovqatlantirish"
+            }
+        }
+    },
+    {
+        "id": 11,
+        "topic": "Describe your favorite clothes. What do you like to wear?",
+        "relatedVocabulary": {
+            "en": {
+                "clothes": "things you wear",
+                "wear": "to put clothes on body",
+                "shirt": "top clothing",
+                "pants": "clothing for legs",
+                "dress": "one-piece clothing",
+                "shoes": "things for feet",
+                "color": "red, blue, green etc.",
+                "comfortable": "nice to wear",
+                "style": "way something looks",
+                "fashion": "popular way to dress"
+            },
+            "ru": {
+                "clothes": "одежда",
+                "wear": "носить",
+                "shirt": "рубашка",
+                "pants": "брюки",
+                "dress": "платье",
+                "shoes": "обувь",
+                "color": "цвет",
+                "comfortable": "удобный",
+                "style": "стиль",
+                "fashion": "мода"
+            },
+            "uz": {
+                "clothes": "kiyim",
+                "wear": "kiyish",
+                "shirt": "ko'ylak",
+                "pants": "shim",
+                "dress": "ko'ylak (ayollar uchun)",
+                "shoes": "oyoq kiyim",
+                "color": "rang",
+                "comfortable": "qulay",
+                "style": "uslub",
+                "fashion": "moda"
+            }
+        }
+    },
+    {
+        "id": 12,
+        "topic": "What do you do when you feel sick? How do you take care of yourself?",
+        "relatedVocabulary": {
+            "en": {
+                "sick": "not feeling well",
+                "healthy": "feeling good",
+                "doctor": "person who helps sick people",
+                "medicine": "thing to make you better",
+                "rest": "to not work",
+                "sleep": "to close eyes and rest",
+                "water": "clear liquid you drink",
+                "pain": "when body hurts",
+                "better": "more good than before",
+                "hospital": "place for very sick people"
+            },
+            "ru": {
+                "sick": "больной",
+                "healthy": "здоровый",
+                "doctor": "врач",
+                "medicine": "лекарство",
+                "rest": "отдыхать",
+                "sleep": "спать",
+                "water": "вода",
+                "pain": "боль",
+                "better": "лучше",
+                "hospital": "больница"
+            },
+            "uz": {
+                "sick": "kasal",
+                "healthy": "sog'lom",
+                "doctor": "shifokor",
+                "medicine": "dori",
+                "rest": "dam olish",
+                "sleep": "uxlash",
+                "water": "suv",
+                "pain": "og'riq",
+                "better": "yaxshiroq",
+                "hospital": "kasalxona"
+            }
+        }
+    },
+    {
+        "id": 13,
+        "topic": "Write about your favorite holiday. How do you celebrate it?",
+        "relatedVocabulary": {
+            "en": {
+                "holiday": "special day",
+                "celebrate": "to have party for special day",
+                "party": "fun time with people",
+                "gift": "present you give",
+                "cake": "sweet food for parties",
+                "family": "people related to you",
+                "tradition": "special way to do things",
+                "happy": "feeling good",
+                "festival": "big celebration",
+                "memory": "thing you remember"
+            },
+            "ru": {
+                "holiday": "праздник",
+                "celebrate": "праздновать",
+                "party": "вечеринка",
+                "gift": "подарок",
+                "cake": "торт",
+                "family": "семья",
+                "tradition": "традиция",
+                "happy": "счастливый",
+                "festival": "фестиваль",
+                "memory": "воспоминание"
+            },
+            "uz": {
+                "holiday": "bayram",
+                "celebrate": "nishonlash",
+                "party": "ziyofat",
+                "gift": "sovg'a",
+                "cake": "tort",
+                "family": "oila",
+                "tradition": "an'ana",
+                "happy": "baxtli",
+                "festival": "festival",
+                "memory": "xotira"
+            }
+        }
+    },
+    {
+        "id": 14,
+        "topic": "Describe your city or town. What do you like about it?",
+        "relatedVocabulary": {
+            "en": {
+                "city": "big place with many people",
+                "town": "smaller place than city",
+                "live": "to have home in place",
+                "people": "men, women, children",
+                "building": "structure where people work",
+                "traffic": "cars on road",
+                "noise": "loud sounds",
+                "busy": "with many things happening",
+                "beautiful": "nice to look at",
+                "safe": "not dangerous"
+            },
+            "ru": {
+                "city": "город",
+                "town": "городок",
+                "live": "жить",
+                "people": "люди",
+                "building": "здание",
+                "traffic": "движение",
+                "noise": "шум",
+                "busy": "занятый",
+                "beautiful": "красивый",
+                "safe": "безопасный"
+            },
+            "uz": {
+                "city": "shahar",
+                "town": "qishloq",
+                "live": "yashash",
+                "people": "odamlar",
+                "building": "bino",
+                "traffic": "transport harakati",
+                "noise": "shovqin",
+                "busy": "band",
+                "beautiful": "chiroyli",
+                "safe": "xavfsiz"
+            }
+        }
+    },
+    {
+        "id": 15,
+        "topic": "What job do you want to have? Why is it interesting?",
+        "relatedVocabulary": {
+            "en": {
+                "job": "work you do for money",
+                "work": "activity you do",
+                "career": "job you do for long time",
+                "money": "coins and paper for buying",
+                "office": "place where people work",
+                "skill": "thing you can do well",
+                "learn": "to get new knowledge",
+                "future": "time that will come",
+                "dream": "thing you want very much",
+                "important": "having great value"
+            },
+            "ru": {
+                "job": "работа",
+                "work": "работать",
+                "career": "карьера",
+                "money": "деньги",
+                "office": "офис",
+                "skill": "навык",
+                "learn": "учиться",
+                "future": "будущее",
+                "dream": "мечта",
+                "important": "важный"
+            },
+            "uz": {
+                "job": "ish",
+                "work": "ishlash",
+                "career": "martaba",
+                "money": "pul",
+                "office": "ofis",
+                "skill": "ko'nikma",
+                "learn": "o'rganish",
+                "future": "kelajak",
+                "dream": "orzu",
+                "important": "muhim"
+            }
+        }
+    },
+    {
+        "id": 16,
+        "topic": "Tell about a place you want to visit. Why do you want to go there?",
+        "relatedVocabulary": {
+            "en": {
+                "place": "area or location",
+                "visit": "to go to see",
+                "travel": "to go to different places",
+                "country": "land with government",
+                "culture": "way people live",
+                "language": "words people speak",
+                "history": "things from past",
+                "interesting": "making you want to know more",
+                "experience": "thing that happens to you",
+                "adventure": "exciting experience"
+            },
+            "ru": {
+                "place": "место",
+                "visit": "посещать",
+                "travel": "путешествовать",
+                "country": "страна",
+                "culture": "культура",
+                "language": "язык",
+                "history": "история",
+                "interesting": "интересный",
+                "experience": "опыт",
+                "adventure": "приключение"
+            },
+            "uz": {
+                "place": "joy",
+                "visit": "tashrif buyurish",
+                "travel": "sayohat qilish",
+                "country": "mamlakat",
+                "culture": "madaniyat",
+                "language": "til",
+                "history": "tarix",
+                "interesting": "qiziq",
+                "experience": "tajriba",
+                "adventure": "sarguzasht"
+            }
+        }
+    },
+    {
+        "id": 17,
+        "topic": "Describe your favorite sport. Do you play it or watch it?",
+        "relatedVocabulary": {
+            "en": {
+                "sport": "physical game with rules",
+                "play": "to do sport",
+                "watch": "to look at",
+                "team": "group of players",
+                "player": "person who plays sport",
+                "game": "one match of sport",
+                "win": "to be first",
+                "lose": "to not win",
+                "practice": "to do many times to improve",
+                "healthy": "good for body"
+            },
+            "ru": {
+                "sport": "спорт",
+                "play": "играть",
+                "watch": "смотреть",
+                "team": "команда",
+                "player": "игрок",
+                "game": "игра",
+                "win": "выигрывать",
+                "lose": "проигрывать",
+                "practice": "тренироваться",
+                "healthy": "здоровый"
+            },
+            "uz": {
+                "sport": "sport",
+                "play": "o'ynash",
+                "watch": "tomosha qilish",
+                "team": "jamoa",
+                "player": "o'yinchi",
+                "game": "o'yin",
+                "win": "yutish",
+                "lose": "yutqazish",
+                "practice": "mashq qilish",
+                "healthy": "sog'lom"
+            }
+        }
+    },
+    {
+        "id": 18,
+        "topic": "What do you do to help at home? What chores do you have?",
+        "relatedVocabulary": {
+            "en": {
+                "help": "to make things easier",
+                "home": "place where you live",
+                "chore": "work you do at home",
+                "clean": "to make not dirty",
+                "wash": "to clean with water",
+                "cook": "to make food",
+                "dishes": "plates and cups",
+                "room": "part of house",
+                "tidy": "neat and organized",
+                "responsibility": "thing you must do"
+            },
+            "ru": {
+                "help": "помогать",
+                "home": "дом",
+                "chore": "домашняя работа",
+                "clean": "убирать",
+                "wash": "мыть",
+                "cook": "готовить",
+                "dishes": "посуда",
+                "room": "комната",
+                "tidy": "аккуратный",
+                "responsibility": "ответственность"
+            },
+            "uz": {
+                "help": "yordam berish",
+                "home": "uy",
+                "chore": "uy ishi",
+                "clean": "tozalash",
+                "wash": "yuvish",
+                "cook": "pishirish",
+                "dishes": "idishlar",
+                "room": "xona",
+                "tidy": "tartibli",
+                "responsibility": "mas'uliyat"
+            }
+        }
+    },
+    {
+        "id": 19,
+        "topic": "Write about your favorite book or movie. What is the story about?",
+        "relatedVocabulary": {
+            "en": {
+                "book": "pages with story",
+                "movie": "film with story",
+                "story": "tale about people",
+                "character": "person in story",
+                "read": "to look at words",
+                "watch": "to look at movie",
+                "exciting": "making you feel interested",
+                "funny": "making you laugh",
+                "sad": "making you feel unhappy",
+                "ending": "last part of story"
+            },
+            "ru": {
+                "book": "книга",
+                "movie": "фильм",
+                "story": "история",
+                "character": "персонаж",
+                "read": "читать",
+                "watch": "смотреть",
+                "exciting": "захватывающий",
+                "funny": "смешной",
+                "sad": "грустный",
+                "ending": "конец"
+            },
+            "uz": {
+                "book": "kitob",
+                "movie": "film",
+                "story": "hikoya",
+                "character": "qahramon",
+                "read": "o'qish",
+                "watch": "tomosha qilish",
+                "exciting": "hayajonli",
+                "funny": "kulgili",
+                "sad": "qayg'uli",
+                "ending": "oxiri"
+            }
+        }
+    },
+    {
+        "id": 20,
+        "topic": "Describe your morning routine. How do you start your day?",
+        "relatedVocabulary": {
+            "en": {
+                "morning": "early part of day",
+                "routine": "things you do regularly",
+                "wake": "to stop sleeping",
+                "alarm": "thing that makes noise to wake you",
+                "shower": "to wash body with water",
+                "brush": "to clean teeth",
+                "breakfast": "first meal of day",
+                "dress": "to put clothes on",
+                "ready": "prepared to go",
+                "start": "to begin"
+            },
+            "ru": {
+                "morning": "утро",
+                "routine": "распорядок",
+                "wake": "просыпаться",
+                "alarm": "будильник",
+                "shower": "душ",
+                "brush": "чистить",
+                "breakfast": "завтрак",
+                "dress": "одеваться",
+                "ready": "готовый",
+                "start": "начинать"
+            },
+            "uz": {
+                "morning": "ertalab",
+                "routine": "kun tartibi",
+                "wake": "uyg'onish",
+                "alarm": "uyg'otgich",
+                "shower": "dush",
+                "brush": "tozalash",
+                "breakfast": "nonushta",
+                "dress": "kiyinish",
+                "ready": "tayyor",
+                "start": "boshlash"
+            }
+        }
+    },
+    {
+        "id": 21,
+        "topic": "What makes you happy? Write about things that bring you joy.",
+        "relatedVocabulary": {
+            "en": {
+                "happy": "feeling good and pleased",
+                "joy": "feeling of happiness",
+                "smile": "to show happiness on face",
+                "laugh": "to make sound when happy",
+                "fun": "enjoyable activity",
+                "enjoy": "to like doing something",
+                "friend": "person you like",
+                "music": "sounds that are pleasant",
+                "sunshine": "light from sun",
+                "love": "strong good feeling"
+            },
+            "ru": {
+                "happy": "счастливый",
+                "joy": "радость",
+                "smile": "улыбаться",
+                "laugh": "смеяться",
+                "fun": "веселье",
+                "enjoy": "наслаждаться",
+                "friend": "друг",
+                "music": "музыка",
+                "sunshine": "солнечный свет",
+                "love": "любовь"
+            },
+            "uz": {
+                "happy": "baxtli",
+                "joy": "quvonch",
+                "smile": "tabassum qilish",
+                "laugh": "kulish",
+                "fun": "qiziq",
+                "enjoy": "zavqlanish",
+                "friend": "do'st",
+                "music": "musiqa",
+                "sunshine": "quyosh nuri",
+                "love": "sevgi"
+            }
+        }
+    },
+    {
+        "id": 22,
+        "topic": "Describe your favorite teacher. What makes them special?",
+        "relatedVocabulary": {
+            "en": {
+                "teacher": "a person who teaches students in school",
+                "kind": "nice and helpful to other people",
+                "smart": "very good at learning and understanding things",
+                "helpful": "ready to help other people",
+                "lesson": "a time when you learn something in school",
+                "explain": "to make something clear and easy to understand",
+                "patient": "able to wait calmly without getting angry",
+                "funny": "making people laugh and smile",
+                "subject": "what you study in school like math or English",
+                "learn": "to get new knowledge or skills"
+            },
+            "ru": {
+                "teacher": "учитель",
+                "kind": "добрый",
+                "smart": "умный",
+                "helpful": "полезный",
+                "lesson": "урок",
+                "explain": "объяснять",
+                "patient": "терпеливый",
+                "funny": "смешной",
+                "subject": "предмет",
+                "learn": "учиться"
+            },
+            "uz": {
+                "teacher": "o'qituvchi",
+                "kind": "mehribon",
+                "smart": "aqlli",
+                "helpful": "foydali",
+                "lesson": "dars",
+                "explain": "tushuntirish",
+                "patient": "sabrli",
+                "funny": "kulgili",
+                "subject": "fan",
+                "learn": "o'rganish"
+            }
+        }
+    },
+    {
+        "id": 23,
+        "topic": "Write about your favorite way to travel. Do you like cars, buses, or walking?",
+        "relatedVocabulary": {
+            "en": {
+                "travel": "to go from one place to another place",
+                "car": "a vehicle with four wheels that people drive",
+                "bus": "a big vehicle that carries many people",
+                "walk": "to move by putting one foot in front of the other",
+                "fast": "moving or happening quickly",
+                "slow": "not moving or happening quickly",
+                "comfortable": "making you feel good and relaxed",
+                "cheap": "not costing much money",
+                "expensive": "costing a lot of money",
+                "journey": "a trip from one place to another"
+            },
+            "ru": {
+                "travel": "путешествовать",
+                "car": "машина",
+                "bus": "автобус",
+                "walk": "ходить пешком",
+                "fast": "быстрый",
+                "slow": "медленный",
+                "comfortable": "удобный",
+                "cheap": "дешёвый",
+                "expensive": "дорогой",
+                "journey": "путешествие"
+            },
+            "uz": {
+                "travel": "sayohat qilish",
+                "car": "mashina",
+                "bus": "avtobus",
+                "walk": "piyoda yurish",
+                "fast": "tez",
+                "slow": "sekin",
+                "comfortable": "qulay",
+                "cheap": "arzon",
+                "expensive": "qimmat",
+                "journey": "safar"
+            }
+        }
+    },
+    {
+        "id": 24,
+        "topic": "Describe your favorite place to eat. Is it at home or a restaurant?",
+        "relatedVocabulary": {
+            "en": {
+                "restaurant": "a place where people go to buy and eat food",
+                "delicious": "having a very good taste",
+                "menu": "a list of food you can order in a restaurant",
+                "waiter": "a person who serves food in a restaurant",
+                "order": "to ask for food in a restaurant",
+                "kitchen": "the room where people cook food",
+                "cook": "to make food ready to eat using heat",
+                "meal": "food that you eat at a particular time",
+                "taste": "the flavor of food in your mouth",
+                "hungry": "wanting to eat food"
+            },
+            "ru": {
+                "restaurant": "ресторан",
+                "delicious": "вкусный",
+                "menu": "меню",
+                "waiter": "официант",
+                "order": "заказывать",
+                "kitchen": "кухня",
+                "cook": "готовить",
+                "meal": "еда",
+                "taste": "вкус",
+                "hungry": "голодный"
+            },
+            "uz": {
+                "restaurant": "restoran",
+                "delicious": "mazali",
+                "menu": "menyu",
+                "waiter": "ofitsiant",
+                "order": "buyurtma berish",
+                "kitchen": "oshxona",
+                "cook": "pishirish",
+                "meal": "ovqat",
+                "taste": "ta'm",
+                "hungry": "och"
+            }
+        }
+    },
+    {
+        "id": 25,
+        "topic": "Tell about your weekend plans. What will you do on Saturday and Sunday?",
+        "relatedVocabulary": {
+            "en": {
+                "weekend": "Saturday and Sunday when people don't work",
+                "plan": "something you want to do in the future",
+                "Saturday": "the day before Sunday",
+                "Sunday": "the last day of the week",
+                "relax": "to rest and feel calm",
+                "visit": "to go and see someone or some place",
+                "shopping": "buying things you need or want",
+                "movie": "a film you watch for entertainment",
+                "park": "a place with grass and trees where people go to relax",
+                "enjoy": "to like something and have fun doing it"
+            },
+            "ru": {
+                "weekend": "выходные",
+                "plan": "план",
+                "Saturday": "суббота",
+                "Sunday": "воскресенье",
+                "relax": "отдыхать",
+                "visit": "посещать",
+                "shopping": "покупки",
+                "movie": "фильм",
+                "park": "парк",
+                "enjoy": "наслаждаться"
+            },
+            "uz": {
+                "weekend": "dam olish kunlari",
+                "plan": "reja",
+                "Saturday": "shanba",
+                "Sunday": "yakshanba",
+                "relax": "dam olish",
+                "visit": "tashrif buyurish",
+                "shopping": "xarid qilish",
+                "movie": "film",
+                "park": "bog'",
+                "enjoy": "zavqlanish"
+            }
+        }
+    },
+    {
+        "id": 26,
+        "topic": "Describe your favorite game. Do you play it alone or with friends?",
+        "relatedVocabulary": {
+            "en": {
+                "game": "an activity you do for fun with rules",
+                "play": "to do something for fun and enjoyment",
+                "fun": "something that makes you happy and entertained",
+                "rules": "instructions about how to do something correctly",
+                "win": "to be the best in a game or competition",
+                "lose": "to not win in a game or competition",
+                "team": "a group of people who work together",
+                "turn": "your time to do something in a game",
+                "card": "a small piece of paper used in some games",
+                "exciting": "making you feel very interested and happy"
+            },
+            "ru": {
+                "game": "игра",
+                "play": "играть",
+                "fun": "веселье",
+                "rules": "правила",
+                "win": "выигрывать",
+                "lose": "проигрывать",
+                "team": "команда",
+                "turn": "ход",
+                "card": "карта",
+                "exciting": "захватывающий"
+            },
+            "uz": {
+                "game": "o'yin",
+                "play": "o'ynash",
+                "fun": "qiziq",
+                "rules": "qoidalar",
+                "win": "yutish",
+                "lose": "yutqazish",
+                "team": "jamoa",
+                "turn": "navbat",
+                "card": "karta",
+                "exciting": "hayajonli"
+            }
+        }
+    },
+    {
+        "id": 27,
+        "topic": "Write about your birthday. How do you like to celebrate it?",
+        "relatedVocabulary": {
+            "en": {
+                "birthday": "the day you were born each year",
+                "celebrate": "to do something special for a happy occasion",
+                "party": "a gathering of people to have fun together",
+                "cake": "a sweet food made for special occasions",
+                "present": "something you give to someone as a gift",
+                "candle": "a stick of wax that burns to give light",
+                "wish": "to hope for something to happen",
+                "invite": "to ask someone to come to your party",
+                "surprise": "something unexpected that makes you happy",
+                "special": "different from normal and important"
+            },
+            "ru": {
+                "birthday": "день рождения",
+                "celebrate": "праздновать",
+                "party": "вечеринка",
+                "cake": "торт",
+                "present": "подарок",
+                "candle": "свеча",
+                "wish": "желание",
+                "invite": "приглашать",
+                "surprise": "сюрприз",
+                "special": "особенный"
+            },
+            "uz": {
+                "birthday": "tug'ilgan kun",
+                "celebrate": "nishonlash",
+                "party": "ziyofat",
+                "cake": "tort",
+                "present": "sovg'a",
+                "candle": "sham",
+                "wish": "tilak",
+                "invite": "taklif qilish",
+                "surprise": "syurpriz",
+                "special": "maxsus"
+            }
+        }
+    },
+    {
+        "id": 28,
+        "topic": "Describe your favorite color. Where do you see this color often?",
+        "relatedVocabulary": {
+            "en": {
+                "color": "red, blue, green, yellow, etc.",
+                "bright": "having strong, clear colors",
+                "dark": "having little light or deep colors",
+                "light": "having pale or soft colors",
+                "beautiful": "very nice to look at",
+                "clothes": "things you wear on your body",
+                "wall": "the side of a room or building",
+                "flower": "the colored part of a plant",
+                "sky": "the space above the earth where clouds are",
+                "nature": "trees, plants, animals, and outdoor things"
+            },
+            "ru": {
+                "color": "цвет",
+                "bright": "яркий",
+                "dark": "тёмный",
+                "light": "светлый",
+                "beautiful": "красивый",
+                "clothes": "одежда",
+                "wall": "стена",
+                "flower": "цветок",
+                "sky": "небо",
+                "nature": "природа"
+            },
+            "uz": {
+                "color": "rang",
+                "bright": "yorqin",
+                "dark": "quyuq",
+                "light": "och",
+                "beautiful": "chiroyli",
+                "clothes": "kiyim",
+                "wall": "devor",
+                "flower": "gul",
+                "sky": "osmon",
+                "nature": "tabiat"
+            }
+        }
+    },
+    {
+        "id": 29,
+        "topic": "Tell about your favorite music. What kind of songs do you like?",
+        "relatedVocabulary": {
+            "en": {
+                "music": "sounds made by singing or playing instruments",
+                "song": "music with words that people sing",
+                "listen": "to pay attention to sounds with your ears",
+                "singer": "a person who sings songs",
+                "dance": "to move your body to music",
+                "loud": "making a lot of sound",
+                "quiet": "making little sound",
+                "radio": "a machine that plays music and news",
+                "rhythm": "the beat in music that you can feel",
+                "favorite": "the one you like most"
+            },
+            "ru": {
+                "music": "музыка",
+                "song": "песня",
+                "listen": "слушать",
+                "singer": "певец",
+                "dance": "танцевать",
+                "loud": "громкий",
+                "quiet": "тихий",
+                "radio": "радио",
+                "rhythm": "ритм",
+                "favorite": "любимый"
+            },
+            "uz": {
+                "music": "musiqa",
+                "song": "qo'shiq",
+                "listen": "tinglash",
+                "singer": "qo'shiqchi",
+                "dance": "raqsga tushish",
+                "loud": "baland",
+                "quiet": "jim",
+                "radio": "radio",
+                "rhythm": "ritm",
+                "favorite": "sevimli"
+            }
+        }
+    },
+    {
+        "id": 30,
+        "topic": "Describe your dream house. What rooms would it have?",
+        "relatedVocabulary": {
+            "en": {
+                "house": "a building where people live",
+                "room": "a space inside a house with walls",
+                "big": "large in size",
+                "small": "little in size",
+                "window": "an opening in a wall to let in light",
+                "door": "something you open to go into a room",
+                "garden": "a place outside where you grow plants",
+                "comfortable": "making you feel good and relaxed",
+                "dream": "something you hope for in the future",
+                "perfect": "exactly what you want"
+            },
+            "ru": {
+                "house": "дом",
+                "room": "комната",
+                "big": "большой",
+                "small": "маленький",
+                "window": "окно",
+                "door": "дверь",
+                "garden": "сад",
+                "comfortable": "удобный",
+                "dream": "мечта",
+                "perfect": "идеальный"
+            },
+            "uz": {
+                "house": "uy",
+                "room": "xona",
+                "big": "katta",
+                "small": "kichik",
+                "window": "deraza",
+                "door": "eshik",
+                "garden": "bog'",
+                "comfortable": "qulay",
+                "dream": "orzu",
+                "perfect": "mukammal"
+            }
+        }
+    },
+    {
+        "id": 31,
+        "topic": "Write about your favorite way to exercise. Do you like running, swimming, or other activities?",
+        "relatedVocabulary": {
+            "en": {
+                "exercise": "physical activity to keep your body healthy",
+                "healthy": "good for your body and mind",
+                "strong": "having power in your muscles",
+                "tired": "feeling like you need to rest",
+                "energy": "the power to do activities",
+                "run": "to move quickly on foot",
+                "swim": "to move through water",
+                "bike": "to ride a bicycle",
+                "gym": "a place where people exercise",
+                "active": "doing a lot of physical activities"
+            },
+            "ru": {
+                "exercise": "упражнение",
+                "healthy": "здоровый",
+                "strong": "сильный",
+                "tired": "усталый",
+                "energy": "энергия",
+                "run": "бегать",
+                "swim": "плавать",
+                "bike": "ездить на велосипеде",
+                "gym": "спортзал",
+                "active": "активный"
+            },
+            "uz": {
+                "exercise": "mashq",
+                "healthy": "sog'lom",
+                "strong": "kuchli",
+                "tired": "charchagan",
+                "energy": "energiya",
+                "run": "yugurish",
+                "swim": "suzish",
+                "bike": "velosiped haydash",
+                "gym": "sport zali",
+                "active": "faol"
+            }
+        }
+    },
+    {
+        "id": 32,
+        "topic": "Describe your favorite app on your phone. How do you use it?",
+        "relatedVocabulary": {
+            "en": {
+                "phone": "a device you use to call people or use internet",
+                "app": "a program you can use on your phone",
+                "use": "to do something with a tool or object",
+                "internet": "a network that connects computers worldwide",
+                "message": "words you send to someone",
+                "photo": "a picture taken with a camera",
+                "video": "moving pictures with sound",
+                "easy": "not hard to do or understand",
+                "useful": "helpful for doing something",
+                "technology": "machines and devices that help people"
+            },
+            "ru": {
+                "phone": "телефон",
+                "app": "приложение",
+                "use": "использовать",
+                "internet": "интернет",
+                "message": "сообщение",
+                "photo": "фотография",
+                "video": "видео",
+                "easy": "лёгкий",
+                "useful": "полезный",
+                "technology": "технология"
+            },
+            "uz": {
+                "phone": "telefon",
+                "app": "ilova",
+                "use": "foydalanish",
+                "internet": "internet",
+                "message": "xabar",
+                "photo": "rasm",
+                "video": "video",
+                "easy": "oson",
+                "useful": "foydali",
+                "technology": "texnologiya"
+            }
+        }
+    },
+    {
+        "id": 33,
+        "topic": "Tell about your favorite weather. Do you like sunny, rainy, or snowy days?",
+        "relatedVocabulary": {
+            "en": {
+                "weather": "what it is like outside (hot, cold, rainy, etc.)",
+                "sunny": "with bright light from the sun",
+                "rainy": "when water falls from the clouds",
+                "snowy": "when white ice falls from the sky",
+                "hot": "having a high temperature",
+                "cold": "having a low temperature",
+                "warm": "a little hot but comfortable",
+                "cool": "a little cold but nice",
+                "cloudy": "when the sky has many clouds",
+                "windy": "when air moves strongly"
+            },
+            "ru": {
+                "weather": "погода",
+                "sunny": "солнечный",
+                "rainy": "дождливый",
+                "snowy": "снежный",
+                "hot": "жаркий",
+                "cold": "холодный",
+                "warm": "тёплый",
+                "cool": "прохладный",
+                "cloudy": "облачный",
+                "windy": "ветреный"
+            },
+            "uz": {
+                "weather": "ob-havo",
+                "sunny": "quyoshli",
+                "rainy": "yomg'irli",
+                "snowy": "qorli",
+                "hot": "issiq",
+                "cold": "sovuq",
+                "warm": "iliq",
+                "cool": "salqin",
+                "cloudy": "bulutli",
+                "windy": "shamolli"
+            }
+        }
+    },
+    {
+        "id": 34,
+        "topic": "Write about your favorite place to study. Where do you learn best?",
+        "relatedVocabulary": {
+            "en": {
+                "study": "to learn about something by reading or practicing",
+                "quiet": "without much noise",
+                "concentrate": "to think carefully about one thing",
+                "desk": "a table where you sit to work or study",
+                "chair": "something you sit on",
+                "light": "brightness that helps you see",
+                "book": "pages with words bound together",
+                "notebook": "a book with empty pages for writing",
+                "comfortable": "making you feel good and relaxed",
+                "focus": "to give all your attention to something"
+            },
+            "ru": {
+                "study": "учиться",
+                "quiet": "тихий",
+                "concentrate": "сосредотачиваться",
+                "desk": "письменный стол",
+                "chair": "стул",
+                "light": "свет",
+                "book": "книга",
+                "notebook": "тетрадь",
+                "comfortable": "удобный",
+                "focus": "сосредоточиться"
+            },
+            "uz": {
+                "study": "o'qish",
+                "quiet": "jim",
+                "concentrate": "diqqatni jamlash",
+                "desk": "stol",
+                "chair": "stul",
+                "light": "yorug'lik",
+                "book": "kitob",
+                "notebook": "daftar",
+                "comfortable": "qulay",
+                "focus": "e'tibor berish"
+            }
+        }
+    },
+    {
+        "id": 35,
+        "topic": "Describe your favorite way to communicate with friends. Do you call, text, or meet in person?",
+        "relatedVocabulary": {
+            "en": {
+                "communicate": "to share information or feelings with someone",
+                "call": "to talk to someone using a phone",
+                "text": "to send written messages on a phone",
+                "meet": "to see someone in the same place",
+                "talk": "to say words to someone",
+                "message": "words you send to someone",
+                "chat": "to have a friendly conversation",
+                "social": "relating to spending time with other people",
+                "contact": "to get in touch with someone",
+                "conversation": "when two or more people talk together"
+            },
+            "ru": {
+                "communicate": "общаться",
+                "call": "звонить",
+                "text": "писать сообщения",
+                "meet": "встречаться",
+                "talk": "разговаривать",
+                "message": "сообщение",
+                "chat": "болтать",
+                "social": "социальный",
+                "contact": "связаться",
+                "conversation": "разговор"
+            },
+            "uz": {
+                "communicate": "muloqot qilish",
+                "call": "qo'ng'iroq qilish",
+                "text": "xabar yozish",
+                "meet": "uchrashish",
+                "talk": "gaplashish",
+                "message": "xabar",
+                "chat": "suhbatlashish",
+                "social": "ijtimoiy",
+                "contact": "aloqa qilish",
+                "conversation": "suhbat"
+            }
+        }
+    },
+    {
+        "id": 36,
+        "topic": "Tell about your favorite time of day. Is it morning, afternoon, or evening?",
+        "relatedVocabulary": {
+            "en": {
+                "morning": "the early part of the day",
+                "afternoon": "the middle part of the day",
+                "evening": "the later part of the day",
+                "night": "when it is dark outside",
+                "early": "near the beginning of a time period",
+                "late": "near the end of a time period",
+                "sunrise": "when the sun comes up",
+                "sunset": "when the sun goes down",
+                "peaceful": "calm and quiet",
+                "busy": "having a lot of things to do"
+            },
+            "ru": {
+                "morning": "утро",
+                "afternoon": "день",
+                "evening": "вечер",
+                "night": "ночь",
+                "early": "рано",
+                "late": "поздно",
+                "sunrise": "рассвет",
+                "sunset": "закат",
+                "peaceful": "спокойный",
+                "busy": "занятой"
+            },
+            "uz": {
+                "morning": "ertalab",
+                "afternoon": "tushdan keyin",
+                "evening": "kechqurun",
+                "night": "kecha",
+                "early": "erta",
+                "late": "kech",
+                "sunrise": "quyosh chiqishi",
+                "sunset": "quyosh botishi",
+                "peaceful": "tinch",
+                "busy": "band"
+            }
+        }
+    },
+    {
+        "id": 37,
+        "topic": "Write about your favorite way to help others. How do you like to be kind?",
+        "relatedVocabulary": {
+            "en": {
+                "help": "to do something useful for someone",
+                "kind": "nice and caring about other people",
+                "care": "to feel concern and interest for someone",
+                "share": "to give part of what you have to others",
+                "support": "to help someone when they need it",
+                "volunteer": "to help without getting paid",
+                "community": "the people who live near you",
+                "generous": "willing to give more than necessary",
+                "friendly": "kind and pleasant to other people",
+                "smile": "to show happiness on your face"
+            },
+            "ru": {
+                "help": "помогать",
+                "kind": "добрый",
+                "care": "заботиться",
+                "share": "делиться",
+                "support": "поддерживать",
+                "volunteer": "волонтёр",
+                "community": "сообщество",
+                "generous": "щедрый",
+                "friendly": "дружелюбный",
+                "smile": "улыбаться"
+            },
+            "uz": {
+                "help": "yordam berish",
+                "kind": "mehribon",
+                "care": "g'amxo'rlik qilish",
+                "share": "bo'lishish",
+                "support": "qo'llab-quvvatlash",
+                "volunteer": "ko'ngilli",
+                "community": "jamoa",
+                "generous": "saxiy",
+                "friendly": "do'stona",
+                "smile": "tabassum qilish"
+            }
+        }
+    },
+    {
+        "id": 38,
+        "topic": "Describe your favorite outdoor activity. What do you like to do outside?",
+        "relatedVocabulary": {
+            "en": {
+                "outdoor": "happening outside, not inside a building",
+                "activity": "something you do for fun or exercise",
+                "fresh": "clean and pure, especially air",
+                "nature": "trees, plants, animals, and outdoor things",
+                "picnic": "eating food outside for fun",
+                "hiking": "taking a long walk in nature",
+                "sunshine": "light and heat from the sun",
+                "breathe": "to take air into your lungs",
+                "adventure": "an exciting and unusual experience",
+                "explore": "to look around and discover new things"
+            },
+            "ru": {
+                "outdoor": "на открытом воздухе",
+                "activity": "деятельность",
+                "fresh": "свежий",
+                "nature": "природа",
+                "picnic": "пикник",
+                "hiking": "поход",
+                "sunshine": "солнечный свет",
+                "breathe": "дышать",
+                "adventure": "приключение",
+                "explore": "исследовать"
+            },
+            "uz": {
+                "outdoor": "ochiq havoda",
+                "activity": "faoliyat",
+                "fresh": "toza",
+                "nature": "tabiat",
+                "picnic": "sayr-tomosha",
+                "hiking": "sayohat",
+                "sunshine": "quyosh nuri",
+                "breathe": "nafas olish",
+                "adventure": "sarguzasht",
+                "explore": "tadqiq qilish"
+            }
+        }
+    },
+    {
+        "id": 39,
+        "topic": "Tell about your favorite way to learn new things. Do you like reading, watching videos, or asking questions?",
+        "relatedVocabulary": {
+            "en": {
+                "learn": "to get new knowledge or skills",
+                "knowledge": "information and understanding about something",
+                "skill": "the ability to do something well",
+                "read": "to look at words and understand them",
+                "watch": "to look at something for a period of time",
+                "question": "something you ask when you want to know",
+                "curious": "wanting to know about things",
+                "practice": "to do something many times to get better",
+                "understand": "to know the meaning of something",
+                "discover": "to find out something new"
+            },
+            "ru": {
+                "learn": "учиться",
+                "knowledge": "знания",
+                "skill": "навык",
+                "read": "читать",
+                "watch": "смотреть",
+                "question": "вопрос",
+                "curious": "любопытный",
+                "practice": "практиковаться",
+                "understand": "понимать",
+                "discover": "открывать"
+            },
+            "uz": {
+                "learn": "o'rganish",
+                "knowledge": "bilim",
+                "skill": "ko'nikma",
+                "read": "o'qish",
+                "watch": "ko'rish",
+                "question": "savol",
+                "curious": "qiziquvchan",
+                "practice": "mashq qilish",
+                "understand": "tushunish",
+                "discover": "kashf qilish"
+            }
+        }
+    },
+    {
+        "id": 40,
+        "topic": "Write about your favorite memory from last year. What made it special?",
+        "relatedVocabulary": {
+            "en": {
+                "memory": "something you remember from the past",
+                "remember": "to think about something from the past",
+                "special": "different from normal and important",
+                "moment": "a very short period of time",
+                "experience": "something that happens to you",
+                "happy": "feeling good and pleased",
+                "exciting": "making you feel very interested and happy",
+                "celebrate": "to do something special for a happy occasion",
+                "unforgettable": "so good that you will always remember it",
+                "precious": "very valuable and important to you"
+            },
+            "ru": {
+                "memory": "воспоминание",
+                "remember": "помнить",
+                "special": "особенный",
+                "moment": "момент",
+                "experience": "опыт",
+                "happy": "счастливый",
+                "exciting": "захватывающий",
+                "celebrate": "праздновать",
+                "unforgettable": "незабываемый",
+                "precious": "драгоценный"
+            },
+            "uz": {
+                "memory": "xotira",
+                "remember": "eslamoq",
+                "special": "maxsus",
+                "moment": "lahza",
+                "experience": "tajriba",
+                "happy": "baxtli",
+                "exciting": "hayajonli",
+                "celebrate": "nishonlash",
+                "unforgettable": "unutilmas",
+                "precious": "qimmatli"
+            }
+        }
+    },
+    {
+        "id": 41,
+        "topic": "Describe your favorite way to relax. What helps you feel calm?",
+        "relatedVocabulary": {
+            "en": {
+                "relax": "to become less tense or anxious",
+                "calm": "peaceful and quiet",
+                "breathe": "to take air into and out of your lungs",
+                "quiet": "making little or no noise",
+                "peaceful": "free from disturbance",
+                "rest": "to stop doing activities for a while",
+                "comfortable": "feeling good and relaxed",
+                "music": "sounds that are pleasant to hear",
+                "nature": "the world of plants and animals",
+                "sleep": "to rest with your eyes closed"
+            },
+            "ru": {
+                "relax": "расслабляться",
+                "calm": "спокойный",
+                "breathe": "дышать",
+                "quiet": "тихий",
+                "peaceful": "мирный",
+                "rest": "отдых",
+                "comfortable": "удобный",
+                "music": "музыка",
+                "nature": "природа",
+                "sleep": "сон"
+            },
+            "uz": {
+                "relax": "dam olish",
+                "calm": "tinch",
+                "breathe": "nafas olish",
+                "quiet": "sokin",
+                "peaceful": "tinch",
+                "rest": "dam",
+                "comfortable": "qulay",
+                "music": "musiqa",
+                "nature": "tabiat",
+                "sleep": "uxlamoq"
+            }
+        }
+    },
+    {
+        "id": 42,
+        "topic": "Write about your favorite way to celebrate success. How do you reward yourself?",
+        "relatedVocabulary": {
+            "en": {
+                "success": "achieving what you wanted",
+                "celebrate": "to do something special for a happy event",
+                "reward": "something given for good work",
+                "happy": "feeling joy",
+                "proud": "feeling good about what you did",
+                "achievement": "something you did well",
+                "party": "a social gathering for celebration",
+                "gift": "something given to someone",
+                "smile": "to show happiness with your face",
+                "share": "to give some of what you have to others"
+            },
+            "ru": {
+                "success": "успех",
+                "celebrate": "праздновать",
+                "reward": "награда",
+                "happy": "счастливый",
+                "proud": "гордый",
+                "achievement": "достижение",
+                "party": "вечеринка",
+                "gift": "подарок",
+                "smile": "улыбка",
+                "share": "делиться"
+            },
+            "uz": {
+                "success": "muvaffaqiyat",
+                "celebrate": "nishonlamoq",
+                "reward": "mukofot",
+                "happy": "baxtli",
+                "proud": "mag'rur",
+                "achievement": "yutuq",
+                "party": "ziyofat",
+                "gift": "sovg'a",
+                "smile": "tabassum",
+                "share": "ulashmoq"
+            }
+        }
+    },
+    {
+        "id": 43,
+        "topic": "Describe your favorite way to learn new words. How do you remember them?",
+        "relatedVocabulary": {
+            "en": {
+                "learn": "to gain knowledge",
+                "remember": "to keep in your mind",
+                "practice": "to do something repeatedly to improve",
+                "write": "to put words on paper",
+                "read": "to look at and understand written words",
+                "repeat": "to say or do something again",
+                "understand": "to know the meaning",
+                "dictionary": "a book with word meanings",
+                "note": "a short written message",
+                "study": "to learn about something"
+            },
+            "ru": {
+                "learn": "учиться",
+                "remember": "запоминать",
+                "practice": "практиковаться",
+                "write": "писать",
+                "read": "читать",
+                "repeat": "повторять",
+                "understand": "понимать",
+                "dictionary": "словарь",
+                "note": "заметка",
+                "study": "изучать"
+            },
+            "uz": {
+                "learn": "o'rganmoq",
+                "remember": "eslamoq",
+                "practice": "mashq qilmoq",
+                "write": "yozmoq",
+                "read": "o'qimoq",
+                "repeat": "takrorlamoq",
+                "understand": "tushunmoq",
+                "dictionary": "lug'at",
+                "note": "eslatma",
+                "study": "o'qish"
+            }
+        }
+    },
+    {
+        "id": 44,
+        "topic": "Write about your favorite way to make new friends. How do you start conversations?",
+        "relatedVocabulary": {
+            "en": {
+                "friend": "someone you like and trust",
+                "talk": "to speak with someone",
+                "meet": "to see someone for the first time",
+                "share": "to give some of what you have",
+                "help": "to make something easier for someone",
+                "smile": "to show happiness with your face",
+                "listen": "to pay attention to what someone says",
+                "kind": "being nice to others",
+                "fun": "enjoyable activities",
+                "together": "with other people"
+            },
+            "ru": {
+                "friend": "друг",
+                "talk": "разговаривать",
+                "meet": "встречать",
+                "share": "делиться",
+                "help": "помогать",
+                "smile": "улыбаться",
+                "listen": "слушать",
+                "kind": "добрый",
+                "fun": "веселье",
+                "together": "вместе"
+            },
+            "uz": {
+                "friend": "do'st",
+                "talk": "gaplashmoq",
+                "meet": "uchramoq",
+                "share": "ulashmoq",
+                "help": "yordam bermoq",
+                "smile": "tabassum qilmoq",
+                "listen": "tinglamoq",
+                "kind": "mehribon",
+                "fun": "qiziqarli",
+                "together": "birga"
+            }
+        }
+    },
+    {
+        "id": 45,
+        "topic": "Describe your favorite way to stay healthy. What do you do to take care of your body?",
+        "relatedVocabulary": {
+            "en": {
+                "healthy": "in good physical condition",
+                "exercise": "physical activity to stay fit",
+                "eat": "to take food into your body",
+                "drink": "to take liquid into your body",
+                "sleep": "to rest with your eyes closed",
+                "clean": "free from dirt",
+                "fresh": "new and not spoiled",
+                "water": "clear liquid we drink",
+                "fruit": "sweet food from plants",
+                "vegetable": "plant food that is good for health"
+            },
+            "ru": {
+                "healthy": "здоровый",
+                "exercise": "упражнение",
+                "eat": "есть",
+                "drink": "пить",
+                "sleep": "спать",
+                "clean": "чистый",
+                "fresh": "свежий",
+                "water": "вода",
+                "fruit": "фрукт",
+                "vegetable": "овощ"
+            },
+            "uz": {
+                "healthy": "sog'lom",
+                "exercise": "mashq",
+                "eat": "yemoq",
+                "drink": "ichmoq",
+                "sleep": "uxlamoq",
+                "clean": "toza",
+                "fresh": "yangi",
+                "water": "suv",
+                "fruit": "meva",
+                "vegetable": "sabzavot"
+            }
+        }
+    },
+    {
+        "id": 46,
+        "topic": "Write about your favorite way to save money. How do you plan your spending?",
+        "relatedVocabulary": {
+            "en": {
+                "save": "to keep money for later",
+                "money": "what we use to buy things",
+                "spend": "to use money to buy things",
+                "plan": "to decide what to do in advance",
+                "need": "something you must have",
+                "want": "something you would like to have",
+                "price": "how much something costs",
+                "cheap": "not expensive",
+                "expensive": "costing a lot of money",
+                "budget": "a plan for spending money"
+            },
+            "ru": {
+                "save": "экономить",
+                "money": "деньги",
+                "spend": "тратить",
+                "plan": "планировать",
+                "need": "нуждаться",
+                "want": "хотеть",
+                "price": "цена",
+                "cheap": "дешевый",
+                "expensive": "дорогой",
+                "budget": "бюджет"
+            },
+            "uz": {
+                "save": "saqlamoq",
+                "money": "pul",
+                "spend": "sarflamoq",
+                "plan": "rejalashtirmoq",
+                "need": "kerak",
+                "want": "xohlamoq",
+                "price": "narx",
+                "cheap": "arzon",
+                "expensive": "qimmat",
+                "budget": "byudjet"
+            }
+        }
+    },
+    {
+        "id": 47,
+        "topic": "Describe your favorite way to show kindness. How do you help others?",
+        "relatedVocabulary": {
+            "en": {
+                "kind": "being nice to others",
+                "help": "to make something easier for someone",
+                "share": "to give some of what you have",
+                "smile": "to show happiness with your face",
+                "thank": "to show gratitude",
+                "give": "to hand something to someone",
+                "care": "to look after someone",
+                "nice": "pleasant and friendly",
+                "friend": "someone you like and trust",
+                "happy": "feeling joy"
+            },
+            "ru": {
+                "kind": "добрый",
+                "help": "помогать",
+                "share": "делиться",
+                "smile": "улыбаться",
+                "thank": "благодарить",
+                "give": "давать",
+                "care": "заботиться",
+                "nice": "хороший",
+                "friend": "друг",
+                "happy": "счастливый"
+            },
+            "uz": {
+                "kind": "mehribon",
+                "help": "yordam bermoq",
+                "share": "ulashmoq",
+                "smile": "tabassum qilmoq",
+                "thank": "rahmat aytmoq",
+                "give": "bermoq",
+                "care": "g'amxo'rlik qilmoq",
+                "nice": "yaxshi",
+                "friend": "do'st",
+                "happy": "baxtli"
+            }
+        }
+    },
+    {
+        "id": 48,
+        "topic": "Write about your favorite way to solve problems. How do you find solutions?",
+        "relatedVocabulary": {
+            "en": {
+                "solve": "to find an answer to a problem",
+                "problem": "something that needs to be fixed",
+                "think": "to use your mind",
+                "idea": "a thought or suggestion",
+                "plan": "to decide what to do in advance",
+                "try": "to attempt something",
+                "help": "to make something easier",
+                "ask": "to request information",
+                "learn": "to gain knowledge",
+                "success": "achieving what you wanted"
+            },
+            "ru": {
+                "solve": "решать",
+                "problem": "проблема",
+                "think": "думать",
+                "idea": "идея",
+                "plan": "планировать",
+                "try": "пробовать",
+                "help": "помогать",
+                "ask": "спрашивать",
+                "learn": "учиться",
+                "success": "успех"
+            },
+            "uz": {
+                "solve": "hal qilmoq",
+                "problem": "muammo",
+                "think": "o'ylamoq",
+                "idea": "g'oya",
+                "plan": "rejalashtirmoq",
+                "try": "sinab ko'rmoq",
+                "help": "yordam bermoq",
+                "ask": "so'ramoq",
+                "learn": "o'rganmoq",
+                "success": "muvaffaqiyat"
+            }
+        }
+    },
+    {
+        "id": 49,
+        "topic": "Describe your favorite way to stay organized. How do you keep your things in order?",
+        "relatedVocabulary": {
+            "en": {
+                "organize": "to arrange things in order",
+                "clean": "free from dirt",
+                "tidy": "neat and organized",
+                "put": "to place something somewhere",
+                "find": "to discover something",
+                "need": "something you must have",
+                "use": "to do something with an object",
+                "keep": "to hold onto something",
+                "place": "a particular position",
+                "order": "a neat arrangement"
+            },
+            "ru": {
+                "organize": "организовывать",
+                "clean": "чистый",
+                "tidy": "аккуратный",
+                "put": "класть",
+                "find": "находить",
+                "need": "нуждаться",
+                "use": "использовать",
+                "keep": "хранить",
+                "place": "место",
+                "order": "порядок"
+            },
+            "uz": {
+                "organize": "tartibga solmoq",
+                "clean": "toza",
+                "tidy": "tartibli",
+                "put": "qo'ymoq",
+                "find": "topmoq",
+                "need": "kerak",
+                "use": "ishlatmoq",
+                "keep": "saqlamoq",
+                "place": "joy",
+                "order": "tartib"
+            }
+        }
+    },
+    {
+        "id": 50,
+        "topic": "Write about your favorite way to learn about other cultures. How do you explore new traditions?",
+        "relatedVocabulary": {
+            "en": {
+                "culture": "the way of life of a group of people",
+                "learn": "to gain knowledge",
+                "tradition": "a custom passed down through generations",
+                "food": "what we eat",
+                "music": "sounds that are pleasant to hear",
+                "dance": "to move to music",
+                "language": "how people communicate",
+                "celebrate": "to do something special for a happy event",
+                "different": "not the same",
+                "interesting": "making you want to know more"
+            },
+            "ru": {
+                "culture": "культура",
+                "learn": "учиться",
+                "tradition": "традиция",
+                "food": "еда",
+                "music": "музыка",
+                "dance": "танец",
+                "language": "язык",
+                "celebrate": "праздновать",
+                "different": "разный",
+                "interesting": "интересный"
+            },
+            "uz": {
+                "culture": "madaniyat",
+                "learn": "o'rganmoq",
+                "tradition": "an'ana",
+                "food": "ovqat",
+                "music": "musiqa",
+                "dance": "raqs",
+                "language": "til",
+                "celebrate": "nishonlamoq",
+                "different": "boshqacha",
+                "interesting": "qiziqarli"
+            }
+        }
+    }
+]

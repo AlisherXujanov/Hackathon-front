@@ -1,0 +1,104 @@
+{
+  "topics": [
+    {
+      "id": "hobbies_interests",
+      "title": "Hobbies and Interests",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Hobbies and free time",
+        "instructions": "I'd like to ask you about your hobbies and free time activities.",
+        "questions": [
+          "What do you like to do in your free time?",
+          "Do you have any hobbies?",
+          "How often do you do your hobby?",
+          "Do you prefer indoor or outdoor activities?",
+          "Did you have the same hobbies when you were a child?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a hobby you enjoy",
+        "cueCard": {
+          "title": "Describe a hobby or activity you really enjoy",
+          "description": "You should say:",
+          "points": [
+            "What this hobby is",
+            "When you started doing it",
+            "How often you do it",
+            "And explain why you enjoy it so much"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Leisure activities and society",
+        "instructions": "Now let's discuss hobbies and leisure activities in general.",
+        "questions": [
+          "Why do you think people need hobbies?",
+          "Are there any hobbies that are popular in your country?",
+          "Do you think expensive hobbies are better than cheap ones?",
+          "How have people's leisure activities changed over time?",
+          "Should children be encouraged to have hobbies?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about reading, which is a hobby I really enjoy. I started reading books when I was about ten years old. My teacher at school encouraged us to read more, and I discovered that I really liked stories about adventure and friendship. Now I try to read for at least thirty minutes every day, usually before I go to bed. On weekends, I sometimes spend two or three hours reading because I have more free time. I enjoy reading so much because it helps me relax after a busy day. When I read, I can forget about my problems and enter into different worlds and meet interesting characters. Reading also helps me learn new words and improve my language skills. I like many different types of books, but I especially enjoy mystery novels and stories about travel. Reading is not expensive, and I can do it anywhere - at home, in the park, or even on the bus."
+      }
+    },
+    {
+      "id": "hometown_travel",
+      "title": "Hometown and Travel",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Your hometown and places",
+        "instructions": "Let's talk about your hometown and places you've visited.",
+        "questions": [
+          "Can you describe your hometown?",
+          "What do you like about living there?",
+          "Is there anything you don't like about your hometown?",
+          "Have you ever traveled to other places?",
+          "Where would you like to visit in the future?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a place you would like to visit",
+        "cueCard": {
+          "title": "Describe a place you would like to visit",
+          "description": "You should say:",
+          "points": [
+            "Where this place is",
+            "What it is like",
+            "What you would do there",
+            "And explain why you want to visit this place"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Travel and tourism",
+        "instructions": "Let's discuss travel and tourism in general.",
+        "questions": [
+          "Why do people like to travel?",
+          "What are the benefits of visiting other countries?",
+          "Do you think tourism is good for a country?",
+          "How has travel changed compared to the past?",
+          "What problems can tourism cause?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

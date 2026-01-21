@@ -1,0 +1,915 @@
+{
+    "id": "A2_PRESENT_PERFECT_OR_PAST_SIMPLE_KEY_DIFFERENCES_AND_USAGE",
+    "title": "Present perfect or past simple - Key differences and usage",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I went to London last year."
+                },
+                {
+                    "answer": "I have been to London last year."
+                },
+                {
+                    "answer": "I have went to London last year.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'last year'. Present perfect cannot be used with specific past time references.",
+                "ru": "Past simple используется с конкретными выражениями прошедшего времени, такими как 'last year'. Present perfect нельзя использовать с конкретными ссылками на прошедшее время.",
+                "uz": "Past simple 'last year' kabi aniq o'tgan zamon ifodalari bilan ishlatiladi. Present perfect aniq o'tgan zamon ma'lumotnomasi bilan ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She has lived here for five years.",
+                    "correct": true
+                },
+                {
+                    "answer": "She lived here for five years."
+                },
+                {
+                    "answer": "She has live here for five years."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'for' shows a period that continues to the present. 'Has lived' is the correct present perfect form.",
+                "ru": "Present perfect с 'for' показывает период, который продолжается до настоящего времени. 'Has lived' - правильная форма present perfect.",
+                "uz": "Present perfect 'for' bilan hozirgi vaqtgacha davom etuvchi davrni ko'rsatadi. 'Has lived' - to'g'ri present perfect shakli."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Have you ever been to Paris?",
+                    "correct": true
+                },
+                {
+                    "answer": "Did you ever been to Paris?"
+                },
+                {
+                    "answer": "Have you ever went to Paris?"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'have/has + past participle' for life experiences. 'Been' is the past participle of 'be'.",
+                "ru": "Present perfect использует 'have/has + причастие прошедшего времени' для жизненного опыта. 'Been' - причастие прошедшего времени от 'be'.",
+                "uz": "Present perfect hayotiy tajriba uchun 'have/has + o'tgan zamon sifatdoshi'ni ishlatadi. 'Been' - 'be' ning o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I finished my homework yesterday."
+                },
+                {
+                    "answer": "I have finished my homework yesterday."
+                },
+                {
+                    "answer": "I have finish my homework yesterday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'yesterday'. Present perfect cannot be used with specific past time markers.",
+                "ru": "Past simple используется с конкретными выражениями прошедшего времени, такими как 'yesterday'. Present perfect нельзя использовать с конкретными маркерами прошедшего времени.",
+                "uz": "Past simple 'yesterday' kabi aniq o'tgan zamon ifodalari bilan ishlatiladi. Present perfect aniq o'tgan zamon belgilari bilan ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They has worked here since 2020."
+                },
+                {
+                    "answer": "They have worked here since 2020.",
+                    "correct": true
+                },
+                {
+                    "answer": "They worked here since 2020."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'since' shows an action starting in the past and continuing to now. 'They' takes 'have', not 'has'.",
+                "ru": "Present perfect с 'since' показывает действие, начавшееся в прошлом и продолжающееся до сих пор. 'They' требует 'have', а не 'has'.",
+                "uz": "Present perfect 'since' bilan o'tmishda boshlangan va hozirgacha davom etuvchi harakatni ko'rsatadi. 'They' bilan 'have' ishlatiladi, 'has' emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We visited Rome in 2019.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have visited Rome in 2019."
+                },
+                {
+                    "answer": "We have visit Rome in 2019."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions at a specific time in the past like 'in 2019'.",
+                "ru": "Past simple используется для завершенных действий в конкретное время в прошлом, например 'in 2019'.",
+                "uz": "Past simple 'in 2019' kabi o'tmishdagi aniq vaqtda tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He has just arrived.",
+                    "correct": true
+                },
+                {
+                    "answer": "He just arrived."
+                },
+                {
+                    "answer": "He has just arrive."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'just' shows a recently completed action with present relevance. 'Has arrived' is the correct form.",
+                "ru": "Present perfect с 'just' показывает недавно завершенное действие с актуальностью для настоящего. 'Has arrived' - правильная форма.",
+                "uz": "Present perfect 'just' bilan hozirgi vaqt uchun ahamiyatli bo'lgan yaqinda tugallangan harakatni ko'rsatadi. 'Has arrived' - to'g'ri shakl."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She has never been to Japan.",
+                    "correct": true
+                },
+                {
+                    "answer": "She never has been to Japan."
+                },
+                {
+                    "answer": "She has never went to Japan."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect uses 'never' before the past participle to show life experience. 'Been' is the correct past participle of 'be'.",
+                "ru": "Present perfect использует 'never' перед причастием прошедшего времени для обозначения жизненного опыта. 'Been' - правильное причастие прошедшего времени от 'be'.",
+                "uz": "Present perfect hayotiy tajribani ko'rsatish uchun o'tgan zamon sifatdoshidan oldin 'never'ni ishlatadi. 'Been' - 'be'ning to'g'ri o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have seen that movie already.",
+                    "correct": true
+                },
+                {
+                    "answer": "I saw that movie already."
+                },
+                {
+                    "answer": "I have saw that movie already."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'already' shows completed action with present relevance. 'Seen' is the past participle of 'see'.",
+                "ru": "Present perfect с 'already' показывает завершенное действие с актуальностью для настоящего. 'Seen' - причастие прошедшего времени от 'see'.",
+                "uz": "Present perfect 'already' bilan hozirgi vaqt uchun ahamiyatli bo'lgan tugallangan harakatni ko'rsatadi. 'Seen' - 'see'ning o'tgan zamon sifatdoshi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "My brother called me this morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother has called me this morning."
+                },
+                {
+                    "answer": "My brother have called me this morning."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions at a specific time like 'this morning' when it's now afternoon/evening.",
+                "ru": "Past simple используется для завершенных действий в конкретное время, например 'this morning', когда сейчас день/вечер.",
+                "uz": "Past simple 'this morning' kabi aniq vaqtdagi tugallangan harakatlar uchun ishlatiladi, agar hozir tushdan keyin/kechqurun bo'lsa."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (live) in this city for ten years.",
+                "ru": "Дополните предложение: I ___ (live) in this city for ten years.",
+                "uz": "Gapni to'ldiring: I ___ (live) in this city for ten years."
+            },
+            "options": [
+                {
+                    "answer": "have lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'for' to show duration from past to present.",
+                "ru": "Present perfect используется с 'for' для обозначения продолжительности от прошлого к настоящему.",
+                "uz": "Present perfect o'tmishdan hozirgi vaqtgacha bo'lgan davomiylikni ko'rsatish uchun 'for' bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (go) to the store yesterday.",
+                "ru": "Дополните предложение: She ___ (go) to the store yesterday.",
+                "uz": "Gapni to'ldiring: She ___ (go) to the store yesterday."
+            },
+            "options": [
+                {
+                    "answer": "went",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'yesterday'.",
+                "ru": "Past simple используется с конкретными выражениями прошедшего времени, такими как 'yesterday'.",
+                "uz": "Past simple 'yesterday' kabi aniq o'tgan zamon ifodalari bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (not see) him since last week.",
+                "ru": "Дополните предложение: We ___ (not see) him since last week.",
+                "uz": "Gapni to'ldiring: We ___ (not see) him since last week."
+            },
+            "options": [
+                {
+                    "answer": "haven't seen/have not seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect negative with 'since' shows an action that started in the past and continues to now.",
+                "ru": "Отрицательное present perfect с 'since' показывает действие, которое началось в прошлом и продолжается до сих пор.",
+                "uz": "Present perfect inkor shakli 'since' bilan o'tmishda boshlangan va hozirgacha davom etuvchi harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (finish) their project last month.",
+                "ru": "Дополните предложение: They ___ (finish) their project last month.",
+                "uz": "Gapni to'ldiring: They ___ (finish) their project last month."
+            },
+            "options": [
+                {
+                    "answer": "finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions at specific past times like 'last month'.",
+                "ru": "Past simple используется для завершенных действий в конкретное прошедшее время, например 'last month'.",
+                "uz": "Past simple 'last month' kabi aniq o'tgan vaqtdagi tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (work) here since 2018.",
+                "ru": "Дополните предложение: He ___ (work) here since 2018.",
+                "uz": "Gapni to'ldiring: He ___ (work) here since 2018."
+            },
+            "options": [
+                {
+                    "answer": "has worked",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'since' shows an action that started at a specific time and continues to now.",
+                "ru": "Present perfect с 'since' показывает действие, которое началось в конкретное время и продолжается до сих пор.",
+                "uz": "Present perfect 'since' bilan aniq vaqtda boshlangan va hozirgacha davom etuvchi harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (never/eat) sushi before.",
+                "ru": "Дополните предложение: I ___ (never/eat) sushi before.",
+                "uz": "Gapni to'ldiring: I ___ (never/eat) sushi before."
+            },
+            "options": [
+                {
+                    "answer": "have never eaten",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'never' and 'before' shows life experience up to now.",
+                "ru": "Present perfect с 'never' и 'before' показывает жизненный опыт до настоящего времени.",
+                "uz": "Present perfect 'never' va 'before' bilan hozirgacha bo'lgan hayotiy tajribani ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My friends ___ (visit) me two days ago.",
+                "ru": "Дополните предложение: My friends ___ (visit) me two days ago.",
+                "uz": "Gapni to'ldiring: My friends ___ (visit) me two days ago."
+            },
+            "options": [
+                {
+                    "answer": "visited",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'two days ago'.",
+                "ru": "Past simple используется с конкретными выражениями прошедшего времени, такими как 'two days ago'.",
+                "uz": "Past simple 'two days ago' kabi aniq o'tgan zamon ifodalari bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (already/read) that book.",
+                "ru": "Дополните предложение: She ___ (already/read) that book.",
+                "uz": "Gapni to'ldiring: She ___ (already/read) that book."
+            },
+            "options": [
+                {
+                    "answer": "has already read",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'already' shows a completed action with present relevance.",
+                "ru": "Present perfect с 'already' показывает завершенное действие с актуальностью для настоящего.",
+                "uz": "Present perfect 'already' bilan hozirgi vaqt uchun ahamiyatli bo'lgan tugallangan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (move) to this house in 2020.",
+                "ru": "Дополните предложение: We ___ (move) to this house in 2020.",
+                "uz": "Gapni to'ldiring: We ___ (move) to this house in 2020."
+            },
+            "options": [
+                {
+                    "answer": "moved",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions at specific past times like 'in 2020'.",
+                "ru": "Past simple используется для завершенных действий в конкретное прошедшее время, например 'in 2020'.",
+                "uz": "Past simple 'in 2020' kabi aniq o'tgan vaqtdagi tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ (just/arrive) home, haven't you?",
+                "ru": "Дополните предложение: You ___ (just/arrive) home, haven't you?",
+                "uz": "Gapni to'ldiring: You ___ (just/arrive) home, haven't you?"
+            },
+            "options": [
+                {
+                    "answer": "have just arrived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'just' shows a recently completed action with present relevance.",
+                "ru": "Present perfect с 'just' показывает недавно завершенное действие с актуальностью для настоящего.",
+                "uz": "Present perfect 'just' bilan hozirgi vaqt uchun ahamiyatli bo'lgan yaqinda tugallangan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is telling her friend about her life experiences. She ___1___ in London for three years now, and she really loves it there. Last week, she ___2___ her parents who live in Manchester. They ___3___ her since Christmas, so they were very happy to see her. During her visit, Sarah ___4___ to her favorite restaurant with her family. She ___5___ there many times when she was a child, but this was her first time back in years. Her mother ___6___ a delicious cake for dessert, just like she used to do. Sarah ___7___ such good home cooking since she moved to London. The next day, they ___8___ shopping together and ___9___ some beautiful clothes for Sarah's new job. She ___10___ the job interview last month and ___11___ for the results since then. Yesterday, she finally ___12___ a phone call from the company - she got the job! She ___13___ so excited in her whole life. This morning, she ___14___ all her friends the good news, and tonight she ___15___ a celebration dinner with her flatmates.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has lived"
+                },
+                {
+                    "blank": "2",
+                    "answer": "visited"
+                },
+                {
+                    "blank": "3",
+                    "answer": "hadn't seen"
+                },
+                {
+                    "blank": "4",
+                    "answer": "went"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had eaten"
+                },
+                {
+                    "blank": "6",
+                    "answer": "made"
+                },
+                {
+                    "blank": "7",
+                    "answer": "hasn't had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "went"
+                },
+                {
+                    "blank": "9",
+                    "answer": "bought"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has been waiting"
+                },
+                {
+                    "blank": "12",
+                    "answer": "received"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has never felt"
+                },
+                {
+                    "blank": "14",
+                    "answer": "told"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is having"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the key differences between present perfect and past simple: present perfect for actions continuing to now or life experiences, past simple for completed actions at specific past times.",
+                "ru": "Это упражнение демонстрирует ключевые различия между present perfect и past simple: present perfect для действий, продолжающихся до настоящего времени или жизненного опыта, past simple для завершенных действий в конкретное прошедшее время.",
+                "uz": "Bu mashq present perfect va past simple o'rtasidagi asosiy farqlarni ko'rsatadi: present perfect hozirgacha davom etuvchi harakatlar yoki hayotiy tajriba uchun, past simple aniq o'tgan vaqtdagi tugallangan harakatlar uchun."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Mark is a travel blogger who ___1___ many countries around the world. He ___2___ his travel blog five years ago when he ___3___ his first trip to Asia. Since then, he ___4___ to over thirty countries and ___5___ thousands of photos. Last year, he ___6___ three months in South America, where he ___7___ incredible landscapes and ___8___ amazing people. He ___9___ such kindness from strangers before that trip. When he ___10___ home, he ___11___ a book about his adventures. He ___12___ on it for six months now and hopes to finish it soon. Yesterday, he ___13___ an email from a publisher who ___14___ his blog and wants to discuss his book. Mark ___15___ so excited about a business opportunity in his entire career. He ___16___ the meeting for next week and ___17___ preparing his presentation materials since this morning.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has visited"
+                },
+                {
+                    "blank": "2",
+                    "answer": "started"
+                },
+                {
+                    "blank": "3",
+                    "answer": "took"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has traveled"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has taken"
+                },
+                {
+                    "blank": "6",
+                    "answer": "spent"
+                },
+                {
+                    "blank": "7",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "8",
+                    "answer": "met"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had never experienced"
+                },
+                {
+                    "blank": "10",
+                    "answer": "returned"
+                },
+                {
+                    "blank": "11",
+                    "answer": "started"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has been working"
+                },
+                {
+                    "blank": "13",
+                    "answer": "received"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has read"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has never been"
+                },
+                {
+                    "blank": "16",
+                    "answer": "arranged"
+                },
+                {
+                    "blank": "17",
+                    "answer": "has been"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how present perfect connects past experiences to the present situation, while past simple describes completed actions at specific times in the past.",
+                "ru": "Этот отрывок показывает, как present perfect связывает прошлый опыт с настоящей ситуацией, в то время как past simple описывает завершенные действия в конкретное время в прошлом.",
+                "uz": "Bu parcha present perfect o'tmish tajribani hozirgi vaziyat bilan qanday bog'lashini ko'rsatadi, past simple esa o'tmishdagi aniq vaqtdagi tugallangan harakatlarni tasvirlaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma and her sister Lucy ___1___ best friends since childhood. They ___2___ up in a small town where everyone ___3___ each other. When Emma ___4___ eighteen, she ___5___ to university in another city. Lucy ___6___ her terribly and ___7___ her every week. Emma ___8___ many new friends at university, but she ___9___ anyone like Lucy before. After graduation, Emma ___10___ a job in London and ___11___ there for two years now. Lucy ___12___ her several times, and each visit ___13___ wonderful. Last month, Lucy ___14___ to move to London too. She ___15___ for jobs since then and ___16___ three interviews already. Yesterday, she ___17___ great news - she ___18___ a position at a marketing company. The sisters ___19___ so happy to live in the same city again after all these years apart.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "grew"
+                },
+                {
+                    "blank": "3",
+                    "answer": "knew"
+                },
+                {
+                    "blank": "4",
+                    "answer": "turned"
+                },
+                {
+                    "blank": "5",
+                    "answer": "went"
+                },
+                {
+                    "blank": "6",
+                    "answer": "missed"
+                },
+                {
+                    "blank": "7",
+                    "answer": "called"
+                },
+                {
+                    "blank": "8",
+                    "answer": "made"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had never met"
+                },
+                {
+                    "blank": "10",
+                    "answer": "found"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has lived"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has visited"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "14",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "15",
+                    "answer": "has been looking"
+                },
+                {
+                    "blank": "16",
+                    "answer": "has had"
+                },
+                {
+                    "blank": "17",
+                    "answer": "received"
+                },
+                {
+                    "blank": "18",
+                    "answer": "got"
+                },
+                {
+                    "blank": "19",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "This story illustrates the use of present perfect for ongoing situations and experiences versus past simple for completed past events with specific time references.",
+                "ru": "Эта история иллюстрирует использование present perfect для продолжающихся ситуаций и опыта против past simple для завершенных прошлых событий с конкретными временными ссылками.",
+                "uz": "Bu hikoya davom etuvchi vaziyatlar va tajriba uchun present perfect, aniq vaqt ma'lumotnomasi bilan tugallangan o'tgan hodisalar uchun past simple ishlatilishini tasvirlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "David is a chef who ___1___ cooking since he was a teenager. He ___2___ his first job at a small restaurant when he ___3___ sixteen years old. The head chef ___4___ him everything about cooking, and David ___5___ those lessons for the rest of his life. After working there for two years, he ___6___ to culinary school where he ___7___ advanced techniques. He ___8___ from school in 2015 and immediately ___9___ working at a famous hotel. Since then, he ___10___ in several high-end restaurants and ___11___ many awards for his creative dishes. Last year, he ___12___ to open his own restaurant. He ___13___ for investors for months and finally ___14___ enough funding in December. The restaurant ___15___ three months ago, and it ___16___ fully booked every weekend since the opening. David ___17___ so proud of any achievement before in his career. Yesterday, a famous food critic ___18___ the restaurant and ___19___ an excellent review. David ___20___ the review this morning and couldn't believe his success.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has loved"
+                },
+                {
+                    "blank": "2",
+                    "answer": "got"
+                },
+                {
+                    "blank": "3",
+                    "answer": "was"
+                },
+                {
+                    "blank": "4",
+                    "answer": "taught"
+                },
+                {
+                    "blank": "5",
+                    "answer": "remembered"
+                },
+                {
+                    "blank": "6",
+                    "answer": "went"
+                },
+                {
+                    "blank": "7",
+                    "answer": "learned"
+                },
+                {
+                    "blank": "8",
+                    "answer": "graduated"
+                },
+                {
+                    "blank": "9",
+                    "answer": "started"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has worked"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has won"
+                },
+                {
+                    "blank": "12",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "13",
+                    "answer": "looked"
+                },
+                {
+                    "blank": "14",
+                    "answer": "found"
+                },
+                {
+                    "blank": "15",
+                    "answer": "opened"
+                },
+                {
+                    "blank": "16",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "17",
+                    "answer": "had never felt"
+                },
+                {
+                    "blank": "18",
+                    "answer": "visited"
+                },
+                {
+                    "blank": "19",
+                    "answer": "wrote"
+                },
+                {
+                    "blank": "20",
+                    "answer": "read"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the contrast between present perfect for experiences and achievements that connect to now, and past simple for completed actions at specific past times.",
+                "ru": "Это упражнение демонстрирует контраст между present perfect для опыта и достижений, которые связаны с настоящим, и past simple для завершенных действий в конкретное прошедшее время.",
+                "uz": "Bu mashq hozirgi vaqt bilan bog'liq tajriba va yutuqlar uchun present perfect va aniq o'tgan vaqtdagi tugallangan harakatlar uchun past simple o'rtasidagi kontrastni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Lisa ___1___ a music teacher for over fifteen years now. She ___2___ piano when she was five years old and ___3___ in love with music immediately. Her grandmother ___4___ her first piano teacher and ___5___ her the basics. Lisa ___6___ piano lessons every week throughout her childhood and ___7___ in many school concerts. When she ___8___ high school, she ___9___ to study music at university. She ___10___ her degree in 2008 and ___11___ teaching right away. Since then, she ___12___ hundreds of students and ___13___ them develop their musical talents. Many of her former students ___14___ professional musicians, which makes her very proud. Last month, one of her students ___15___ a national piano competition. Lisa ___16___ such joy from teaching before that moment. She ___17___ the competition and ___18___ when her student's name was announced as the winner. This morning, the local newspaper ___19___ Lisa about the victory, and she ___20___ the interview with great enthusiasm.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "started"
+                },
+                {
+                    "blank": "3",
+                    "answer": "fell"
+                },
+                {
+                    "blank": "4",
+                    "answer": "was"
+                },
+                {
+                    "blank": "5",
+                    "answer": "taught"
+                },
+                {
+                    "blank": "6",
+                    "answer": "took"
+                },
+                {
+                    "blank": "7",
+                    "answer": "performed"
+                },
+                {
+                    "blank": "8",
+                    "answer": "finished"
+                },
+                {
+                    "blank": "9",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "10",
+                    "answer": "completed"
+                },
+                {
+                    "blank": "11",
+                    "answer": "started"
+                },
+                {
+                    "blank": "12",
+                    "answer": "has taught"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has helped"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have become"
+                },
+                {
+                    "blank": "15",
+                    "answer": "won"
+                },
+                {
+                    "blank": "16",
+                    "answer": "had never felt"
+                },
+                {
+                    "blank": "17",
+                    "answer": "attended"
+                },
+                {
+                    "blank": "18",
+                    "answer": "cried"
+                },
+                {
+                    "blank": "19",
+                    "answer": "interviewed"
+                },
+                {
+                    "blank": "20",
+                    "answer": "gave"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how present perfect expresses ongoing professional experience and achievements, while past simple narrates specific completed events in chronological order.",
+                "ru": "Этот отрывок показывает, как present perfect выражает продолжающийся профессиональный опыт и достижения, в то время как past simple повествует о конкретных завершенных событиях в хронологическом порядке.",
+                "uz": "Bu parcha present perfect davom etuvchi professional tajriba va yutuqlarni ifodalashini, past simple esa aniq tugallangan hodisalarni xronologik tartibda hikoya qilishini ko'rsatadi."
+            }
+        }
+    ]
+}

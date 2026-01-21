@@ -1,0 +1,685 @@
+{
+    "id": "A2_POSSESSIVE_ADJECTIVES_-_REVIEW_AND_EXTENDED_USE",
+    "title": "Possessive adjectives - Review and extended use",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They went to her house.",
+                    "correct": true
+                },
+                {
+                    "answer": "They wented to she house."
+                },
+                {
+                    "answer": "They went to their she house."
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'she' is 'her'. We use it before a noun to show possession.",
+                "ru": "Притяжательное прилагательное для 'she' — 'her'. Мы используем его перед существительным, чтобы показать принадлежность.",
+                "uz": "'She' uchun egalik sifatdoshi 'her'. Biz undan ot oldida egalikni ko'rsatish uchun foydalanamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "This is mine book."
+                },
+                {
+                    "answer": "This is my book.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is me book."
+                }
+            ],
+            "explanation": {
+                "en": "'My' is the correct possessive adjective to use before the noun 'book'. 'Mine' is a possessive pronoun and cannot be used before a noun.",
+                "ru": "'My' - это правильное притяжательное прилагательное для использования перед существительным 'book'. 'Mine' - это притяжательное местоимение и не может использоваться перед существительным.",
+                "uz": "'My' 'book' otidan oldin ishlatiladigan to'g'ri egalik sifatdoshidir. 'Mine' egalik olmoshi bo'lib, otdan oldin ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He lives with his parents.",
+                    "correct": true
+                },
+                {
+                    "answer": "He lives with he parents."
+                },
+                {
+                    "answer": "He lives with him parents."
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'he' is 'his'. It shows that the parents belong to him.",
+                "ru": "Притяжательное прилагательное для 'he' — 'his'. Оно показывает, что родители принадлежат ему.",
+                "uz": "'He' uchun egalik sifatdoshi 'his'. Bu ota-onaning unga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The dog is eating its food.",
+                    "correct": true
+                },
+                {
+                    "answer": "The dog is eating it food."
+                },
+                {
+                    "answer": "The dog is eating its' food."
+                }
+            ],
+            "explanation": {
+                "en": "'Its' is the correct possessive adjective for a single thing or animal. 'It's' means 'it is' or 'it has'.",
+                "ru": "'Its' - это правильное притяжательное прилагательное для единственного предмета или животного. 'It's' означает 'it is' или 'it has'.",
+                "uz": "'Its' yakka narsa yoki hayvon uchun to'g'ri egalik sifatdoshidir. 'It's' 'it is' yoki 'it has' degan ma'noni anglatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We love our teacher.",
+                    "correct": true
+                },
+                {
+                    "answer": "We love we teacher."
+                },
+                {
+                    "answer": "We love us teacher."
+                }
+            ],
+            "explanation": {
+                "en": "'Our' is the possessive adjective for 'we'. It shows that the teacher belongs to all of us.",
+                "ru": "'Our' - это притяжательное прилагательное для 'we'. Оно показывает, что учитель принадлежит всем нам.",
+                "uz": "'Our' 'we' uchun egalik sifatdoshidir. U o'qituvchining hammamizga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The children are playing with their toys.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children are playing with there toys."
+                },
+                {
+                    "answer": "The children are playing with they toys."
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'they' is 'their'. 'There' indicates a place.",
+                "ru": "Притяжательное прилагательное для 'they' — 'their'. 'There' указывает на место.",
+                "uz": "'They' uchun egalik sifatdoshi 'their'. 'There' joyni bildiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is this your car?",
+                    "correct": true
+                },
+                {
+                    "answer": "Is this you car?"
+                },
+                {
+                    "answer": "Is this yours car?"
+                }
+            ],
+            "explanation": {
+                "en": "'Your' is the correct possessive adjective for 'you'. 'Yours' is a possessive pronoun.",
+                "ru": "'Your' - это правильное притяжательное прилагательное для 'you'. 'Yours' - это притяжательное местоимение.",
+                "uz": "'Your' 'you' uchun to'g'ri egalik sifatdoshidir. 'Yours' egalik olmoshidir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She lost hers keys."
+                },
+                {
+                    "answer": "She lost her keys.",
+                    "correct": true
+                },
+                {
+                    "answer": "She lost she keys."
+                }
+            ],
+            "explanation": {
+                "en": "'Her' is the possessive adjective that goes before the noun 'keys'. 'Hers' is a possessive pronoun used without a noun.",
+                "ru": "'Her' - это притяжательное прилагательное, которое ставится перед существительным 'keys'. 'Hers' - это притяжательное местоимение, используемое без существительного.",
+                "uz": "'Her' 'keys' otidan oldin keladigan egalik sifatdoshidir. 'Hers' otdan foydalanilmaydigan egalik olmoshidir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I can't find my phone.",
+                    "correct": true
+                },
+                {
+                    "answer": "I can't find me phone."
+                },
+                {
+                    "answer": "I can't find I phone."
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'I' is 'my'. It shows that the phone belongs to me.",
+                "ru": "Притяжательное прилагательное для 'I' — 'my'. Оно показывает, что телефон принадлежит мне.",
+                "uz": "'I' uchun egalik sifatdoshi 'my'. U telefonning menga tegishli ekanligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The cat hurt it paw."
+                },
+                {
+                    "answer": "The cat hurt its' paw."
+                },
+                {
+                    "answer": "The cat hurt its paw.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Its' is the correct possessive adjective for an animal. 'It's' is a contraction of 'it is' and is not possessive.",
+                "ru": "'Its' - это правильное притяжательное прилагательное для животного. 'It's' — это сокращение от 'it is' и не является притяжательным.",
+                "uz": "'Its' hayvon uchun to'g'ri egalik sifatdoshidir. 'It's' 'it is' qisqartmasi bo'lib, egalikni bildirmaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: I have a sister. ___ name is Maria.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: I have a sister. ___ name is Maria.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: I have a sister. ___ name is Maria."
+            },
+            "options": [
+                {
+                    "answer": "Her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for a female person ('she') is 'her'.",
+                "ru": "Правильное притяжательное прилагательное для лица женского пола ('she') — 'her'.",
+                "uz": "Ayol kishi ('she') uchun to'g'ri egalik sifatdoshi 'her'dir."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: He has a new car. ___ car is red.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: He has a new car. ___ car is red.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: He has a new car. ___ car is red."
+            },
+            "options": [
+                {
+                    "answer": "His",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for a male person ('he') is 'his'.",
+                "ru": "Правильное притяжательное прилагательное для лица мужского пола ('he') — 'his'.",
+                "uz": "Erkak kishi ('he') uchun to'g'ri egalik sifatdoshi 'his'dir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: We are going to visit ___ grandparents.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: We are going to visit ___ grandparents.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: We are going to visit ___ grandparents."
+            },
+            "options": [
+                {
+                    "answer": "Our",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for 'we' is 'our'.",
+                "ru": "Правильное притяжательное прилагательное для 'we' — 'our'.",
+                "uz": "'We' uchun to'g'ri egalik sifatdoshi 'our'dir."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: They are students. ___ class is on the second floor.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: They are students. ___ class is on the second floor.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: They are students. ___ class is on the second floor."
+            },
+            "options": [
+                {
+                    "answer": "Their",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for 'they' is 'their'.",
+                "ru": "Правильное притяжательное прилагательное для 'they' — 'their'.",
+                "uz": "'They' uchun to'g'ri egalik sifatdoshi 'their'dir."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective 'you': Do you like ___ new jacket?",
+                "ru": "Дополните предложение правильным притяжательным прилагательным 'you': Do you like ___ new jacket?",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring 'you': Do you like ___ new jacket?"
+            },
+            "options": [
+                {
+                    "answer": "Your",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for 'you' is 'your'.",
+                "ru": "Правильное притяжательное прилагательное для 'you' — 'your'.",
+                "uz": "'You' uchun to'g'ri egalik sifatdoshi 'your'dir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: I live with ___ family in the city.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: I live with ___ family in the city.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: I live with ___ family in the city."
+            },
+            "options": [
+                {
+                    "answer": "My",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'I' is 'my'.",
+                "ru": "Притяжательное прилагательное для 'I' — 'my'.",
+                "uz": "'I' uchun egalik sifatdoshi 'my'dir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: She has a dog. ___ dog is very friendly.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: She has a dog. ___ dog is very friendly.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: She has a dog. ___ dog is very friendly."
+            },
+            "options": [
+                {
+                    "answer": "Her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for 'she' is 'her'.",
+                "ru": "Притяжательное прилагательное для 'she' — 'her'.",
+                "uz": "'She' uchun egalik sifatdoshi 'her'dir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: The cat is licking ___ paw.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: The cat is licking ___ paw.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: The cat is licking ___ paw."
+            },
+            "options": [
+                {
+                    "answer": "Its",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective for a single animal is 'its'.",
+                "ru": "Притяжательное прилагательное для единственного животного — 'its'.",
+                "uz": "Yagona hayvon uchun egalik sifatdoshi 'its'dir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: We are proud of ___ team.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: We are proud of ___ team.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: We are proud of ___ team."
+            },
+            "options": [
+                {
+                    "answer": "Our",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for 'we' is 'our'.",
+                "ru": "Правильное притяжательное прилагательное для 'we' — 'our'.",
+                "uz": "'We' uchun to'g'ri egalik sifatdoshi 'our'dir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: They finished ___ homework last night.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: They finished ___ homework last night.",
+                "uz": "Gapni to'g'ri egalik sifatdoshi bilan to'ldiring: They finished ___ homework last night."
+            },
+            "options": [
+                {
+                    "answer": "Their",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct possessive adjective for 'they' is 'their'.",
+                "ru": "Правильное притяжательное прилагательное для 'they' — 'their'.",
+                "uz": "'They' uchun to'g'ri egalik sifatdoshi 'their'dir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatdoshlari bilan to'ldiring."
+            },
+            "text": "My friend, Alex, is from Canada. ___1___ family lives in Toronto, but he moved to London last year to study. He really loves ___2___ new life here. He shares a flat with two other students. ___3___ names are Chloe and Liam. Chloe is from France and Liam is from Ireland. They all have different hobbies. Chloe loves reading and spends a lot of time in ___4___ room with ___5___ books. Liam is a great cook and he is proud of ___6___ cooking skills. Alex loves watching football and is a big fan of Arsenal. ___7___ favourite team is Arsenal. They all study at the same university. ___8___ university is very famous and has a great library. They often study together to help each other with ___9___ homework. I sometimes go to the library with them to finish ___10___ own assignments. It’s good to have friends like that. We always have a great time and talk about ___11___ days and plans. Their different backgrounds make ___12___ conversations very interesting. They all love the city and hope to find jobs here after ___13___ studies are finished. It is a very exciting time in ___14___ lives.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "His"
+                },
+                {
+                    "blank": "2",
+                    "answer": "his"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Their"
+                },
+                {
+                    "blank": "4",
+                    "answer": "her"
+                },
+                {
+                    "blank": "5",
+                    "answer": "her"
+                },
+                {
+                    "blank": "6",
+                    "answer": "his"
+                },
+                {
+                    "blank": "7",
+                    "answer": "His"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Their"
+                },
+                {
+                    "blank": "9",
+                    "answer": "their"
+                },
+                {
+                    "blank": "10",
+                    "answer": "my"
+                },
+                {
+                    "blank": "11",
+                    "answer": "our"
+                },
+                {
+                    "blank": "12",
+                    "answer": "their"
+                },
+                {
+                    "blank": "13",
+                    "answer": "their"
+                },
+                {
+                    "blank": "14",
+                    "answer": "their"
+                }
+            ],
+            "explanation": {
+                "en": "The passage requires a variety of possessive adjectives ('his', 'her', 'their', 'my', 'our') to match the subjects and show possession of the following nouns.",
+                "ru": "В тексте используются различные притяжательные прилагательные ('his', 'her', 'their', 'my', 'our'), чтобы соответствовать подлежащим и показывать принадлежность к следующим существительным.",
+                "uz": "Matn otlarning subyektlari va egaligini ko'rsatish uchun turli egalik sifatdoshlarini ('his', 'her', 'their', 'my', 'our') talab qiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatdoshlari bilan to'ldiring."
+            },
+            "text": "My sister and I have a pet dog. ___1___ name is Max. He loves to play in the park. We take him there every day after school. ___2___ favourite thing is to chase a ball. ___3___ family loves him very much because he is very playful. He gets excited when we give him ___4___ favourite snack. Yesterday, he was not feeling well and we were all worried about ___5___ health. ___6___ friend, Jessica, has a cat. ___7___ cat's name is Luna. Luna likes to play with string. Jessica showed us a video of Luna playing with ___8___ favourite toy. I sometimes visit Jessica at ___9___ house to play with Luna. My brother and I have a new game. ___10___ game is about a space adventure. We enjoy playing it. I asked my friends if they wanted to play, but they had to do ___11___ homework first. So, I went to ___12___ room and played by myself. My friends will come over on the weekend with ___13___ new video game. I hope ___14___ game is fun. My brother and I will show them ___15___ new game, too.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Its"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Its"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Our"
+                },
+                {
+                    "blank": "4",
+                    "answer": "his"
+                },
+                {
+                    "blank": "5",
+                    "answer": "his"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Our"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Her"
+                },
+                {
+                    "blank": "8",
+                    "answer": "her"
+                },
+                {
+                    "blank": "9",
+                    "answer": "her"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Our"
+                },
+                {
+                    "blank": "11",
+                    "answer": "their"
+                },
+                {
+                    "blank": "12",
+                    "answer": "my"
+                },
+                {
+                    "blank": "13",
+                    "answer": "their"
+                },
+                {
+                    "blank": "14",
+                    "answer": "their"
+                },
+                {
+                    "blank": "15",
+                    "answer": "our"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various possessive adjectives in different contexts. 'Its' is used for the dog, 'our' is for 'my sister and I', 'her' is for Jessica and her cat, 'my' for 'I', and 'their' for 'friends'.",
+                "ru": "Это упражнение проверяет различные притяжательные прилагательные в разных контекстах. 'Its' используется для собаки, 'our' - для 'my sister and I', 'her' - для Джессики и ее кошки, 'my' - для 'I', и 'their' - для 'friends'.",
+                "uz": "Bu mashq turli kontekstlardagi egalik sifatdoshlarini sinovdan o'tkazadi. 'Its' it uchun, 'our' 'my sister and I' uchun, 'her' Jessika va uning mushugi uchun, 'my' 'I' uchun va 'their' 'friends' uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatdoshlari bilan to'ldiring."
+            },
+            "text": "My parents bought a new house. ___1___ house is quite big and has a large garden. I am very happy because I have ___2___ own room now. My brother, Tom, is also happy with ___3___ new room. He put all ___4___ books on the bookshelf. ___5___ sister, Mary, is not living with us because she is at university. She said ___6___ courses are difficult but very interesting. She studies with some friends. They told us that ___7___ studies are going well. Mary often calls us to tell us about ___8___ day. I also have a friend, Clara, who has a beautiful voice. ___9___ voice is really incredible. When she sings, everyone stops to listen. I asked her if she wanted to join a choir, and she said she would think about it. The school choir needs new members, and I hope she joins. ___10___ choir would be much better with her. Yesterday, Clara and I were at a café. We were talking about ___11___ dreams for the future. We both want to be artists. ___12___ dreams are quite similar. It's nice to have a friend who shares ___13___ passion.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Their"
+                },
+                {
+                    "blank": "2",
+                    "answer": "my"
+                },
+                {
+                    "blank": "3",
+                    "answer": "his"
+                },
+                {
+                    "blank": "4",
+                    "answer": "his"
+                },
+                {
+                    "blank": "5",
+                    "answer": "My"
+                },
+                {
+                    "blank": "6",
+                    "answer": "her"
+                },
+                {
+                    "blank": "7",
+                    "answer": "their"
+                },
+                {
+                    "blank": "8",
+                    "answer": "her"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Her"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Our"
+                },
+                {
+                    "blank": "11",
+                    "answer": "our"
+                },
+                {
+                    "blank": "12",
+                    "answer": "Our"
+                },
+                {
+                    "blank": "13",
+                    "answer": "my"
+                }
+            ],
+            "explanation": {
+                "en": "This passage tests a wide range of possessive adjectives. 'Their' is used for 'parents' and 'friends'. 'My' is used for 'I'. 'His' is used for 'Tom'. 'Her' is used for 'Mary' and 'Clara'. 'Our' is used for 'Clara and I'.",
+                "ru": "Этот отрывок проверяет широкий спектр притяжательных прилагательных. 'Their' используется для 'parents' и 'friends'. 'My' - для 'I'. 'His' - для 'Tom'. 'Her' - для 'Mary' и 'Clara'. 'Our' - для 'Clara and I'.",
+                "uz": "Ushbu matn egalik sifatdoshlarining keng doirasini sinovdan o'tkazadi. 'Their' 'parents' va 'friends' uchun ishlatiladi. 'My' 'I' uchun ishlatiladi. 'His' 'Tom' uchun ishlatiladi. 'Her' 'Mary' va 'Clara' uchun ishlatiladi. 'Our' 'Clara and I' uchun ishlatiladi."
+            }
+        }
+    ]
+}

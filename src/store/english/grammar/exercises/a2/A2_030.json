@@ -1,0 +1,738 @@
+{
+    "id": "A2_SHOULD_SHOULDNT_ADVICE_AND_RECOMMENDATIONS",
+    "title": "Should, shouldn't - Advice and recommendations",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You should to eat more vegetables."
+                },
+                {
+                    "answer": "You should eat more vegetables.",
+                    "correct": true
+                },
+                {
+                    "answer": "You should eating more vegetables."
+                }
+            ],
+            "explanation": {
+                "en": "After 'should', we use the base form of the verb without 'to'.",
+                "ru": "После 'should' мы используем базовую форму глагола без 'to'.",
+                "uz": "'Should'dan keyin fe'lning asosiy shaklini 'to' siz ishlatamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She shouldn't stays up late."
+                },
+                {
+                    "answer": "She shouldn't stay up late.",
+                    "correct": true
+                },
+                {
+                    "answer": "She shouldn't to stay up late."
+                }
+            ],
+            "explanation": {
+                "en": "After 'shouldn't', we use the base form of the verb without 'to'.",
+                "ru": "После 'shouldn't' мы используем базовую форму глагола без 'to'.",
+                "uz": "'Shouldn't'dan keyin fe'lning asosiy shaklini 'to' siz ishlatamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We should helps our parents."
+                },
+                {
+                    "answer": "We should help our parents.",
+                    "correct": true
+                },
+                {
+                    "answer": "We should helped our parents."
+                }
+            ],
+            "explanation": {
+                "en": "Should is a modal verb followed by the base form of the main verb.",
+                "ru": "Should — это модальный глагол, за которым следует базовая форма основного глагола.",
+                "uz": "Should modal fe'l bo'lib, undan keyin asosiy fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "You shouldn't drinks too much coffee."
+                },
+                {
+                    "answer": "You shouldn't drink too much coffee.",
+                    "correct": true
+                },
+                {
+                    "answer": "You shouldn't drank too much coffee."
+                }
+            ],
+            "explanation": {
+                "en": "Modal verbs like 'shouldn't' are followed by the base form of the verb.",
+                "ru": "Модальные глаголы, такие как 'shouldn't', сопровождаются базовой формой глагола.",
+                "uz": "'Shouldn't' kabi modal fe'llar fe'lning asosiy shakli bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They should to visit their grandmother."
+                },
+                {
+                    "answer": "They should visit their grandmother.",
+                    "correct": true
+                },
+                {
+                    "answer": "They should visits their grandmother."
+                }
+            ],
+            "explanation": {
+                "en": "Should is used with the base form of the verb, never with 'to' or third person singular forms.",
+                "ru": "Should используется с базовой формой глагола, никогда с 'to' или формами третьего лица единственного числа.",
+                "uz": "Should fe'lning asosiy shakli bilan ishlatiladi, hech qachon 'to' yoki uchinchi shaxs birlik shakllari bilan emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He shouldn't smokes in the house."
+                },
+                {
+                    "answer": "He shouldn't smoke in the house.",
+                    "correct": true
+                },
+                {
+                    "answer": "He shouldn't smoking in the house."
+                }
+            ],
+            "explanation": {
+                "en": "After 'shouldn't', use the base form of the verb without any endings.",
+                "ru": "После 'shouldn't' используйте базовую форму глагола без окончаний.",
+                "uz": "'Shouldn't'dan keyin fe'lning asosiy shaklini hech qanday qo'shimchalarsiz ishlating."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I should studying harder for my exams."
+                },
+                {
+                    "answer": "I should study harder for my exams.",
+                    "correct": true
+                },
+                {
+                    "answer": "I should to study harder for my exams."
+                }
+            ],
+            "explanation": {
+                "en": "Should is a modal verb that requires the base form of the main verb.",
+                "ru": "Should — модальный глагол, который требует базовой формы основного глагола.",
+                "uz": "Should modal fe'l bo'lib, asosiy fe'lning asosiy shaklini talab qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We shouldn't to be late for the meeting."
+                },
+                {
+                    "answer": "We shouldn't be late for the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "We shouldn't being late for the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "'Shouldn't' is followed directly by the base form of the verb without 'to'.",
+                "ru": "'Shouldn't' сопровождается непосредственно базовой формой глагола без 'to'.",
+                "uz": "'Shouldn't'dan so'ng to'g'ridan-to'g'ri fe'lning asosiy shakli 'to'siz keladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You should wears a helmet when cycling."
+                },
+                {
+                    "answer": "You should wear a helmet when cycling.",
+                    "correct": true
+                },
+                {
+                    "answer": "You should wearing a helmet when cycling."
+                }
+            ],
+            "explanation": {
+                "en": "Modal verbs like 'should' are always followed by the infinitive without 'to'.",
+                "ru": "Модальные глаголы, такие как 'should', всегда сопровождаются инфинитивом без 'to'.",
+                "uz": "'Should' kabi modal fe'llar har doim 'to'siz infinitiv bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She shouldn't spends too much money."
+                },
+                {
+                    "answer": "She shouldn't spend too much money.",
+                    "correct": true
+                },
+                {
+                    "answer": "She shouldn't to spend too much money."
+                }
+            ],
+            "explanation": {
+                "en": "After 'shouldn't', we use the base form of the verb, not the third person singular form.",
+                "ru": "После 'shouldn't' мы используем базовую форму глагола, а не форму третьего лица единственного числа.",
+                "uz": "'Shouldn't'dan keyin fe'lning asosiy shaklini ishlatamiz, uchinchi shaxs birlik shaklini emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ exercise regularly to stay healthy.",
+                "ru": "Дополните предложение: You ___ exercise regularly to stay healthy.",
+                "uz": "Gapni to'ldiring: You ___ exercise regularly to stay healthy."
+            },
+            "options": [
+                {
+                    "answer": "should",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'should' to give advice or make recommendations.",
+                "ru": "Мы используем 'should' для совета или рекомендаций.",
+                "uz": "Maslahat berish yoki tavsiya qilish uchun 'should' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Children ___ play video games all day.",
+                "ru": "Дополните предложение: Children ___ play video games all day.",
+                "uz": "Gapni to'ldiring: Children ___ play video games all day."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'shouldn't' to advise against doing something.",
+                "ru": "Мы используем 'shouldn't' чтобы посоветовать не делать что-то.",
+                "uz": "Biror narsani qilmaslikni maslahat berish uchun 'shouldn't' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Students ___ do their homework every day.",
+                "ru": "Дополните предложение: Students ___ do their homework every day.",
+                "uz": "Gapni to'ldiring: Students ___ do their homework every day."
+            },
+            "options": [
+                {
+                    "answer": "should",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Should' is used to give advice about what is the right thing to do.",
+                "ru": "'Should' используется для советов о том, что правильно делать.",
+                "uz": "'Should' nima qilish to'g'ri ekanligi haqida maslahat berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ be rude to our teachers.",
+                "ru": "Дополните предложение: We ___ be rude to our teachers.",
+                "uz": "Gapni to'ldiring: We ___ be rude to our teachers."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Shouldn't' expresses what we advise someone not to do.",
+                "ru": "'Shouldn't' выражает то, что мы советуем кому-то не делать.",
+                "uz": "'Shouldn't' kimgadir nima qilmaslikni maslahat berishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: People ___ eat too much fast food.",
+                "ru": "Дополните предложение: People ___ eat too much fast food.",
+                "uz": "Gapni to'ldiring: People ___ eat too much fast food."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'shouldn't' to recommend against unhealthy habits.",
+                "ru": "Мы используем 'shouldn't' чтобы не рекомендовать вредные привычки.",
+                "uz": "Zararli odatlarni tavsiya qilmaslik uchun 'shouldn't' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Drivers ___ use their mobile phones while driving.",
+                "ru": "Дополните предложение: Drivers ___ use their mobile phones while driving.",
+                "uz": "Gapni to'ldiring: Drivers ___ use their mobile phones while driving."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Shouldn't' is used to advise against dangerous or inappropriate actions.",
+                "ru": "'Shouldn't' используется для предостережения от опасных или неуместных действий.",
+                "uz": "'Shouldn't' xavfli yoki nomaqbul harakatlardan ogohlantirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ brush your teeth twice a day.",
+                "ru": "Дополните предложение: You ___ brush your teeth twice a day.",
+                "uz": "Gapni to'ldiring: You ___ brush your teeth twice a day."
+            },
+            "options": [
+                {
+                    "answer": "should",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Should' is used to give advice about healthy habits and good practices.",
+                "ru": "'Should' используется для советов о здоровых привычках и хороших практиках.",
+                "uz": "'Should' sog'lom odatlar va yaxshi amaliyotlar haqida maslahat berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ worry so much about the exam.",
+                "ru": "Дополните предложение: She ___ worry so much about the exam.",
+                "uz": "Gapni to'ldiring: She ___ worry so much about the exam."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Shouldn't' is used to advise against excessive worry or stress.",
+                "ru": "'Shouldn't' используется чтобы посоветовать не переживать чрезмерно или не испытывать стресс.",
+                "uz": "'Shouldn't' ortiqcha tashvishlanish yoki stressdan saqlanish uchun maslahat berish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ respect our elders.",
+                "ru": "Дополните предложение: We ___ respect our elders.",
+                "uz": "Gapni to'ldiring: We ___ respect our elders."
+            },
+            "options": [
+                {
+                    "answer": "should",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Should' expresses moral obligations and proper behavior.",
+                "ru": "'Should' выражает моральные обязательства и правильное поведение.",
+                "uz": "'Should' axloqiy majburiyatlar va to'g'ri xulq-atvorni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ listen to loud music late at night.",
+                "ru": "Дополните предложение: They ___ listen to loud music late at night.",
+                "uz": "Gapni to'ldiring: They ___ listen to loud music late at night."
+            },
+            "options": [
+                {
+                    "answer": "shouldn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Shouldn't' is used to advise against actions that might disturb others.",
+                "ru": "'Shouldn't' используется чтобы посоветовать против действий, которые могут беспокоить других.",
+                "uz": "'Shouldn't' boshqalarni bezovta qilishi mumkin bo'lgan harakatlardan saqlanish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Living a healthy lifestyle is very important for everyone. First, you ___1___ eat plenty of fruits and vegetables every day because they provide essential vitamins and minerals. You ___2___ skip breakfast as it gives you energy for the whole morning. Many people think they ___3___ drink lots of coffee to stay awake, but this is not true. Instead, you ___4___ get enough sleep every night, at least seven to eight hours. Exercise is also crucial - you ___5___ do some physical activity at least three times a week. However, you ___6___ exercise too much at the beginning if you are not used to it. Start slowly and gradually increase your activity level. You ___7___ smoke cigarettes or drink too much alcohol as these habits are very harmful to your health. When you feel stressed, you ___8___ try relaxation techniques like deep breathing or meditation. You ___9___ ignore warning signs from your body when you feel unwell. Instead, you ___10___ visit a doctor regularly for check-ups. Remember, you ___11___ compare yourself to others because everyone's health journey is different. Finally, you ___12___ maintain a positive attitude and be patient with yourself as healthy changes take time to develop.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should"
+                },
+                {
+                    "blank": "4",
+                    "answer": "should"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "7",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should"
+                },
+                {
+                    "blank": "9",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "should"
+                },
+                {
+                    "blank": "11",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "12",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates using 'should' for positive advice and recommendations, and 'shouldn't' for negative advice about things to avoid.",
+                "ru": "Это упражнение демонстрирует использование 'should' для положительных советов и рекомендаций, и 'shouldn't' для отрицательных советов о том, чего следует избегать.",
+                "uz": "Bu mashq ijobiy maslahat va tavsiyalar uchun 'should' va qochish kerak bo'lgan narsalar haqida salbiy maslahat uchun 'shouldn't' ishlatishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When you are preparing for an important job interview, there are many things you ___1___ consider. First, you ___2___ research the company thoroughly before the interview day. This shows that you are genuinely interested in working there. You ___3___ arrive at least ten minutes early to make a good first impression. However, you ___4___ arrive too early, as this might inconvenience the interviewer. Your appearance is also important - you ___5___ dress professionally and appropriately for the company culture. You ___6___ wear casual clothes like jeans or shorts unless it's specifically mentioned that casual dress is acceptable. During the interview, you ___7___ maintain good eye contact and speak clearly. You ___8___ interrupt the interviewer while they are speaking, as this shows poor manners. When answering questions, you ___9___ be honest about your experiences and qualifications. You ___10___ exaggerate or lie about your skills because this will likely be discovered later. You ___11___ prepare some thoughtful questions to ask about the role and company. This demonstrates your genuine interest. Finally, you ___12___ send a thank-you email within 24 hours after the interview to show your continued interest in the position.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "should"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should"
+                },
+                {
+                    "blank": "4",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should"
+                },
+                {
+                    "blank": "8",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "9",
+                    "answer": "should"
+                },
+                {
+                    "blank": "10",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "should"
+                },
+                {
+                    "blank": "12",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how to use 'should' and 'shouldn't' to give professional advice about job interview preparation and behavior.",
+                "ru": "Этот отрывок показывает, как использовать 'should' и 'shouldn't' для профессиональных советов о подготовке к собеседованию и поведении.",
+                "uz": "Bu parcha ish suhbatiga tayyorgarlik va xulq-atvor haqida professional maslahat berish uchun 'should' va 'shouldn't' qanday ishlatishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Managing your money wisely is a skill that everyone ___1___ learn at a young age. Students especially ___2___ understand the importance of budgeting and saving. You ___3___ create a monthly budget to track your income and expenses. This helps you see where your money is going. You ___4___ spend more money than you earn, as this leads to debt problems. When shopping, you ___5___ compare prices before making purchases to get the best deals. You ___6___ buy things impulsively just because they are on sale if you don't really need them. Instead, you ___7___ make a shopping list and stick to it. For major purchases, you ___8___ save money gradually rather than using credit cards immediately. You ___9___ ignore your bank statements or credit card bills because this can lead to financial problems. Everyone ___10___ have an emergency fund for unexpected expenses like medical bills or car repairs. You ___11___ invest all your money in risky ventures without proper knowledge and research. Young people ___12___ start saving for their future as early as possible, even if it's just a small amount each month. Remember, you ___13___ seek professional financial advice if you're unsure about important financial decisions.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "should"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should"
+                },
+                {
+                    "blank": "4",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should"
+                },
+                {
+                    "blank": "9",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "should"
+                },
+                {
+                    "blank": "11",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "12",
+                    "answer": "should"
+                },
+                {
+                    "blank": "13",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices using modal verbs for financial advice, showing what people should and shouldn't do with money management.",
+                "ru": "Это упражнение практикует использование модальных глаголов для финансовых советов, показывая, что люди должны и не должны делать с управлением деньгами.",
+                "uz": "Bu mashq moliyaviy maslahat berish uchun modal fe'llarni amaliyot qiladi va odamlar pul boshqaruvida nima qilishi va qilmasligi kerakligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Environmental protection is something that everyone ___1___ care about. As individuals, we ___2___ take small steps that make a big difference. You ___3___ reduce, reuse, and recycle materials whenever possible. People ___4___ throw plastic bottles and cans in regular trash when recycling bins are available. Instead, you ___5___ separate your waste properly to help the environment. When shopping, you ___6___ bring your own reusable bags instead of using plastic bags. You ___7___ waste water by leaving taps running unnecessarily or taking very long showers. Everyone ___8___ try to use energy-efficient appliances and turn off lights when leaving a room. Car owners ___9___ consider walking, cycling, or using public transport for short distances instead of always driving. You ___10___ buy products with excessive packaging when there are more eco-friendly alternatives available. Companies ___11___ be more responsible about their environmental impact and reduce pollution. Individuals ___12___ educate themselves about environmental issues and share this knowledge with others. We ___13___ ignore climate change because it affects everyone on the planet. Finally, you ___14___ support businesses and politicians who prioritize environmental protection in their policies.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "should"
+                },
+                {
+                    "blank": "2",
+                    "answer": "should"
+                },
+                {
+                    "blank": "3",
+                    "answer": "should"
+                },
+                {
+                    "blank": "4",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "should"
+                },
+                {
+                    "blank": "6",
+                    "answer": "should"
+                },
+                {
+                    "blank": "7",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "should"
+                },
+                {
+                    "blank": "9",
+                    "answer": "should"
+                },
+                {
+                    "blank": "10",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "should"
+                },
+                {
+                    "blank": "12",
+                    "answer": "should"
+                },
+                {
+                    "blank": "13",
+                    "answer": "shouldn't"
+                },
+                {
+                    "blank": "14",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates using should and shouldn't to give advice about environmental responsibility and sustainable living practices.",
+                "ru": "Этот отрывок демонстрирует использование should и shouldn't для советов об экологической ответственности и практике устойчивого образа жизни.",
+                "uz": "Bu parcha ekologik javobgarlik va barqaror turmush tarzi amaliyotlari haqida maslahat berish uchun should va shouldn't ishlatishni ko'rsatadi."
+            }
+        }
+    ]
+}

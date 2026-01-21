@@ -1,0 +1,871 @@
+{
+    "id": "A1_PRONOUNS_OBJECT_VS_SUBJECT_DEMONSTRATIVE",
+    "title": "Pronouns (Subject, Object, and Demonstrative)",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He gave the book to I.",
+                    "correct": false
+                },
+                {
+                    "answer": "He gave the book to me.",
+                    "correct": true
+                },
+                {
+                    "answer": "Him gave the book to me.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "An object pronoun like 'me' is used after a verb or a preposition, such as 'to'. 'I' is a subject pronoun.",
+                "ru": "После глагола или предлога, такого как 'to', используется объектное местоимение, например, 'me'. 'I' — это субъектное местоимение.",
+                "uz": "Fe'l yoki 'to' kabi predlogdan keyin 'me' kabi obyekt olmoshi ishlatiladi. 'I' esa ega olmoshi hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She and him went to the park.",
+                    "correct": false
+                },
+                {
+                    "answer": "Her and him went to the park.",
+                    "correct": false
+                },
+                {
+                    "answer": "She and he went to the park.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Subject pronouns like 'she' and 'he' are used for the subject of a sentence. 'Her' and 'him' are object pronouns.",
+                "ru": "Субъектные местоимения 'she' и 'he' используются для подлежащего предложения. 'Her' и 'him' — это объектные местоимения.",
+                "uz": "'She' va 'he' kabi ega olmoshlari gapning egasi sifatida ishlatiladi. 'Her' va 'him' esa obyekt olmoshlaridir."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct pronoun to complete the sentence: 'Can you help ___ with my homework?'",
+                "ru": "Выберите правильное местоимение, чтобы завершить предложение: 'Can you help ___ with my homework?'",
+                "uz": "Gapni to'ldirish uchun to'g'ri olmoshni tanlang: 'Can you help ___ with my homework?'"
+            },
+            "options": [
+                {
+                    "answer": "I",
+                    "correct": false
+                },
+                {
+                    "answer": "my",
+                    "correct": false
+                },
+                {
+                    "answer": "me",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The pronoun 'me' is an object pronoun and comes after the verb 'help' in this sentence.",
+                "ru": "Местоимение 'me' является объектным и стоит после глагола 'help' в этом предложении.",
+                "uz": "'Me' olmoshi obyekt olmoshi boʻlib, bu gapda 'help' fe'lidan keyin keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence uses the correct demonstrative pronoun?",
+                "ru": "В каком предложении используется правильное указательное местоимение?",
+                "uz": "Qaysi gapda to'g'ri ko'rsatish olmoshi ishlatilgan?"
+            },
+            "options": [
+                {
+                    "answer": "This is my car, and that are my friend's car.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is my car, and that is my friend's car.",
+                    "correct": true
+                },
+                {
+                    "answer": "This are my car, and that is my friend's car.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The demonstrative pronouns 'this' and 'that' are singular, so they must be followed by the singular verb 'is'.",
+                "ru": "Указательные местоимения 'this' и 'that' являются единственного числа, поэтому за ними должен следовать глагол единственного числа 'is'.",
+                "uz": "'This' va 'that' ko'rsatish olmoshlari birlikda bo'lgani uchun ulardan keyin birlik fe'li 'is' kelishi shart."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Give the ball to they.",
+                    "correct": false
+                },
+                {
+                    "answer": "Give the ball to them.",
+                    "correct": true
+                },
+                {
+                    "answer": "Give they the ball.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun 'them' is used after the preposition 'to'. 'They' is a subject pronoun.",
+                "ru": "Объектное местоимение 'them' используется после предлога 'to'. 'They' — это субъектное местоимение.",
+                "uz": "'Them' obyekt olmoshi 'to' predlogidan keyin ishlatiladi. 'They' esa ega olmoshi hisoblanadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which pronoun correctly completes the sentence: 'The teacher praised ___ for doing well on the test.'",
+                "ru": "Какое местоимение правильно завершает предложение: 'The teacher praised ___ for doing well on the test.'",
+                "uz": "Qaysi olmosh gapni to'g'ri yakunlaydi: 'The teacher praised ___ for doing well on the test.'?"
+            },
+            "options": [
+                {
+                    "answer": "she",
+                    "correct": false
+                },
+                {
+                    "answer": "her",
+                    "correct": true
+                },
+                {
+                    "answer": "it",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "An object pronoun like 'her' is required after the verb 'praised'. 'She' is a subject pronoun.",
+                "ru": "После глагола 'praised' требуется объектное местоимение, например 'her'. 'She' — это субъектное местоимение.",
+                "uz": "'Praised' fe'lidan keyin 'her' kabi obyekt olmoshi talab qilinadi. 'She' esa ega olmoshi hisoblanadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct demonstrative pronoun.",
+                "ru": "Выберите правильное указательное местоимение.",
+                "uz": "To'g'ri ko'rsatish olmoshini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This books are interesting.",
+                    "correct": false
+                },
+                {
+                    "answer": "These books is interesting.",
+                    "correct": false
+                },
+                {
+                    "answer": "These books are interesting.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The demonstrative pronoun 'these' is used for plural nouns and is followed by the plural verb 'are'.",
+                "ru": "Указательное местоимение 'these' используется для существительных во множественном числе и за ним следует глагол множественного числа 'are'.",
+                "uz": "'These' ko'rsatish olmoshi ko'plikdagi otlar uchun ishlatiladi va undan keyin 'are' ko'plik fe'li keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение является правильным?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "That is my friend's bicycle, and those is my bicycle.",
+                    "correct": false
+                },
+                {
+                    "answer": "That is my friend's bicycle, and those are my bicycle.",
+                    "correct": true
+                },
+                {
+                    "answer": "Those is my friend's bicycle, and that are my bicycle.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'That' is singular and takes 'is', while 'those' is plural and takes 'are'.",
+                "ru": "'That' является единственным числом и требует 'is', тогда как 'those' — множественным и требует 'are'.",
+                "uz": "'That' birlik bo'lib 'is'ni talab qiladi, 'those' esa ko'plik bo'lib 'are'ni talab qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They gave the presents to we.",
+                    "correct": false
+                },
+                {
+                    "answer": "We gave the presents to they.",
+                    "correct": false
+                },
+                {
+                    "answer": "They gave the presents to us.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'They' is a subject pronoun for the giver, and 'us' is an object pronoun for the recipient after the preposition 'to'.",
+                "ru": "'They' — субъектное местоимение для дающего, а 'us' — объектное местоимение для получателя после предлога 'to'.",
+                "uz": "'They' beruvchi uchun ega olmoshi, 'us' esa 'to' predlogidan keyin oluvchi uchun obyekt olmoshi hisoblanadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which of these sentences is correct?",
+                "ru": "Какое из этих предложений правильное?",
+                "uz": "Bu gaplardan qaysi biri to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Her bought a new car.",
+                    "correct": false
+                },
+                {
+                    "answer": "She bought a new car.",
+                    "correct": true
+                },
+                {
+                    "answer": "Him bought a new car.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The subject of the sentence requires a subject pronoun, which is 'she'. 'Her' and 'him' are object pronouns.",
+                "ru": "Подлежащее предложения требует субъектного местоимения, которым является 'she'. 'Her' и 'him' — это объектные местоимения.",
+                "uz": "Gapning egasi ega olmoshini talab qiladi, bu 'she' dir. 'Her' va 'him' esa obyekt olmoshlaridir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: 'I told (she) ___ a secret.'",
+                "ru": "Дополните предложение правильным местоимением: 'I told (she) ___ a secret.'",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: 'I told (she) ___ a secret.'"
+            },
+            "options": [
+                {
+                    "answer": "her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun 'her' is used after the verb 'told' to show who received the secret.",
+                "ru": "Объектное местоимение 'her' используется после глагола 'told', чтобы показать, кто получил секрет.",
+                "uz": "'Her' obyekt olmoshi 'told' fe'lidan keyin sirlarni kimga aytilganini ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: '___ live in a small house.'",
+                "ru": "Дополните предложение правильным местоимением: '___ live in a small house.'",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: '___ live in a small house.'"
+            },
+            "options": [
+                {
+                    "answer": "They/I/We/You",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject pronouns 'they/We/I/You' are needed to start the sentence and show who lives in the house.",
+                "ru": "Субъектное местоимения 'they/We/I/You' необходимы для начала предложения и указания на то, кто живет в доме.",
+                "uz": "Gapni boshlash va uyda kim yashashini ko'rsatish uchun 'they/We/I/You' ega olmoshlari kerak."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a demonstrative pronoun for something far away: '___ is my favorite painting.'",
+                "ru": "Дополните предложение указательным местоимением для чего-то далекого: '___ is my favorite painting.'",
+                "uz": "Uzoqdagi narsa uchun ko'rsatish olmoshi bilan gapni to'ldiring: '___ is my favorite painting.'"
+            },
+            "options": [
+                {
+                    "answer": "That",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'That' is the singular demonstrative pronoun used for an object that is far away.",
+                "ru": "'That' — это указательное местоимение единственного числа, используемое для объекта, который находится далеко.",
+                "uz": "'That' — bu uzoqdagi narsa uchun ishlatiladigan birlik ko'rsatish olmoshidir."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: 'The cat belongs to (I) ___.'",
+                "ru": "Дополните предложение правильным местоимением: 'The cat belongs to (I) ___.'",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: 'The cat belongs to (I) ___.'"
+            },
+            "options": [
+                {
+                    "answer": "me",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Me' is an object pronoun and is required after the preposition 'to'.",
+                "ru": "'Me' — это объектное местоимение, которое требуется после предлога 'to'.",
+                "uz": "'Me' obyekt olmoshi bo'lib, 'to' predlogidan keyin kelishi shart."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: 'My sister and ___ are going to the cinema.'",
+                "ru": "Дополните предложение правильным местоимением: 'My sister and ___ are going to the cinema.'",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: 'My sister and ___ are going to the cinema.'"
+            },
+            "options": [
+                {
+                    "answer": "I",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A subject pronoun like 'I' is needed because it is part of the subject of the sentence.",
+                "ru": "Субъектное местоимение, например 'I', необходимо, так как оно является частью подлежащего предложения.",
+                "uz": "Gapning egasi qismi bo'lgani uchun 'I' kabi ega olmoshi kerak bo'ladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a demonstrative pronoun for something close to you: '___ is my new jacket.'",
+                "ru": "Дополните предложение указательным местоимением для чего-то, что находится рядом с вами: '___ is my new jacket.'",
+                "uz": "Sizga yaqin bo'lgan narsa uchun ko'rsatish olmoshi bilan gapni to'ldiring: '___ is my new jacket.'"
+            },
+            "options": [
+                {
+                    "answer": "This",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'This' is the singular demonstrative pronoun used for an object that is close.",
+                "ru": "'This' — это указательное местоимение единственного числа, используемое для объекта, который находится рядом.",
+                "uz": "'This' yaqin joydagi narsa uchun ishlatiladigan birlik ko'rsatish olmoshidir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a subject pronoun: '___ helped him with the boxes.'",
+                "ru": "Дополните предложение субъектным местоимением: '___ helped him with the boxes.'",
+                "uz": "Gapni ega olmoshi bilan to'ldiring: '___ helped him with the boxes.'"
+            },
+            "options": [
+                {
+                    "answer": "She/I/You/We/They",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The sentence requires a subject pronoun to perform the action of the verb 'helped'. 'She/I/You/We/They' are the correct choices.",
+                "ru": "Предложение требует субъектного местоимения, чтобы выполнить действие глагола 'helped'. 'She/I/You/We/They' — правильные выборы.",
+                "uz": "Gap 'helped' fe'lining harakatini bajarish uchun ega olmoshini talab qiladi. 'She/I/You/We/They' to'g'ri tanlovlardir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an object pronoun: 'Please give the flowers to (we) ___.'",
+                "ru": "Дополните предложение объектным местоимением: 'Please give the flowers to (we) ___.'",
+                "uz": "Gapni obyekt olmoshi bilan to'ldiring: 'Please give the flowers to (we) ___.'"
+            },
+            "options": [
+                {
+                    "answer": "us",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun 'us' is used after the preposition 'to' and indicates the recipient of the flowers.",
+                "ru": "Объектное местоимение 'us' используется после предлога 'to' и указывает на получателя цветов.",
+                "uz": "'Us' obyekt olmoshi 'to' predlogidan keyin ishlatiladi va gullarni oluvchini bildiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct demonstrative pronoun: 'Look at ___ beautiful flowers!' (close to you)",
+                "ru": "Дополните предложение правильным указательным местоимением: 'Look at ___ beautiful flowers!' (рядом с вами)",
+                "uz": "To'g'ri ko'rsatish olmoshi bilan gapni to'ldiring: 'Look at ___ beautiful flowers!' (sizga yaqin)"
+            },
+            "options": [
+                {
+                    "answer": "these",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'These' is the plural demonstrative pronoun used for things that are close to the speaker.",
+                "ru": "'These' — это указательное местоимение множественного числа, используемое для вещей, которые находятся рядом с говорящим.",
+                "uz": "'These' gapiruvchiga yaqin bo'lgan narsalar uchun ishlatiladigan ko'plik ko'rsatish olmoshidir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a subject pronoun: '___ is a good student.'",
+                "ru": "Дополните предложение субъектным местоимением: '___ is a good student.'",
+                "uz": "Gapni ega olmoshi bilan to'ldiring: '___ is a good student.'"
+            },
+            "options": [
+                {
+                    "answer": "He/She",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A subject pronoun is needed to act as the subject of the verb 'is'. 'He/She' are the appropriate choice for a singular male/female subject.",
+                "ru": "Субъектное местоимение необходимо, чтобы выступать в качестве подлежащего глагола 'is'. 'He/She' — подходящие выборы для подлежащего мужского/женского пола в единственном числе.",
+                "uz": "'Is' fe'lining egasi sifatida ega olmoshi kerak. 'He/She' esa birlikdagi erkak/ayol jinsiga tegishli eganing mos tanlovidir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct pronouns. Some of the pronouns are subject pronouns, and others are object pronouns.",
+                "ru": "Заполните пропуски правильными местоимениями. Некоторые из них являются субъектными, другие — объектными.",
+                "uz": "Bo'shliqlarni to'g'ri olmoshlar bilan to'ldiring. Ba'zi olmoshlar ega, boshqalari esa obyekt olmoshlaridir."
+            },
+            "text": "My friend Alex and ___1___ decided to go to the zoo. We bought tickets, and the man at the door gave ___2___ a map. ___3___ pointed to a special exhibit. 'You should visit ___4___,' ___5___ told us. '___6___ is a new elephant habitat.' I saw a big lion and it looked right at ___7___. ___8___ was a little scary, but Alex said, '___9___ is just a cat.' We also saw a monkey. ___10___ was very fast. I gave a banana to ___11___ and ___12___ took it from ___13___. Later, a zookeeper showed ___14___ a baby tiger. ___15___ was very cute.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "I"
+                },
+                {
+                    "blank": "2",
+                    "answer": "us"
+                },
+                {
+                    "blank": "3",
+                    "answer": "He/She"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "he/she"
+                },
+                {
+                    "blank": "6",
+                    "answer": "That/This"
+                },
+                {
+                    "blank": "7",
+                    "answer": "me"
+                },
+                {
+                    "blank": "8",
+                    "answer": "It"
+                },
+                {
+                    "blank": "9",
+                    "answer": "it"
+                },
+                {
+                    "blank": "10",
+                    "answer": "It"
+                },
+                {
+                    "blank": "11",
+                    "answer": "it"
+                },
+                {
+                    "blank": "12",
+                    "answer": "it"
+                },
+                {
+                    "blank": "13",
+                    "answer": "me"
+                },
+                {
+                    "blank": "14",
+                    "answer": "us"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It"
+                }
+            ],
+            "explanation": {
+                "en": "This passage tests subject, object, and demonstrative pronouns. Subject pronouns like 'I', 'He', and 'She' are used for the subject of a verb, while object pronouns like 'us', 'me', and 'it' follow a verb or preposition.",
+                "ru": "Этот текст проверяет субъектные, объектные и указательные местоимения. Субъектные местоимения, такие как 'I', 'He' и 'She', используются для подлежащего глагола, в то время как объектные местоимения, такие как 'us', 'me' и 'it', следуют за глаголом или предлогом.",
+                "uz": "Bu matn ega, obyekt va ko'rsatish olmoshlarini sinovdan o'tkazadi. 'I', 'He' va 'She' kabi ega olmoshlari fe'lning egasi uchun, 'us', 'me' va 'it' kabi obyekt olmoshlari esa fe'l yoki predlogdan keyin ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct pronouns. Pay attention to whether a subject or object pronoun is needed.",
+                "ru": "Заполните пропуски правильными местоимениями. Обратите внимание на то, требуется ли субъектное или объектное местоимение.",
+                "uz": "Bo'shliqlarni to'g'ri olmoshlar bilan to'ldiring. Ega yoki obyekt olmoshi kerakligiga e'tibor bering."
+            },
+            "text": "My brother and ___1___ have a lot of work to do. My boss gave ___2___ a big project. ___3___ told ___4___ that ___5___ must finish it by Friday. My brother said to ___6___, '___7___ can do it!' We started working together. When we finished, our boss was very happy. ___8___ gave a bonus to ___9___. ___10___ was a big surprise for ___11___. Then ___12___ said, '___13___ are great!' My brother and I were very proud of ___14___. The project was difficult, but ___15___ was a good experience.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "I"
+                },
+                {
+                    "blank": "2",
+                    "answer": "us"
+                },
+                {
+                    "blank": "3",
+                    "answer": "He/She"
+                },
+                {
+                    "blank": "4",
+                    "answer": "us"
+                },
+                {
+                    "blank": "5",
+                    "answer": "we"
+                },
+                {
+                    "blank": "6",
+                    "answer": "me"
+                },
+                {
+                    "blank": "7",
+                    "answer": "We"
+                },
+                {
+                    "blank": "8",
+                    "answer": "He/She"
+                },
+                {
+                    "blank": "9",
+                    "answer": "us"
+                },
+                {
+                    "blank": "10",
+                    "answer": "It"
+                },
+                {
+                    "blank": "11",
+                    "answer": "us"
+                },
+                {
+                    "blank": "12",
+                    "answer": "he/she"
+                },
+                {
+                    "blank": "13",
+                    "answer": "You"
+                },
+                {
+                    "blank": "14",
+                    "answer": "ourselves"
+                },
+                {
+                    "blank": "15",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "The subject pronouns 'I', 'we', 'he', and 'she' are used before a verb to show who is doing the action. The object pronouns 'us', 'me', 'it', and 'ourselves' follow a verb or preposition.",
+                "ru": "Субъектные местоимения 'I', 'we', 'he' и 'she' используются перед глаголом, чтобы показать, кто выполняет действие. Объектные местоимения 'us', 'me', 'it' и 'ourselves' следуют за глаголом или предлогом.",
+                "uz": "Ega olmoshlari 'I', 'we', 'he' va 'she' harakatni kim bajarayotganini ko'rsatish uchun fe'ldan oldin ishlatiladi. Obyekt olmoshlari 'us', 'me', 'it' va 'ourselves' fe'l yoki predlogdan keyin keladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct pronouns. Be careful with subject, object, and demonstrative pronouns.",
+                "ru": "Заполните пропуски правильными местоимениями. Будьте внимательны с субъектными, объектными и указательными местоимениями.",
+                "uz": "Bo'shliqlarni to'g'ri olmoshlar bilan to'ldiring. Ega, obyekt va ko'rsatish olmoshlariga e'tibor bering."
+            },
+            "text": "My grandmother and ___1___ went to the store. We needed to buy food for the week. First, ___2___ went to the fruit section. ___3___ saw some beautiful apples, and ___4___ decided to buy ___5___. Then, my grandmother pointed to a bag of potatoes and said, '___6___ are too expensive.' She gave some money to ___7___ and said, 'Go find some cheaper potatoes.' I walked to another aisle. ___8___ found a smaller bag, and ___9___ asked the clerk, 'How much is ___10___?' ___11___ told ___12___ the price. The price was better, so I bought ___13___. My grandmother was happy when ___14___ returned. She smiled and said, 'You are a smart shopper, and ___15___ taught you well.'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "I"
+                },
+                {
+                    "blank": "2",
+                    "answer": "we"
+                },
+                {
+                    "blank": "3",
+                    "answer": "We"
+                },
+                {
+                    "blank": "4",
+                    "answer": "we"
+                },
+                {
+                    "blank": "5",
+                    "answer": "them"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Those"
+                },
+                {
+                    "blank": "7",
+                    "answer": "me"
+                },
+                {
+                    "blank": "8",
+                    "answer": "I"
+                },
+                {
+                    "blank": "9",
+                    "answer": "I"
+                },
+                {
+                    "blank": "10",
+                    "answer": "this"
+                },
+                {
+                    "blank": "11",
+                    "answer": "He/She"
+                },
+                {
+                    "blank": "12",
+                    "answer": "me"
+                },
+                {
+                    "blank": "13",
+                    "answer": "it"
+                },
+                {
+                    "blank": "14",
+                    "answer": "I"
+                },
+                {
+                    "blank": "15",
+                    "answer": "I"
+                }
+            ],
+            "explanation": {
+                "en": "Subject pronouns like 'I' and 'we' start a sentence or clause. Object pronouns like 'me', 'us', and 'them' follow verbs or prepositions. Demonstrative pronouns like 'those' and 'this' are used to point to nouns.",
+                "ru": "Субъектные местоимения, такие как 'I' и 'we', начинают предложение или придаточное. Объектные местоимения, такие как 'me', 'us' и 'them', следуют за глаголами или предлогами. Указательные местоимения, такие как 'those' и 'this', используются для указания на существительные.",
+                "uz": "'I' va 'we' kabi ega olmoshlari gap yoki jumla boshida keladi. 'Me', 'us' va 'them' kabi obyekt olmoshlari fe'l yoki predloglardan keyin keladi. 'Those' va 'this' kabi ko'rsatish olmoshlari otlarga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Complete the passage using the correct pronouns. Focus on using subject and object pronouns correctly.",
+                "ru": "Заполните пропуски в тексте правильными местоимениями. Сосредоточьтесь на правильном использовании субъектных и объектных местоимений.",
+                "uz": "Matnni to'g'ri olmoshlar bilan to'ldiring. Ega va obyekt olmoshlaridan to'g'ri foydalanishga e'tibor bering."
+            },
+            "text": "My parents are visiting today. ___1___ called ___2___ to say ___3___ are almost here. I am making dinner for ___4___. I hope ___5___ like the meal. My mother loves pasta, so I made some for ___6___. My father likes fish, so I will cook ___7___ for ___8___. I called my sister, and ___9___ is coming too. ___10___ said to ___11___, 'Can you pick up a dessert for ___12___?' She replied, 'I can bring ___13___ for ___14___.' So ___15___ am happy she is coming.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "They"
+                },
+                {
+                    "blank": "2",
+                    "answer": "me"
+                },
+                {
+                    "blank": "3",
+                    "answer": "they"
+                },
+                {
+                    "blank": "4",
+                    "answer": "them"
+                },
+                {
+                    "blank": "5",
+                    "answer": "they"
+                },
+                {
+                    "blank": "6",
+                    "answer": "her"
+                },
+                {
+                    "blank": "7",
+                    "answer": "it"
+                },
+                {
+                    "blank": "8",
+                    "answer": "him"
+                },
+                {
+                    "blank": "9",
+                    "answer": "she"
+                },
+                {
+                    "blank": "10",
+                    "answer": "She"
+                },
+                {
+                    "blank": "11",
+                    "answer": "me"
+                },
+                {
+                    "blank": "12",
+                    "answer": "us"
+                },
+                {
+                    "blank": "13",
+                    "answer": "it"
+                },
+                {
+                    "blank": "14",
+                    "answer": "us"
+                },
+                {
+                    "blank": "15",
+                    "answer": "I"
+                }
+            ],
+            "explanation": {
+                "en": "Subject pronouns ('they', 'I', 'she') are used as the subject of the sentence. Object pronouns ('me', 'them', 'her', 'him', 'us', 'it') are used after verbs and prepositions.",
+                "ru": "Субъектные местоимения ('they', 'I', 'she') используются в качестве подлежащего предложения. Объектные местоимения ('me', 'them', 'her', 'him', 'us', 'it') используются после глаголов и предлогов.",
+                "uz": "Ega olmoshlari ('they', 'I', 'she') gapning egasi sifatida ishlatiladi. Obyekt olmoshlari ('me', 'them', 'her', 'him', 'us', 'it') fe'llar va predloglardan keyin keladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Complete the story with the correct pronouns.",
+                "ru": "Дополните рассказ правильными местоимениями.",
+                "uz": "Hikoyani to'g'ri olmoshlar bilan to'ldiring."
+            },
+            "text": "My dog, Buddy, and I went for a walk. We saw a squirrel. The squirrel ran up a tree. I pointed to the squirrel and said, 'Look at ___1___!' Buddy barked at ___2___, but ___3___ did not care. A few moments later, a man and his dog walked past ___4___. ___5___ were also walking in the park. My dog started to bark at ___6___, so the man said, 'Please control ___7___.' I apologized to ___8___ and walked away. My dog listened to ___9___ and calmed down. I am so proud of ___10___. ___11___ is a very good boy. After a long walk, ___12___ sat on a bench and watched the birds. ___13___ were flying high in the sky. My dog watched ___14___ quietly. ___15___ was a nice day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "it"
+                },
+                {
+                    "blank": "2",
+                    "answer": "it"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "us"
+                },
+                {
+                    "blank": "5",
+                    "answer": "They"
+                },
+                {
+                    "blank": "6",
+                    "answer": "them"
+                },
+                {
+                    "blank": "7",
+                    "answer": "him"
+                },
+                {
+                    "blank": "8",
+                    "answer": "him"
+                },
+                {
+                    "blank": "9",
+                    "answer": "me"
+                },
+                {
+                    "blank": "10",
+                    "answer": "him"
+                },
+                {
+                    "blank": "11",
+                    "answer": "He"
+                },
+                {
+                    "blank": "12",
+                    "answer": "we"
+                },
+                {
+                    "blank": "13",
+                    "answer": "They"
+                },
+                {
+                    "blank": "14",
+                    "answer": "them"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It"
+                }
+            ],
+            "explanation": {
+                "en": "This story uses subject pronouns like 'I', 'we', and 'they' to show who is doing the action. Object pronouns like 'it', 'us', 'him', and 'them' are used after verbs and prepositions.",
+                "ru": "В этом рассказе субъектные местоимения 'I', 'we' и 'they' используются для обозначения того, кто совершает действие. Объектные местоимения 'it', 'us', 'him' и 'them' используются после глаголов и предлогов.",
+                "uz": "Bu hikoyada 'I', 'we' va 'they' kabi ega olmoshlari harakatni kim bajarayotganini ko'rsatish uchun ishlatilgan. 'It', 'us', 'him' va 'them' kabi obyekt olmoshlari fe'llar va predloglardan keyin keladi."
+            }
+        }
+    ]
+}

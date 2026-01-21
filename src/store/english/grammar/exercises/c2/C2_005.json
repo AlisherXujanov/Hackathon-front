@@ -1,0 +1,843 @@
+{
+    "id": "C2_ADVANCED_DISCOURSE_ORGANIZATION_COMPLEX_TEXT_STRUCTURING",
+    "title": "Advanced discourse organization - Complex text structuring",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence that demonstrates the most sophisticated discourse organization.",
+                "ru": "Выберите предложение, которое демонстрирует наиболее сложную организацию дискурса.",
+                "uz": "Eng murakkab diskurs tashkilini namoyish etuvchi gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The results were significant. They showed clear patterns."
+                },
+                {
+                    "answer": "Not only did the results prove significant, but they also revealed unprecedented patterns that, when analyzed in conjunction with previous studies, fundamentally challenged existing theoretical frameworks.",
+                    "correct": true
+                },
+                {
+                    "answer": "The results was significant and showed patterns clearly."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates complex discourse organization through embedded clauses, sophisticated conjunctions, and layered argumentation structure typical of C2 level academic writing.",
+                "ru": "Правильный ответ демонстрирует сложную организацию дискурса через встроенные предложения, сложные союзы и многоуровневую структуру аргументации, типичную для академического письма уровня C2.",
+                "uz": "To'g'ri javob C2 darajasidagi akademik yozuvga xos bo'lgan ichki gaplar, murakkab bog'lovchilar va ko'p qatlamli argumentatsiya tuzilishi orqali murakkab diskurs tashkilini namoyish etadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence best exemplifies advanced cohesive devices?",
+                "ru": "Какое предложение лучше всего демонстрирует продвинутые связующие элементы?",
+                "uz": "Qaysi gap ilg'or bog'lovchi vositalarni eng yaxshi namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "Furthermore, the data suggests important implications."
+                },
+                {
+                    "answer": "Notwithstanding the aforementioned limitations, the findings nonetheless corroborate the hypothesis, thereby substantiating the theoretical framework whilst simultaneously opening new avenues for investigation.",
+                    "correct": true
+                },
+                {
+                    "answer": "The data suggests implications that are important."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer employs sophisticated cohesive devices including 'notwithstanding,' 'nonetheless,' 'thereby,' and 'whilst simultaneously' to create complex logical relationships between ideas.",
+                "ru": "Правильный ответ использует сложные связующие элементы, включая 'notwithstanding,' 'nonetheless,' 'thereby,' и 'whilst simultaneously' для создания сложных логических связей между идеями.",
+                "uz": "'Notwithstanding,' 'nonetheless,' 'thereby,' va 'whilst simultaneously' kabi murakkab bog'lovchi elementlardan foydalanib, g'oyalar orasida murakkab mantiqiy aloqalar yaratadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the most sophisticated example of metadiscourse.",
+                "ru": "Выберите наиболее изощренный пример метадискурса.",
+                "uz": "Metadiskursning eng murakkab misolini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I will now discuss the main points of this argument."
+                },
+                {
+                    "answer": "What follows is a systematic deconstruction of the prevailing paradigm, wherein I shall endeavor to elucidate the inherent contradictions that, as will become apparent, undermine the theoretical foundation upon which contemporary scholarship rests.",
+                    "correct": true
+                },
+                {
+                    "answer": "This essay discusses important topics and shows different ideas."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates advanced metadiscourse through explicit signaling of argumentative structure, sophisticated self-reference, and preview of analytical approach using elevated academic register.",
+                "ru": "Правильный ответ демонстрирует продвинутый метадискурс через явное указание структуры аргументации, сложную саморефлексию и предварительный обзор аналитического подхода с использованием возвышенного академического регистра.",
+                "uz": "To'g'ri javob argumentativ tuzilmaning aniq ko'rsatilishi, murakkab o'z-o'zini ko'rsatish va yuqori akademik registrdan foydalangan holda tahliliy yondashuvning oldindan ko'rib chiqilishi orqali ilg'or metadiskursni namoyish etadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the most advanced thematic progression?",
+                "ru": "Какое предложение демонстрирует наиболее продвинутое тематическое развитие?",
+                "uz": "Qaysi gap eng rivojlangan tematik taraqqiyotni namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "The theory is complex. Many researchers study it."
+                },
+                {
+                    "answer": "This theoretical complexity, far from deterring scholarly inquiry, has paradoxically catalyzed a proliferation of interdisciplinary approaches, each bringing its own methodological sophistication to bear upon what remains an essentially contested domain.",
+                    "correct": true
+                },
+                {
+                    "answer": "Complex theories attracts many researchers to study them."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer shows advanced thematic progression by transforming 'complexity' from obstacle to catalyst, demonstrating sophisticated cause-effect relationships and academic discourse patterns.",
+                "ru": "Правильный ответ показывает продвинутое тематическое развитие, превращая 'сложность' из препятствия в катализатор, демонстрируя сложные причинно-следственные связи и модели академического дискурса.",
+                "uz": "To'g'ri javob 'murakkablik'ni to'siqdan katalizatorga aylantirish orqali ilg'or tematik taraqqiyotni ko'rsatadi, murakkab sabab-oqibat munosabatlari va akademik diskurs naqshlarini namoyish etadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the most sophisticated rhetorical structure.",
+                "ru": "Выберите предложение с наиболее изощренной риторической структурой.",
+                "uz": "Eng murakkab ritorik tuzilmaga ega gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The evidence is strong and supports the conclusion clearly."
+                },
+                {
+                    "answer": "While critics might contend that the evidence remains circumstantial, the convergence of multiple independent data streams creates a compelling evidentiary matrix that, when subjected to rigorous analytical scrutiny, yields conclusions of considerable theoretical import.",
+                    "correct": true
+                },
+                {
+                    "answer": "Critics says the evidence is weak but it actually supports conclusions."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer employs sophisticated rhetorical structure through concessive framing, metaphorical language ('evidentiary matrix'), and complex subordination that builds argumentative force progressively.",
+                "ru": "Правильный ответ использует сложную риторическую структуру через уступительное обрамление, метафорический язык ('доказательная матрица') и сложное подчинение, которое постепенно усиливает аргументативную силу.",
+                "uz": "To'g'ri javob imtiyozli ramkalash, metaforik til ('daliliy matritsa') va argumentativ kuchni bosqichma-bosqich kuchaytiradigan murakkab bo'ysunish orqali murakkab ritorik tuzilmani qo'llaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the most advanced example of intertextual reference.",
+                "ru": "Выберите наиболее продвинутый пример интертекстуальной ссылки.",
+                "uz": "Intertekstual havolaning eng rivojlangan misolini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "As Smith said in his book, the theory is important."
+                },
+                {
+                    "answer": "This phenomenon recalls Foucault's genealogical method, yet transcends his archaeological limitations by incorporating what Derrida would term 'différance,' thereby establishing a dialogical relationship with poststructuralist discourse while maintaining epistemological rigor.",
+                    "correct": true
+                },
+                {
+                    "answer": "Many famous scholars have written about this theory before."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates sophisticated intertextual reference by engaging multiple theoretical frameworks simultaneously while establishing complex relationships between different scholarly traditions and methodological approaches.",
+                "ru": "Правильный ответ демонстрирует сложную интертекстуальную ссылку, одновременно вовлекая множественные теоретические рамки и устанавливая сложные отношения между различными научными традициями и методологическими подходами.",
+                "uz": "To'g'ri javob bir vaqtning o'zida ko'plab nazariy asoslarni jalb qilish va turli ilmiy an'analar va metodologik yondashuvlar o'rtasida murakkab munosabatlar o'rnatish orqali murakkab intertekstual havolani namoyish etadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence best demonstrates advanced nominalization patterns?",
+                "ru": "Какое предложение лучше всего демонстрирует продвинутые модели номинализации?",
+                "uz": "Qaysi gap ilg'or nominalizatsiya naqshlarini eng yaxshi namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "The committee decided to implement the new policy quickly."
+                },
+                {
+                    "answer": "The committee's expeditious implementation of the aforementioned policy modifications necessitated comprehensive stakeholder consultation, thereby ensuring optimal organizational alignment and minimizing potential resistance manifestations.",
+                    "correct": true
+                },
+                {
+                    "answer": "Committee members decides to implement policies in quick manner."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates advanced nominalization through transformation of verbs into complex noun phrases ('expeditious implementation,' 'resistance manifestations'), creating dense, formal academic prose typical of C2 level.",
+                "ru": "Правильный ответ демонстрирует продвинутую номинализацию через преобразование глаголов в сложные именные группы ('быстрое внедрение,' 'проявления сопротивления'), создавая плотную, формальную академическую прозу, типичную для уровня C2.",
+                "uz": "To'g'ri javob fe'llarni murakkab ot guruhlarga aylantirish ('tez amalga oshirish,' 'qarshilik ko'rinishlari') orqali ilg'or nominalizatsiyani namoyish etadi va C2 darajasiga xos zich, rasmiy akademik nasrni yaratadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the sentence with the most sophisticated hedging strategies.",
+                "ru": "Выберите предложение с наиболее изощренными стратегиями хеджирования.",
+                "uz": "Eng murakkab himoya strategiyalariga ega gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The results might suggest that the hypothesis could be correct."
+                },
+                {
+                    "answer": "The data would appear to suggest, albeit tentatively, that there exists a prima facie case for considering the hypothesis as potentially viable, though such an interpretation necessitates considerable epistemological circumspection.",
+                    "correct": true
+                },
+                {
+                    "answer": "Results shows that hypothesis is probably right."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer employs sophisticated hedging through multiple epistemic modifiers ('would appear,' 'albeit tentatively,' 'prima facie,' 'potentially viable') and academic circumlocution that demonstrates scholarly caution.",
+                "ru": "Правильный ответ использует сложное хеджирование через множественные эпистемические модификаторы ('по-видимому,' 'хотя и предварительно,' 'на первый взгляд,' 'потенциально жизнеспособный') и академические околичности, демонстрирующие научную осторожность.",
+                "uz": "To'g'ri javob ko'plab epistemik modifikatorlar ('ko'rinadi,' 'garchi dastlabki,' 'birinchi qarashda,' 'potentsial jihatdan hayotiy') va ilmiy ehtiyotkorlikni namoyish etuvchi akademik aylanma so'zlar orqali murakkab himoyadan foydalanadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the most advanced example of discourse deixis.",
+                "ru": "Выберите наиболее продвинутый пример дискурсивного дейксиса.",
+                "uz": "Diskursiv deyksisning eng rivojlangan misolini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "As mentioned above, the theory has important implications."
+                },
+                {
+                    "answer": "This multifaceted theoretical edifice, constructed throughout the preceding argumentation and culminating in the aforementioned synthesis, now serves as the foundational apparatus for what follows in the subsequent analytical trajectory.",
+                    "correct": true
+                },
+                {
+                    "answer": "The ideas I talked about before are important for next parts."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates sophisticated discourse deixis through complex textual reference systems that create cohesive links across extended discourse segments while maintaining formal academic register.",
+                "ru": "Правильный ответ демонстрирует сложный дискурсивный дейксис через сложные системы текстовых ссылок, которые создают связные связи через расширенные дискурсивные сегменты, сохраняя формальный академический регистр.",
+                "uz": "To'g'ri javob rasmiy akademik registrni saqlab qolgan holda kengaytirilgan diskursiv segmentlar bo'ylab bog'lovchi aloqalar yaratadigan murakkab matnli havola tizimlari orqali murakkab diskursiv deyksisni namoyish etadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the most sophisticated information packaging?",
+                "ru": "Какое предложение демонстрирует наиболее изощренную упаковку информации?",
+                "uz": "Qaysi gap eng murakkab ma'lumot qadoqlashini namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "What we found was that the results were surprising."
+                },
+                {
+                    "answer": "What emerges from this comprehensive analysis—and here the implications extend far beyond the immediate empirical domain—is a fundamental reconceptualization of the theoretical landscape, one that demands nothing short of paradigmatic recalibration.",
+                    "correct": true
+                },
+                {
+                    "answer": "We found results that was surprising to everyone."
+                }
+            ],
+            "explanation": {
+                "en": "The correct answer demonstrates sophisticated information packaging through cleft constructions, parenthetical elaboration, and strategic emphasis placement that guides reader attention through complex propositional content.",
+                "ru": "Правильный ответ демонстрирует сложную упаковку информации через расщепленные конструкции, скобочные разъяснения и стратегическое размещение акцентов, которые направляют внимание читателя через сложное пропозициональное содержание.",
+                "uz": "To'g'ri javob ajratuvchi konstruktsiyalar, qavs ichidagi tushuntirishlar va o'quvchi e'tiborini murakkab propozitsional mazmun orqali yo'naltiradigan strategik urg'u joylashtirishlar orqali murakkab ma'lumot qadoqlashni namoyish etadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sophisticated academic transition: The theoretical framework, _______ its apparent comprehensiveness, fails to address certain methodological lacunae.",
+                "ru": "Дополните изощренный академический переход: The theoretical framework, _______ its apparent comprehensiveness, fails to address certain methodological lacunae.",
+                "uz": "Murakkab akademik o'tishni to'ldiring: The theoretical framework, _______ its apparent comprehensiveness, fails to address certain methodological lacunae."
+            },
+            "options": [
+                {
+                    "answer": "notwithstanding/despite/for all",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These sophisticated conjunctive expressions create concessive relationships, allowing complex argumentation that acknowledges positive aspects while introducing critical limitations.",
+                "ru": "Эти изощренные соединительные выражения создают уступительные отношения, позволяя сложную аргументацию, которая признает положительные аспекты, вводя критические ограничения.",
+                "uz": "Bu murakkab bog'lovchi iboralar ijobiy tomonlarni tan olgan holda tanqidiy cheklovlarni kiritadigan murakkab argumentatsiyaga imkon beruvchi imtiyozli munosabatlar yaratadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the complex hedged statement: The data would _______ to corroborate the hypothesis, though such conclusions must be drawn with considerable epistemological caution.",
+                "ru": "Дополните сложное застрахованное утверждение: The data would _______ to corroborate the hypothesis, though such conclusions must be drawn with considerable epistemological caution.",
+                "uz": "Murakkab himoyalangan bayonotni to'ldiring: The data would _______ to corroborate the hypothesis, though such conclusions must be drawn with considerable epistemological caution."
+            },
+            "options": [
+                {
+                    "answer": "appear/seem/tend",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These epistemic verbs create sophisticated hedging by expressing tentative scholarly conclusions while maintaining academic objectivity and intellectual rigor.",
+                "ru": "Эти эпистемические глаголы создают сложное хеджирование, выражая предварительные научные выводы, сохраняя академическую объективность и интеллектуальную строгость.",
+                "uz": "Bu epistemik fe'ller akademik ob'ektivlik va intellektual qattiqlikni saqlab qolgan holda dastlabki ilmiy xulosalarni ifodalash orqali murakkab himoyani yaratadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the advanced nominalization: The committee's _______ of the proposed modifications necessitated extensive stakeholder engagement.",
+                "ru": "Дополните продвинутую номинализацию: The committee's _______ of the proposed modifications necessitated extensive stakeholder engagement.",
+                "uz": "Ilg'or nominalizatsiyani to'ldiring: The committee's _______ of the proposed modifications necessitated extensive stakeholder engagement."
+            },
+            "options": [
+                {
+                    "answer": "implementation/adoption/ratification",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These formal nominalizations transform action verbs into abstract noun concepts, creating dense academic prose characteristic of sophisticated scholarly discourse.",
+                "ru": "Эти формальные номинализации преобразуют глаголы действия в абстрактные понятия существительных, создавая плотную академическую прозу, характерную для изощренного научного дискурса.",
+                "uz": "Bu rasmiy nominalizatsiyalar harakat fe'llarini mavhum ot tushunchalariga aylantiradi va murakkab ilmiy diskursga xos zich akademik nasrni yaratadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sophisticated cohesive device: The findings _______ substantiate the theoretical predictions whilst simultaneously revealing unexpected methodological implications.",
+                "ru": "Дополните изощренный связующий элемент: The findings _______ substantiate the theoretical predictions whilst simultaneously revealing unexpected methodological implications.",
+                "uz": "Murakkab bog'lovchi vositani to'ldiring: The findings _______ substantiate the theoretical predictions whilst simultaneously revealing unexpected methodological implications."
+            },
+            "options": [
+                {
+                    "answer": "unequivocally/categorically/demonstrably",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These academic intensifiers provide precise qualification of evidence strength while maintaining scholarly objectivity in complex argumentative structures.",
+                "ru": "Эти академические усилители обеспечивают точную квалификацию силы доказательств, сохраняя научную объективность в сложных аргументативных структурах.",
+                "uz": "Bu akademik kuchaytiruvchilar murakkab argumentativ tuzilmalarda ilmiy ob'ektivlikni saqlab qolgan holda dalil kuchining aniq tavsifini beradi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the advanced metadiscourse marker: What _______ from this systematic deconstruction is a fundamental reconceptualization of existing theoretical paradigms.",
+                "ru": "Дополните продвинутый маркер метадискурса: What _______ from this systematic deconstruction is a fundamental reconceptualization of existing theoretical paradigms.",
+                "uz": "Ilg'or metadiskurs markerini to'ldiring: What _______ from this systematic deconstruction is a fundamental reconceptualization of existing theoretical paradigms."
+            },
+            "options": [
+                {
+                    "answer": "emerges/transpires/crystallizes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These sophisticated verbs signal the emergence of complex conclusions from analytical processes, demonstrating advanced discourse organization and reader guidance techniques.",
+                "ru": "Эти изощренные глаголы сигнализируют о возникновении сложных выводов из аналитических процессов, демонстрируя продвинутую организацию дискурса и техники руководства читателем.",
+                "uz": "Bu murakkab fe'ller tahliliy jarayonlardan murakkab xulosalarning paydo bo'lishini bildiradi, ilg'or diskurs tashkili va o'quvchini boshqarish usullarini namoyish etadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sophisticated conjunctive expression: The methodology, _______ rigorous in its application, nonetheless exhibits certain inherent limitations.",
+                "ru": "Дополните изощренное соединительное выражение: The methodology, _______ rigorous in its application, nonetheless exhibits certain inherent limitations.",
+                "uz": "Murakkab bog'lovchi iborani to'ldiring: The methodology, _______ rigorous in its application, nonetheless exhibits certain inherent limitations."
+            },
+            "options": [
+                {
+                    "answer": "whilst/although/while",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These concessive conjunctions create complex logical relationships that acknowledge positive qualities while introducing critical analysis, typical of advanced academic argumentation.",
+                "ru": "Эти уступительные союзы создают сложные логические отношения, которые признают положительные качества, вводя критический анализ, типичный для продвинутой академической аргументации.",
+                "uz": "Bu imtiyozli bog'lovchilar ijobiy fazilatlarni tan olgan holda ilg'or akademik argumentatsiyaga xos tanqidiy tahlilni kiritadigan murakkab mantiqiy munosabatlar yaratadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the advanced academic qualifier: The implications of these findings _______ beyond the immediate empirical domain to encompass broader theoretical considerations.",
+                "ru": "Дополните продвинутый академический квалификатор: The implications of these findings _______ beyond the immediate empirical domain to encompass broader theoretical considerations.",
+                "uz": "Ilg'or akademik tavsiflagichni to'ldiring: The implications of these findings _______ beyond the immediate empirical domain to encompass broader theoretical considerations."
+            },
+            "options": [
+                {
+                    "answer": "extend/transcend/ramify",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These sophisticated verbs indicate the scope and reach of academic findings, demonstrating how conclusions move beyond immediate contexts into broader theoretical domains.",
+                "ru": "Эти изощренные глаголы указывают на масштаб и охват академических находок, демонстрируя, как выводы выходят за пределы непосредственных контекстов в более широкие теоретические области.",
+                "uz": "Bu murakkab fe'ller akademik topilmalarning ko'lami va ta'sirini ko'rsatadi, xulosalar bevosita kontekstlardan kengroq nazariy sohalarga qanday o'tishini namoyish etadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the complex epistemic expression: There _______ a prima facie case for reconsidering the established theoretical framework in light of these empirical findings.",
+                "ru": "Дополните сложное эпистемическое выражение: There _______ a prima facie case for reconsidering the established theoretical framework in light of these empirical findings.",
+                "uz": "Murakkab epistemik iforani to'ldiring: There _______ a prima facie case for reconsidering the established theoretical framework in light of these empirical findings."
+            },
+            "options": [
+                {
+                    "answer": "exists/appears/emerges",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These existential and epistemic verbs create sophisticated scholarly assertions that maintain appropriate academic caution while presenting compelling arguments for theoretical revision.",
+                "ru": "Эти экзистенциальные и эпистемические глаголы создают изощренные научные утверждения, которые поддерживают соответствующую академическую осторожность, представляя убедительные аргументы для теоретического пересмотра.",
+                "uz": "Bu ekzistensial va epistemik fe'ller nazariy qayta ko'rib chiqish uchun ishonchli dalillar taqdim etgan holda tegishli akademik ehtiyotkorlikni saqlab qoladigan murakkab ilmiy tasdiqlar yaratadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sophisticated discourse marker: This theoretical edifice, _______ throughout the preceding analysis, now serves as the foundation for subsequent argumentation.",
+                "ru": "Дополните изощренный маркер дискурса: This theoretical edifice, _______ throughout the preceding analysis, now serves as the foundation for subsequent argumentation.",
+                "uz": "Murakkab diskurs markerini to'ldiring: This theoretical edifice, _______ throughout the preceding analysis, now serves as the foundation for subsequent argumentation."
+            },
+            "options": [
+                {
+                    "answer": "constructed/elaborated/developed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These sophisticated verbs create textual cohesion by referring back to argumentative processes while positioning the reader for forward progression in complex academic discourse.",
+                "ru": "Эти изощренные глаголы создают текстовую связность, ссылаясь на аргументативные процессы, одновременно позиционируя читателя для движения вперед в сложном академическом дискурсе.",
+                "uz": "Bu murakkab fe'ller argumentativ jarayonlarga havola qilish orqali matnli bog'liqlik yaratadi va o'quvchini murakkab akademik diskursda oldinga siljish uchun joylashtirar."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the advanced evaluative expression: The research _______ represents a significant contribution to the field whilst acknowledging certain methodological constraints.",
+                "ru": "Дополните продвинутое оценочное выражение: The research _______ represents a significant contribution to the field whilst acknowledging certain methodological constraints.",
+                "uz": "Ilg'or baholovchi iforani to'ldiring: The research _______ represents a significant contribution to the field whilst acknowledging certain methodological constraints."
+            },
+            "options": [
+                {
+                    "answer": "undoubtedly/unquestionably/indisputably",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "These emphatic adverbs provide strong evaluative force while the sentence structure maintains scholarly balance through concessive acknowledgment of limitations.",
+                "ru": "Эти эмфатические наречия обеспечивают сильную оценочную силу, в то время как структура предложения поддерживает научный баланс через уступительное признание ограничений.",
+                "uz": "Bu ta'kidli ravishlar kuchli baholovchi kuch beradi, gap tuzilishi esa cheklovlarning imtiyozli tan olinishi orqali ilmiy muvozanatni saqlaydi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The theoretical framework under examination, ___1___ its apparent comprehensiveness and methodological sophistication, ___2___ certain fundamental limitations that ___3___ from its epistemological foundations. What ___4___ from this critical analysis is not merely a catalogue of deficiencies, but rather a systematic ___5___ of the inherent tensions that ___6___ between empirical observation and theoretical abstraction. ___7___ these contradictions might initially appear to ___8___ the framework's validity, they paradoxically serve to ___9___ new avenues for scholarly inquiry. The implications of this reconceptualization ___10___ far beyond the immediate disciplinary boundaries, ___11___ into adjacent fields where similar methodological challenges ___12___. This multifaceted theoretical edifice, ___13___ throughout the preceding argumentation, now ___14___ as the foundational apparatus for what follows in the subsequent analytical trajectory.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "notwithstanding"
+                },
+                {
+                    "blank": "2",
+                    "answer": "exhibits"
+                },
+                {
+                    "blank": "3",
+                    "answer": "emanate"
+                },
+                {
+                    "blank": "4",
+                    "answer": "emerges"
+                },
+                {
+                    "blank": "5",
+                    "answer": "exploration"
+                },
+                {
+                    "blank": "6",
+                    "answer": "exist"
+                },
+                {
+                    "blank": "7",
+                    "answer": "While"
+                },
+                {
+                    "blank": "8",
+                    "answer": "undermine"
+                },
+                {
+                    "blank": "9",
+                    "answer": "illuminate"
+                },
+                {
+                    "blank": "10",
+                    "answer": "extend"
+                },
+                {
+                    "blank": "11",
+                    "answer": "permeating"
+                },
+                {
+                    "blank": "12",
+                    "answer": "prevail"
+                },
+                {
+                    "blank": "13",
+                    "answer": "constructed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "serves"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests advanced cohesive devices, sophisticated conjunctions, complex nominalization patterns, and metadiscourse markers that characterize high-level academic discourse organization.",
+                "ru": "Это упражнение проверяет продвинутые связующие элементы, изощренные союзы, сложные модели номинализации и маркеры метадискурса, которые характеризуют высокоуровневую организацию академического дискурса.",
+                "uz": "Bu mashq yuqori darajadagi akademik diskurs tashkilini tavsiflovchi ilg'or bog'lovchi elementlar, murakkab bog'lovchilar, murakkab nominalizatsiya naqshlari va metadiskurs markerlarini sinaydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Contemporary scholarship ___1___ increasingly sophisticated approaches to discourse analysis, ___2___ the traditional boundaries between linguistic and sociological inquiry. This interdisciplinary ___3___ has ___4___ in what might best be characterized as a paradigmatic shift, one that ___5___ nothing short of comprehensive theoretical recalibration. The ___6___ of multiple analytical frameworks creates a complex methodological matrix that, when ___7___ to rigorous scrutiny, ___8___ conclusions of considerable theoretical import. ___9___ critics might contend that such eclecticism ___10___ analytical rigor, the empirical evidence suggests ___11___. The convergence of diverse methodological approaches ___12___ generates what can only be described as unprecedented explanatory power, ___13___ enabling scholars to ___14___ phenomena that previously remained beyond the scope of traditional analytical paradigms.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "embraces"
+                },
+                {
+                    "blank": "2",
+                    "answer": "transcending"
+                },
+                {
+                    "blank": "3",
+                    "answer": "synthesis"
+                },
+                {
+                    "blank": "4",
+                    "answer": "culminated"
+                },
+                {
+                    "blank": "5",
+                    "answer": "demands"
+                },
+                {
+                    "blank": "6",
+                    "answer": "integration"
+                },
+                {
+                    "blank": "7",
+                    "answer": "subjected"
+                },
+                {
+                    "blank": "8",
+                    "answer": "yields"
+                },
+                {
+                    "blank": "9",
+                    "answer": "While"
+                },
+                {
+                    "blank": "10",
+                    "answer": "compromises"
+                },
+                {
+                    "blank": "11",
+                    "answer": "otherwise"
+                },
+                {
+                    "blank": "12",
+                    "answer": "demonstrably"
+                },
+                {
+                    "blank": "13",
+                    "answer": "thereby"
+                },
+                {
+                    "blank": "14",
+                    "answer": "illuminate"
+                }
+            ],
+            "explanation": {
+                "en": "This passage examines advanced hedging strategies, complex cause-effect relationships, sophisticated nominalization, and academic circumlocution typical of C2-level scholarly discourse.",
+                "ru": "Этот отрывок исследует продвинутые стратегии хеджирования, сложные причинно-следственные отношения, изощренную номинализацию и академические околичности, типичные для научного дискурса уровня C2.",
+                "uz": "Bu parcha C2 darajasidagi ilmiy diskursga xos bo'lgan ilg'or himoya strategiyalari, murakkab sabab-oqibat munosabatlari, murakkab nominalizatsiya va akademik aylanma so'zlarni o'rganadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The epistemological implications of this research trajectory ___1___ considerable theoretical significance, particularly ___2___ one considers the broader contextual framework within which these findings ___3___. What ___4___ as a straightforward empirical investigation has ___5___ into a comprehensive ___6___ of fundamental assumptions that ___7___ contemporary scholarly discourse. This transformation, ___8___ from methodological necessity rather than theoretical preference, ___9___ the inherent complexity of knowledge production in postmodern academic contexts. The ___10___ findings ___11___ challenge established paradigms ___12___ simultaneously opening new trajectories for intellectual exploration. Such ___13___ between continuity and innovation ___14___ the dynamic nature of scholarly inquiry, wherein each analytical breakthrough ___15___ generates further questions that demand sophisticated theoretical responses.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "possess"
+                },
+                {
+                    "blank": "2",
+                    "answer": "when"
+                },
+                {
+                    "blank": "3",
+                    "answer": "emerge"
+                },
+                {
+                    "blank": "4",
+                    "answer": "commenced"
+                },
+                {
+                    "blank": "5",
+                    "answer": "evolved"
+                },
+                {
+                    "blank": "6",
+                    "answer": "interrogation"
+                },
+                {
+                    "blank": "7",
+                    "answer": "underpin"
+                },
+                {
+                    "blank": "8",
+                    "answer": "arising"
+                },
+                {
+                    "blank": "9",
+                    "answer": "illustrates"
+                },
+                {
+                    "blank": "10",
+                    "answer": "resultant"
+                },
+                {
+                    "blank": "11",
+                    "answer": "simultaneously"
+                },
+                {
+                    "blank": "12",
+                    "answer": "whilst"
+                },
+                {
+                    "blank": "13",
+                    "answer": "tension"
+                },
+                {
+                    "blank": "14",
+                    "answer": "exemplifies"
+                },
+                {
+                    "blank": "15",
+                    "answer": "invariably"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on sophisticated temporal markers, complex causal relationships, advanced academic vocabulary, and intricate sentence structures that characterize high-level scholarly argumentation.",
+                "ru": "Это упражнение сосредоточено на изощренных временных маркерах, сложных причинных отношениях, продвинутой академической лексике и замысловатых структурах предложений, которые характеризуют высокоуровневую научную аргументацию.",
+                "uz": "Bu mashq yuqori darajadagi ilmiy argumentatsiyani tavsiflovchi murakkab vaqt belgilari, murakkab sabab munosabatlari, ilg'or akademik lug'at va murakkab gap tuzilmalariga qaratilgan."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The methodological apparatus ___1___ in this investigation ___2___ from established scholarly traditions whilst ___3___ incorporating innovative analytical techniques. This hybrid approach, ___4___ potentially controversial within conservative academic circles, ___5___ considerable explanatory advantages that ___6___ traditional methodological limitations. The ___7___ integration of quantitative and qualitative paradigms ___8___ what might be termed a 'third way' of scholarly inquiry, one that ___9___ the epistemological constraints ___10___ with monolithic research designs. Critics might ___11___ that such methodological pluralism ___12___ analytical coherence; ___13___, the empirical evidence ___14___ suggests that this integrative approach ___15___ unprecedented insights into complex phenomena that resist conventional analytical categorization.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "deployed"
+                },
+                {
+                    "blank": "2",
+                    "answer": "derives"
+                },
+                {
+                    "blank": "3",
+                    "answer": "simultaneously"
+                },
+                {
+                    "blank": "4",
+                    "answer": "whilst"
+                },
+                {
+                    "blank": "5",
+                    "answer": "offers"
+                },
+                {
+                    "blank": "6",
+                    "answer": "transcend"
+                },
+                {
+                    "blank": "7",
+                    "answer": "systematic"
+                },
+                {
+                    "blank": "8",
+                    "answer": "constitutes"
+                },
+                {
+                    "blank": "9",
+                    "answer": "circumvents"
+                },
+                {
+                    "blank": "10",
+                    "answer": "associated"
+                },
+                {
+                    "blank": "11",
+                    "answer": "argue"
+                },
+                {
+                    "blank": "12",
+                    "answer": "undermines"
+                },
+                {
+                    "blank": "13",
+                    "answer": "however"
+                },
+                {
+                    "blank": "14",
+                    "answer": "unequivocally"
+                },
+                {
+                    "blank": "15",
+                    "answer": "generates"
+                }
+            ],
+            "explanation": {
+                "en": "This passage tests advanced concessive structures, sophisticated hedging, complex evaluative language, and academic debate presentation strategies typical of advanced discourse organization.",
+                "ru": "Этот отрывок проверяет продвинутые уступительные структуры, изощренное хеджирование, сложный оценочный язык и стратегии представления академических дебатов, типичные для продвинутой организации дискурса.",
+                "uz": "Bu parcha ilg'or diskurs tashkiliga xos bo'lgan ilg'or imtiyozli tuzilmalar, murakkab himoya, murakkab baholovchi til va akademik munozara taqdimoti strategiyalarini sinaydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "This comprehensive analytical framework, ___1___ over the course of the preceding investigation, ___2___ serves multiple theoretical functions that ___3___ beyond conventional disciplinary boundaries. The ___4___ of diverse methodological approaches within a unified conceptual matrix ___5___ what can only be characterized as a paradigmatic innovation, one that ___6___ both theoretical sophistication and practical applicability. ___7___ might initially appear as methodological eclecticism ___8___ reveals itself, upon closer examination, to be a carefully ___9___ synthesis of complementary analytical perspectives. The implications of this theoretical edifice ___10___ considerable significance for future scholarly endeavors, particularly ___11___ the increasing complexity of contemporary research challenges ___12___ integrated approaches that can ___13___ multifaceted phenomena. This methodological evolution ___14___ nothing less than a fundamental reconceptualization of how scholarly inquiry might ___15___ conducted in an increasingly interconnected academic landscape.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "developed"
+                },
+                {
+                    "blank": "2",
+                    "answer": "simultaneously"
+                },
+                {
+                    "blank": "3",
+                    "answer": "extend"
+                },
+                {
+                    "blank": "4",
+                    "answer": "convergence"
+                },
+                {
+                    "blank": "5",
+                    "answer": "represents"
+                },
+                {
+                    "blank": "6",
+                    "answer": "combines"
+                },
+                {
+                    "blank": "7",
+                    "answer": "What"
+                },
+                {
+                    "blank": "8",
+                    "answer": "actually"
+                },
+                {
+                    "blank": "9",
+                    "answer": "orchestrated"
+                },
+                {
+                    "blank": "10",
+                    "answer": "possess"
+                },
+                {
+                    "blank": "11",
+                    "answer": "given"
+                },
+                {
+                    "blank": "12",
+                    "answer": "necessitate"
+                },
+                {
+                    "blank": "13",
+                    "answer": "illuminate"
+                },
+                {
+                    "blank": "14",
+                    "answer": "represents"
+                },
+                {
+                    "blank": "15",
+                    "answer": "be"
+                }
+            ],
+            "explanation": {
+                "en": "This final exercise synthesizes all aspects of advanced discourse organization, including complex information packaging, sophisticated metadiscourse, advanced nominalization, and strategic reader guidance through dense academic argumentation.",
+                "ru": "Это заключительное упражнение синтезирует все аспекты продвинутой организации дискурса, включая сложную упаковку информации, изощренный метадискурс, продвинутую номинализацию и стратегическое руководство читателем через плотную академическую аргументацию.",
+                "uz": "Bu yakuniy mashq ilg'or diskurs tashkilining barcha jihatlarini sintez qiladi, shu jumladan murakkab ma'lumot qadoqlash, murakkab metadiskurs, ilg'or nominalizatsiya va zich akademik argumentatsiya orqali o'quvchini strategik boshqarish."
+            }
+        }
+    ]
+}

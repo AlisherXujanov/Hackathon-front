@@ -1,0 +1,924 @@
+{
+    "id": "A2_PRESENT_CONTINUOUS_-_ALL_USES_INCLUDING_FUTURE_ARRANGEMENTS",
+    "title": "Present continuous - All uses including future arrangements",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is watch a movie now."
+                },
+                {
+                    "answer": "He watches a movie now."
+                },
+                {
+                    "answer": "He are watching a movie now."
+                },
+                {
+                    "answer": "He is watching a movie now.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous tense is formed with the correct form of the verb 'to be' (is) and the -ing form of the main verb (watching).",
+                "ru": "Настоящее длительное время образуется с помощью правильной формы глагола 'to be' (is) и глагола с окончанием -ing (watching).",
+                "uz": "Hozirgi davomli zamon 'to be' fe'lining to'g'ri shakli (is) va asosiy fe'lning -ing shakli (watching) bilan hosil bo'ladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They go to the park tomorrow."
+                },
+                {
+                    "answer": "They are going to the park tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "They are go to the park tomorrow."
+                },
+                {
+                    "answer": "They going to the park tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used for planned future arrangements.",
+                "ru": "Настоящее длительное время используется для запланированных будущих договорённостей.",
+                "uz": "Hozirgi davomli zamon rejalashtirilgan kelajak kelishuvlari uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I is eating dinner right now."
+                },
+                {
+                    "answer": "I eats dinner right now."
+                },
+                {
+                    "answer": "I am eating dinner right now.",
+                    "correct": true
+                },
+                {
+                    "answer": "I eating dinner right now."
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous tense uses 'am' with the subject 'I'. The correct form is 'I am eating'.",
+                "ru": "Настоящее длительное время использует 'am' с подлежащим 'I'. Правильная форма — 'I am eating'.",
+                "uz": "Hozirgi davomli zamon 'I' olmoshi bilan 'am' ishlatadi. To'g'ri shakl 'I am eating'dir."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She's not study for her exam."
+                },
+                {
+                    "answer": "She isn't study for her exam."
+                },
+                {
+                    "answer": "She doesn't studying for her exam."
+                },
+                {
+                    "answer": "She isn't studying for her exam.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct negative form for the Present Continuous is subject + 'is not' (or 'isn't') + verb-ing. 'She isn't studying' is the correct structure.",
+                "ru": "Правильная отрицательная форма для настоящего длительного времени — подлежащее + 'is not' (или 'isn't') + глагол с окончанием -ing. 'She isn't studying' — правильная структура.",
+                "uz": "Hozirgi davomli zamonning to'g'ri inkor shakli ega + 'is not' (yoki 'isn't') + fe'l-ing. 'She isn't studying' to'g'ri tuzilishdir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Are you leaving for London tomorrow?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you leave for London tomorrow?"
+                },
+                {
+                    "answer": "Are you leave for London tomorrow?"
+                },
+                {
+                    "answer": "You are leaving for London tomorrow?"
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used to ask about definite future plans or arrangements. The question form is 'Are' + subject + verb-ing.",
+                "ru": "Настоящее длительное время используется для вопросов о определённых планах или договорённостях на будущее. Вопросительная форма — 'Are' + подлежащее + глагол с окончанием -ing.",
+                "uz": "Hozirgi davomli zamon aniq kelajak rejalari yoki kelishuvlari haqida savol berish uchun ishlatiladi. So'roq shakli 'Are' + ega + fe'l-ingdir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We are meet our friends at 7 PM."
+                },
+                {
+                    "answer": "We meeting our friends at 7 PM."
+                },
+                {
+                    "answer": "We are meeting our friends at 7 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "We is meeting our friends at 7 PM."
+                }
+            ],
+            "explanation": {
+                "en": "For future arrangements, the Present Continuous is used. The correct form with 'we' is 'are meeting'.",
+                "ru": "Для будущих договорённостей используется настоящее длительное время. Правильная форма с 'we' — 'are meeting'.",
+                "uz": "Kelajakdagi kelishuvlar uchun hozirgi davomli zamon ishlatiladi. 'we' bilan to'g'ri shakl 'are meeting'dir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They are not play outside right now."
+                },
+                {
+                    "answer": "They are not playing outside right now.",
+                    "correct": true
+                },
+                {
+                    "answer": "They aren't plays outside right now."
+                },
+                {
+                    "answer": "They not playing outside right now."
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the Present Continuous uses 'are not' or 'aren't' with the verb's -ing form.",
+                "ru": "Отрицательная форма настоящего длительного времени использует 'are not' или 'aren't' с -ing формой глагола.",
+                "uz": "Hozirgi davomli zamonning inkor shakli fe'lning -ing shakli bilan 'are not' yoki 'aren't' ishlatadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "What is you doing?"
+                },
+                {
+                    "answer": "What you are doing?"
+                },
+                {
+                    "answer": "What are you doing?",
+                    "correct": true
+                },
+                {
+                    "answer": "What are you do?"
+                }
+            ],
+            "explanation": {
+                "en": "In a question with the Present Continuous, the structure is: Wh-word + 'am/is/are' + subject + verb-ing. So, 'What are you doing?' is correct.",
+                "ru": "В вопросе с настоящим длительным временем структура такова: Вопросительное слово + 'am/is/are' + подлежащее + глагол с окончанием -ing. Поэтому 'What are you doing?' — правильно.",
+                "uz": "Hozirgi davomli zamonli savolda tuzilishi: Savol so'zi + 'am/is/are' + ega + fe'l-ing. Shuning uchun 'What are you doing?' to'g'ri."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am go to the cinema tonight."
+                },
+                {
+                    "answer": "I'm go to the cinema tonight."
+                },
+                {
+                    "answer": "I'm going to the cinema tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "I going to the cinema tonight."
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used for definite future arrangements. The correct form is 'I am going'.",
+                "ru": "Настоящее длительное время используется для определённых планов на будущее. Правильная форма — 'I am going'.",
+                "uz": "Hozirgi davomli zamon aniq kelajakdagi kelishuvlar uchun ishlatiladi. To'g'ri shakl 'I am going'dir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The sun shines brightly today."
+                },
+                {
+                    "answer": "The sun shining brightly today."
+                },
+                {
+                    "answer": "The sun is shining brightly today.",
+                    "correct": true
+                },
+                {
+                    "answer": "The sun are shining brightly today."
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous describes an action happening now. 'The sun is shining' is the correct form for a singular subject.",
+                "ru": "Настоящее длительное время описывает действие, происходящее сейчас. 'The sun is shining' — правильная форма для подлежащего в единственном числе.",
+                "uz": "Hozirgi davomli zamon hozir sodir bo'layotgan harakatni tasvirlaydi. 'The sun is shining' birlikdagi ega uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: She ___ (talk) on the phone.",
+                "ru": "Дополните предложение правильной формой Present Continuous: She ___ (talk) on the phone.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: She ___ (talk) on the phone."
+            },
+            "options": [
+                {
+                    "answer": "is talking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is formed with the correct form of 'to be' (is for 'she') and the '-ing' form of the verb.",
+                "ru": "Настоящее длительное время образуется с помощью правильной формы 'to be' (is для 'she') и '-ing' формы глагола.",
+                "uz": "Hozirgi davomli zamon 'to be' fe'lining to'g'ri shakli (is 'she' uchun) va fe'lning '-ing' shakli bilan hosil bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: They ___ (listen) to music right now.",
+                "ru": "Дополните предложение правильной формой Present Continuous: They ___ (listen) to music right now.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: They ___ (listen) to music right now."
+            },
+            "options": [
+                {
+                    "answer": "are listening",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the subject 'they', the correct form of 'to be' is 'are'. The verb takes the '-ing' form.",
+                "ru": "Для подлежащего 'they' правильная форма 'to be' — 'are'. Глагол принимает '-ing' форму.",
+                "uz": "'they' egasi uchun 'to be' fe'lining to'g'ri shakli 'are'dir. Fe'l '-ing' shaklini oladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: He ___ (not/work) today.",
+                "ru": "Дополните предложение правильной формой Present Continuous: He ___ (not/work) today.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: He ___ (not/work) today."
+            },
+            "options": [
+                {
+                    "answer": "is not working/isn't working",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form uses 'is not' (or 'isn't') followed by the verb's -ing form.",
+                "ru": "Отрицательная форма использует 'is not' (или 'isn't'), за которым следует -ing форма глагола.",
+                "uz": "Inkor shakli 'is not' (yoki 'isn't') dan so'ng fe'lning -ing shaklidan foydalanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: The train ___ (leave) at 8 AM tomorrow.",
+                "ru": "Дополните предложение правильной формой Present Continuous: The train ___ (leave) at 8 AM tomorrow.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: The train ___ (leave) at 8 AM tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "is leaving",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is often used for definite future arrangements, especially for fixed schedules like travel.",
+                "ru": "Настоящее длительное время часто используется для определённых планов на будущее, особенно для фиксированного расписания, такого как поездки.",
+                "uz": "Hozirgi davomli zamon aniq kelajakdagi kelishuvlar, ayniqsa sayohat kabi belgilangan jadvallar uchun tez-tez ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: My parents ___ (visit) us next weekend.",
+                "ru": "Дополните предложение правильной формой Present Continuous: My parents ___ (visit) us next weekend.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: My parents ___ (visit) us next weekend."
+            },
+            "options": [
+                {
+                    "answer": "are visiting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used for a definite, pre-arranged event in the future. 'My parents' is a plural subject, so we use 'are'.",
+                "ru": "Настоящее длительное время используется для определённого, заранее запланированного события в будущем. 'My parents' — это множественное число, поэтому мы используем 'are'.",
+                "uz": "Hozirgi davomli zamon kelajakdagi aniq, oldindan kelishilgan voqea uchun ishlatiladi. 'My parents' ko'plikdagi ega, shuning uchun 'are' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: What ___ you ___ (do) now?",
+                "ru": "Дополните предложение правильной формой Present Continuous: What ___ you ___ (do) now?",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: What ___ you ___ (do) now?"
+            },
+            "options": [
+                {
+                    "answer": "are doing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In a question, the correct form is 'are' before the subject 'you', followed by the '-ing' form of the verb.",
+                "ru": "В вопросе правильная форма — 'are' перед подлежащим 'you', за которым следует '-ing' форма глагола.",
+                "uz": "Savolda to'g'ri shakl 'you' ega oldidan 'are' va fe'lning '-ing' shaklidir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: I ___ (not/go) to the party tonight.",
+                "ru": "Дополните предложение правильной формой Present Continuous: I ___ (not/go) to the party tonight.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: I ___ (not/go) to the party tonight."
+            },
+            "options": [
+                {
+                    "answer": "am not going/I'm not going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the Present Continuous for 'I' is 'am not' followed by the verb in its -ing form.",
+                "ru": "Отрицательная форма настоящего длительного времени для 'I' — это 'am not', за которым следует глагол в -ing форме.",
+                "uz": "'I' uchun hozirgi davomli zamonning inkor shakli 'am not' va undan keyin fe'lning -ing shaklidir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: The baby ___ (sleep) in his crib.",
+                "ru": "Дополните предложение правильной формой Present Continuous: The baby ___ (sleep) in his crib.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: The baby ___ (sleep) in his crib."
+            },
+            "options": [
+                {
+                    "answer": "is sleeping",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used for an action happening now. 'The baby' is singular, so we use 'is' and the '-ing' form.",
+                "ru": "Настоящее длительное время используется для действия, происходящего сейчас. 'The baby' — это единственное число, поэтому мы используем 'is' и '-ing' форму.",
+                "uz": "Hozirgi davomli zamon hozir sodir bo'layotgan harakat uchun ishlatiladi. 'The baby' birlik, shuning uchun 'is' va '-ing' shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: My brother and I ___ (play) football this afternoon.",
+                "ru": "Дополните предложение правильной формой Present Continuous: My brother and I ___ (play) football this afternoon.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: My brother and I ___ (play) football this afternoon."
+            },
+            "options": [
+                {
+                    "answer": "are playing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'my brother and I' is plural, so the correct form of 'to be' is 'are'. We use the '-ing' form for the verb.",
+                "ru": "Подлежащее 'my brother and I' — это множественное число, поэтому правильная форма 'to be' — 'are'. Мы используем '-ing' форму для глагола.",
+                "uz": "'my brother and I' egasi ko'plikda, shuning uchun 'to be' fe'lining to'g'ri shakli 'are'dir. Fe'l uchun '-ing' shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: The students ___ (study) for their exam now.",
+                "ru": "Дополните предложение правильной формой Present Continuous: The students ___ (study) for their exam now.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: The students ___ (study) for their exam now."
+            },
+            "options": [
+                {
+                    "answer": "are studying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject 'the students' is plural, so we use 'are'. The verb is in its '-ing' form to show a continuous action.",
+                "ru": "Подлежащее 'the students' — это множественное число, поэтому мы используем 'are'. Глагол находится в '-ing' форме, чтобы показать длительное действие.",
+                "uz": "'the students' egasi ko'plikda, shuning uchun 'are' ishlatamiz. Fe'l '-ing' shaklida bo'lib, davomli harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: It ___ (rain) outside.",
+                "ru": "Дополните предложение правильной формой Present Continuous: It ___ (rain) outside.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: It ___ (rain) outside."
+            },
+            "options": [
+                {
+                    "answer": "is raining",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For the subject 'it', the correct form of 'to be' is 'is'. The verb takes the '-ing' form.",
+                "ru": "Для подлежащего 'it' правильная форма 'to be' — 'is'. Глагол принимает '-ing' форму.",
+                "uz": "'it' egasi uchun 'to be' fe'lining to'g'ri shakli 'is'dir. Fe'l '-ing' shaklini oladi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: We ___ (not/watch) TV right now.",
+                "ru": "Дополните предложение правильной формой Present Continuous: We ___ (not/watch) TV right now.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: We ___ (not/watch) TV right now."
+            },
+            "options": [
+                {
+                    "answer": "are not watching/aren't watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of the Present Continuous for 'we' is 'are not' (or 'aren't') followed by the verb in its -ing form.",
+                "ru": "Отрицательная форма настоящего длительного времени для 'we' — это 'are not' (или 'aren't'), за которым следует глагол в -ing форме.",
+                "uz": "'we' uchun hozirgi davomli zamonning inkor shakli 'are not' (yoki 'aren't') va undan keyin fe'lning -ing shaklidir."
+            }
+        },
+        {
+            "id": "sa13",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: What ___ you ___ (read)?",
+                "ru": "Дополните предложение правильной формой Present Continuous: What ___ you ___ (read)?",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: What ___ you ___ (read)?"
+            },
+            "options": [
+                {
+                    "answer": "are reading",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure for a question with 'you' is 'are' + subject + verb-ing.",
+                "ru": "Правильная структура для вопроса с 'you' — 'are' + подлежащее + глагол с окончанием -ing.",
+                "uz": "'you' bilan savol uchun to'g'ri tuzilish 'are' + ega + fe'l-ingdir."
+            }
+        },
+        {
+            "id": "sa14",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: They ___ (have) a meeting at 10 AM.",
+                "ru": "Дополните предложение правильной формой Present Continuous: They ___ (have) a meeting at 10 AM.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: They ___ (have) a meeting at 10 AM."
+            },
+            "options": [
+                {
+                    "answer": "are having",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This sentence describes a planned future event, so the Present Continuous is used. The verb 'have' becomes 'having'.",
+                "ru": "Это предложение описывает запланированное будущее событие, поэтому используется настоящее длительное время. Глагол 'have' становится 'having'.",
+                "uz": "Ushbu gap rejalashtirilgan kelajak voqeasini tasvirlaydi, shuning uchun hozirgi davomli zamon ishlatiladi. 'have' fe'li 'having' bo'ladi."
+            }
+        },
+        {
+            "id": "sa15",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: The children ___ (play) in the garden.",
+                "ru": "Дополните предложение правильной формой Present Continuous: The children ___ (play) in the garden.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: The children ___ (play) in the garden."
+            },
+            "options": [
+                {
+                    "answer": "are playing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'The children' is a plural subject. The correct form is 'are playing' to show an action happening now.",
+                "ru": "'The children' — это подлежащее во множественном числе. Правильная форма 'are playing' для обозначения действия, происходящего сейчас.",
+                "uz": "'The children' ko'plikdagi ega. Hozir sodir bo'layotgan harakatni ko'rsatish uchun to'g'ri shakl 'are playing'dir."
+            }
+        },
+        {
+            "id": "sa16",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct Present Continuous form: My sister ___ (study) for her exam tomorrow.",
+                "ru": "Дополните предложение правильной формой Present Continuous: My sister ___ (study) for her exam tomorrow.",
+                "uz": "Gapni to'g'ri Present Continuous shakli bilan to'ldiring: My sister ___ (study) for her exam tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "is studying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The Present Continuous is used for definite future plans. 'My sister' is singular, so we use 'is studying'.",
+                "ru": "Настоящее длительное время используется для определённых планов на будущее. 'My sister' — это единственное число, поэтому мы используем 'is studying'.",
+                "uz": "Hozirgi davomli zamon aniq kelajak rejalari uchun ishlatiladi. 'My sister' birlikda, shuning uchun 'is studying' ishlatamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Johnson family ___1___ (plan) a big trip to the mountains. Right now, they ___2___ (look) at a map on the kitchen table. Mr. Johnson ___3___ (check) the weather on his tablet, and Mrs. Johnson ___4___ (pack) a small suitcase. The children, Tom and Lisa, ___5___ (help) them by putting snacks into a bag. This afternoon, they ___6___ (visit) their grandparents to say goodbye. They ___7___ (not/travel) light this time because they ___8___ (stay) for a week. The bus ___9___ (leave) at 6 AM tomorrow. Tom ___10___ (not/feel) very well today, but he ___11___ (get) better. 'I'm so excited!' Lisa ___12___ (say) as she puts her hat on. 'We ___13___ (have) so much fun!' she adds. Mr. Johnson ___14___ (call) the hotel to confirm their reservation. Everything ___15___ (go) according to plan.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is planning"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are looking"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is checking"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is packing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are helping"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are visiting"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are not travelling/aren't travelling"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are staying"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is leaving"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is not feeling/isn't feeling"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is getting"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is saying"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are having"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is calling"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is going"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the Present Continuous to describe both actions happening now and future arrangements. The correct form of 'to be' and the '-ing' form of the verb are required for each gap.",
+                "ru": "Этот текст использует настоящее длительное время для описания как действий, происходящих сейчас, так и планов на будущее. Для каждого пропуска требуется правильная форма 'to be' и '-ing' форма глагола.",
+                "uz": "Ushbu matn hozir sodir bo'layotgan harakatlarni va kelajakdagi kelishuvlarni tasvirlash uchun hozirgi davomli zamondan foydalanadi. Har bir bo'shliq uchun 'to be' ning to'g'ri shakli va fe'lning '-ing' shakli talab qilinadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "It's a very busy day for Julia. She ___1___ (organise) a charity event. Right now, she ___2___ (talk) to the caterers on the phone. Her colleague, Mark, ___3___ (set up) the chairs in the main hall. They ___4___ (not/sit) down for a minute, as they ___5___ (run) out of time. Julia ___6___ (call) the sound engineer to check the microphones. He ___7___ (not/answer) his phone. The guests ___8___ (arrive) at 7 PM, so they ___9___ (feel) a little stressed. 'We ___10___ (do) our best!' Mark says. Julia ___11___ (hope) everything ___12___ (be) ready on time. She ___13___ (re-arrange) the flowers on the table. A group of volunteers ___14___ (bring) in the last of the decorations. They ___15___ (not/leave) until the job is done.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is organising"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is talking"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is setting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are not sitting/aren't sitting"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are running"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is calling"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is not answering/isn't answering"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are arriving"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are feeling"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are doing"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is hoping"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is being"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is re-arranging"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are bringing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are not leaving/aren't leaving"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of the Present Continuous for ongoing actions and planned future events. It includes positive, negative, and a variety of subjects, requiring a careful selection of the 'to be' verb form.",
+                "ru": "Это упражнение проверяет использование настоящего длительного времени для текущих действий и запланированных будущих событий. Оно включает утвердительные, отрицательные предложения и различные подлежащие, что требует внимательного выбора формы глагола 'to be'.",
+                "uz": "Ushbu mashq davomli harakatlar va rejalashtirilgan kelajak voqealari uchun hozirgi davomli zamonning ishlatilishini sinaydi. U ijobiy, salbiy gaplarni va turli egalarni o'z ichiga oladi, bu esa 'to be' fe'lining shaklini diqqat bilan tanlashni talab qiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "It's a beautiful afternoon and the neighbours ___1___ (prepare) for a big barbecue. The children ___2___ (play) football in the garden. Mr. Smith ___3___ (light) the grill, and his wife, Clara, ___4___ (mix) a large salad. She ___5___ (not/cut) the tomatoes yet. At the same time, their friend David ___6___ (come) over. He ___7___ (carry) a huge bag of charcoal. 'It ___8___ (smell) delicious already!' he says with a laugh. They ___9___ (eat) at 6 PM. The guests ___10___ (start) to arrive in about thirty minutes. Mrs. Smith ___11___ (tell) her husband that she ___12___ (not/be) ready. 'Don't worry, everyone ___13___ (help)!' he reassures her. He ___14___ (put) the burgers on the grill. The sun ___15___ (start) to set, making the sky a beautiful colour.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are preparing"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are playing"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is lighting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is mixing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is not cutting/isn't cutting"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is coming"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is carrying"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is smelling"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are eating"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are starting"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is telling"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is not being/isn't being"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is helping"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is putting"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is starting"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on the use of the Present Continuous for ongoing actions and future plans. It requires the correct application of the 'to be' verb and the '-ing' form, covering both singular and plural subjects and negative forms.",
+                "ru": "Этот текст фокусируется на использовании настоящего длительного времени для текущих действий и будущих планов. Он требует правильного применения глагола 'to be' и '-ing' формы, охватывая как единственное, так и множественное число подлежащих, а также отрицательные формы.",
+                "uz": "Ushbu matn davomli harakatlar va kelajakdagi rejalar uchun hozirgi davomli zamonning ishlatilishiga qaratilgan. U 'to be' fe'lining va '-ing' shaklining to'g'ri qo'llanilishini talab qiladi, birlik va ko'plikdagi egalar hamda inkor shakllarini qamrab oladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend and I ___1___ (work) on a school project together. Right now, we ___2___ (read) different articles online. We ___3___ (not/talk) much, because we ___4___ (concentrate) on the information. My mom ___5___ (make) tea for us in the kitchen. She ___6___ (bring) it to our room in a few minutes. I ___7___ (find) some great facts about our topic. Our teacher ___8___ (expect) our project to be finished by Friday. We ___9___ (meet) at the library to finish it on Thursday. I ___10___ (worry) a little about the deadline, but my friend ___11___ (say) we have plenty of time. My friend ___12___ (not/work) on his section of the project yet, so I ___13___ (remind) him. He ___14___ (promise) to start his part of the work after he ___15___ (finish) his current article.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are working"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are reading"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are not talking/aren't talking"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are concentrating"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is making"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is bringing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "am finding"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is expecting"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are meeting"
+                },
+                {
+                    "blank": "10",
+                    "answer": "am worrying"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is saying"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is not working/isn't working"
+                },
+                {
+                    "blank": "13",
+                    "answer": "am reminding"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is promising"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is finishing"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses the Present Continuous for actions happening now as well as for future arrangements. It requires the correct conjugation of the verb 'to be' and the '-ing' form of the main verb, including negative sentences and a range of subjects.",
+                "ru": "Этот текст использует настоящее длительное время для действий, происходящих сейчас, а также для планов на будущее. Он требует правильного спряжения глагола 'to be' и '-ing' формы основного глагола, включая отрицательные предложения и различные подлежащие.",
+                "uz": "Ushbu matn hozir sodir bo'layotgan harakatlar va kelajakdagi kelishuvlar uchun hozirgi davomli zamondan foydalanadi. U 'to be' fe'lining to'g'ri tuslanishini va asosiy fe'lning '-ing' shaklini talab qiladi, shu jumladan inkor gaplar va turli egalarni o'z ichiga oladi."
+            }
+        }
+    ]
+}

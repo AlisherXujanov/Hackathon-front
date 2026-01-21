@@ -1,0 +1,119 @@
+⚠️ **CRITICAL INSTRUCTION: DO NOT LIMIT TO 10 WORDS - GENERATE ALL RELEVANT VOCABULARY FOR THE TOPIC** ⚠️
+
+# CEFR Vocabulary Generation Request
+
+## Objective
+Generate a comprehensive vocabulary list for the specified CEFR (Common European Framework of Reference for Languages) level, structured according to the provided format specifications.
+
+## Level Specification
+**Target CEFR Level:** [C2] 
+
+## Topic Areas
+The vocabulary should cover the following thematic area(s):
+
+**TOPIC:** [20. **Precision in Specialized Domains**: Exact terminology in highly specific fields (quantum mechanics, constitutional law, etc.)]
+This contains:
+- The id of the topic (ex: 1. )
+- The topic name starting and ending with **...**
+
+## ⚠️ WORD COUNT REQUIREMENT ⚠️
+**DO NOT limit yourself to 10, 20, or any fixed number of words. Generate ALL vocabulary words that are appropriate for this CEFR level and topic. This could be 15, 25, 35, or any number that comprehensively covers the topic.**
+
+## ⚠️ DIFFICULTY LEVEL REQUIREMENT ⚠️
+**CRITICAL: All vocabulary words must be EXACTLY at the specified CEFR level ([C2]). DO NOT include:**
+- **Words that are too easy** (below [C2] level)
+- **Words that are too advanced** (above [C2] level)
+- **Words that are outside the target level range**
+
+**Only include vocabulary that is genuinely appropriate for [C2] level learners.**
+
+### CEFR Level Guidelines:
+- **A1 (Beginner)**: Basic everyday vocabulary, simple concrete words
+- **A2 (Elementary)**: Common words for familiar topics, basic descriptive vocabulary
+- **B1 (Intermediate)**: More complex vocabulary for abstract concepts, workplace terms
+- **B2 (Upper-Intermediate)**: Sophisticated vocabulary for complex topics, formal/academic terms
+- **C1 (Advanced)**: Nuanced vocabulary, specialized terms, complex expressions
+- **C2 (Proficient)**: Highly sophisticated vocabulary, technical terms, literary language
+
+## ⚠️ FORMALITY REQUIREMENT ⚠️
+**CRITICAL: All vocabulary must be appropriate for the target level's typical usage context:**
+
+### For A1-A2 levels:
+- Include everyday, practical vocabulary
+- Simple, common words used in daily life
+- Basic conversational terms
+
+### For B1-B2 levels:
+- Include more formal vocabulary appropriate for academic/professional contexts
+- IELTS-appropriate terms for b1-b2 levels
+- Avoid overly casual/slang expressions
+
+### For C2-C2 levels:
+- Include sophisticated, academic, and specialized vocabulary
+- Advanced formal expressions
+- Technical and nuanced terminology
+
+**DO NOT include:**
+- **Informal/slang words** inappropriate for the level
+- **Vocabulary that doesn't match the formality expectations** of the target level
+- **Terms that are too casual or too formal** for the specified level
+
+## Required Output Structure
+Please generate the vocabulary list using the following JSON structure:
+
+```json
+{
+    "id": "C2_001", // Get the ID from the **${TOPIC}**
+    "topic": "[**${TOPIC}**]",  // Don't put the ID at the beginning as it is already in the ID field
+    "image": "https://...", // leave as this for now
+    "words": [
+        {
+            "id": 1,
+            "word": "original-word",
+            "translation": {
+                "en": "Clear, concise definition appropriate for [C2] level",
+                "uz": "Careful UZ translation of word (ONLY TRANSLATION, NOT DEFINITION)",
+                "ru": "Careful RU translation of word (ONLY TRANSLATION, NOT DEFINITION)"
+            },
+            "example": [
+                "Contextual example sentence 1 appropriate for [C2] level",
+                "Contextual example sentence 2 appropriate for [C2] level",
+                "Contextual example sentence 3 appropriate for [C2] level",
+                "Contextual example sentence 4 appropriate for [C2] level"
+            ],
+            "quiz": {
+                "correct_answer": "correct answer (matches English definition exactly)",
+                "distractors": [
+                    "Plausible but incorrect definition 1 (contextually related to topic)",
+                    "Plausible but incorrect definition 2 (from same topic area)"
+                ]
+            }
+        }
+    ]
+}
+```
+
+## Quality Requirements
+- **Definitions|Translations**: Clear, level-appropriate definitions in English, Uzbek, and Russian
+- **Examples**: Include 4 practical, contextual example sentences for each vocabulary item, appropriate for the target CEFR level
+- **Quiz Structure**: Create meaningful multiple-choice quiz options:
+  - **Correct Answer**: Must exactly match the English definition
+  - **Distractors**: Plausible but incorrect options that:
+    - Are contextually related to the word or topic area
+    - Use similar complexity as the correct answer
+    - **Length Balance**: All options must have similar length (max 15% variation)
+    - **Content Quality**: Substantive enough to be believable, avoid obvious wrong answers
+- **Level Appropriateness**: ⚠️ **CRITICAL** - All vocabulary words must be EXACTLY at [C2] level
+- **Formality**: ⚠️ **CRITICAL** - All vocabulary must match the formality expectations of [C2] level
+- **Accuracy**: Maintain linguistic accuracy across all three languages
+- **Topic Coverage**: ⚠️ **CRITICAL** - Generate ALL vocabulary words appropriate for this CEFR level and topic. DO NOT stop at 10 words. Include as many words as needed to comprehensively cover the topic area.
+
+## Expected Deliverables
+A complete JSON-formatted vocabulary list meeting the above specifications and ready for educational implementation.
+
+## ⚠️ FINAL REMINDER ⚠️
+**Remember: Generate ALL relevant vocabulary for [**${TOPIC}**] at [C2] level. Do not limit yourself to 10 or 20 words. The number of words should be determined by the topic's scope and CEFR level requirements, not by any arbitrary limit.**
+
+**⚠️ DIFFICULTY CHECK: Ensure every word is genuinely [C2] level - not too easy or too advanced.**
+
+**⚠️ FORMALITY CHECK: Ensure every word matches the formality expectations of [C2] level. For this, search for the best sites worldwide for IELTS or CEFR level vocabulary.**

@@ -1,0 +1,899 @@
+{
+    "id": "B1_PAST_SIMPLE_PAST_CONTINUOUS_PAST_PERFECT_NARRATIVE_TENSES_MASTERY",
+    "title": "Past simple, past continuous, past perfect - Narrative tenses mastery",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "When I arrived, she was cooking dinner.",
+                    "correct": true
+                },
+                {
+                    "answer": "When I arrived, she cooked dinner."
+                },
+                {
+                    "answer": "When I was arriving, she cooked dinner."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous shows an ongoing action interrupted by a past simple action. 'Was cooking' was in progress when 'I arrived' happened.",
+                "ru": "Прошедшее длительное время показывает продолжающееся действие, прерванное действием в простом прошедшем времени. 'Was cooking' происходило, когда случилось 'I arrived'.",
+                "uz": "Past continuous davom etayotgan harakatni ko'rsatadi, uni past simple harakat to'xtatgan. 'Was cooking' davom etayotgan edi, 'I arrived' sodir bo'lganda."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He had finished his work before he went home.",
+                    "correct": true
+                },
+                {
+                    "answer": "He finished his work before he had went home."
+                },
+                {
+                    "answer": "He had finish his work before he went home."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had finished' shows an action completed before another past action 'went home'. Past perfect uses 'had + past participle'.",
+                "ru": "Past perfect 'had finished' показывает действие, завершенное до другого прошедшего действия 'went home'. Past perfect использует 'had + причастие прошедшего времени'.",
+                "uz": "Past perfect 'had finished' boshqa o'tmish harakat 'went home'dan oldin tugallangan harakatni ko'rsatadi. Past perfect 'had + past participle' ishlatadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "While she studied, her phone was ringing."
+                },
+                {
+                    "answer": "While she was studying, her phone rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "While she had studied, her phone rang."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'was studying' shows ongoing action, interrupted by past simple 'phone rang'. This is the correct pattern for interruption.",
+                "ru": "Past continuous 'was studying' показывает продолжающееся действие, прерванное past simple 'phone rang'. Это правильная модель для прерывания.",
+                "uz": "Past continuous 'was studying' davom etayotgan harakatni ko'rsatadi, uni past simple 'phone rang' to'xtatgan. Bu to'xtatish uchun to'g'ri model."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They played football yesterday at 3 PM."
+                },
+                {
+                    "answer": "They were playing football yesterday at 3 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "They had played football yesterday at 3 PM."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'were playing' is correct for an action in progress at a specific time in the past (3 PM yesterday).",
+                "ru": "Past continuous 'were playing' правильно для действия, происходившего в определенное время в прошлом (вчера в 3 часа).",
+                "uz": "Past continuous 'were playing' o'tmishda aniq vaqtda (kecha soat 3da) davom etgan harakat uchun to'g'ri."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "After she had eaten lunch, she felt better.",
+                    "correct": true
+                },
+                {
+                    "answer": "After she ate lunch, she had felt better."
+                },
+                {
+                    "answer": "After she was eating lunch, she felt better."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had eaten' shows the first action was completed before the second action 'felt better' in past simple.",
+                "ru": "Past perfect 'had eaten' показывает, что первое действие было завершено до второго действия 'felt better' в past simple.",
+                "uz": "Past perfect 'had eaten' birinchi harakat ikkinchi harakat 'felt better' (past simple)dan oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "When the train arrived, we had been waiting for an hour."
+                },
+                {
+                    "answer": "When the train was arriving, we waited for an hour."
+                },
+                {
+                    "answer": "When the train arrived, we were waiting for an hour.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'were waiting' shows the ongoing action that was interrupted when the train arrived (past simple).",
+                "ru": "Past continuous 'were waiting' показывает продолжающееся действие, которое было прервано, когда прибыл поезд (past simple).",
+                "uz": "Past continuous 'were waiting' poyezd kelganda (past simple) to'xtatilgan davom etayotgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She lived in Paris before she moved to London."
+                },
+                {
+                    "answer": "She had lived in Paris before she moved to London.",
+                    "correct": true
+                },
+                {
+                    "answer": "She was living in Paris before she moved to London."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had lived' shows the earlier action completed before the later action 'moved' in the sequence of past events.",
+                "ru": "Past perfect 'had lived' показывает более раннее действие, завершенное до более позднего действия 'moved' в последовательности прошедших событий.",
+                "uz": "Past perfect 'had lived' o'tmish voqealar ketma-ketligida keyingi harakat 'moved'dan oldin tugallangan avvalgi harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "At 8 o'clock last night, I watched TV.",
+                    "correct": true
+                },
+                {
+                    "answer": "At 8 o'clock last night, I had watched TV."
+                },
+                {
+                    "answer": "At 8 o'clock last night, I have watched TV."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple 'watched' is correct for a completed action at a specific time in the past (8 o'clock last night).",
+                "ru": "Past simple 'watched' правильно для завершенного действия в определенное время в прошлом (вчера в 8 часов вечера).",
+                "uz": "Past simple 'watched' o'tmishda aniq vaqtda (kecha soat 8da) tugallangan harakat uchun to'g'ri."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By the time we got to the cinema, the film started."
+                },
+                {
+                    "answer": "By the time we got to the cinema, the film had started.",
+                    "correct": true
+                },
+                {
+                    "answer": "By the time we got to the cinema, the film was starting."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had started' shows the film began before we arrived. 'By the time' signals past perfect for the earlier action.",
+                "ru": "Past perfect 'had started' показывает, что фильм начался до нашего прибытия. 'By the time' сигнализирует past perfect для более раннего действия.",
+                "uz": "Past perfect 'had started' film biz kelishdan oldin boshlanganini ko'rsatadi. 'By the time' avvalgi harakat uchun past perfect belgisini beradi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Yesterday I was walking to work when it started to rain.",
+                    "correct": true
+                },
+                {
+                    "answer": "Yesterday I walked to work when it was starting to rain."
+                },
+                {
+                    "answer": "Yesterday I had walked to work when it started to rain."
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'was walking' shows ongoing action interrupted by past simple 'started to rain'. This is the standard interruption pattern.",
+                "ru": "Past continuous 'was walking' показывает продолжающееся действие, прерванное past simple 'started to rain'. Это стандартная модель прерывания.",
+                "uz": "Past continuous 'was walking' davom etayotgan harakatni ko'rsatadi, uni past simple 'started to rain' to'xtatgan. Bu standart to'xtatish modeli."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When I called her, she ___ (work) in the garden.",
+                "ru": "Дополните предложение: When I called her, she ___ (work) in the garden.",
+                "uz": "Gapni to'ldiring: When I called her, she ___ (work) in the garden."
+            },
+            "options": [
+                {
+                    "answer": "was working",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'was working' shows an ongoing action that was interrupted by the phone call.",
+                "ru": "Past continuous 'was working' показывает продолжающееся действие, прерванное телефонным звонком.",
+                "uz": "Past continuous 'was working' telefon qo'ng'irog'i bilan to'xtatilgan davom etayotgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She told me she ___ (never/see) such a beautiful sunset before.",
+                "ru": "Дополните предложение: She told me she ___ (never/see) such a beautiful sunset before.",
+                "uz": "Gapni to'ldiring: She told me she ___ (never/see) such a beautiful sunset before."
+            },
+            "options": [
+                {
+                    "answer": "had never seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had never seen' shows an experience that occurred before the past time of speaking.",
+                "ru": "Past perfect 'had never seen' показывает опыт, который произошел до прошедшего времени разговора.",
+                "uz": "Past perfect 'had never seen' gaplashishning o'tmish vaqtidan oldin sodir bo'lgan tajribani ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: At 9 PM yesterday, we ___ (have) dinner with friends.",
+                "ru": "Дополните предложение: At 9 PM yesterday, we ___ (have) dinner with friends.",
+                "uz": "Gapni to'ldiring: At 9 PM yesterday, we ___ (have) dinner with friends."
+            },
+            "options": [
+                {
+                    "answer": "were having",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'were having' shows an action in progress at a specific time in the past.",
+                "ru": "Past continuous 'were having' показывает действие, происходившее в определенное время в прошлом.",
+                "uz": "Past continuous 'were having' o'tmishda aniq vaqtda davom etgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: After he ___ (finish) his homework, he went out to play.",
+                "ru": "Дополните предложение: After he ___ (finish) his homework, he went out to play.",
+                "uz": "Gapni to'ldiring: After he ___ (finish) his homework, he went out to play."
+            },
+            "options": [
+                {
+                    "answer": "had finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had finished' shows the homework was completed before he went out to play.",
+                "ru": "Past perfect 'had finished' показывает, что домашнее задание было выполнено до того, как он пошел играть.",
+                "uz": "Past perfect 'had finished' uy vazifasi u o'ynashga chiqishdan oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: While they ___ (discuss) the project, the boss entered the room.",
+                "ru": "Дополните предложение: While they ___ (discuss) the project, the boss entered the room.",
+                "uz": "Gapni to'ldiring: While they ___ (discuss) the project, the boss entered the room."
+            },
+            "options": [
+                {
+                    "answer": "were discussing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'were discussing' shows an ongoing action interrupted when the boss entered.",
+                "ru": "Past continuous 'were discussing' показывает продолжающееся действие, прерванное входом начальника.",
+                "uz": "Past continuous 'were discussing' boshlik kirganida to'xtatilgan davom etayotgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I realized I ___ (forget) my keys at home.",
+                "ru": "Дополните предложение: I realized I ___ (forget) my keys at home.",
+                "uz": "Gapni to'ldiring: I realized I ___ (forget) my keys at home."
+            },
+            "options": [
+                {
+                    "answer": "had forgotten",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had forgotten' shows forgetting the keys happened before realizing it.",
+                "ru": "Past perfect 'had forgotten' показывает, что забывание ключей произошло до осознания этого.",
+                "uz": "Past perfect 'had forgotten' kalitlarni unutish buni anglashdan oldin sodir bo'lganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children ___ (play) in the park when it started raining.",
+                "ru": "Дополните предложение: The children ___ (play) in the park when it started raining.",
+                "uz": "Gapni to'ldiring: The children ___ (play) in the park when it started raining."
+            },
+            "options": [
+                {
+                    "answer": "were playing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'were playing' shows the ongoing action interrupted by the rain starting.",
+                "ru": "Past continuous 'were playing' показывает продолжающееся действие, прерванное началом дождя.",
+                "uz": "Past continuous 'were playing' yomg'ir boshlanishi bilan to'xtatilgan davom etayotgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By the time the ambulance arrived, he ___ (already/leave) for the hospital.",
+                "ru": "Дополните предложение: By the time the ambulance arrived, he ___ (already/leave) for the hospital.",
+                "uz": "Gapni to'ldiring: By the time the ambulance arrived, he ___ (already/leave) for the hospital."
+            },
+            "options": [
+                {
+                    "answer": "had already left",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had already left' shows he left before the ambulance arrived. 'By the time' signals past perfect.",
+                "ru": "Past perfect 'had already left' показывает, что он ушел до прибытия скорой помощи. 'By the time' сигнализирует past perfect.",
+                "uz": "Past perfect 'had already left' u tez yordam kelishidan oldin ketganini ko'rsatadi. 'By the time' past perfect belgisini beradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Last night at 11 PM, I ___ (sleep) peacefully.",
+                "ru": "Дополните предложение: Last night at 11 PM, I ___ (sleep) peacefully.",
+                "uz": "Gapni to'ldiring: Last night at 11 PM, I ___ (sleep) peacefully."
+            },
+            "options": [
+                {
+                    "answer": "was sleeping",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past continuous 'was sleeping' shows an action in progress at a specific time in the past.",
+                "ru": "Past continuous 'was sleeping' показывает действие, происходившее в определенное время в прошлом.",
+                "uz": "Past continuous 'was sleeping' o'tmishda aniq vaqtda davom etgan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She said she ___ (live) in that house for ten years before moving.",
+                "ru": "Дополните предложение: She said she ___ (live) in that house for ten years before moving.",
+                "uz": "Gapni to'ldiring: She said she ___ (live) in that house for ten years before moving."
+            },
+            "options": [
+                {
+                    "answer": "had lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had lived' shows the duration of living there before the past action of moving.",
+                "ru": "Past perfect 'had lived' показывает продолжительность проживания там до прошедшего действия переезда.",
+                "uz": "Past perfect 'had lived' ko'chishning o'tmish harakatidan oldin u yerda yashash muddatini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah ___1___ (work) at the coffee shop for three years when she ___2___ (decide) to quit her job. That morning, she ___3___ (arrive) at work as usual, but something ___4___ (feel) different. While she ___5___ (prepare) the first batch of coffee, her manager ___6___ (announce) that the shop ___7___ (be) sold to a new owner. Sarah ___8___ (not/know) about this news before. She ___9___ (think) about changing her career for months, and this news ___10___ (give) her the perfect opportunity. When she ___11___ (finish) her shift, she ___12___ (go) to her manager's office. She ___13___ (tell) him that she ___14___ (already/make) up her mind about leaving, and this ___15___ (be) her last week at the coffee shop.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been working"
+                },
+                {
+                    "blank": "2",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "3",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "4",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was preparing"
+                },
+                {
+                    "blank": "6",
+                    "answer": "announced"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "didn't know/did not know"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had been thinking"
+                },
+                {
+                    "blank": "10",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "11",
+                    "answer": "finished/had finished"
+                },
+                {
+                    "blank": "12",
+                    "answer": "went"
+                },
+                {
+                    "blank": "13",
+                    "answer": "told"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had already made"
+                },
+                {
+                    "blank": "15",
+                    "answer": "would be"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates the use of past simple for completed actions, past continuous for ongoing actions, and past perfect for actions completed before other past actions in a narrative sequence.",
+                "ru": "Этот отрывок демонстрирует использование past simple для завершенных действий, past continuous для продолжающихся действий и past perfect для действий, завершенных до других прошедших действий в повествовательной последовательности.",
+                "uz": "Ushbu parcha hikoya ketma-ketligida tugallangan harakatlar uchun past simple, davom etayotgan harakatlar uchun past continuous va boshqa o'tmish harakatlardan oldin tugallangan harakatlar uchun past perfect ishlatilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Yesterday evening, John ___1___ (drive) home from work when he ___2___ (see) an accident on the highway. Two cars ___3___ (crash) into each other, and several people ___4___ (stand) around the scene. John ___5___ (stop) his car and ___6___ (get) out to help. One of the drivers ___7___ (sit) on the ground, and she ___8___ (cry) quietly. John ___9___ (ask) her if she ___10___ (be) hurt, but she ___11___ (shake) her head. She ___12___ (explain) that she ___13___ (never/experience) an accident before and ___14___ (feel) very shocked. The police ___15___ (arrive) ten minutes later, and they ___16___ (take) statements from everyone who ___17___ (witness) the crash.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "was driving"
+                },
+                {
+                    "blank": "2",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had crashed"
+                },
+                {
+                    "blank": "4",
+                    "answer": "were standing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "stopped"
+                },
+                {
+                    "blank": "6",
+                    "answer": "got"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was sitting"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was crying"
+                },
+                {
+                    "blank": "9",
+                    "answer": "asked"
+                },
+                {
+                    "blank": "10",
+                    "answer": "was"
+                },
+                {
+                    "blank": "11",
+                    "answer": "shook"
+                },
+                {
+                    "blank": "12",
+                    "answer": "explained"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had never experienced"
+                },
+                {
+                    "blank": "14",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "15",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "16",
+                    "answer": "took"
+                },
+                {
+                    "blank": "17",
+                    "answer": "had witnessed"
+                }
+            ],
+            "explanation": {
+                "en": "This narrative uses past continuous for ongoing actions, past simple for completed actions, and past perfect for actions that happened before other past events in the story.",
+                "ru": "Этот рассказ использует past continuous для продолжающихся действий, past simple для завершенных действий и past perfect для действий, которые произошли до других прошедших событий в истории.",
+                "uz": "Ushbu hikoya davom etayotgan harakatlar uchun past continuous, tugallangan harakatlar uchun past simple va hikoyada boshqa o'tmish voqealardan oldin sodir bo'lgan harakatlar uchun past perfect ishlatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Maria ___1___ (plan) her vacation to Italy for months when she finally ___2___ (book) her flight last week. She ___3___ (save) money for this trip since January, and by March, she ___4___ (already/collect) enough for the tickets. On the day of departure, she ___5___ (wake) up early and ___6___ (check) her luggage one more time. While she ___7___ (wait) at the airport gate, she ___8___ (receive) a text message from her sister. The message ___9___ (say) that their grandmother ___10___ (be) in the hospital since yesterday. Maria ___11___ (feel) torn between her long-awaited vacation and her family duty. She ___12___ (think) about what to do when the boarding announcement ___13___ (begin). In that moment, she ___14___ (realize) that she ___15___ (make) the wrong choice if she ___16___ (leave) without seeing her grandmother first.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been planning"
+                },
+                {
+                    "blank": "2",
+                    "answer": "booked"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had been saving"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had already collected"
+                },
+                {
+                    "blank": "5",
+                    "answer": "woke"
+                },
+                {
+                    "blank": "6",
+                    "answer": "checked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "was waiting"
+                },
+                {
+                    "blank": "8",
+                    "answer": "received"
+                },
+                {
+                    "blank": "9",
+                    "answer": "said"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "12",
+                    "answer": "was thinking"
+                },
+                {
+                    "blank": "13",
+                    "answer": "began"
+                },
+                {
+                    "blank": "14",
+                    "answer": "realized"
+                },
+                {
+                    "blank": "15",
+                    "answer": "would make"
+                },
+                {
+                    "blank": "16",
+                    "answer": "left"
+                }
+            ],
+            "explanation": {
+                "en": "This complex narrative demonstrates past perfect continuous for long-term actions, past simple for completed actions, past continuous for ongoing situations, and conditional structures in past contexts.",
+                "ru": "Этот сложный рассказ демонстрирует past perfect continuous для длительных действий, past simple для завершенных действий, past continuous для продолжающихся ситуаций и условные конструкции в прошедших контекстах.",
+                "uz": "Ushbu murakkab hikoya uzoq muddatli harakatlar uchun past perfect continuous, tugallangan harakatlar uchun past simple, davom etayotgan vaziyatlar uchun past continuous va o'tmish kontekstlarda shartli tuzilmalarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tom ___1___ (work) as a journalist for five years when he ___2___ (get) the assignment of his lifetime. His editor ___3___ (ask) him to write about a small town that ___4___ (experience) mysterious events for several months. When Tom ___5___ (arrive) in the town, he ___6___ (notice) that the streets ___7___ (be) unusually quiet. Local residents ___8___ (tell) him that strange noises ___9___ (come) from the old factory every night since autumn ___10___ (begin). While Tom ___11___ (interview) the townspeople, he ___12___ (discover) that the factory ___13___ (close) three years ago, but lights ___14___ (appear) in the windows recently. That evening, as Tom ___15___ (walk) past the factory, he ___16___ (hear) the sounds that everyone ___17___ (talk) about.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been working"
+                },
+                {
+                    "blank": "2",
+                    "answer": "got"
+                },
+                {
+                    "blank": "3",
+                    "answer": "asked"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had been experiencing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "6",
+                    "answer": "noticed"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "told"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had been coming"
+                },
+                {
+                    "blank": "10",
+                    "answer": "began"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was interviewing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "discovered"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had closed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had been appearing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "was walking"
+                },
+                {
+                    "blank": "16",
+                    "answer": "heard"
+                },
+                {
+                    "blank": "17",
+                    "answer": "had been talking"
+                }
+            ],
+            "explanation": {
+                "en": "This mystery narrative combines all past tenses: past simple for completed actions, past continuous for ongoing actions, past perfect for earlier completed actions, and past perfect continuous for ongoing actions in the past.",
+                "ru": "Этот детективный рассказ сочетает все прошедшие времена: past simple для завершенных действий, past continuous для продолжающихся действий, past perfect для более ранних завершенных действий и past perfect continuous для продолжающихся действий в прошлом.",
+                "uz": "Ushbu detektiv hikoya barcha o'tmish zamonlarni birlashtiradi: tugallangan harakatlar uchun past simple, davom etayotgan harakatlar uchun past continuous, avvalroq tugallangan harakatlar uchun past perfect va o'tmishda davom etayotgan harakatlar uchun past perfect continuous."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma ___1___ (dream) of becoming a doctor since she ___2___ (be) a little girl. She ___3___ (study) hard throughout high school and ___4___ (achieve) excellent grades. When she ___5___ (apply) to medical school, she ___6___ (already/volunteer) at the local hospital for two years. The day she ___7___ (receive) her acceptance letter, she ___8___ (sit) in her room ___9___ (do) homework when her mother ___10___ (call) her downstairs. While Emma ___11___ (read) the letter, tears ___12___ (start) flowing down her face. She ___13___ (realize) that all her hard work ___14___ (pay) off. That evening, her family ___15___ (celebrate) the good news, and Emma ___16___ (feel) that her future ___17___ (finally/begin). Her parents ___18___ (be) proud of their daughter, who ___19___ (overcome) many challenges to reach this moment. As she ___20___ (go) to bed that night, Emma ___21___ (think) about all the patients she ___22___ (help) in the future.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been dreaming"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "studied"
+                },
+                {
+                    "blank": "4",
+                    "answer": "achieved"
+                },
+                {
+                    "blank": "5",
+                    "answer": "applied"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had already volunteered"
+                },
+                {
+                    "blank": "7",
+                    "answer": "received"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was sitting"
+                },
+                {
+                    "blank": "9",
+                    "answer": "doing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "called"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was reading"
+                },
+                {
+                    "blank": "12",
+                    "answer": "started"
+                },
+                {
+                    "blank": "13",
+                    "answer": "realized"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had paid"
+                },
+                {
+                    "blank": "15",
+                    "answer": "celebrated"
+                },
+                {
+                    "blank": "16",
+                    "answer": "felt"
+                },
+                {
+                    "blank": "17",
+                    "answer": "had finally begun"
+                },
+                {
+                    "blank": "18",
+                    "answer": "were"
+                },
+                {
+                    "blank": "19",
+                    "answer": "had overcome"
+                },
+                {
+                    "blank": "20",
+                    "answer": "went"
+                },
+                {
+                    "blank": "21",
+                    "answer": "thought"
+                },
+                {
+                    "blank": "22",
+                    "answer": "would help"
+                }
+            ],
+            "explanation": {
+                "en": "This inspiring story demonstrates the perfect use of narrative tenses to show the sequence and duration of events in Emma's journey to achieve her dreams, including past perfect continuous for long-term actions and conditional forms for future plans.",
+                "ru": "Эта вдохновляющая история демонстрирует идеальное использование нарративных времен для показа последовательности и продолжительности событий в путешествии Эммы к достижению своих мечт, включая past perfect continuous для длительных действий и условные формы для будущих планов.",
+                "uz": "Ushbu ilhomlovchi hikoya Emma orzulariga erishish yo'lidagi voqealar ketma-ketligi va davomiyligini ko'rsatish uchun narrativ zamonlarning mukammal ishlatilishini, shu jumladan uzoq muddatli harakatlar uchun past perfect continuous va kelajak rejalari uchun shartli shakllarni ko'rsatadi."
+            }
+        }
+    ]
+}

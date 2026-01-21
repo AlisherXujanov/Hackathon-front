@@ -1,0 +1,847 @@
+{
+    "id": "C1_MIXED_CONDITIONALS_IN_PAST_PRESENT_AND_FUTURE_COMPLEX_TIME_RELATIONSHIPS",
+    "title": "Mixed conditionals in past, present and future - Complex time relationships",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If she had studied medicine, she would work in a hospital now."
+                },
+                {
+                    "answer": "If she had studied medicine, she would be working in a hospital now.",
+                    "correct": true
+                },
+                {
+                    "answer": "If she studied medicine, she would have worked in a hospital now."
+                }
+            ],
+            "explanation": {
+                "en": "This is a mixed conditional combining past condition with present result. The correct form uses 'would be working' to show an ongoing present situation resulting from a past action.",
+                "ru": "Это смешанное условное предложение, объединяющее прошлое условие с настоящим результатом. Правильная форма использует 'would be working', чтобы показать продолжающуюся настоящую ситуацию, являющуюся результатом прошлого действия.",
+                "uz": "Bu o'tmishdagi shartni hozirgi natija bilan birlashtirgan aralash shartli gap. To'g'ri shakl 'would be working' dan foydalanadi, bu o'tmishdagi harakatdan kelib chiqqan davom etayotgan hozirgi vaziyatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses a present condition with a past result?",
+                "ru": "Какое предложение правильно выражает настоящее условие с прошлым результатом?",
+                "uz": "Qaysi gap hozirgi shartni o'tmishdagi natija bilan to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "If I was rich, I would have bought that house last year."
+                },
+                {
+                    "answer": "If I were rich, I would have bought that house last year.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I am rich, I would have bought that house last year."
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals with present condition and past result require 'were' in the if-clause and 'would have + past participle' in the main clause.",
+                "ru": "Смешанные условные предложения с настоящим условием и прошлым результатом требуют 'were' в условной части и 'would have + причастие прошедшего времени' в главной части.",
+                "uz": "Hozirgi shart va o'tmishdagi natijali aralash shartli gaplarda if-qismida 'were' va asosiy qismida 'would have + o'tmish sifatdoshi' talab qilinadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct mixed conditional.",
+                "ru": "Выберите грамматически правильное смешанное условное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri aralash shartli gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If you had left earlier, you wouldn't be stuck in traffic now.",
+                    "correct": true
+                },
+                {
+                    "answer": "If you left earlier, you wouldn't have been stuck in traffic now."
+                },
+                {
+                    "answer": "If you have left earlier, you wouldn't be stuck in traffic now."
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional correctly combines past perfect in the if-clause with conditional present in the main clause to show how a past action affects the present situation.",
+                "ru": "Это смешанное условное предложение правильно объединяет past perfect в условной части с условным настоящим в главной части, чтобы показать, как прошлое действие влияет на настоящую ситуацию.",
+                "uz": "Bu aralash shartli gap if-qismida past perfect ni asosiy qismida shartli hozirgi zamon bilan to'g'ri birlashtiradi, bu o'tmishdagi harakat hozirgi vaziyatga qanday ta'sir qilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows the correct form of a mixed conditional with future implication?",
+                "ru": "Какое предложение показывает правильную форму смешанного условного предложения с будущим подтекстом?",
+                "uz": "Qaysi gap kelajakka ishora qiluvchi aralash shartli gapning to'g'ri shaklini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "If I had taken that job, I will be living in Paris next year."
+                },
+                {
+                    "answer": "If I had taken that job, I would be living in Paris next year.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I took that job, I would have been living in Paris next year."
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals expressing future consequences of past actions use 'would be + -ing' to show continuing future states.",
+                "ru": "Смешанные условные предложения, выражающие будущие последствия прошлых действий, используют 'would be + -ing' для обозначения продолжающихся будущих состояний.",
+                "uz": "O'tmishdagi harakatlarning kelajakdagi oqibatlarini ifodalovchi aralash shartli gaplar davom etadigan kelajak holatlarini ko'rsatish uchun 'would be + -ing' dan foydalanadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct mixed conditional sentence.",
+                "ru": "Выберите правильное смешанное условное предложение.",
+                "uz": "To'g'ri aralash shartli gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If she were more organized, she wouldn't missed the deadline yesterday."
+                },
+                {
+                    "answer": "If she were more organized, she wouldn't have missed the deadline yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "If she was more organized, she wouldn't miss the deadline yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional correctly uses present subjunctive 'were' with past perfect result to show how a present characteristic would have affected a past event.",
+                "ru": "Это смешанное условное предложение правильно использует настоящее сослагательное наклонение 'were' с результатом в past perfect, чтобы показать, как настоящая характеристика повлияла бы на прошлое событие.",
+                "uz": "Bu aralash shartli gap hozirgi xususiyat o'tmishdagi hodisaga qanday ta'sir qilishini ko'rsatish uchun hozirgi soslагательное наклонение 'were' ni past perfect natijasi bilan to'g'ri ishlatadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which mixed conditional correctly expresses an unreal past condition affecting the present?",
+                "ru": "Какое смешанное условное предложение правильно выражает нереальное прошлое условие, влияющее на настоящее?",
+                "uz": "Qaysi aralash shartli gap hozirgi zamonga ta'sir qiluvchi haqiqiy bo'lmagan o'tmishdagi shartni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "If they had invested wisely, they would have more money now.",
+                    "correct": true
+                },
+                {
+                    "answer": "If they invested wisely, they would have had more money now."
+                },
+                {
+                    "answer": "If they have invested wisely, they would have more money now."
+                }
+            ],
+            "explanation": {
+                "en": "This structure correctly combines past perfect (had invested) with present conditional (would have) to show past actions affecting current situations.",
+                "ru": "Эта структура правильно объединяет past perfect (had invested) с настоящим условным (would have), чтобы показать влияние прошлых действий на текущие ситуации.",
+                "uz": "Bu struktura o'tmishdagi harakatlarning hozirgi vaziyatlarga ta'sirini ko'rsatish uchun past perfect (had invested) ni hozirgi shartli (would have) bilan to'g'ri birlashtiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If I wasn't so tired, I would have finished the project last night."
+                },
+                {
+                    "answer": "If I weren't so tired, I would have finished the project last night.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I am not so tired, I would have finished the project last night."
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals use 'weren't' in present unreal conditions affecting past results, combined with 'would have + past participle'.",
+                "ru": "Смешанные условные предложения используют 'weren't' в настоящих нереальных условиях, влияющих на прошлые результаты, в сочетании с 'would have + причастие прошедшего времени'.",
+                "uz": "Aralash shartli gaplar o'tmishdagi natijalarga ta'sir qiluvchi hozirgi haqiqiy bo'lmagan shartlarda 'weren't' ni 'would have + o'tmish sifatdoshi' bilan birlashtiradi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence demonstrates the correct mixed conditional structure?",
+                "ru": "Какое предложение демонстрирует правильную структуру смешанного условного предложения?",
+                "uz": "Qaysi gap aralash shartli gapning to'g'ri strukturasini namoyish etadi?"
+            },
+            "options": [
+                {
+                    "answer": "If he has learned to drive, he wouldn't need public transport now."
+                },
+                {
+                    "answer": "If he had learned to drive, he wouldn't need public transport now.",
+                    "correct": true
+                },
+                {
+                    "answer": "If he learned to drive, he wouldn't have needed public transport now."
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional correctly shows how a past action (learning to drive) would affect a present situation (needing transport).",
+                "ru": "Это смешанное условное предложение правильно показывает, как прошлое действие (изучение вождения) повлияло бы на настоящую ситуацию (потребность в транспорте).",
+                "uz": "Bu aralash shartli gap o'tmishdagi harakat (haydashni o'rganish) hozirgi vaziyatga (transportga ehtiyoj) qanday ta'sir qilishini to'g'ri ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct mixed conditional.",
+                "ru": "Выберите грамматически правильное смешанное условное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri aralash shartli gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If you were a better listener, you would understand what happened yesterday."
+                },
+                {
+                    "answer": "If you were a better listener, you would have understood what happened yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "If you are a better listener, you would have understood what happened yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional correctly uses present subjunctive condition with past perfect result to show how current traits affect understanding of past events.",
+                "ru": "Это смешанное условное предложение правильно использует настоящее сослагательное наклонение с результатом в past perfect, чтобы показать, как текущие черты влияют на понимание прошлых событий.",
+                "uz": "Bu aralash shartli gap hozirgi xususiyatlar o'tmishdagi hodisalarni tushunishga qanday ta'sir qilishini ko'rsatish uchun hozirgi subjunctive shartini past perfect natijasi bilan to'g'ri ishlatadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which mixed conditional sentence is correct?",
+                "ru": "Какое смешанное условное предложение правильное?",
+                "uz": "Qaysi aralash shartli gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "If the weather had been better, we will be at the beach now."
+                },
+                {
+                    "answer": "If the weather had been better, we would be at the beach now.",
+                    "correct": true
+                },
+                {
+                    "answer": "If the weather was better, we would have been at the beach now."
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals connecting past conditions to present results use 'had been' in the if-clause and 'would be' in the main clause.",
+                "ru": "Смешанные условные предложения, связывающие прошлые условия с настоящими результатами, используют 'had been' в условной части и 'would be' в главной части.",
+                "uz": "O'tmishdagi shartlarni hozirgi natijalar bilan bog'lovchi aralash shartli gaplar if-qismida 'had been' va asosiy qismida 'would be' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the mixed conditional: If I had studied harder, I ___ a better job now.",
+                "ru": "Дополните смешанное условное предложение: If I had studied harder, I ___ a better job now.",
+                "uz": "Aralash shartli gapni to'ldiring: If I had studied harder, I ___ a better job now."
+            },
+            "options": [
+                {
+                    "answer": "would have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals with past conditions affecting present results use 'would have' to express the present consequence.",
+                "ru": "Смешанные условные предложения с прошлыми условиями, влияющими на настоящие результаты, используют 'would have' для выражения настоящего последствия.",
+                "uz": "Hozirgi natijalarga ta'sir qiluvchi o'tmishdagi shartli aralash shartli gaplar hozirgi oqibatni ifodalash uchun 'would have' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If she weren't so stubborn, she ___ apologized yesterday.",
+                "ru": "Дополните предложение: If she weren't so stubborn, she ___ apologized yesterday.",
+                "uz": "Gapni to'ldiring: If she weren't so stubborn, she ___ apologized yesterday."
+            },
+            "options": [
+                {
+                    "answer": "would have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional uses present condition (weren't) with past result (would have apologized).",
+                "ru": "Это смешанное условное предложение использует настоящее условие (weren't) с прошлым результатом (would have apologized).",
+                "uz": "Bu aralash shartli gap hozirgi shartni (weren't) o'tmishdagi natija (would have apologized) bilan ishlatadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: If they had saved money, they ___ traveling around Europe now.",
+                "ru": "Заполните пропуск: If they had saved money, they ___ traveling around Europe now.",
+                "uz": "Bo'shliqni to'ldiring: If they had saved money, they ___ traveling around Europe now."
+            },
+            "options": [
+                {
+                    "answer": "would be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals expressing ongoing present results from past actions use 'would be + -ing'.",
+                "ru": "Смешанные условные предложения, выражающие продолжающиеся настоящие результаты прошлых действий, используют 'would be + -ing'.",
+                "uz": "O'tmishdagi harakatlardan davom etadigan hozirgi natijalarni ifodalovchi aralash shartli gaplar 'would be + -ing' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: If he were more confident, he ___ asked her out last week.",
+                "ru": "Дополните: If he were more confident, he ___ asked her out last week.",
+                "uz": "To'ldiring: If he were more confident, he ___ asked her out last week."
+            },
+            "options": [
+                {
+                    "answer": "would have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present personality traits affecting past actions require 'would have + past participle' in mixed conditionals.",
+                "ru": "Черты характера в настоящем, влияющие на прошлые действия, требуют 'would have + причастие прошедшего времени' в смешанных условных предложениях.",
+                "uz": "O'tmishdagi harakatlarga ta'sir qiluvchi hozirgi shaxsiyat xususiyatlari aralash shartli gaplarda 'would have + o'tmish sifatdoshi' ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the blank: If I ___ taken that course, I would understand programming now.",
+                "ru": "Заполните пропуск: If I ___ taken that course, I would understand programming now.",
+                "uz": "Bo'shliqni to'ldiring: If I ___ taken that course, I would understand programming now."
+            },
+            "options": [
+                {
+                    "answer": "had",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had taken' is required in the if-clause of mixed conditionals with past conditions and present results.",
+                "ru": "Past perfect 'had taken' требуется в условной части смешанных условных предложений с прошлыми условиями и настоящими результатами.",
+                "uz": "O'tmishdagi shartlar va hozirgi natijalar bilan aralash shartli gaplarning if-qismida past perfect 'had taken' talab qilinadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: If you weren't so impatient, you ___ made that mistake yesterday.",
+                "ru": "Дополните: If you weren't so impatient, you ___ made that mistake yesterday.",
+                "uz": "To'ldiring: If you weren't so impatient, you ___ made that mistake yesterday."
+            },
+            "options": [
+                {
+                    "answer": "wouldn't have/would not have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals with present traits affecting past events use negative 'wouldn't have' for avoided past results.",
+                "ru": "Смешанные условные предложения с настоящими чертами, влияющими на прошлые события, используют отрицательное 'wouldn't have' для избежанных прошлых результатов.",
+                "uz": "O'tmishdagi hodisalarga ta'sir qiluvchi hozirgi xususiyatlar bilan aralash shartli gaplar qochilgan o'tmishdagi natijalar uchun salbiy 'wouldn't have' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in: If she had moved to London, she ___ working there now.",
+                "ru": "Заполните: If she had moved to London, she ___ working there now.",
+                "uz": "To'ldiring: If she had moved to London, she ___ working there now."
+            },
+            "options": [
+                {
+                    "answer": "would be",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This mixed conditional shows ongoing present consequences of past decisions using 'would be + -ing'.",
+                "ru": "Это смешанное условное предложение показывает продолжающиеся настоящие последствия прошлых решений, используя 'would be + -ing'.",
+                "uz": "Bu aralash shartli gap 'would be + -ing' dan foydalanib, o'tmishdagi qarorlarning davom etayotgan hozirgi oqibatlarini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: If we were better organized, we ___ missed the deadline.",
+                "ru": "Дополните: If we were better organized, we ___ missed the deadline.",
+                "uz": "To'ldiring: If we were better organized, we ___ missed the deadline."
+            },
+            "options": [
+                {
+                    "answer": "wouldn't have/would not have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present characteristics preventing past problems use 'wouldn't have' in mixed conditionals.",
+                "ru": "Настоящие характеристики, предотвращающие прошлые проблемы, используют 'wouldn't have' в смешанных условных предложениях.",
+                "uz": "O'tmishdagi muammolarni oldini oluvchi hozirgi xususiyatlar aralash shartli gaplarda 'wouldn't have' dan foydalanadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill the gap: If I had learned Spanish, I ___ communicate with them now.",
+                "ru": "Заполните пропуск: If I had learned Spanish, I ___ communicate with them now.",
+                "uz": "Bo'shliqni to'ldiring: If I had learned Spanish, I ___ communicate with them now."
+            },
+            "options": [
+                {
+                    "answer": "could",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals can use 'could' to express present ability resulting from past learning or experience.",
+                "ru": "Смешанные условные предложения могут использовать 'could' для выражения настоящей способности, являющейся результатом прошлого обучения или опыта.",
+                "uz": "Aralash shartli gaplar o'tmishdagi ta'lim yoki tajribadan kelib chiqqan hozirgi qobiliyatni ifodalash uchun 'could' dan foydalanishi mumkin."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete: If they weren't so competitive, they ___ enjoyed the game more yesterday.",
+                "ru": "Дополните: If they weren't so competitive, they ___ enjoyed the game more yesterday.",
+                "uz": "To'ldiring: If they weren't so competitive, they ___ enjoyed the game more yesterday."
+            },
+            "options": [
+                {
+                    "answer": "would have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Mixed conditionals expressing how present traits would have affected past experiences use 'would have + past participle'.",
+                "ru": "Смешанные условные предложения, выражающие то, как настоящие черты повлияли бы на прошлый опыт, используют 'would have + причастие прошедшего времени'.",
+                "uz": "Hozirgi xususiyatlar o'tmishdagi tajribalarga qanday ta'sir qilishini ifodalovchi aralash shartli gaplar 'would have + o'tmish sifatdoshi' dan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah often reflects on how different her life ___1___ be if she had made different choices in the past. If she ___2___ accepted that job offer in Tokyo five years ago, she ___3___ be living in Japan now, experiencing a completely different culture. Instead, she stayed in her hometown and ___4___ her current position at the local university. Sometimes she wonders: if she ___5___ more adventurous by nature, ___6___ she have taken that leap? The truth is, if she ___7___ been offered that position, she probably ___8___ still be working at the same small company she started at after graduation. Her conservative personality means that even if opportunities ___9___ presented themselves in the past, she ___10___ have always chosen the safer option. However, she realizes that if she ___11___ taken more risks earlier in her career, she ___12___ not be as financially stable as she is today. If she ___13___ more confident in her abilities back then, she ___14___ have pursued her dream of becoming a travel writer, and she ___15___ be publishing articles about exotic destinations right now instead of teaching literature.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "accepted"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "would"
+                },
+                {
+                    "blank": "7",
+                    "answer": "hadn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "would"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had"
+                },
+                {
+                    "blank": "10",
+                    "answer": "would"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were"
+                },
+                {
+                    "blank": "14",
+                    "answer": "would"
+                },
+                {
+                    "blank": "15",
+                    "answer": "would"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates various mixed conditional structures combining past conditions with present results, and present characteristics with past consequences, using appropriate modal verbs and perfect tenses.",
+                "ru": "Этот отрывок демонстрирует различные структуры смешанных условных предложений, объединяющие прошлые условия с настоящими результатами, и настоящие характеристики с прошлыми последствиями, используя соответствующие модальные глаголы и перфектные времена.",
+                "uz": "Bu parcha turli xil aralash shartli gap strukturalarini namoyish etadi, bu o'tmishdagi shartlarni hozirgi natijalar bilan va hozirgi xususiyatlarni o'tmishdagi oqibatlar bilan birlashtiradi, tegishli modal fe'llar va mukammal zamonlardan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The concept of regret is intimately connected with mixed conditionals, as we constantly imagine how things ___1___ be different if past events had unfolded differently. Consider Tom, who dropped out of university twenty years ago to start his own business. If he ___2___ completed his degree back then, he ___3___ have the credentials needed for certain positions today. However, his entrepreneurial experience has taught him valuable lessons that formal education ___4___ not have provided. Tom often thinks about alternative scenarios: if he ___5___ more patient and less impulsive in his youth, he ___6___ have made different decisions about his education and career path. The interesting thing about mixed conditionals is how they reveal the complex web of cause and effect between different time periods. If Tom ___7___ the kind of person who values security over adventure, he ___8___ have stayed in university and ___9___ be working for a large corporation now. Instead, his risk-taking nature led him to entrepreneurship, and although he sometimes struggles financially, he ___10___ change his path if he ___11___ the chance to relive those moments. His current situation demonstrates that if we ___12___ made different choices in the past, our present circumstances ___13___ be entirely different, but not necessarily better or worse. Mixed conditionals help us express these nuanced relationships between past actions and present realities, showing that life is full of complex ___14___ and consequences that span across different time periods.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "would"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "would"
+                },
+                {
+                    "blank": "9",
+                    "answer": "would"
+                },
+                {
+                    "blank": "10",
+                    "answer": "wouldn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would"
+                },
+                {
+                    "blank": "14",
+                    "answer": "interactions"
+                }
+            ],
+            "explanation": {
+                "en": "This passage explores mixed conditionals through the lens of personal choice and regret, demonstrating how present characteristics affect past decisions and how past actions influence current situations.",
+                "ru": "Этот отрывок исследует смешанные условные предложения через призму личного выбора и сожаления, демонстрируя, как настоящие характеристики влияют на прошлые решения и как прошлые действия влияют на текущие ситуации.",
+                "uz": "Bu parcha shaxsiy tanlov va afsuslanish nuqtai nazaridan aralash shartli gaplarni o'rganadi, hozirgi xususiyatlar o'tmishdagi qarorlarga qanday ta'sir qilishini va o'tmishdagi harakatlar joriy vaziyatlarga qanday ta'sir qilishini namoyish etadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Climate change presents us with countless examples of mixed conditionals, as we grapple with how past actions affect our present situation and how current behaviors ___1___ have prevented past environmental damage. If governments ___2___ taken more decisive action on carbon emissions thirty years ago, we ___3___ not be facing such severe weather patterns today. The scientific community has been warning about these consequences for decades, but if politicians ___4___ more willing to prioritize long-term thinking over short-term economic gains, they ___5___ have implemented stricter environmental policies much earlier. Now we face a situation where if we ___6___ more environmentally conscious as a global society, we ___7___ have avoided many of the climate disasters we experienced last year. The complexity of climate science means that if researchers ___8___ access to current technology and data in the 1990s, they ___9___ have been able to make more accurate predictions about the timeline of climate change. Today's young activists often express frustration: if older generations ___10___ more responsible stewards of the environment, the current generation ___11___ not be inheriting such a damaged planet. However, mixed conditionals also offer hope for the future. If we ___12___ more committed to renewable energy now, we ___13___ still avoid the worst-case scenarios that scientists ___14___ predicted for the coming decades. The key is understanding that while we cannot change past mistakes, our present actions ___15___ determine what future generations will inherit.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "were"
+                },
+                {
+                    "blank": "5",
+                    "answer": "would"
+                },
+                {
+                    "blank": "6",
+                    "answer": "were"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had"
+                },
+                {
+                    "blank": "9",
+                    "answer": "would"
+                },
+                {
+                    "blank": "10",
+                    "answer": "were"
+                },
+                {
+                    "blank": "11",
+                    "answer": "would"
+                },
+                {
+                    "blank": "12",
+                    "answer": "were"
+                },
+                {
+                    "blank": "13",
+                    "answer": "could"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses mixed conditionals to explore environmental issues, showing how past decisions affect present conditions and how present characteristics influence both past possibilities and future outcomes.",
+                "ru": "Этот отрывок использует смешанные условные предложения для исследования экологических проблем, показывая, как прошлые решения влияют на настоящие условия и как настоящие характеристики влияют как на прошлые возможности, так и на будущие результаты.",
+                "uz": "Bu parcha ekologik muammolarni o'rganish uchun aralash shartli gaplardan foydalanadi, o'tmishdagi qarorlar hozirgi sharoitlarga qanday ta'sir qilishini va hozirgi xususiyatlar o'tmishdagi imkoniyatlarga ham, kelajakdagi natijalarga ham qanday ta'sir qilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The relationship between technology and human behavior offers fascinating insights into mixed conditionals. Consider how social media ___1___ have changed if the internet had developed differently in the 1990s. If early internet pioneers ___2___ focused more on privacy and security from the beginning, we ___3___ not be dealing with current issues of data breaches and online harassment. Maria, a digital native who grew up with smartphones, often reflects on how her social skills ___4___ be different if she ___5___ been born twenty years earlier. She realizes that if she ___6___ more comfortable with face-to-face communication, she ___7___ have developed deeper friendships during her teenage years. The paradox is clear: if technology companies ___8___ prioritized user wellbeing over engagement metrics, young people like Maria ___9___ be experiencing less anxiety and depression today. However, the benefits are undeniable. If her grandmother ___10___ learned to use video calling technology before the pandemic, she ___11___ have felt so isolated during lockdown. Mixed conditionals help us understand these complex technology-human relationships. If society ___12___ been more cautious about adopting new technologies, we ___13___ have avoided some negative consequences, but we also ___14___ have missed incredible opportunities for connection and learning. The key question remains: if we ___15___ wiser about balancing technology use with human connection, how different would our relationships be today?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "were"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had"
+                },
+                {
+                    "blank": "9",
+                    "answer": "would"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had"
+                },
+                {
+                    "blank": "11",
+                    "answer": "wouldn't"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had"
+                },
+                {
+                    "blank": "13",
+                    "answer": "might"
+                },
+                {
+                    "blank": "14",
+                    "answer": "would"
+                },
+                {
+                    "blank": "15",
+                    "answer": "were"
+                }
+            ],
+            "explanation": {
+                "en": "This passage examines technology's impact through mixed conditionals, exploring how past technological decisions affect current social behavior and how present digital habits would have influenced past experiences.",
+                "ru": "Этот отрывок исследует влияние технологий через смешанные условные предложения, изучая, как прошлые технологические решения влияют на текущее социальное поведение и как настоящие цифровые привычки повлияли бы на прошлый опыт.",
+                "uz": "Bu parcha aralash shartli gaplar orqali texnologiyaning ta'sirini o'rganadi, o'tmishdagi texnologik qarorlar hozirgi ijtimoiy xatti-harakatlarga qanday ta'sir qilishini va hozirgi raqamli odatlar o'tmishdagi tajribalarga qanday ta'sir qilishini o'rganadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Education systems around the world demonstrate perfect examples of mixed conditionals in action. If traditional teaching methods ___1___ been replaced with more interactive approaches decades ago, students today ___2___ be more engaged and creative in their learning. Professor Johnson, who has taught for thirty years, often contemplates how his teaching ___3___ have evolved if he ___4___ more open to technological innovation from the start of his career. He admits that if he ___5___ less resistant to change, his students ___6___ have benefited from more dynamic learning experiences throughout the years. The current generation of learners faces unique challenges. If educational institutions ___7___ better prepared students for the digital economy, recent graduates ___8___ not be struggling to find relevant employment now. Emma, a recent university graduate, believes that if her professors ___9___ more industry experience, she ___10___ have learned practical skills that employers actually value. The gap between academic theory and real-world application continues to widen. If curriculum designers ___11___ more collaborative with industry professionals, educational programs ___12___ be producing graduates who are better prepared for modern careers. Looking toward the future, if educational systems ___13___ more flexible and adaptable now, they ___14___ better serve students who will face rapidly changing job markets. Mixed conditionals in education reveal how past pedagogical decisions continue to influence present learning outcomes, and how current educational philosophies ___15___ shape the workforce of tomorrow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "would"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "were"
+                },
+                {
+                    "blank": "5",
+                    "answer": "were"
+                },
+                {
+                    "blank": "6",
+                    "answer": "would"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had"
+                },
+                {
+                    "blank": "8",
+                    "answer": "would"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had"
+                },
+                {
+                    "blank": "10",
+                    "answer": "would"
+                },
+                {
+                    "blank": "11",
+                    "answer": "were"
+                },
+                {
+                    "blank": "12",
+                    "answer": "would"
+                },
+                {
+                    "blank": "13",
+                    "answer": "were"
+                },
+                {
+                    "blank": "14",
+                    "answer": "could"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This passage uses mixed conditionals to analyze educational systems, showing how past teaching methods affect current student outcomes and how present educational approaches influence future career readiness.",
+                "ru": "Этот отрывок использует смешанные условные предложения для анализа образовательных систем, показывая, как прошлые методы обучения влияют на текущие результаты студентов и как современные образовательные подходы влияют на готовность к будущей карьере.",
+                "uz": "Bu parcha ta'lim tizimlarini tahlil qilish uchun aralash shartli gaplardan foydalanadi, o'tmishdagi o'qitish usullari hozirgi talabalar natijalariga qanday ta'sir qilishini va hozirgi ta'lim yondashuvlari kelajakdagi martaba tayyorligiga qanday ta'sir qilishini ko'rsatadi."
+            }
+        }
+    ]
+}

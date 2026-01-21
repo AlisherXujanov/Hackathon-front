@@ -1,0 +1,697 @@
+{
+    "id": "A2_HAVE_TO_DONT_HAVE_TO_MUST_MUSTNT_OBLIGATION_AND_NECESSITY",
+    "title": "Have to, don't have to, must, mustn't - Obligation and necessity",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You don't must smoke here."
+                },
+                {
+                    "answer": "You mustn't smoke here.",
+                    "correct": true
+                },
+                {
+                    "answer": "You haven't to smoke here."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'mustn't' for prohibition. 'Don't must' and 'haven't to' are incorrect forms.",
+                "ru": "Используйте 'mustn't' для запрета. 'Don't must' и 'haven't to' - неправильные формы.",
+                "uz": "'Mustn't' taqiq uchun ishlatiladi. 'Don't must' va 'haven't to' noto'g'ri shakllardir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I must to go now."
+                },
+                {
+                    "answer": "I have go now."
+                },
+                {
+                    "answer": "I have to go now.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Have to' expresses necessity and obligation. Don't add 'to' after 'must'.",
+                "ru": "'Have to' выражает необходимость и обязанность. Не добавляйте 'to' после 'must'.",
+                "uz": "'Have to' zarurat va majburiyatni bildiradi. 'Must'dan keyin 'to' qo'shmang."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She doesn't have to work on Sunday.",
+                    "correct": true
+                },
+                {
+                    "answer": "She don't have to work on Sunday."
+                },
+                {
+                    "answer": "She hasn't to work on Sunday."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'doesn't have to' with third person singular. 'Don't have to' is for other persons.",
+                "ru": "Используйте 'doesn't have to' с третьим лицом единственного числа. 'Don't have to' для других лиц.",
+                "uz": "Uchinchi shaxs birlik uchun 'doesn't have to' ishlatiladi. 'Don't have to' boshqa shaxslar uchun."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We must be quiet in the library.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have be quiet in the library."
+                },
+                {
+                    "answer": "We must to be quiet in the library."
+                }
+            ],
+            "explanation": {
+                "en": "'Must' is followed directly by the base form of the verb without 'to'.",
+                "ru": "После 'must' идет базовая форма глагола без 'to'.",
+                "uz": "'Must'dan keyin 'to' qo'shilmasdan fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Do you must wear a uniform?"
+                },
+                {
+                    "answer": "Must you wear a uniform?"
+                },
+                {
+                    "answer": "Do you have to wear a uniform?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'have to' use 'do/does'. Questions with 'must' don't use 'do'.",
+                "ru": "Вопросы с 'have to' используют 'do/does'. Вопросы с 'must' не используют 'do'.",
+                "uz": "'Have to' bilan savollarda 'do/does' ishlatiladi. 'Must' bilan savollarda 'do' ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Students mustn't use mobile phones during exams.",
+                    "correct": true
+                },
+                {
+                    "answer": "Students don't must use mobile phones during exams."
+                },
+                {
+                    "answer": "Students haven't to use mobile phones during exams."
+                }
+            ],
+            "explanation": {
+                "en": "'Mustn't' expresses prohibition - something is not allowed.",
+                "ru": "'Mustn't' выражает запрет - что-то не разрешено.",
+                "uz": "'Mustn't' taqiqni bildiradi - biror narsa ruxsat etilmagan."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You don't have to come if you don't want to.",
+                    "correct": true
+                },
+                {
+                    "answer": "You mustn't come if you don't want to."
+                },
+                {
+                    "answer": "You haven't come if you don't want to."
+                }
+            ],
+            "explanation": {
+                "en": "'Don't have to' means it's not necessary. 'Mustn't' means it's forbidden.",
+                "ru": "'Don't have to' означает, что это не обязательно. 'Mustn't' означает, что это запрещено.",
+                "uz": "'Don't have to' majburiy emasligini bildiradi. 'Mustn't' taqiqlanganligini bildiradi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He musts finish his homework."
+                },
+                {
+                    "answer": "He must finish his homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "He must to finish his homework."
+                }
+            ],
+            "explanation": {
+                "en": "'Must' doesn't change form and is followed by the base verb without 'to'.",
+                "ru": "'Must' не изменяется по формам и за ним следует базовый глагол без 'to'.",
+                "uz": "'Must' shaklini o'zgartirmaydi va undan keyin 'to'siz asosiy fe'l keladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Does she has to work late?"
+                },
+                {
+                    "answer": "Does she have to work late?",
+                    "correct": true
+                },
+                {
+                    "answer": "Must she has to work late?"
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'have to' use 'do/does' + subject + 'have to' + base verb.",
+                "ru": "Вопросы с 'have to' используют 'do/does' + подлежащее + 'have to' + базовый глагол.",
+                "uz": "'Have to' bilan savollarda 'do/does' + ega + 'have to' + asosiy fe'l ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Children mustn't play with fire.",
+                    "correct": true
+                },
+                {
+                    "answer": "Children don't must play with fire."
+                },
+                {
+                    "answer": "Children haven't to play with fire."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'mustn't' to express strong prohibition for safety rules.",
+                "ru": "Используйте 'mustn't' для выражения строгого запрета в правилах безопасности.",
+                "uz": "Xavfsizlik qoidalarida qat'iy taqiq uchun 'mustn't' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ wear a seatbelt in the car.",
+                "ru": "Дополните предложение: You ___ wear a seatbelt in the car.",
+                "uz": "Gapni to'ldiring: You ___ wear a seatbelt in the car."
+            },
+            "options": [
+                {
+                    "answer": "must/have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'must' or 'have to' to express obligation or legal requirement.",
+                "ru": "Используйте 'must' или 'have to' для выражения обязанности или законного требования.",
+                "uz": "Majburiyat yoki qonuniy talabni bildirish uchun 'must' yoki 'have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ come to the party if she doesn't want to.",
+                "ru": "Дополните предложение: She ___ come to the party if she doesn't want to.",
+                "uz": "Gapni to'ldiring: She ___ come to the party if she doesn't want to."
+            },
+            "options": [
+                {
+                    "answer": "doesn't have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'doesn't have to' to express that something is not necessary.",
+                "ru": "Используйте 'doesn't have to' для выражения того, что что-то не обязательно.",
+                "uz": "Biror narsa majburiy emasligini bildirish uchun 'doesn't have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ talk loudly in the hospital.",
+                "ru": "Дополните предложение: We ___ talk loudly in the hospital.",
+                "uz": "Gapni to'ldiring: We ___ talk loudly in the hospital."
+            },
+            "options": [
+                {
+                    "answer": "mustn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'mustn't' to express prohibition - something is not allowed.",
+                "ru": "Используйте 'mustn't' для выражения запрета - что-то не разрешено.",
+                "uz": "Taqiqni bildirish uchun 'mustn't' ishlatiladi - biror narsa ruxsat etilmagan."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Do you ___ work on weekends?",
+                "ru": "Дополните предложение: Do you ___ work on weekends?",
+                "uz": "Gapni to'ldiring: Do you ___ work on weekends?"
+            },
+            "options": [
+                {
+                    "answer": "have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In questions, use 'do/does + have to' to ask about obligation.",
+                "ru": "В вопросах используйте 'do/does + have to' для вопроса об обязанности.",
+                "uz": "Savollarda majburiyat haqida so'rash uchun 'do/does + have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Students ___ cheat during tests.",
+                "ru": "Дополните предложение: Students ___ cheat during tests.",
+                "uz": "Gapni to'ldiring: Students ___ cheat during tests."
+            },
+            "options": [
+                {
+                    "answer": "mustn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Mustn't' expresses strong prohibition in rules and regulations.",
+                "ru": "'Mustn't' выражает строгий запрет в правилах и предписаниях.",
+                "uz": "'Mustn't' qoidalar va nizomda qat'iy taqiqni bildiradi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ buy milk today because we have enough.",
+                "ru": "Дополните предложение: I ___ buy milk today because we have enough.",
+                "uz": "Gapni to'ldiring: I ___ buy milk today because we have enough."
+            },
+            "options": [
+                {
+                    "answer": "don't have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'don't have to' when something is not necessary.",
+                "ru": "Используйте 'don't have to', когда что-то не обязательно.",
+                "uz": "Biror narsa zarur bo'lmaganda 'don't have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ finish the report by tomorrow.",
+                "ru": "Дополните предложение: He ___ finish the report by tomorrow.",
+                "uz": "Gapni to'ldiring: He ___ finish the report by tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "must/has to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'must' or 'has to' for obligation with third person singular.",
+                "ru": "Используйте 'must' или 'has to' для обязанности с третьим лицом единственного числа.",
+                "uz": "Uchinchi shaxs birlik bilan majburiyat uchun 'must' yoki 'has to' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ smoke in public places.",
+                "ru": "Дополните предложение: You ___ smoke in public places.",
+                "uz": "Gapni to'ldiring: You ___ smoke in public places."
+            },
+            "options": [
+                {
+                    "answer": "mustn't",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Mustn't' expresses legal prohibition in public places.",
+                "ru": "'Mustn't' выражает законный запрет в общественных местах.",
+                "uz": "'Mustn't' jamoat joylarida qonuniy taqiqni bildiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Does she ___ wake up early tomorrow?",
+                "ru": "Дополните предложение: Does she ___ wake up early tomorrow?",
+                "uz": "Gapni to'ldiring: Does she ___ wake up early tomorrow?"
+            },
+            "options": [
+                {
+                    "answer": "have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'have to' use 'do/does' before the subject.",
+                "ru": "Вопросы с 'have to' используют 'do/does' перед подлежащим.",
+                "uz": "'Have to' bilan savollarda egadan oldin 'do/does' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Children ___ eat vegetables to stay healthy.",
+                "ru": "Дополните предложение: Children ___ eat vegetables to stay healthy.",
+                "uz": "Gapni to'ldiring: Children ___ eat vegetables to stay healthy."
+            },
+            "options": [
+                {
+                    "answer": "must/have to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'must' or 'have to' to express necessity for health.",
+                "ru": "Используйте 'must' или 'have to' для выражения необходимости для здоровья.",
+                "uz": "Sog'liq uchun zarurlikni bildirish uchun 'must' yoki 'have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "School Rules and Regulations\n\nEvery student ___1___ follow the school rules to maintain a safe and positive learning environment. Students ___2___ arrive at school on time every day, and they ___3___ wear their school uniform properly. However, students ___4___ bring lunch from home if they prefer, as the school cafeteria is optional.\n\nIn the classroom, students ___5___ raise their hand before speaking and they ___6___ listen carefully when the teacher is explaining. Students ___7___ use their mobile phones during lessons as this disturbs other learners. They ___8___ keep their phones in their bags or lockers.\n\nDuring examinations, students ___9___ cheat or help other students. This is strictly forbidden and can result in serious consequences. Students ___10___ bring any unauthorized materials into the exam room, including notes or electronic devices.\n\nFor homework, students ___11___ complete all assignments on time, but they ___12___ stay after school to finish them if they need extra help from teachers. The library is available for those who ___13___ work in a quiet environment.\n\nFinally, all students ___14___ respect their teachers and classmates. They ___15___ use polite language and treat everyone with kindness and consideration.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "must"
+                },
+                {
+                    "blank": "4",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "5",
+                    "answer": "must"
+                },
+                {
+                    "blank": "6",
+                    "answer": "must"
+                },
+                {
+                    "blank": "7",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "must"
+                },
+                {
+                    "blank": "9",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must"
+                },
+                {
+                    "blank": "12",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have to"
+                },
+                {
+                    "blank": "14",
+                    "answer": "must"
+                },
+                {
+                    "blank": "15",
+                    "answer": "must"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the use of 'must' for obligations and rules, 'mustn't' for prohibitions, 'have to' for external necessities, and 'don't have to' for things that are not necessary.",
+                "ru": "Это упражнение демонстрирует использование 'must' для обязанностей и правил, 'mustn't' для запретов, 'have to' для внешних необходимостей и 'don't have to' для того, что не обязательно.",
+                "uz": "Bu mashq majburiyat va qoidalar uchun 'must', taqiqlar uchun 'mustn't', tashqi zaruriyatlar uchun 'have to' va majburiy bo'lmagan narsalar uchun 'don't have to' ishlatishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Living in a Shared Apartment\n\nWhen you live with roommates, there are certain rules everyone ___1___ follow to maintain harmony. First, you ___2___ keep common areas clean and tidy. This means you ___3___ wash your dishes immediately after eating and you ___4___ leave dirty clothes in the living room.\n\nRegarding noise, roommates ___5___ play loud music late at night because others need to sleep. However, you ___6___ be completely silent during the day as normal conversation and activities are acceptable. Everyone ___7___ respect each other's privacy and personal space.\n\nFor household expenses, each person ___8___ contribute their fair share for utilities and cleaning supplies. You ___9___ pay for your roommate's personal items, but shared expenses like electricity and internet ___10___ be split equally among everyone.\n\nGuests are welcome, but roommates ___11___ inform others in advance when someone is coming to stay overnight. You ___12___ ask permission for short visits, but longer stays require discussion with all residents.\n\nFinally, everyone ___13___ take turns with household chores like taking out the trash and cleaning the bathroom. Nobody ___14___ do everything alone, and everyone ___15___ participate in maintaining their shared home.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "must"
+                },
+                {
+                    "blank": "4",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "5",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "6",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "must"
+                },
+                {
+                    "blank": "8",
+                    "answer": "must"
+                },
+                {
+                    "blank": "9",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "must"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must"
+                },
+                {
+                    "blank": "12",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "must"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has to"
+                },
+                {
+                    "blank": "15",
+                    "answer": "must"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how modals of obligation work in real-life situations, using 'must' for necessary rules, 'mustn't' for things that are forbidden, and 'don't have to' for things that are optional.",
+                "ru": "Этот отрывок показывает, как модальные глаголы обязанности работают в реальных ситуациях, используя 'must' для необходимых правил, 'mustn't' для запрещенных вещей и 'don't have to' для необязательных вещей.",
+                "uz": "Bu parcha majburiyat modal fe'llari real hayot vaziyatlarida qanday ishlashini ko'rsatadi, zarur qoidalar uchun 'must', taqiqlangan narsalar uchun 'mustn't' va ixtiyoriy narsalar uchun 'don't have to' ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hospital Visiting Rules\n\nAll visitors ___1___ follow these important rules to ensure patient safety and comfort. You ___2___ check in at the reception desk before going to any patient room. Visitors ___3___ show identification and they ___4___ wear visitor badges at all times while in the hospital.\n\nFor patient wellbeing, visitors ___5___ speak quietly in corridors and patient rooms. You ___6___ bring flowers or gifts if you want to, but you ___7___ bring food without checking with the nursing staff first, as some patients have special dietary requirements.\n\nRegarding health safety, anyone who is feeling unwell ___8___ visit patients. You ___9___ come if you have a cold, fever, or any contagious illness. All visitors ___10___ wash their hands before entering patient rooms and again before leaving.\n\nVisiting hours are clearly posted, and visitors ___11___ respect these times. Emergency visits are possible, but you ___12___ get special permission from the medical staff. Children under 12 ___13___ be accompanied by an adult at all times.\n\nMobile phones ___14___ be turned off or set to silent mode throughout the hospital. You ___15___ use phones in designated areas only, as they can interfere with medical equipment in some areas.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "must"
+                },
+                {
+                    "blank": "2",
+                    "answer": "must"
+                },
+                {
+                    "blank": "3",
+                    "answer": "must"
+                },
+                {
+                    "blank": "4",
+                    "answer": "must"
+                },
+                {
+                    "blank": "5",
+                    "answer": "must"
+                },
+                {
+                    "blank": "6",
+                    "answer": "don't have to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "9",
+                    "answer": "mustn't"
+                },
+                {
+                    "blank": "10",
+                    "answer": "must"
+                },
+                {
+                    "blank": "11",
+                    "answer": "must"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "must"
+                },
+                {
+                    "blank": "14",
+                    "answer": "must"
+                },
+                {
+                    "blank": "15",
+                    "answer": "must"
+                }
+            ],
+            "explanation": {
+                "en": "This text demonstrates obligation and prohibition in a medical setting, showing when rules are mandatory ('must'), forbidden ('mustn't'), or optional ('don't have to').",
+                "ru": "Этот текст демонстрирует обязанности и запреты в медицинской обстановке, показывая, когда правила обязательны ('must'), запрещены ('mustn't') или необязательны ('don't have to').",
+                "uz": "Bu matn tibbiy muhitda majburiyat va taqiqlarni ko'rsatadi, qoidalar qachon majburiy ('must'), taqiqlangan ('mustn't') yoki ixtiyoriy ('don't have to') ekanligini namoyish etadi."
+            }
+        }
+    ]
+}

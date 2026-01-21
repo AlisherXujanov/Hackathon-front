@@ -1,0 +1,968 @@
+{
+    "id": "B2_FUTURE_PERFECT_COMPLETED_ACTIONS_BY_FUTURE_TIME",
+    "title": "Future Perfect - Completed actions by future time",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By 2030, they will completed their studies."
+                },
+                {
+                    "answer": "By 2030, they will have completed their studies.",
+                    "correct": true
+                },
+                {
+                    "answer": "By 2030, they will completing their studies."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect uses 'will have + past participle' to show actions completed before a future time point.",
+                "ru": "Future perfect использует 'will have + причастие прошедшего времени' для действий, завершенных до определенного момента в будущем.",
+                "uz": "Future perfect 'will have + o'tgan zamon sifatdoshi' yordamida kelajakdagi ma'lum vaqtdan oldin tugallanadigan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She will have finish the report by Friday."
+                },
+                {
+                    "answer": "She will have finished the report by Friday.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will finished the report by Friday."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect requires 'will have + past participle'. 'Finished' is the correct past participle of 'finish'.",
+                "ru": "Future perfect требует 'will have + причастие прошедшего времени'. 'Finished' - правильное причастие от 'finish'.",
+                "uz": "Future perfect 'will have + o'tgan zamon sifatdoshi' talab qiladi. 'Finished' - 'finish' fe'lining to'g'ri sifatdoshi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By next month, we will have been lived here for ten years."
+                },
+                {
+                    "answer": "By next month, we will have lived here for ten years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next month, we will have live here for ten years."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect uses 'will have + past participle'. 'Lived' is the past participle of 'live'.",
+                "ru": "Future perfect использует 'will have + причастие прошедшего времени'. 'Lived' - причастие от 'live'.",
+                "uz": "Future perfect 'will have + o'tgan zamon sifatdoshi' ishlatadi. 'Lived' - 'live' fe'lining sifatdoshi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "By the time you arrive, I will left already."
+                },
+                {
+                    "answer": "By the time you arrive, I will have left already.",
+                    "correct": true
+                },
+                {
+                    "answer": "By the time you arrive, I will have leave already."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect structure is 'will have + past participle'. 'Left' is the past participle of 'leave'.",
+                "ru": "Структура future perfect: 'will have + причастие прошедшего времени'. 'Left' - причастие от 'leave'.",
+                "uz": "Future perfect tuzilishi: 'will have + o'tgan zamon sifatdoshi'. 'Left' - 'leave' fe'lining sifatdoshi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They will have wrote the book by December."
+                },
+                {
+                    "answer": "They will have written the book by December.",
+                    "correct": true
+                },
+                {
+                    "answer": "They will have write the book by December."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect requires the past participle form. 'Written' is the past participle of 'write', not 'wrote'.",
+                "ru": "Future perfect требует форму причастия прошедшего времени. 'Written' - причастие от 'write', а не 'wrote'.",
+                "uz": "Future perfect o'tgan zamon sifatdoshi formasi talab qiladi. 'Written' - 'write' fe'lining sifatdoshi, 'wrote' emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Before the meeting starts, she will prepare the presentation."
+                },
+                {
+                    "answer": "Before the meeting starts, she will have prepared the presentation.",
+                    "correct": true
+                },
+                {
+                    "answer": "Before the meeting starts, she will be prepare the presentation."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows completion before a future time. The preparation will be completed before the meeting starts.",
+                "ru": "Future perfect показывает завершение до будущего времени. Подготовка будет завершена до начала встречи.",
+                "uz": "Future perfect kelajakdagi vaqtdan oldin tugallanishni ko'rsatadi. Tayyorgarlik yig'ilish boshlanishidan oldin tugallanadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By 2025, scientists will discovered a cure."
+                },
+                {
+                    "answer": "By 2025, scientists will have discovered a cure.",
+                    "correct": true
+                },
+                {
+                    "answer": "By 2025, scientists will have discover a cure."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect uses 'will have + past participle' to express actions completed by a specific future time.",
+                "ru": "Future perfect использует 'will have + причастие прошедшего времени' для действий, завершенных к определенному времени в будущем.",
+                "uz": "Future perfect 'will have + o'tgan zamon sifatdoshi' yordamida kelajakdagi aniq vaqtga qadar tugallanadigan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She will have ate dinner before the movie."
+                },
+                {
+                    "answer": "She will have eaten dinner before the movie.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will have eat dinner before the movie."
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'eat' is 'eaten', not 'ate'. Future perfect requires the past participle form.",
+                "ru": "Причастие прошедшего времени от 'eat' - 'eaten', а не 'ate'. Future perfect требует форму причастия.",
+                "uz": "'eat' fe'lining o'tgan zamon sifatdoshi 'eaten', 'ate' emas. Future perfect sifatdosh formasi talab qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We will have been studying for five hours by 6 PM."
+                },
+                {
+                    "answer": "We will have studied for five hours by 6 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "We will have study for five hours by 6 PM."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect uses 'will have + past participle' for completed actions. 'Will have been studying' is future perfect continuous.",
+                "ru": "Future perfect использует 'will have + причастие' для завершенных действий. 'Will have been studying' - это future perfect continuous.",
+                "uz": "Future perfect tugallangan harakatlar uchun 'will have + sifatdosh' ishlatadi. 'Will have been studying' - future perfect continuous."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "By tomorrow, they will have chose their new home."
+                },
+                {
+                    "answer": "By tomorrow, they will have chosen their new home.",
+                    "correct": true
+                },
+                {
+                    "answer": "By tomorrow, they will have choose their new home."
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'choose' is 'chosen'. Future perfect requires 'will have + past participle'.",
+                "ru": "Причастие прошедшего времени от 'choose' - 'chosen'. Future perfect требует 'will have + причастие'.",
+                "uz": "'choose' fe'lining o'tgan zamon sifatdoshi 'chosen'. Future perfect 'will have + sifatdosh' talab qiladi."
+            }
+        },
+        {
+            "id": "mc11",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Before you call, I will have go to bed."
+                },
+                {
+                    "answer": "Before you call, I will have went to bed."
+                },
+                {
+                    "answer": "Before you call, I will have gone to bed.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'go' is 'gone'. Future perfect uses 'will have + past participle'.",
+                "ru": "Причастие прошедшего времени от 'go' - 'gone'. Future perfect использует 'will have + причастие'.",
+                "uz": "'go' fe'lining o'tgan zamon sifatdoshi 'gone'. Future perfect 'will have + sifatdosh' ishlatadi."
+            }
+        },
+        {
+            "id": "mc12",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "By next week, the workers will have build the house."
+                },
+                {
+                    "answer": "By next week, the workers will have built the house.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next week, the workers will have building the house."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect requires the past participle. 'Built' is the past participle of 'build'.",
+                "ru": "Future perfect требует причастие прошедшего времени. 'Built' - причастие от 'build'.",
+                "uz": "Future perfect o'tgan zamon sifatdoshi talab qiladi. 'Built' - 'build' fe'lining sifatdoshi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By midnight, she ___ (finish) her homework.",
+                "ru": "Дополните предложение: By midnight, she ___ (finish) her homework.",
+                "uz": "Gapni to'ldiring: By midnight, she ___ (finish) her homework."
+            },
+            "options": [
+                {
+                    "answer": "will have finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows completion before a future time point using 'will have + past participle'.",
+                "ru": "Future perfect показывает завершение до будущего времени, используя 'will have + причастие прошедшего времени'.",
+                "uz": "Future perfect 'will have + o'tgan zamon sifatdoshi' yordamida kelajakdagi vaqtdan oldin tugallanishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Before the concert begins, the band ___ (rehearse) for weeks.",
+                "ru": "Дополните предложение: Before the concert begins, the band ___ (rehearse) for weeks.",
+                "uz": "Gapni to'ldiring: Before the concert begins, the band ___ (rehearse) for weeks."
+            },
+            "options": [
+                {
+                    "answer": "will have rehearsed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect expresses actions completed before a future event using 'will have + past participle'.",
+                "ru": "Future perfect выражает действия, завершенные до будущего события, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida kelajakdagi hodisadan oldin tugallanadigan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By 2026, they ___ (live) in this city for a decade.",
+                "ru": "Дополните предложение: By 2026, they ___ (live) in this city for a decade.",
+                "uz": "Gapni to'ldiring: By 2026, they ___ (live) in this city for a decade."
+            },
+            "options": [
+                {
+                    "answer": "will have lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows duration completed by a specific future time using 'will have + past participle'.",
+                "ru": "Future perfect показывает продолжительность, завершенную к определенному времени в будущем, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida kelajakdagi aniq vaqtga qadar tugallanadigan davomiylikni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (graduate) from university before she turns 22.",
+                "ru": "Дополните предложение: She ___ (graduate) from university before she turns 22.",
+                "uz": "Gapni to'ldiring: She ___ (graduate) from university before she turns 22."
+            },
+            "options": [
+                {
+                    "answer": "will have graduated",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect indicates completion before a future milestone using 'will have + past participle'.",
+                "ru": "Future perfect указывает на завершение до будущего события, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida kelajakdagi muhim voqeadan oldin tugallanishni bildiradi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By the time we meet, I ___ (read) the entire book.",
+                "ru": "Дополните предложение: By the time we meet, I ___ (read) the entire book.",
+                "uz": "Gapni to'ldiring: By the time we meet, I ___ (read) the entire book."
+            },
+            "options": [
+                {
+                    "answer": "will have read",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows completion before a future meeting using 'will have + past participle'.",
+                "ru": "Future perfect показывает завершение до будущей встречи, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida kelajakdagi uchrashuvdan oldin tugallanishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Before the guests arrive, we ___ (clean) the house.",
+                "ru": "Дополните предложение: Before the guests arrive, we ___ (clean) the house.",
+                "uz": "Gapni to'ldiring: Before the guests arrive, we ___ (clean) the house."
+            },
+            "options": [
+                {
+                    "answer": "will have cleaned",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect expresses completion before guests' arrival using 'will have + past participle'.",
+                "ru": "Future perfect выражает завершение до прибытия гостей, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida mehmonlar kelishidan oldin tugallanishni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By next summer, the construction workers ___ (build) the new bridge.",
+                "ru": "Дополните предложение: By next summer, the construction workers ___ (build) the new bridge.",
+                "uz": "Gapni to'ldiring: By next summer, the construction workers ___ (build) the new bridge."
+            },
+            "options": [
+                {
+                    "answer": "will have built",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows project completion by a future deadline using 'will have + past participle'.",
+                "ru": "Future perfect показывает завершение проекта к будущему сроку, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida loyihaning kelajakdagi muddatga qadar tugallanishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (save) enough money for their vacation by December.",
+                "ru": "Дополните предложение: They ___ (save) enough money for their vacation by December.",
+                "uz": "Gapni to'ldiring: They ___ (save) enough money for their vacation by December."
+            },
+            "options": [
+                {
+                    "answer": "will have saved",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect indicates achieving a financial goal by a specific time using 'will have + past participle'.",
+                "ru": "Future perfect указывает на достижение финансовой цели к определенному времени, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida moliyaviy maqsadga aniq vaqtga qadar erishishni bildiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By the end of this month, he ___ (work) here for five years.",
+                "ru": "Дополните предложение: By the end of this month, he ___ (work) here for five years.",
+                "uz": "Gapni to'ldiring: By the end of this month, he ___ (work) here for five years."
+            },
+            "options": [
+                {
+                    "answer": "will have worked",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows employment duration completed by a specific date using 'will have + past participle'.",
+                "ru": "Future perfect показывает продолжительность работы, завершенную к определенной дате, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida aniq sanaga qadar tugallanadigan ish faoliyati davomiyligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Before the store opens, the employees ___ (arrange) all the products.",
+                "ru": "Дополните предложение: Before the store opens, the employees ___ (arrange) all the products.",
+                "uz": "Gapni to'ldiring: Before the store opens, the employees ___ (arrange) all the products."
+            },
+            "options": [
+                {
+                    "answer": "will have arranged",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows task completion before store opening using 'will have + past participle'.",
+                "ru": "Future perfect показывает завершение задачи до открытия магазина, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida do'kon ochilishidan oldin vazifaning tugallanishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By 8 o'clock, the chef ___ (prepare) all the meals for the evening.",
+                "ru": "Дополните предложение: By 8 o'clock, the chef ___ (prepare) all the meals for the evening.",
+                "uz": "Gapni to'ldiring: By 8 o'clock, the chef ___ (prepare) all the meals for the evening."
+            },
+            "options": [
+                {
+                    "answer": "will have prepared",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect indicates meal preparation completion by a specific time using 'will have + past participle'.",
+                "ru": "Future perfect указывает на завершение приготовления пищи к определенному времени, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida taom tayyorlashning aniq vaqtga qadar tugallanishini bildiradi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (learn) three languages before she starts her new job.",
+                "ru": "Дополните предложение: She ___ (learn) three languages before she starts her new job.",
+                "uz": "Gapni to'ldiring: She ___ (learn) three languages before she starts her new job."
+            },
+            "options": [
+                {
+                    "answer": "will have learned/will have learnt",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows language acquisition completed before job start using 'will have + past participle'.",
+                "ru": "Future perfect показывает изучение языков, завершенное до начала работы, используя 'will have + причастие'.",
+                "uz": "Future perfect 'will have + sifatdosh' yordamida ish boshlashdan oldin tillarni o'rganish tugallanishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is planning her career timeline very carefully. By the time she ___1___ thirty, she ___2___ her master's degree and ___3___ working in her dream company for at least three years. Her colleagues believe that she ___4___ several promotions by then. Next month, she will start her final semester, and by June, she ___5___ all her courses successfully. Her supervisor mentioned that by the end of this year, the department ___6___ a new project manager, and Sarah hopes it will be her. By Christmas, she ___7___ her thesis and ___8___ it to the university committee. Her parents are proud because by her graduation day, she ___9___ numerous academic achievements. The company where she wants to work ___10___ its expansion by the time she applies for a position there. Sarah knows that by age twenty-five, she ___11___ valuable work experience and ___12___ a professional network that will support her throughout her career.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "turns"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have completed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have received"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have finished"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have chosen"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have written"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have submitted"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have earned"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have completed"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have gained"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have built"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect tense shows actions that will be completed before a specific point in the future, using 'will have + past participle'.",
+                "ru": "Будущее совершенное время показывает действия, которые будут завершены до определенного момента в будущем, используя 'will have + причастие прошедшего времени'.",
+                "uz": "Future perfect zamon kelajakdagi ma'lum bir vaqtgacha tugallanадigan harakatlarni ko'rsatadi, 'will have + o'tgan zamon sifatdoshi' dan foydalanadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Johnson family is excited about their upcoming European vacation. By the time they ___1___ to London next week, they ___2___ for this trip for over six months. Their travel agent assured them that by departure day, the hotel ___3___ their reservation and ___4___ all the special requests. The children are particularly thrilled because by the end of their trip, they ___5___ five different countries and ___6___ dozens of famous landmarks. Mr. Johnson calculated that by their return date, they ___7___ approximately 15,000 kilometers. The family believes that by August, when they share their photos, everyone ___8___ their amazing adventure stories. Mrs. Johnson is confident that by next month, she ___9___ enough French phrases to communicate with locals in Paris. Their teenage daughter hopes that by the trip's end, she ___10___ hundreds of Instagram-worthy pictures and ___11___ many new international friends through social media. The youngest son is convinced that by Christmas, he ___12___ all his school friends with souvenirs from each country they visit during this once-in-a-lifetime European adventure.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "fly"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been planning"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have confirmed"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have arranged"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have visited"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have seen"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have traveled"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have heard"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have learned"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have taken"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have made"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have surprised"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect expresses completed actions before future time references, often combined with future perfect continuous for ongoing actions.",
+                "ru": "Будущее совершенное время выражает завершенные действия до будущих временных ориентиров, часто сочетаясь с будущим совершенным длительным для продолжающихся действий.",
+                "uz": "Future perfect kelajakdagi vaqt belgilarigacha tugallangan harakatlarni ifodalaydi, ko'pincha davomli harakatlar uchun future perfect continuous bilan birlashadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The construction of the new city library is progressing rapidly. By next spring, the workers ___1___ the foundation and ___2___ work on the main structure. The city council announced that by the official opening ceremony, they ___3___ over two million dollars for this project. Local residents are eager because by summer's end, the library ___4___ its doors to the public and ___5___ thousands of new books and digital resources. The head librarian expects that by December, the staff ___6___ all the collection categories and ___7___ the computer systems successfully. By the time students return to school in September, the children's section ___8___ its renovation and ___9___ exciting new reading programs. Community leaders predict that by the library's first anniversary, it ___10___ a central hub for educational activities and ___11___ hundreds of cultural events. The mayor is confident that by the end of the decade, this facility ___12___ the literacy rates in the neighborhood and ___13___ as a model for other cities planning similar community projects.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have completed"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have begun"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have raised"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have opened"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have acquired"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have organized"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have installed"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have finished"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have launched"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have become"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have hosted"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have improved"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will have served"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect demonstrates completion of actions before specified future deadlines or milestones, emphasizing the finished state of activities.",
+                "ru": "Будущее совершенное время демонстрирует завершение действий до указанных будущих сроков или этапов, подчеркивая законченное состояние деятельности.",
+                "uz": "Future perfect belgilangan kelajak muddatlari yoki bosqichlarigacha harakatlarning tugallanishini ko'rsatadi, faoliyatlarning tugallangan holatini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Dr. Martinez is preparing for her upcoming medical conference presentation. By the time she ___1___ on stage next month, she ___2___ her research data thoroughly and ___3___ her presentation slides multiple times. Her colleagues believe that by the conference date, she ___4___ the most comprehensive study on this medical topic. The research team expects that by summer, they ___5___ their findings in several prestigious medical journals and ___6___ recognition from the international medical community. Dr. Martinez hopes that by year's end, her work ___7___ to breakthrough treatments for patients worldwide. By the time the next medical symposium occurs, she ___8___ additional research and ___9___ her theories through clinical trials. Her department head is confident that by her retirement, Dr. Martinez ___10___ groundbreaking contributions to modern medicine and ___11___ countless medical professionals. The hospital administration believes that by the decade's close, her research ___12___ standard medical practices and ___13___ thousands of patients globally, establishing her legacy in the medical field forever.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "steps"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have analyzed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have rehearsed"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have produced"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have published"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have received"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have led"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have conducted"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have validated"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have made"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have inspired"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have transformed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will have helped"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect tense indicates actions that will be accomplished before future reference points, often showing cause-and-effect relationships in future scenarios.",
+                "ru": "Будущее совершенное время указывает на действия, которые будут выполнены до будущих точек отсчета, часто показывая причинно-следственные связи в будущих сценариях.",
+                "uz": "Future perfect zamon kelajakdagi mos yozish nuqtalarigacha bajarilgan harakatlarni ko'rsatadi, ko'pincha kelajak stsenariylardagi sabab-oqibat munosabatlarini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The environmental conservation project is gaining momentum in the local community. By Earth Day next year, volunteers ___1___ over 10,000 trees and ___2___ three polluted rivers in the area. Environmental scientists predict that by 2030, these efforts ___3___ the local ecosystem significantly and ___4___ biodiversity to the region. The project coordinator expects that by summer's end, the team ___5___ educational workshops in every school district and ___6___ environmental awareness among thousands of students. Local government officials hope that by the project's completion, the community ___7___ a model for sustainable living and ___8___ international recognition for environmental stewardship. By the time the annual environmental report is published, researchers ___9___ measurable improvements in air quality and ___10___ the success of their conservation strategies. Community leaders believe that by the next decade, this initiative ___11___ similar projects in neighboring cities and ___12___ a regional environmental movement. The younger generation is particularly enthusiastic because by their adulthood, these conservation efforts ___13___ a healthier planet for their future families and communities.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have planted"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have cleaned"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have restored"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have returned"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have conducted"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have raised"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have become"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have earned"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have documented"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have proven"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have inspired"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have created"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will have secured"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect shows completed environmental actions before future deadlines, emphasizing the lasting impact of current conservation efforts.",
+                "ru": "Будущее совершенное время показывает завершенные экологические действия до будущих сроков, подчеркивая долгосрочное воздействие текущих природоохранных усилий.",
+                "uz": "Future perfect kelajakdagi muddatlargacha tugallangan ekologik harakatlarni ko'rsatadi, hozirgi tabiatni muhofaza qilish sa'y-harakatlarining uzoq muddatli ta'sirini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf6",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The technology startup is preparing for its major product launch scheduled for next quarter. By the launch date, the development team ___1___ months of intensive coding and ___2___ the software through rigorous testing phases. The marketing department expects that by the announcement day, they ___3___ a comprehensive advertising campaign and ___4___ partnerships with key industry influencers. Company executives predict that by year's end, their innovative product ___5___ the market significantly and ___6___ thousands of early adopters worldwide. The customer support team hopes that by the first month post-launch, they ___7___ efficient help systems and ___8___ any initial user concerns promptly. Investors believe that by the next funding round, the company ___9___ substantial revenue growth and ___10___ its market position successfully. The CEO is confident that by the company's fifth anniversary, they ___11___ industry leaders and ___12___ multiple breakthrough innovations. Technology analysts predict that by the decade's end, this startup ___13___ the way people interact with digital technology and ___14___ a lasting legacy in the tech industry through their revolutionary contributions.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have completed"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have put"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have developed"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have established"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have disrupted"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have attracted"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have implemented"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have addressed"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have demonstrated"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have strengthened"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have become"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have delivered"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will have transformed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will have created"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect expresses business achievements and technological milestones that will be completed before specific future timeframes.",
+                "ru": "Будущее совершенное время выражает деловые достижения и технологические вехи, которые будут завершены до определенных будущих временных рамок.",
+                "uz": "Future perfect biznes yutuqlari va texnologik manzillarni ifodalaydi, ular ma'lum kelajak vaqt oralig'igacha tugallanadi."
+            }
+        }
+    ]
+}

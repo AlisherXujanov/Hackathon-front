@@ -1,0 +1,671 @@
+{
+    "id": "A2_PRONOUNS_SIMPLE_PERSONAL_SUBJECT_OBJECT_AND_POSSESSIVE_PRONOUNS",
+    "title": "Pronouns (simple, personal) - Subject, object, and possessive pronouns",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Me gave the book to her."
+                },
+                {
+                    "answer": "I gave the book to her.",
+                    "correct": true
+                },
+                {
+                    "answer": "He gave the book to she."
+                }
+            ],
+            "explanation": {
+                "en": "The subject pronoun 'I' must be used as the subject of the sentence. 'Me' is an object pronoun.",
+                "ru": "Подлежащее местоимение 'I' должно использоваться в качестве подлежащего предложения. 'Me' - это объектное местоимение.",
+                "uz": "'I' shaxs olmoshi gapning egasi sifatida ishlatilishi kerak. 'Me' esa to'ldiruvchi olmoshdir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They went to the park with us.",
+                    "correct": true
+                },
+                {
+                    "answer": "Them went to the park with we."
+                },
+                {
+                    "answer": "They went to the park with we."
+                }
+            ],
+            "explanation": {
+                "en": "Subject pronouns 'They' and 'we' are used for the subjects, but after a preposition like 'with', an object pronoun like 'us' is required.",
+                "ru": "Подлежащие местоимения 'They' и 'we' используются для подлежащих, но после предлога 'with' требуется объектное местоимение, например 'us'.",
+                "uz": "Egalik olmoshlari 'They' va 'we' ega uchun ishlatiladi, lekin 'with' kabi predlogdan keyin 'us' kabi to'ldiruvchi olmoshi talab qilinadi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She gave a gift to he."
+                },
+                {
+                    "answer": "Her gave a gift to him."
+                },
+                {
+                    "answer": "She gave a gift to him.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The subject pronoun 'She' is used for the person performing the action. 'Him' is the correct object pronoun to receive the action.",
+                "ru": "Подлежащее местоимение 'She' используется для обозначения лица, выполняющего действие. 'Him' - правильное объектное местоимение для лица, принимающего действие.",
+                "uz": "'She' shaxs olmoshi harakatni bajarayotgan shaxs uchun ishlatiladi. 'Him' esa harakatni qabul qiluvchi shaxs uchun to'g'ri to'ldiruvchi olmoshidir."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The car is my."
+                },
+                {
+                    "answer": "The car is mine.",
+                    "correct": true
+                },
+                {
+                    "answer": "The car is I."
+                }
+            ],
+            "explanation": {
+                "en": "'Mine' is a possessive pronoun used to show possession without a noun following it. 'My' is a possessive adjective and needs a noun.",
+                "ru": "'Mine' - это притяжательное местоимение, используемое для обозначения владения без последующего существительного. 'My' - это притяжательное прилагательное и требует существительного.",
+                "uz": "'Mine' - bu egalik olmoshi bo'lib, o'zidan keyin ot kelmasdan egalikni bildirish uchun ishlatiladi. 'My' esa egalik sifatdoshi bo'lib, o'zidan keyin ot kelishini talab qiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is they house."
+                },
+                {
+                    "answer": "This is their house.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is theirs house."
+                }
+            ],
+            "explanation": {
+                "en": "'Their' is the correct possessive adjective to modify the noun 'house'. 'Theirs' is a possessive pronoun.",
+                "ru": "'Their' - это правильное притяжательное прилагательное, которое изменяет существительное 'house'. 'Theirs' - это притяжательное местоимение.",
+                "uz": "'Their' ot 'house'ni aniqlash uchun to'g'ri egalik sifatdoshidir. 'Theirs' esa egalik olmoshidir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Us went to the cinema."
+                },
+                {
+                    "answer": "We went to the cinema.",
+                    "correct": true
+                },
+                {
+                    "answer": "Our went to the cinema."
+                }
+            ],
+            "explanation": {
+                "en": "The subject pronoun 'We' is required to perform the action of 'went'. 'Us' is an object pronoun and 'Our' is a possessive adjective.",
+                "ru": "Подлежащее местоимение 'We' требуется для выполнения действия 'went'. 'Us' - объектное местоимение, а 'Our' - притяжательное прилагательное.",
+                "uz": "'We' sub'ekt olmoshi 'went' harakatini bajarish uchun talab qilinadi. 'Us' to'ldiruvchi olmosh, 'Our' esa egalik sifatdoshidir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The dog wagged its tail.",
+                    "correct": true
+                },
+                {
+                    "answer": "The dog wagged it's tail."
+                },
+                {
+                    "answer": "The dog wagged his tail."
+                }
+            ],
+            "explanation": {
+                "en": "'Its' is the possessive form of 'it' used for things and animals. 'It's' is a contraction of 'it is' or 'it has'.",
+                "ru": "'Its' - это притяжательная форма 'it', используемая для предметов и животных. 'It's' - это сокращение от 'it is' или 'it has'.",
+                "uz": "'Its' - narsalar va hayvonlar uchun ishlatiladigan 'it'ning egalik shaklidir. 'It's' esa 'it is' yoki 'it has' so'zlarining qisqartmasidir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Give the ball to he."
+                },
+                {
+                    "answer": "Give the ball to him.",
+                    "correct": true
+                },
+                {
+                    "answer": "Give the ball to his."
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun 'him' is used after the preposition 'to'. 'He' is a subject pronoun and 'his' is a possessive adjective.",
+                "ru": "Объектное местоимение 'him' используется после предлога 'to'. 'He' - подлежащее местоимение, а 'his' - притяжательное прилагательное.",
+                "uz": "To'ldiruvchi olmosh 'him' 'to' predlogidan keyin ishlatiladi. 'He' ega olmoshi, 'his' esa egalik sifatdoshidir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She and me are friends."
+                },
+                {
+                    "answer": "Me and her are friends."
+                },
+                {
+                    "answer": "She and I are friends.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When a pronoun is part of a compound subject (with another noun or pronoun), the subject form ('I') is required. It's polite to put the other person's name first.",
+                "ru": "Когда местоимение является частью составного подлежащего (с другим существительным или местоимением), требуется форма подлежащего ('I'). Вежливо ставить имя другого человека на первое место.",
+                "uz": "Olmosh boshqa ot yoki olmosh bilan birga gap egasi bo'lib kelganda, ega shakli ('I') talab qilinadi. Boshqa shaxsning ismini birinchi o'ringa qo'yish odobdandir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The book belongs to she."
+                },
+                {
+                    "answer": "The book belongs to her.",
+                    "correct": true
+                },
+                {
+                    "answer": "The book belongs to hers."
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun 'her' is used after the preposition 'to'. 'She' is a subject pronoun and 'hers' is a possessive pronoun, which cannot follow a noun.",
+                "ru": "Объектное местоимение 'her' используется после предлога 'to'. 'She' - подлежащее местоимение, а 'hers' - притяжательное местоимение, которое не может стоять после существительного.",
+                "uz": "To'ldiruvchi olmosh 'her' 'to' predlogidan keyin ishlatiladi. 'She' ega olmoshi, 'hers' esa ot bilan birga kelmaydigan egalik olmoshidir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a subject pronoun: ___ went to the store.",
+                "ru": "Дополните предложение подлежащим местоимением: ___ went to the store.",
+                "uz": "Gapni ega olmoshi bilan to'ldiring: ___ went to the store."
+            },
+            "options": [
+                {
+                    "answer": "I/You/He/She/It/We/They",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A subject pronoun is needed to perform the action of going to the store. Any of the singular or plural subject pronouns are grammatically correct.",
+                "ru": "Подлежащее местоимение необходимо для выполнения действия похода в магазин. Любое из подлежащих местоимений в единственном или множественном числе грамматически верно.",
+                "uz": "Do'konga borish harakatini bajarish uchun ega olmoshi kerak. Birlik yoki ko'plik egalik olmoshlarining har biri grammatik jihatdan to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with an object pronoun: He gave the gift to ___.",
+                "ru": "Дополните предложение объектным местоимением: He gave the gift to ___.",
+                "uz": "Gapni to'ldiruvchi olmosh bilan to'ldiring: He gave the gift to ___."
+            },
+            "options": [
+                {
+                    "answer": "me/you/him/her/it/us/them",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "An object pronoun is required after the preposition 'to' to indicate the receiver of the gift.",
+                "ru": "Объектное местоимение требуется после предлога 'to', чтобы указать получателя подарка.",
+                "uz": "Sovg'a oluvchini ko'rsatish uchun 'to' predlogidan keyin to'ldiruvchi olmosh talab qilinadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a possessive adjective: This is ___ car.",
+                "ru": "Дополните предложение притяжательным прилагательным: This is ___ car.",
+                "uz": "Gapni egalik sifatdoshi bilan to'ldiring: This is ___ car."
+            },
+            "options": [
+                {
+                    "answer": "my/your/his/her/its/our/their",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A possessive adjective is used before a noun like 'car' to show ownership.",
+                "ru": "Притяжательное прилагательное используется перед существительным 'car', чтобы показать владение.",
+                "uz": "Egalik sifatdoshi 'car' kabi otdan oldin egalikni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with a possessive pronoun: The backpack is ___.",
+                "ru": "Дополните предложение притяжательным местоимением: The backpack is ___.",
+                "uz": "Gapni egalik olmoshi bilan to'ldiring: The backpack is ___."
+            },
+            "options": [
+                {
+                    "answer": "mine/yours/his/hers/ours/theirs",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A possessive pronoun is used at the end of a sentence to show ownership without a following noun.",
+                "ru": "Притяжательное местоимение используется в конце предложения, чтобы показать владение без последующего существительного.",
+                "uz": "Egalik olmoshi gapning oxirida o'zidan keyin ot kelmasdan egalikni bildirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please give the phone to ___.",
+                "ru": "Дополните предложение: Please give the phone to ___.",
+                "uz": "Gapni to'ldiring: Please give the phone to ___."
+            },
+            "options": [
+                {
+                    "answer": "me/him/her/us/them",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The object pronoun is required after the preposition 'to' when indicating the receiver of the action 'give'.",
+                "ru": "Объектное местоимение требуется после предлога 'to', когда указывается получатель действия 'give'.",
+                "uz": "'give' harakatini qabul qiluvchini ko'rsatishda 'to' predlogidan keyin to'ldiruvchi olmosh talab qilinadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ are happy to be here.",
+                "ru": "Дополните предложение: ___ are happy to be here.",
+                "uz": "Gapni to'ldiring: ___ are happy to be here."
+            },
+            "options": [
+                {
+                    "answer": "We/They",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A subject pronoun is needed as the subject of the verb 'are'. Both 'We' and 'They' can be used with this verb form.",
+                "ru": "Подлежащее местоимение требуется в качестве подлежащего глагола 'are'. Оба, 'We' и 'They', могут использоваться с этой формой глагола.",
+                "uz": "'are' fe'lining egasi sifatida ega olmoshi kerak. 'We' va 'They' ikkalasi ham ushbu fe'l shakli bilan ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She lives with ___ brother.",
+                "ru": "Дополните предложение: She lives with ___ brother.",
+                "uz": "Gapni to'ldiring: She lives with ___ brother."
+            },
+            "options": [
+                {
+                    "answer": "her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective 'her' is needed to modify the noun 'brother' and indicate that the brother belongs to 'she'.",
+                "ru": "Притяжательное прилагательное 'her' необходимо для изменения существительного 'brother' и указания на то, что брат принадлежит 'she'.",
+                "uz": "'her' egalik sifatdoshi 'brother' otini aniqlash va ukasining 'she'ga tegishli ekanligini ko'rsatish uchun kerak."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The phone is not ___.",
+                "ru": "Дополните предложение: The phone is not ___.",
+                "uz": "Gapni to'ldiring: The phone is not ___."
+            },
+            "options": [
+                {
+                    "answer": "mine/yours/his/hers/ours/theirs",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "A possessive pronoun is used after the verb to show that the phone does not belong to someone.",
+                "ru": "Притяжательное местоимение используется после глагола, чтобы показать, что телефон кому-то не принадлежит.",
+                "uz": "Telefon kimga tegishli emasligini ko'rsatish uchun fe'ldan keyin egalik olmoshi ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Can you give the book to ___?",
+                "ru": "Дополните предложение: Can you give the book to ___?",
+                "uz": "Gapni to'ldiring: Can you give the book to ___?"
+            },
+            "options": [
+                {
+                    "answer": "me/him/her/us/them",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "An object pronoun is used after a preposition like 'to' to receive the action.",
+                "ru": "Объектное местоимение используется после предлога 'to' для обозначения получателя действия.",
+                "uz": "'to' kabi predlogdan keyin harakatni qabul qiluvchi shaxs uchun to'ldiruvchi olmosh ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My dog loves ___ new bed.",
+                "ru": "Дополните предложение: My dog loves ___ new bed.",
+                "uz": "Gapni to'ldiring: My dog loves ___ new bed."
+            },
+            "options": [
+                {
+                    "answer": "its",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The possessive adjective 'its' is used to show that the bed belongs to the dog, which is a non-human subject.",
+                "ru": "Притяжательное прилагательное 'its' используется, чтобы показать, что кровать принадлежит собаке, которая является нечеловеческим субъектом.",
+                "uz": "'its' egalik sifatdoshi kravatning insonga tegishli bo'lmagan, ya'ni itga tegishli ekanligini ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend and ___1___ went to the park. The park is beautiful, and ___2___ trees are very tall. We saw a dog and ___3___ owner. The dog was very happy and chased ___4___ ball. The owner threw ___5___ a stick. The dog was very happy with ___6___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "I"
+                },
+                {
+                    "blank": "2",
+                    "answer": "its"
+                },
+                {
+                    "blank": "3",
+                    "answer": "its"
+                },
+                {
+                    "blank": "4",
+                    "answer": "its"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests subject, object, and possessive pronouns for people and things. 'I' is a subject pronoun, and 'its' is a possessive adjective. 'It' is an object pronoun.",
+                "ru": "Это упражнение проверяет подлежащие, объектные и притяжательные местоимения для людей и вещей. 'I' - это подлежащее местоимение, 'its' - притяжательное прилагательное. 'It' - объектное местоимение.",
+                "uz": "Ushbu mashq odamlar va narsalar uchun ega, to'ldiruvchi va egalik olmoshlarini tekshiradi. 'I' ega olmoshi, 'its' egalik sifatdoshidir. 'It' to'ldiruvchi olmoshdir."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is a great student. ___1___ studies hard every day. Last week, ___2___ and her classmates worked on a project. The teacher helped ___3___ with the difficult parts. Sarah's mother is very proud of ___4___. She told ___5___, 'I know ___6___ will succeed.'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "She"
+                },
+                {
+                    "blank": "2",
+                    "answer": "she"
+                },
+                {
+                    "blank": "3",
+                    "answer": "them"
+                },
+                {
+                    "blank": "4",
+                    "answer": "her"
+                },
+                {
+                    "blank": "5",
+                    "answer": "her"
+                },
+                {
+                    "blank": "6",
+                    "answer": "you"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on subject and object pronouns. 'She' is a subject pronoun. 'Them' and 'her' are object pronouns. 'You' is used to address the person directly.",
+                "ru": "Это упражнение сосредоточено на подлежащих и объектных местоимениях. 'She' - это подлежащее местоимение. 'Them' и 'her' - объектные местоимения. 'You' используется для прямого обращения к человеку.",
+                "uz": "Ushbu mashq ega va to'ldiruvchi olmoshlarga qaratilgan. 'She' ega olmoshi. 'Them' va 'her' to'ldiruvchi olmoshlar. 'You' esa shaxsga bevosita murojaat qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My parents bought a new house. ___1___ is very big and has a large garden. I told ___2___ that I really like the house. My sister and I play in the garden with ___3___ friends. We have to take care of the garden because ___4___ is our responsibility. My parents are very happy with ___5___ because ___6___ is what they always wanted.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "them"
+                },
+                {
+                    "blank": "3",
+                    "answer": "our"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests a range of pronouns. 'It' is used for a non-human subject and object. 'Them' is an object pronoun. 'Our' is a possessive adjective.",
+                "ru": "Это упражнение проверяет различные местоимения. 'It' используется для нечеловеческого подлежащего и объекта. 'Them' - это объектное местоимение. 'Our' - притяжательное прилагательное.",
+                "uz": "Ushbu mashq turli xil olmoshlarni tekshiradi. 'It' insonga tegishli bo'lmagan ega va to'ldiruvchi uchun ishlatiladi. 'Them' to'ldiruvchi olmoshdir. 'Our' esa egalik sifatdoshidir."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "I have a new bike. ___1___ is red and black. My friend saw ___2___ and asked, 'Can I ride ___3___?' I told ___4___, 'Sure, you can ride ___5___.' The bike is great, and I love riding ___6___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "it"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "him/her"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the use of 'it' as both a subject and object pronoun for a thing. 'Him' or 'her' are used as object pronouns to refer to the friend.",
+                "ru": "Это упражнение проверяет использование 'it' как подлежащего, так и объектного местоимения для вещи. 'Him' или 'her' используются как объектные местоимения для обозначения друга.",
+                "uz": "Ushbu mashq 'it'ning narsalar uchun ega va to'ldiruvchi olmoshi sifatida ishlatilishini tekshiradi. 'Him' yoki 'her' esa do'stni bildirish uchun to'ldiruvchi olmosh sifatida ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The cat is on the roof. ___1___ is very scared. The owners of the cat are trying to get ___2___ down. They called to ___3___. 'Please come down!' they shouted. The cat is worried, so ___4___ is not moving. The owners are worried about ___5___, but they know ___6___ will be okay.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "it"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on the use of the subject and object pronoun 'it' when referring to a non-human subject, the cat.",
+                "ru": "Это упражнение сосредоточено на использовании подлежащего и объектного местоимения 'it' при обращении к нечеловеческому субъекту - кошке.",
+                "uz": "Ushbu mashq insonga tegishli bo'lmagan, ya'ni mushukga murojaat qilishda ega va to'ldiruvchi olmosh 'it'ning ishlatilishiga qaratilgan."
+            }
+        }
+    ]
+}

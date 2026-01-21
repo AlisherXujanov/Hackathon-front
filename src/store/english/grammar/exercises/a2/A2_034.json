@@ -1,0 +1,620 @@
+{
+    "id": "A2_HOW_TO_USE_THE_VERB_GO_IN_ENGLISH_GO_PREPOSITIONS_AND_EXPRESSIONS",
+    "title": "How to use the verb 'go' in English - Go + prepositions and expressions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I go to home every evening."
+                },
+                {
+                    "answer": "I go home every evening.",
+                    "correct": true
+                },
+                {
+                    "answer": "I go at home every evening."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go home' without any preposition. Home is an adverb in this context.",
+                "ru": "Мы используем 'go home' без предлога. Home в данном контексте является наречием.",
+                "uz": "Biz 'go home' ni hech qanday predlogsiz ishlatamiz. Bu kontekstda home ravish so'z hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She goes in the cinema on Sundays."
+                },
+                {
+                    "answer": "She goes to the cinema on Sundays.",
+                    "correct": true
+                },
+                {
+                    "answer": "She goes at the cinema on Sundays."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to' when indicating movement toward a destination. 'Go to the cinema' is the correct expression.",
+                "ru": "Мы используем 'go to' для обозначения движения к месту назначения. 'Go to the cinema' - правильное выражение.",
+                "uz": "Biror joyga harakat qilishni bildirish uchun 'go to' ishlatamiz. 'Go to the cinema' to'g'ri ifoda."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Let's go for a walk in the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "Let's go to a walk in the park."
+                },
+                {
+                    "answer": "Let's go on a walk in the park."
+                }
+            ],
+            "explanation": {
+                "en": "'Go for a walk' is the correct idiomatic expression. We use 'for' with activities like walks, drives, or swims.",
+                "ru": "'Go for a walk' - правильное идиоматическое выражение. Мы используем 'for' с такими активностями как прогулки, поездки или плавание.",
+                "uz": "'Go for a walk' to'g'ri idiomatik ifoda. Sayr, sayohat yoki suzish kabi faoliyatlar bilan 'for' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They go at school by bus every day."
+                },
+                {
+                    "answer": "They go to school by bus every day.",
+                    "correct": true
+                },
+                {
+                    "answer": "They go in school by bus every day."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to school' to indicate movement toward the school building. 'To' shows direction.",
+                "ru": "Мы используем 'go to school' для обозначения движения в сторону школьного здания. 'To' показывает направление.",
+                "uz": "Maktab binosi tomon harakatni bildirish uchun 'go to school' ishlatamiz. 'To' yo'nalishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We went to shopping yesterday."
+                },
+                {
+                    "answer": "We went shopping yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "We went for shopping yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "'Go shopping' is used without any preposition. Shopping functions as a gerund (verb acting as a noun).",
+                "ru": "'Go shopping' используется без предлога. Shopping функционирует как герундий (глагол, выступающий в роли существительного).",
+                "uz": "'Go shopping' hech qanday predlogsiz ishlatiladi. Shopping gerundiy vazifasini bajaradi (ot vazifasidagi fe'l)."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I go to work with car."
+                },
+                {
+                    "answer": "I go to work by car.",
+                    "correct": true
+                },
+                {
+                    "answer": "I go to work in car."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'by car' to indicate the means of transportation. 'By' is the correct preposition for vehicles.",
+                "ru": "Мы используем 'by car' для обозначения средства передвижения. 'By' - правильный предлог для транспортных средств.",
+                "uz": "Transport vositasini bildirish uchun 'by car' ishlatamiz. Avtomobillar uchun 'by' to'g'ri predlog."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She goes in bed early every night."
+                },
+                {
+                    "answer": "She goes to bed early every night.",
+                    "correct": true
+                },
+                {
+                    "answer": "She goes at bed early every night."
+                }
+            ],
+            "explanation": {
+                "en": "'Go to bed' is a fixed expression meaning to sleep. We always use 'to' with this idiom.",
+                "ru": "'Go to bed' - устойчивое выражение, означающее ложиться спать. С этой идиомой всегда используем 'to'.",
+                "uz": "'Go to bed' uxlashni bildiruvchi barqaror ifoda. Bu idioma bilan doim 'to' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They go in vacation every summer."
+                },
+                {
+                    "answer": "They go on vacation every summer.",
+                    "correct": true
+                },
+                {
+                    "answer": "They go to vacation every summer."
+                }
+            ],
+            "explanation": {
+                "en": "'Go on vacation' is the correct expression. We use 'on' with vacation, holiday, and trip.",
+                "ru": "'Go on vacation' - правильное выражение. Мы используем 'on' со словами vacation, holiday и trip.",
+                "uz": "'Go on vacation' to'g'ri ifoda. Vacation, holiday va trip so'zlari bilan 'on' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We go to swimming every weekend."
+                },
+                {
+                    "answer": "We go swimming every weekend.",
+                    "correct": true
+                },
+                {
+                    "answer": "We go for swimming every weekend."
+                }
+            ],
+            "explanation": {
+                "en": "'Go swimming' is used without a preposition. Swimming is a gerund that directly follows 'go'.",
+                "ru": "'Go swimming' используется без предлога. Swimming - это герундий, который идет непосредственно после 'go'.",
+                "uz": "'Go swimming' predlogsiz ishlatiladi. Swimming 'go' dan keyin to'g'ridan-to'g'ri keladigan gerundiy."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He goes in the library to study."
+                },
+                {
+                    "answer": "He goes to the library to study.",
+                    "correct": true
+                },
+                {
+                    "answer": "He goes at the library to study."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to' when moving toward a specific location. 'To the library' indicates direction.",
+                "ru": "Мы используем 'go to' при движении к определенному месту. 'To the library' указывает направление.",
+                "uz": "Ma'lum bir joyga harakat qilganda 'go to' ishlatamiz. 'To the library' yo'nalishni bildiradi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I usually go ___ work at 8 AM.",
+                "ru": "Дополните предложение: I usually go ___ work at 8 AM.",
+                "uz": "Gapni to'ldiring: I usually go ___ work at 8 AM."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to work' to indicate movement toward the workplace. 'To' shows direction.",
+                "ru": "Мы используем 'go to work' для обозначения движения к месту работы. 'To' показывает направление.",
+                "uz": "Ish joyiga harakat qilishni bildirish uchun 'go to work' ishlatamiz. 'To' yo'nalishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They want to go ___ vacation next month.",
+                "ru": "Дополните предложение: They want to go ___ vacation next month.",
+                "uz": "Gapni to'ldiring: They want to go ___ vacation next month."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go on vacation' is a fixed expression. We always use 'on' with vacation, holiday, and trip.",
+                "ru": "'Go on vacation' - устойчивое выражение. Мы всегда используем 'on' со словами vacation, holiday и trip.",
+                "uz": "'Go on vacation' barqaror ifoda. Vacation, holiday va trip so'zlari bilan doim 'on' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Let's go ___ a walk after dinner.",
+                "ru": "Дополните предложение: Let's go ___ a walk after dinner.",
+                "uz": "Gapni to'ldiring: Let's go ___ a walk after dinner."
+            },
+            "options": [
+                {
+                    "answer": "for",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go for a walk' is the correct idiomatic expression. We use 'for' with activities like walks, drives, or rides.",
+                "ru": "'Go for a walk' - правильное идиоматическое выражение. Мы используем 'for' с такими активностями как прогулки, поездки.",
+                "uz": "'Go for a walk' to'g'ri idiomatik ifoda. Sayr, sayohat kabi faoliyatlar bilan 'for' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She goes ___ every night at 10 PM.",
+                "ru": "Дополните предложение: She goes ___ every night at 10 PM.",
+                "uz": "Gapni to'ldiring: She goes ___ every night at 10 PM."
+            },
+            "options": [
+                {
+                    "answer": "to bed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go to bed' means to sleep. This is a fixed expression that we use when talking about sleeping time.",
+                "ru": "'Go to bed' означает ложиться спать. Это устойчивое выражение, которое мы используем, говоря о времени сна.",
+                "uz": "'Go to bed' uxlashni bildiradi. Bu uxlash vaqti haqida gapirganda ishlatiladigan barqaror ifoda."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We go ___ the beach every summer.",
+                "ru": "Дополните предложение: We go ___ the beach every summer.",
+                "uz": "Gapni to'ldiring: We go ___ the beach every summer."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to' when indicating movement toward a destination. 'To the beach' shows direction.",
+                "ru": "Мы используем 'go to' для обозначения движения к месту назначения. 'To the beach' показывает направление.",
+                "uz": "Biror joyga harakat qilishni bildirish uchun 'go to' ishlatamiz. 'To the beach' yo'nalishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I go ___ by train every day.",
+                "ru": "Дополните предложение: I go ___ by train every day.",
+                "uz": "Gapni to'ldiring: I go ___ by train every day."
+            },
+            "options": [
+                {
+                    "answer": "home",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go home' without any preposition. Home functions as an adverb of place.",
+                "ru": "Мы используем 'go home' без предлога. Home функционирует как наречие места.",
+                "uz": "Biz 'go home' ni hech qanday predlogsiz ishlatamiz. Home joy ravishi vazifasini bajaradi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They go ___ fishing every Sunday.",
+                "ru": "Дополните предложение: They go ___ fishing every Sunday.",
+                "uz": "Gapni to'ldiring: They go ___ fishing every Sunday."
+            },
+            "options": [
+                {
+                    "answer": "",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go fishing' is used without any preposition. Fishing is a gerund that directly follows 'go'.",
+                "ru": "'Go fishing' используется без предлога. Fishing - это герундий, который идет непосредственно после 'go'.",
+                "uz": "'Go fishing' hech qanday predlogsiz ishlatiladi. Fishing 'go' dan keyin to'g'ridan-to'g'ri keladigan gerundiy."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We go ___ a trip every year.",
+                "ru": "Дополните предложение: We go ___ a trip every year.",
+                "uz": "Gapni to'ldiring: We go ___ a trip every year."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go on a trip' is the correct expression. We use 'on' with trip, vacation, and holiday.",
+                "ru": "'Go on a trip' - правильное выражение. Мы используем 'on' со словами trip, vacation и holiday.",
+                "uz": "'Go on a trip' to'g'ri ifoda. Trip, vacation va holiday so'zlari bilan 'on' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He goes ___ the doctor once a month.",
+                "ru": "Дополните предложение: He goes ___ the doctor once a month.",
+                "uz": "Gapni to'ldiring: He goes ___ the doctor once a month."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'go to the doctor' to indicate visiting a medical professional. 'To' shows direction toward a person or place.",
+                "ru": "Мы используем 'go to the doctor' для обозначения посещения врача. 'To' показывает направление к человеку или месту.",
+                "uz": "Shifokorga tashrif buyurishni bildirish uchun 'go to the doctor' ishlatamiz. 'To' odam yoki joyga yo'nalishni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Let's go ___ a drive this evening.",
+                "ru": "Дополните предложение: Let's go ___ a drive this evening.",
+                "uz": "Gapni to'ldiring: Let's go ___ a drive this evening."
+            },
+            "options": [
+                {
+                    "answer": "for",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Go for a drive' is the correct idiomatic expression. We use 'for' with recreational activities like drives, walks, or swims.",
+                "ru": "'Go for a drive' - правильное идиоматическое выражение. Мы используем 'for' с развлекательными активностями как поездки, прогулки или плавание.",
+                "uz": "'Go for a drive' to'g'ri idiomatik ifoda. Sayohat, sayr yoki suzish kabi dam olish faoliyatlari bilan 'for' ishlatamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is a busy student who lives in the city center. Every morning, she goes ___1___ school by bus at 7:30 AM. After classes finish at 3 PM, she usually goes ___2___ the library to study for two hours. On weekends, Sarah likes to relax and have fun. She often goes ___3___ with her friends at the shopping mall on Saturday mornings. In the afternoon, they go ___4___ a walk in the park or go ___5___ the cinema to watch a movie. On Sunday mornings, Sarah goes ___6___ swimming at the local pool. She loves to go ___7___ a drive with her family on Sunday afternoons, and they often go ___8___ vacation together during school holidays. Sarah's favorite activity is to go ___9___ fishing with her grandfather at the lake. Every evening, she goes ___10___ at exactly 10 PM because she needs eight hours of sleep. When Sarah feels stressed, she goes ___11___ a run in the nearby park. During winter months, the family goes ___12___ skiing in the mountains. Sarah always goes ___13___ work on weekdays after school to earn some pocket money at a local café. She dreams of going ___14___ a long trip around Europe after graduation, and she wants to go ___15___ holiday with her best friends to celebrate their success.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "to"
+                },
+                {
+                    "blank": "3",
+                    "answer": "shopping"
+                },
+                {
+                    "blank": "4",
+                    "answer": "for"
+                },
+                {
+                    "blank": "5",
+                    "answer": "to"
+                },
+                {
+                    "blank": "6",
+                    "answer": ""
+                },
+                {
+                    "blank": "7",
+                    "answer": "for"
+                },
+                {
+                    "blank": "8",
+                    "answer": "on"
+                },
+                {
+                    "blank": "9",
+                    "answer": ""
+                },
+                {
+                    "blank": "10",
+                    "answer": "to bed"
+                },
+                {
+                    "blank": "11",
+                    "answer": "for"
+                },
+                {
+                    "blank": "12",
+                    "answer": ""
+                },
+                {
+                    "blank": "13",
+                    "answer": "to"
+                },
+                {
+                    "blank": "14",
+                    "answer": "on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "on"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates various uses of 'go' with prepositions and expressions: 'go to' for destinations, 'go for' for activities, 'go on' for trips/vacations, and 'go + gerund' for recreational activities.",
+                "ru": "Это упражнение демонстрирует различные случаи использования 'go' с предлогами и выражениями: 'go to' для направлений, 'go for' для активностей, 'go on' для поездок/отпусков, и 'go + герундий' для развлекательных активностей.",
+                "uz": "Bu mashq 'go' ning predloglar va iboralar bilan turli ishlatilishini ko'rsatadi: yo'nalishlar uchun 'go to', faoliyatlar uchun 'go for', sayohatlar/ta'tillar uchun 'go on', va dam olish faoliyatlari uchun 'go + gerundiy'."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Mark is a young professional who works in London. He goes ___1___ work every day by underground train, leaving his house at 7 AM sharp. His office is in the financial district, and he usually goes ___2___ lunch with his colleagues at a nearby restaurant. After work, Mark enjoys staying active. Three times a week, he goes ___3___ running in Hyde Park to keep fit. On Friday evenings, he goes ___4___ the pub with his friends to celebrate the end of the work week. Mark loves the weekend because he can relax and pursue his hobbies. On Saturday mornings, he goes ___5___ cycling along the Thames River. Sometimes he goes ___6___ a long bike ride to the countryside. Mark's girlfriend lives in Brighton, so he often goes ___7___ visit her on weekends by taking the train. During their time together, they go ___8___ dancing at local clubs or go ___9___ the theater to watch plays. Every month, Mark goes ___10___ the dentist for regular check-ups, and twice a year he goes ___11___ the doctor for health examinations. When summer arrives, Mark and his girlfriend go ___12___ camping in Scotland. They love to go ___13___ hiking in the beautiful mountains and go ___14___ a picnic by the lakes. At the end of each busy day, Mark goes ___15___ around 11 PM because he values his rest.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to"
+                },
+                {
+                    "blank": "2",
+                    "answer": "for/to"
+                },
+                {
+                    "blank": "3",
+                    "answer": ""
+                },
+                {
+                    "blank": "4",
+                    "answer": "to"
+                },
+                {
+                    "blank": "5",
+                    "answer": ""
+                },
+                {
+                    "blank": "6",
+                    "answer": "for/on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "to"
+                },
+                {
+                    "blank": "8",
+                    "answer": ""
+                },
+                {
+                    "blank": "9",
+                    "answer": "to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "to"
+                },
+                {
+                    "blank": "11",
+                    "answer": "to"
+                },
+                {
+                    "blank": "12",
+                    "answer": ""
+                },
+                {
+                    "blank": "13",
+                    "answer": ""
+                },
+                {
+                    "blank": "14",
+                    "answer": "for/on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "to bed"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers common 'go' patterns: destinations require 'to', activities often use 'for', gerunds follow 'go' directly, and fixed expressions like 'go to bed' must be memorized.",
+                "ru": "Это упражнение охватывает распространенные схемы с 'go': направления требуют 'to', активности часто используют 'for', герундии идут непосредственно после 'go', а устойчивые выражения как 'go to bed' нужно запоминать.",
+                "uz": "Bu mashq 'go' bilan keng tarqalgan naqshlarni qamrab oladi: yo'nalishlar 'to' talab qiladi, faoliyatlar ko'pincha 'for' ishlatadi, gerundiylar to'g'ridan-to'g'ri 'go' dan keyin keladi, va 'go to bed' kabi barqaror iboralarni yodlash kerak."
+            }
+        }
+    ]
+}

@@ -1,0 +1,681 @@
+{
+    "id": "A1_VERBS_TO_INFINITIVE_AND_VERBS_-ING_BASIC_VERB_PATTERNS",
+    "title": "Verbs + to + infinitive and verbs + -ing - Basic verb patterns",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He wants learning to drive.",
+                    "correct": false
+                },
+                {
+                    "answer": "He wants to learn driving.",
+                    "correct": false
+                },
+                {
+                    "answer": "He wants to learn to drive.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After the verb 'want', you must use the 'to' infinitive form. The correct structure is 'want to + base verb'.",
+                "ru": "После глагола 'want' необходимо использовать форму 'to' инфинитива. Правильная структура — 'want to + базовый глагол'.",
+                "uz": "'Want' fe'lidan so'ng 'to'li infinitiv shaklini ishlatish kerak. To'g'ri tuzilma 'want to + asosiy fe'l' dir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They enjoy listen to music.",
+                    "correct": false
+                },
+                {
+                    "answer": "They enjoy listening to music.",
+                    "correct": true
+                },
+                {
+                    "answer": "They enjoy to listen to music.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'enjoy' is always followed by the -ing form of a verb. The correct structure is 'enjoy + verb-ing'.",
+                "ru": "За глаголом 'enjoy' всегда следует форма глагола с окончанием -ing. Правильная структура — 'enjoy + глагол-ing'.",
+                "uz": "'Enjoy' fe'lidan so'ng har doim fe'lning -ing shakli keladi. To'g'ri tuzilma 'enjoy + fe'l-ing' dir."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct option.",
+                "ru": "Выберите правильный вариант.",
+                "uz": "To'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She promised helping with the homework.",
+                    "correct": false
+                },
+                {
+                    "answer": "She promised to help with the homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "She promised help the homework.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'promise' is followed by the 'to' infinitive. It describes an action that will be done in the future.",
+                "ru": "За глаголом 'promise' следует инфинитив с 'to'. Это описывает действие, которое будет выполнено в будущем.",
+                "uz": "'Promise' fe'lidan so'ng 'to'li infinitiv keladi. Bu kelajakda amalga oshiriladigan harakatni tasvirlaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I can't imagine to live without coffee.",
+                    "correct": false
+                },
+                {
+                    "answer": "I can't imagine living without coffee.",
+                    "correct": true
+                },
+                {
+                    "answer": "I can't imagine live without coffee.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'imagine' is followed by a gerund (the -ing form). The correct pattern is 'imagine + verb-ing'.",
+                "ru": "За глаголом 'imagine' следует герундий (форма с окончанием -ing). Правильный паттерн — 'imagine + глагол-ing'.",
+                "uz": "'Imagine' fe'lidan so'ng gerund ( -ing shakli) keladi. To'g'ri shakl 'imagine + fe'l-ing' dir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He decided to buy a new car.",
+                    "correct": true
+                },
+                {
+                    "answer": "He decided buying a new car.",
+                    "correct": false
+                },
+                {
+                    "answer": "He decided buys a new car.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'decide' is always followed by the 'to' infinitive. The correct structure is 'decide + to + verb'.",
+                "ru": "После глагола 'decide' всегда используется инфинитив с 'to'. Правильная структура — 'decide + to + глагол'.",
+                "uz": "'Decide' fe'lidan so'ng har doim 'to'li infinitiv ishlatiladi. To'g'ri tuzilma 'decide + to + fe'l' dir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They hate to wake up early.",
+                    "correct": true
+                },
+                {
+                    "answer": "They hate waking up early.",
+                    "correct": true
+                },
+                {
+                    "answer": "They hate wake up early.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hate' can be followed by either the 'to' infinitive or the -ing form without a significant change in meaning. Both 'to wake up' and 'waking up' are correct.",
+                "ru": "За глаголом 'hate' может следовать как инфинитив с 'to', так и форма с -ing, без существенного изменения значения. Оба варианта 'to wake up' и 'waking up' верны.",
+                "uz": "'Hate' fe'lidan so'ng 'to'li infinitiv ham, -ing shakli ham ishlatilishi mumkin, ma'noda sezilarli o'zgarish bo'lmaydi. 'To wake up' va 'waking up' ikkalasi ham to'g'ri."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct option.",
+                "ru": "Выберите правильный вариант.",
+                "uz": "To'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I avoid to eat junk food.",
+                    "correct": false
+                },
+                {
+                    "answer": "I avoid eating junk food.",
+                    "correct": true
+                },
+                {
+                    "answer": "I avoid eat junk food.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'avoid' is always followed by the -ing form. It is a common verb that takes a gerund.",
+                "ru": "После глагола 'avoid' всегда используется форма с окончанием -ing. Это распространенный глагол, который требует герундия.",
+                "uz": "'Avoid' fe'lidan so'ng har doim -ing shakli ishlatiladi. Bu gerund talab qiladigan keng tarqalgan fe'l."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We hope to see you soon.",
+                    "correct": true
+                },
+                {
+                    "answer": "We hope seeing you soon.",
+                    "correct": false
+                },
+                {
+                    "answer": "We hope see you soon.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hope' is followed by the 'to' infinitive. It expresses a wish for a future event.",
+                "ru": "За глаголом 'hope' следует инфинитив с 'to'. Он выражает желание относительно будущего события.",
+                "uz": "'Hope' fe'lidan so'ng 'to'li infinitiv keladi. U kelajakdagi voqea uchun tilakni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He can't stand to wait in lines.",
+                    "correct": false
+                },
+                {
+                    "answer": "He can't stand waiting in lines.",
+                    "correct": true
+                },
+                {
+                    "answer": "He can't stand wait in lines.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'can't stand' is always followed by the -ing form of a verb. It is a set phrase to express dislike.",
+                "ru": "Фраза 'can't stand' всегда следует за глаголом с окончанием -ing. Это устойчивое выражение для выражения неприязни.",
+                "uz": "'Can't stand' iborasidan so'ng har doim fe'lning -ing shakli keladi. Bu yoqtirmaslikni ifodalash uchun barqaror ibora."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We finish to do our homework.",
+                    "correct": false
+                },
+                {
+                    "answer": "We finish doing our homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "We finish do our homework.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'finish' is followed by the -ing form. It describes the completion of an action.",
+                "ru": "За глаголом 'finish' следует форма с окончанием -ing. Это описывает завершение действия.",
+                "uz": "'Finish' fe'lidan so'ng -ing shakli keladi. U biror harakatning tugashini ifodalaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the verb in parentheses: He decided ___ (study) medicine.",
+                "ru": "Дополните предложение правильной формой глагола в скобках: He decided ___ (study) medicine.",
+                "uz": "Qavslardagi fe'lning to'g'ri shakli bilan gapni to'ldiring: He decided ___ (study) medicine."
+            },
+            "options": [
+                {
+                    "answer": "to study",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'decide' is followed by the 'to' infinitive to show a choice about a future action.",
+                "ru": "После глагола 'decide' следует инфинитив с 'to', чтобы показать выбор относительно будущего действия.",
+                "uz": "'Decide' fe'lidan so'ng kelajakdagi harakatga oid tanlovni ko'rsatish uchun 'to'li infinitiv ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the verb in parentheses: She enjoys ___ (read) fantasy books.",
+                "ru": "Дополните предложение правильной формой глагола в скобках: She enjoys ___ (read) fantasy books.",
+                "uz": "Qavslardagi fe'lning to'g'ri shakli bilan gapni to'ldiring: She enjoys ___ (read) fantasy books."
+            },
+            "options": [
+                {
+                    "answer": "reading",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'enjoy' is always followed by the -ing form (a gerund).",
+                "ru": "За глаголом 'enjoy' всегда следует форма с окончанием -ing (герундий).",
+                "uz": "'Enjoy' fe'lidan so'ng har doim -ing shakli (gerund) keladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: They want ___ (travel) to Italy next year.",
+                "ru": "Дополните предложение правильной формой глагола: They want ___ (travel) to Italy next year.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: They want ___ (travel) to Italy next year."
+            },
+            "options": [
+                {
+                    "answer": "to travel",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'want' is followed by the 'to' infinitive.",
+                "ru": "За глаголом 'want' следует инфинитив с 'to'.",
+                "uz": "'Want' fe'lidan so'ng 'to'li infinitiv keladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He agreed ___ (help) with the project.",
+                "ru": "Дополните предложение: He agreed ___ (help) with the project.",
+                "uz": "Gapni to'ldiring: He agreed ___ (help) with the project."
+            },
+            "options": [
+                {
+                    "answer": "to help",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'agree' is followed by the 'to' infinitive.",
+                "ru": "За глаголом 'agree' следует инфинитив с 'to'.",
+                "uz": "'Agree' fe'lidan so'ng 'to'li infinitiv keladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She finished ___ (write) her report.",
+                "ru": "Дополните предложение: She finished ___ (write) her report.",
+                "uz": "Gapni to'ldiring: She finished ___ (write) her report."
+            },
+            "options": [
+                {
+                    "answer": "writing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'finish' is followed by the -ing form.",
+                "ru": "За глаголом 'finish' следует форма с окончанием -ing.",
+                "uz": "'Finish' fe'lidan so'ng -ing shakli keladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: We miss ___ (talk) to our friends every day.",
+                "ru": "Дополните предложение правильной формой глагола: We miss ___ (talk) to our friends every day.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: We miss ___ (talk) to our friends every day."
+            },
+            "options": [
+                {
+                    "answer": "talking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'miss' is followed by the -ing form.",
+                "ru": "За глаголом 'miss' следует форма с окончанием -ing.",
+                "uz": "'Miss' fe'lidan so'ng -ing shakli keladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They hope ___ (pass) the exam.",
+                "ru": "Дополните предложение: They hope ___ (pass) the exam.",
+                "uz": "Gapni to'ldiring: They hope ___ (pass) the exam."
+            },
+            "options": [
+                {
+                    "answer": "to pass",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hope' is followed by the 'to' infinitive.",
+                "ru": "За глаголом 'hope' следует инфинитив с 'to'.",
+                "uz": "'Hope' fe'lidan so'ng 'to'li infinitiv keladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He admitted ___ (make) a mistake.",
+                "ru": "Дополните предложение: He admitted ___ (make) a mistake.",
+                "uz": "Gapni to'ldiring: He admitted ___ (make) a mistake."
+            },
+            "options": [
+                {
+                    "answer": "making",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'admit' is followed by the -ing form.",
+                "ru": "За глаголом 'admit' следует форма с окончанием -ing.",
+                "uz": "'Admit' fe'lidan so'ng -ing shakli keladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I decided ___ (go) to the park.",
+                "ru": "Дополните предложение: I decided ___ (go) to the park.",
+                "uz": "Gapni to'ldiring: I decided ___ (go) to the park."
+            },
+            "options": [
+                {
+                    "answer": "to go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'decide' is followed by the 'to' infinitive.",
+                "ru": "За глаголом 'decide' следует инфинитив с 'to'.",
+                "uz": "'Decide' fe'lidan so'ng 'to'li infinitiv keladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She suggested ___ (watch) a movie.",
+                "ru": "Дополните предложение: She suggested ___ (watch) a movie.",
+                "uz": "Gapni to'ldiring: She suggested ___ (watch) a movie."
+            },
+            "options": [
+                {
+                    "answer": "watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'suggest' is followed by the -ing form.",
+                "ru": "За глаголом 'suggest' следует форма с окончанием -ing.",
+                "uz": "'Suggest' fe'lidan so'ng -ing shakli keladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Alex, loves ___1___ (play) football. He's very good at it. Last week, he decided ___2___ (start) a new hobby. He wants ___3___ (learn) to play the guitar. He agreed ___4___ (take) lessons every week. He doesn't like ___5___ (study) music theory, but he enjoys ___6___ (practice) the guitar every day. He hopes ___7___ (be) a great musician one day. He also promised ___8___ (not/give) up when it gets difficult. He can't imagine ___9___ (live) without music now. He's happy he started ___10___ (do) something new.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "playing"
+                },
+                {
+                    "blank": "2",
+                    "answer": "to start"
+                },
+                {
+                    "blank": "3",
+                    "answer": "to learn"
+                },
+                {
+                    "blank": "4",
+                    "answer": "to take"
+                },
+                {
+                    "blank": "5",
+                    "answer": "studying"
+                },
+                {
+                    "blank": "6",
+                    "answer": "practicing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "to be"
+                },
+                {
+                    "blank": "8",
+                    "answer": "not to give"
+                },
+                {
+                    "blank": "9",
+                    "answer": "living"
+                },
+                {
+                    "blank": "10",
+                    "answer": "doing"
+                }
+            ],
+            "explanation": {
+                "en": "Verbs like 'love', 'enjoy', 'like', 'imagine', and 'start' are followed by the -ing form. Verbs like 'decide', 'want', 'agree', 'hope', and 'promise' are followed by the 'to' infinitive. Note the negative form 'not to give'.",
+                "ru": "За глаголами 'love', 'enjoy', 'like', 'imagine' и 'start' следует форма с окончанием -ing. За глаголами 'decide', 'want', 'agree', 'hope' и 'promise' следует инфинитив с 'to'. Обратите внимание на отрицательную форму 'not to give'.",
+                "uz": "'Love', 'enjoy', 'like', 'imagine' va 'start' kabi fe'llardan so'ng -ing shakli keladi. 'Decide', 'want', 'agree', 'hope' va 'promise' kabi fe'llardan so'ng 'to'li infinitiv ishlatiladi. 'Not to give' salbiy shakliga e'tibor bering."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My parents suggested ___1___ (visit) our grandparents this weekend. My sister, Clara, loves ___2___ (drive), so she offered ___3___ (drive) us there. We all agreed ___4___ (go). My dad decided ___5___ (bring) a cake, and my mom remembered ___6___ (buy) some flowers. I finished ___7___ (pack) my bag, but my brother, Mark, kept ___8___ (watch) TV and didn't want ___9___ (help). My parents told him they expect him ___10___ (be) more responsible. He promised ___11___ (help) next time, but I doubt he'll remember ___12___ (do) it.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "visiting"
+                },
+                {
+                    "blank": "2",
+                    "answer": "driving"
+                },
+                {
+                    "blank": "3",
+                    "answer": "to drive"
+                },
+                {
+                    "blank": "4",
+                    "answer": "to go"
+                },
+                {
+                    "blank": "5",
+                    "answer": "to bring"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to buy"
+                },
+                {
+                    "blank": "7",
+                    "answer": "packing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "watching"
+                },
+                {
+                    "blank": "9",
+                    "answer": "to help"
+                },
+                {
+                    "blank": "10",
+                    "answer": "to be"
+                },
+                {
+                    "blank": "11",
+                    "answer": "to help"
+                },
+                {
+                    "blank": "12",
+                    "answer": "to do"
+                }
+            ],
+            "explanation": {
+                "en": "The -ing form follows verbs like 'suggest', 'love', 'finish', and 'keep'. The 'to' infinitive follows verbs like 'offer', 'agree', 'decide', 'remember', 'want', 'expect', and 'promise'.",
+                "ru": "Форма с -ing следует за глаголами 'suggest', 'love', 'finish' и 'keep'. Инфинитив с 'to' следует за глаголами 'offer', 'agree', 'decide', 'remember', 'want', 'expect' и 'promise'.",
+                "uz": "'Suggest', 'love', 'finish' va 'keep' kabi fe'llardan so'ng -ing shakli keladi. 'Offer', 'agree', 'decide', 'remember', 'want', 'expect' va 'promise' kabi fe'llardan so'ng 'to'li infinitiv ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "I really enjoy ___1___ (walk) in the park. My friend, Lisa, promised ___2___ (come) with me, but she hates ___3___ (get) up early. So, I decided ___4___ (go) alone. I hope ___5___ (find) a quiet place to read my book. Last week, I tried ___6___ (start) a new exercise routine. I want ___7___ (run) every day, but I keep ___8___ (get) tired quickly. I need ___9___ (learn) to be more disciplined. I imagine ___10___ (be) a good runner one day. I also stopped ___11___ (eat) junk food to feel healthier. My doctor advised me ___12___ (not/do) that too often. It’s hard to avoid ___13___ (eat) sweets, but I'm trying. I don't want ___14___ (gain) weight again.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "walking"
+                },
+                {
+                    "blank": "2",
+                    "answer": "to come"
+                },
+                {
+                    "blank": "3",
+                    "answer": "getting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "to go"
+                },
+                {
+                    "blank": "5",
+                    "answer": "to find"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to start"
+                },
+                {
+                    "blank": "7",
+                    "answer": "to run"
+                },
+                {
+                    "blank": "8",
+                    "answer": "getting"
+                },
+                {
+                    "blank": "9",
+                    "answer": "to learn"
+                },
+                {
+                    "blank": "10",
+                    "answer": "being"
+                },
+                {
+                    "blank": "11",
+                    "answer": "eating"
+                },
+                {
+                    "blank": "12",
+                    "answer": "not to do"
+                },
+                {
+                    "blank": "13",
+                    "answer": "eating"
+                },
+                {
+                    "blank": "14",
+                    "answer": "to gain"
+                }
+            ],
+            "explanation": {
+                "en": "The -ing form is used after verbs and phrases like 'enjoy', 'hate', 'keep', 'imagine', 'stop', and 'avoid'. The 'to' infinitive is used after verbs like 'promise', 'decide', 'hope', 'try', 'want', 'need', and 'advise'.",
+                "ru": "Форма с -ing используется после глаголов и выражений 'enjoy', 'hate', 'keep', 'imagine', 'stop' и 'avoid'. Инфинитив с 'to' используется после глаголов 'promise', 'decide', 'hope', 'try', 'want', 'need' и 'advise'.",
+                "uz": "-ing shakli 'enjoy', 'hate', 'keep', 'imagine', 'stop' va 'avoid' kabi fe'llar va iboralardan so'ng ishlatiladi. 'To'li infinitiv 'promise', 'decide', 'hope', 'try', 'want', 'need' va 'advise' kabi fe'llardan so'ng qo'llaniladi."
+            }
+        }
+    ]
+}

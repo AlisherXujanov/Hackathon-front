@@ -1,0 +1,544 @@
+{
+  "id": "A1_ARTICLES_BASIC_USAGE_RULES_SET",
+  "title": "Articles (a, an, the) - Basic usage rules",
+  "items": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I have the dog." },
+        { "answer": "I have a dog.", "correct": true },
+        { "answer": "I have an dog." }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'Dog' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'Dog' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'Dog' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "She is teacher." },
+        { "answer": "She is an teacher." },
+        { "answer": "She is a teacher.", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'Teacher' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'Teacher' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'Teacher' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "He has a apple." },
+        { "answer": "He has an apple.", "correct": true },
+        { "answer": "He has the apple." }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Apple' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Apple' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Apple' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "The sun is hot.", "correct": true },
+        { "answer": "A sun is hot." },
+        { "answer": "An sun is hot." }
+      ],
+      "explanation": {
+        "en": "Use 'the' for unique things like the sun, moon, or earth.",
+        "ru": "Используйте 'the' для уникальных объектов, например солнца, луны или Земли.",
+        "uz": "'the' ni quyosh, oy yoki Yer kabi noyob narsalar uchun ishlating."
+      }
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I need a umbrella." },
+        { "answer": "I need an umbrella.", "correct": true },
+        { "answer": "I need the umbrella." }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Umbrella' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Umbrella' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Umbrella' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "Where is a book I gave you?" },
+        { "answer": "Where is the book I gave you?", "correct": true },
+        { "answer": "Where is an book I gave you?" }
+      ],
+      "explanation": {
+        "en": "Use 'the' when referring to something specific that both people know about.",
+        "ru": "Используйте 'the', когда речь идёт о чём-то конкретном, известном обеим сторонам.",
+        "uz": "Suhbatdoshlar ikkalasiga ham ma’lum bo‘lgan aniq narsaga ishora qilganda 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "She works in a office." },
+        { "answer": "She works in an office.", "correct": true },
+        { "answer": "She works in the office." }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Office' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Office' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Office' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I bought a car yesterday.", "correct": true },
+        { "answer": "I bought an car yesterday." },
+        { "answer": "I bought the car yesterday." }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds when introducing something new.",
+        "ru": "Используйте 'a' перед согласными звуками при первом упоминании предмета.",
+        "uz": "Narsani birinchi marta tilga olayotganda, undosh tovush bilan boshlangan so‘zlardan oldin 'a' ni ishlating."
+      }
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "A moon is beautiful tonight." },
+        { "answer": "An moon is beautiful tonight." },
+        { "answer": "The moon is beautiful tonight.", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'the' for unique things like the moon.",
+        "ru": "Используйте 'the' для уникальных объектов, например луны.",
+        "uz": "'the' ni oy kabi noyob narsalar uchun ishlating."
+      }
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "This is a hour." },
+        { "answer": "This is an hour.", "correct": true },
+        { "answer": "This is the hour." }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Hour' starts with a vowel sound (the 'h' is silent).",
+        "ru": "Используйте 'an' перед гласными звуками. 'Hour' начинается с гласного звука (буква 'h' не произносится).",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Hour' so‘zida 'h' talaffuz qilinmaydi, shuning uchun u unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa1",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': I have ___ cat.",
+        "ru": "Завершите с 'a' или 'an': I have ___ cat.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: I have ___ cat."
+      },
+      "options": [
+        { "answer": "a", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'Cat' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'Cat' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'Cat' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa2",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': She is ___ artist.",
+        "ru": "Завершите с 'a' или 'an': She is ___ artist.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: She is ___ artist."
+      },
+      "options": [
+        { "answer": "an", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Artist' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Artist' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Artist' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa3",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a', 'an' or 'the': ___ sun is bright today.",
+        "ru": "Завершите с 'a', 'an' или 'the': ___ sun is bright today.",
+        "uz": "'a', 'an' yoki 'the' bilan to'ldiring: ___ sun is bright today."
+      },
+      "options": [
+        { "answer": "the", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'the' for unique things like the sun.",
+        "ru": "Используйте 'the' для уникальных объектов, например солнца.",
+        "uz": "'the' ni quyosh kabi noyob narsalar uchun ishlating."
+      }
+    },
+    {
+      "id": "sa4",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': He wants ___ orange.",
+        "ru": "Завершите с 'a' или 'an': He wants ___ orange.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: He wants ___ orange."
+      },
+      "options": [
+        { "answer": "an", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Orange' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Orange' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Orange' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa5",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': This is ___ book.",
+        "ru": "Завершите с 'a' или 'an': This is ___ book.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: This is ___ book."
+      },
+      "options": [
+        { "answer": "a", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'Book' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'Book' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'Book' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa6",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a', 'an' or 'the': Where is ___ bathroom?",
+        "ru": "Завершите с 'a', 'an' или 'the': Where is ___ bathroom?",
+        "uz": "'a', 'an' yoki 'the' bilan to'ldiring: Where is ___ bathroom?"
+      },
+      "options": [
+        { "answer": "the", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'the' when asking about a specific place that exists.",
+        "ru": "Используйте 'the', когда спрашиваете о конкретном существующем месте.",
+        "uz": "Mavjud bo‘lgan aniq joy haqida so‘rayotganda 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "sa7",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': I need ___ egg for breakfast.",
+        "ru": "Завершите с 'a' или 'an': I need ___ egg for breakfast.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: I need ___ egg for breakfast."
+      },
+      "options": [
+        { "answer": "an", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'an' before vowel sounds. 'Egg' starts with a vowel sound.",
+        "ru": "Используйте 'an' перед гласными звуками. 'Egg' начинается с гласного звука.",
+        "uz": "Unli tovushdan oldin 'an' ishlating. 'Egg' so‘zi unli tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa8",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': My father is ___ doctor.",
+        "ru": "Завершите с 'a' или 'an': My father is ___ doctor.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: My father is ___ doctor."
+      },
+      "options": [
+        { "answer": "a", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'Doctor' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'Doctor' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'Doctor' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "sa9",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a', 'an' or 'the': ___ earth is round.",
+        "ru": "Завершите с 'a', 'an' или 'the': ___ earth is round.",
+        "uz": "'a', 'an' yoki 'the' bilan to'ldiring: ___ earth is round."
+      },
+      "options": [
+        { "answer": "the", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'the' for unique things like the earth.",
+        "ru": "Используйте 'the' для уникальных объектов, таких как Земля.",
+        "uz": "'the' ni Yer kabi noyob narsalar uchun ishlating."
+      }
+    },
+    {
+      "id": "sa10",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete with 'a' or 'an': She lives in ___ house.",
+        "ru": "Завершите с 'a' или 'an': She lives in ___ house.",
+        "uz": "'a' yoki 'an' bilan to'ldiring: She lives in ___ house."
+      },
+      "options": [
+        { "answer": "a", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonant sounds. 'House' starts with a consonant sound.",
+        "ru": "Используйте 'a' перед согласными звуками. 'House' начинается с согласного звука.",
+        "uz": "Undosh tovushdan oldin 'a' ishlating. 'House' so‘zi undosh tovush bilan boshlanadi."
+      }
+    },
+    {
+      "id": "mgf1",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct articles (a, an, the).",
+        "ru": "Заполните пропуски правильными артиклями (a, an, the).",
+        "uz": "Bo'shliqlarni to'g'ri artikllar (a, an, the) bilan to'ldiring."
+      },
+      "text": "Yesterday I went to ___1___ supermarket to buy some food. I needed ___2___ apple, ___3___ orange, and ___4___ banana for my breakfast. ___5___ supermarket was very busy because it was Saturday morning. I also wanted to buy ___6___ book to read, but ___7___ bookstore was closed. Instead, I went to ___8___ library near my house. ___9___ librarian was very helpful and showed me where to find ___10___ books I wanted. I found ___11___ interesting story about ___12___ young girl who travels around ___13___ world. ___14___ story was so good that I read it in ___15___ hour. When I got home, I made ___16___ delicious fruit salad with ___17___ apple, ___18___ orange, and ___19___ banana I bought earlier.",
+      "answers": [
+        { "blank": "1", "answer": "the" },
+        { "blank": "2", "answer": "an" },
+        { "blank": "3", "answer": "an" },
+        { "blank": "4", "answer": "a" },
+        { "blank": "5", "answer": "the" },
+        { "blank": "6", "answer": "a" },
+        { "blank": "7", "answer": "the" },
+        { "blank": "8", "answer": "the" },
+        { "blank": "9", "answer": "the" },
+        { "blank": "10", "answer": "the" },
+        { "blank": "11", "answer": "an" },
+        { "blank": "12", "answer": "a" },
+        { "blank": "13", "answer": "the" },
+        { "blank": "14", "answer": "the" },
+        { "blank": "15", "answer": "an" },
+        { "blank": "16", "answer": "a" },
+        { "blank": "17", "answer": "the" },
+        { "blank": "18", "answer": "the" },
+        { "blank": "19", "answer": "the" }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned things.",
+        "ru": "Используйте 'a' перед согласными, 'an' перед гласными, а 'the' — для конкретных или ранее упомянутых объектов.",
+        "uz": "Undoshdan oldin 'a', unli oldidan 'an', aniq yoki avval tilga olingan narsalar uchun 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "mgf2",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct articles (a, an, the).",
+        "ru": "Заполните пропуски правильными артиклями (a, an, the).",
+        "uz": "Bo'shliqlarni to'g'ri artikllar (a, an, the) bilan to'ldiring."
+      },
+      "text": "My friend Sarah works as ___1___ English teacher at ___2___ local school. Every morning she takes ___3___ bus to work because she doesn't have ___4___ car. ___5___ school where she works is very old and beautiful. It has ___6___ big garden with many flowers and trees. Sarah teaches children from six to twelve years old. She loves her job because ___7___ children are always happy to learn new things. In ___8___ afternoon, she often goes to ___9___ coffee shop near ___10___ school to prepare her lessons for ___11___ next day. ___12___ coffee shop has ___13___ quiet corner where she can work peacefully. Sometimes she meets ___14___ other teacher from her school there, and they discuss ___15___ problems they have with difficult students. On weekends, Sarah likes to read ___16___ good book or watch ___17___ movie at home.",
+      "answers": [
+        { "blank": "1", "answer": "an" },
+        { "blank": "2", "answer": "a" },
+        { "blank": "3", "answer": "the" },
+        { "blank": "4", "answer": "a" },
+        { "blank": "5", "answer": "the" },
+        { "blank": "6", "answer": "a" },
+        { "blank": "7", "answer": "the" },
+        { "blank": "8", "answer": "the" },
+        { "blank": "9", "answer": "a" },
+        { "blank": "10", "answer": "the" },
+        { "blank": "11", "answer": "the" },
+        { "blank": "12", "answer": "the" },
+        { "blank": "13", "answer": "a" },
+        { "blank": "14", "answer": "an/another" },
+        { "blank": "15", "answer": "the" },
+        { "blank": "16", "answer": "a" },
+        { "blank": "17", "answer": "a" }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned things.",
+        "ru": "Используйте 'a' перед согласными, 'an' перед гласными, а 'the' — для конкретных или ранее упомянутых объектов.",
+        "uz": "Undoshdan oldin 'a', unli oldidan 'an', aniq yoki avval tilga olingan narsalar uchun 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "mgf3",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct articles (a, an, the).",
+        "ru": "Заполните пропуски правильными артиклями (a, an, the).",
+        "uz": "Bo'shliqlarni to'g'ri artikllar (a, an, the) bilan to'ldiring."
+      },
+      "text": "Last weekend, my family and I went to ___1___ zoo in our city. ___2___ zoo is ___3___ amazing place where you can see many different animals from around ___4___ world. First, we visited ___5___ elephant area where ___6___ huge elephant was playing with ___7___ ball. My little sister was so excited to see ___8___ elephant because she had never seen one before. Next, we went to see ___9___ lions. ___10___ lions were sleeping under ___11___ big tree because it was ___12___ hot day. We also saw ___13___ funny monkey that was eating ___14___ banana and making everyone laugh. In ___15___ afternoon, we had ___16___ picnic in ___17___ park area of ___18___ zoo. It was ___19___ perfect day for ___20___ family trip, and we all had ___21___ wonderful time together.",
+      "answers": [
+        { "blank": "1", "answer": "the" },
+        { "blank": "2", "answer": "the" },
+        { "blank": "3", "answer": "an" },
+        { "blank": "4", "answer": "the" },
+        { "blank": "5", "answer": "the" },
+        { "blank": "6", "answer": "a" },
+        { "blank": "7", "answer": "a" },
+        { "blank": "8", "answer": "the" },
+        { "blank": "9", "answer": "the" },
+        { "blank": "10", "answer": "the" },
+        { "blank": "11", "answer": "a" },
+        { "blank": "12", "answer": "a" },
+        { "blank": "13", "answer": "a" },
+        { "blank": "14", "answer": "a" },
+        { "blank": "15", "answer": "the" },
+        { "blank": "16", "answer": "a" },
+        { "blank": "17", "answer": "the" },
+        { "blank": "18", "answer": "the" },
+        { "blank": "19", "answer": "a" },
+        { "blank": "20", "answer": "a" },
+        { "blank": "21", "answer": "a" }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned things.",
+        "ru": "Используйте 'a' перед согласными, 'an' перед гласными, а 'the' — для конкретных или ранее упомянутых объектов.",
+        "uz": "Undoshdan oldin 'a', unli oldidan 'an', aniq yoki avval tilga olingan narsalar uchun 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "mgf4",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct articles (a, an, the).",
+        "ru": "Заполните пропуски правильными артиклями (a, an, the).",
+        "uz": "Bo'shliqlarni to'g'ri artikllar (a, an, the) bilan to'ldiring."
+      },
+      "text": "Tom is ___1___ university student who studies medicine. He wants to become ___2___ doctor like his father. Every morning he wakes up early and has ___3___ quick breakfast before going to ___4___ university. ___5___ university where Tom studies is one of ___6___ best medical schools in ___7___ country. He has many difficult subjects to study, but his favorite is ___8___ anatomy class where students learn about ___9___ human body. Tom also works part-time at ___10___ hospital near his home to get ___11___ practical experience. ___12___ doctors and nurses at ___13___ hospital are very kind and always help him learn new things. In ___14___ evenings, Tom studies with his friends in ___15___ library. They often discuss ___16___ difficult cases and help each other understand ___17___ complex medical concepts. Tom knows that becoming ___18___ good doctor takes many years of hard work, but he is determined to achieve his dream.",
+      "answers": [
+        { "blank": "1", "answer": "a" },
+        { "blank": "2", "answer": "a" },
+        { "blank": "3", "answer": "a" },
+        { "blank": "4", "answer": "the" },
+        { "blank": "5", "answer": "the" },
+        { "blank": "6", "answer": "the" },
+        { "blank": "7", "answer": "the" },
+        { "blank": "8", "answer": "the" },
+        { "blank": "9", "answer": "the" },
+        { "blank": "10", "answer": "a" },
+        { "blank": "11", "answer": "the" },
+        { "blank": "12", "answer": "the" },
+        { "blank": "13", "answer": "the" },
+        { "blank": "14", "answer": "the" },
+        { "blank": "15", "answer": "the" },
+        { "blank": "16", "answer": "the" },
+        { "blank": "17", "answer": "the" },
+        { "blank": "18", "answer": "a" }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned things.",
+        "ru": "Используйте 'a' перед согласными, 'an' перед гласными, а 'the' — для конкретных или ранее упомянутых объектов.",
+        "uz": "Undoshdan oldin 'a', unli oldidan 'an', aniq yoki avval tilga olingan narsalar uchun 'the' ni ishlating."
+      }
+    },
+    {
+      "id": "mgf5",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct articles (a, an, the).",
+        "ru": "Заполните пропуски правильными артиклями (a, an, the).",
+        "uz": "Bo'shliqlarni to'g'ri artikllar (a, an, the) bilan to'ldiring."
+      },
+      "text": "Maria loves cooking and dreams of opening ___1___ restaurant someday. She is taking ___2___ cooking class at ___3___ local cooking school. ___4___ teacher is ___5___ famous chef who has worked in many restaurants around ___6___ world. In today's class, they are learning how to make ___7___ perfect pasta dish. First, you need to boil ___8___ water in ___9___ large pot and add ___10___ little salt. Then you add ___11___ pasta and cook it for about ten minutes. While ___12___ pasta is cooking, you prepare ___13___ sauce with fresh tomatoes, garlic, and herbs. ___14___ most important thing is to use ___15___ good quality olive oil. When ___16___ pasta is ready, you mix it with ___17___ sauce and serve it immediately. Maria practiced making this dish many times at home, and now she can cook ___18___ delicious pasta that everyone loves.",
+      "answers": [
+        { "blank": "1", "answer": "a" },
+        { "blank": "2", "answer": "a" },
+        { "blank": "3", "answer": "a" },
+        { "blank": "4", "answer": "the" },
+        { "blank": "5", "answer": "a" },
+        { "blank": "6", "answer": "the" },
+        { "blank": "7", "answer": "a" },
+        { "blank": "8", "answer": "the" },
+        { "blank": "9", "answer": "a" },
+        { "blank": "10", "answer": "a" },
+        { "blank": "11", "answer": "the" },
+        { "blank": "12", "answer": "the" },
+        { "blank": "13", "answer": "the" },
+        { "blank": "14", "answer": "the" },
+        { "blank": "15", "answer": "the" },
+        { "blank": "16", "answer": "the" },
+        { "blank": "17", "answer": "the" },
+        { "blank": "18", "answer": "the" }
+      ],
+      "explanation": {
+        "en": "Use 'a' before consonants, 'an' before vowels, and 'the' for specific or previously mentioned things.",
+        "ru": "Используйте 'a' перед согласными, 'an' перед гласными, а 'the' — для конкретных или ранее упомянутых объектов.",
+        "uz": "Undoshdan oldin 'a', unli oldidan 'an', aniq yoki avval tilga olingan narsalar uchun 'the' ni ishlating."
+      }
+    }
+  ]
+ }

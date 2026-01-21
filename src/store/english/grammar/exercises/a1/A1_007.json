@@ -1,0 +1,887 @@
+{
+    "id": "A1_BASIC_PREPOSITIONS_IN_ON_AT_TIME_AND_PLACE",
+    "title": "Basic Prepositions (in, on, at - time and place) - Most common uses",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I live at London."
+                },
+                {
+                    "answer": "I live in London.",
+                    "correct": true
+                },
+                {
+                    "answer": "I live on London."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with cities and countries.",
+                "ru": "Мы используем 'in' с городами и странами.",
+                "uz": "Shahar va davlatlar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The meeting is in 3 o'clock."
+                },
+                {
+                    "answer": "The meeting is on 3 o'clock."
+                },
+                {
+                    "answer": "The meeting is at 3 o'clock.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' with specific times.",
+                "ru": "Мы используем 'at' с точным временем.",
+                "uz": "Aniq vaqtlar bilan 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My birthday is at July."
+                },
+                {
+                    "answer": "My birthday is in July.",
+                    "correct": true
+                },
+                {
+                    "answer": "My birthday is on July."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with months.",
+                "ru": "Мы используем 'in' с месяцами.",
+                "uz": "Oy nomlari bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The book is in the table."
+                },
+                {
+                    "answer": "The book is at the table."
+                },
+                {
+                    "answer": "The book is on the table.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' when something is on top of a surface.",
+                "ru": "Мы используем 'on', когда предмет находится на поверхности.",
+                "uz": "Narsa yuzaning ustida bo‘lsa, 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I work at night.",
+                    "correct": true
+                },
+                {
+                    "answer": "I work on night."
+                },
+                {
+                    "answer": "I work in night."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' with parts of the day like night, noon, midnight.",
+                "ru": "Мы используем 'at' с частями суток: night, noon, midnight.",
+                "uz": "Kunning qismlari (night, noon, midnight) bilan 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We have class at Monday."
+                },
+                {
+                    "answer": "We have class on Monday.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have class in Monday."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' with days of the week.",
+                "ru": "Мы используем 'on' с днями недели.",
+                "uz": "Hafta kunlari bilan 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is on the kitchen."
+                },
+                {
+                    "answer": "She is in the kitchen.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is at the kitchen."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' for enclosed spaces like rooms.",
+                "ru": "Мы используем 'in' для закрытых пространств, например комнат.",
+                "uz": "Xona kabi yopiq joylar uchun 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The party is in Saturday."
+                },
+                {
+                    "answer": "The party is at Saturday."
+                },
+                {
+                    "answer": "The party is on Saturday.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' with specific days.",
+                "ru": "Мы используем 'on' с конкретными днями.",
+                "uz": "Aniq kunlar bilan 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I was born on 1995."
+                },
+                {
+                    "answer": "I was born in 1995.",
+                    "correct": true
+                },
+                {
+                    "answer": "I was born at 1995."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with years.",
+                "ru": "Мы используем 'in' с годами.",
+                "uz": "Yillar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Meet me in the bus stop."
+                },
+                {
+                    "answer": "Meet me at the bus stop.",
+                    "correct": true
+                },
+                {
+                    "answer": "Meet me on the bus stop."
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' for specific locations or points.",
+                "ru": "Мы используем 'at' для точечных/конкретных мест.",
+                "uz": "Aniq joy yoki nuqtalar uchun 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: I live ___ New York.",
+                "ru": "Дополните предложение правильным предлогом: I live ___ New York.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: I live ___ New York."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with cities.",
+                "ru": "Мы используем 'in' с городами.",
+                "uz": "Shaharlar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The class starts ___ 9:00 AM.",
+                "ru": "Дополните предложение правильным предлогом: The class starts ___ 9:00 AM.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The class starts ___ 9:00 AM."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' with specific times.",
+                "ru": "Мы используем 'at' с точным временем.",
+                "uz": "Aniq vaqtlar bilan 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: My keys are ___ the desk.",
+                "ru": "Дополните предложение правильным предлогом: My keys are ___ the desk.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: My keys are ___ the desk."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' when something is on top of a surface.",
+                "ru": "Мы используем 'on', когда предмет находится на поверхности.",
+                "uz": "Narsa yuzaning ustida bo‘lsa, 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: I have a vacation ___ summer.",
+                "ru": "Дополните предложение правильным предлогом: I have a vacation ___ summer.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: I have a vacation ___ summer."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with seasons.",
+                "ru": "Мы используем 'in' с временами года.",
+                "uz": "Fasllar bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: We go shopping ___ Sundays.",
+                "ru": "Дополните предложение правильным предлогом: We go shopping ___ Sundays.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: We go shopping ___ Sundays."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' with days of the week.",
+                "ru": "Мы используем 'on' с днями недели.",
+                "uz": "Hafta kunlari bilan 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: She works ___ the hospital.",
+                "ru": "Дополните предложение правильным предлогом: She works ___ the hospital.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: She works ___ the hospital."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' with specific places of work or study.",
+                "ru": "Мы используем 'at' с конкретными местами работы или учебы.",
+                "uz": "Aniq ish yoki o‘qish joylari bilan 'at' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The children are playing ___ the garden.",
+                "ru": "Дополните предложение правильным предлогом: The children are playing ___ the garden.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The children are playing ___ the garden."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' for enclosed outdoor areas.",
+                "ru": "Мы используем 'in' для огороженных открытых пространств.",
+                "uz": "O‘ralgan ochiq hududlar uchun 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: I get up early ___ the morning.",
+                "ru": "Дополните предложение правильным предлогом: I get up early ___ the morning.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: I get up early ___ the morning."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with parts of the day (morning, afternoon, evening).",
+                "ru": "Мы используем 'in' с частями суток (morning, afternoon, evening).",
+                "uz": "Kunning qismlari (morning, afternoon, evening) bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: The picture is ___ the wall.",
+                "ru": "Дополните предложение правильным предлогом: The picture is ___ the wall.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: The picture is ___ the wall."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' when something is attached to a wall or surface.",
+                "ru": "Мы используем 'on', когда предмет прикреплен к стене или поверхности.",
+                "uz": "Narsa devor yoki yuzaga ilingan bo‘lsa, 'on' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct preposition: Christmas is ___ December.",
+                "ru": "Дополните предложение правильным предлогом: Christmas is ___ December.",
+                "uz": "Gapni to'g'ri predlog bilan to'ldiring: Christmas is ___ December."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' with months.",
+                "ru": "Мы используем 'in' с месяцами.",
+                "uz": "Oy nomlari bilan 'in' ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "My name is Sarah and I live ___1___ a small town ___2___ England. Every morning, I wake up ___3___ 7:00 AM and have breakfast. I work ___4___ a local school as a teacher. My classes start ___5___ 8:30 AM and finish ___6___ 3:30 PM. ___7___ Monday mornings, I have a meeting with other teachers. During lunch break, I sit ___8___ the garden behind the school. ___9___ the afternoon, I prepare lessons for the next day. I usually put my books ___10___ my desk ___11___ the evening. ___12___ weekends, I like to visit my parents who live ___13___ London. They have a beautiful apartment ___14___ the city center. We often have dinner together ___15___ Sunday evenings and talk about our week.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "at"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "at"
+                },
+                {
+                    "blank": "6",
+                    "answer": "at"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "in"
+                },
+                {
+                    "blank": "10",
+                    "answer": "on"
+                },
+                {
+                    "blank": "11",
+                    "answer": "in"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on/at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "in"
+                },
+                {
+                    "blank": "14",
+                    "answer": "in"
+                },
+                {
+                    "blank": "15",
+                    "answer": "on"
+                }
+            ],
+            "explanation": {
+                "en": "This text practices common uses of in, on, and at with places and times.",
+                "ru": "Этот текст отрабатывает распространённые случаи употребления in, on, at с местами и временем.",
+                "uz": "Matn joy va vaqt bilan bog‘liq in, on, at ning keng tarqalgan ishlatilishini mashq qiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Tom is a university student who lives ___1___ Manchester. He studies ___2___ the university library most days. His favorite study spot is ___3___ the second floor, where he can sit ___4___ a quiet table near the window. Tom's classes are usually ___5___ the morning, starting ___6___ 9:00 AM. ___7___ Tuesdays and Thursdays, he has a part-time job ___8___ a local café. He works there ___9___ the evening from 5:00 PM to 9:00 PM. Tom keeps his textbooks ___10___ his backpack and his laptop ___11___ his desk ___12___ his dormitory room. ___13___ winter, he likes to study ___14___ the warm library rather than ___15___ his cold room. His exams are scheduled ___16___ May, so he is preparing hard for them.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "at"
+                },
+                {
+                    "blank": "3",
+                    "answer": "on"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "in"
+                },
+                {
+                    "blank": "6",
+                    "answer": "at"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "at"
+                },
+                {
+                    "blank": "9",
+                    "answer": "in"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "in"
+                },
+                {
+                    "blank": "13",
+                    "answer": "in"
+                },
+                {
+                    "blank": "14",
+                    "answer": "in"
+                },
+                {
+                    "blank": "15",
+                    "answer": "in"
+                },
+                {
+                    "blank": "16",
+                    "answer": "in"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on prepositions with time expressions and locations commonly used by students.",
+                "ru": "Текст сосредоточен на предлогах со временем и локациями, часто используемых студентами.",
+                "uz": "Matn talabalar ko‘p ishlatadigan vaqt ifodalari va joylar bilan predloglar qo‘llanishiga e’tibor qaratadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Lisa works ___1___ a busy office ___2___ the center of Paris. She arrives ___3___ work ___4___ 8:00 AM every day except ___5___ Sundays, when the office is closed. Her desk is located ___6___ the third floor, and she keeps her computer ___7___ the desk along with important documents. ___8___ lunch time, she often goes to a small restaurant ___9___ the street from her office. Lisa has important meetings ___10___ Monday afternoons and ___11___ Wednesday mornings. She usually finishes work ___12___ 6:00 PM and goes home ___13___ the evening. ___14___ Friday nights, she likes to meet friends ___15___ a café near her apartment. Lisa was born ___16___ 1990 ___17___ September, and she has been working ___18___ this company for three years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "at"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "on"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "at"
+                },
+                {
+                    "blank": "9",
+                    "answer": "on"
+                },
+                {
+                    "blank": "10",
+                    "answer": "on"
+                },
+                {
+                    "blank": "11",
+                    "answer": "on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "in"
+                },
+                {
+                    "blank": "14",
+                    "answer": "on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "at"
+                },
+                {
+                    "blank": "16",
+                    "answer": "in"
+                },
+                {
+                    "blank": "17",
+                    "answer": "in"
+                },
+                {
+                    "blank": "18",
+                    "answer": "at"
+                }
+            ],
+            "explanation": {
+                "en": "This text covers workplace and daily routine contexts using in, on, and at.",
+                "ru": "Текст охватывает рабочие и повседневные ситуации с использованием in, on и at.",
+                "uz": "Matn ish joyi va kundalik odatlarda in, on, at qo‘llanishini yoritadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "The Johnson family lives ___1___ a beautiful house ___2___ the countryside. Their house is located ___3___ Maple Street, and they have lived there since 2015. Mr. Johnson works ___4___ home ___5___ his computer, which sits ___6___ a wooden desk ___7___ his office. Mrs. Johnson teaches ___8___ the local elementary school. She leaves for work ___9___ 7:30 AM and returns ___10___ the afternoon around 4:00 PM. Their children, Emma and Jack, go to school ___11___ weekdays but stay home ___12___ weekends. ___13___ Saturday mornings, the family likes to have breakfast together ___14___ their kitchen table. They often put fresh flowers ___15___ the table to make it look nice. ___16___ summer, they enjoy spending time ___17___ their garden, and ___18___ winter, they prefer to stay ___19___ the warm house.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "on"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "on"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "at"
+                },
+                {
+                    "blank": "9",
+                    "answer": "at"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "on"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on/at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "on"
+                },
+                {
+                    "blank": "14",
+                    "answer": "at"
+                },
+                {
+                    "blank": "15",
+                    "answer": "on"
+                },
+                {
+                    "blank": "16",
+                    "answer": "in"
+                },
+                {
+                    "blank": "17",
+                    "answer": "in"
+                },
+                {
+                    "blank": "18",
+                    "answer": "in"
+                },
+                {
+                    "blank": "19",
+                    "answer": "in"
+                }
+            ],
+            "explanation": {
+                "en": "This text demonstrates preposition usage in family and home contexts.",
+                "ru": "Текст демонстрирует употребление предлогов в контексте семьи и дома.",
+                "uz": "Matn oila va uy kontekstida predloglar qo‘llanishini ko‘rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Maria is planning a trip to Italy ___1___ March. She will fly from New York to Rome ___2___ a Tuesday morning. Her flight departs ___3___ 10:30 AM and arrives ___4___ Rome ___5___ the evening. She has booked a hotel room ___6___ the historic center of the city. ___7___ her first day, she wants to visit the famous Colosseum and put her guidebook ___8___ her backpack for easy access. Maria plans to wake up early ___9___ 7:00 AM each morning to make the most of her vacation. ___10___ the afternoons, she will rest ___11___ her hotel room or sit ___12___ a café ___13___ the street. She has dinner reservations ___14___ Friday night ___15___ a restaurant that her friend recommended. Maria will return home ___16___ Sunday, bringing many photos and memories from her wonderful trip to Italy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "on"
+                },
+                {
+                    "blank": "3",
+                    "answer": "at"
+                },
+                {
+                    "blank": "4",
+                    "answer": "in"
+                },
+                {
+                    "blank": "5",
+                    "answer": "in"
+                },
+                {
+                    "blank": "6",
+                    "answer": "in"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "at"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "in"
+                },
+                {
+                    "blank": "12",
+                    "answer": "at"
+                },
+                {
+                    "blank": "13",
+                    "answer": "on"
+                },
+                {
+                    "blank": "14",
+                    "answer": "on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "at"
+                },
+                {
+                    "blank": "16",
+                    "answer": "on"
+                }
+            ],
+            "explanation": {
+                "en": "This text practices prepositions in travel and vacation contexts.",
+                "ru": "Текст отрабатывает предлоги в контексте путешествий и отдыха.",
+                "uz": "Matn sayohat va ta’til kontekstida predloglar qo‘llanishini mashq qiladi."
+            }
+        }
+    ]
+}

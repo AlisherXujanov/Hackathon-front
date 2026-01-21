@@ -1,0 +1,648 @@
+{
+    "id": "A2_PAST_SIMPLE_-_CONSOLIDATION_OF_ALL_FORMS",
+    "title": "Past Simple - Consolidation of all forms",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence in the past simple tense.",
+                "ru": "Выберите правильное предложение в прошедшем простом времени.",
+                "uz": "O'tgan oddiy zamondagi to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He didn't went to the park yesterday."
+                },
+                {
+                    "answer": "Did she ate the cake?",
+                    "correct": true
+                },
+                {
+                    "answer": "They didn't played soccer."
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'did' is used for questions in the past simple. 'Ate' is the past form of 'eat'.",
+                "ru": "Вспомогательный глагол 'did' используется для вопросов в прошедшем простом времени. 'Ate' — это форма прошедшего времени от 'eat'.",
+                "uz": "O'tgan oddiy zamonda savollar uchun 'did' yordamchi fe'li ishlatiladi. 'Ate' esa 'eat' fe'lining o'tgan zamon shakli."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Where did you went last night?"
+                },
+                {
+                    "answer": "She did not watched the movie."
+                },
+                {
+                    "answer": "Why were you late for the meeting?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'to be' in the past simple is 'was/were'. We use 'were' for the subject 'you'.",
+                "ru": "Глагол 'to be' в прошедшем простом времени - это 'was/were'. Мы используем 'were' для подлежащего 'you'.",
+                "uz": "O'tgan oddiy zamonda 'to be' fe'li 'was/were' bo'ladi. 'You' kesimi uchun 'were' ishlatamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct past simple form.",
+                "ru": "Выберите правильную форму прошедшего простого времени.",
+                "uz": "To'g'ri o'tgan oddiy zamon shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We didn't wrote a letter to them."
+                },
+                {
+                    "answer": "Did he talk to his mother?",
+                    "correct": true
+                },
+                {
+                    "answer": "They did not went to the party."
+                }
+            ],
+            "explanation": {
+                "en": "The correct form is 'did' + base form of the verb for questions and negative statements.",
+                "ru": "Правильная форма — 'did' + базовая форма глагола для вопросов и отрицательных предложений.",
+                "uz": "To'g'ri shakl savol va inkor gaplar uchun 'did' + fe'lning asosiy shaklidir."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the sentence with the correct past simple verb.",
+                "ru": "Выберите предложение с правильным глаголом в прошедшем простом времени.",
+                "uz": "To'g'ri o'tgan oddiy zamon fe'li bo'lgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She catched the ball."
+                },
+                {
+                    "answer": "They didn't understood the lesson."
+                },
+                {
+                    "answer": "He read a book last week.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of 'read' is also 'read'. The pronunciation is different, but the spelling is the same.",
+                "ru": "Прошедшая форма глагола 'read' также 'read'. Произношение отличается, но написание такое же.",
+                "uz": "'Read' fe'lining o'tgan zamon shakli ham 'read' bo'ladi. Talaffuzi farqli, lekin yozilishi bir xil."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct in the past simple?",
+                "ru": "Какое предложение правильное в прошедшем простом времени?",
+                "uz": "Qaysi gap o'tgan oddiy zamonda to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Did you saw the new film?"
+                },
+                {
+                    "answer": "I did not went to the library."
+                },
+                {
+                    "answer": "She bought a new phone.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Bought' is the correct irregular past simple form of the verb 'buy'.",
+                "ru": "'Bought' — это правильная неправильная форма прошедшего простого времени глагола 'buy'.",
+                "uz": "'Bought' bu 'buy' fe'lining noto'g'ri o'tgan oddiy zamon shakli."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correctly structured sentence.",
+                "ru": "Выберите правильно построенное предложение.",
+                "uz": "To'g'ri tuzilgan gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We did finished the project on time."
+                },
+                {
+                    "answer": "He was at home all day yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "They didn't came to the party."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of 'to be' is 'was/were'. The main verb 'be' is not used with 'did' or 'didn't'.",
+                "ru": "Прошедшее простое от 'to be' — 'was/were'. Основной глагол 'be' не используется с 'did' или 'didn't'.",
+                "uz": "'To be' fe'lining o'tgan oddiy zamoni 'was/were' hisoblanadi. Asosiy 'be' fe'li 'did' yoki 'didn't' bilan ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which of these sentences uses the past simple correctly?",
+                "ru": "Какое из этих предложений правильно использует прошедшее простое время?",
+                "uz": "Ushbu gaplardan qaysi biri o'tgan oddiy zamonni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "Did you wrote that email?"
+                },
+                {
+                    "answer": "I didn't liked the movie."
+                },
+                {
+                    "answer": "They went to the beach.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Went' is the correct irregular past simple form of 'go'.",
+                "ru": "'Went' — это правильная неправильная форма прошедшего простого времени глагола 'go'.",
+                "uz": "'Went' bu 'go' fe'lining noto'g'ri o'tgan oddiy zamon shakli."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct negative sentence.",
+                "ru": "Выберите правильное отрицательное предложение.",
+                "uz": "To'g'ri inkor gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He didn't ate his dinner."
+                },
+                {
+                    "answer": "She not finished her homework."
+                },
+                {
+                    "answer": "They didn't finish their work.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a negative sentence in the past simple, we use 'didn't' and the base form of the main verb.",
+                "ru": "Чтобы образовать отрицательное предложение в прошедшем простом времени, мы используем 'didn't' и базовую форму основного глагола.",
+                "uz": "O'tgan oddiy zamonda inkor gap tuzish uchun 'didn't' va asosiy fe'lning bazaviy shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Where did they went last week?"
+                },
+                {
+                    "answer": "I didn't went to the concert."
+                },
+                {
+                    "answer": "We saw the new film last night.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct past simple form of 'see' is 'saw'. No auxiliary verb is needed for affirmative sentences.",
+                "ru": "Правильная форма прошедшего простого времени глагола 'see' - 'saw'. Вспомогательный глагол не нужен для утвердительных предложений.",
+                "uz": "'See' fe'lining to'g'ri o'tgan oddiy zamon shakli 'saw' bo'ladi. Tasdiq gaplar uchun yordamchi fe'l kerak emas."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did you found your keys?"
+                },
+                {
+                    "answer": "Did you find your keys?",
+                    "correct": true
+                },
+                {
+                    "answer": "Did he finded his keys?"
+                }
+            ],
+            "explanation": {
+                "en": "The correct past simple form of 'find' is 'found'. We use the base form 'find' with 'did'.",
+                "ru": "Правильная форма прошедшего простого времени 'find' — 'found'. Мы используем базовую форму 'find' с 'did'.",
+                "uz": "'Find' fe'lining to'g'ri o'tgan oddiy zamon shakli 'found' bo'ladi. 'Did' bilan 'find' asosiy shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple form of the verb in parentheses: She ___ (go) to Paris last summer.",
+                "ru": "Дополните предложение формой прошедшего простого времени глагола в скобках: She ___ (go) to Paris last summer.",
+                "uz": "Gapni qavs ichidagi fe'lning o'tgan oddiy zamon shakli bilan to'ldiring: She ___ (go) to Paris last summer."
+            },
+            "options": [
+                {
+                    "answer": "went",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of the irregular verb 'go' is 'went'.",
+                "ru": "Прошедшая простая форма неправильного глагола 'go' — 'went'.",
+                "uz": "'Go' noto'g'ri fe'lining o'tgan oddiy zamon shakli 'went' bo'ladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ their homework last night. (do)",
+                "ru": "Дополните предложение: They ___ their homework last night. (do)",
+                "uz": "Gapni to'ldiring: They ___ their homework last night. (do)"
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of 'do' is 'did'.",
+                "ru": "Прошедшая простая форма 'do' — 'did'.",
+                "uz": "'Do' fe'lining o'tgan oddiy zamon shakli 'did' bo'ladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct form of the verb: He ___ (not/watch) the movie.",
+                "ru": "Заполните пропуск правильной формой глагола: He ___ (not/watch) the movie.",
+                "uz": "Bo'sh joyni fe'lning to'g'ri shakli bilan to'ldiring: He ___ (not/watch) the movie."
+            },
+            "options": [
+                {
+                    "answer": "didn't watch/did not watch",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form the negative past simple, use 'didn't' followed by the base form of the verb.",
+                "ru": "Чтобы образовать отрицание в прошедшем простом времени, используйте 'didn't', за которым следует базовая форма глагола.",
+                "uz": "O'tgan oddiy zamonda inkor gap tuzish uchun 'didn't' va fe'lning asosiy shaklidan foydalaning."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct verb form: We ___ (see) our friends yesterday.",
+                "ru": "Дополните предложение правильной формой глагола: We ___ (see) our friends yesterday.",
+                "uz": "Gapni to'g'ri fe'l shakli bilan to'ldiring: We ___ (see) our friends yesterday."
+            },
+            "options": [
+                {
+                    "answer": "saw",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of the irregular verb 'see' is 'saw'.",
+                "ru": "Прошедшая простая форма неправильного глагола 'see' — 'saw'.",
+                "uz": "'See' noto'g'ri fe'lining o'tgan oddiy zamon shakli 'saw' bo'ladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ you ___ (finish) the book?",
+                "ru": "Дополните вопрос: ___ you ___ (finish) the book?",
+                "uz": "Savolni to'ldiring: ___ you ___ (finish) the book?"
+            },
+            "options": [
+                {
+                    "answer": "Did finish",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For questions in the past simple, we use 'Did' followed by the subject and the base form of the main verb.",
+                "ru": "Для вопросов в прошедшем простом времени мы используем 'Did', за которым следует подлежащее и базовая форма основного глагола.",
+                "uz": "O'tgan oddiy zamonda savollar uchun 'Did', keyin esa kesim va asosiy fe'lning boshlang'ich shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the past simple form of 'be': I ___ very tired after the trip.",
+                "ru": "Дополните предложение формой прошедшего простого времени глагола 'be': I ___ very tired after the trip.",
+                "uz": "Gapni 'be' fe'lining o'tgan oddiy zamon shakli bilan to'ldiring: I ___ very tired after the trip."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple form of 'to be' for the subject 'I' is 'was'.",
+                "ru": "Прошедшая простая форма глагола 'to be' для подлежащего 'I' — 'was'.",
+                "uz": "'I' kesimi uchun 'to be' fe'lining o'tgan oddiy zamon shakli 'was' bo'ladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct past simple form: They ___ (not/come) to the party.",
+                "ru": "Дополните предложение правильной формой прошедшего простого времени: They ___ (not/come) to the party.",
+                "uz": "Gapni o'tgan oddiy zamonning to'g'ri shakli bilan to'ldiring: They ___ (not/come) to the party."
+            },
+            "options": [
+                {
+                    "answer": "didn't come/did not come",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The negative past simple is formed with 'didn't' and the base form of the verb.",
+                "ru": "Отрицательная форма прошедшего простого времени образуется с помощью 'didn't' и базовой формы глагола.",
+                "uz": "O'tgan oddiy zamonning inkor shakli 'didn't' va fe'lning asosiy shakli bilan hosil bo'ladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the past simple form of 'make': She ___ a cake for my birthday.",
+                "ru": "Заполните пропуск формой прошедшего простого времени 'make': She ___ a cake for my birthday.",
+                "uz": "Bo'sh joyni 'make' fe'lining o'tgan oddiy zamon shakli bilan to'ldiring: She ___ a cake for my birthday."
+            },
+            "options": [
+                {
+                    "answer": "made",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of the irregular verb 'make' is 'made'.",
+                "ru": "Прошедшая простая форма неправильного глагола 'make' — 'made'.",
+                "uz": "'Make' noto'g'ri fe'lining o'tgan oddiy zamon shakli 'made' bo'ladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: Where ___ you ___ (find) that old photo?",
+                "ru": "Дополните вопрос: Where ___ you ___ (find) that old photo?",
+                "uz": "Savolni to'ldiring: Where ___ you ___ (find) that old photo?"
+            },
+            "options": [
+                {
+                    "answer": "did find",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For questions with a wh-word, the structure is 'wh-word + did + subject + base form'.",
+                "ru": "Для вопросов с вопросительным словом структура: 'wh-слово + did + подлежащее + базовая форма'.",
+                "uz": "Savol so'zi bilan savollar uchun tuzilma: 'savol so'zi + did + kesim + asosiy shakl'."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank with the correct verb form: I ___ (live) in that house when I was a child.",
+                "ru": "Заполните пропуск правильной формой глагола: I ___ (live) in that house when I was a child.",
+                "uz": "Bo'sh joyni fe'lning to'g'ri shakli bilan to'ldiring: I ___ (live) in that house when I was a child."
+            },
+            "options": [
+                {
+                    "answer": "lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past simple of the regular verb 'live' is formed by adding '-d'.",
+                "ru": "Прошедшая простая форма правильного глагола 'live' образуется добавлением '-d'.",
+                "uz": "To'g'ri 'live' fe'lining o'tgan oddiy zamon shakli '-d' qo'shimchasi bilan hosil bo'ladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Complete the story with the past simple form of the verbs in parentheses.",
+                "ru": "Заполните историю формой прошедшего простого времени глаголов в скобках.",
+                "uz": "Hikoyani qavs ichidagi fe'llarning o'tgan oddiy zamon shakli bilan to'ldiring."
+            },
+            "text": "Last summer, my family and I ___1___ (decide) to visit my grandparents who ___2___ (live) in a small cottage by the lake. The journey ___3___ (be) very long, but we ___4___ (not/care) because we were excited. When we ___5___ (arrive), my grandparents ___6___ (greet) us with warm hugs. My grandmother ___7___ (make) us her special apple pie, and my grandfather ___8___ (take) us fishing. We ___9___ (spend) all day by the water. I ___10___ (catch) a big fish, which really ___11___ (surprise) me. My brother ___12___ (not/catch) anything, but he still ___13___ (have) a great time. In the evening, we all ___14___ (sit) around the fireplace and ___15___ (tell) funny stories. It ___16___ (be) a perfect day, and we ___17___ (feel) very happy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "2",
+                    "answer": "lived"
+                },
+                {
+                    "blank": "3",
+                    "answer": "was"
+                },
+                {
+                    "blank": "4",
+                    "answer": "didn't care/did not care"
+                },
+                {
+                    "blank": "5",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "6",
+                    "answer": "greeted"
+                },
+                {
+                    "blank": "7",
+                    "answer": "made"
+                },
+                {
+                    "blank": "8",
+                    "answer": "took"
+                },
+                {
+                    "blank": "9",
+                    "answer": "spent"
+                },
+                {
+                    "blank": "10",
+                    "answer": "caught"
+                },
+                {
+                    "blank": "11",
+                    "answer": "surprised"
+                },
+                {
+                    "blank": "12",
+                    "answer": "didn't catch/did not catch"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had"
+                },
+                {
+                    "blank": "14",
+                    "answer": "sat"
+                },
+                {
+                    "blank": "15",
+                    "answer": "told"
+                },
+                {
+                    "blank": "16",
+                    "answer": "was"
+                },
+                {
+                    "blank": "17",
+                    "answer": "felt"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests regular and irregular past simple forms, including affirmative and negative sentences with 'did'.",
+                "ru": "Это упражнение проверяет правильные и неправильные формы прошедшего простого времени, включая утвердительные и отрицательные предложения с 'did'.",
+                "uz": "Ushbu mashq 'did' bilan birga to'g'ri va noto'g'ri o'tgan oddiy zamon shakllarini, shu jumladan tasdiq va inkor gaplarni sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct past simple forms.",
+                "ru": "Заполните пропуски правильными формами прошедшего простого времени.",
+                "uz": "Bo'shliqlarni o'tgan oddiy zamonning to'g'ri shakllari bilan to'ldiring."
+            },
+            "text": "Last year, my friend Max and I ___1___ (go) on a trip. We ___2___ (want) to visit a famous old castle. We ___3___ (buy) our tickets online and ___4___ (pack) our bags. The day we ___5___ (leave), it ___6___ (rain) heavily, but it ___7___ (not/stop) us. We ___8___ (take) the train and ___9___ (be) very happy. When we ___10___ (get) to the city, we ___11___ (see) the castle from the station. It ___12___ (look) amazing. We ___13___ (walk) there and ___14___ (find) out it was closed for the day. We ___15___ (be) very disappointed. But then we ___16___ (find) a small café nearby where we ___17___ (eat) delicious cake and ___18___ (drink) hot chocolate. We ___19___ (not/see) the castle, but we ___20___ (enjoy) the trip.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "went"
+                },
+                {
+                    "blank": "2",
+                    "answer": "wanted"
+                },
+                {
+                    "blank": "3",
+                    "answer": "bought"
+                },
+                {
+                    "blank": "4",
+                    "answer": "packed"
+                },
+                {
+                    "blank": "5",
+                    "answer": "left"
+                },
+                {
+                    "blank": "6",
+                    "answer": "rained"
+                },
+                {
+                    "blank": "7",
+                    "answer": "didn't stop/did not stop"
+                },
+                {
+                    "blank": "8",
+                    "answer": "took"
+                },
+                {
+                    "blank": "9",
+                    "answer": "were"
+                },
+                {
+                    "blank": "10",
+                    "answer": "got"
+                },
+                {
+                    "blank": "11",
+                    "answer": "saw"
+                },
+                {
+                    "blank": "12",
+                    "answer": "looked"
+                },
+                {
+                    "blank": "13",
+                    "answer": "walked"
+                },
+                {
+                    "blank": "14",
+                    "answer": "found"
+                },
+                {
+                    "blank": "15",
+                    "answer": "were"
+                },
+                {
+                    "blank": "16",
+                    "answer": "found"
+                },
+                {
+                    "blank": "17",
+                    "answer": "ate"
+                },
+                {
+                    "blank": "18",
+                    "answer": "drank"
+                },
+                {
+                    "blank": "19",
+                    "answer": "didn't see/did not see"
+                },
+                {
+                    "blank": "20",
+                    "answer": "enjoyed"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on the application of regular and irregular verbs in the past simple, including both positive and negative forms.",
+                "ru": "Этот отрывок сосредоточен на использовании правильных и неправильных глаголов в прошедшем простом времени, включая как положительные, так и отрицательные формы.",
+                "uz": "Ushbu matn o'tgan oddiy zamondagi to'g'ri va noto'g'ri fe'llarning qo'llanilishiga, jumladan, ijobiy va salbiy shakllarga qaratilgan."
+            }
+        }
+    ]
+}

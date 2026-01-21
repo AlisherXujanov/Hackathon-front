@@ -1,0 +1,672 @@
+{
+    "id": "A2_VERBS_WITH_TWO_OBJECTS_DIRECT_AND_INDIRECT_OBJECTS",
+    "title": "Verbs with two objects - Direct and indirect objects",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She gave me the book.",
+                    "correct": true
+                },
+                {
+                    "answer": "She gave to me the book."
+                },
+                {
+                    "answer": "She gave the book me."
+                }
+            ],
+            "explanation": {
+                "en": "With verbs like 'give', the indirect object comes before the direct object when no preposition is used.",
+                "ru": "С глаголами типа 'give' косвенное дополнение стоит перед прямым дополнением, когда предлог не используется.",
+                "uz": "'Give' kabi fe'llar bilan bilvosita to'ldiruvchi to'g'ridan-to'g'ri to'ldiruvchidan oldin keladi, agar predlog ishlatilmasa."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I bought for my sister a gift."
+                },
+                {
+                    "answer": "I bought my sister a gift.",
+                    "correct": true
+                },
+                {
+                    "answer": "I bought to my sister a gift."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'buy' takes an indirect object without a preposition, followed by the direct object.",
+                "ru": "Глагол 'buy' принимает косвенное дополнение без предлога, за которым следует прямое дополнение.",
+                "uz": "'Buy' fe'li prelogsiz bilvosita to'ldiruvchi oladi, keyin to'g'ridan-to'g'ri to'ldiruvchi keladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He told the story to his children.",
+                    "correct": true
+                },
+                {
+                    "answer": "He told to his children the story."
+                },
+                {
+                    "answer": "He told his children to the story."
+                }
+            ],
+            "explanation": {
+                "en": "When using 'to' with the indirect object, it must come after the direct object.",
+                "ru": "При использовании 'to' с косвенным дополнением, оно должно стоять после прямого дополнения.",
+                "uz": "Bilvosita to'ldiruvchi bilan 'to' ishlatilganda, u to'g'ridan-to'g'ri to'ldiruvchidan keyin kelishi kerak."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She made a cake for her mother.",
+                    "correct": true
+                },
+                {
+                    "answer": "She made her mother a cake."
+                },
+                {
+                    "answer": "She made to her mother a cake."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'make' requires the preposition 'for' when the indirect object follows the direct object.",
+                "ru": "Глагол 'make' требует предлог 'for', когда косвенное дополнение следует за прямым дополнением.",
+                "uz": "'Make' fe'li bilvosita to'ldiruvchi to'g'ridan-to'g'ri to'ldiruvchidan keyin kelganda 'for' predlogini talab qiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They sent him a letter."
+                },
+                {
+                    "answer": "They sent a letter to him.",
+                    "correct": true
+                },
+                {
+                    "answer": "They sent to him a letter."
+                }
+            ],
+            "explanation": {
+                "en": "Both patterns are correct with 'send': indirect object first without preposition, or direct object first with 'to'.",
+                "ru": "С глаголом 'send' правильны обе конструкции: косвенное дополнение первым без предлога, или прямое дополнение первым с 'to'.",
+                "uz": "'Send' bilan ikkala shakl ham to'g'ri: prelogsiz bilvosita to'ldiruvchi birinchi, yoki 'to' bilan to'g'ridan-to'g'ri to'ldiruvchi birinchi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I lent him my car.",
+                    "correct": true
+                },
+                {
+                    "answer": "I lent to him my car."
+                },
+                {
+                    "answer": "I lent my car him."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'lend' takes an indirect object without a preposition, followed by the direct object.",
+                "ru": "Глагол 'lend' принимает косвенное дополнение без предлога, за которым следует прямое дополнение.",
+                "uz": "'Lend' fe'li prelogsiz bilvosita to'ldiruvchi oladi, keyin to'g'ridan-to'g'ri to'ldiruvchi keladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He showed the photos to his friends.",
+                    "correct": true
+                },
+                {
+                    "answer": "He showed to his friends the photos."
+                },
+                {
+                    "answer": "He showed his friends to the photos."
+                }
+            ],
+            "explanation": {
+                "en": "With 'show', when using 'to', the direct object comes first, then 'to' + indirect object.",
+                "ru": "С глаголом 'show' при использовании 'to' прямое дополнение стоит первым, затем 'to' + косвенное дополнение.",
+                "uz": "'Show' bilan 'to' ishlatilganda to'g'ridan-to'g'ri to'ldiruvchi birinchi, keyin 'to' + bilvosita to'ldiruvchi keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She teaches English to children."
+                },
+                {
+                    "answer": "She teaches children English.",
+                    "correct": true
+                },
+                {
+                    "answer": "She teaches to children English."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'teach' commonly uses the pattern: indirect object + direct object without preposition.",
+                "ru": "Глагол 'teach' обычно использует структуру: косвенное дополнение + прямое дополнение без предлога.",
+                "uz": "'Teach' fe'li odatda quyidagi tuzilishni ishlatadi: prelogsiz bilvosita to'ldiruvchi + to'g'ridan-to'g'ri to'ldiruvchi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I wrote a letter to my friend.",
+                    "correct": true
+                },
+                {
+                    "answer": "I wrote to my friend a letter."
+                },
+                {
+                    "answer": "I wrote my friend to a letter."
+                }
+            ],
+            "explanation": {
+                "en": "With 'write', the preposition 'to' is used after the direct object when specifying the recipient.",
+                "ru": "С глаголом 'write' предлог 'to' используется после прямого дополнения при указании получателя.",
+                "uz": "'Write' bilan qabul qiluvchini ko'rsatishda to'g'ridan-to'g'ri to'ldiruvchidan keyin 'to' predlogi ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They offered the job to him.",
+                    "correct": true
+                },
+                {
+                    "answer": "They offered to him the job."
+                },
+                {
+                    "answer": "They offered him to the job."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'offer' uses the pattern: direct object + 'to' + indirect object.",
+                "ru": "Глагол 'offer' использует структуру: прямое дополнение + 'to' + косвенное дополнение.",
+                "uz": "'Offer' fe'li quyidagi tuzilishni ishlatadi: to'g'ridan-to'g'ri to'ldiruvchi + 'to' + bilvosita to'ldiruvchi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My mother ___ me a present for my birthday.",
+                "ru": "Дополните предложение: My mother ___ me a present for my birthday.",
+                "uz": "Gapni to'ldiring: My mother ___ me a present for my birthday."
+            },
+            "options": [
+                {
+                    "answer": "gave/bought/sent",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Verbs like 'give', 'buy', and 'send' can take two objects: indirect object (me) + direct object (a present).",
+                "ru": "Глаголы типа 'give', 'buy' и 'send' могут принимать два дополнения: косвенное дополнение (me) + прямое дополнение (a present).",
+                "uz": "'Give', 'buy' va 'send' kabi fe'llar ikki to'ldiruvchi olishi mumkin: bilvosita to'ldiruvchi (me) + to'g'ridan-to'g'ri to'ldiruvchi (a present)."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She told the news ___ her family.",
+                "ru": "Дополните предложение: She told the news ___ her family.",
+                "uz": "Gapni to'ldiring: She told the news ___ her family."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When the direct object comes before the indirect object with 'tell', we use the preposition 'to'.",
+                "ru": "Когда прямое дополнение стоит перед косвенным дополнением с глаголом 'tell', мы используем предлог 'to'.",
+                "uz": "'Tell' bilan to'g'ridan-to'g'ri to'ldiruvchi bilvosita to'ldiruvchidan oldin kelganda 'to' predlogini ishlatamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ his students mathematics every day.",
+                "ru": "Дополните предложение: He ___ his students mathematics every day.",
+                "uz": "Gapni to'ldiring: He ___ his students mathematics every day."
+            },
+            "options": [
+                {
+                    "answer": "teaches",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'teach' takes two objects: indirect object (students) + direct object (mathematics).",
+                "ru": "Глагол 'teach' принимает два дополнения: косвенное дополнение (students) + прямое дополнение (mathematics).",
+                "uz": "'Teach' fe'li ikki to'ldiruvchi oladi: bilvosita to'ldiruvchi (students) + to'g'ridan-to'g'ri to'ldiruvchi (mathematics)."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I will send the package ___ you tomorrow.",
+                "ru": "Дополните предложение: I will send the package ___ you tomorrow.",
+                "uz": "Gapni to'ldiring: I will send the package ___ you tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When the direct object (package) comes first, we use 'to' before the indirect object (you).",
+                "ru": "Когда прямое дополнение (package) стоит первым, мы используем 'to' перед косвенным дополнением (you).",
+                "uz": "To'g'ridan-to'g'ri to'ldiruvchi (package) birinchi kelganda, bilvosita to'ldiruvchi (you) oldidan 'to' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They made a cake ___ their grandmother.",
+                "ru": "Дополните предложение: They made a cake ___ their grandmother.",
+                "uz": "Gapni to'ldiring: They made a cake ___ their grandmother."
+            },
+            "options": [
+                {
+                    "answer": "for",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'make' uses the preposition 'for' when the indirect object follows the direct object.",
+                "ru": "Глагол 'make' использует предлог 'for', когда косвенное дополнение следует за прямым дополнением.",
+                "uz": "'Make' fe'li bilvosita to'ldiruvchi to'g'ridan-to'g'ri to'ldiruvchidan keyin kelganda 'for' predlogini ishlatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ him her bicycle for the weekend.",
+                "ru": "Дополните предложение: She ___ him her bicycle for the weekend.",
+                "uz": "Gapni to'ldiring: She ___ him her bicycle for the weekend."
+            },
+            "options": [
+                {
+                    "answer": "lent",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'lend' takes two objects: indirect object (him) + direct object (bicycle).",
+                "ru": "Глагол 'lend' принимает два дополнения: косвенное дополнение (him) + прямое дополнение (bicycle).",
+                "uz": "'Lend' fe'li ikki to'ldiruvchi oladi: bilvosita to'ldiruvchi (him) + to'g'ridan-to'g'ri to'ldiruvchi (bicycle)."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The teacher ___ us the homework assignment.",
+                "ru": "Дополните предложение: The teacher ___ us the homework assignment.",
+                "uz": "Gapni to'ldiring: The teacher ___ us the homework assignment."
+            },
+            "options": [
+                {
+                    "answer": "gave/assigned",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Verbs like 'give' and 'assign' can take two objects without a preposition: indirect object + direct object.",
+                "ru": "Глаголы типа 'give' и 'assign' могут принимать два дополнения без предлога: косвенное дополнение + прямое дополнение.",
+                "uz": "'Give' va 'assign' kabi fe'llar prelogsiz ikki to'ldiruvchi olishi mumkin: bilvosita to'ldiruvchi + to'g'ridan-to'g'ri to'ldiruvchi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I wrote an email ___ my boss yesterday.",
+                "ru": "Дополните предложение: I wrote an email ___ my boss yesterday.",
+                "uz": "Gapni to'ldiring: I wrote an email ___ my boss yesterday."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With 'write', we use 'to' when the direct object comes before the indirect object.",
+                "ru": "С глаголом 'write' мы используем 'to', когда прямое дополнение стоит перед косвенным дополнением.",
+                "uz": "'Write' bilan to'g'ridan-to'g'ri to'ldiruvchi bilvosita to'ldiruvchidan oldin kelganda 'to' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ me his new car yesterday.",
+                "ru": "Дополните предложение: He ___ me his new car yesterday.",
+                "uz": "Gapni to'ldiring: He ___ me his new car yesterday."
+            },
+            "options": [
+                {
+                    "answer": "showed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'show' can take two objects: indirect object (me) + direct object (his new car).",
+                "ru": "Глагол 'show' может принимать два дополнения: косвенное дополнение (me) + прямое дополнение (his new car).",
+                "uz": "'Show' fe'li ikki to'ldiruvchi olishi mumkin: bilvosita to'ldiruvchi (me) + to'g'ridan-to'g'ri to'ldiruvchi (his new car)."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They offered the position ___ her last week.",
+                "ru": "Дополните предложение: They offered the position ___ her last week.",
+                "uz": "Gapni to'ldiring: They offered the position ___ her last week."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With 'offer', when the direct object comes first, we use 'to' before the indirect object.",
+                "ru": "С глаголом 'offer', когда прямое дополнение стоит первым, мы используем 'to' перед косвенным дополнением.",
+                "uz": "'Offer' bilan to'g'ridan-to'g'ri to'ldiruvchi birinchi kelganda, bilvosita to'ldiruvchi oldidan 'to' ishlatamiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah works as a teacher at the local school. Every morning, she ___1___ her students interesting stories about different countries. Yesterday, she ___2___ them a beautiful book about Japan ___3___ one of her friends. The students were excited because Sarah always ___4___ them new things with enthusiasm. During lunch break, one student ___5___ a thank-you card ___6___ Sarah to show appreciation. Sarah was touched and decided to ___7___ something special ___8___ her class. She ___9___ her friend Maria if she could ___10___ some traditional Japanese origami paper ___11___ the students. Maria was happy to help and ___12___ the paper ___13___ Sarah the next day. When Sarah ___14___ the origami session ___15___ her students, they were amazed. She carefully ___16___ each student the basic folding techniques. By the end of the class, every student had ___17___ a beautiful paper crane ___18___ themselves. Sarah felt proud because she had successfully ___19___ her students something new and creative. The students ___20___ their origami cranes home ___21___ their families, sharing the joy of learning something different.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "tells"
+                },
+                {
+                    "blank": "2",
+                    "answer": "showed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "from"
+                },
+                {
+                    "blank": "4",
+                    "answer": "teaches"
+                },
+                {
+                    "blank": "5",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to"
+                },
+                {
+                    "blank": "7",
+                    "answer": "make"
+                },
+                {
+                    "blank": "8",
+                    "answer": "for"
+                },
+                {
+                    "blank": "9",
+                    "answer": "asked"
+                },
+                {
+                    "blank": "10",
+                    "answer": "lend"
+                },
+                {
+                    "blank": "11",
+                    "answer": "to"
+                },
+                {
+                    "blank": "12",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "13",
+                    "answer": "to"
+                },
+                {
+                    "blank": "14",
+                    "answer": "offered"
+                },
+                {
+                    "blank": "15",
+                    "answer": "to"
+                },
+                {
+                    "blank": "16",
+                    "answer": "taught"
+                },
+                {
+                    "blank": "17",
+                    "answer": "made"
+                },
+                {
+                    "blank": "18",
+                    "answer": "for"
+                },
+                {
+                    "blank": "19",
+                    "answer": "taught"
+                },
+                {
+                    "blank": "20",
+                    "answer": "took"
+                },
+                {
+                    "blank": "21",
+                    "answer": "to"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates various verbs that take direct and indirect objects, showing different patterns with and without prepositions like 'to' and 'for'.",
+                "ru": "Это упражнение демонстрирует различные глаголы, которые принимают прямые и косвенные дополнения, показывая разные структуры с предлогами 'to' и 'for' и без них.",
+                "uz": "Ushbu mashq to'g'ridan-to'g'ri va bilvosita to'ldiruvchi oladigan turli fe'llarni ko'rsatadi, 'to' va 'for' predloglari bilan va ularsiz turli tuzilishlarni namoyish etadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last weekend, Tom decided to organize a surprise party for his sister's birthday. He ___1___ his mother about his plan and she ___2___ him some money ___3___ decorations. Tom ___4___ a beautiful birthday card ___5___ his sister with a heartfelt message inside. He also ___6___ his brother if he could ___7___ him his camera ___8___ the party photos. His brother gladly ___9___ the camera ___10___ Tom and wished him luck. On Saturday morning, Tom ___11___ his friends the party details over the phone. He ___12___ each friend a specific task to help with the preparations. Some friends ___13___ food ___14___ the party, while others ___15___ flowers and balloons. Tom's girlfriend ___16___ him a homemade cake that she had ___17___ especially ___18___ his sister. When the guests arrived, Tom ___19___ everyone the surprise plan and ___20___ them their positions. The party was a huge success, and Tom's sister was overjoyed. She ___21___ everyone warm hugs ___22___ their kindness and effort.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "told"
+                },
+                {
+                    "blank": "2",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "3",
+                    "answer": "for"
+                },
+                {
+                    "blank": "4",
+                    "answer": "wrote"
+                },
+                {
+                    "blank": "5",
+                    "answer": "for"
+                },
+                {
+                    "blank": "6",
+                    "answer": "asked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "lend"
+                },
+                {
+                    "blank": "8",
+                    "answer": "for"
+                },
+                {
+                    "blank": "9",
+                    "answer": "lent"
+                },
+                {
+                    "blank": "10",
+                    "answer": "to"
+                },
+                {
+                    "blank": "11",
+                    "answer": "told"
+                },
+                {
+                    "blank": "12",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "13",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "14",
+                    "answer": "for"
+                },
+                {
+                    "blank": "15",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "16",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "17",
+                    "answer": "made"
+                },
+                {
+                    "blank": "18",
+                    "answer": "for"
+                },
+                {
+                    "blank": "19",
+                    "answer": "explained"
+                },
+                {
+                    "blank": "20",
+                    "answer": "showed"
+                },
+                {
+                    "blank": "21",
+                    "answer": "gave"
+                },
+                {
+                    "blank": "22",
+                    "answer": "for"
+                }
+            ],
+            "explanation": {
+                "en": "This passage practices verbs with two objects, focusing on the correct use of prepositions 'to' and 'for' in different contexts.",
+                "ru": "Этот отрывок практикует глаголы с двумя дополнениями, фокусируясь на правильном использовании предлогов 'to' и 'for' в разных контекстах.",
+                "uz": "Ushbu matn ikki to'ldiruvchili fe'llarni mashq qiladi, turli kontekstlarda 'to' va 'for' predloglarining to'g'ri ishlatilishiga e'tibor beradi."
+            }
+        }
+    ]
+}

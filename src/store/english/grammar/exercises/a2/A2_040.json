@@ -1,0 +1,665 @@
+{
+    "id": "A2_FIRST_CONDITIONAL_AND_FUTURE_TIME_CLAUSES_REAL_FUTURE_CONDITIONS",
+    "title": "First conditional and future time clauses - Real future conditions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If it will rain, we will stay home."
+                },
+                {
+                    "answer": "If it rains, we will stay home.",
+                    "correct": true
+                },
+                {
+                    "answer": "If it rain, we will stay home."
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, use present simple in the if-clause and will + base verb in the main clause.",
+                "ru": "В условных предложениях первого типа используйте настоящее простое время в условной части и will + основная форма глагола в главной части.",
+                "uz": "Birinchi shartli gaplarda if qismida hozirgi sodda zamon, bosh qismda esa will + fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "When you will arrive, call me."
+                },
+                {
+                    "answer": "When you arrive, call me.",
+                    "correct": true
+                },
+                {
+                    "answer": "When you arrives, call me."
+                }
+            ],
+            "explanation": {
+                "en": "In future time clauses with 'when', use present simple, not future tense.",
+                "ru": "В придаточных времени с 'when' используйте настоящее простое время, а не будущее.",
+                "uz": "'When' bilan bo'lgan vaqt ergash gaplarida kelajak zamon emas, hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Unless you don't hurry, you'll be late."
+                },
+                {
+                    "answer": "Unless you hurry, you'll be late.",
+                    "correct": true
+                },
+                {
+                    "answer": "Unless you will hurry, you'll be late."
+                }
+            ],
+            "explanation": {
+                "en": "'Unless' means 'if not', so don't use additional negation. Use present simple after 'unless'.",
+                "ru": "'Unless' означает 'если не', поэтому не используйте дополнительное отрицание. После 'unless' используйте настоящее простое время.",
+                "uz": "'Unless' 'agar... -masa' degan ma'noni bildiradi, shuning uchun qo'shimcha inkor ishlatilmaydi. 'Unless' dan keyin hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "As soon as I will finish work, I'll go home."
+                },
+                {
+                    "answer": "As soon as I finish work, I'll go home.",
+                    "correct": true
+                },
+                {
+                    "answer": "As soon as I finished work, I'll go home."
+                }
+            ],
+            "explanation": {
+                "en": "After time expressions like 'as soon as', use present simple for future actions, not future tense.",
+                "ru": "После выражений времени типа 'as soon as' используйте настоящее простое время для будущих действий, а не будущее время.",
+                "uz": "'As soon as' kabi vaqt ifodalovchi so'zlardan keyin kelajakdagi harakatlar uchun kelajak zamon emas, hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If she doesn't studies, she won't pass."
+                },
+                {
+                    "answer": "If she doesn't study, she won't pass.",
+                    "correct": true
+                },
+                {
+                    "answer": "If she won't study, she won't pass."
+                }
+            ],
+            "explanation": {
+                "en": "In negative if-clauses, use 'doesn't' + base verb, not 'doesn't' + verb with -s or future tense.",
+                "ru": "В отрицательных условных предложениях используйте 'doesn't' + основная форма глагола, а не 'doesn't' + глагол с -s или будущее время.",
+                "uz": "Inkor shartli gaplarda 'doesn't' + fe'lning asosiy shakli ishlatiladi, 'doesn't' + -s qo'shimchali fe'l yoki kelajak zamon emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Before you will leave, turn off the lights."
+                },
+                {
+                    "answer": "Before you leave, turn off the lights.",
+                    "correct": true
+                },
+                {
+                    "answer": "Before you leaving, turn off the lights."
+                }
+            ],
+            "explanation": {
+                "en": "After 'before' in future time clauses, use present simple, not future tense or gerund.",
+                "ru": "После 'before' в придаточных времени используйте настоящее простое время, а не будущее время или герундий.",
+                "uz": "Kelajak vaqt ergash gaplarida 'before' dan keyin kelajak zamon yoki gerundiy emas, hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'll help you if you will ask me nicely."
+                },
+                {
+                    "answer": "I'll help you if you ask me nicely.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'll help you if you asked me nicely."
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, the if-clause uses present simple, not future or past tense.",
+                "ru": "В условных предложениях первого типа условная часть использует настоящее простое время, а не будущее или прошедшее.",
+                "uz": "Birinchi shartli gaplarda if qismi hozirgi sodda zamonni ishlatadi, kelajak yoki o'tgan zamonni emas."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "After we will have dinner, we'll watch TV."
+                },
+                {
+                    "answer": "After we have dinner, we'll watch TV.",
+                    "correct": true
+                },
+                {
+                    "answer": "After we had dinner, we'll watch TV."
+                }
+            ],
+            "explanation": {
+                "en": "After time conjunction 'after', use present simple for future actions, not future perfect or past tense.",
+                "ru": "После союза времени 'after' используйте настоящее простое время для будущих действий, а не будущее совершенное или прошедшее время.",
+                "uz": "'After' vaqt bog'lovchisidan keyin kelajakdagi harakatlar uchun hozirgi sodda zamon ishlatiladi, kelajak mukammal yoki o'tgan zamon emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "If it's sunny tomorrow, we go to the beach."
+                },
+                {
+                    "answer": "If it's sunny tomorrow, we'll go to the beach.",
+                    "correct": true
+                },
+                {
+                    "answer": "If it will be sunny tomorrow, we'll go to the beach."
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, use present simple in the if-clause and will + base verb in the main clause.",
+                "ru": "В условных предложениях первого типа используйте настоящее простое время в условной части и will + основная форма глагола в главной части.",
+                "uz": "Birinchi shartli gaplarda if qismida hozirgi sodda zamon, bosh qismda esa will + fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "While you will be cooking, I'll set the table."
+                },
+                {
+                    "answer": "While you are cooking, I'll set the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "While you cook, I'll set the table."
+                }
+            ],
+            "explanation": {
+                "en": "After 'while' for simultaneous future actions, use present continuous to show ongoing action, not future tense.",
+                "ru": "После 'while' для одновременных будущих действий используйте настоящее продолженное время для обозначения длительного действия, а не будущее время.",
+                "uz": "Bir vaqtda bo'ladigan kelajak harakatlar uchun 'while' dan keyin davom etayotgan harakatni ko'rsatish uchun hozirgi davom zamon ishlatiladi, kelajak zamon emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If you ___ hard, you will succeed.",
+                "ru": "Дополните предложение: If you ___ hard, you will succeed.",
+                "uz": "Gapni to'ldiring: If you ___ hard, you will succeed."
+            },
+            "options": [
+                {
+                    "answer": "work",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, use present simple (base form) in the if-clause.",
+                "ru": "В условных предложениях первого типа используйте настоящее простое время (основная форма) в условной части.",
+                "uz": "Birinchi shartli gaplarda if qismida hozirgi sodda zamon (asosiy shakl) ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When she ___ from work, she will call you.",
+                "ru": "Дополните предложение: When she ___ from work, she will call you.",
+                "uz": "Gapni to'ldiring: When she ___ from work, she will call you."
+            },
+            "options": [
+                {
+                    "answer": "returns/comes back/gets back",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In future time clauses with 'when', use present simple tense, not future.",
+                "ru": "В придаточных времени с 'when' используйте настоящее простое время, а не будущее.",
+                "uz": "'When' bilan bo'lgan vaqt ergash gaplarida kelajak zamon emas, hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Unless it ___, we will have the party outside.",
+                "ru": "Дополните предложение: Unless it ___, we will have the party outside.",
+                "uz": "Gapni to'ldiring: Unless it ___, we will have the party outside."
+            },
+            "options": [
+                {
+                    "answer": "rains",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Unless' means 'if not' and is followed by present simple tense in conditional sentences.",
+                "ru": "'Unless' означает 'если не' и после него используется настоящее простое время в условных предложениях.",
+                "uz": "'Unless' 'agar... -masa' degan ma'noni bildiradi va shartli gaplarda undan keyin hozirgi sodda zamon keladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: As soon as I ___ my homework, I'll watch TV.",
+                "ru": "Дополните предложение: As soon as I ___ my homework, I'll watch TV.",
+                "uz": "Gapni to'ldiring: As soon as I ___ my homework, I'll watch TV."
+            },
+            "options": [
+                {
+                    "answer": "finish/complete",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After time expressions like 'as soon as', use present simple for future actions.",
+                "ru": "После выражений времени типа 'as soon as' используйте настоящее простое время для будущих действий.",
+                "uz": "'As soon as' kabi vaqt ifodalovchi so'zlardan keyin kelajakdagi harakatlar uchun hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If the weather ___ good tomorrow, we'll go hiking.",
+                "ru": "Дополните предложение: If the weather ___ good tomorrow, we'll go hiking.",
+                "uz": "Gapni to'ldiring: If the weather ___ good tomorrow, we'll go hiking."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, use present simple (is/am/are) in the if-clause.",
+                "ru": "В условных предложениях первого типа используйте настоящее простое время (is/am/are) в условной части.",
+                "uz": "Birinchi shartli gaplarda if qismida hozirgi sodda zamon (is/am/are) ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Before you ___ to bed, brush your teeth.",
+                "ru": "Дополните предложение: Before you ___ to bed, brush your teeth.",
+                "uz": "Gapni to'ldiring: Before you ___ to bed, brush your teeth."
+            },
+            "options": [
+                {
+                    "answer": "go",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'before' in time clauses, use present simple for future actions.",
+                "ru": "После 'before' в придаточных времени используйте настоящее простое время для будущих действий.",
+                "uz": "Vaqt ergash gaplarida 'before' dan keyin kelajakdagi harakatlar uchun hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: After we ___ lunch, we'll visit the museum.",
+                "ru": "Дополните предложение: After we ___ lunch, we'll visit the museum.",
+                "uz": "Gapni to'ldiring: After we ___ lunch, we'll visit the museum."
+            },
+            "options": [
+                {
+                    "answer": "have/eat",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After time conjunction 'after', use present simple for future actions.",
+                "ru": "После союза времени 'after' используйте настоящее простое время для будущих действий.",
+                "uz": "'After' vaqt bog'lovchisidan keyin kelajakdagi harakatlar uchun hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If she doesn't ___ the bus, she'll be late.",
+                "ru": "Дополните предложение: If she doesn't ___ the bus, she'll be late.",
+                "uz": "Gapni to'ldiring: If she doesn't ___ the bus, she'll be late."
+            },
+            "options": [
+                {
+                    "answer": "catch/take",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In negative if-clauses, use 'doesn't' followed by the base form of the verb.",
+                "ru": "В отрицательных условных предложениях используйте 'doesn't' с основной формой глагола.",
+                "uz": "Inkor shartli gaplarda 'doesn't' dan keyin fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When you ___ 18, you can vote.",
+                "ru": "Дополните предложение: When you ___ 18, you can vote.",
+                "uz": "Gapni to'ldiring: When you ___ 18, you can vote."
+            },
+            "options": [
+                {
+                    "answer": "are/turn",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In future time clauses with 'when', use present simple tense.",
+                "ru": "В придаточных времени с 'when' используйте настоящее простое время.",
+                "uz": "'When' bilan bo'lgan vaqt ergash gaplarida hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If they ___ enough money, they will buy a car.",
+                "ru": "Дополните предложение: If they ___ enough money, they will buy a car.",
+                "uz": "Gapni to'ldiring: If they ___ enough money, they will buy a car."
+            },
+            "options": [
+                {
+                    "answer": "have/save",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In first conditional sentences, use present simple in the if-clause.",
+                "ru": "В условных предложениях первого типа используйте настоящее простое время в условной части.",
+                "uz": "Birinchi shartli gaplarda if qismida hozirgi sodda zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is planning a wonderful weekend trip to the mountains with her family. If the weather ___1___ nice tomorrow morning, they will leave early at 7 AM. When they ___2___ at the hotel, they will check in and unpack their bags. Sarah's mother said that if everyone ___3___ ready by noon, they can go hiking on the beautiful forest trail. Unless it ___4___ heavily, they will explore the scenic waterfall nearby. After they ___5___ lunch at the mountain restaurant, they plan to visit the local craft market. Sarah's father will take many photos when they ___6___ the sunset from the mountain peak. If the children ___7___ tired during the hike, they will rest at the wooden benches along the path. Before they ___8___ to the hotel for dinner, they want to buy some local honey and handmade souvenirs. When the evening ___9___, they will have a cozy barbecue party if the hotel ___10___ outdoor facilities. Sarah is excited because if everything ___11___ according to plan, this will be their best family trip ever. Tomorrow evening, when they ___12___ all the day's activities, they will share stories around the campfire. If they ___13___ enough energy, they might even go stargazing before bedtime.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "arrive"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "rains"
+                },
+                {
+                    "blank": "5",
+                    "answer": "have"
+                },
+                {
+                    "blank": "6",
+                    "answer": "watch"
+                },
+                {
+                    "blank": "7",
+                    "answer": "get"
+                },
+                {
+                    "blank": "8",
+                    "answer": "return"
+                },
+                {
+                    "blank": "9",
+                    "answer": "comes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has"
+                },
+                {
+                    "blank": "11",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "12",
+                    "answer": "finish"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates first conditional and future time clauses where present simple is used in if-clauses, when-clauses, unless-clauses, before-clauses, and after-clauses, while the main clause uses will + base verb.",
+                "ru": "Это упражнение демонстрирует первый тип условных предложений и придаточные времени, где в if-, when-, unless-, before- и after-частях используется настоящее простое время, а в главной части - will + основная форма глагола.",
+                "uz": "Bu mashq birinchi shartli gaplar va kelajak vaqt ergash gaplarini ko'rsatadi, bu erda if-, when-, unless-, before- va after- qismlarida hozirgi sodda zamon, bosh qismda esa will + fe'lning asosiy shakli ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tom is preparing for his university entrance exams next month. His parents told him that if he ___1___ diligently every day, he will definitely pass with excellent grades. When the exam day ___2___, Tom plans to wake up early and have a nutritious breakfast. His teacher explained that unless students ___3___ all the required subjects thoroughly, they won't succeed in these competitive tests. Tom's study schedule is very organized: after he ___4___ his morning classes, he will spend three hours reviewing mathematics and science. If his concentration ___5___ during study sessions, he takes short breaks to refresh his mind. When his friends ___6___ him to join social activities, he politely declines because he knows that his future depends on these exams. Before he ___7___ to sleep each night, Tom reviews the day's lessons and prepares notes for the next day. His sister promised that if Tom ___8___ his target score, she will buy him the laptop he has always wanted. Unless unexpected problems ___9___, Tom is confident about his preparation. As soon as the results ___10___, his family will celebrate his achievement. Tom believes that if young people ___11___ their goals seriously and work with determination, they can achieve anything in life. When he ___12___ his dream university, Tom will study computer engineering and make his parents proud.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "studies"
+                },
+                {
+                    "blank": "2",
+                    "answer": "comes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "study"
+                },
+                {
+                    "blank": "4",
+                    "answer": "finishes"
+                },
+                {
+                    "blank": "5",
+                    "answer": "drops"
+                },
+                {
+                    "blank": "6",
+                    "answer": "invite"
+                },
+                {
+                    "blank": "7",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "8",
+                    "answer": "achieves"
+                },
+                {
+                    "blank": "9",
+                    "answer": "occur"
+                },
+                {
+                    "blank": "10",
+                    "answer": "come"
+                },
+                {
+                    "blank": "11",
+                    "answer": "take"
+                },
+                {
+                    "blank": "12",
+                    "answer": "enters"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on first conditional sentences and future time clauses, showing how present simple tense is used in conditional and time clauses while future actions are expressed with will in the main clause.",
+                "ru": "Это упражнение сосредоточено на условных предложениях первого типа и придаточных времени, показывая, как настоящее простое время используется в условных и временных придаточных, в то время как будущие действия выражаются с will в главном предложении.",
+                "uz": "Bu mashq birinchi shartli gaplar va kelajak vaqt ergash gaplariga qaratilgan bo'lib, shartli va vaqt ergash gaplarida hozirgi sodda zamon, bosh gapda esa kelajakdagi harakatlar will bilan ifodalanishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma and her colleagues are organizing a charity event for local children next weekend. If enough volunteers ___1___ to help, the event will be a great success. When people ___2___ about the charity drive on social media, they will surely want to participate and donate. Emma's team has planned various activities: unless bad weather ___3___ their outdoor games, children will enjoy face painting, puppet shows, and treasure hunts. After the organizing committee ___4___ all the necessary permissions from the city council, they will set up colorful tents and decorations in the park. If local businesses ___5___ food and prizes, the event will cost much less than expected. Before the event ___6___ on Saturday morning, Emma's team will arrive early to prepare everything. When families ___7___ with their children, volunteers will guide them to different activity stations. If the fundraising goal ___8___ achieved by the end of the day, they will be able to buy new books and toys for the children's hospital. As soon as the local newspaper ___9___ about their success, more people in the community will want to support future charity events. Emma believes that when people ___10___ together for a good cause, they can make a real difference in others' lives. Unless something unexpected ___11___, this charity event will become an annual tradition in their town. After they ___12___ up everything and count the donations, Emma's team will celebrate their hard work and community spirit.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "agree"
+                },
+                {
+                    "blank": "2",
+                    "answer": "hear"
+                },
+                {
+                    "blank": "3",
+                    "answer": "ruins"
+                },
+                {
+                    "blank": "4",
+                    "answer": "gets"
+                },
+                {
+                    "blank": "5",
+                    "answer": "donate"
+                },
+                {
+                    "blank": "6",
+                    "answer": "starts"
+                },
+                {
+                    "blank": "7",
+                    "answer": "arrive"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "writes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "work"
+                },
+                {
+                    "blank": "11",
+                    "answer": "happens"
+                },
+                {
+                    "blank": "12",
+                    "answer": "clean"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the use of present simple tense in various conditional and time clauses (if, when, unless, before, after, as soon as) while the main clauses express future consequences with will.",
+                "ru": "Это упражнение демонстрирует использование настоящего простого времени в различных условных и временных придаточных (if, when, unless, before, after, as soon as), в то время как главные предложения выражают будущие последствия с will.",
+                "uz": "Bu mashq turli xil shartli va vaqt ergash gaplarida (if, when, unless, before, after, as soon as) hozirgi sodda zamon ishlatilishini ko'rsatadi, bosh gaplarda esa kelajakdagi natijalar will bilan ifodalanadi."
+            }
+        }
+    ]
+}

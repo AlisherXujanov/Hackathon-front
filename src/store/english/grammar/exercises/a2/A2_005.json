@@ -1,0 +1,779 @@
+{
+    "id": "A2_I'D_LIKE_-_EXTENDED_POLITE_EXPRESSIONS",
+    "title": "I'd like - Extended polite expressions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'd like to ask you for help, please.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'd like to asking you for help, please."
+                },
+                {
+                    "answer": "I would like asking you for help, please."
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure is 'would like to + base form of the verb'. The phrase 'I'd like' is a contraction of 'I would like'.",
+                "ru": "Правильная структура: 'would like to + начальная форма глагола'. Фраза 'I'd like' является сокращением от 'I would like'.",
+                "uz": "To'g'ri tuzilma 'would like to + fe'lning asosiy shakli' bo'ladi. 'I'd like' iborasi 'I would like' so'zining qisqartmasi hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you mind closing the door?",
+                    "correct": true
+                },
+                {
+                    "answer": "Would you mind to close the door?"
+                },
+                { 
+                    "answer": "Would you mind close the door?"
+                }
+            ],
+            "explanation": {
+                "en": "The polite expression 'Would you mind...?' is followed by a verb in the '-ing' form (gerund).",
+                "ru": "Вежливое выражение 'Would you mind...?' используется с глаголом в форме на '-ing' (герундий).",
+                "uz": "Hurmatli ifoda 'Would you mind...?' fe'lning '-ing' shakli (gerund) bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I was wondering if you could help me.",
+                    "correct": true
+                },
+                {
+                    "answer": "I was wondering if you can help me."
+                },
+                {
+                    "answer": "I am wondering if you could help me."
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'I was wondering if...' is a very polite and indirect way to make a request. It uses the past continuous tense for politeness.",
+                "ru": "Фраза 'I was wondering if...' — это очень вежливый и косвенный способ выразить просьбу. Для вежливости используется прошедшее длительное время.",
+                "uz": "'I was wondering if...' iborasi so'rov qilishning juda xushmuomala va bilvosita usulidir. Hurmatli murojaat uchun o'tgan davomiy zamon ishlatiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Could you possibly tell me where the bank is?",
+                    "correct": true
+                },
+                {
+                    "answer": "Could you possibly to tell me where the bank is?"
+                },
+                {
+                    "answer": "Could you possibly told me where the bank is?"
+                }
+            ],
+            "explanation": {
+                "en": "The word 'possibly' is often added to modal verbs like 'could' or 'can' to make a request even more polite and tentative.",
+                "ru": "Слово 'possibly' часто добавляется к модальным глаголам, таким как 'could' или 'can', чтобы сделать просьбу еще более вежливой и неуверенной.",
+                "uz": "'Possibly' so'zi 'could' yoki 'can' kabi modal fe'llarga ko'pincha so'rovni yanada hurmatli va ehtiyotkor qilish uchun qo'shiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I would be grateful if you could send me the information.",
+                    "correct": true
+                },
+                {
+                    "answer": "I would be grateful if you can send me the information."
+                },
+                {
+                    "answer": "I would grateful if you could send me the information."
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'I would be grateful if...' is a formal and very polite way to make a request, often used in professional contexts. It is a conditional sentence with 'would' and 'could'.",
+                "ru": "Выражение 'I would be grateful if...' — это формальный и очень вежливый способ выразить просьбу, часто используемый в профессиональном контексте. Это условное предложение с 'would' и 'could'.",
+                "uz": "'I would be grateful if...' ifodasi so'rovni bildirishning rasmiy va juda hurmatli usuli bo'lib, ko'pincha professional kontekstda ishlatiladi. Bu 'would' va 'could' bilan ishlatiladigan shartli gapdir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Could you please help me with this?",
+                    "correct": true
+                },
+                {
+                    "answer": "You could please help me with this?"
+                },
+                {
+                    "answer": "Please could you help me with this?"
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'Could you please...' is a very common and polite way to ask for something. It is a classic example of a polite request.",
+                "ru": "Фраза 'Could you please...' — очень распространенный и вежливый способ о чем-то попросить. Это классический пример вежливой просьбы.",
+                "uz": "'Could you please...' iborasi biror narsani so'rashning juda keng tarqalgan va hurmatli usulidir. Bu hurmatli so'rovning klassik namunasidir."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'd be happy to give you a hand.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'd be happy to giving you a hand."
+                },
+                {
+                    "answer": "I'd happy to give you a hand."
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'I'd be happy to...' is a polite way to offer help. It is a contraction of 'I would be happy to...', followed by the base form of the verb.",
+                "ru": "Фраза 'I'd be happy to...' — вежливый способ предложить помощь. Это сокращение от 'I would be happy to...', за которым следует базовая форма глагола.",
+                "uz": "'I'd be happy to...' iborasi yordam taklif qilishning xushmuomala usulidir. Bu 'I would be happy to...' so'zining qisqartmasi bo'lib, undan keyin fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I was hoping you could tell me the time.",
+                    "correct": true
+                },
+                {
+                    "answer": "I was hoping you can tell me the time."
+                },
+                {
+                    "answer": "I am hoping you could tell me the time."
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'I was hoping...' is a polite way to introduce a request. It uses the past continuous tense to sound less direct and more polite.",
+                "ru": "Фраза 'I was hoping...' — это вежливый способ начать просьбу. Она использует прошедшее длительное время, чтобы звучать менее прямолинейно и более вежливо.",
+                "uz": "'I was hoping...' iborasi so'rovni boshlashning xushmuomala usulidir. U kamroq to'g'ridan-to'g'ri va ko'proq xushmuomala bo'lish uchun o'tgan davomiy zamonni ishlatadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like me to open the window?",
+                    "correct": true
+                },
+                {
+                    "answer": "Would you like me opening the window?"
+                },
+                {
+                    "answer": "Do you like me to open the window?"
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'Would you like me to...?' is a very common and polite way to offer help to someone. It is a request for permission to do something for another person.",
+                "ru": "Фраза 'Would you like me to...?' — это очень распространенный и вежливый способ предложить кому-то помощь. Это просьба о разрешении сделать что-то для другого человека.",
+                "uz": "'Would you like me to...?' iborasi kimdirga yordam taklif qilishning juda keng tarqalgan va hurmatli usulidir. Bu boshqa odam uchun biror narsa qilishga ruxsat so'rashdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am writing to ask if you would be able to attend the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am writing to ask if you can be able to attend the meeting."
+                },
+                {
+                    "answer": "I am writing to ask if you would be able attending the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "'Would be able to' is a very polite and formal way to ask about someone's capability or availability. It is often used in professional emails or letters.",
+                "ru": "'Would be able to' — это очень вежливый и формальный способ спросить о чьей-либо возможности или доступности. Часто используется в деловых письмах или электронных письмах.",
+                "uz": "'Would be able to' kimdirning imkoniyati yoki mavjudligi haqida so'rashning juda hurmatli va rasmiy usulidir. Ko'pincha professional elektron pochtalar yoki xatlarda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct word: I'd like to ___ a ticket, please.",
+                "ru": "Дополните предложение правильным словом: I'd like to ___ a ticket, please.",
+                "uz": "Gapni to'g'ri so'z bilan to'ldiring: I'd like to ___ a ticket, please."
+            },
+            "options": [
+                {
+                    "answer": "buy/purchase",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'I'd like to' is followed by the base form of a verb. 'Buy' or 'purchase' are suitable verbs in this context.",
+                "ru": "'I'd like to' сопровождается основной формой глагола. 'Buy' или 'purchase' — подходящие глаголы в этом контексте.",
+                "uz": "'I'd like to' iborasi fe'lning asosiy shakli bilan ishlatiladi. Bu kontekstda 'buy' yoki 'purchase' mos keladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you mind if I open the window?",
+                "ru": "Дополните предложение: ___ you mind if I open the window?",
+                "uz": "Gapni to'ldiring: ___ you mind if I open the window?"
+            },
+            "options": [
+                {
+                    "answer": "Would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'Would you mind...?' is a polite way to ask for permission. It is a common fixed expression.",
+                "ru": "Фраза 'Would you mind...?' — это вежливый способ попросить разрешения. Это часто используемое устойчивое выражение.",
+                "uz": "'Would you mind...?' iborasi ruxsat so'rashning xushmuomala usulidir. Bu umumiy qo'llaniladigan so'z birikmasidir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I was ___ if you could help me.",
+                "ru": "Дополните предложение: I was ___ if you could help me.",
+                "uz": "Gapni to'ldiring: I was ___ if you could help me."
+            },
+            "options": [
+                {
+                    "answer": "wondering/hoping",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The polite phrases 'I was wondering if...' and 'I was hoping if...' are used to make indirect and polite requests. Both words are correct in this context.",
+                "ru": "Вежливые фразы 'I was wondering if...' и 'I was hoping if...' используются для косвенных и вежливых просьб. Оба слова правильны в этом контексте.",
+                "uz": "Hurmatli iboralar 'I was wondering if...' va 'I was hoping if...' bilvosita va xushmuomala so'rovlar qilish uchun ishlatiladi. Bu kontekstda ikkala so'z ham to'g'ri."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'd be ___ if you could give me a call.",
+                "ru": "Дополните предложение: I'd be ___ if you could give me a call.",
+                "uz": "Gapni to'ldiring: I'd be ___ if you could give me a call."
+            },
+            "options": [
+                {
+                    "answer": "grateful/thankful/happy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'I'd be grateful/thankful/happy if...' is a polite way to express appreciation for a future action. It's a conditional phrase.",
+                "ru": "Фраза 'I'd be grateful/thankful/happy if...' — это вежливый способ выразить благодарность за будущее действие. Это условная фраза.",
+                "uz": "'I'd be grateful/thankful/happy if...' iborasi kelajakdagi harakat uchun minnatdorlikni bildirishning xushmuomala usulidir. Bu shartli ibora hisoblanadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Excuse me, but ___ you tell me the way to the station?",
+                "ru": "Дополните предложение: Excuse me, but ___ you tell me the way to the station?",
+                "uz": "Gapni to'ldiring: Excuse me, but ___ you tell me the way to the station?"
+            },
+            "options": [
+                {
+                    "answer": "could/would/can/may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Could you...?', 'Would you...?', and 'Can you...?' are all common ways to ask a polite question. 'May' is also a correct, more formal option.",
+                "ru": "'Could you...?', 'Would you...?' и 'Can you...?' — все они являются распространенными способами задать вежливый вопрос. 'May' также является правильным, более формальным вариантом.",
+                "uz": "'Could you...?', 'Would you...?' va 'Can you...?' bularning barchasi hurmatli savol berishning keng tarqalgan usullaridir. 'May' ham to'g'ri, yanada rasmiyroq variantdir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I was just calling ___ ask if you are free for lunch tomorrow.",
+                "ru": "Дополните предложение: I was just calling ___ ask if you are free for lunch tomorrow.",
+                "uz": "Gapni to'ldiring: I was just calling ___ ask if you are free for lunch tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'I was just calling to...' is a polite way to state the reason for a call. It is followed by the preposition 'to' and the base verb.",
+                "ru": "Фраза 'I was just calling to...' — это вежливый способ объяснить причину звонка. За ней следует предлог 'to' и основная форма глагола.",
+                "uz": "'I was just calling to...' iborasi qo'ng'iroq sababini aytishning xushmuomala usulidir. Undan keyin 'to' predlogi va fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'd like to apologize for the delay, ___.",
+                "ru": "Дополните предложение: I'd like to apologize for the delay, ___.",
+                "uz": "Gapni to'ldiring: I'd like to apologize for the delay, ___."
+            },
+            "options": [
+                {
+                    "answer": "please",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Adding 'please' at the end of a polite statement can make it even more respectful, though it's not always necessary. 'I'd like to apologize' is already polite.",
+                "ru": "Добавление 'please' в конце вежливого предложения может сделать его еще более уважительным, хотя это не всегда обязательно. 'I'd like to apologize' уже само по себе вежливо.",
+                "uz": "Hurmatli gap oxiriga 'please' qo'shish uni yanada hurmatliroq qilishi mumkin, garchi bu har doim ham zarur bo'lmasa-da. 'I'd like to apologize' iborasi o'z-o'zidan hurmatli."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We would be happy to help ___ you need anything.",
+                "ru": "Дополните предложение: We would be happy to help ___ you need anything.",
+                "uz": "Gapni to'ldiring: We would be happy to help ___ you need anything."
+            },
+            "options": [
+                {
+                    "answer": "if",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a polite offer of help. The conditional clause 'if you need anything' specifies the condition under which the offer applies.",
+                "ru": "Это вежливое предложение помощи. Условное предложение 'if you need anything' указывает условие, при котором предложение действует.",
+                "uz": "Bu yordam taklif qilishning xushmuomala usulidir. 'If you need anything' degan shartli jumla taklifning qaysi shartda qo'llanilishini aniqlaydi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Would you ___ to go to the park with us?",
+                "ru": "Дополните предложение: Would you ___ to go to the park with us?",
+                "uz": "Gapni to'ldiring: Would you ___ to go to the park with us?"
+            },
+            "options": [
+                {
+                    "answer": "like",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Would you like to...?' is a very common and polite way to invite someone to do something. This phrase is a fixed polite expression.",
+                "ru": "'Would you like to...?' — это очень распространенный и вежливый способ пригласить кого-то что-то сделать. Эта фраза является устойчивым вежливым выражением.",
+                "uz": "'Would you like to...?' iborasi kimnidir biror narsa qilishga taklif qilishning juda keng tarqalgan va hurmatli usulidir. Bu ibora so'z birikmasidir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Could you ___ me a favour?",
+                "ru": "Дополните предложение: Could you ___ me a favour?",
+                "uz": "Gapni to'ldiring: Could you ___ me a favour?"
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'do me a favour' is a common fixed expression. 'Could you do me a favour?' is a classic polite request.",
+                "ru": "Фраза 'do me a favour' — это распространенное устойчивое выражение. 'Could you do me a favour?' — классическая вежливая просьба.",
+                "uz": "'Do me a favour' iborasi keng tarqalgan so'z birikmasidir. 'Could you do me a favour?' — klassik hurmatli so'rov."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'd like to make an ___ at 3 pm.",
+                "ru": "Дополните предложение: I'd like to make an ___ at 3 pm.",
+                "uz": "Gapni to'ldiring: I'd like to make an ___ at 3 pm."
+            },
+            "options": [
+                {
+                    "answer": "appointment",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct phrase is 'make an appointment'. This is a very common polite expression, especially in a professional or medical context.",
+                "ru": "Правильная фраза — 'make an appointment'. Это очень распространенное вежливое выражение, особенно в профессиональном или медицинском контексте.",
+                "uz": "To'g'ri ibora 'make an appointment'. Bu juda keng tarqalgan xushmuomala ifoda, ayniqsa professional yoki tibbiy sohada."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ I borrow your pen, please?",
+                "ru": "Дополните предложение: ___ I borrow your pen, please?",
+                "uz": "Gapni to'ldiring: ___ I borrow your pen, please?"
+            },
+            "options": [
+                {
+                    "answer": "May/Could/Can",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May', 'could', and 'can' are all used to ask for permission. 'May' is the most formal, while 'could' is very polite and common. 'Can' is the least formal but is still acceptable.",
+                "ru": "'May', 'could' и 'can' используются для просьбы о разрешении. 'May' является наиболее формальным, 'could' очень вежлив и распространен. 'Can' наименее формален, но все еще приемлем.",
+                "uz": "'May', 'could' va 'can' ruxsat so'rash uchun ishlatiladi. 'May' eng rasmiy, 'could' esa juda hurmatli va keng tarqalgan. 'Can' eng kam rasmiy, ammo qabul qilinadi."
+            }
+        },
+        {
+            "id": "sa13",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Do you ___ if I borrow your book?",
+                "ru": "Дополните предложение: Do you ___ if I borrow your book?",
+                "uz": "Gapni to'ldiring: Do you ___ if I borrow your book?"
+            },
+            "options": [
+                {
+                    "answer": "mind",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Do you mind...?' is a polite way to ask for permission. It's an alternative to 'Would you mind...?' but is slightly less formal.",
+                "ru": "'Do you mind...?' — это вежливый способ попросить разрешения. Это альтернатива 'Would you mind...?', но немного менее формальна.",
+                "uz": "'Do you mind...?' ruxsat so'rashning xushmuomala usulidir. Bu 'Would you mind...?' ga muqobil, ammo biroz kamroq rasmiy."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, I'm calling ___1___ an appointment with Dr. Evans. I was ___2___ if it would be ___3___ to see him next Tuesday. I was also ___4___ if you ___5___ possibly tell me what time the clinic opens. I would ___6___ grateful if you ___7___ provide me with that information. I know I am asking a lot, but I'd ___8___ to get this sorted out as soon as possible. Would you ___9___ telling me what documents I need to bring? And finally, would you ___10___ if I arrive 10 minutes late? Thank you very much for your help.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to make/to schedule"
+                },
+                {
+                    "blank": "2",
+                    "answer": "wondering/hoping"
+                },
+                {
+                    "blank": "3",
+                    "answer": "possible/convenient"
+                },
+                {
+                    "blank": "4",
+                    "answer": "wondering/hoping"
+                },
+                {
+                    "blank": "5",
+                    "answer": "could/can"
+                },
+                {
+                    "blank": "6",
+                    "answer": "be"
+                },
+                {
+                    "blank": "7",
+                    "answer": "could/can"
+                },
+                {
+                    "blank": "8",
+                    "answer": "like"
+                },
+                {
+                    "blank": "9",
+                    "answer": "mind"
+                },
+                {
+                    "blank": "10",
+                    "answer": "mind"
+                }
+            ],
+            "explanation": {
+                "en": "This dialogue uses several polite expressions. 'I'm calling to make' and 'I'd like to get' use the structure 'verb + to + base verb'. 'I was wondering/hoping if...' and 'Would you mind...' are common fixed phrases for polite requests.",
+                "ru": "Этот диалог использует несколько вежливых выражений. 'I'm calling to make' и 'I'd like to get' используют структуру 'глагол + to + основная форма глагола'. 'I was wondering/hoping if...' и 'Would you mind...' — распространенные устойчивые фразы для вежливых просьб.",
+                "uz": "Ushbu dialogda bir nechta hurmatli iboralar ishlatilgan. 'I'm calling to make' va 'I'd like to get' 'fe'l + to + fe'lning asosiy shakli' tuzilmasidan foydalanadi. 'I was wondering/hoping if...' va 'Would you mind...' hurmatli so'rovlar uchun keng tarqalgan so'z birikmalari hisoblanadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Excuse me, I was ___1___ if you could ___2___ me. I need to get to the city center. I am not familiar with this area. Would it ___3___ possible for you to tell me which bus I should ___4___? I would also be very ___5___ if you could tell me where the bus stop is. I'd ___6___ to go there as soon as possible. Could you ___7___ give me directions to the station after that? I was ___8___ that you might be able to help. Would you ___9___ if I asked you one more question? I'd ___10___ to know the price of the ticket. Thank you very much.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "wondering/hoping"
+                },
+                {
+                    "blank": "2",
+                    "answer": "help"
+                },
+                {
+                    "blank": "3",
+                    "answer": "be"
+                },
+                {
+                    "blank": "4",
+                    "answer": "take"
+                },
+                {
+                    "blank": "5",
+                    "answer": "grateful/thankful/happy"
+                },
+                {
+                    "blank": "6",
+                    "answer": "like"
+                },
+                {
+                    "blank": "7",
+                    "answer": "please"
+                },
+                {
+                    "blank": "8",
+                    "answer": "hoping"
+                },
+                {
+                    "blank": "9",
+                    "answer": "mind"
+                },
+                {
+                    "blank": "10",
+                    "answer": "like"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses polite expressions for asking for directions. It includes phrases like 'I was wondering if...' and 'I would be grateful if...', which use the conditional tense and past continuous for politeness. 'Would you mind...' and 'Could you please...' are also classic polite requests.",
+                "ru": "Этот текст использует вежливые выражения для уточнения направления. Он включает такие фразы, как 'I was wondering if...' и 'I would be grateful if...', которые используют условное наклонение и прошедшее длительное время для вежливости. 'Would you mind...' и 'Could you please...' также являются классическими вежливыми просьбами.",
+                "uz": "Ushbu matn yo'nalish so'rash uchun hurmatli iboralarni ishlatadi. Bu 'I was wondering if...' va 'I would be grateful if...' kabi iboralarni o'z ichiga oladi, ular shartli zamon va o'tgan davomiy zamonni hurmatli murojaat uchun ishlatadi. 'Would you mind...' va 'Could you please...' ham klassik hurmatli so'rovlardir."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Dear Sir or Madam, I am writing to you today to make a request. I would ___1___ grateful if you could provide me with more information about your language courses. I am particularly interested in the A2 level. I would also ___2___ to know the schedule and pricing for these courses. I was ___3___ if you could possibly send me a brochure. Could you ___4___ tell me if there are any discounts available? I'd also be happy to hear about any special offers. Would you ___5___ sending me the information via email? I was ___6___ that you could get back to me within a week. I'd like to thank you for your time and help. I look ___7___ to hearing from you. Sincerely, Jane Doe.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "be"
+                },
+                {
+                    "blank": "2",
+                    "answer": "like"
+                },
+                {
+                    "blank": "3",
+                    "answer": "wondering/hoping"
+                },
+                {
+                    "blank": "4",
+                    "answer": "please"
+                },
+                {
+                    "blank": "5",
+                    "answer": "mind"
+                },
+                {
+                    "blank": "6",
+                    "answer": "hoping/wondering"
+                },
+                {
+                    "blank": "7",
+                    "answer": "forward"
+                }
+            ],
+            "explanation": {
+                "en": "This is a formal polite email. It uses expressions like 'I would be grateful if...' and 'I would like to...', 'I was wondering if...', and 'Would you mind...?' to make requests in a respectful manner. 'Look forward to' is also a polite closing phrase.",
+                "ru": "Это формальное вежливое электронное письмо. Оно использует выражения 'I would be grateful if...', 'I would like to...', 'I was wondering if...' и 'Would you mind...?' для вежливых просьб. 'Look forward to' — также вежливая заключительная фраза.",
+                "uz": "Bu rasmiy xushmuomala elektron pochta. U 'I would be grateful if...', 'I would like to...', 'I was wondering if...' va 'Would you mind...?' kabi iboralarni hurmatli tarzda so'rov qilish uchun ishlatadi. 'Look forward to' ham hurmatli yakunlovchi iboradir."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hi Mark, I'm calling ___1___ a quick question. I was ___2___ if you could tell me how to use the new printer. I'd ___3___ to print my presentation before the meeting. I was also ___4___ you could help me with this. I would be really ___5___ if you could come over for a few minutes. I can't seem to get it to work. Would you ___6___ showing me? It would be a great help. I can't seem to figure it out on my own. I ___7___ be grateful for your assistance. I hope I'm not disturbing you. Please ___8___ let me know if you are busy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "to ask"
+                },
+                {
+                    "blank": "2",
+                    "answer": "wondering/hoping"
+                },
+                {
+                    "blank": "3",
+                    "answer": "like"
+                },
+                {
+                    "blank": "4",
+                    "answer": "hoping/wondering"
+                },
+                {
+                    "blank": "5",
+                    "answer": "grateful/thankful/happy"
+                },
+                {
+                    "blank": "6",
+                    "answer": "mind"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would/will"
+                },
+                {
+                    "blank": "8",
+                    "answer": "just"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses polite expressions for a less formal context, such as a call to a colleague. It includes phrases like 'I'm calling to ask...', 'I was wondering if...', and 'I'd like to...'. The phrasal verb 'figure it out' is also appropriate for this A2-B1 level.",
+                "ru": "Этот текст использует вежливые выражения для менее формального контекста, например, для звонка коллеге. Он включает такие фразы, как 'I'm calling to ask...', 'I was wondering if...' и 'I'd like to...'. Фразовый глагол 'figure it out' также подходит для этого уровня A2-B1.",
+                "uz": "Ushbu matn rasmiy bo'lmagan kontekst uchun xushmuomala iboralarni ishlatadi, masalan, hamkasbga qo'ng'iroq qilish. U 'I'm calling to ask...', 'I was wondering if...' va 'I'd like to...' kabi iboralarni o'z ichiga oladi. 'Figure it out' fe'li ham A2-B1 darajasi uchun mos keladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Excuse me, I'm just ___1___ if you could help me. I was hoping to find a good coffee shop nearby. I'd ___2___ to get a good cup of coffee. Could you ___3___ tell me if there is one on this street? I would be ___4___ if you could give me a suggestion. I'd also like to know if it's open late. Do you ___5___ if I ask a few more questions? I also want to know the best way to get to the museum from here. I was ___6___ that you could give me some directions. Would you mind ___7___ me on a map where it is? Thank you so much for your help.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "wondering"
+                },
+                {
+                    "blank": "2",
+                    "answer": "like"
+                },
+                {
+                    "blank": "3",
+                    "answer": "please"
+                },
+                {
+                    "blank": "4",
+                    "answer": "grateful"
+                },
+                {
+                    "blank": "5",
+                    "answer": "mind"
+                },
+                {
+                    "blank": "6",
+                    "answer": "hoping"
+                },
+                {
+                    "blank": "7",
+                    "answer": "showing"
+                }
+            ],
+            "explanation": {
+                "en": "This text uses various polite requests for asking for directions and recommendations from a stranger. It covers phrases like 'I'm just wondering if...', 'I'd like to...', and 'Would you mind...?' to demonstrate a range of polite expressions.",
+                "ru": "Этот текст использует различные вежливые просьбы для уточнения направлений и получения рекомендаций от незнакомого человека. Он охватывает такие фразы, как 'I'm just wondering if...', 'I'd like to...' и 'Would you mind...?', чтобы продемонстрировать широкий спектр вежливых выражений.",
+                "uz": "Ushbu matn notanish odamdan yo'nalish va tavsiyalar so'rash uchun turli xil hurmatli so'rovlardan foydalanadi. U hurmatli iboralarning keng doirasini namoyish qilish uchun 'I'm just wondering if...', 'I'd like to...' va 'Would you mind...?' kabi iboralarni qamrab oladi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+  "topics": [
+    {
+      "id": "consciousness_philosophy",
+      "title": "Consciousness and Philosophy of Mind",
+      "level": "C2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Consciousness and identity",
+        "instructions": "I'd like to explore some philosophical questions about consciousness and identity.",
+        "questions": [
+          "How would you define consciousness, and what makes it unique to humans?",
+          "Do you believe that artificial intelligence could ever become truly conscious?",
+          "What role does memory play in shaping our sense of identity?",
+          "How do you think neuroscience is changing our understanding of the mind?",
+          "What are the implications of potentially uploading human consciousness to machines?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Explore a philosophical concept",
+        "cueCard": {
+          "title": "Discuss a philosophical question that fascinates you",
+          "description": "You should say:",
+          "points": [
+            "What the philosophical question or concept is",
+            "Why it intrigues or challenges you intellectually",
+            "What different philosophical perspectives exist on this issue",
+            "And explain how engaging with such questions might benefit society"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "The nature of reality and knowledge",
+        "instructions": "Let's delve into deeper philosophical considerations about reality and knowledge.",
+        "questions": [
+          "How do we determine what constitutes objective reality versus subjective experience?",
+          "What are the limitations of human cognition in understanding the universe?",
+          "How might advances in quantum physics challenge our conventional understanding of reality?",
+          "What is the relationship between language, thought, and our perception of reality?",
+          "How should we approach moral and ethical questions when faced with cultural relativism?",
+          "What role should intuition play in scientific and philosophical inquiry?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I find myself continually fascinated by the hard problem of consciousness, which essentially asks how and why physical processes in the brain give rise to subjective, first-person experiences. This question intrigues me because it sits at the intersection of neuroscience, philosophy, and even physics, yet despite tremendous advances in brain imaging and computational modeling, we seem no closer to a definitive answer. What makes this particularly challenging intellectually is that consciousness appears to be simultaneously the most intimate aspect of our existence - the very thing through which we experience everything else - and yet the most elusive to study objectively. Philosophers and scientists have proposed various perspectives on this issue. Materialists argue that consciousness is simply an emergent property of complex neural activity, suggesting that once we fully understand the brain's mechanisms, consciousness will be explicable in purely physical terms. Dualists, however, maintain that consciousness represents something fundamentally different from physical matter, possibly requiring entirely new categories of explanation. More recently, some researchers have proposed that consciousness might be a fundamental feature of the universe, much like mass or charge, rather than something that emerges from complexity. I believe engaging with such profound questions benefits society by cultivating intellectual humility and encouraging rigorous thinking about the deepest aspects of human existence. It reminds us that despite our technological prowess, fundamental mysteries remain, and it encourages interdisciplinary collaboration between fields that might otherwise remain isolated. Moreover, grappling with consciousness has practical implications for medical ethics, artificial intelligence development, and our understanding of mental health."
+      }
+    },
+    {
+      "id": "future_civilization",
+      "title": "The Future of Human Civilization",
+      "level": "C2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Civilization and progress",
+        "instructions": "Let's examine questions about the trajectory and future of human civilization.",
+        "questions": [
+          "How do you evaluate whether human civilization is progressing or regressing?",
+          "What do you think are the greatest existential risks facing humanity?",
+          "How might space exploration and colonization change human society?",
+          "What role should international institutions play in governing global challenges?",
+          "How can we balance technological advancement with human values and wellbeing?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Envision humanity's future",
+        "cueCard": {
+          "title": "Describe your vision of human civilization in 100 years",
+          "description": "You should say:",
+          "points": [
+            "What major changes you anticipate in society, technology, or human nature",
+            "What challenges humanity will likely have overcome or still be facing",
+            "How human relationships and social structures might evolve",
+            "And explain what gives you optimism or concern about this future"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Civilizational complexity and sustainability",
+        "instructions": "Now let's explore the deeper challenges facing advanced civilizations.",
+        "questions": [
+          "What are the inherent tensions between individual freedom and collective survival in complex societies?",
+          "How might the concept of human nature itself evolve as we gain greater control over our biology?",
+          "What philosophical and ethical frameworks should guide decisions that affect future generations?",
+          "How can democratic institutions adapt to govern increasingly complex global systems?",
+          "What lessons from historical civilizational collapses remain relevant today?",
+          "How might contact with extraterrestrial intelligence fundamentally alter human civilization?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "topic": "To what extent do you agree or disagree that technological advancements have a greater impact on unemployment rates than economic policies?",
+        "relatedVocabulary": {
+            "en": {
+                "automation": "The use of largely automatic equipment in a system of manufacturing or other production process.",
+                "displacement": "The enforced departure of people from their homes or area.",
+                "upskilling": "The process of learning new skills.",
+                "reskilling": "The process of learning new skills so you can do a different job.",
+                "labor market": "The area of social activity where people seek employment.",
+                "gig economy": "A labor market characterized by the prevalence of short-term contracts or freelance work as opposed to permanent jobs.",
+                "socioeconomic": "Relating to or concerned with the interaction of social and economic factors.",
+                "structural unemployment": "Unemployment resulting from industrial reorganization, typically due to technological change, rather than fluctuations in supply or demand.",
+                "policy intervention": "Action taken by a government or other body to influence the economy or social conditions.",
+                "adaptability": "The quality of being able to adjust to new conditions."
+            },
+            "ru": {
+                "automation": "Автоматизация",
+                "displacement": "Вытеснение",
+                "upskilling": "Повышение квалификации",
+                "reskilling": "Переквалификация",
+                "labor market": "Рынок труда",
+                "gig economy": "Гиг-экономика",
+                "socioeconomic": "Социально-экономический",
+                "structural unemployment": "Структурная безработица",
+                "policy intervention": "Политическое вмешательство",
+                "adaptability": "Адаптивность"
+            },
+            "uz": {
+                "automation": "Avtomatizatsiya",
+                "displacement": "Siqib chiqarish",
+                "upskilling": "Malaka oshirish",
+                "reskilling": "Qayta tayyorlash",
+                "labor market": "Mehnat bozori",
+                "gig economy": "Gig-iqtisodiyot",
+                "socioeconomic": "Ijtimoiy-iqtisodiy",
+                "structural unemployment": "Strukturaviy ishsizlik",
+                "policy intervention": "Siyosiy aralashuv",
+                "adaptability": "Moslashuvchanlik"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Evaluate the ethical implications of genetic engineering and its potential impact on human society.",
+        "relatedVocabulary": {
+            "en": {
+                "CRISPR": "A technology that can be used to edit genes.",
+                "bioethics": "The ethics of medical and biological research.",
+                "germline editing": "Genetic changes to sperm, eggs, or embryos that affect future generations.",
+                "somatic editing": "Genetic changes to non-reproductive cells that do not affect future generations.",
+                "designer babies": "Babies whose genetic makeup has been artificially selected.",
+                "equity": "The quality of being fair and impartial.",
+                "preimplantation genetic diagnosis": "A technique used to identify genetic defects in embryos created through in vitro fertilization (IVF).",
+                "inheritable": "Capable of being passed on from parents to offspring.",
+                "autonomy": "The right or condition of self-government.",
+                "stewardship": "The responsible overseeing and protection of something considered worth caring for and preserving."
+            },
+            "ru": {
+                "CRISPR": "CRISPR",
+                "bioethics": "Биоэтика",
+                "germline editing": "Редактирование зародышевой линии",
+                "somatic editing": "Соматическое редактирование",
+                "designer babies": "Дизайнерские младенцы",
+                "equity": "Справедливость",
+                "preimplantation genetic diagnosis": "Преимплантационная генетическая диагностика",
+                "inheritable": "Наследуемый",
+                "autonomy": "Автономия",
+                "stewardship": "Управление"
+            },
+            "uz": {
+                "CRISPR": "CRISPR",
+                "bioethics": "Bioetika",
+                "germline editing": "Germline tahrirlash",
+                "somatic editing": "Somatik tahrirlash",
+                "designer babies": "Dizayner chaqaloqlar",
+                "equity": "Adolat",
+                "preimplantation genetic diagnosis": "Preimplantatsion genetik tashxis",
+                "inheritable": "Meros boʻluvchi",
+                "autonomy": "Avtonomiya",
+                "stewardship": "Nazoratchilik"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "topic": "Discuss the challenges and opportunities presented by globalization for both developed and developing countries.",
+        "relatedVocabulary": {
+            "en": {
+                "interconnectedness": "The state of being connected with each other.",
+                "cultural exchange": "The reciprocal exchange of ideas, beliefs, and values between different cultures.",
+                "economic disparity": "Inequality in income, wealth, or economic status.",
+                "protectionism": "The theory or practice of shielding a country's domestic industries from foreign competition by taxing imports.",
+                "multinational corporation": "A company operating in several countries.",
+                "supply chain": "The sequence of processes involved in the production and distribution of a commodity.",
+                "brain drain": "The emigration of highly trained or intelligent people from a particular country.",
+                "outsourcing": "Obtain (goods or a service) from an outside or foreign supplier, especially in place of an internal source.",
+                "sustainable development": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+                "trade liberalization": "The removal or reduction of restrictions or barriers on the free exchange of goods between nations."
+            },
+            "ru": {
+                "interconnectedness": "Взаимосвязанность",
+                "cultural exchange": "Культурный обмен",
+                "economic disparity": "Экономическое неравенство",
+                "protectionism": "Протекционизм",
+                "multinational corporation": "Многонациональная корпорация",
+                "supply chain": "Цепочка поставок",
+                "brain drain": "Утечка мозгов",
+                "outsourcing": "Аутсорсинг",
+                "sustainable development": "Устойчивое развитие",
+                "trade liberalization": "Либерализация торговли"
+            },
+            "uz": {
+                "interconnectedness": "O'zaro bog'liqlik",
+                "cultural exchange": "Madaniy almashinuv",
+                "economic disparity": "Iqtisodiy tafovut",
+                "protectionism": "Proteksionizm",
+                "multinational corporation": "Transmilliy korporatsiya",
+                "supply chain": "Yetkazib berish zanjiri",
+                "brain drain": "Aqllar sizishi",
+                "outsourcing": "Autsorsing",
+                "sustainable development": "Barqaror rivojlanish",
+                "trade liberalization": "Savdoni liberallashtirish"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "topic": "Analyze the impact of social media on interpersonal relationships and mental well-being.",
+        "relatedVocabulary": {
+            "en": {
+                "digital natives": "People born or brought up during the age of digital technology and therefore familiar with computers and the Internet from an early age.",
+                "screen time": "The amount of time a person spends looking at a screen.",
+                "cyberbullying": "The use of electronic communication to bully a person, typically by sending messages of an intimidating or threatening nature.",
+                "FOMO (Fear Of Missing Out)": "Anxiety that an exciting or interesting event may currently be happening elsewhere, often aroused by posts seen on social media.",
+                "filter bubble": "A situation in which an individual encounters only news and information that reinforces their own beliefs.",
+                "echo chamber": "An environment in which a person encounters only beliefs or opinions similar to their own, so that their existing views are reinforced and alternative ideas are not considered.",
+                "authenticity": "The quality of being authentic or genuine.",
+                "curated identity": "An identity that is carefully selected and presented, often on social media.",
+                "doomscrolling": "The act of consuming a large quantity of negative online news at once.",
+                "well-being": "The state of being comfortable, healthy, or happy."
+            },
+            "ru": {
+                "digital natives": "Цифровые аборигены",
+                "screen time": "Экранное время",
+                "cyberbullying": "Кибербуллинг",
+                "FOMO (Fear Of Missing Out)": "Синдром упущенной выгоды",
+                "filter bubble": "Информационный пузырь",
+                "echo chamber": "Эхо-камера",
+                "authenticity": "Подлинность",
+                "curated identity": "Курируемая идентичность",
+                "doomscrolling": "Думскроллинг",
+                "well-being": "Благополучие"
+            },
+            "uz": {
+                "digital natives": "Raqamli mahalliy aholi",
+                "screen time": "Ekran vaqti",
+                "cyberbullying": "Kiberbulling",
+                "FOMO (Fear Of Missing Out)": "FOMO (Imkoniyatni boy berish qo'rquvi)",
+                "filter bubble": "Filtrlash pufakchasi",
+                "echo chamber": "Aks-sado xonasi",
+                "authenticity": "Haqiqiylik",
+                "curated identity": "Kuratorlik identifikatori",
+                "doomscrolling": "Doomscrolling",
+                "well-being": "Farovonlik"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Examine the role of art and culture in fostering social change and challenging societal norms.",
+        "relatedVocabulary": {
+            "en": {
+                "counterculture": "A way of life and set of attitudes opposed to or at variance with the prevailing social norm.",
+                "avant-garde": "New and unusual or experimental ideas, especially in the arts, or the people introducing them.",
+                "subversion": "The undermining of the power and authority of an established system or institution.",
+                "discourse": "Written or spoken communication or debate.",
+                "representation": "The depiction of someone or something in a particular way.",
+                "aesthetic": "Concerned with beauty or the appreciation of beauty.",
+                "medium": "A means or channel of communication or expression.",
+                "patronage": "The support given by a patron.",
+                "critique": "A detailed analysis and assessment of something, especially a literary, philosophical, or political theory.",
+                "narrative": "A spoken or written account of connected events; a story."
+            },
+            "ru": {
+                "counterculture": "Контркультура",
+                "avant-garde": "Авангард",
+                "subversion": "Подрывная деятельность",
+                "discourse": "Дискурс",
+                "representation": "Представление",
+                "aesthetic": "Эстетический",
+                "medium": "Средство",
+                "patronage": "Покровительство",
+                "critique": "Критика",
+                "narrative": "Повествование"
+            },
+            "uz": {
+                "counterculture": "Kontrkultura",
+                "avant-garde": "Avangard",
+                "subversion": "Buzg'unchilik",
+                "discourse": "Diskurs",
+                "representation": "Tasvirlash",
+                "aesthetic": "Estetik",
+                "medium": "Vosita",
+                "patronage": "Homiyik",
+                "critique": "Tanqid",
+                "narrative": "Rivoyat"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "topic": "To what extent should governments prioritize environmental protection over economic growth?",
+        "relatedVocabulary": {
+            "en": {
+                "sustainability": "The ability to be maintained at a certain rate or level.",
+                "ecological footprint": "The impact of a person or community on the environment, expressed as the amount of land required to sustain their use of natural resources.",
+                "conservation": "The preservation, protection, and restoration of the natural environment, natural ecosystems, vegetation, and wildlife.",
+                "renewable energy": "Energy from a source that is not depleted when used, such as wind or solar power.",
+                "carbon emissions": "The release of carbon into the atmosphere.",
+                "biodiversity": "The variety of life in the world or in a particular habitat or ecosystem.",
+                "climate change": "A long-term change in the earth's climate, especially a change due to an increase in the average atmospheric temperature.",
+                "greenwashing": "Behavior or activities that make people believe that a company is doing more to protect the environment than it actually is.",
+                "environmental degradation": "The deterioration of the environment through depletion of resources such as air, water and soil.",
+                "policy framework": "A set of rules, guidelines, and procedures for making decisions and taking action."
+            },
+            "ru": {
+                "sustainability": "Устойчивость",
+                "ecological footprint": "Экологический след",
+                "conservation": "Сохранение природы",
+                "renewable energy": "Возобновляемая энергия",
+                "carbon emissions": "Выбросы углерода",
+                "biodiversity": "Биоразнообразие",
+                "climate change": "Изменение климата",
+                "greenwashing": "Гринвошинг",
+                "environmental degradation": "Деградация окружающей среды",
+                "policy framework": "Основа политики"
+            },
+            "uz": {
+                "sustainability": "Barqarorlik",
+                "ecological footprint": "Ekologik iz",
+                "conservation": "Tabiatni muhofaza qilish",
+                "renewable energy": "Qayta tiklanadigan energiya",
+                "carbon emissions": "Uglerod chiqindilari",
+                "biodiversity": "Biologik xilma-xillik",
+                "climate change": "Iqlim o'zgarishi",
+                "greenwashing": "Grinvoshing",
+                "environmental degradation": "Atrof-muhitning yomonlashuvi",
+                "policy framework": "Siyosat asoslari"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Discuss the advantages and disadvantages of online education compared to traditional classroom learning.",
+        "relatedVocabulary": {
+            "en": {
+                "pedagogy": "The method and practice of teaching, especially as an academic subject or theoretical concept.",
+                "synchronous learning": "Learning that takes place at the same time for all students.",
+                "asynchronous learning": "Learning that does not require all participants to be present at the same time.",
+                "flipped classroom": "A type of blended learning in which students learn new content online by watching video lectures, usually at home, and what used to be considered homework (assigned problems) is now completed in the classroom with help from the instructor.",
+                " MOOC (Massive Open Online Course)": "An online course open to a very large number of learners.",
+                "digital literacy": "The ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills.",
+                "self-discipline": "The ability to control one's feelings and overcome one's weaknesses; the ability to pursue what one thinks is right or necessary despite temptations to do otherwise.",
+                "peer interaction": "Communication and relationship building with individuals who share similar characteristics.",
+                "retention rate": "The percentage of students who continue their education at a given institution.",
+                "accessibility": "The quality of being able to be reached or entered."
+            },
+            "ru": {
+                "pedagogy": "Педагогика",
+                "synchronous learning": "Синхронное обучение",
+                "asynchronous learning": "Асинхронное обучение",
+                "flipped classroom": "Перевернутый класс",
+                " MOOC (Massive Open Online Course)": "Массовый открытый онлайн-курс",
+                "digital literacy": "Цифровая грамотность",
+                "self-discipline": "Самодисциплина",
+                "peer interaction": "Взаимодействие со сверстниками",
+                "retention rate": "Показатель удержания",
+                "accessibility": "Доступность"
+            },
+            "uz": {
+                "pedagogy": "Pedagogika",
+                "synchronous learning": "Sinxron ta'lim",
+                "asynchronous learning": "Asinxron ta'lim",
+                "flipped classroom": "Aylantirilgan sinf",
+                " MOOC (Massive Open Online Course)": "MOOC (Massiv Ochiq Onlayn Kurs)",
+                "digital literacy": "Raqamli savodxonlik",
+                "self-discipline": "O'z-o'zini nazorat qilish",
+                "peer interaction": "Tengdoshlar bilan o'zaro munosabat",
+                "retention rate": "Saqlanib qolish darajasi",
+                "accessibility": "Kirish imkoniyati"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Analyze the causes and potential solutions for the global issue of food security.",
+        "relatedVocabulary": {
+            "en": {
+                "malnutrition": "Lack of proper nutrition, caused by not having enough to eat, not eating enough of the right things, or being unable to use the food that one does eat.",
+                "sustainable agriculture": "Farming in sustainable ways, which means meeting society's food and textile needs in the present without compromising the ability of future generations to meet their own needs.",
+                "food desert": "An urban area where it is difficult to buy affordable or good-quality fresh food.",
+                " monoculture": "The cultivation of a single crop in a given area.",
+                "food miles": "The distance food has traveled from where it was produced to where it was consumed.",
+                "genetically modified organism (GMO)": "An organism whose genome has been altered in a way that does not occur naturally.",
+                "food waste": "Food that is discarded or lost uneaten.",
+                "subsidies": "A sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low.",
+                "resilience": "The capacity to recover quickly from difficulties; toughness.",
+                "supply chain disruption": "An interruption in the flow of goods and services."
+            },
+            "ru": {
+                "malnutrition": "Недоедание",
+                "sustainable agriculture": "Устойчивое сельское хозяйство",
+                "food desert": "Продовольственная пустыня",
+                " monoculture": "Монокультура",
+                "food miles": "Продовольственные мили",
+                "genetically modified organism (GMO)": "Генетически модифицированный организм (ГМО)",
+                "food waste": "Продовольственные отходы",
+                "subsidies": "Субсидии",
+                "resilience": "Устойчивость",
+                "supply chain disruption": "Нарушение цепочки поставок"
+            },
+            "uz": {
+                "malnutrition": "To'yib ovqatlanmaslik",
+                "sustainable agriculture": "Barqaror qishloq xo'jaligi",
+                "food desert": "Oziq-ovqat sahrosi",
+                " monoculture": "Monokultura",
+                "food miles": "Oziq-ovqat millari",
+                "genetically modified organism (GMO)": "Genetik modifikatsiyalangan organizm (GMO)",
+                "food waste": "Oziq-ovqat chiqindilari",
+                "subsidies": "Subsidiya",
+                "resilience": "Chidamlilik",
+                "supply chain disruption": "Yetkazib berish zanjirining uzilishi"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "topic": "Discuss the importance of cultural preservation in a rapidly globalizing world.",
+        "relatedVocabulary": {
+            "en": {
+                "cultural heritage": "The legacy of physical artifacts and intangible attributes of a group or society that are inherited from past generations.",
+                "assimilation": "The process of taking in and fully understanding information or ideas.",
+                "cultural relativism": "The principle of regarding and valuing the practices of a culture from the point of view of that culture.",
+                "intangible heritage": "The practices, representations, expressions, knowledge, skills – as well as the instruments, objects, artifacts and cultural spaces associated therewith – that communities, groups and, in some cases, individuals recognize as part of their cultural heritage.",
+                "cultural appropriation": "The unacknowledged or inappropriate adoption of the customs, practices, ideas, etc. of one people or society by members of another and typically more dominant people or society.",
+                "identity": "The fact of being who or what a person or thing is.",
+                "diversity": "The state of being diverse; variety.",
+                "globalization": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+                "marginalization": "The process of making a group or person feel less important or powerful.",
+                "revitalization": "The action of imbuing something with new life and vitality."
+            },
+            "ru": {
+                "cultural heritage": "Культурное наследие",
+                "assimilation": "Ассимиляция",
+                "cultural relativism": "Культурный релятивизм",
+                "intangible heritage": "Нематериальное наследие",
+                "cultural appropriation": "Культурная апроприация",
+                "identity": "Идентичность",
+                "diversity": "Разнообразие",
+                "globalization": "Глобализация",
+                "marginalization": "Маргинализация",
+                "revitalization": "Оживление"
+            },
+            "uz": {
+                "cultural heritage": "Madaniy meros",
+                "assimilation": "Assimilyatsiya",
+                "cultural relativism": "Madaniy relyativizm",
+                "intangible heritage": "Nomoddiy meros",
+                "cultural appropriation": "Madaniy o'zlashtirish",
+                "identity": "Identifikatsiya",
+                "diversity": "Xilma-xillik",
+                "globalization": "Globalizatsiya",
+                "marginalization": "Marginalizatsiya",
+                "revitalization": "Jonlantirish"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Evaluate the effectiveness of international aid in promoting development and poverty reduction.",
+        "relatedVocabulary": {
+            "en": {
+                "humanitarian aid": "Material or logistical assistance provided for humanitarian purposes, typically in response to humanitarian crises.",
+                "development aid": "Financial aid given by governments and other agencies to support the development of developing countries.",
+                "conditional aid": "Aid that is given subject to certain conditions being met by the recipient country.",
+                "tied aid": "Foreign aid that must be spent in the country providing the aid or on goods and services from that country.",
+                "capacity building": "The process by which individuals and organizations obtain, improve, and retain the skills, knowledge, tools, equipment and other resources needed to do their job competently.",
+                "governance": "The action or manner of governing a state, organization, etc.",
+                "corruption": "Dishonest or fraudulent conduct by those in power, typically involving bribery.",
+                " accountability": "The fact or condition of being accountable; responsibility.",
+                "sustainability": "The ability to be maintained at a certain rate or level.",
+                "poverty alleviation": "The process of reducing poverty."
+            },
+            "ru": {
+                "humanitarian aid": "Гуманитарная помощь",
+                "development aid": "Помощь развитию",
+                "conditional aid": "Условная помощь",
+                "tied aid": "Связанная помощь",
+                "capacity building": "Наращивание потенциала",
+                "governance": "Управление",
+                "corruption": "Коррупция",
+                " accountability": "Подотчетность",
+                "sustainability": "Устойчивость",
+                "poverty alleviation": "Сокращение бедности"
+            },
+            "uz": {
+                "humanitarian aid": "Gumanitar yordam",
+                "development aid": "Rivojlanish yordami",
+                "conditional aid": "Shartli yordam",
+                "tied aid": "Bog'langan yordam",
+                "capacity building": "Salohiyatni oshirish",
+                "governance": "Boshqaruv",
+                "corruption": "Korruptsiya",
+                " accountability": "Hisobdorlik",
+                "sustainability": "Barqarorlik",
+                "poverty alleviation": "Qashshoqlikni kamaytirish"
+            }
+        }
+    }
+]

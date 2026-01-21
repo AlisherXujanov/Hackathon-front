@@ -1,0 +1,608 @@
+{
+    "id": "A2_PRESENT_AND_PAST_SIMPLE_PASSIVE_BE_PAST_PARTICIPLE_BASIC_PASSIVE_VOICE",
+    "title": "Present and past simple passive (Be + past participle) - Basic passive voice",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The letter was wrote by John."
+                },
+                {
+                    "answer": "The letter was written by John.",
+                    "correct": true
+                },
+                {
+                    "answer": "The letter is wrote by John."
+                }
+            ],
+            "explanation": {
+                "en": "The past simple passive is formed with 'was/were + past participle'. The past participle of 'write' is 'written', not 'wrote'.",
+                "ru": "Прошедшее простое пассивное время образуется с помощью 'was/were + причастие прошедшего времени'. Причастие прошедшего времени от 'write' это 'written', а не 'wrote'.",
+                "uz": "O'tgan zamon passiv nisbati 'was/were + o'tgan zamon sifatdoshi' bilan yasaladi. 'Write' so'zining o'tgan zamon sifatdoshi 'written', 'wrote' emas."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The house is build every year."
+                },
+                {
+                    "answer": "The house is built every year.",
+                    "correct": true
+                },
+                {
+                    "answer": "The house are built every year."
+                }
+            ],
+            "explanation": {
+                "en": "The present simple passive uses 'is/are + past participle'. 'House' is singular, so we use 'is', and the past participle of 'build' is 'built'.",
+                "ru": "Настоящее простое пассивное время использует 'is/are + причастие прошедшего времени'. 'House' единственное число, поэтому используем 'is', а причастие прошедшего времени от 'build' это 'built'.",
+                "uz": "Hozirgi zamon passiv nisbati 'is/are + o'tgan zamon sifatdoshi' bilan ishlatiladi. 'House' birlik sonda, shuning uchun 'is' ishlatamiz, 'build' so'zining o'tgan zamon sifatdoshi 'built'."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The windows was cleaned yesterday."
+                },
+                {
+                    "answer": "The windows were cleaned yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "The windows is cleaned yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "With plural subjects like 'windows', we use 'were' in past simple passive, not 'was' or 'is'.",
+                "ru": "С подлежащими во множественном числе, как 'windows', мы используем 'were' в прошедшем простом пассивном времени, а не 'was' или 'is'.",
+                "uz": "Ko'plik subjektlar bilan, masalan 'windows', biz o'tgan zamon passiv nisba-tida 'were' ishlatamiz, 'was' yoki 'is' emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "English is spoke in many countries."
+                },
+                {
+                    "answer": "English is spoken in many countries.",
+                    "correct": true
+                },
+                {
+                    "answer": "English are spoken in many countries."
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive uses 'is/are + past participle'. 'English' is singular, so we use 'is', and the past participle of 'speak' is 'spoken'.",
+                "ru": "Настоящее простое пассивное время использует 'is/are + причастие прошедшего времени'. 'English' единственное число, используем 'is', причастие от 'speak' это 'spoken'.",
+                "uz": "Hozirgi zamon passiv nisbati 'is/are + o'tgan zamon sifatdoshi' bilan yasaladi. 'English' birlik sonda, 'is' ishlatamiz, 'speak' ning o'tgan zamon sifatdoshi 'spoken'."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The door was open by the wind."
+                },
+                {
+                    "answer": "The door was opened by the wind.",
+                    "correct": true
+                },
+                {
+                    "answer": "The door is open by the wind."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple passive requires 'was/were + past participle'. The past participle of 'open' as a verb is 'opened'.",
+                "ru": "Прошедшее простое пассивное время требует 'was/were + причастие прошедшего времени'. Причастие прошедшего времени от глагола 'open' это 'opened'.",
+                "uz": "O'tgan zamon passiv nisbati 'was/were + o'tgan zamon sifatdoshi' ni talab qiladi. 'Open' fe'lining o'tgan zamon sifatdoshi 'opened'."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The books are sell in the shop."
+                },
+                {
+                    "answer": "The books are sold in the shop.",
+                    "correct": true
+                },
+                {
+                    "answer": "The books is sold in the shop."
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive with plural subjects uses 'are + past participle'. The past participle of 'sell' is 'sold'.",
+                "ru": "Настоящее простое пассивное время с подлежащими во множественном числе использует 'are + причастие прошедшего времени'. Причастие от 'sell' это 'sold'.",
+                "uz": "Ko'plik subjektlar bilan hozirgi zamon passiv nisbati 'are + o'tgan zamon sifatdoshi' ishlatadi. 'Sell' ning o'tgan zamon sifatdoshi 'sold'."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The cake was ate at the party."
+                },
+                {
+                    "answer": "The cake was eaten at the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cake were eaten at the party."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple passive uses 'was/were + past participle'. 'Cake' is singular (use 'was'), and the past participle of 'eat' is 'eaten'.",
+                "ru": "Прошедшее простое пассивное время использует 'was/were + причастие прошедшего времени'. 'Cake' единственное число (используем 'was'), причастие от 'eat' это 'eaten'.",
+                "uz": "O'tgan zamon passiv nisbati 'was/were + o'tgan zamon sifatdoshi' ishlatadi. 'Cake' birlik sonda ('was' ishlatamiz), 'eat' ning o'tgan zamon sifatdoshi 'eaten'."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Coffee is grow in Brazil."
+                },
+                {
+                    "answer": "Coffee is grown in Brazil.",
+                    "correct": true
+                },
+                {
+                    "answer": "Coffee are grown in Brazil."
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive uses 'is/are + past participle'. 'Coffee' is uncountable and singular, so we use 'is', and the past participle of 'grow' is 'grown'.",
+                "ru": "Настоящее простое пассивное время использует 'is/are + причастие прошедшего времени'. 'Coffee' неисчисляемое в единственном числе, используем 'is', причастие от 'grow' это 'grown'.",
+                "uz": "Hozirgi zamon passiv nisbati 'is/are + o'tgan zamon sifatdoshi' ishlatadi. 'Coffee' sanalmaydigan va birlik sonda, 'is' ishlatamiz, 'grow' ning o'tgan zamon sifatdoshi 'grown'."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The car was repair yesterday."
+                },
+                {
+                    "answer": "The car was repaired yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "The car is repair yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple passive is formed with 'was/were + past participle'. The past participle of 'repair' is 'repaired'.",
+                "ru": "Прошедшее простое пассивное время образуется с помощью 'was/were + причастие прошедшего времени'. Причастие от 'repair' это 'repaired'.",
+                "uz": "O'tgan zamon passiv nisbati 'was/were + o'tgan zamon sifatdoshi' bilan yasaladi. 'Repair' ning o'tgan zamon sifatdoshi 'repaired'."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The emails is sent every morning."
+                },
+                {
+                    "answer": "The emails are sent every morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "The emails are send every morning."
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive with plural subjects uses 'are + past participle'. The past participle of 'send' is 'sent'.",
+                "ru": "Настоящее простое пассивное время с множественным числом использует 'are + причастие прошедшего времени'. Причастие от 'send' это 'sent'.",
+                "uz": "Ko'plik subjektlar bilan hozirgi zamon passiv nisbati 'are + o'tgan zamon sifatdoshi' ishlatadi. 'Send' ning o'tgan zamon sifatdoshi 'sent'."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The newspaper ___ delivered every morning.",
+                "ru": "Дополните предложение: The newspaper ___ delivered every morning.",
+                "uz": "Gapni to'ldiring: The newspaper ___ delivered every morning."
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive uses 'is/are + past participle'. 'Newspaper' is singular, so we use 'is'.",
+                "ru": "Настоящее простое пассивное время использует 'is/are + причастие прошедшего времени'. 'Newspaper' единственное число, поэтому используем 'is'.",
+                "uz": "Hozirgi zamon passiv nisbati 'is/are + o'tgan zamon sifatdoshi' ishlatadi. 'Newspaper' birlik sonda, shuning uchun 'is' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children ___ taken to school by their parents.",
+                "ru": "Дополните предложение: The children ___ taken to school by their parents.",
+                "uz": "Gapni to'ldiring: The children ___ taken to school by their parents."
+            },
+            "options": [
+                {
+                    "answer": "are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present simple passive with plural subjects uses 'are + past participle'. 'Children' is plural.",
+                "ru": "Настоящее простое пассивное время с множественным числом использует 'are + причастие прошедшего времени'. 'Children' множественное число.",
+                "uz": "Ko'plik subjektlar bilan hozirgi zamon passiv nisbati 'are + o'tgan zamon sifatdoshi' ishlatadi. 'Children' ko'plik sonda."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The window ___ broken yesterday.",
+                "ru": "Дополните предложение: The window ___ broken yesterday.",
+                "uz": "Gapni to'ldiring: The window ___ broken yesterday."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple passive uses 'was/were + past participle'. 'Window' is singular, so we use 'was'.",
+                "ru": "Прошедшее простое пассивное время использует 'was/were + причастие прошедшего времени'. 'Window' единственное число, используем 'was'.",
+                "uz": "O'tgan zamon passiv nisbati 'was/were + o'tgan zamon sifatdoshi' ishlatadi. 'Window' birlik sonda, 'was' ishlatamiz."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The letters ___ posted this morning.",
+                "ru": "Дополните предложение: The letters ___ posted this morning.",
+                "uz": "Gapni to'ldiring: The letters ___ posted this morning."
+            },
+            "options": [
+                {
+                    "answer": "were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple passive with plural subjects uses 'were + past participle'. 'Letters' is plural.",
+                "ru": "Прошедшее простое пассивное время с множественным числом использует 'were + причастие прошедшего времени'. 'Letters' множественное число.",
+                "uz": "Ko'plik subjektlar bilan o'tgan zamon passiv nisbati 'were + o'tgan zamon sifatdoshi' ishlatadi. 'Letters' ko'plik sonda."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: The house was ___ (build) in 1995.",
+                "ru": "Дополните причастием прошедшего времени: The house was ___ (build) in 1995.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: The house was ___ (build) in 1995."
+            },
+            "options": [
+                {
+                    "answer": "built",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'build' is 'built'. This is an irregular verb.",
+                "ru": "Причастие прошедшего времени от 'build' это 'built'. Это неправильный глагол.",
+                "uz": "'Build' so'zining o'tgan zamon sifatdoshi 'built'. Bu tartibsiz fe'l."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: English is ___ (teach) at our school.",
+                "ru": "Дополните причастием прошедшего времени: English is ___ (teach) at our school.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: English is ___ (teach) at our school."
+            },
+            "options": [
+                {
+                    "answer": "taught",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'teach' is 'taught'. This is an irregular verb.",
+                "ru": "Причастие прошедшего времени от 'teach' это 'taught'. Это неправильный глагол.",
+                "uz": "'Teach' so'zining o'tgan zamon sifatdoshi 'taught'. Bu tartibsiz fe'l."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: The story was ___ (tell) by my grandmother.",
+                "ru": "Дополните причастием прошедшего времени: The story was ___ (tell) by my grandmother.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: The story was ___ (tell) by my grandmother."
+            },
+            "options": [
+                {
+                    "answer": "told",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'tell' is 'told'. This is an irregular verb.",
+                "ru": "Причастие прошедшего времени от 'tell' это 'told'. Это неправильный глагол.",
+                "uz": "'Tell' so'zining o'tgan zamon sifatdoshi 'told'. Bu tartibsiz fe'l."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: The dishes are ___ (wash) after dinner.",
+                "ru": "Дополните причастием прошедшего времени: The dishes are ___ (wash) after dinner.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: The dishes are ___ (wash) after dinner."
+            },
+            "options": [
+                {
+                    "answer": "washed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'wash' is 'washed'. This is a regular verb, so we add -ed.",
+                "ru": "Причастие прошедшего времени от 'wash' это 'washed'. Это правильный глагол, поэтому добавляем -ed.",
+                "uz": "'Wash' so'zining o'tgan zamon sifatdoshi 'washed'. Bu tartibli fe'l, shuning uchun -ed qo'shamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: The meeting was ___ (cancel) due to rain.",
+                "ru": "Дополните причастием прошедшего времени: The meeting was ___ (cancel) due to rain.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: The meeting was ___ (cancel) due to rain."
+            },
+            "options": [
+                {
+                    "answer": "cancelled/canceled",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'cancel' is 'cancelled' (British) or 'canceled' (American). Both spellings are correct.",
+                "ru": "Причастие прошедшего времени от 'cancel' это 'cancelled' (британский) или 'canceled' (американский). Оба написания правильные.",
+                "uz": "'Cancel' so'zining o'tgan zamon sifatdoshi 'cancelled' (britaniya) yoki 'canceled' (amerika). Ikkala yozuv ham to'g'ri."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the past participle: New computers are ___ (buy) every year.",
+                "ru": "Дополните причастием прошедшего времени: New computers are ___ (buy) every year.",
+                "uz": "O'tgan zamon sifatdoshi bilan to'ldiring: New computers are ___ (buy) every year."
+            },
+            "options": [
+                {
+                    "answer": "bought",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The past participle of 'buy' is 'bought'. This is an irregular verb.",
+                "ru": "Причастие прошедшего времени от 'buy' это 'bought'. Это неправильный глагол.",
+                "uz": "'Buy' so'zining o'tgan zamon sifatdoshi 'bought'. Bu tartibsiz fe'l."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every morning at our local bakery, fresh bread ___1___ baked before sunrise. The ovens ___2___ heated to the perfect temperature, and the dough ___3___ prepared by skilled bakers. When customers arrive, warm croissants ___4___ displayed in the window, and coffee ___5___ served at the counter. Yesterday, a special cake ___6___ ordered for a wedding celebration. The ingredients ___7___ carefully selected, and the decoration ___8___ designed by the head baker. The cake layers ___9___ baked separately, and then they ___10___ assembled with cream. When the wedding party arrived, the beautiful cake ___11___ presented to them with great pride. In our bakery, quality ___12___ maintained through traditional methods, and customers ___13___ always satisfied with the results.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "was"
+                },
+                {
+                    "blank": "9",
+                    "answer": "were"
+                },
+                {
+                    "blank": "10",
+                    "answer": "were"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices present and past simple passive voice. Use 'is/are' for present habits and 'was/were' for past events, matching the subject number.",
+                "ru": "Это упражнение отрабатывает настоящее и прошедшее простое пассивное время. Используйте 'is/are' для настоящих привычек и 'was/were' для прошедших событий, согласуя с числом подлежащего.",
+                "uz": "Ushbu mashq hozirgi va o'tgan zamon passiv nisbatini mashq qiladi. Hozirgi odatlar uchun 'is/are' va o'tgan voqealar uchun 'was/were' ishlatiladi, subjekt soni bilan moslashtiriladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "In our city, many important services ___1___ provided by the local government. Roads ___2___ repaired regularly, and new traffic lights ___3___ installed where needed. The public library ___4___ opened every day except Sunday, and books ___5___ borrowed free of charge. Last month, a new park ___6___ created in the center of town. Trees ___7___ planted by volunteers, and benches ___8___ placed along the walking paths. A playground ___9___ built for children, and it ___10___ opened with a special ceremony. The mayor's speech ___11___ heard by hundreds of residents who came to celebrate. Now the park ___12___ visited by families every weekend, and the flowers ___13___ watered by park maintenance staff. Everyone agrees that the city ___14___ improved significantly with this new addition.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "were"
+                },
+                {
+                    "blank": "8",
+                    "answer": "were"
+                },
+                {
+                    "blank": "9",
+                    "answer": "was"
+                },
+                {
+                    "blank": "10",
+                    "answer": "was"
+                },
+                {
+                    "blank": "11",
+                    "answer": "was"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates passive voice in both present and past simple tenses. Notice how singular subjects take 'is/was' and plural subjects take 'are/were'.",
+                "ru": "Этот отрывок демонстрирует пассивный залог в настоящем и прошедшем простом времени. Обратите внимание, как подлежащие в единственном числе требуют 'is/was', а во множественном - 'are/were'.",
+                "uz": "Ushbu matn hozirgi va o'tgan oddiy zamondagi passiv nisbatni ko'rsatadi. Birlik subjektlar 'is/was', ko'plik subjektlar 'are/were' olishiga e'tibor bering."
+            }
+        }
+    ]
+}

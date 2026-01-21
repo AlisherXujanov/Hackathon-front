@@ -1,0 +1,110 @@
+{
+    "test_1": {
+        "1": "b) 7:00",
+        "2": "c) Toast and orange juice",
+        "3": "d) By bus",
+        "4": "d) English",
+        "5": false,
+        "6": true,
+        "7": false,
+        "8": true,
+        "9": true
+    },
+    "test_2": {
+        "1": "b) To the countryside",
+        "2": "c) His friend Mike",
+        "3": "c) Take pictures of birds",
+        "4": "a) A book",
+        "5": false,
+        "6": true,
+        "7": false,
+        "8": true,
+        "9": true
+    },
+    "test_3": {
+        "1": "b) Paris",
+        "2": "c) By plane",
+        "3": "b) Bread with butter and jam",
+        "4": "c) Mona Lisa",
+        "5": false,
+        "6": false,
+        "7": true,
+        "8": true,
+        "9": false
+    },
+    "test_4": {
+        "1": "b) Drawing",
+        "2": "c) In the evening",
+        "3": "c) Her friends",
+        "4": "d) Ride her bike",
+        "5": false,
+        "6": true,
+        "7": false,
+        "8": true,
+        "9": false
+    },
+    "test_5": {
+        "1": "b) Dinner",
+        "2": "b) Cooking",
+        "3": "a) Pasta and soup",
+        "4": "c) Gardening",
+        "5": false,
+        "6": true,
+        "7": true,
+        "8": true,
+        "9": false
+    },
+    "test_6": {
+        "1": "c) Her husband and dog",
+        "2": "b) Two",
+        "3": "c) Bedroom",
+        "4": "b) Read books",
+        "5": false,
+        "6": true,
+        "7": false,
+        "8": false,
+        "9": true
+    },
+    "test_7": {
+        "1": "b) Football",
+        "2": "c) He goes for walks",
+        "3": "d) His brother",
+        "4": "b) Swimming",
+        "5": false,
+        "6": false,
+        "7": true,
+        "8": true,
+        "9": true
+    },
+    "test_8": {
+        "1": "b) Five",
+        "2": "c) Teacher",
+        "3": "b) She sings well",
+        "4": "c) 6",
+        "5": false,
+        "6": false,
+        "7": true,
+        "8": true,
+        "9": true
+    },
+    "test_9": {
+        "1": "b) T-shirts and jeans",
+        "2": "c) Dresses",
+        "3": "b) Pink and blue",
+        "4": "c) Ten",
+        "5": true,
+        "6": false,
+        "7": false,
+        "8": true
+    },
+    "test_10": {
+        "1": "c) Cloudy",
+        "2": "b) It rains",
+        "3": "c) An umbrella",
+        "4": "c) 15 degrees",
+        "5": false,
+        "6": true,
+        "7": true,
+        "8": false
+    }
+}

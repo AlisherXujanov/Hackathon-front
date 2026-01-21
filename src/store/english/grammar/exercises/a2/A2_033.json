@@ -1,0 +1,398 @@
+{
+  "id": "A2_USED_TO_DIDNT_USE_TO_PAST_HABITS_AND_STATES",
+  "title": "Used to, didn't use to (past habits and states) - Past habits and states",
+  "items": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I use to play football when I was young." },
+        { "answer": "I used to play football when I was young.", "correct": true },
+        { "answer": "I am used to play football when I was young." }
+      ],
+      "explanation": {
+        "en": "We use 'used to' to talk about past habits or states that are no longer true. The correct form is 'used to' + base verb.",
+        "ru": "Мы используем 'used to' для выражения прошлых привычек или состояний, которые больше не актуальны. Правильная форма: 'used to' + основа глагола.",
+        "uz": "O'tmishda bo'lgan, ammo hozir mavjud bo'lmagan odatlar yoki holatlar haqida gapirish uchun 'used to' ishlatiladi. To'g'ri shakli: 'used to' + fe'lning asosi."
+      }
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct negative sentence.",
+        "ru": "Выберите правильное отрицательное предложение.",
+        "uz": "To'g'ri inkor gapni tanlang."
+      },
+      "options": [
+        { "answer": "She didn't used to like vegetables." },
+        { "answer": "She didn't use to like vegetables.", "correct": true },
+        { "answer": "She not used to like vegetables." }
+      ],
+      "explanation": {
+        "en": "In negative sentences, we use 'didn't use to' (not 'didn't used to'). After 'did/didn't' we use the base form 'use to'.",
+        "ru": "В отрицательных предложениях используется 'didn't use to' (не 'didn't used to'). После 'did/didn't' используется основная форма 'use to'.",
+        "uz": "Inkor gaplarda 'didn't use to' ishlatiladi ('didn't used to' emas). 'did/didn't'dan keyin 'use to' asosiy shakli ishlatiladi."
+      }
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Which sentence is grammatically correct?",
+        "ru": "Какое предложение грамматически правильное?",
+        "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+      },
+      "options": [
+        { "answer": "Did you used to live in London?" },
+        { "answer": "Did you use to live in London?", "correct": true },
+        { "answer": "Used you to live in London?" }
+      ],
+      "explanation": {
+        "en": "In questions, we use 'Did + subject + use to + base verb'. After auxiliary 'did' we use the base form 'use to'.",
+        "ru": "В вопросах используется 'Did + подлежащее + use to + основа глагола'. После вспомогательного 'did' используется основная форма 'use to'.",
+        "uz": "Savollarda 'Did + ega + use to + fe'lning asosi' ishlatiladi. 'did' yordamchi fe'lidan keyin 'use to' asosiy shakli ishlatiladi."
+      }
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence about past states.",
+        "ru": "Выберите правильное предложение о прошлых состояниях.",
+        "uz": "O'tmishdagi holatlar haqidagi to'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "There used to be a cinema here.", "correct": true },
+        { "answer": "There use to be a cinema here." },
+        { "answer": "There was used to be a cinema here." }
+      ],
+      "explanation": {
+        "en": "'Used to' can describe past states that no longer exist. 'There used to be' is the correct structure for describing places or things that existed before.",
+        "ru": "'Used to' может описывать прошлые состояния, которые больше не существуют. 'There used to be' - правильная структура для описания мест или вещей, которые существовали раньше.",
+        "uz": "'Used to' endi mavjud bo'lmagan o'tmishdagi holatlarni tasvirlaydi. 'There used to be' - avval mavjud bo'lgan joylar yoki narsalarni tasvirlash uchun to'g'ri struktura."
+      }
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Which sentence correctly uses 'used to'?",
+        "ru": "В каком предложении правильно используется 'used to'?",
+        "uz": "Qaysi gapda 'used to' to'g'ri ishlatilgan?"
+      },
+      "options": [
+        { "answer": "My grandmother used to tell me stories every night." },
+        { "answer": "My grandmother used to told me stories every night." },
+        { "answer": "My grandmother used to telling me stories every night.", "correct": true }
+      ],
+      "explanation": {
+        "en": "'Used to' is followed by the base form of the verb. We say 'used to tell', not 'used to told' or 'used to telling'.",
+        "ru": "После 'used to' используется основная форма глагола. Говорим 'used to tell', а не 'used to told' или 'used to telling'.",
+        "uz": "'Used to'dan keyin fe'lning asosiy shakli ishlatiladi. 'used to tell' deyiladi, 'used to told' yoki 'used to telling' emas."
+      }
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "We didn't used to have a car." },
+        { "answer": "We didn't use to have a car.", "correct": true },
+        { "answer": "We usedn't to have a car." }
+      ],
+      "explanation": {
+        "en": "The negative form of 'used to' is 'didn't use to'. We use the base form 'use to' after the auxiliary 'didn't'.",
+        "ru": "Отрицательная форма 'used to' - это 'didn't use to'. После вспомогательного 'didn't' используется основная форма 'use to'.",
+        "uz": "'used to'ning inkor shakli 'didn't use to' hisoblanadi. 'didn't' yordamchi fe'lidan keyin 'use to' asosiy shakli ishlatiladi."
+      }
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Which question is correctly formed?",
+        "ru": "Какой вопрос правильно сформулирован?",
+        "uz": "Qaysi savol to'g'ri tuzilgan?"
+      },
+      "options": [
+        { "answer": "What did you use to do in summer?", "correct": true },
+        { "answer": "What did you used to do in summer?" },
+        { "answer": "What you used to do in summer?" }
+      ],
+      "explanation": {
+        "en": "In wh-questions with 'used to', we use 'did + subject + use to + base verb'. The auxiliary 'did' requires the base form 'use to'.",
+        "ru": "В специальных вопросах с 'used to' используется 'did + подлежащее + use to + основа глагола'. Вспомогательный 'did' требует основную форму 'use to'.",
+        "uz": "'used to' bilan maxsus savollarda 'did + ega + use to + fe'lning asosi' ishlatiladi. 'did' yordamchi fe'li 'use to' asosiy shaklini talab qiladi."
+      }
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence about past habits.",
+        "ru": "Выберите правильное предложение о прошлых привычках.",
+        "uz": "O'tmishdagi odatlar haqidagi to'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "He used to smoke, but he quit last year.", "correct": true },
+        { "answer": "He use to smoke, but he quit last year." },
+        { "answer": "He was used to smoke, but he quit last year." }
+      ],
+      "explanation": {
+        "en": "'Used to' describes past habits that have changed or stopped. The correct form is 'used to' followed by the base verb.",
+        "ru": "'Used to' описывает прошлые привычки, которые изменились или прекратились. Правильная форма: 'used to' + основа глагола.",
+        "uz": "'Used to' o'zgargan yoki to'xtagan o'tmishdagi odatlarni tasvirlaydi. To'g'ri shakli: 'used to' + fe'lning asosi."
+      }
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Which sentence is grammatically correct?",
+        "ru": "Какое предложение грамматически правильное?",
+        "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+      },
+      "options": [
+        { "answer": "This building used to be a school." },
+        { "answer": "This building use to be a school.", "correct": true },
+        { "answer": "This building using to be a school." }
+      ],
+      "explanation": {
+        "en": "'Used to' can describe past states of being. The structure is 'subject + used to + be + complement' for describing what something was in the past.",
+        "ru": "'Used to' может описывать прошлые состояния. Структура: 'подлежащее + used to + be + дополнение' для описания того, чем что-то было в прошлом.",
+        "uz": "'Used to' o'tmishdagi holatlarni tasvirlaydi. Strukturasi: 'ega + used to + be + to'ldiruvchi' - nimanidir o'tmishda qanday bo'lganini tasvirlash uchun."
+      }
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct negative sentence.",
+        "ru": "Выберите правильное отрицательное предложение.",
+        "uz": "To'g'ri inkor gapni tanlang."
+      },
+      "options": [
+        { "answer": "They didn't use to travel much.", "correct": true },
+        { "answer": "They didn't used to travel much." },
+        { "answer": "They not used to travel much." }
+      ],
+      "explanation": {
+        "en": "In negative sentences, we use 'didn't use to' (not 'didn't used to'). The auxiliary 'didn't' is followed by the base form 'use to'.",
+        "ru": "В отрицательных предложениях используется 'didn't use to' (не 'didn't used to'). После вспомогательного 'didn't' идет основная форма 'use to'.",
+        "uz": "Inkor gaplarda 'didn't use to' ishlatiladi ('didn't used to' emas). 'didn't' yordamchi fe'lidan keyin 'use to' asosiy shakli keladi."
+      }
+    },
+    {
+      "id": "sa1",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence: My father ___ to read me bedtime stories.",
+        "ru": "Дополните предложение: My father ___ to read me bedtime stories.",
+        "uz": "Gapni to'ldiring: My father ___ to read me bedtime stories."
+      },
+      "options": [
+        { "answer": "used", "correct": true }
+      ],
+      "explanation": {
+        "en": "'Used to' describes past habits or regular actions that no longer happen. We use 'used to' + base verb.",
+        "ru": "'Used to' описывает прошлые привычки или регулярные действия, которые больше не происходят. Используется 'used to' + основа глагола.",
+        "uz": "'Used to' endi sodir bo'lmaydigan o'tmishdagi odatlar yoki muntazam harakatlarni tasvirlaydi. 'used to' + fe'lning asosi ishlatiladi."
+      }
+    },
+    {
+      "id": "sa2",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the negative: She ___ use to like coffee.",
+        "ru": "Дополните отрицание: She ___ use to like coffee.",
+        "uz": "Inkорni to'ldiring: She ___ use to like coffee."
+      },
+      "options": [
+        { "answer": "didn't", "correct": true }
+      ],
+      "explanation": {
+        "en": "The negative form of 'used to' is 'didn't use to'. We use the auxiliary 'didn't' with the base form 'use to'.",
+        "ru": "Отрицательная форма 'used to' - это 'didn't use to'. Используется вспомогательный 'didn't' с основной формой 'use to'.",
+        "uz": "'used to'ning inkor shakli 'didn't use to' hisoblanadi. 'didn't' yordamchi fe'li 'use to' asosiy shakli bilan ishlatiladi."
+      }
+    },
+    {
+      "id": "sa3",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the question: ___ you use to play tennis?",
+        "ru": "Дополните вопрос: ___ you use to play tennis?",
+        "uz": "Savolni to'ldiring: ___ you use to play tennis?"
+      },
+      "options": [
+        { "answer": "Did", "correct": true }
+      ],
+      "explanation": {
+        "en": "Questions with 'used to' are formed with 'Did + subject + use to + base verb'. We use the auxiliary 'did' in questions.",
+        "ru": "Вопросы с 'used to' формируются как 'Did + подлежащее + use to + основа глагола'. В вопросах используется вспомогательный 'did'.",
+        "uz": "'used to' bilan savollar 'Did + ega + use to + fe'lning asosi' ko'rinishida tuziladi. Savollarda 'did' yordamchi fe'li ishlatiladi."
+      }
+    },
+    {
+      "id": "sa4",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence: There ___ to be a park here.",
+        "ru": "Дополните предложение: There ___ to be a park here.",
+        "uz": "Gapni to'ldiring: There ___ to be a park here."
+      },
+      "options": [
+        { "answer": "used", "correct": true }
+      ],
+      "explanation": {
+        "en": "'There used to be' describes something that existed in the past but doesn't exist now. This structure shows past states or situations.",
+        "ru": "'There used to be' описывает то, что существовало в прошлом, но не существует сейчас. Эта структура показывает прошлые состояния или ситуации.",
+        "uz": "'There used to be' o'tmishda mavjud bo'lgan, ammo hozir yo'q narsani tasvirlaydi. Bu struktura o'tmishdagi holatlar yoki vaziyatlarni ko'rsatadi."
+      }
+    },
+    {
+      "id": "sa5",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence: We ___ to live in a small house.",
+        "ru": "Дополните предложение: We ___ to live in a small house.",
+        "uz": "Gapni to'ldiring: We ___ to live in a small house."
+      },
+      "options": [
+        { "answer": "used", "correct": true }
+      ],
+      "explanation": {
+        "en": "'Used to' describes past states or situations that are no longer true. It shows what was true in the past but has changed.",
+        "ru": "'Used to' описывает прошлые состояния или ситуации, которые больше не актуальны. Показывает, что было правдой в прошлом, но изменилось.",
+        "uz": "'Used to' endi haqiqat bo'lmagan o'tmishdagi holatlar yoki vaziyatlarni tasvirlaydi. O'tmishda haqiqat bo'lgan, ammo o'zgargan narsani ko'rsatadi."
+      }
+    },
+    {
+      "id": "sa6",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the negative: They ___ use to have a dog.",
+        "ru": "Дополните отрицание: They ___ use to have a dog.",
+        "uz": "Inkорni to'ldiring: They ___ use to have a dog."
+      },
+      "options": [
+        { "answer": "didn't", "correct": true }
+      ],
+      "explanation": {
+        "en": "The negative of 'used to' is formed with 'didn't use to'. We use 'didn't' + base form 'use to' + base verb.",
+        "ru": "Отрицание 'used to' образуется с 'didn't use to'. Используется 'didn't' + основная форма 'use to' + основа глагола.",
+        "uz": "'used to'ning inkori 'didn't use to' bilan tuziladi. 'didn't' + 'use to' asosiy shakli + fe'lning asosi ishlatiladi."
+      }
+    },
+    {
+      "id": "sa7",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the question: Where ___ you use to work?",
+        "ru": "Дополните вопрос: Where ___ you use to work?",
+        "uz": "Savolni to'ldiring: Where ___ you use to work?"
+      },
+      "options": [
+        { "answer": "did", "correct": true }
+      ],
+      "explanation": {
+        "en": "Wh-questions with 'used to' follow the pattern: Wh-word + did + subject + use to + base verb. We use 'did' as the auxiliary.",
+        "ru": "Специальные вопросы с 'used to' следуют схеме: вопросительное слово + did + подлежащее + use to + основа глагола. Используется 'did' как вспомогательный глагол.",
+        "uz": "'used to' bilan maxsus savollar quyidagi sxemani egallaydi: so'roq so'z + did + ega + use to + fe'lning asosi. 'did' yordamchi fe'l sifatida ishlatiladi."
+      }
+    },
+    {
+      "id": "sa8",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence: This street ___ to be very quiet.",
+        "ru": "Дополните предложение: This street ___ to be very quiet.",
+        "uz": "Gapni to'ldiring: This street ___ to be very quiet."
+      },
+      "options": [
+        { "answer": "used", "correct": true }
+      ],
+      "explanation": {
+        "en": "'Used to be' describes past states or characteristics that have changed. It shows what something was like before but isn't anymore.",
+        "ru": "'Used to be' описывает прошлые состояния или характеристики, которые изменились. Показывает, каким что-то было раньше, но больше не является.",
+        "uz": "'Used to be' o'zgargan o'tmishdagi holatlar yoki xususiyatlarni tasvirlaydi. Nimadir avval qanday bo'lgan, ammo endi bunday bo'lmasligini ko'rsatadi."
+      }
+    },
+    {
+      "id": "sa9",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence: I ___ to be afraid of the dark.",
+        "ru": "Дополните предложение: I ___ to be afraid of the dark.",
+        "uz": "Gapni to'ldiring: I ___ to be afraid of the dark."
+      },
+      "options": [
+        { "answer": "used", "correct": true }
+      ],
+      "explanation": {
+        "en": "'Used to' can describe past emotions or feelings that have changed. It shows personal states that existed before but don't anymore.",
+        "ru": "'Used to' может описывать прошлые эмоции или чувства, которые изменились. Показывает личные состояния, которые существовали раньше, но больше нет.",
+        "uz": "'Used to' o'zgargan o'tmishdagi his-tuyg'ular yoki hissiyotlarni tasvirlaydi. Avval mavjud bo'lgan, ammo endi yo'q shaxsiy holatlarni ko'rsatadi."
+      }
+    },
+    {
+      "id": "sa10",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the negative: He ___ use to wear glasses.",
+        "ru": "Дополните отрицание: He ___ use to wear glasses.",
+        "uz": "Inkорni to'ldiring: He ___ use to wear glasses."
+      },
+      "options": [
+        { "answer": "didn't", "correct": true }
+      ],
+      "explanation": {
+        "en": "The negative form is 'didn't use to'. We use the auxiliary 'didn't' followed by the base form 'use to'.",
+        "ru": "Отрицательная форма - 'didn't use to'. Используется вспомогательный 'didn't', за которым следует основная форма 'use to'.",
+        "uz": "Inkor shakli 'didn't use to' hisoblanadi. 'didn't' yordamchi fe'li, undan keyin 'use to' asosiy shakli ishlatiladi."
+      }
+    },
+    {
+      "id": "mgf1",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct words",
+        "ru": "Заполните пропуски правильными словами",
+        "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+      },
+      "text": "When I was a child, I ___1___ to live in a small village with my grandparents. The village ___2___ to be much quieter than it is today. There ___3___ to be only one small shop where everyone bought their groceries, but now there are three supermarkets. My grandmother ___4___ to make fresh bread every morning, and the wonderful smell ___5___ to fill the entire house. We ___6___ use to have a television in those days, so we ___7___ to spend our evenings reading books or telling stories. My grandfather ___8___ to take me fishing at the nearby river every weekend. The river ___9___ to be crystal clear, but unfortunately it's quite polluted now. ___10___ you use to visit your grandparents when you were young? I ___11___ use to appreciate those simple moments back then, but now I realize how precious they were. My grandparents ___12___ to have a beautiful garden where they ___13___ to grow vegetables and flowers. The old oak tree in their backyard ___14___ to provide perfect shade during hot summer days, and we ___15___ to have picnics underneath it.",
+      "answers": [
+        { "blank": "1", "answer": "used" },
+        { "blank": "2", "answer": "used" },
+        { "blank": "3", "answer": "used" },
+        { "blank": "4", "answer": "used" },
+        { "blank": "5", "answer": "used" },
+        { "blank": "6", "answer": "didn't" },
+        { "blank": "7", "answer": "used" },
+        { "blank": "8", "answer": "used" },
+        { "blank": "9", "answer": "used" },
+        { "blank": "10", "answer": "Did" },
+        { "blank": "11", "answer": "didn't" },
+        { "blank": "12", "answer": "used" },
+        { "blank": "13", "answer": "used" },
+        { "blank": "14", "answer": "used" },
+        { "blank": "15", "answer": "used" }
+      ],
+      "explanation": {
+        "en": "This exercise demonstrates the three forms of 'used to': positive (used to + verb), negative (didn't use to + verb), and question (Did + subject + use to + verb). 'Used to' describes past habits, states, or regular actions that are no longer true.",
+        "ru": "Это упражнение демонстрирует три формы 'used to': утвердительную (used to + глагол), отрицательную (didn't use to + глагол) и вопросительную (Did + подлежащее + use to + глагол). 'Used to' описывает прошлые привычки, состояния или регулярные действия, которые больше не актуальны.",
+        "uz": "Bu mashq 'used to'ning uchta shaklini ko'rsatadi: tasdiqlovchi (used to + fe'l), inkoriy (didn't use to + fe'l) va so'roq (Did + ega + use to + fe'l). 'Used to' endi haqiqat bo'lmagan o'tmishdagi odatlar, holatlar yoki muntazam harakatlarni tasvirlaydi."
+      }
+    }
+  ]
+}

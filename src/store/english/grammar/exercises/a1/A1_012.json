@@ -1,0 +1,709 @@
+{
+    "id": "A1_QUANTIFIERS_SOME_ANY_MUCH_MANY_A_LOT_OF_A_LITTLE_A_FEW",
+    "title": "Quantifiers: Some, Any, Much, Many, A lot of, A little, A few",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Do you have much friends?",
+                    "correct": false
+                },
+                {
+                    "answer": "There is a lot of milk in the fridge.",
+                    "correct": true
+                },
+                {
+                    "answer": "I don't have some money.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'A lot of' is used for both countable and uncountable nouns in affirmative sentences. 'Much' is usually for uncountable nouns in negative sentences and questions. 'Some' is used in affirmative sentences.",
+                "ru": "'A lot of' используется как для исчисляемых, так и для неисчисляемых существительных в утвердительных предложениях. 'Much' обычно используется для неисчисляемых существительных в отрицательных предложениях и вопросах. 'Some' используется в утвердительных предложениях.",
+                "uz": "'A lot of' ham sanoqli, ham sanalmaydigan otlar uchun tasdiq gaplarda ishlatiladi. 'Much' odatda sanalmaydigan otlar uchun inkor gaplarda va savollarda qo'llaniladi. 'Some' tasdiq gaplarda ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We need much apples.",
+                    "correct": false
+                },
+                {
+                    "answer": "She doesn't have many time.",
+                    "correct": false
+                },
+                {
+                    "answer": "They have a few books.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'A few' is used for a small number of countable nouns. 'Apples' are countable, so 'many' or 'a lot of' is correct. 'Time' is uncountable, so 'much' or 'a lot of' is correct.",
+                "ru": "'A few' используется для небольшого количества исчисляемых существительных. 'Apples' — исчисляемое, поэтому 'many' или 'a lot of' будет правильным. 'Time' — неисчисляемое, поэтому 'much' или 'a lot of' будет правильным.",
+                "uz": "'A few' sanoqli otlarning oz soni uchun ishlatiladi. 'Apples' sanoqli ot, shuning uchun 'many' yoki 'a lot of' to'g'ri bo'ladi. 'Time' esa sanalmaydigan ot, shuning uchun 'much' yoki 'a lot of' to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is there a lot of sugar?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you have any informations?",
+                    "correct": false
+                },
+                {
+                    "answer": "I have a little friends.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'A lot of' can be used with both countable and uncountable nouns in questions. 'Sugar' is an uncountable noun. 'Information' is uncountable and doesn't have a plural form. 'Friends' are countable, so 'a few' is correct.",
+                "ru": "'A lot of' может использоваться как с исчисляемыми, так и с неисчисляемыми существительными в вопросах. 'Sugar' — неисчисляемое существительное. 'Information' — неисчисляемое и не имеет формы множественного числа. 'Friends' — исчисляемое, поэтому 'a few' правильно.",
+                "uz": "'A lot of' ham sanoqli, ham sanalmaydigan otlar bilan savollarda ishlatilishi mumkin. 'Sugar' — sanalmaydigan ot. 'Information' sanalmaydigan ot va ko'plik shakliga ega emas. 'Friends' sanoqli ot, shuning uchun 'a few' to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He doesn't have much books.",
+                    "correct": false
+                },
+                {
+                    "answer": "There aren't any eggs left.",
+                    "correct": true
+                },
+                {
+                    "answer": "She bought some new furnitures.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Any' is used in negative sentences and questions with both countable and uncountable nouns. 'Books' are countable, so 'many' or 'a lot of' is correct. 'Furniture' is uncountable and does not have a plural form.",
+                "ru": "'Any' используется в отрицательных предложениях и вопросах как с исчисляемыми, так и с неисчисляемыми существительными. 'Books' — исчисляемое, поэтому 'many' или 'a lot of' будет правильным. 'Furniture' — неисчисляемое и не имеет формы множественного числа.",
+                "uz": "'Any' inkor gaplarda va savollarda ham sanoqli, ham sanalmaydigan otlar bilan ishlatiladi. 'Books' — sanoqli, shuning uchun 'many' yoki 'a lot of' to'g'ri bo'ladi. 'Furniture' esa sanalmaydigan ot bo'lib, ko'plik shakliga ega emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We have much homework to do.",
+                    "correct": true
+                },
+                {
+                    "answer": "They don't have some food.",
+                    "correct": false
+                },
+                {
+                    "answer": "There is many water in the glass.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns in negative sentences and questions. It is also common in affirmative sentences in more formal contexts. 'Homework' is uncountable. 'Any' should be used in the negative. 'Water' is uncountable, so 'much' is correct.",
+                "ru": "'Much' используется с неисчисляемыми существительными в отрицательных предложениях и вопросах. Также он часто используется в утвердительных предложениях в более формальных контекстах. 'Homework' — неисчисляемое. В отрицательных предложениях следует использовать 'any'. 'Water' — неисчисляемое, поэтому 'much' правильно.",
+                "uz": "'Much' sanalmaydigan otlar bilan inkor gaplarda va savollarda ishlatiladi. U tasdiq gaplarda ham rasmiyroq holatlarda tez-tez ishlatiladi. 'Homework' sanalmaydigan ot. Inkor gaplarda 'any' ishlatilishi kerak. 'Water' sanalmaydigan ot, shuning uchun 'much' to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He has a few money.",
+                    "correct": false
+                },
+                {
+                    "answer": "She wants some bread.",
+                    "correct": true
+                },
+                {
+                    "answer": "I don't see some birds.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Some' is used for a non-specific amount of a noun in affirmative sentences. 'Money' is uncountable, so 'a little' or 'a lot of' is correct. 'Any' should be used in the negative sentence with 'birds'.",
+                "ru": "'Some' используется для обозначения неопределенного количества существительного в утвердительных предложениях. 'Money' — неисчисляемое, поэтому 'a little' или 'a lot of' будет правильным. В отрицательном предложении с 'birds' следует использовать 'any'.",
+                "uz": "'Some' tasdiq gaplarda noaniq miqdordagi otni ifodalash uchun ishlatiladi. 'Money' sanalmaydigan ot, shuning uchun 'a little' yoki 'a lot of' to'g'ri bo'ladi. 'Birds' bilan inkor gapda 'any' ishlatilishi kerak."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have much friends.",
+                    "correct": false
+                },
+                {
+                    "answer": "There is a little water in the bottle.",
+                    "correct": true
+                },
+                {
+                    "answer": "They don't have any moneys.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'A little' is used for a small amount of an uncountable noun. 'Water' is uncountable. 'Friends' are countable, so 'many' or 'a lot of' is correct. The last option is incorrect because 'any' is used correctly in the negative.",
+                "ru": "'A little' используется для небольшого количества неисчисляемого существительного. 'Water' — неисчисляемое. 'Friends' — исчисляемое, поэтому 'many' или 'a lot of' будет правильным. Последний вариант неверный, так как 'any' правильно используется в отрицательном предложении.",
+                "uz": "'A little' oz miqdordagi sanalmaydigan ot uchun ishlatiladi. 'Water' sanalmaydigan ot. 'Friends' sanoqli, shuning uchun 'many' yoki 'a lot of' to'g'ri bo'ladi. Oxirgi variant noto'g'ri, chunki 'any' inkor gapda to'g'ri ishlatilgan."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is there many coffee?",
+                    "correct": false
+                },
+                {
+                    "answer": "She doesn't have some pets.",
+                    "correct": false
+                },
+                {
+                    "answer": "We don't need much flour.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used with uncountable nouns in negative sentences and questions. 'Flour' is an uncountable noun. 'Coffee' is uncountable, so 'much' or 'a lot of' is correct. 'Any' should be used in the negative sentence.",
+                "ru": "'Much' используется с неисчисляемыми существительными в отрицательных предложениях и вопросах. 'Flour' — неисчисляемое существительное. 'Coffee' — неисчисляемое, поэтому 'much' или 'a lot of' будет правильным. В отрицательном предложении следует использовать 'any'.",
+                "uz": "'Much' sanalmaydigan otlar bilan inkor gaplarda va savollarda ishlatiladi. 'Flour' sanalmaydigan ot. 'Coffee' sanalmaydigan, shuning uchun 'much' yoki 'a lot of' to'g'ri bo'ladi. Inkor gapda 'any' ishlatilishi kerak."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He has a lot of apples.",
+                    "correct": true
+                },
+                {
+                    "answer": "They need some informations.",
+                    "correct": false
+                },
+                {
+                    "answer": "Do you want a little books?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'A lot of' can be used with countable nouns in affirmative sentences. 'Apples' are countable. 'Information' is uncountable and doesn't have a plural form. 'Books' are countable, so 'a few' or 'many' is correct.",
+                "ru": "'A lot of' может использоваться с исчисляемыми существительными в утвердительных предложениях. 'Apples' — исчисляемое. 'Information' — неисчисляемое и не имеет формы множественного числа. 'Books' — исчисляемое, поэтому 'a few' или 'many' правильно.",
+                "uz": "'A lot of' sanoqli otlar bilan tasdiq gaplarda ishlatilishi mumkin. 'Apples' sanoqli ot. 'Information' sanalmaydigan ot va ko'plik shakliga ega emas. 'Books' sanoqli ot, shuning uchun 'a few' yoki 'many' to'g'ri bo'ladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is a few milk in the glass.",
+                    "correct": false
+                },
+                {
+                    "answer": "I don't have any brothers.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have much works to do.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Any' is used in negative sentences with both countable and uncountable nouns. 'Milk' is uncountable, so 'a little' is correct. 'Work' is uncountable, so 'much' is correct, but 'many' is often used in informal contexts.",
+                "ru": "'Any' используется в отрицательных предложениях как с исчисляемыми, так и с неисчисляемыми существительными. 'Milk' — неисчисляемое, поэтому 'a little' правильно. 'Work' — неисчисляемое, поэтому 'much' правильно, но 'many' часто используется в неформальных контекстах.",
+                "uz": "'Any' inkor gaplarda ham sanoqli, ham sanalmaydigan otlar bilan ishlatiladi. 'Milk' sanalmaydigan ot, shuning uchun 'a little' to'g'ri. 'Work' sanalmaydigan ot, shuning uchun 'much' to'g'ri, ammo 'many' ko'pincha norasmiy muhitda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I have ___ money in my wallet.",
+                "ru": "Дополните предложение: I have ___ money in my wallet.",
+                "uz": "Gapni to'ldiring: I have ___ money in my wallet."
+            },
+            "options": [
+                {
+                    "answer": "some/a lot of/lots of/a little/little",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Some' is used for an unspecified amount in an affirmative sentence. 'Money' is an uncountable noun.",
+                "ru": "'Some' используется для неопределенного количества в утвердительном предложении. 'Money' — неисчисляемое существительное.",
+                "uz": "'Some' tasdiq gapda noaniq miqdor uchun ishlatiladi. 'Money' sanalmaydigan ot."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There aren't ___ people here.",
+                "ru": "Дополните предложение: There aren't ___ people here.",
+                "uz": "Gapni to'ldiring: There aren't ___ people here."
+            },
+            "options": [
+                {
+                    "answer": "many/any",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Many' is used with countable nouns in negative sentences and questions. 'People' is a countable noun.",
+                "ru": "'Many' используется с исчисляемыми существительными в отрицательных предложениях и вопросах. 'People' — исчисляемое существительное.",
+                "uz": "'Many' sanoqli otlar bilan inkor gaplarda va savollarda ishlatiladi. 'People' sanoqli ot."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Do you have ___ free time today?",
+                "ru": "Дополните предложение: Do you have ___ free time today?",
+                "uz": "Gapni to'ldiring: Do you have ___ free time today?"
+            },
+            "options": [
+                {
+                    "answer": "any/some",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Any' is used in questions and negative sentences with both countable and uncountable nouns. 'Free time' is an uncountable noun.",
+                "ru": "'Any' используется в вопросах и отрицательных предложениях как с исчисляемыми, так и с неисчисляемыми существительными. 'Free time' — неисчисляемое существительное.",
+                "uz": "'Any' savollar va inkor gaplarda ham sanoqli, ham sanalmaydigan otlar bilan ishlatiladi. 'Free time' sanalmaydigan ot."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She has ___ friends in the city.",
+                "ru": "Дополните предложение: She has ___ friends in the city.",
+                "uz": "Gapni to'ldiring: She has ___ friends in the city."
+            },
+            "options": [
+                {
+                    "answer": "a lot of/lots of/many",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'A lot of' can be used with both countable and uncountable nouns in affirmative sentences. 'Friends' are countable.",
+                "ru": "'A lot of' может использоваться как с исчисляемыми, так и с неисчисляемыми существительными в утвердительных предложениях. 'Friends' — исчисляемое.",
+                "uz": "'A lot of' ham sanoqli, ham sanalmaydigan otlar bilan tasdiq gaplarda ishlatilishi mumkin. 'Friends' sanoqli."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I need ___ help with this task.",
+                "ru": "Дополните предложение: I need ___ help with this task.",
+                "uz": "Gapni to'ldiring: I need ___ help with this task."
+            },
+            "options": [
+                {
+                    "answer": "some/a lot of/lots of/a little/little",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Some' is used for an unspecified amount in an affirmative sentence. 'Help' is an uncountable noun.",
+                "ru": "'Some' используется для неопределенного количества в утвердительном предложении. 'Help' — неисчисляемое существительное.",
+                "uz": "'Some' tasdiq gapda noaniq miqdor uchun ishlatiladi. 'Help' sanalmaydigan ot."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There is ___ water in the bottle.",
+                "ru": "Дополните предложение: There is ___ water in the bottle.",
+                "uz": "Gapni to'ldiring: There is ___ water in the bottle."
+            },
+            "options": [
+                {
+                    "answer": "a little/little",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'A little' is used with uncountable nouns to mean a small amount. 'Water' is an uncountable noun.",
+                "ru": "'A little' используется с неисчисляемыми существительными, чтобы обозначить небольшое количество. 'Water' — неисчисляемое существительное.",
+                "uz": "'A little' sanalmaydigan otlar bilan oz miqdorni bildirish uchun ishlatiladi. 'Water' sanalmaydigan ot."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He doesn't have ___ books.",
+                "ru": "Дополните предложение: He doesn't have ___ books.",
+                "uz": "Gapni to'ldiring: He doesn't have ___ books."
+            },
+            "options": [
+                {
+                    "answer": "many/any",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Many' is used with countable nouns in negative sentences and questions. 'Books' is a countable noun.",
+                "ru": "'Many' используется с исчисляемыми существительными в отрицательных предложениях и вопросах. 'Books' — исчисляемое существительное.",
+                "uz": "'Many' sanoqli otlar bilan inkor gaplarda va savollarda ishlatiladi. 'Books' sanoqli ot."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There are only ___ chairs in the room.",
+                "ru": "Дополните предложение: There are only ___ chairs in the room.",
+                "uz": "Gapni to'ldiring: There are only ___ chairs in the room."
+            },
+            "options": [
+                {
+                    "answer": "a few/few",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'A few' is used with countable nouns to mean a small number. 'Chairs' are countable nouns.",
+                "ru": "'A few' используется с исчисляемыми существительными, чтобы обозначить небольшое количество. 'Chairs' — исчисляемые существительные.",
+                "uz": "'A few' oz sonli sanoqli otlar bilan ishlatiladi. 'Chairs' sanoqli ot."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Do you have ___ questions?",
+                "ru": "Дополните предложение: Do you have ___ questions?",
+                "uz": "Gapni to'ldiring: Do you have ___ questions?"
+            },
+            "options": [
+                {
+                    "answer": "any",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Any' is used in questions and negative sentences with both countable and uncountable nouns. 'Questions' is a countable noun.",
+                "ru": "'Any' используется в вопросах и отрицательных предложениях как с исчисляемыми, так и с неисчисляемыми существительными. 'Questions' — исчисляемое существительное.",
+                "uz": "'Any' savollar va inkor gaplarda ham sanoqli, ham sanalmaydigan otlar bilan ishlatiladi. 'Questions' sanoqli ot."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There is ___ milk in the carton.",
+                "ru": "Дополните предложение: There is ___ milk in the carton.",
+                "uz": "Gapni to'ldiring: There is ___ milk in the carton."
+            },
+            "options": [
+                {
+                    "answer": "some/a lot of/lots of/a little/little",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Some' is used for an unspecified amount in an affirmative sentence. 'Milk' is an uncountable noun.",
+                "ru": "'Some' используется для неопределенного количества в утвердительном предложении. 'Milk' — неисчисляемое существительное.",
+                "uz": "'Some' tasdiq gapda noaniq miqdor uchun ishlatiladi. 'Milk' sanalmaydigan ot."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "I was at the supermarket today to buy groceries for the week. I didn't have ___1___ money with me, so I had to pay with my card. The shopping list had ___2___ items on it, and I wanted to make sure I didn't forget anything. I needed ___3___ bread and ___4___ cheese. My brother drinks ___5___ milk, so I bought ___6___ big carton. We also needed ___7___ vegetables like carrots and potatoes. The store didn't have ___8___ fresh fruit, which was a pity. I saw a nice cake but I decided not to buy it because I have ___9___ money. I also wanted to buy ___10___ books but there weren't ___11___ on sale. I came home with ___12___ food and drinks, but I didn't have ___13___ things for my house. I hope I have ___14___ time to go back tomorrow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "much"
+                },
+                {
+                    "blank": "2",
+                    "answer": "many"
+                },
+                {
+                    "blank": "3",
+                    "answer": "some"
+                },
+                {
+                    "blank": "4",
+                    "answer": "some"
+                },
+                {
+                    "blank": "5",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "6",
+                    "answer": "a"
+                },
+                {
+                    "blank": "7",
+                    "answer": "some"
+                },
+                {
+                    "blank": "8",
+                    "answer": "any"
+                },
+                {
+                    "blank": "9",
+                    "answer": "a little"
+                },
+                {
+                    "blank": "10",
+                    "answer": "some"
+                },
+                {
+                    "blank": "11",
+                    "answer": "many"
+                },
+                {
+                    "blank": "12",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "13",
+                    "answer": "many"
+                },
+                {
+                    "blank": "14",
+                    "answer": "some"
+                }
+            ],
+            "explanation": {
+                "en": "This text tests the use of quantifiers with countable and uncountable nouns in different sentence types. 'Much' and 'many' are used in negative sentences and questions, 'some' and 'a lot of' are used in affirmative sentences. 'A little' is used with uncountable nouns and 'a few' with countable nouns.",
+                "ru": "Этот текст проверяет использование квантификаторов с исчисляемыми и неисчисляемыми существительными в различных типах предложений. 'Much' и 'many' используются в отрицательных предложениях и вопросах, 'some' и 'a lot of' используются в утвердительных предложениях. 'A little' используется с неисчисляемыми существительными, а 'a few' — с исчисляемыми.",
+                "uz": "Ushbu matn sanoqli va sanalmaydigan otlar bilan turli xil gap turlarida miqdor so'zlarining ishlatilishini sinovdan o'tkazadi. 'Much' va 'many' inkor gaplarda va savollarda ishlatiladi, 'some' va 'a lot of' tasdiq gaplarda ishlatiladi. 'A little' sanalmaydigan otlar bilan, 'a few' esa sanoqli otlar bilan qo'llaniladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family is planning a trip. We have ___1___ time to prepare. We don't have ___2___ problems so far, but we need to check everything carefully. My sister has a lot of clothes, but I only have ___3___ shirts. We need to buy ___4___ water for the journey and ___5___ snacks. We don't have ___6___ food at home, so we have to go to the store. My dad says he doesn't have ___7___ energy today, but he has ___8___ work to do. He needs to check all the tires on the car. My mom has ___9___ new flowers in the garden. She says she needs ___10___ help with the plants. We have ___11___ friends coming to see us off. We don't have ___12___ luggage, so that's good. My dad brought ___13___ bags from the attic. It seems like we have ___14___ to do before we leave, but it's going to be a fun trip.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "2",
+                    "answer": "any"
+                },
+                {
+                    "blank": "3",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "4",
+                    "answer": "some"
+                },
+                {
+                    "blank": "5",
+                    "answer": "some"
+                },
+                {
+                    "blank": "6",
+                    "answer": "much"
+                },
+                {
+                    "blank": "7",
+                    "answer": "much"
+                },
+                {
+                    "blank": "8",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "9",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "10",
+                    "answer": "some"
+                },
+                {
+                    "blank": "11",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "12",
+                    "answer": "much"
+                },
+                {
+                    "blank": "13",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "14",
+                    "answer": "a lot of"
+                }
+            ],
+            "explanation": {
+                "en": "This text tests the use of quantifiers with countable and uncountable nouns. 'A lot of' can be used with both. 'Any' is used in negative sentences and questions. 'A few' is used with countable nouns, 'a little' with uncountable nouns. 'Much' is used with uncountable nouns.",
+                "ru": "Этот текст проверяет использование квантификаторов с исчисляемыми и неисчисляемыми существительными. 'A lot of' может использоваться с обоими. 'Any' используется в отрицательных предложениях и вопросах. 'A few' используется с исчисляемыми существительными, 'a little' — с неисчисляемыми. 'Much' используется с неисчисляемыми существительными.",
+                "uz": "Ushbu matn sanoqli va sanalmaydigan otlar bilan miqdor so'zlarining ishlatilishini sinovdan o'tkazadi. 'A lot of' ikkalasi bilan ham ishlatilishi mumkin. 'Any' inkor gaplarda va savollarda ishlatiladi. 'A few' sanoqli otlar bilan, 'a little' esa sanalmaydigan otlar bilan ishlatiladi. 'Much' sanalmaydigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Yesterday was a very busy day. I had ___1___ errands to run. I didn't have ___2___ energy, but I had to do it. First, I went to the bank. I had ___3___ money in my account, but I needed to withdraw some. There were ___4___ people in the bank, so I had to wait for ___5___ time. After that, I went to the supermarket. I needed to buy ___6___ milk and ___7___ bread. I also wanted to buy ___8___ flowers for my mom. The florist had ___9___ beautiful roses. I bought ___10___ and went to the checkout. There was ___11___ queue, but it moved quickly. I didn't have ___12___ problems paying. On my way home, I saw ___13___ friends at the park. We stopped and talked for ___14___ minutes. It was a good day, but I was tired because I had so ___15___ things to do.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "2",
+                    "answer": "much"
+                },
+                {
+                    "blank": "3",
+                    "answer": "a little"
+                },
+                {
+                    "blank": "4",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "5",
+                    "answer": "a little"
+                },
+                {
+                    "blank": "6",
+                    "answer": "some"
+                },
+                {
+                    "blank": "7",
+                    "answer": "some"
+                },
+                {
+                    "blank": "8",
+                    "answer": "some"
+                },
+                {
+                    "blank": "9",
+                    "answer": "a lot of"
+                },
+                {
+                    "blank": "10",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "11",
+                    "answer": "a little"
+                },
+                {
+                    "blank": "12",
+                    "answer": "any"
+                },
+                {
+                    "blank": "13",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "14",
+                    "answer": "a few"
+                },
+                {
+                    "blank": "15",
+                    "answer": "many"
+                }
+            ],
+            "explanation": {
+                "en": "This text tests the use of various quantifiers. 'A lot of' and 'some' are used with both countable and uncountable nouns in affirmative sentences. 'Much' and 'many' are used in negative sentences and questions. 'A little' is used for uncountable nouns and 'a few' is used for countable nouns to express a small amount or number.",
+                "ru": "Этот текст проверяет использование различных квантификаторов. 'A lot of' и 'some' используются как с исчисляемыми, так и с неисчисляемыми существительными в утвердительных предложениях. 'Much' и 'many' используются в отрицательных предложениях и вопросах. 'A little' используется для неисчисляемых существительных, а 'a few' — для исчисляемых, чтобы выразить небольшое количество или число.",
+                "uz": "Ushbu matn turli miqdor so'zlarining ishlatilishini sinovdan o'tkazadi. 'A lot of' va 'some' tasdiq gaplarda ham sanoqli, ham sanalmaydigan otlar bilan ishlatiladi. 'Much' va 'many' inkor gaplarda va savollarda qo'llaniladi. 'A little' sanalmaydigan otlar uchun, 'a few' esa sanoqli otlar uchun oz miqdor yoki sonni ifodalash maqsadida ishlatiladi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,751 @@
+{
+    "id": "A1_CONJUNCTIONS_SO_SUCH_SUCH_AS_AS_BECAUSE_CAUSE_RESULT_AND_EXAMPLES",
+    "title": "Conjunctions (So, such, such as, as, because) - Cause, result, and examples",
+    "items": [
+      {
+        "id": "mc1",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "He was so tired that he couldn't walk.",
+            "correct": true
+          },
+          {
+            "answer": "He was so tired as he couldn't walk."
+          },
+          {
+            "answer": "He was tired such he couldn't walk."
+          }
+        ],
+        "explanation": {
+          "en": "The correct structure for showing a result after an adjective is 'so + adjective + that + clause.' The other options use 'as' or 'such' incorrectly.",
+          "ru": "Правильная конструкция для выражения результата после прилагательного - 'so + прилагательное + that + предложение'. В других вариантах 'as' или 'such' используются неправильно.",
+          "uz": "Sifatdan keyin natijani ko'rsatish uchun to'g'ri tuzilma 'so + sifat + that + jumla'dir. Boshqa variantlarda 'as' yoki 'such' noto'g'ri ishlatilgan."
+        }
+      },
+      {
+        "id": "mc2",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "She speaks English fluently, so she can travel easily."
+          },
+          {
+            "answer": "She speaks English fluently, because she can travel easily.",
+            "correct": true
+          },
+          {
+            "answer": "She speaks English fluently, as she can travel easily."
+          }
+        ],
+        "explanation": {
+          "en": "The word 'because' is used to show a cause. Here, the cause of her ability to travel easily is that she speaks English fluently.",
+          "ru": "Слово 'because' используется для выражения причины. Здесь причиной ее способности легко путешествовать является то, что она свободно говорит по-английски.",
+          "uz": "'Because' so'zi sababni ko'rsatish uchun ishlatiladi. Bu yerda uning oson sayohat qilish qobiliyatining sababi ingliz tilida erkin gapirishi."
+        }
+      },
+      {
+        "id": "mc3",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Which sentence is grammatically correct?",
+          "ru": "Какое предложение грамматически правильное?",
+          "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+        },
+        "options": [
+          {
+            "answer": "It was such a hot day that we went swimming.",
+            "correct": true
+          },
+          {
+            "answer": "It was so a hot day that we went swimming."
+          },
+          {
+            "answer": "It was such hot day that we went swimming."
+          }
+        ],
+        "explanation": {
+          "en": "The correct structure for showing a result with a noun phrase is 'such + (a/an) + adjective + noun + that + clause.' The other options use the wrong structure.",
+          "ru": "Правильная конструкция для выражения результата с существительным - 'such + (a/an) + прилагательное + существительное + that + предложение'. В других вариантах используется неправильная структура.",
+          "uz": "Otli birikma bilan natijani ko'rsatish uchun to'g'ri tuzilma 'such + (a/an) + sifat + ot + that + jumla'dir. Boshqa variantlar noto'g'ri tuzilishdan foydalanadi."
+        }
+      },
+      {
+        "id": "mc4",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Which sentence uses 'as' correctly?",
+          "ru": "В каком предложении 'as' используется правильно?",
+          "uz": "'As' qaysi gapda to'g'ri ishlatilgan?"
+        },
+        "options": [
+          {
+            "answer": "As I was walking, I saw a friend."
+          },
+          {
+            "answer": "I saw a friend as I was walking.",
+            "correct": true
+          },
+          {
+            "answer": "I saw a friend, as I was walking."
+          }
+        ],
+        "explanation": {
+          "en": "The conjunction 'as' is used to talk about two actions happening at the same time. It can connect two clauses and is often used to introduce a subordinate clause.",
+          "ru": "Союз 'as' используется для описания двух действий, происходящих одновременно. Он может соединять два предложения и часто используется для введения придаточного предложения.",
+          "uz": "'As' bog'lovchisi bir vaqtda sodir bo'layotgan ikkita harakat haqida gapirish uchun ishlatiladi. U ikkita jumlani bog'lashi mumkin va ko'pincha qo'shma jumlani kiritish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "mc5",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the sentence that shows a result.",
+          "ru": "Выберите предложение, которое показывает результат.",
+          "uz": "Natijani ko'rsatuvchi gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "It was cold, because it was winter."
+          },
+          {
+            "answer": "It was winter, so it was cold.",
+            "correct": true
+          },
+          {
+            "answer": "It was cold as it was winter."
+          }
+        ],
+        "explanation": {
+          "en": "The conjunction 'so' is used to show a result. Here, being cold is a result of it being winter. 'Because' shows the cause.",
+          "ru": "Союз 'so' используется для выражения результата. Здесь 'холодно' является результатом 'зимы'. 'Because' показывает причину.",
+          "uz": "'So' bog'lovchisi natijani ko'rsatish uchun ishlatiladi. Bu yerda 'sovuq' bo'lish qish bo'lishining natijasidir. 'Because' sababni ko'rsatadi."
+        }
+      },
+      {
+        "id": "mc6",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Which sentence correctly uses 'so'?",
+          "ru": "Какое предложение правильно использует 'so'?",
+          "uz": "Qaysi gapda 'so' to'g'ri ishlatilgan?"
+        },
+        "options": [
+          {
+            "answer": "I was very tired, so I went to bed early.",
+            "correct": true
+          },
+          {
+            "answer": "I was so tired, so I went to bed early."
+          },
+          {
+            "answer": "I was so tired as I went to bed early."
+          }
+        ],
+        "explanation": {
+          "en": "The word 'so' is used to connect a cause and its result. The first part of the sentence is the cause (tiredness), and the second is the result (going to bed early).",
+          "ru": "Слово 'so' используется для связи причины и ее результата. Первая часть предложения - это причина (усталость), а вторая - результат (ранний отход ко сну).",
+          "uz": "'So' so'zi sabab va uning natijasini bog'lash uchun ishlatiladi. Gapning birinchi qismi sabab (charchoq), ikkinchisi esa natija (ertaroq uxlashga borish) hisoblanadi."
+        }
+      },
+      {
+        "id": "mc7",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "He is so friendly a person that everyone likes him."
+          },
+          {
+            "answer": "He is so friendly that everyone likes him.",
+            "correct": true
+          },
+          {
+            "answer": "He is such friendly that everyone likes him."
+          }
+        ],
+        "explanation": {
+          "en": "The correct structure is 'so + adjective + that + clause' when there is no noun after the adjective. 'Such' is used with a noun phrase.",
+          "ru": "Правильная конструкция - 'so + прилагательное + that + предложение', когда после прилагательного нет существительного. 'Such' используется с существительным.",
+          "uz": "Sifatdan keyin ot bo'lmaganda to'g'ri tuzilma 'so + sifat + that + jumla'dir. 'Such' ot bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "mc8",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Which sentence correctly uses 'such as'?",
+          "ru": "Какое предложение правильно использует 'such as'?",
+          "uz": "Qaysi gapda 'such as' to'g'ri ishlatilgan?"
+        },
+        "options": [
+          {
+            "answer": "I like fruits, such as apples, oranges, and bananas.",
+            "correct": true
+          },
+          {
+            "answer": "I like such fruits as apples, oranges, and bananas."
+          },
+          {
+            "answer": "I like such apples, oranges, and bananas."
+          }
+        ],
+        "explanation": {
+          "en": "The phrase 'such as' is used to introduce examples of something mentioned previously. The structure 'such as + list of examples' is the correct one.",
+          "ru": "Фраза 'such as' используется для введения примеров чего-то, упомянутого ранее. Правильная структура - 'such as + список примеров'.",
+          "uz": "'Such as' iborasi oldin tilga olingan narsalarga misollar keltirish uchun ishlatiladi. 'Such as + misollar ro'yxati' tuzilmasi to'g'ri hisoblanadi."
+        }
+      },
+      {
+        "id": "mc9",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Choose the correct sentence.",
+          "ru": "Выберите правильное предложение.",
+          "uz": "To'g'ri gapni tanlang."
+        },
+        "options": [
+          {
+            "answer": "I was very cold, because I didn't wear a jacket.",
+            "correct": true
+          },
+          {
+            "answer": "I was very cold, so I didn't wear a jacket."
+          },
+          {
+            "answer": "I was very cold, as I didn't wear a jacket."
+          }
+        ],
+        "explanation": {
+          "en": "The word 'because' is used to show a cause. Not wearing a jacket is the cause for being cold.",
+          "ru": "Слово 'because' используется для выражения причины. Отсутствие куртки - причина холода.",
+          "uz": "'Because' so'zi sababni ko'rsatish uchun ishlatiladi. Ko'ylak kiymaslik sovuq qotishning sababidir."
+        }
+      },
+      {
+        "id": "mc10",
+        "type": "multiple_choice",
+        "question": {
+          "en": "Which sentence correctly uses 'so' and 'such'?",
+          "ru": "Какое предложение правильно использует 'so' и 'such'?",
+          "uz": "Qaysi gapda 'so' va 'such' to'g'ri ishlatilgan?"
+        },
+        "options": [
+          {
+            "answer": "It was so a big car that it didn't fit."
+          },
+          {
+            "answer": "It was such a big car that it didn't fit.",
+            "correct": true
+          },
+          {
+            "answer": "It was such big car that it didn't fit."
+          }
+        ],
+        "explanation": {
+          "en": "'Such a big car' is a correct noun phrase that shows a result. 'So' is used with adjectives, not nouns.",
+          "ru": "'Such a big car' - это правильное существительное, которое показывает результат. 'So' используется с прилагательными, а не существительными.",
+          "uz": "'Such a big car' natijani ko'rsatadigan to'g'ri otli birikma. 'So' otlar bilan emas, sifatlar bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "sa1",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence with a cause: I bought a new dress, ___ I had a party to attend.",
+          "ru": "Дополните предложение причиной: I bought a new dress, ___ I had a party to attend.",
+          "uz": "Gapni sabab bilan to'ldiring: I bought a new dress, ___ I had a party to attend."
+        },
+        "options": [
+          {
+            "answer": "because",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The conjunction 'because' is used to introduce the reason or cause for the action of buying a new dress.",
+          "ru": "Союз 'because' используется для введения причины или основания для действия - покупки нового платья.",
+          "uz": "'Because' bog'lovchisi yangi ko'ylak sotib olish harakatining sababini yoki asosini kiritish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa2",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence with a result: It rained all day, ___ the streets were wet.",
+          "ru": "Дополните предложение результатом: It rained all day, ___ the streets were wet.",
+          "uz": "Gapni natija bilan to'ldiring: It rained all day, ___ the streets were wet."
+        },
+        "options": [
+          {
+            "answer": "so",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The conjunction 'so' is used to show a result. The wet streets are a result of the rain.",
+          "ru": "Союз 'so' используется для выражения результата. Мокрые улицы - это результат дождя.",
+          "uz": "'So' bog'lovchisi natijani ko'rsatish uchun ishlatiladi. Ko'chalar yomg'ir tufayli ho'l bo'lgan."
+        }
+      },
+      {
+        "id": "sa3",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: The sun was ___ bright that I couldn't open my eyes.",
+          "ru": "Дополните предложение: The sun was ___ bright that I couldn't open my eyes.",
+          "uz": "Gapni to'ldiring: The sun was ___ bright that I couldn't open my eyes."
+        },
+        "options": [
+          {
+            "answer": "so",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'So' is used before an adjective without a noun to show a result. 'Such' would be incorrect here.",
+          "ru": "'So' используется перед прилагательным без существительного для выражения результата. 'Such' здесь будет неправильным.",
+          "uz": "'So' sifatdan oldin, ot bo'lmaganda natijani ko'rsatish uchun ishlatiladi. Bu yerda 'such' noto'g'ri bo'ladi."
+        }
+      },
+      {
+        "id": "sa4",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: It was ___ a big surprise that she cried.",
+          "ru": "Дополните предложение: It was ___ a big surprise that she cried.",
+          "uz": "Gapni to'ldiring: It was ___ a big surprise that she cried."
+        },
+        "options": [
+          {
+            "answer": "such",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'Such' is used before a noun phrase like 'a big surprise' to show a result. 'So' would be incorrect here.",
+          "ru": "'Such' используется перед существительным, таким как 'a big surprise', для выражения результата. 'So' здесь будет неправильным.",
+          "uz": "'Such' 'a big surprise' kabi otli birikmadan oldin natijani ko'rsatish uchun ishlatiladi. Bu yerda 'so' noto'g'ri bo'ladi."
+        }
+      },
+      {
+        "id": "sa5",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: I like many hobbies, ___ cooking and reading.",
+          "ru": "Дополните предложение: I like many hobbies, ___ cooking and reading.",
+          "uz": "Gapni to'ldiring: I like many hobbies, ___ cooking and reading."
+        },
+        "options": [
+          {
+            "answer": "such as",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "The phrase 'such as' is used to introduce examples of the hobbies you like.",
+          "ru": "Фраза 'such as' используется для введения примеров хобби, которые вам нравятся.",
+          "uz": "'Such as' iborasi sizga yoqadigan hobbi misollarini kiritish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa6",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: ___ he was walking, he found a wallet.",
+          "ru": "Дополните предложение: ___ he was walking, he found a wallet.",
+          "uz": "Gapni to'ldiring: ___ he was walking, he found a wallet."
+        },
+        "options": [
+          {
+            "answer": "As",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'As' is used here to show that the action of finding a wallet happened while he was walking.",
+          "ru": "'As' здесь используется для того, чтобы показать, что действие 'найти кошелек' произошло, пока он шел.",
+          "uz": "'As' bu yerda uning yurib borayotganida hamyon topganligini ko'rsatish uchun ishlatiladi."
+        }
+      },
+      {
+        "id": "sa7",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: He was not feeling well, ___ he went to the doctor.",
+          "ru": "Дополните предложение: He was not feeling well, ___ he went to the doctor.",
+          "uz": "Gapni to'ldiring: He was not feeling well, ___ he went to the doctor."
+        },
+        "options": [
+          {
+            "answer": "so",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'So' is used to show a result or consequence. Going to the doctor is a result of not feeling well.",
+          "ru": "'So' используется для выражения результата или следствия. Поход к врачу - это результат того, что он неважно себя чувствовал.",
+          "uz": "'So' natija yoki oqibatni ko'rsatish uchun ishlatiladi. Shifokorga borish o'zini yaxshi his qilmaslikning natijasidir."
+        }
+      },
+      {
+        "id": "sa8",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: She was happy ___ she passed the exam.",
+          "ru": "Дополните предложение: She was happy ___ she passed the exam.",
+          "uz": "Gapni to'ldiring: She was happy ___ she passed the exam."
+        },
+        "options": [
+          {
+            "answer": "because/as",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'Because' or 'as' are used to state the reason for her happiness. Passing the exam is the cause of her happiness.",
+          "ru": "'Because' или 'as' используются для обозначения причины ее счастья. Сдача экзамена - причина ее счастья.",
+          "uz": "'Because' yoki 'as' uning baxtining sababini bildirish uchun ishlatiladi. Imtihondan o'tish uning baxtining sababidir."
+        }
+      },
+      {
+        "id": "sa9",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: He had ___ little money that he couldn't buy food.",
+          "ru": "Дополните предложение: He had ___ little money that he couldn't buy food.",
+          "uz": "Gapni to'ldiring: He had ___ little money that he couldn't buy food."
+        },
+        "options": [
+          {
+            "answer": "so",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'So' is used with 'little' or 'few' before a noun to express a result. The result is not having enough money to buy food.",
+          "ru": "'So' используется с 'little' или 'few' перед существительным для выражения результата. Результат - отсутствие достаточного количества денег, чтобы купить еду.",
+          "uz": "'So' ot oldidan 'little' yoki 'few' bilan natijani ifodalash uchun ishlatiladi. Natija esa oziq-ovqat sotib olishga yetarli pul yo'qligi."
+        }
+      },
+      {
+        "id": "sa10",
+        "type": "short_answer",
+        "prompt": {
+          "en": "Complete the sentence: They went to see a movie, ___ they had finished their homework.",
+          "ru": "Дополните предложение: They went to see a movie, ___ they had finished their homework.",
+          "uz": "Gapni to'ldiring: They went to see a movie, ___ they had finished their homework."
+        },
+        "options": [
+          {
+            "answer": "as/because",
+            "correct": true
+          }
+        ],
+        "explanation": {
+          "en": "'As' or 'because' are used here to provide the reason why they went to see a movie. The reason is that they had finished their homework.",
+          "ru": "'As' или 'because' используются здесь, чтобы указать причину, по которой они пошли смотреть фильм. Причина в том, что они закончили домашнее задание.",
+          "uz": "'As' yoki 'because' bu yerda ularning nima uchun film ko'rgani sababini ko'rsatish uchun ishlatiladi. Sabab - ular uy vazifasini tugatganlari."
+        }
+      },
+      {
+        "id": "mgf1",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "Living in a big city is a fascinating experience, ___1___ it offers countless opportunities. There are many different types of entertainment, ___2___ museums, concerts, and theaters. You might not have access to nature, but there are ___3___ many parks that you can enjoy green spaces. This can lead to a great social life, ___4___ you meet a lot of different people. On the other hand, the cost of living is often high, ___5___ you need a good job. ___6___ the cost is high, many people struggle to make ends meet. It's a challenging environment, but it's also very rewarding, ___7___ you can find everything you need. You can find places to eat, ___8___ restaurants with international food. It is ___9___ a fast-paced life that you rarely get bored. Many people move to the city, ___10___ they are looking for new experiences.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "because"
+          },
+          {
+            "blank": "2",
+            "answer": "such as"
+          },
+          {
+            "blank": "3",
+            "answer": "so"
+          },
+          {
+            "blank": "4",
+            "answer": "as"
+          },
+          {
+            "blank": "5",
+            "answer": "so"
+          },
+          {
+            "blank": "6",
+            "answer": "As"
+          },
+          {
+            "blank": "7",
+            "answer": "because"
+          },
+          {
+            "blank": "8",
+            "answer": "such as"
+          },
+          {
+            "blank": "9",
+            "answer": "such"
+          },
+          {
+            "blank": "10",
+            "answer": "because"
+          }
+        ],
+        "explanation": {
+          "en": "'Because' and 'as' are used to show a cause. 'So' is used for result. 'Such as' is for examples, and 'such' is used with a noun phrase to show a result.",
+          "ru": "'Because' и 'as' используются для обозначения причины. 'So' - для результата. 'Such as' - для примеров, а 'such' используется с существительным для выражения результата.",
+          "uz": "'Because' va 'as' sababni ko'rsatish uchun ishlatiladi. 'So' - natija uchun. 'Such as' - misollar uchun, 'such' esa natijani ko'rsatish uchun otli birikma bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf2",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "The project was a huge success, ___1___ everyone worked together. It was ___2___ a difficult task that we thought we couldn't finish it. The team members were all committed, ___3___ they spent many late nights at the office. We learned a lot from this project, ___4___ how to work under pressure. It was a great experience, ___5___ it showed us what we are capable of. The presentation was very good, ___6___ our boss gave us a bonus. He was ___7___ pleased that he shook everyone's hand. We celebrated our success with a big dinner, ___8___ we ate pizza and drank soda. It was a great feeling, ___9___ we had achieved our goal. The team worked well together, ___10___ they were motivated to succeed.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "because"
+          },
+          {
+            "blank": "2",
+            "answer": "such"
+          },
+          {
+            "blank": "3",
+            "answer": "so"
+          },
+          {
+            "blank": "4",
+            "answer": "such as"
+          },
+          {
+            "blank": "5",
+            "answer": "as"
+          },
+          {
+            "blank": "6",
+            "answer": "so"
+          },
+          {
+            "blank": "7",
+            "answer": "so"
+          },
+          {
+            "blank": "8",
+            "answer": "as"
+          },
+          {
+            "blank": "9",
+            "answer": "because"
+          },
+          {
+            "blank": "10",
+            "answer": "as"
+          }
+        ],
+        "explanation": {
+          "en": "'Because' and 'as' are used to show a cause. 'So' is used for result. 'Such as' is for examples, and 'such' is used with a noun phrase to show a result.",
+          "ru": "'Because' и 'as' используются для обозначения причины. 'So' - для результата. 'Such as' - для примеров, а 'such' используется с существительным для выражения результата.",
+          "uz": "'Because' va 'as' sababni ko'rsatish uchun ishlatiladi. 'So' - natija uchun. 'Such as' - misollar uchun, 'such' esa natijani ko'rsatish uchun otli birikma bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf3",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "The weather was terrible today, ___1___ it rained all morning. I couldn't go outside ___2___ I forgot my umbrella. I stayed at home and watched a movie, ___3___ the rain continued. I had a long list of chores to do, ___4___ cleaning the kitchen and doing the laundry. It was ___5___ a productive day that I was happy at the end of it. The rain was very heavy, ___6___ the streets flooded. It was a good thing I stayed at home, ___7___ I would have been soaked. I also cooked a delicious dinner, ___8___ I had so much time. I was so happy with the result, ___9___ I shared a picture online. I was also able to read a book, ___10___ I had not read for a long time.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "as"
+          },
+          {
+            "blank": "2",
+            "answer": "because"
+          },
+          {
+            "blank": "3",
+            "answer": "as"
+          },
+          {
+            "blank": "4",
+            "answer": "such as"
+          },
+          {
+            "blank": "5",
+            "answer": "such"
+          },
+          {
+            "blank": "6",
+            "answer": "so"
+          },
+          {
+            "blank": "7",
+            "answer": "because"
+          },
+          {
+            "blank": "8",
+            "answer": "as"
+          },
+          {
+            "blank": "9",
+            "answer": "so"
+          },
+          {
+            "blank": "10",
+            "answer": "which"
+          }
+        ],
+        "explanation": {
+          "en": "'As' and 'because' are used to show a cause. 'So' is used for result. 'Such as' is for examples, and 'such' is used with a noun phrase to show a result.",
+          "ru": "'As' и 'because' используются для обозначения причины. 'So' - для результата. 'Such as' - для примеров, а 'such' используется с существительным для выражения результата.",
+          "uz": "'As' va 'because' sababni ko'rsatish uchun ishlatiladi. 'So' - natija uchun. 'Such as' - misollar uchun, 'such' esa natijani ko'rsatish uchun otli birikma bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf4",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "Learning a new language is a great adventure, ___1___ it opens up new worlds. You can meet new people, ___2___ those from different countries, and learn about their cultures. It's ___3___ an interesting experience that it's worth the effort. You can also travel more easily, ___4___ you can communicate with local people. It is a challenging process, ___5___ you need to be patient. You might make many mistakes, ___6___ those related to grammar. But don't worry, ___7___ making mistakes is a natural part of learning. I have many friends who have learned a new language, ___8___ my friend Maria who speaks three languages. She is ___9___ fluent in Spanish that she teaches it to others. She told me that she started learning ___10___ she was a child.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "because"
+          },
+          {
+            "blank": "2",
+            "answer": "such as"
+          },
+          {
+            "blank": "3",
+            "answer": "such"
+          },
+          {
+            "blank": "4",
+            "answer": "as"
+          },
+          {
+            "blank": "5",
+            "answer": "so"
+          },
+          {
+            "blank": "6",
+            "answer": "such as"
+          },
+          {
+            "blank": "7",
+            "answer": "because"
+          },
+          {
+            "blank": "8",
+            "answer": "such as"
+          },
+          {
+            "blank": "9",
+            "answer": "so"
+          },
+          {
+            "blank": "10",
+            "answer": "since"
+          }
+        ],
+        "explanation": {
+          "en": "'Because' and 'as' are used to show a cause. 'So' is used for result. 'Such as' is for examples, and 'such' is used with a noun phrase to show a result.",
+          "ru": "'Because' и 'as' используются для обозначения причины. 'So' - для результата. 'Such as' - для примеров, а 'such' используется с существительным для выражения результата.",
+          "uz": "'Because' va 'as' sababni ko'rsatish uchun ishlatiladi. 'So' - natija uchun. 'Such as' - misollar uchun, 'such' esa natijani ko'rsatish uchun otli birikma bilan ishlatiladi."
+        }
+      },
+      {
+        "id": "mgf5",
+        "type": "multiple_gap_filling",
+        "prompt": {
+          "en": "Fill in the blanks with the correct words",
+          "ru": "Заполните пропуски правильными словами",
+          "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+        },
+        "text": "Exercising is crucial for health, ___1___ it keeps your body strong. There are many ways to exercise, ___2___ running, swimming, and cycling. It's ___3___ an effective way to relieve stress that doctors recommend it. It's important to start slowly, ___4___ you don't injure yourself. You can find many online resources, ___5___ videos and articles. I started exercising last year, ___6___ I felt so tired all the time. I was ___7___ exhausted after work that I couldn't do anything else. Now I feel much better, ___8___ I have more energy. I also started eating healthy foods, ___9___ vegetables and fruits. My life has changed a lot, ___10___ I am much happier now.",
+        "answers": [
+          {
+            "blank": "1",
+            "answer": "because"
+          },
+          {
+            "blank": "2",
+            "answer": "such as"
+          },
+          {
+            "blank": "3",
+            "answer": "such"
+          },
+          {
+            "blank": "4",
+            "answer": "so"
+          },
+          {
+            "blank": "5",
+            "answer": "such as"
+          },
+          {
+            "blank": "6",
+            "answer": "because"
+          },
+          {
+            "blank": "7",
+            "answer": "so"
+          },
+          {
+            "blank": "8",
+            "answer": "as"
+          },
+          {
+            "blank": "9",
+            "answer": "such as"
+          },
+          {
+            "blank": "10",
+            "answer": "so"
+          }
+        ],
+        "explanation": {
+          "en": "'Because' and 'as' are used to show a cause. 'So' is used for result. 'Such as' is for examples, and 'such' is used with a noun phrase to show a result.",
+          "ru": "'Because' и 'as' используются для обозначения причины. 'So' - для результата. 'Such as' - для примеров, а 'such' используется с существительным для выражения результата.",
+          "uz": "'Because' va 'as' sababni ko'rsatish uchun ishlatiladi. 'So' - natija uchun. 'Such as' - misollar uchun, 'such' esa natijani ko'rsatish uchun otli birikma bilan ishlatiladi."
+        }
+      }
+    ]
+  }

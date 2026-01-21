@@ -1,0 +1,919 @@
+{
+    "id": "A2_WILL_VS_BE_GOING_TO_FUTURE_FORMS_COMPARISON",
+    "title": "Will vs be going to (Future) - Future forms comparison",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I will going to buy a car tomorrow."
+                },
+                {
+                    "answer": "I am going to buy a car tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "I going to buy a car tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for planned future actions. The correct form is 'am/is/are + going to + base verb'.",
+                "ru": "Используйте 'be going to' для запланированных будущих действий. Правильная форма: 'am/is/are + going to + базовый глагол'.",
+                "uz": "Rejalashtirilgan kelajak harakatlar uchun 'be going to' dan foydalaning. To'g'ri shakl: 'am/is/are + going to + asosiy fe'l'."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She will helps you with your homework."
+                },
+                {
+                    "answer": "She will help you with your homework.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will to help you with your homework."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will + base form of the verb' for spontaneous decisions or predictions. Don't add 's' or 'to' after 'will'.",
+                "ru": "Используйте 'will + базовая форма глагола' для спонтанных решений или предсказаний. Не добавляйте 's' или 'to' после 'will'.",
+                "uz": "O'z-o'zidan qabul qilingan qarorlar yoki bashoratlar uchun 'will + fe'lning asosiy shakli' dan foydalaning. 'will' dan keyin 's' yoki 'to' qo'shmang."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Look at those clouds! It will rain.",
+                    "correct": true
+                },
+                {
+                    "answer": "Look at those clouds! It going to rain."
+                },
+                {
+                    "answer": "Look at those clouds! It will going to rain."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for predictions based on what you think will happen. Use 'going to' for predictions based on present evidence.",
+                "ru": "Используйте 'will' для предсказаний, основанных на том, что вы думаете произойдет. Используйте 'going to' для предсказаний, основанных на видимых доказательствах.",
+                "uz": "Nima bo'lishini o'ylashingiz asosida bashorat qilish uchun 'will' dan foydalaning. Hozirgi dalillarga asoslangan bashoratlar uchun 'going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We are going to visit Paris next month.",
+                    "correct": true
+                },
+                {
+                    "answer": "We going to visit Paris next month."
+                },
+                {
+                    "answer": "We will going to visit Paris next month."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for plans made before speaking. The correct form includes the auxiliary verb 'be'.",
+                "ru": "Используйте 'be going to' для планов, составленных до момента речи. Правильная форма включает вспомогательный глагол 'be'.",
+                "uz": "Gapirishdan oldin tuzilgan rejalar uchun 'be going to' dan foydalaning. To'g'ri shaklda yordamchi fe'l 'be' mavjud."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I think it will be sunny tomorrow."
+                },
+                {
+                    "answer": "I think it is going to be sunny tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "I think it will going to be sunny tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "Both 'will' and 'going to' can be used for predictions, but 'going to' is often preferred for weather predictions based on current conditions.",
+                "ru": "И 'will', и 'going to' могут использоваться для предсказаний, но 'going to' часто предпочтительнее для прогнозов погоды, основанных на текущих условиях.",
+                "uz": "Ham 'will', ham 'going to' bashoratlar uchun ishlatilishi mumkin, lekin hozirgi sharoitlarga asoslangan ob-havo prognozlari uchun 'going to' ko'pincha afzalroq."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Don't worry, I will call you later."
+                },
+                {
+                    "answer": "Don't worry, I am going to call you later.",
+                    "correct": true
+                },
+                {
+                    "answer": "Don't worry, I will going call you later."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for spontaneous promises or decisions made at the moment of speaking.",
+                "ru": "Используйте 'will' для спонтанных обещаний или решений, принятых в момент речи.",
+                "uz": "Gapirayotgan paytda qabul qilingan o'z-o'zidan va'dalar yoki qarorlar uchun 'will' dan foydalaning."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They are going to move to London next year.",
+                    "correct": true
+                },
+                {
+                    "answer": "They going to move to London next year."
+                },
+                {
+                    "answer": "They will going move to London next year."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for pre-planned actions. The structure requires the auxiliary verb 'be' conjugated properly.",
+                "ru": "Используйте 'be going to' для заранее запланированных действий. Структура требует правильного спряжения вспомогательного глагола 'be'.",
+                "uz": "Oldindan rejalashtirilgan harakatlar uchun 'be going to' dan foydalaning. Strukturada yordamchi fe'l 'be' to'g'ri tuslanishi kerak."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Maybe I will go to the party tonight."
+                },
+                {
+                    "answer": "Maybe I am going to go to the party tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "Maybe I will going go to the party tonight."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for uncertain future events or possibilities. 'Will' is commonly used with words like 'maybe', 'probably', 'perhaps'.",
+                "ru": "Используйте 'will' для неопределенных будущих событий или возможностей. 'Will' обычно используется со словами как 'maybe', 'probably', 'perhaps'.",
+                "uz": "Noaniq kelajak hodisalar yoki imkoniyatlar uchun 'will' dan foydalaning. 'Will' odatda 'maybe', 'probably', 'perhaps' kabi so'zlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The phone is ringing. I will answer it.",
+                    "correct": true
+                },
+                {
+                    "answer": "The phone is ringing. I am going to answer it."
+                },
+                {
+                    "answer": "The phone is ringing. I will going answer it."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for spontaneous decisions made at the moment of speaking, like deciding to answer the phone when it rings.",
+                "ru": "Используйте 'will' для спонтанных решений, принятых в момент речи, например, решение ответить на телефон, когда он звонит.",
+                "uz": "Gapirayotgan paytda qabul qilingan o'z-o'zidan qarorlar uchun 'will' dan foydalaning, masalan, telefon jiringlayotganda javob berish qarori."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is going to study medicine at university.",
+                    "correct": true
+                },
+                {
+                    "answer": "She going to study medicine at university."
+                },
+                {
+                    "answer": "She will going study medicine at university."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for plans and intentions that were decided before the moment of speaking.",
+                "ru": "Используйте 'be going to' для планов и намерений, которые были решены до момента речи.",
+                "uz": "Gapirishdan oldin qaror qilingan reja va niyatlar uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I think it ___ rain tomorrow.",
+                "ru": "Дополните предложение: I think it ___ rain tomorrow.",
+                "uz": "Gapni to'ldiring: I think it ___ rain tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for predictions and opinions about the future, especially with verbs like 'think', 'believe', 'hope'.",
+                "ru": "Используйте 'will' для предсказаний и мнений о будущем, особенно с глаголами как 'think', 'believe', 'hope'.",
+                "uz": "Kelajak haqidagi bashorat va fikrlar uchun 'will' dan foydalaning, ayniqsa 'think', 'believe', 'hope' kabi fe'llar bilan."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ ___ visit our grandparents this weekend.",
+                "ru": "Дополните предложение: We ___ ___ visit our grandparents this weekend.",
+                "uz": "Gapni to'ldiring: We ___ ___ visit our grandparents this weekend."
+            },
+            "options": [
+                {
+                    "answer": "are going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for planned activities that were arranged before the moment of speaking.",
+                "ru": "Используйте 'be going to' для запланированных мероприятий, которые были организованы до момента речи.",
+                "uz": "Gapirishdan oldin tashkil qilingan rejalashtirilgan faoliyat uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Don't worry, I ___ help you with that.",
+                "ru": "Дополните предложение: Don't worry, I ___ help you with that.",
+                "uz": "Gapni to'ldiring: Don't worry, I ___ help you with that."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for promises and offers of help made spontaneously at the moment of speaking.",
+                "ru": "Используйте 'will' для обещаний и предложений помощи, сделанных спонтанно в момент речи.",
+                "uz": "Gapirayotgan paytda o'z-o'zidan berilgan va'da va yordam takliflari uchun 'will' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Look at the sky! It ___ ___ ___ snow.",
+                "ru": "Дополните предложение: Look at the sky! It ___ ___ ___ snow.",
+                "uz": "Gapni to'ldiring: Look at the sky! It ___ ___ ___ snow."
+            },
+            "options": [
+                {
+                    "answer": "is going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for predictions based on present evidence that you can see or observe.",
+                "ru": "Используйте 'be going to' для предсказаний, основанных на видимых в настоящем доказательствах.",
+                "uz": "Hozir ko'rish yoki kuzatish mumkin bo'lgan dalillarga asoslangan bashoratlar uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ probably be late for dinner.",
+                "ru": "Дополните предложение: I ___ probably be late for dinner.",
+                "uz": "Gapni to'ldiring: I ___ probably be late for dinner."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' with adverbs like 'probably', 'maybe', 'certainly' for predictions and possibilities.",
+                "ru": "Используйте 'will' с наречиями как 'probably', 'maybe', 'certainly' для предсказаний и возможностей.",
+                "uz": "Bashorat va imkoniyatlar uchun 'will' ni 'probably', 'maybe', 'certainly' kabi ravishlari bilan ishlating."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ ___ ___ buy a new house next month.",
+                "ru": "Дополните предложение: They ___ ___ ___ buy a new house next month.",
+                "uz": "Gapni to'ldiring: They ___ ___ ___ buy a new house next month."
+            },
+            "options": [
+                {
+                    "answer": "are going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for planned future actions that were decided before the moment of speaking.",
+                "ru": "Используйте 'be going to' для запланированных будущих действий, которые были решены до момента речи.",
+                "uz": "Gapirishdan oldin qaror qilingan rejalashtirilgan kelajak harakatlari uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I hope she ___ pass her exam.",
+                "ru": "Дополните предложение: I hope she ___ pass her exam.",
+                "uz": "Gapni to'ldiring: I hope she ___ pass her exam."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' with verbs expressing hopes, beliefs, and opinions about future events.",
+                "ru": "Используйте 'will' с глаголами, выражающими надежды, убеждения и мнения о будущих событиях.",
+                "uz": "Kelajak hodisalar haqidagi umid, ishonch va fikrlarni ifodalovchi fe'llar bilan 'will' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Watch out! You ___ ___ ___ fall!",
+                "ru": "Дополните предложение: Watch out! You ___ ___ ___ fall!",
+                "uz": "Gapni to'ldiring: Watch out! You ___ ___ ___ fall!"
+            },
+            "options": [
+                {
+                    "answer": "are going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for immediate predictions based on what you can see happening right now.",
+                "ru": "Используйте 'be going to' для немедленных предсказаний, основанных на том, что вы видите происходящим прямо сейчас.",
+                "uz": "Hozir sodir bo'layotganini ko'rishingiz asosida tez bashoratlar uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ call you when I arrive.",
+                "ru": "Дополните предложение: I ___ call you when I arrive.",
+                "uz": "Gapni to'ldiring: I ___ call you when I arrive."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'will' for promises and commitments, especially in conditional and time clauses.",
+                "ru": "Используйте 'will' для обещаний и обязательств, особенно в условных и временных предложениях.",
+                "uz": "Va'da va majburiyatlar uchun 'will' dan foydalaning, ayniqsa shart va vaqt gaplarida."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ ___ ___ start her new job on Monday.",
+                "ru": "Дополните предложение: She ___ ___ ___ start her new job on Monday.",
+                "uz": "Gapni to'ldiring: She ___ ___ ___ start her new job on Monday."
+            },
+            "options": [
+                {
+                    "answer": "is going to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'be going to' for arrangements and plans that have been made in advance.",
+                "ru": "Используйте 'be going to' для договоренностей и планов, которые были сделаны заранее.",
+                "uz": "Oldindan qilingan kelishuvlar va rejalar uchun 'be going to' dan foydalaning."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tomorrow is Sarah's birthday and she has many plans. She ___1___ have a big party at her house because she invited all her friends last week. The weather forecast says it ___2___ be sunny and warm, so they ___3___ ___4___ have the party in the garden. Sarah's mom ___5___ ___6___ make a chocolate cake because she bought all the ingredients yesterday. Sarah's best friend Emma ___7___ arrive early to help with the decorations. She promised she ___8___ bring balloons and streamers. Look at those dark clouds in the sky! I think it ___9___ ___10___ rain soon, so maybe they ___11___ have to move the party inside. Sarah's dad ___12___ ___13___ set up the music system in the living room just in case. The party starts at 3 PM and I believe everyone ___14___ have a wonderful time. Sarah says she ___15___ ___16___ wear her new blue dress that she bought especially for this occasion.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "going"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                },
+                {
+                    "blank": "16",
+                    "answer": "going"
+                }
+            ],
+            "explanation": {
+                "en": "This text demonstrates the difference between 'will' (spontaneous decisions, predictions, promises) and 'be going to' (planned actions, predictions based on evidence).",
+                "ru": "Этот текст демонстрирует разницу между 'will' (спонтанные решения, предсказания, обещания) и 'be going to' (запланированные действия, предсказания, основанные на доказательствах).",
+                "uz": "Ushbu matn 'will' (o'z-o'zidan qarorlar, bashoratlar, va'dalar) va 'be going to' (rejalashtirilgan harakatlar, dalillarga asoslangan bashoratlar) orasidagi farqni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Next week ___1___ ___2___ be very exciting for our family. My brother ___3___ ___4___ graduate from university on Tuesday. We have already booked a hotel room, so we ___5___ ___6___ stay there for three days. The graduation ceremony ___7___ start at 10 AM and I think it ___8___ be very emotional for all of us. After the ceremony, we ___9___ ___10___ have lunch at a nice restaurant that we reserved last month. My parents ___11___ ___12___ give him a special graduation gift - they bought it two weeks ago. In the evening, my brother's friends ___13___ organize a surprise party for him. I promised I ___14___ help them decorate the venue. The weather forecast shows that it ___15___ ___16___ be cloudy but dry, which is perfect for our outdoor celebration. I'm sure my brother ___17___ be very happy when he sees all his friends together. We ___18___ probably take hundreds of photos to remember this special day forever.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "going"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                },
+                {
+                    "blank": "16",
+                    "answer": "going"
+                },
+                {
+                    "blank": "17",
+                    "answer": "will"
+                },
+                {
+                    "blank": "18",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise shows how to use 'will' for predictions and promises, while 'be going to' is used for pre-arranged plans and predictions based on current evidence.",
+                "ru": "Это упражнение показывает, как использовать 'will' для предсказаний и обещаний, в то время как 'be going to' используется для заранее организованных планов и предсказаний, основанных на текущих доказательствах.",
+                "uz": "Ushbu mashq bashorat va va'dalar uchun 'will' dan qanday foydalanishni ko'rsatadi, 'be going to' esa oldindan tashkil qilingan rejalar va hozirgi dalillarga asoslangan bashoratlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "This summer vacation ___1___ ___2___ be amazing! My family and I ___3___ ___4___ travel to Italy because we have been planning this trip for months. We ___5___ ___6___ visit Rome, Florence, and Venice during our two-week stay. I ___7___ definitely take lots of pictures of the beautiful architecture and historical sites. My sister ___8___ ___9___ study Italian before we go - she enrolled in language classes last month. The travel agent told us that the weather ___10___ probably be hot and sunny in July. We ___11___ ___12___ stay in small hotels in the city centers because we already made reservations. I think Italian food ___13___ be delicious, especially the pasta and pizza. My dad ___14___ ___15___ rent a car for a few days so we can explore the countryside. Look at my mom's suitcase - it's already full! She ___16___ ___17___ need another suitcase for all her clothes. I hope we ___18___ have enough time to see everything we planned. This ___19___ be the best vacation ever!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "going"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "going"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "going"
+                },
+                {
+                    "blank": "16",
+                    "answer": "is"
+                },
+                {
+                    "blank": "17",
+                    "answer": "going"
+                },
+                {
+                    "blank": "18",
+                    "answer": "will"
+                },
+                {
+                    "blank": "19",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the use of 'will' for opinions, predictions, and spontaneous decisions, while 'be going to' is used for pre-planned activities and predictions based on present evidence.",
+                "ru": "Это упражнение демонстрирует использование 'will' для мнений, предсказаний и спонтанных решений, в то время как 'be going to' используется для заранее запланированных действий и предсказаний, основанных на видимых доказательствах.",
+                "uz": "Ushbu mashq fikr, bashorat va o'z-o'zidan qarorlar uchun 'will' dan foydalanishni ko'rsatadi, 'be going to' esa oldindan rejalashtirilgan faoliyat va ko'rinadigan dalillarga asoslangan bashoratlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tomorrow morning ___1___ be busy for everyone in our office. The new manager ___2___ ___3___ arrive at 9 AM because he confirmed his flight yesterday. Our team ___4___ ___5___ prepare a presentation for him - we have been working on it all week. I think he ___6___ be impressed with our work because we put a lot of effort into it. The secretary ___7___ ___8___ book a conference room for the meeting since she made the reservation on Monday. During lunch break, we ___9___ probably go to the new restaurant downtown to celebrate. Look at Jim's desk - it's covered with papers! He ___10___ ___11___ work late tonight to finish everything. The weather forecast says it ___12___ ___13___ be rainy tomorrow, so I ___14___ take my umbrella with me. After the presentation, the manager ___15___ give us feedback about our project. Sarah ___16___ ___17___ leave early tomorrow because she has a doctor's appointment at 4 PM. I believe this meeting ___18___ be very important for our company's future. Everyone ___19___ definitely remember this day for a long time.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "going"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "going"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "going"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "going"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will"
+                },
+                {
+                    "blank": "16",
+                    "answer": "is"
+                },
+                {
+                    "blank": "17",
+                    "answer": "going"
+                },
+                {
+                    "blank": "18",
+                    "answer": "will"
+                },
+                {
+                    "blank": "19",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This text shows the contrast between 'will' for predictions and beliefs, and 'be going to' for scheduled events and predictions based on observable evidence.",
+                "ru": "Этот текст показывает контраст между 'will' для предсказаний и убеждений, и 'be going to' для запланированных событий и предсказаний, основанных на наблюдаемых доказательствах.",
+                "uz": "Ushbu matn bashorat va e'tiqodlar uchun 'will' va rejalashtirilgan voqealar hamda kuzatiladigan dalillarga asoslangan bashoratlar uchun 'be going to' orasidagi farqni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Next month ___1___ ___2___ be full of exciting events for our school. The annual science fair ___3___ take place on the 15th, and all students ___4___ ___5___ participate with their projects. My classmate Tom ___6___ ___7___ present his robot project because he has been building it for three months. The judges ___8___ probably be very impressed with all the creative ideas from students. Our teacher ___9___ ___10___ organize extra practice sessions next week to help everyone prepare. I think my chemistry experiment ___11___ work perfectly because I tested it many times already. The school newspaper ___12___ ___13___ publish a special edition about the science fair - the editor announced this yesterday. Look at those students in the laboratory - they ___14___ ___15___ work all night to finish their experiments! The principal ___16___ give awards to the best three projects during the closing ceremony. After the event, we ___17___ ___18___ celebrate at the school cafeteria with a special lunch. I'm sure this science fair ___19___ be the most successful one in our school's history. Everyone ___20___ remember it as an amazing experience.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "going"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "going"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "going"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "going"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "going"
+                },
+                {
+                    "blank": "14",
+                    "answer": "are"
+                },
+                {
+                    "blank": "15",
+                    "answer": "going"
+                },
+                {
+                    "blank": "16",
+                    "answer": "will"
+                },
+                {
+                    "blank": "17",
+                    "answer": "are"
+                },
+                {
+                    "blank": "18",
+                    "answer": "going"
+                },
+                {
+                    "blank": "19",
+                    "answer": "will"
+                },
+                {
+                    "blank": "20",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise reinforces the distinction between 'will' for future predictions, beliefs, and formal events, and 'be going to' for pre-arranged plans and immediate predictions based on current evidence.",
+                "ru": "Это упражнение закрепляет различие между 'will' для будущих предсказаний, убеждений и официальных событий, и 'be going to' для заранее организованных планов и немедленных предсказаний, основанных на текущих доказательствах.",
+                "uz": "Ushbu mashq kelajak bashoratlari, e'tiqodlar va rasmiy voqealar uchun 'will' va oldindan tashkil qilingan rejalar hamda joriy dalillarga asoslangan zudlik bilan bashoratlar uchun 'be going to' orasidagi farqni mustahkamlaydi."
+            }
+        }
+    ]
+}

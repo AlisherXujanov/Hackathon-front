@@ -1,0 +1,561 @@
+{
+    "id": "A1_WILL_AND_SHALL_FUTURE_BASIC_FUTURE_WITH_WILL",
+    "title": "Will and Shall (Future) - Basic future with will",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I will go to the park tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "I will goes to the park tomorrow."
+                },
+                {
+                    "answer": "I will going to the park tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure for the future simple with 'will' is 'will' + base form of the verb. 'Goes' and 'going' are incorrect forms after 'will'.",
+                "ru": "Правильная структура для простого будущего времени с 'will' - это 'will' + начальная форма глагола. 'Goes' и 'going' - неправильные формы после 'will'.",
+                "uz": "'Will' bilan oddiy kelasi zamonning to'g'ri tuzilishi 'will' + fe'lning asosiy shaklidir. 'Goes' va 'going' 'will'dan keyin noto'g'ri shakllardir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He will not comes to the party.",
+                    "correct": false
+                },
+                {
+                    "answer": "He will not come to the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "He will not came to the party.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "After 'will not' (or 'won't'), you must use the base form of the verb. 'Comes' and 'came' are incorrect.",
+                "ru": "После 'will not' (или 'won't') вы должны использовать начальную форму глагола. 'Comes' и 'came' неправильные.",
+                "uz": "'Will not' (yoki 'won't') dan keyin fe'lning asosiy shaklini ishlatishingiz kerak. 'Comes' va 'came' noto'g'ri."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We will travels to Italy next year.",
+                    "correct": false
+                },
+                {
+                    "answer": "We will travel to Italy next year.",
+                    "correct": true
+                },
+                {
+                    "answer": "We traveling to Italy next year.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The simple future tense with 'will' requires the base form of the verb. 'Travels' is present simple and 'traveling' is a continuous form, both are incorrect here.",
+                "ru": "Простое будущее время с 'will' fe'lning asosiy shaklini talab qiladi. 'Travels' hozirgi oddiy zamon, 'traveling' esa davomiy shakl bo'lib, ikkalasi ham bu yerda noto'g'ri.",
+                "uz": "'Will' bilan oddiy kelasi zamon 'will' + fe'lning asosiy shaklini talab qiladi. 'Travels' hozirgi oddiy zamon, 'traveling' esa davomiy shakl bo'lib, ikkalasi ham bu yerda noto'g'ri."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She will be a doctor one day.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will is a doctor one day.",
+                    "correct": false
+                },
+                {
+                    "answer": "She will are a doctor one day.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "After 'will', we use the base form of the verb 'to be', which is 'be'. 'Is' and 'are' are not base forms.",
+                "ru": "После 'will' biz 'to be' fe'lining asosiy shakli bo'lgan 'be' dan foydalanamiz. 'Is' va 'are' asosiy shakllar emas.",
+                "uz": "'Will' dan keyin 'to be' fe'lining asosiy shakli bo'lgan 'be' ishlatiladi. 'Is' va 'are' asosiy shakl emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Will you help me with my homework?",
+                    "correct": true
+                },
+                {
+                    "answer": "Will you helps me with my homework?",
+                    "correct": false
+                },
+                {
+                    "answer": "Will you helped me with my homework?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In questions with 'will', the structure is 'Will' + subject + base form of the verb. 'Helps' and 'helped' are incorrect forms.",
+                "ru": "'Will' bilan savollarda tuzilish 'Will' + ega + fe'lning asosiy shakli. 'Helps' va 'helped' noto'g'ri shakllardir.",
+                "uz": "'Will' bilan savollarda tuzilish 'Will' + ega + fe'lning asosiy shaklidir. 'Helps' va 'helped' noto'g'ri shakllardir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The sun will shining soon.",
+                    "correct": false
+                },
+                {
+                    "answer": "The sun will shines soon.",
+                    "correct": false
+                },
+                {
+                    "answer": "The sun will shine soon.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct verb form after 'will' is the base form, 'shine'. 'Shining' and 'shines' are incorrect.",
+                "ru": "'Will' dan keyin fe'lning to'g'ri shakli asosiy shakli, ya'ni 'shine'. 'Shining' va 'shines' noto'g'ri.",
+                "uz": "'Will'dan keyin fe'lning to'g'ri shakli 'shine' asosiy shaklidir. 'Shining' va 'shines' noto'g'ri."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They will not came to school tomorrow.",
+                    "correct": false
+                },
+                {
+                    "answer": "They will not comes to school tomorrow.",
+                    "correct": false
+                },
+                {
+                    "answer": "They will not come to school tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For negative sentences with 'will', the structure is 'will not' + base form of the verb. 'Came' and 'comes' are incorrect.",
+                "ru": "'Will' bilan salbiy gaplar uchun tuzilish 'will not' + fe'lning asosiy shaklidir. 'Came' va 'comes' noto'g'ri.",
+                "uz": "'Will' bilan inkor gaplar uchun tuzilish 'will not' + fe'lning asosiy shaklidir. 'Came' va 'comes' noto'g'ri."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What will you do tomorrow?",
+                    "correct": true
+                },
+                {
+                    "answer": "What will you doing tomorrow?",
+                    "correct": false
+                },
+                {
+                    "answer": "What you will do tomorrow?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Question structure with a wh-word is 'wh-word' + 'will' + subject + base form of the verb. 'Doing' is incorrect and 'you will' is the word order for a statement, not a question.",
+                "ru": "Wh-so'z bilan savol tuzilishi 'wh-so'z' + 'will' + ega + fe'lning asosiy shaklidir. 'Doing' noto'g'ri va 'you will' gapning so'z tartibi, savolning emas.",
+                "uz": "Wh-so'z bilan savol tuzilishi 'wh-so'z' + 'will' + ega + fe'lning asosiy shaklidir. 'Doing' noto'g'ri va 'you will' gapning so'z tartibi, savolning emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They will to finish the project next week.",
+                    "correct": false
+                },
+                {
+                    "answer": "They will finish the project next week.",
+                    "correct": true
+                },
+                {
+                    "answer": "They will finished the project next week.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct form is 'will' + base form of the verb, without 'to'. 'Finished' is the past form and is incorrect here.",
+                "ru": "To'g'ri shakl 'will' + fe'lning asosiy shakli, 'to'siz. 'Finished' o'tgan zamon shakli bo'lib, bu yerda noto'g'ri.",
+                "uz": "To'g'ri shakl 'will' + fe'lning asosiy shaklidir, 'to'siz. 'Finished' o'tgan zamon shakli bo'lib, bu yerda noto'g'ri."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I think it will rains tomorrow.",
+                    "correct": false
+                },
+                {
+                    "answer": "I think it will raining tomorrow.",
+                    "correct": false
+                },
+                {
+                    "answer": "I think it will rain tomorrow.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb form after 'will' must be the base form. 'Rains' and 'raining' are incorrect.",
+                "ru": "'Will' dan keyin fe'lning shakli asosiy shakl bo'lishi kerak. 'Rains' va 'raining' noto'g'ri.",
+                "uz": "'Will'dan keyin fe'lning shakli asosiy shakl bo'lishi kerak. 'Rains' va 'raining' noto'g'ri."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the verb in parentheses: She ___ (buy) a new car next month.",
+                "ru": "Дополните предложение правильной формой глагола в скобках: She ___ (buy) a new car next month.",
+                "uz": "Qavslardagi fe'lning to'g'ri shakli bilan gapni to'ldiring: She ___ (buy) a new car next month."
+            },
+            "options": [
+                {
+                    "answer": "will buy",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To express a future action, we use 'will' plus the base form of the verb, which is 'buy'.",
+                "ru": "Kelasi zamon harakatini ifodalash uchun biz 'will' + fe'lning asosiy shaklidan foydalanamiz, bu 'buy'dir.",
+                "uz": "Kelasi zamon harakatini ifodalash uchun biz 'will' + 'buy' fe'lning asosiy shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ not win the game tomorrow.",
+                "ru": "Дополните предложение: They ___ not win the game tomorrow.",
+                "uz": "Gapni to'ldiring: They ___ not win the game tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is the auxiliary verb used to form the future tense. 'Will not' is the negative form.",
+                "ru": "'Will' kelasi zamonni hosil qilish uchun ishlatiladigan yordamchi fe'ldir. 'Will not' inkor shaklidir.",
+                "uz": "'Will' kelasi zamonni hosil qilish uchun ishlatiladigan yordamchi fe'ldir. 'Will not' inkor shaklidir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ you help me with this box?",
+                "ru": "Дополните вопрос: ___ you help me with this box?",
+                "uz": "Savolni to'ldiring: ___ you help me with this box?"
+            },
+            "options": [
+                {
+                    "answer": "Will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "In a 'yes/no' question for the future, 'Will' is placed at the beginning of the sentence.",
+                "ru": "Kelasi zamon uchun 'ha/yo'q' savolida 'Will' gapning boshiga qo'yiladi.",
+                "uz": "Kelasi zamon uchun 'ha/yo'q' savolida 'Will' gapning boshiga qo'yiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (visit) our grandparents next weekend.",
+                "ru": "Дополните предложение: We ___ (visit) our grandparents next weekend.",
+                "uz": "Gapni to'ldiring: We ___ (visit) our grandparents next weekend."
+            },
+            "options": [
+                {
+                    "answer": "will visit",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The future simple tense is formed with 'will' and the base form of the verb, 'visit'.",
+                "ru": "Oddiy kelasi zamon 'will' va 'visit' fe'lining asosiy shakli bilan hosil qilinadi.",
+                "uz": "Oddiy kelasi zamon 'will' va 'visit' fe'lining asosiy shakli bilan hosil qilinadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: It ___ not be cold tomorrow.",
+                "ru": "Дополните предложение: It ___ not be cold tomorrow.",
+                "uz": "Gapni to'ldiring: It ___ not be cold tomorrow."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a negative statement about the future, we use 'will not' or its contraction 'won't'.",
+                "ru": "Kelasi zamon haqidagi inkor gapni tuzish uchun 'will not' yoki uning qisqartmasi 'won't' dan foydalanamiz.",
+                "uz": "Kelasi zamon haqida inkor gapni tuzish uchun 'will not' yoki uning qisqartmasi 'won't' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I think she ___ pass the exam.",
+                "ru": "Дополните предложение: I think she ___ pass the exam.",
+                "uz": "Gapni to'ldiring: I think she ___ pass the exam."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is used to express a future prediction or opinion, often after verbs like 'think'.",
+                "ru": "'Will' kelajakdagi bashorat yoki fikrni ifodalash uchun ishlatiladi, ko'pincha 'think' kabi fe'llardan keyin.",
+                "uz": "'Will' kelajakdagi bashorat yoki fikrni ifodalash uchun ishlatiladi, ko'pincha 'think' kabi fe'llardan keyin."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ not be home for dinner.",
+                "ru": "Дополните предложение: We ___ not be home for dinner.",
+                "uz": "Gapni to'ldiring: We ___ not be home for dinner."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This is a negative sentence in the future tense, requiring 'will not' or 'won't'.",
+                "ru": "Bu kelasi zamondagi inkor gap bo'lib, 'will not' yoki 'won't' talab qilinadi.",
+                "uz": "Bu kelasi zamondagi inkor gap bo'lib, 'will not' yoki 'won't' talab qilinadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ they visit us soon?",
+                "ru": "Дополните вопрос: ___ they visit us soon?",
+                "uz": "Savolni to'ldiring: ___ they visit us soon?"
+            },
+            "options": [
+                {
+                    "answer": "Will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a question in the future tense, 'Will' is placed before the subject.",
+                "ru": "Kelasi zamonda savol tuzish uchun 'Will' egadan oldin qo'yiladi.",
+                "uz": "Kelasi zamonda savol tuzish uchun 'Will' egadan oldin qo'yiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (run) in the race next week.",
+                "ru": "Дополните предложение: He ___ (run) in the race next week.",
+                "uz": "Gapni to'ldiring: He ___ (run) in the race next week."
+            },
+            "options": [
+                {
+                    "answer": "will run",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The future simple tense is formed with 'will' plus the base form of the verb, 'run'.",
+                "ru": "Oddiy kelasi zamon 'will' va 'run' fe'lining asosiy shakli bilan hosil qilinadi.",
+                "uz": "Oddiy kelasi zamon 'will' va 'run' fe'lining asosiy shakli bilan hosil qilinadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ probably be late.",
+                "ru": "Дополните предложение: We ___ probably be late.",
+                "uz": "Gapni to'ldiring: We ___ probably be late."
+            },
+            "options": [
+                {
+                    "answer": "will",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Will' is used to express a future possibility, often with adverbs like 'probably'.",
+                "ru": "'Will' kelajakdagi ehtimollikni ifodalash uchun ishlatiladi, ko'pincha 'probably' kabi ravishlar bilan.",
+                "uz": "'Will' kelajakdagi ehtimollikni ifodalash uchun ishlatiladi, ko'pincha 'probably' kabi ravishlar bilan."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Tomorrow ___1___ be a busy day for my family. My brother, Tom, ___2___ a test in the morning. He ___3___ study very hard tonight, so he ___4___ not have much sleep. My sister, Lily, ___5___ a new dress for a party. She ___6___ go to the shopping mall with our mom. I ___7___ have to help my dad with the gardening. We ___8___ plant new flowers and vegetables. I think it ___9___ be hot, so we ___10___ finish quickly. We all hope we ___11___ have fun and finish our tasks without any problems. My dad said he ___12___ make a big dinner for us all when we are done. I think he ___13___ cook my favorite food, which is pizza. My mom said she ___14___ help him. What ___15___ you do tomorrow?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will study"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will buy"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will plant"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will make"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will"
+                }
+            ],
+            "explanation": {
+                "en": "All the verbs in this text describe future actions or predictions, so the simple future tense with 'will' is required. Remember to use 'will' plus the base form of the main verb for positive statements and questions, and 'will not' or 'won't' for negative statements.",
+                "ru": "Bu matndagi barcha fe'llar kelajakdagi harakatlar yoki bashoratlarni tasvirlaydi, shuning uchun 'will' bilan oddiy kelasi zamon talab qilinadi. E'tibor bering, ijobiy gaplar va savollar uchun 'will' + asosiy fe'l shaklidan, inkor gaplar uchun esa 'will not' yoki 'won't' dan foydalaniladi.",
+                "uz": "Bu matndagi barcha fe'llar kelajakdagi harakatlar yoki bashoratlarni tasvirlaydi, shuning uchun 'will' bilan oddiy kelasi zamon talab qilinadi. Ijobiy gaplar va savollar uchun 'will' + asosiy fe'l shaklidan, inkor gaplar uchun esa 'will not' yoki 'won't' dan foydalaniladi."
+            }
+        }
+    ]
+}

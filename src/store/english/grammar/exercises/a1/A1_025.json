@@ -1,0 +1,640 @@
+{
+    "id": "A1_THIS_THAT_THESE_THOSE_DEMONSTRATIVE_PRONOUNS_AND_ADJECTIVES",
+    "title": "This, that, these, those - Demonstrative pronouns and adjectives",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This are my books.",
+                    "correct": false
+                },
+                {
+                    "answer": "These is my books.",
+                    "correct": false
+                },
+                {
+                    "answer": "These are my books.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For plural nouns like 'books,' we use the plural demonstrative 'these' for things that are near.",
+                "ru": "Для существительных во множественном числе, таких как 'books', мы используем указательное местоимение 'these' для предметов, которые находятся рядом.",
+                "uz": "'Books' kabi ko'plikdagi otlar uchun yaqin turgan narsalar uchun ko'plik ko'rsatuvchi 'these' so'zidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "That is my car.",
+                    "correct": true
+                },
+                {
+                    "answer": "That are my car.",
+                    "correct": false
+                },
+                {
+                    "answer": "Those is my car.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For a singular noun like 'car,' we use the singular demonstrative 'that' for things that are far away.",
+                "ru": "Для существительного в единственном числе, такого как 'car', мы используем указательное местоимение 'that' для предметов, которые находятся далеко.",
+                "uz": "'Car' kabi birlikdagi ot uchun uzoqdagi narsalar uchun birlik ko'rsatuvchi 'that' so'zidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Those is a nice house.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is a nice house.",
+                    "correct": true
+                },
+                {
+                    "answer": "These are a nice house.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For a singular noun like 'house,' we use the singular demonstrative 'this' for things that are near.",
+                "ru": "Для существительного в единственном числе, такого как 'house', мы используем указательное местоимение 'this' для предметов, которые находятся рядом.",
+                "uz": "'House' kabi birlikdagi ot uchun yaqin turgan narsalar uchun birlik ko'rsatuvchi 'this' so'zidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Look at that apples!",
+                    "correct": false
+                },
+                {
+                    "answer": "Look at those apple!",
+                    "correct": false
+                },
+                {
+                    "answer": "Look at those apples!",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For plural nouns like 'apples,' we use the plural demonstrative 'those' for things that are far away.",
+                "ru": "Для существительных во множественном числе, таких как 'apples', мы используем указательное местоимение 'those' для предметов, которые находятся далеко.",
+                "uz": "'Apples' kabi ko'plikdagi otlar uchun uzoqdagi narsalar uchun ko'plik ko'rsatuvchi 'those' so'zidan foydalanamiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I like this shoes.",
+                    "correct": false
+                },
+                {
+                    "answer": "I like these shoes.",
+                    "correct": true
+                },
+                {
+                    "answer": "I like this shoe.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'shoes' is plural, so it requires the plural demonstrative 'these.'",
+                "ru": "Существительное 'shoes' во множественном числе, поэтому оно требует указательное местоимение 'these'.",
+                "uz": "'Shoes' oti ko'plikda, shuning uchun u 'these' ko'rsatuvchi so'zini talab qiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What is that noise?",
+                    "correct": true
+                },
+                {
+                    "answer": "What are that noise?",
+                    "correct": false
+                },
+                {
+                    "answer": "What are those noise?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'noise' is singular, so it requires the singular demonstrative 'that' and the verb 'is'.",
+                "ru": "Существительное 'noise' в единственном числе, поэтому оно требует указательное местоимение 'that' и глагол 'is'.",
+                "uz": "'Noise' oti birlikda, shuning uchun u 'that' ko'rsatuvchi so'zini va 'is' fe'lini talab qiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He wants those ball.",
+                    "correct": false
+                },
+                {
+                    "answer": "He wants that ball.",
+                    "correct": true
+                },
+                {
+                    "answer": "He wants these ball.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'ball' is singular, so it requires a singular demonstrative like 'that.'",
+                "ru": "Существительное 'ball' в единственном числе, поэтому оно требует указательное местоимение в единственном числе, такое как 'that'.",
+                "uz": "'Ball' oti birlikda, shuning uchun u 'that' kabi birlikdagi ko'rsatuvchi so'zni talab qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "These flower is beautiful.",
+                    "correct": false
+                },
+                {
+                    "answer": "This flower is beautiful.",
+                    "correct": true
+                },
+                {
+                    "answer": "This flowers is beautiful.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'flower' is singular, so it needs the singular demonstrative 'this.' The verb 'is' also agrees with the singular noun.",
+                "ru": "Существительное 'flower' в единственном числе, поэтому ему нужно указательное местоимение 'this'. Глагол 'is' также согласуется с существительным в единственном числе.",
+                "uz": "'Flower' oti birlikda, shuning uchun u 'this' birlik ko'rsatuvchi so'zini talab qiladi. 'Is' fe'li ham birlikdagi otga mos keladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I like this kind of movie.",
+                    "correct": true
+                },
+                {
+                    "answer": "I like these kind of movie.",
+                    "correct": false
+                },
+                {
+                    "answer": "I like those kind of movie.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The singular demonstrative 'this' is used to refer to the singular noun 'kind.'",
+                "ru": "Указательное местоимение 'this' в единственном числе используется для обозначения существительного 'kind' в единственном числе.",
+                "uz": "Birlikdagi 'this' ko'rsatuvchi so'zi birlikdagi 'kind' otiga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He loves these dogs.",
+                    "correct": true
+                },
+                {
+                    "answer": "He loves that dogs.",
+                    "correct": false
+                },
+                {
+                    "answer": "He loves this dogs.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'dogs' is plural, so the plural demonstrative 'these' is correct.",
+                "ru": "Существительное 'dogs' во множественном числе, поэтому указательное местоимение 'these' является правильным.",
+                "uz": "'Dogs' oti ko'plikda, shuning uchun 'these' ko'rsatuvchi so'zi to'g'ri."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct demonstrative: Please take ___ book.",
+                "ru": "Дополните предложение правильным указательным местоимением: Please take ___ book.",
+                "uz": "Gapni to'g'ri ko'rsatuvchi so'z bilan to'ldiring: Please take ___ book."
+            },
+            "options": [
+                {
+                    "answer": "this/that",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'book' is singular, so it requires a singular demonstrative like 'this' or 'that.' Both are grammatically correct without further context.",
+                "ru": "Существительное 'book' в единственном числе, поэтому оно требует указательного местоимения в единственном числе, такого как 'this' или 'that'. Оба варианта грамматически верны без дополнительного контекста.",
+                "uz": "'Book' oti birlikda, shuning uchun u 'this' yoki 'that' kabi birlikdagi ko'rsatuvchi so'zni talab qiladi. Qo'shimcha kontekstsiz ikkalasi ham grammatik jihatdan to'g'ri."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ are my friends.",
+                "ru": "Дополните предложение: ___ are my friends.",
+                "uz": "Gapni to'ldiring: ___ are my friends."
+            },
+            "options": [
+                {
+                    "answer": "These/Those",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'are' and the plural noun 'friends' require a plural demonstrative. Both 'these' and 'those' are correct.",
+                "ru": "Глагол 'are' и существительное 'friends' во множественном числе требуют указательного местоимения во множественном числе. И 'these', и 'those' являются правильными.",
+                "uz": "'Are' fe'li va ko'plikdagi 'friends' oti ko'plikdagi ko'rsatuvchi so'zni talab qiladi. 'These' va 'those' ikkalasi ham to'g'ri."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Look at ___ birds!",
+                "ru": "Дополните предложение: Look at ___ birds!",
+                "uz": "Gapni to'ldiring: Look at ___ birds!"
+            },
+            "options": [
+                {
+                    "answer": "these/those",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The plural noun 'birds' requires a plural demonstrative. Both 'these' and 'those' are acceptable.",
+                "ru": "Существительное 'birds' во множественном числе требует указательного местоимения во множественном числе. И 'these', и 'those' являются приемлемыми.",
+                "uz": "Ko'plikdagi 'birds' oti ko'plikdagi ko'rsatuvchi so'zni talab qiladi. 'These' va 'those' ikkalasi ham qabul qilinadi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ dog is very cute.",
+                "ru": "Дополните предложение: ___ dog is very cute.",
+                "uz": "Gapni to'ldiring: ___ dog is very cute."
+            },
+            "options": [
+                {
+                    "answer": "This/That",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The singular noun 'dog' and verb 'is' require a singular demonstrative, 'this' or 'that.'",
+                "ru": "Существительное 'dog' в единственном числе и глагол 'is' требуют указательного местоимения в единственном числе, 'this' или 'that'.",
+                "uz": "Birlikdagi 'dog' oti va 'is' fe'li 'this' yoki 'that' kabi birlikdagi ko'rsatuvchi so'zni talab qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I want to buy ___ jacket.",
+                "ru": "Дополните предложение: I want to buy ___ jacket.",
+                "uz": "Gapni to'ldiring: I want to buy ___ jacket."
+            },
+            "options": [
+                {
+                    "answer": "this/that",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'jacket' is singular, so we use a singular demonstrative.",
+                "ru": "Существительное 'jacket' в единственном числе, поэтому мы используем указательное местоимение в единственном числе.",
+                "uz": "'Jacket' oti birlikda, shuning uchun biz birlikdagi ko'rsatuvchi so'zdan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Who are ___ people over there?",
+                "ru": "Дополните предложение: Who are ___ people over there?",
+                "uz": "Gapni to'ldiring: Who are ___ people over there?"
+            },
+            "options": [
+                {
+                    "answer": "those",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'over there' indicates that the people are far away, so 'those' is the correct demonstrative.",
+                "ru": "Фраза 'over there' (вон там) указывает на то, что люди находятся далеко, поэтому 'those' — правильное указательное местоимение.",
+                "uz": "'Over there' iborasi odamlarning uzoqda ekanligini bildiradi, shuning uchun 'those' to'g'ri ko'rsatuvchi so'zdir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ shoes are too small.",
+                "ru": "Дополните предложение: ___ shoes are too small.",
+                "uz": "Gapni to'ldiring: ___ shoes are too small."
+            },
+            "options": [
+                {
+                    "answer": "These/Those",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'shoes' is plural, so it must be paired with a plural demonstrative 'these' or 'those.'",
+                "ru": "Существительное 'shoes' во множественном числе, поэтому оно должно сочетаться с указательным местоимением во множественном числе 'these' или 'those'.",
+                "uz": "'Shoes' oti ko'plikda, shuning uchun u 'these' yoki 'those' ko'plik ko'rsatuvchi so'zlar bilan birga kelishi kerak."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Can I have ___ sandwich, please?",
+                "ru": "Дополните предложение: Can I have ___ sandwich, please?",
+                "uz": "Gapni to'ldiring: Can I have ___ sandwich, please?"
+            },
+            "options": [
+                {
+                    "answer": "this/that",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The singular noun 'sandwich' requires a singular demonstrative 'this' or 'that.'",
+                "ru": "Существительное 'sandwich' в единственном числе требует указательного местоимения в единственном числе, 'this' или 'that'.",
+                "uz": "Birlikdagi 'sandwich' oti 'this' yoki 'that' birlik ko'rsatuvchi so'zini talab qiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I don't want ___ old toys.",
+                "ru": "Дополните предложение: I don't want ___ old toys.",
+                "uz": "Gapni to'ldiring: I don't want ___ old toys."
+            },
+            "options": [
+                {
+                    "answer": "these/those",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'toys' is plural, so it requires the plural demonstrative 'these' or 'those.'",
+                "ru": "Существительное 'toys' во множественном числе, поэтому оно требует указательное местоимение во множественном числе, 'these' или 'those'.",
+                "uz": "'Toys' oti ko'plikda, shuning uchun u ko'plik ko'rsatuvchi so'z 'these' yoki 'those' ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We need to clean ___ room.",
+                "ru": "Дополните предложение: We need to clean ___ room.",
+                "uz": "Gapni to'ldiring: We need to clean ___ room."
+            },
+            "options": [
+                {
+                    "answer": "this/that",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The singular noun 'room' requires a singular demonstrative.",
+                "ru": "Существительное 'room' в единственном числе требует указательного местоимения в единственном числе.",
+                "uz": "Birlikdagi 'room' oti birlik ko'rsatuvchi so'zni talab qiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hi, Tom! Look at ___1___ old car. ___2___ is my favorite. And ___3___ trees over there are very tall. My parents bought ___4___ house on the corner. Do you see ___5___ big red door? I also have some plants. ___6___ plants here are my favorite. ___7___ flowers in the vase are from my garden. I also have a big dog. ___8___ is my dog, its name is Max. And ___9___ cats sitting on the wall are my neighbors' cats. I love ___10___ garden a lot. ___11___ trees over there give us a lot of shade. ___12___ is the best garden in the neighborhood. Look, ___13___ house over there has a blue roof. I think ___14___ is very pretty. And what about ___15___ flowers on your table? They are beautiful.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "that"
+                },
+                {
+                    "blank": "2",
+                    "answer": "It"
+                },
+                {
+                    "blank": "3",
+                    "answer": "those"
+                },
+                {
+                    "blank": "4",
+                    "answer": "that"
+                },
+                {
+                    "blank": "5",
+                    "answer": "that"
+                },
+                {
+                    "blank": "6",
+                    "answer": "These"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Those"
+                },
+                {
+                    "blank": "8",
+                    "answer": "This"
+                },
+                {
+                    "blank": "9",
+                    "answer": "those"
+                },
+                {
+                    "blank": "10",
+                    "answer": "this"
+                },
+                {
+                    "blank": "11",
+                    "answer": "Those"
+                },
+                {
+                    "blank": "12",
+                    "answer": "This"
+                },
+                {
+                    "blank": "13",
+                    "answer": "that"
+                },
+                {
+                    "blank": "14",
+                    "answer": "it"
+                },
+                {
+                    "blank": "15",
+                    "answer": "those"
+                }
+            ],
+            "explanation": {
+                "en": "The correct use of 'this/that/these/those' depends on whether the noun is singular or plural and its distance. 'This' and 'these' are for near objects, while 'that' and 'those' are for far ones. 'It' is a pronoun used for a single object. 'Those' is used with plural nouns that are far away, and 'that' is used with a singular noun that is far away.",
+                "ru": "Правильное использование 'this/that/these/those' зависит от того, является ли существительное единственным или множественным числом и его расстояния. 'This' и 'these' используются для близких предметов, а 'that' и 'those' — для далеких. 'It' — это местоимение, используемое для одного предмета. 'Those' используется с существительными во множественном числе, которые находятся далеко, а 'that' — с существительным в единственном числе, которое находится далеко.",
+                "uz": "'This/that/these/those' so'zlarining to'g'ri ishlatilishi otning birlik yoki ko'plikda ekanligi va uning masofasiga bog'liq. 'This' va 'these' yaqin narsalar uchun, 'that' va 'those' esa uzoqdagi narsalar uchun ishlatiladi. 'It' bitta narsa uchun ishlatiladigan olmoshdir. 'Those' uzoqdagi ko'plik otlar bilan, 'that' esa uzoqdagi birlik otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My new school is very big. ___1___ is a very modern building. ___2___ big window over there lets in a lot of light. Look at ___3___ students walking in the hallway; they are my classmates. I like ___4___ new school a lot. ___5___ teachers are also very friendly. ___6___ is my friend, Maria. She is talking to ___7___ boy with the red backpack. ___8___ is also in my class. ___9___ books on the table are for our English lesson. Can you please give me ___10___ book? I also need ___11___ notebook. I like to study. ___12___ is my favorite hobby. What is your favorite hobby? Is ___13___ one of these? I see you have ___14___ new pencils. I also have ___15___ new pens.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "It"
+                },
+                {
+                    "blank": "2",
+                    "answer": "That"
+                },
+                {
+                    "blank": "3",
+                    "answer": "those"
+                },
+                {
+                    "blank": "4",
+                    "answer": "this"
+                },
+                {
+                    "blank": "5",
+                    "answer": "These"
+                },
+                {
+                    "blank": "6",
+                    "answer": "This"
+                },
+                {
+                    "blank": "7",
+                    "answer": "that"
+                },
+                {
+                    "blank": "8",
+                    "answer": "He"
+                },
+                {
+                    "blank": "9",
+                    "answer": "These"
+                },
+                {
+                    "blank": "10",
+                    "answer": "this/that"
+                },
+                {
+                    "blank": "11",
+                    "answer": "this/that"
+                },
+                {
+                    "blank": "12",
+                    "answer": "It"
+                },
+                {
+                    "blank": "13",
+                    "answer": "it"
+                },
+                {
+                    "blank": "14",
+                    "answer": "these"
+                },
+                {
+                    "blank": "15",
+                    "answer": "these"
+                }
+            ],
+            "explanation": {
+                "en": "The correct demonstrative depends on the noun's number and implied distance. 'This' and 'these' are for near items, 'that' and 'those' for far items. 'It' and 'he' are pronouns used in place of nouns.",
+                "ru": "Правильное указательное местоимение зависит от числа существительного и подразумеваемого расстояния. 'This' и 'these' используются для близких предметов, 'that' и 'those' — для далеких. 'It' и 'he' — это местоимения, используемые вместо существительных.",
+                "uz": "To'g'ri ko'rsatuvchi so'z otning soniga va taxminiy masofaga bog'liq. 'This' va 'these' yaqin narsalar uchun, 'that' va 'those' esa uzoq narsalar uchun ishlatiladi. 'It' va 'he' otlar o'rniga ishlatiladigan olmoshlardir."
+            }
+        }
+    ]
+}

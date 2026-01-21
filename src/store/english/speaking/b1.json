@@ -1,0 +1,106 @@
+{
+  "topics": [
+    {
+      "id": "technology_communication",
+      "title": "Technology and Communication",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Technology and communication",
+        "instructions": "I'd like to ask you some questions about technology and how you communicate.",
+        "questions": [
+          "How often do you use your mobile phone?",
+          "What do you use your phone for mostly?",
+          "Do you prefer to communicate by phone or text message?",
+          "How has technology changed the way people communicate?",
+          "Do you think people spend too much time on their phones?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a piece of technology",
+        "cueCard": {
+          "title": "Describe a piece of technology that is important to you",
+          "description": "You should say:",
+          "points": [
+            "What this technology is",
+            "How long you have had it",
+            "How you use it in your daily life",
+            "And explain why it is important to you"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Technology and society",
+        "instructions": "Now let's discuss the role of technology in society.",
+        "questions": [
+          "How do you think technology has changed people's lives?",
+          "What are the advantages and disadvantages of modern technology?",
+          "Do you think children should learn to use technology from an early age?",
+          "How might technology change in the future?",
+          "Are there any negative effects of people using technology too much?",
+          "Should there be limits on how much technology children use?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about my laptop computer, which has become incredibly important to me over the past few years. I bought this laptop about three years ago when I started university, and since then it has become an essential part of my daily routine. I use it for many different purposes throughout the day. Primarily, I use it for my studies - writing essays, researching topics online, and attending virtual classes. I also use it for entertainment, such as watching movies, listening to music, and staying in touch with friends through social media and video calls. Additionally, I use it for practical tasks like online banking, shopping, and planning trips. This laptop is extremely important to me because it connects me to almost everything I need in my life. Without it, I wouldn't be able to complete my university work effectively, and I would feel quite isolated from my friends and family who live far away. It's also given me access to endless learning opportunities through online courses and educational videos. In many ways, my laptop has become like a window to the world, allowing me to access information, entertainment, and relationships that would otherwise be difficult to maintain."
+      }
+    },
+    {
+      "id": "work_education",
+      "title": "Work and Education",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Work and studies",
+        "instructions": "Let's talk about your work or studies.",
+        "questions": [
+          "Are you currently working or studying?",
+          "What do you enjoy most about your work/studies?",
+          "What skills are important for your job/field of study?",
+          "How do you usually prepare for exams or important work tasks?",
+          "What are your career goals for the future?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a skill you would like to learn",
+        "cueCard": {
+          "title": "Describe a skill you would like to learn",
+          "description": "You should say:",
+          "points": [
+            "What skill this is",
+            "Why you want to learn it",
+            "How you would go about learning it",
+            "And explain how this skill would benefit you"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Education and skills development",
+        "instructions": "Let's discuss education and learning new skills.",
+        "questions": [
+          "Why is it important for people to continue learning throughout their lives?",
+          "What's the best way to learn a new skill?",
+          "Do you think practical skills or academic knowledge is more important?",
+          "How has education changed in recent years?",
+          "Should employers provide training for their workers?",
+          "What role should governments play in education?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

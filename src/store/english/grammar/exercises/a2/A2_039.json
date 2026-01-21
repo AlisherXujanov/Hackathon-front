@@ -1,0 +1,697 @@
+{
+    "id": "A2_PHRASAL_VERBS_TRANSITIVE_AND_INTRANSITIVE_SEPARABLE_AND_INSEPARABLE_INTRODUCTION",
+    "title": "Phrasal verbs (Transitive and intransitive, separable and inseparable) - Introduction",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She looked up it in the dictionary."
+                },
+                {
+                    "answer": "She looked it up in the dictionary.",
+                    "correct": true
+                },
+                {
+                    "answer": "She looked up in the dictionary it."
+                }
+            ],
+            "explanation": {
+                "en": "With separable phrasal verbs and pronoun objects, the pronoun must go between the verb and particle.",
+                "ru": "С разделяемыми фразовыми глаголами и местоимениями-дополнениями местоимение должно стоять между глаголом и частицей.",
+                "uz": "Ajraladigan frazeologik fe'llar va olmosh to'ldiruvchilarda olmosh fe'l va zarra o'rtasida turishi kerak."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The plane took off on time.",
+                    "correct": true
+                },
+                {
+                    "answer": "The plane took on time off."
+                },
+                {
+                    "answer": "The plane off took on time."
+                }
+            ],
+            "explanation": {
+                "en": "Intransitive phrasal verbs cannot be separated and take no object.",
+                "ru": "Непереходные фразовые глаголы нельзя разделять, и они не принимают дополнение.",
+                "uz": "O'tuvchi bo'lmagan frazeologik fe'llarni ajratib bo'lmaydi va ular to'ldiruvchi olmaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I ran into my teacher at the store.",
+                    "correct": true
+                },
+                {
+                    "answer": "I ran my teacher into at the store."
+                },
+                {
+                    "answer": "I ran into at the store my teacher."
+                }
+            ],
+            "explanation": {
+                "en": "Inseparable phrasal verbs cannot be divided and the object comes after the particle.",
+                "ru": "Неразделяемые фразовые глаголы нельзя разделить, и дополнение идет после частицы.",
+                "uz": "Ajralmaydigan frazeologik fe'llarni bo'lib bo'lmaydi va to'ldiruvchi zarra keyin keladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Please turn the music down."
+                },
+                {
+                    "answer": "Please turn down the music."
+                },
+                {
+                    "answer": "Please turn the music down.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both positions are correct with separable phrasal verbs when using noun objects.",
+                "ru": "Обе позиции правильны с разделяемыми фразовыми глаголами при использовании существительных как дополнений.",
+                "uz": "Ot to'ldiruvchilarda ajraladigan frazeologik fe'llar bilan ikkala pozitsiya ham to'g'ri."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She gets with her colleagues along well."
+                },
+                {
+                    "answer": "She gets along with her colleagues well.",
+                    "correct": true
+                },
+                {
+                    "answer": "She gets along well with her colleagues."
+                }
+            ],
+            "explanation": {
+                "en": "Inseparable phrasal verbs must keep the verb and particle together, followed by the object.",
+                "ru": "Неразделяемые фразовые глаголы должны держать глагол и частицу вместе, за которыми следует дополнение.",
+                "uz": "Ajralmaydigan frazeologik fe'llarda fe'l va zarra birga bo'lib, keyin to'ldiruvchi keladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The meeting was put off until next week.",
+                    "correct": true
+                },
+                {
+                    "answer": "The meeting was put until next week off."
+                },
+                {
+                    "answer": "The meeting was off put until next week."
+                }
+            ],
+            "explanation": {
+                "en": "In passive voice, separable phrasal verbs stay together with the particle following the verb.",
+                "ru": "В страдательном залоге разделяемые фразовые глаголы остаются вместе с частицей после глагола.",
+                "uz": "Majhul nisbatda ajraladigan frazeologik fe'llar fe'l ketin zarra bilan birga qoladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I need to figure this problem out."
+                },
+                {
+                    "answer": "I need to figure out this problem."
+                },
+                {
+                    "answer": "Both sentences are correct.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Separable phrasal verbs allow both positions when the object is a noun phrase.",
+                "ru": "Разделяемые фразовые глаголы допускают обе позиции, когда дополнение является именной группой.",
+                "uz": "Ajraladigan frazeologik fe'llar to'ldiruvchi ot birikma bo'lganda ikkala pozitsiyani ham qabul qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The children grew quickly up."
+                },
+                {
+                    "answer": "The children grew up quickly.",
+                    "correct": true
+                },
+                {
+                    "answer": "The children up grew quickly."
+                }
+            ],
+            "explanation": {
+                "en": "Intransitive phrasal verbs cannot be separated and adverbs typically follow the complete phrasal verb.",
+                "ru": "Непереходные фразовые глаголы нельзя разделять, и наречия обычно следуют за полным фразовым глаголом.",
+                "uz": "O'tuvchi bo'lmagan frazeologik fe'llarni ajratib bo'lmaydi va ravishlar odatda to'liq frazeologik fe'l ketin keladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She's looking forward to the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "She's looking to the party forward."
+                },
+                {
+                    "answer": "She's forward looking to the party."
+                }
+            ],
+            "explanation": {
+                "en": "Three-word phrasal verbs are always inseparable and the object follows the complete phrasal verb.",
+                "ru": "Трехсловные фразовые глаголы всегда неразделимы, и дополнение следует за полным фразовым глаголом.",
+                "uz": "Uch so'zli frazeologik fe'llar doimo ajralmas va to'ldiruvchi to'liq frazeologik fe'l ketin keladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He gave up smoking last year.",
+                    "correct": true
+                },
+                {
+                    "answer": "He gave smoking up last year."
+                },
+                {
+                    "answer": "He up gave smoking last year."
+                }
+            ],
+            "explanation": {
+                "en": "When the object is a long noun phrase or gerund, it's more natural to place it after the complete phrasal verb.",
+                "ru": "Когда дополнение представляет собой длинную именную группу или герундий, естественнее поместить его после полного фразового глагола.",
+                "uz": "To'ldiruvchi uzun ot birikma yoki gerundiy bo'lganda, uni to'liq frazeologik fe'l ketin qo'yish tabiiiyroq."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I need to look ___ this word in the dictionary.",
+                "ru": "Дополните предложение: I need to look ___ this word in the dictionary.",
+                "uz": "Gapni to'ldiring: I need to look ___ this word in the dictionary."
+            },
+            "options": [
+                {
+                    "answer": "up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Look up means to search for information, typically in a reference book or online.",
+                "ru": "Look up означает искать информацию, обычно в справочной книге или в интернете.",
+                "uz": "Look up ma'lumot qidirish, odatda ma'lumotnoma yoki internetdan izlash degani."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The meeting has been put ___ until next Friday.",
+                "ru": "Дополните предложение: The meeting has been put ___ until next Friday.",
+                "uz": "Gapni to'ldiring: The meeting has been put ___ until next Friday."
+            },
+            "options": [
+                {
+                    "answer": "off",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Put off means to postpone or delay something to a later time.",
+                "ru": "Put off означает отложить или задержать что-то на более позднее время.",
+                "uz": "Put off biror narsani keyinroqqa qoldirish yoki kechiktirish degani."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ran ___ her old friend at the shopping mall.",
+                "ru": "Дополните предложение: She ran ___ her old friend at the shopping mall.",
+                "uz": "Gapni to'ldiring: She ran ___ her old friend at the shopping mall."
+            },
+            "options": [
+                {
+                    "answer": "into",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Run into means to meet someone unexpectedly or by chance.",
+                "ru": "Run into означает встретить кого-то неожиданно или случайно.",
+                "uz": "Run into kimnidir kutilmaganda yoki tasodifan uchrashish degani."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The plane took ___ on time despite the bad weather.",
+                "ru": "Дополните предложение: The plane took ___ on time despite the bad weather.",
+                "uz": "Gapni to'ldiring: The plane took ___ on time despite the bad weather."
+            },
+            "options": [
+                {
+                    "answer": "off",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Take off means to leave the ground and begin to fly (for aircraft).",
+                "ru": "Take off означает оторваться от земли и начать летать (для самолетов).",
+                "uz": "Take off yerdan ajralib uchishni boshlash degani (samolyotlar uchun)."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Please turn ___ the TV, it's too loud.",
+                "ru": "Дополните предложение: Please turn ___ the TV, it's too loud.",
+                "uz": "Gapni to'ldiring: Please turn ___ the TV, it's too loud."
+            },
+            "options": [
+                {
+                    "answer": "down",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Turn down means to reduce the volume or intensity of something.",
+                "ru": "Turn down означает уменьшить громкость или интенсивность чего-то.",
+                "uz": "Turn down ovoz balandligi yoki intensivligini kamaytirish degani."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He gets ___ well with his new colleagues.",
+                "ru": "Дополните предложение: He gets ___ well with his new colleagues.",
+                "uz": "Gapni to'ldiring: He gets ___ well with his new colleagues."
+            },
+            "options": [
+                {
+                    "answer": "along",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Get along means to have a good relationship with someone.",
+                "ru": "Get along означает иметь хорошие отношения с кем-то.",
+                "uz": "Get along kimdir bilan yaxshi munosabatda bo'lish degani."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'm looking forward ___ seeing you next week.",
+                "ru": "Дополните предложение: I'm looking forward ___ seeing you next week.",
+                "uz": "Gapni to'ldiring: I'm looking forward ___ seeing you next week."
+            },
+            "options": [
+                {
+                    "answer": "to",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Look forward to means to anticipate something with pleasure, always followed by 'to'.",
+                "ru": "Look forward to означает ожидать чего-то с удовольствием, всегда сопровождается 'to'.",
+                "uz": "Look forward to biror narsani mamnuniyat bilan kutish, doimo 'to' bilan keladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She gave ___ smoking for her health.",
+                "ru": "Дополните предложение: She gave ___ smoking for her health.",
+                "uz": "Gapni to'ldiring: She gave ___ smoking for her health."
+            },
+            "options": [
+                {
+                    "answer": "up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Give up means to stop doing something, especially a habit or activity.",
+                "ru": "Give up означает перестать делать что-то, особенно привычку или деятельность.",
+                "uz": "Give up biror narsani, ayniqsa odat yoki faoliyatni to'xtatish degani."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Can you pick me ___ from the airport tomorrow?",
+                "ru": "Дополните предложение: Can you pick me ___ from the airport tomorrow?",
+                "uz": "Gapni to'ldiring: Can you pick me ___ from the airport tomorrow?"
+            },
+            "options": [
+                {
+                    "answer": "up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Pick up means to collect someone or something from a place.",
+                "ru": "Pick up означает забрать кого-то или что-то из какого-то места.",
+                "uz": "Pick up kimnidir yoki biror narsani joydan olib ketish degani."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children grew ___ in a small village.",
+                "ru": "Дополните предложение: The children grew ___ in a small village.",
+                "uz": "Gapni to'ldiring: The children grew ___ in a small village."
+            },
+            "options": [
+                {
+                    "answer": "up",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Grow up means to develop from a child into an adult.",
+                "ru": "Grow up означает развиваться из ребенка во взрослого.",
+                "uz": "Grow up boladan kattaga aylanish, o'sish degani."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah had a very busy day yesterday. She woke ___1___ early because she had an important meeting at work. After getting dressed, she needed to pick ___2___ her dry cleaning before heading to the office. On her way, she ran ___3___ her old college friend Mike, whom she hadn't seen for months. They decided to catch ___4___ over coffee later that week. At the office, Sarah's boss told her that the client meeting had been put ___5___ until next Tuesday due to scheduling conflicts. This gave Sarah more time to work ___6___ the presentation details. During lunch, she called her mother to check ___7___ on her health after her recent surgery. Her mother was getting ___8___ well with the new nurse and feeling much better. In the afternoon, Sarah had to look ___9___ some important information in the company database for a colleague. She also needed to turn ___10___ her monthly report before 5 PM. After work, she stopped ___11___ at the grocery store to buy ingredients for dinner. When she got home, she found ___12___ that her roommate had already started cooking. They ended ___13___ ordering pizza instead because they were both too tired to cook. Sarah's roommate had also given ___14___ trying to fix the broken washing machine and decided to call a repair service. Before going to bed, Sarah looked forward ___15___ to her weekend plans, which included visiting her parents in the countryside.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "up"
+                },
+                {
+                    "blank": "2",
+                    "answer": "up"
+                },
+                {
+                    "blank": "3",
+                    "answer": "into"
+                },
+                {
+                    "blank": "4",
+                    "answer": "up"
+                },
+                {
+                    "blank": "5",
+                    "answer": "off"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "up"
+                },
+                {
+                    "blank": "8",
+                    "answer": "along"
+                },
+                {
+                    "blank": "9",
+                    "answer": "up"
+                },
+                {
+                    "blank": "10",
+                    "answer": "in"
+                },
+                {
+                    "blank": "11",
+                    "answer": "by"
+                },
+                {
+                    "blank": "12",
+                    "answer": "out"
+                },
+                {
+                    "blank": "13",
+                    "answer": "up"
+                },
+                {
+                    "blank": "14",
+                    "answer": "up"
+                },
+                {
+                    "blank": "15",
+                    "answer": "to"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates various types of phrasal verbs: separable (wake up, pick up), inseparable (run into, look up), and three-word phrasal verbs (look forward to).",
+                "ru": "Этот отрывок демонстрирует различные типы фразовых глаголов: разделяемые (wake up, pick up), неразделяемые (run into, look up) и трехсловные фразовые глаголы (look forward to).",
+                "uz": "Bu matn turli xil frazeologik fe'llarni namoyish etadi: ajraladigan (wake up, pick up), ajralmaydigan (run into, look up) va uch so'zli frazeologik fe'llar (look forward to)."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Last weekend, Tom decided to clean ___1___ his apartment thoroughly. He had been putting ___2___ this task for weeks because he was always busy with work. First, he threw ___3___ all the old magazines and newspapers that had been piling up in the living room. Then he went ___4___ every room systematically, dusting and vacuuming. While cleaning, he came ___5___ some old photo albums that brought back many memories. He sat ___6___ for a while, looking through pictures of his college days. His phone rang, and when he picked it ___7___, it was his sister calling to check on him. She told him that their parents were coming ___8___ to visit next month and wanted to stay at his place. Tom realized he would need to set ___9___ the guest room properly. After hanging ___10___, he continued with his cleaning. He decided to get ___11___ of some old furniture that he no longer needed. In the kitchen, he cleaned ___12___ the refrigerator and threw away expired food items. By evening, he had worked ___13___ quite a sweat but felt satisfied with his progress. He ordered takeout for dinner and settled ___14___ to watch a movie. Before bed, he made sure to turn ___15___ all the lights and electronic devices to save energy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "up"
+                },
+                {
+                    "blank": "2",
+                    "answer": "off"
+                },
+                {
+                    "blank": "3",
+                    "answer": "away"
+                },
+                {
+                    "blank": "4",
+                    "answer": "through"
+                },
+                {
+                    "blank": "5",
+                    "answer": "across"
+                },
+                {
+                    "blank": "6",
+                    "answer": "down"
+                },
+                {
+                    "blank": "7",
+                    "answer": "up"
+                },
+                {
+                    "blank": "8",
+                    "answer": "over"
+                },
+                {
+                    "blank": "9",
+                    "answer": "up"
+                },
+                {
+                    "blank": "10",
+                    "answer": "up"
+                },
+                {
+                    "blank": "11",
+                    "answer": "rid"
+                },
+                {
+                    "blank": "12",
+                    "answer": "out"
+                },
+                {
+                    "blank": "13",
+                    "answer": "up"
+                },
+                {
+                    "blank": "14",
+                    "answer": "down"
+                },
+                {
+                    "blank": "15",
+                    "answer": "off"
+                }
+            ],
+            "explanation": {
+                "en": "This text covers various phrasal verbs related to cleaning, organizing, and daily activities, showing both transitive and intransitive uses.",
+                "ru": "Этот текст охватывает различные фразовые глаголы, связанные с уборкой, организацией и повседневными делами, показывая как переходные, так и непереходные употребления.",
+                "uz": "Bu matn tozalash, tartibga solish va kundalik ishlar bilan bog'liq turli frazeologik fe'llarni qamrab oladi, o'tuvchi va o'tuvchi bo'lmagan ishlatilishlarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Jennifer's small business was starting to take ___1___ after months of hard work. She had initially set ___2___ the company with just a small loan from her parents. At first, she had to carry ___3___ all the tasks herself - from marketing to customer service. Many potential investors had turned her ___4___ because they didn't believe in her business model. However, she never gave ___5___ on her dream. She kept ___6___ working late nights and weekends to make her business succeed. Gradually, word spread about her excellent products, and orders started pouring ___7___. She had to bring ___8___ two part-time employees to help with the increased workload. Jennifer made sure to get ___9___ well with her new team members and created a positive work environment. When problems came ___10___, she always found creative solutions. Her business partner, who had backed ___11___ in the early days due to financial concerns, now wanted to come back and invest. However, Jennifer had moved ___12___ and found new investors who truly believed in her vision. She was now looking ___13___ to expanding into new markets next year. Her success story has inspired many young entrepreneurs to follow ___14___ in her footsteps and start their own businesses. Jennifer often speaks ___15___ at business conferences, sharing her experiences and encouraging others not to give up on their dreams.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "off"
+                },
+                {
+                    "blank": "2",
+                    "answer": "up"
+                },
+                {
+                    "blank": "3",
+                    "answer": "out"
+                },
+                {
+                    "blank": "4",
+                    "answer": "down"
+                },
+                {
+                    "blank": "5",
+                    "answer": "up"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "on"
+                },
+                {
+                    "blank": "9",
+                    "answer": "along"
+                },
+                {
+                    "blank": "10",
+                    "answer": "up"
+                },
+                {
+                    "blank": "11",
+                    "answer": "out"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on"
+                },
+                {
+                    "blank": "13",
+                    "answer": "forward"
+                },
+                {
+                    "blank": "14",
+                    "answer": "through"
+                },
+                {
+                    "blank": "15",
+                    "answer": "up"
+                }
+            ],
+            "explanation": {
+                "en": "This business-themed passage demonstrates phrasal verbs in professional contexts, including separable and inseparable forms used in entrepreneurship and workplace situations.",
+                "ru": "Этот текст на бизнес-тематику демонстрирует фразовые глаголы в профессиональных контекстах, включая разделяемые и неразделяемые формы, используемые в предпринимательстве и рабочих ситуациях.",
+                "uz": "Bu biznes mavzusidagi matn professional kontekstlarda frazeologik fe'llarni namoyish etadi, shu jumladan tadbirkorlik va ish joyidagi vaziyatlarda ishlatiladigan ajraladigan va ajralmaydigan shakllarni."
+            }
+        }
+    ]
+}

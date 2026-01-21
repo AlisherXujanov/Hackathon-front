@@ -1,0 +1,840 @@
+[
+    {
+        "id": 1,
+        "title": "Anna's Daily Routine",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Daily Activities",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What time does Anna wake up?",
+                "options": [
+                    "a) 6:00",
+                    "b) 7:00",
+                    "c) 8:00",
+                    "d) 9:00"
+                ],
+                "correct_answer": "b) 7:00"
+            },
+            {
+                "number": 2,
+                "question": "What does Anna eat for breakfast?",
+                "options": [
+                    "a) Eggs and milk",
+                    "b) Toast and coffee",
+                    "c) Toast and orange juice",
+                    "d) Cereal and water"
+                ],
+                "correct_answer": "c) Toast and orange juice"
+            },
+            {
+                "number": 3,
+                "question": "How does Anna go to school?",
+                "options": [
+                    "a) By car",
+                    "b) By bike",
+                    "c) By train",
+                    "d) By bus"
+                ],
+                "correct_answer": "d) By bus"
+            },
+            {
+                "number": 4,
+                "question": "What subject does Anna like the most?",
+                "options": [
+                    "a) Math",
+                    "b) History",
+                    "c) Science",
+                    "d) English"
+                ],
+                "correct_answer": "d) English"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Anna lives in a big house.",
+                "correct_answer": false,
+                "explanation": "She lives in a small apartment."
+            },
+            {
+                "number": 6,
+                "statement": "She takes a shower before breakfast.",
+                "correct_answer": true,
+                "explanation": "She takes a shower before breakfast."
+            },
+            {
+                "number": 7,
+                "statement": "The bus comes at 9 o'clock.",
+                "correct_answer": false,
+                "explanation": "The bus comes at 8 o'clock."
+            },
+            {
+                "number": 8,
+                "statement": "Anna's first class starts at 8:30.",
+                "correct_answer": true,
+                "explanation": "Her first class starts at 8:30."
+            },
+            {
+                "number": 9,
+                "statement": "Her English teacher is kind.",
+                "correct_answer": true,
+                "explanation": "She likes her English class because the teacher is kind."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Tom's Weekend Trip",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Weekend Activities",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "Where does Tom go on Saturday?",
+                "options": [
+                    "a) To the beach",
+                    "b) To the countryside",
+                    "c) To the city",
+                    "d) To the zoo"
+                ],
+                "correct_answer": "b) To the countryside"
+            },
+            {
+                "number": 2,
+                "question": "Who goes with Tom?",
+                "options": [
+                    "a) His brother",
+                    "b) His father",
+                    "c) His friend Mike",
+                    "d) His teacher"
+                ],
+                "correct_answer": "c) His friend Mike"
+            },
+            {
+                "number": 3,
+                "question": "What do they do in the forest?",
+                "options": [
+                    "a) Eat lunch",
+                    "b) Watch a movie",
+                    "c) Take pictures of birds",
+                    "d) Go swimming"
+                ],
+                "correct_answer": "c) Take pictures of birds"
+            },
+            {
+                "number": 4,
+                "question": "What does Tom buy in the village?",
+                "options": [
+                    "a) A book",
+                    "b) A postcard",
+                    "c) A pen",
+                    "d) A sandwich"
+                ],
+                "correct_answer": "a) A book"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Tom is a student.",
+                "correct_answer": false,
+                "explanation": "Tom is a teacher."
+            },
+            {
+                "number": 6,
+                "statement": "They go to the countryside by car.",
+                "correct_answer": true,
+                "explanation": "They go by car."
+            },
+            {
+                "number": 7,
+                "statement": "Mike drinks orange juice at lunch.",
+                "correct_answer": false,
+                "explanation": "Mike drinks apple juice."
+            },
+            {
+                "number": 8,
+                "statement": "There is a café in the village.",
+                "correct_answer": true,
+                "explanation": "There is a café in the village."
+            },
+            {
+                "number": 9,
+                "statement": "They return home in the evening.",
+                "correct_answer": true,
+                "explanation": "They go home at 6 o'clock (evening)."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Family Trip to Paris",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Travel and Vacation",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "Where did the child go?",
+                "options": [
+                    "a) London",
+                    "b) Paris",
+                    "c) Rome",
+                    "d) Berlin"
+                ],
+                "correct_answer": "b) Paris"
+            },
+            {
+                "number": 2,
+                "question": "How did the family travel?",
+                "options": [
+                    "a) By train",
+                    "b) By bus",
+                    "c) By plane",
+                    "d) By car"
+                ],
+                "correct_answer": "c) By plane"
+            },
+            {
+                "number": 3,
+                "question": "What did the child eat for breakfast?",
+                "options": [
+                    "a) Eggs and milk",
+                    "b) Bread with butter and jam",
+                    "c) Cereal and fruit",
+                    "d) Pancakes"
+                ],
+                "correct_answer": "b) Bread with butter and jam"
+            },
+            {
+                "number": 4,
+                "question": "What famous painting did the child see?",
+                "options": [
+                    "a) Starry Night",
+                    "b) The Scream",
+                    "c) Mona Lisa",
+                    "d) The Last Supper"
+                ],
+                "correct_answer": "c) Mona Lisa"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "It was the child's second time on an airplane.",
+                "correct_answer": false,
+                "explanation": "It was the first time."
+            },
+            {
+                "number": 6,
+                "statement": "They stayed in a big hotel.",
+                "correct_answer": false,
+                "explanation": "They stayed in a small hotel."
+            },
+            {
+                "number": 7,
+                "statement": "The Eiffel Tower was very tall.",
+                "correct_answer": true,
+                "explanation": "The Eiffel Tower was very tall."
+            },
+            {
+                "number": 8,
+                "statement": "The child ate ice cream at night.",
+                "correct_answer": true,
+                "explanation": "The child ate ice cream at night."
+            },
+            {
+                "number": 9,
+                "statement": "The child didn't like the trip.",
+                "correct_answer": false,
+                "explanation": "The child had a great time."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Emma's Hobbies",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Hobbies and Free Time",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What is Emma's favorite hobby?",
+                "options": [
+                    "a) Riding a bike",
+                    "b) Drawing",
+                    "c) Watching TV",
+                    "d) Cooking"
+                ],
+                "correct_answer": "b) Drawing"
+            },
+            {
+                "number": 2,
+                "question": "When does Emma read books?",
+                "options": [
+                    "a) In the morning",
+                    "b) At lunchtime",
+                    "c) In the evening",
+                    "d) At school"
+                ],
+                "correct_answer": "c) In the evening"
+            },
+            {
+                "number": 3,
+                "question": "Who does Emma play football with?",
+                "options": [
+                    "a) Her brother",
+                    "b) Her cousins",
+                    "c) Her friends",
+                    "d) Her dad"
+                ],
+                "correct_answer": "c) Her friends"
+            },
+            {
+                "number": 4,
+                "question": "What does Emma do sometimes on Saturdays?",
+                "options": [
+                    "a) Watch movies",
+                    "b) Sleep all day",
+                    "c) Go shopping",
+                    "d) Ride her bike"
+                ],
+                "correct_answer": "d) Ride her bike"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Emma is 12 years old.",
+                "correct_answer": false,
+                "explanation": "She is 10."
+            },
+            {
+                "number": 6,
+                "statement": "She draws animals and houses.",
+                "correct_answer": true,
+                "explanation": "She draws animals and houses."
+            },
+            {
+                "number": 7,
+                "statement": "Emma watches TV every night.",
+                "correct_answer": false,
+                "explanation": "She doesn't like watching TV much."
+            },
+            {
+                "number": 8,
+                "statement": "She helps her mom in the kitchen.",
+                "correct_answer": true,
+                "explanation": "She helps her mom in the kitchen."
+            },
+            {
+                "number": 9,
+                "statement": "Emma listens to music because it makes her tired.",
+                "correct_answer": false,
+                "explanation": "It makes her happy."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Ben and Anna's Conversation",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Hobbies and Cooking",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What does Ben cook every evening?",
+                "options": [
+                    "a) Breakfast",
+                    "b) Dinner",
+                    "c) Lunch",
+                    "d) Snack"
+                ],
+                "correct_answer": "b) Dinner"
+            },
+            {
+                "number": 2,
+                "question": "What hobby does Ben have?",
+                "options": [
+                    "a) Reading books",
+                    "b) Cooking",
+                    "c) Playing football",
+                    "d) Fishing"
+                ],
+                "correct_answer": "b) Cooking"
+            },
+            {
+                "number": 3,
+                "question": "What food does Ben cook?",
+                "options": [
+                    "a) Pasta and soup",
+                    "b) Rice and salad",
+                    "c) Chicken and eggs",
+                    "d) Sandwiches"
+                ],
+                "correct_answer": "a) Pasta and soup"
+            },
+            {
+                "number": 4,
+                "question": "What hobby does Anna have?",
+                "options": [
+                    "a) Dancing",
+                    "b) Painting",
+                    "c) Gardening",
+                    "d) Singing"
+                ],
+                "correct_answer": "c) Gardening"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Anna likes cooking.",
+                "correct_answer": false,
+                "explanation": "Anna doesn't like cooking."
+            },
+            {
+                "number": 6,
+                "statement": "Ben cooks pizza sometimes.",
+                "correct_answer": true,
+                "explanation": "Ben cooks pizza sometimes."
+            },
+            {
+                "number": 7,
+                "statement": "Anna grows flowers in her garden.",
+                "correct_answer": true,
+                "explanation": "Anna grows flowers in her garden."
+            },
+            {
+                "number": 8,
+                "statement": "Ben wants a flower from Anna.",
+                "correct_answer": true,
+                "explanation": "Ben wants a flower from Anna."
+            },
+            {
+                "number": 9,
+                "statement": "Anna and Ben are talking at work.",
+                "correct_answer": false,
+                "explanation": "Anna and Ben are not talking at work."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Sara's House",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Home and Living",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "Who does Sara live with?",
+                "options": [
+                    "a) Her children",
+                    "b) Her sister",
+                    "c) Her husband and dog",
+                    "d) Her parents"
+                ],
+                "correct_answer": "c) Her husband and dog"
+            },
+            {
+                "number": 2,
+                "question": "How many bedrooms are in the house?",
+                "options": [
+                    "a) One",
+                    "b) Two",
+                    "c) Three",
+                    "d) Four"
+                ],
+                "correct_answer": "b) Two"
+            },
+            {
+                "number": 3,
+                "question": "Which room does Sara love the most?",
+                "options": [
+                    "a) Kitchen",
+                    "b) Bathroom",
+                    "c) Bedroom",
+                    "d) Living room"
+                ],
+                "correct_answer": "c) Bedroom"
+            },
+            {
+                "number": 4,
+                "question": "What does Sara do in the living room?",
+                "options": [
+                    "a) Watch TV",
+                    "b) Read books",
+                    "c) Cook dinner",
+                    "d) Play music"
+                ],
+                "correct_answer": "b) Read books"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Sara has three bedrooms in her house.",
+                "correct_answer": false,
+                "explanation": "She says: 'There are two bedrooms...'"
+            },
+            {
+                "number": 6,
+                "statement": "She reads books on the sofa in the living room.",
+                "correct_answer": true,
+                "explanation": "The story says: 'I sit on the sofa and read books...'"
+            },
+            {
+                "number": 7,
+                "statement": "Sara has a cat in her house.",
+                "correct_answer": false,
+                "explanation": "She talks about 'our dog', not a cat."
+            },
+            {
+                "number": 8,
+                "statement": "Her kitchen is small and dark.",
+                "correct_answer": false,
+                "explanation": "She says: 'I love the kitchen! It is bright and clean.'"
+            },
+            {
+                "number": 9,
+                "statement": "Sara uses a lamp when she reads at night.",
+                "correct_answer": true,
+                "explanation": "She says: 'I also have a small lamp for reading at night.'"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Sam and Alex Talk About Sports",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Sports and Exercise",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What sport does Sam play every Saturday?",
+                "options": [
+                    "a) Basketball",
+                    "b) Football",
+                    "c) Tennis",
+                    "d) Volleyball"
+                ],
+                "correct_answer": "b) Football"
+            },
+            {
+                "number": 2,
+                "question": "What does Alex do for exercise?",
+                "options": [
+                    "a) He plays football",
+                    "b) He rides a bike",
+                    "c) He goes for walks",
+                    "d) He swims"
+                ],
+                "correct_answer": "c) He goes for walks"
+            },
+            {
+                "number": 3,
+                "question": "Who does Sam play tennis with?",
+                "options": [
+                    "a) His sister",
+                    "b) His friend",
+                    "c) His coach",
+                    "d) His brother"
+                ],
+                "correct_answer": "d) His brother"
+            },
+            {
+                "number": 4,
+                "question": "What sport does Alex want to try?",
+                "options": [
+                    "a) Tennis",
+                    "b) Swimming",
+                    "c) Football",
+                    "d) Running"
+                ],
+                "correct_answer": "b) Swimming"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Sam plays football on Sundays.",
+                "correct_answer": false,
+                "explanation": "He says: 'I come here every Saturday to play football.'"
+            },
+            {
+                "number": 6,
+                "statement": "Alex plays football every week.",
+                "correct_answer": false,
+                "explanation": "Alex says: 'I don't play sports much.'"
+            },
+            {
+                "number": 7,
+                "statement": "Walking is a healthy activity.",
+                "correct_answer": true,
+                "explanation": "Sam says: 'Walking is good too! It's healthy.'"
+            },
+            {
+                "number": 8,
+                "statement": "Sam plays tennis with his brother.",
+                "correct_answer": true,
+                "explanation": "He says: 'I play tennis with my brother.'"
+            },
+            {
+                "number": 9,
+                "statement": "Alex wants to try swimming.",
+                "correct_answer": true,
+                "explanation": "He says: 'I want to try swimming one day.'"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Daniel's Family",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Family and Relationships",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "How many people are in Daniel's family?",
+                "options": [
+                    "a) Four",
+                    "b) Five",
+                    "c) Six",
+                    "d) Three"
+                ],
+                "correct_answer": "b) Five"
+            },
+            {
+                "number": 2,
+                "question": "What is Daniel's mother's job?",
+                "options": [
+                    "a) Doctor",
+                    "b) Cook",
+                    "c) Teacher",
+                    "d) Nurse"
+                ],
+                "correct_answer": "c) Teacher"
+            },
+            {
+                "number": 3,
+                "question": "What does Daniel say about his sister?",
+                "options": [
+                    "a) She likes dancing",
+                    "b) She sings well",
+                    "c) She plays football",
+                    "d) She works in a shop"
+                ],
+                "correct_answer": "b) She sings well"
+            },
+            {
+                "number": 4,
+                "question": "How old is Daniel's little brother?",
+                "options": [
+                    "a) 4",
+                    "b) 5",
+                    "c) 6",
+                    "d) 7"
+                ],
+                "correct_answer": "c) 6"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Daniel lives alone.",
+                "correct_answer": false,
+                "explanation": "He says: 'I live in a small house with my family.'"
+            },
+            {
+                "number": 6,
+                "statement": "His father works as a teacher.",
+                "correct_answer": false,
+                "explanation": "His mother is a teacher. His father is a driver."
+            },
+            {
+                "number": 7,
+                "statement": "His sister is 18.",
+                "correct_answer": true,
+                "explanation": "He says: 'My sister is 18 years old.'"
+            },
+            {
+                "number": 8,
+                "statement": "Daniel loves his family.",
+                "correct_answer": true,
+                "explanation": "He says: 'I love my family very much.'"
+            },
+            {
+                "number": 9,
+                "statement": "The family eats dinner together.",
+                "correct_answer": true,
+                "explanation": "He says: 'We eat dinner together every evening.'"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Adam and Emily's Clothing Style",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Clothing and Fashion",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What does Adam like to wear?",
+                "options": [
+                    "a) Suits",
+                    "b) T-shirts and jeans",
+                    "c) Shorts",
+                    "d) Jackets"
+                ],
+                "correct_answer": "b) T-shirts and jeans"
+            },
+            {
+                "number": 2,
+                "question": "What is Emily's favourite type of clothing?",
+                "options": [
+                    "a) Pants",
+                    "b) T-shirts",
+                    "c) Dresses",
+                    "d) Skirts"
+                ],
+                "correct_answer": "c) Dresses"
+            },
+            {
+                "number": 3,
+                "question": "What colours does Emily like?",
+                "options": [
+                    "a) Red and black",
+                    "b) Pink and blue",
+                    "c) Yellow and white",
+                    "d) Green and grey"
+                ],
+                "correct_answer": "b) Pink and blue"
+            },
+            {
+                "number": 4,
+                "question": "How many pairs of shoes does Emily have?",
+                "options": [
+                    "a) Five",
+                    "b) Eight",
+                    "c) Ten",
+                    "d) Twelve"
+                ],
+                "correct_answer": "c) Ten"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "Adam wears T-shirts every day.",
+                "correct_answer": true,
+                "explanation": "He says: 'I wear them every day.'"
+            },
+            {
+                "number": 6,
+                "statement": "Emily does not like dresses.",
+                "correct_answer": false,
+                "explanation": "She says: 'I like dresses. They are my favourite.'"
+            },
+            {
+                "number": 7,
+                "statement": "Adam has ten pairs of shoes.",
+                "correct_answer": false,
+                "explanation": "Emily has ten pairs, not Adam."
+            },
+            {
+                "number": 8,
+                "statement": "Emily likes pink and blue.",
+                "correct_answer": true,
+                "explanation": "She says: 'I like pink and blue.'"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Today's Weather Forecast",
+        "level": "A1",
+        "durationInMinutes": 10,
+        "topic": "Weather and Climate",
+        "multiple_choice": [
+            {
+                "number": 1,
+                "question": "What is the weather like in the morning?",
+                "options": [
+                    "a) Sunny",
+                    "b) Snowy",
+                    "c) Cloudy",
+                    "d) Stormy"
+                ],
+                "correct_answer": "c) Cloudy"
+            },
+            {
+                "number": 2,
+                "question": "What happens in the afternoon?",
+                "options": [
+                    "a) It gets hot",
+                    "b) It rains",
+                    "c) It snows",
+                    "d) It is sunny"
+                ],
+                "correct_answer": "b) It rains"
+            },
+            {
+                "number": 3,
+                "question": "What should people take with them?",
+                "options": [
+                    "a) Sunglasses",
+                    "b) A hat",
+                    "c) An umbrella",
+                    "d) A fan"
+                ],
+                "correct_answer": "c) An umbrella"
+            },
+            {
+                "number": 4,
+                "question": "What is the temperature?",
+                "options": [
+                    "a) 5 degrees",
+                    "b) 10 degrees",
+                    "c) 15 degrees",
+                    "d) 20 degrees"
+                ],
+                "correct_answer": "c) 15 degrees"
+            }
+        ],
+        "trueFalse": [
+            {
+                "number": 5,
+                "statement": "It is sunny in the morning.",
+                "correct_answer": false,
+                "explanation": "It is cloudy in the morning."
+            },
+            {
+                "number": 6,
+                "statement": "People need an umbrella today.",
+                "correct_answer": true,
+                "explanation": "It will rain in the afternoon."
+            },
+            {
+                "number": 7,
+                "statement": "The temperature is 15 degrees Celsius.",
+                "correct_answer": true,
+                "explanation": "The story says it clearly."
+            },
+            {
+                "number": 8,
+                "statement": "It will snow in the evening.",
+                "correct_answer": false,
+                "explanation": "It will be windy but dry."
+            }
+        ]
+    }
+]

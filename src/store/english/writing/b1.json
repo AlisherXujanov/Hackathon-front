@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "topic": "Describe a famous person you admire. Explain why you admire them and what impact they have had.",
+        "relatedVocabulary": {
+            "en": {
+                "admire": "to respect and approve of someone or something",
+                "impact": "a powerful effect that someone or something has on a situation or person",
+                "achieve": "to succeed in getting a good result or in reaching your aims",
+                "inspire": "to make someone feel that they want to do something and can do it",
+                "contribution": "something that you do that helps to achieve or make something",
+                "career": "the job or series of jobs that you do during your working life",
+                "talent": "a natural ability to do something well",
+                "influence": "the power to affect how someone thinks or behaves, or how something develops",
+                "dedicated": "believing strongly in something and giving a lot of time and energy to it",
+                "overcome": "to succeed in dealing with or controlling a problem"
+            },
+            "ru": {
+                "admire": "восхищаться",
+                "impact": "влияние",
+                "achieve": "достигать",
+                "inspire": "вдохновлять",
+                "contribution": "вклад",
+                "career": "карьера",
+                "talent": "талант",
+                "influence": "влияние",
+                "dedicated": "преданный",
+                "overcome": "преодолевать"
+            },
+            "uz": {
+                "admire": "hayratlanmoq",
+                "impact": "ta'sir",
+                "achieve": "erishmoq",
+                "inspire": "ruhlantirmoq",
+                "contribution": "hissa",
+                "career": "karyera",
+                "talent": "iqtidor",
+                "influence": "ta'sir",
+                "dedicated": "fidoyi",
+                "overcome": "yengib o'tmoq"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "topic": "Talk about a hobby you enjoy. Why is this hobby important to you?",
+        "relatedVocabulary": {
+            "en": {
+                "hobby": "an activity that someone does for pleasure when they are not working",
+                "enjoy": "to get pleasure from something",
+                "important": "having a great effect on people or things",
+                "relax": "to become happy and calm because of not being worried about anything",
+                "creative": "involving the use of skill and imagination to produce something new",
+                "improve": "to become better, or to make something better",
+                "skill": "an ability to do an activity or job well, especially because you have practised it",
+                "passion": "an extremely strong interest in or liking for something",
+                "satisfaction": "a pleasant feeling that you get when you receive something you wanted, or when you have achieved something",
+                "stress": "pressure or worry caused by the problems in our lives"
+            },
+            "ru": {
+                "hobby": "хобби",
+                "enjoy": "наслаждаться",
+                "important": "важный",
+                "relax": "расслабляться",
+                "creative": "творческий",
+                "improve": "улучшать",
+                "skill": "навык",
+                "passion": "страсть",
+                "satisfaction": "удовлетворение",
+                "stress": "стресс"
+            },
+            "uz": {
+                "hobby": "mashg'ulot",
+                "enjoy": "zavqlanmoq",
+                "important": "muhim",
+                "relax": "dam olmoq",
+                "creative": "ijodiy",
+                "improve": "yaxshilamoq",
+                "skill": "ko'nikma",
+                "passion": "ishtiyoq",
+                "satisfaction": "qoniqish",
+                "stress": "stress"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "topic": "Describe your favourite season of the year. What do you enjoy doing during this season?",
+        "relatedVocabulary": {
+            "en": {
+                "season": "one of the four periods into which the year is divided according to the weather",
+                "favourite": "most liked or enjoyed",
+                "weather": "the conditions in the air above the earth such as wind, rain, or temperature",
+                "temperature": "the measure of how hot or cold something is",
+                "activity": "something that you do, often as opposed to thinking",
+                "outside": "near or next to a building, usually without a roof",
+                "inside": "within a building or room",
+                "comfortable": "providing a pleasant feeling and not causing any pain",
+                "beautiful": "very attractive",
+                "atmosphere": "the air or feeling of a place"
+            },
+            "ru": {
+                "season": "сезон",
+                "favourite": "любимый",
+                "weather": "погода",
+                "temperature": "температура",
+                "activity": "занятие",
+                "outside": "снаружи",
+                "inside": "внутри",
+                "comfortable": "комфортный",
+                "beautiful": "красивый",
+                "atmosphere": "атмосфера"
+            },
+            "uz": {
+                "season": "fasl",
+                "favourite": "sevimli",
+                "weather": "ob-havo",
+                "temperature": "harorat",
+                "activity": "mashg'ulot",
+                "outside": "tashqarida",
+                "inside": "ichkarida",
+                "comfortable": "qulay",
+                "beautiful": "chiroyli",
+                "atmosphere": "atmosfera"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "topic": "Discuss the importance of learning English. How can learning English help you in the future?",
+        "relatedVocabulary": {
+            "en": {
+                "importance": "the state or fact of being important",
+                "learning": "the activity of getting knowledge",
+                "future": "a period of time that will happen after the present",
+                "global": "relating to the whole world",
+                "communicate": "to share information with others by speaking, writing, or using other methods",
+                "opportunity": "a situation in which it is possible for you to do something, or a possibility of doing something",
+                "travel": "to make a journey, usually over a long distance",
+                "education": "the process of teaching or learning, usually at school, college, or university",
+                "career": "the job or series of jobs that you do during your working life",
+                "understand": "to know the meaning of something that someone says or does"
+            },
+            "ru": {
+                "importance": "важность",
+                "learning": "обучение",
+                "future": "будущее",
+                "global": "глобальный",
+                "communicate": "общаться",
+                "opportunity": "возможность",
+                "travel": "путешествовать",
+                "education": "образование",
+                "career": "карьера",
+                "understand": "понимать"
+            },
+            "uz": {
+                "importance": "muhimlik",
+                "learning": "o'rganish",
+                "future": "kelajak",
+                "global": "global",
+                "communicate": "muloqot qilmoq",
+                "opportunity": "imkoniyat",
+                "travel": "sayohat qilmoq",
+                "education": "ta'lim",
+                "career": "karyera",
+                "understand": "tushunmoq"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "topic": "Describe your ideal holiday. Where would you go and what would you do?",
+        "relatedVocabulary": {
+            "en": {
+                "ideal": "perfect, or the best possible",
+                "holiday": "a time when someone does not work and can relax or travel",
+                "destination": "the place where someone is going or where something is being sent or taken",
+                "relax": "to become happy and calm because of not being worried about anything",
+                "explore": "to search and discover (about something)",
+                "adventure": "an unusual, exciting, and possibly dangerous activity",
+                "culture": "the way of life, especially the general customs and beliefs, of a particular group of people at a particular time",
+                "sightseeing": "the activity of visiting interesting places, especially by people on holiday",
+                "delicious": "having a very pleasant taste or smell",
+                "memory": "something that you remember from the past"
+            },
+            "ru": {
+                "ideal": "идеальный",
+                "holiday": "отпуск",
+                "destination": "место назначения",
+                "relax": "расслабляться",
+                "explore": "исследовать",
+                "adventure": "приключение",
+                "culture": "культура",
+                "sightseeing": "осмотр достопримечательностей",
+                "delicious": "вкусный",
+                "memory": "воспоминание"
+            },
+            "uz": {
+                "ideal": "mukammal",
+                "holiday": "ta'til",
+                "destination": "manzil",
+                "relax": "dam olmoq",
+                "explore": "o'rganmoq",
+                "adventure": "sarguzasht",
+                "culture": "madaniyat",
+                "sightseeing": "diqqatga sazovor joylarni tomosha qilmoq",
+                "delicious": "mazali",
+                "memory": "xotira"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "topic": "Talk about a film you have seen recently. What was it about and did you enjoy it?",
+        "relatedVocabulary": {
+            "en": {
+                "recently": "not long ago",
+                "film": "a story shown in moving pictures",
+                "about": "relating to or concerning",
+                "enjoy": "to get pleasure from something",
+                "character": "a person or animal in a book, play, or film",
+                "plot": "the story of a book, film, play, etc.",
+                "scene": "a part of a play, movie, or book in which a particular action or activity occurs",
+                "actor": "someone who pretends to be someone else while performing in a film, play, or television or radio programme",
+                "actress": "a female actor",
+                "recommend": "to suggest that someone or something would be good or suitable for a particular purpose"
+            },
+            "ru": {
+                "recently": "недавно",
+                "film": "фильм",
+                "about": "о (чем-то)",
+                "enjoy": "наслаждаться",
+                "character": "персонаж",
+                "plot": "сюжет",
+                "scene": "сцена",
+                "actor": "актер",
+                "actress": "актриса",
+                "recommend": "рекомендовать"
+            },
+            "uz": {
+                "recently": "yaqinda",
+                "film": "film",
+                "about": "haqida",
+                "enjoy": "yoqtirmoq",
+                "character": "qahramon",
+                "plot": "syujet",
+                "scene": "sahna",
+                "actor": "aktyor",
+                "actress": "aktrisa",
+                "recommend": "tavsiya qilmoq"
+            }
+        }
+    },
+    {
+        "id": 7,
+        "topic": "Describe your hometown or the place where you currently live. What do you like and dislike about it?",
+        "relatedVocabulary": {
+            "en": {
+                "hometown": "the town or city where you were born or lived when you were young",
+                "currently": "at the present time",
+                "live": "to have your home in a particular place",
+                "like": "to find someone or something pleasant or attractive",
+                "dislike": "to not like someone or something",
+                "neighbourhood": "the area of a town or city that surrounds someone's home, or the people who live in this area",
+                "facilities": "buildings, equipment, or services that are provided for a particular purpose",
+                "transport": "vehicles, systems, etc. for getting people or goods from one place to another",
+                "convenient": "suitable for your purposes and not causing difficulty",
+                "community": "the people living in one particular area or people who are considered as a unit because of their common interests, social group, or nationality"
+            },
+            "ru": {
+                "hometown": "родной город",
+                "currently": "в настоящее время",
+                "live": "жить",
+                "like": "нравиться",
+                "dislike": "не нравиться",
+                "neighbourhood": "район",
+                "facilities": "удобства",
+                "transport": "транспорт",
+                "convenient": "удобный",
+                "community": "сообщество"
+            },
+            "uz": {
+                "hometown": "tug'ilgan shahar",
+                "currently": "hozirda",
+                "live": "yashamoq",
+                "like": "yoqtirmoq",
+                "dislike": "yoqtirmaslik",
+                "neighbourhood": "mahalla",
+                "facilities": "qulayliklar",
+                "transport": "transport",
+                "convenient": "qulay",
+                "community": "jamiyat"
+            }
+        }
+    },
+    {
+        "id": 8,
+        "topic": "Talk about a skill you would like to learn in the future. Why would you like to learn this skill?",
+        "relatedVocabulary": {
+            "en": {
+                "skill": "an ability to do an activity or job well, especially because you have practised it",
+                "learn": "to get knowledge or a skill by studying, by experience, or by being taught",
+                "future": "a period of time that will happen after the present",
+                "improve": "to become better, or to make something better",
+                "useful": "helpful for doing or achieving something",
+                "opportunity": "a situation in which it is possible for you to do something, or a possibility of doing something",
+                "challenge": "something that needs great mental or physical effort in order to be done successfully and that therefore tests a person's ability",
+                "develop": "to grow or change into something bigger, stronger, or more advanced",
+                "practice": "to do something regularly in order to improve your skill",
+                "effort": "physical or mental activity needed to achieve something"
+            },
+            "ru": {
+                "skill": "навык",
+                "learn": "учиться",
+                "future": "будущее",
+                "improve": "улучшать",
+                "useful": "полезный",
+                "opportunity": "возможность",
+                "challenge": "вызов",
+                "develop": "развивать",
+                "practice": "практика",
+                "effort": "усилие"
+            },
+            "uz": {
+                "skill": "ko'nikma",
+                "learn": "o'rganmoq",
+                "future": "kelajak",
+                "improve": "yaxshilamoq",
+                "useful": "foydali",
+                "opportunity": "imkoniyat",
+                "challenge": "qiyinchilik",
+                "develop": "rivojlantirmoq",
+                "practice": "amaliyot",
+                "effort": "harakat"
+            }
+        }
+    },
+    {
+        "id": 9,
+        "topic": "Describe a memorable event in your life. What happened and why was it memorable?",
+        "relatedVocabulary": {
+            "en": {
+                "memorable": "likely to be remembered because being special or unusual",
+                "event": "anything that happens, especially something important or unusual",
+                "life": "the period between birth and death, or the experience of existing",
+                "happen": "to take place, especially without being planned",
+                "special": "different from what is normal or usual; better or greater than usual",
+                "important": "having a great effect on people or things",
+                "exciting": "making you feel excited",
+                "happy": "feeling, showing, or causing pleasure or satisfaction",
+                "sad": "feeling, showing, or causing unhappiness",
+                "unforgettable": "impossible to forget"
+            },
+            "ru": {
+                "memorable": "запоминающийся",
+                "event": "событие",
+                "life": "жизнь",
+                "happen": "происходить",
+                "special": "особенный",
+                "important": "важный",
+                "exciting": "захватывающий",
+                "happy": "счастливый",
+                "sad": "грустный",
+                "unforgettable": "незабываемый"
+            },
+            "uz": {
+                "memorable": "esda qolarli",
+                "event": "hodisa",
+                "life": "hayot",
+                "happen": "sodir bo'lmoq",
+                "special": "maxsus",
+                "important": "muhim",
+                "exciting": "hayajonli",
+                "happy": "xursand",
+                "sad": "xafa",
+                "unforgettable": "unutilmas"
+            }
+        }
+    },
+    {
+        "id": 10,
+        "topic": "Discuss the benefits of reading books. Why is reading important?",
+        "relatedVocabulary": {
+            "en": {
+                "benefits": "an advantage that something gives you; a helpful and useful effect that something has",
+                "reading": "the skill or activity of getting information from books or other writing",
+                "important": "having a great effect on people or things",
+                "knowledge": "understanding of or information about a subject that you get by experience or study",
+                "vocabulary": "all the words known and used by a particular person",
+                "improve": "to become better, or to make something better",
+                "imagination": "the ability to form pictures in the mind of things that you have not seen or experienced",
+                "relax": "to become happy and calm because of not being worried about anything",
+                "learn": "to get knowledge or a skill by studying, by experience, or by being taught",
+                "different": "not the same as someone or something else"
+            },
+            "ru": {
+                "benefits": "преимущества",
+                "reading": "чтение",
+                "important": "важный",
+                "knowledge": "знание",
+                "vocabulary": "словарный запас",
+                "improve": "улучшать",
+                "imagination": "воображение",
+                "relax": "расслабляться",
+                "learn": "учиться",
+                "different": "различный"
+            },
+            "uz": {
+                "benefits": "foydalari",
+                "reading": "mutolaa",
+                "important": "muhim",
+                "knowledge": "bilim",
+                "vocabulary": "lug'at boyligi",
+                "improve": "yaxshilamoq",
+                "imagination": "tasavvur",
+                "relax": "dam olmoq",
+                "learn": "o'rganmoq",
+                "different": "har xil"
+            }
+        }
+    }
+]

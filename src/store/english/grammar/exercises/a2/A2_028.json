@@ -1,0 +1,774 @@
+{
+    "id": "A2_PRESENT_CONTINUOUS_FOR_FUTURE_ARRANGEMENTS_PLANNED_FUTURE_EVENTS",
+    "title": "Present continuous for future arrangements - Planned future events",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We meet our friends tomorrow at 3 PM."
+                },
+                {
+                    "answer": "We are meeting our friends tomorrow at 3 PM.",
+                    "correct": true
+                },
+                {
+                    "answer": "We will meet our friends tomorrow at 3 PM."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous is used for definite arrangements with specific times in the future.",
+                "ru": "Present continuous используется для определенных договоренностей с конкретным временем в будущем.",
+                "uz": "Present continuous kelajakda aniq vaqt bilan belgilangan rejalar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows a planned future arrangement?",
+                "ru": "Какое предложение показывает запланированную будущую договоренность?",
+                "uz": "Qaysi gap rejalashtirilgan kelajak kelishuvini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She goes to the dentist next week."
+                },
+                {
+                    "answer": "She is going to the dentist next week.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will go to the dentist next week."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous expresses arrangements that are already planned with specific details.",
+                "ru": "Present continuous выражает договоренности, которые уже запланированы с конкретными деталями.",
+                "uz": "Present continuous aniq tafsilotlar bilan oldindan rejalashtirilgan kelishuvlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They having dinner at the restaurant tonight."
+                },
+                {
+                    "answer": "They are having dinner at the restaurant tonight.",
+                    "correct": true
+                },
+                {
+                    "answer": "They be having dinner at the restaurant tonight."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous requires 'be' auxiliary verb plus -ing form for future arrangements.",
+                "ru": "Present continuous требует вспомогательный глагол 'be' плюс форма с -ing для будущих договоренностей.",
+                "uz": "Present continuous kelajak kelishuvlari uchun 'be' yordamchi fe'li va -ing shakli talab qiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct for a definite plan?",
+                "ru": "Какое предложение правильно для определенного плана?",
+                "uz": "Aniq reja uchun qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am leaving for London on Monday morning.",
+                    "correct": true
+                },
+                {
+                    "answer": "I leave for London on Monday morning."
+                },
+                {
+                    "answer": "I leaving for London on Monday morning."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous is used for definite future arrangements with specific times and dates.",
+                "ru": "Present continuous используется для определенных будущих договоренностей с конкретным временем и датами.",
+                "uz": "Present continuous aniq vaqt va sanalar bilan belgilangan kelajak rejalari uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence for a scheduled event.",
+                "ru": "Выберите правильное предложение для запланированного события.",
+                "uz": "Rejalashtirilgan hodisa uchun to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The train is departing at 8:30 AM tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "The train depart at 8:30 AM tomorrow."
+                },
+                {
+                    "answer": "The train departing at 8:30 AM tomorrow."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous is correct for scheduled arrangements with exact times.",
+                "ru": "Present continuous правильно для запланированных договоренностей с точным временем.",
+                "uz": "Present continuous aniq vaqt bilan belgilangan rejalar uchun to'g'ri."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows a future arrangement?",
+                "ru": "Какое предложение показывает будущую договоренность?",
+                "uz": "Qaysi gap kelajak kelishuvini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "We visit the museum next Saturday."
+                },
+                {
+                    "answer": "We are visiting the museum next Saturday.",
+                    "correct": true
+                },
+                {
+                    "answer": "We visited the museum next Saturday."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous with future time expressions indicates planned arrangements.",
+                "ru": "Present continuous с будущими временными выражениями указывает на запланированные договоренности.",
+                "uz": "Present continuous kelajak vaqt ifodalari bilan rejalashtirilgan kelishuvlarni bildiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My sister getting married in June."
+                },
+                {
+                    "answer": "My sister is getting married in June.",
+                    "correct": true
+                },
+                {
+                    "answer": "My sister get married in June."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous requires the auxiliary 'be' for future planned events.",
+                "ru": "Present continuous требует вспомогательный глагол 'be' для будущих запланированных событий.",
+                "uz": "Present continuous kelajakda rejalashtirilgan hodisalar uchun 'be' yordamchi fe'lini talab qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He working late tomorrow evening."
+                },
+                {
+                    "answer": "He is working late tomorrow evening.",
+                    "correct": true
+                },
+                {
+                    "answer": "He work late tomorrow evening."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous needs 'be' + verb-ing for future arrangements.",
+                "ru": "Present continuous нужен 'be' + глагол-ing для будущих договоренностей.",
+                "uz": "Present continuous kelajak kelishuvlari uchun 'be' + fe'l-ing talab qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence for a definite plan.",
+                "ru": "Выберите правильное предложение для определенного плана.",
+                "uz": "Aniq reja uchun to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I am meeting the client at 2 PM today.",
+                    "correct": true
+                },
+                {
+                    "answer": "I meet the client at 2 PM today."
+                },
+                {
+                    "answer": "I meeting the client at 2 PM today."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous expresses definite arrangements with specific times.",
+                "ru": "Present continuous выражает определенные договоренности с конкретным временем.",
+                "uz": "Present continuous aniq vaqt bilan belgilangan kelishuvlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows a planned future event?",
+                "ru": "Какое предложение показывает запланированное будущее событие?",
+                "uz": "Qaysi gap rejalashtirilgan kelajak hodisasini ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "They move to a new house next month."
+                },
+                {
+                    "answer": "They are moving to a new house next month.",
+                    "correct": true
+                },
+                {
+                    "answer": "They moved to a new house next month."
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous with future time references shows planned arrangements.",
+                "ru": "Present continuous с будущими временными ссылками показывает запланированные договоренности.",
+                "uz": "Present continuous kelajak vaqt ko'rsatkichlari bilan rejalashtirilgan kelishuvlarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (fly) to Paris tomorrow morning.",
+                "ru": "Дополните предложение: She ___ (fly) to Paris tomorrow morning.",
+                "uz": "Gapni to'ldiring: She ___ (fly) to Paris tomorrow morning."
+            },
+            "options": [
+                {
+                    "answer": "is flying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'is flying' shows a definite travel arrangement for tomorrow.",
+                "ru": "Present continuous 'is flying' показывает определенную договоренность о поездке на завтра.",
+                "uz": "Present continuous 'is flying' ertaga aniq sayohat kelishuvini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (have) lunch with our boss at 1 PM.",
+                "ru": "Дополните предложение: We ___ (have) lunch with our boss at 1 PM.",
+                "uz": "Gapni to'ldiring: We ___ (have) lunch with our boss at 1 PM."
+            },
+            "options": [
+                {
+                    "answer": "are having",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'are having' expresses a planned lunch appointment.",
+                "ru": "Present continuous 'are having' выражает запланированную встречу за обедом.",
+                "uz": "Present continuous 'are having' rejalashtirilgan tushlik uchrashuvini ifodalaydi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The conference ___ (start) at 9 AM sharp.",
+                "ru": "Дополните предложение: The conference ___ (start) at 9 AM sharp.",
+                "uz": "Gapni to'ldiring: The conference ___ (start) at 9 AM sharp."
+            },
+            "options": [
+                {
+                    "answer": "is starting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'is starting' indicates a scheduled event with precise timing.",
+                "ru": "Present continuous 'is starting' указывает на запланированное событие с точным временем.",
+                "uz": "Present continuous 'is starting' aniq vaqt bilan belgilangan hodisani bildiradi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My parents ___ (visit) us next weekend.",
+                "ru": "Дополните предложение: My parents ___ (visit) us next weekend.",
+                "uz": "Gapni to'ldiring: My parents ___ (visit) us next weekend."
+            },
+            "options": [
+                {
+                    "answer": "are visiting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'are visiting' shows a definite arrangement for next weekend.",
+                "ru": "Present continuous 'are visiting' показывает определенную договоренность на следующие выходные.",
+                "uz": "Present continuous 'are visiting' kelasi dam olish kunlari uchun aniq kelishuvni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (see) the doctor this afternoon at 3:30.",
+                "ru": "Дополните предложение: I ___ (see) the doctor this afternoon at 3:30.",
+                "uz": "Gapni to'ldiring: I ___ (see) the doctor this afternoon at 3:30."
+            },
+            "options": [
+                {
+                    "answer": "am seeing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'am seeing' expresses a scheduled medical appointment.",
+                "ru": "Present continuous 'am seeing' выражает запланированную медицинскую встречу.",
+                "uz": "Present continuous 'am seeing' rejalashtirilgan tibbiy uchrashuvni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (leave) for vacation on Friday morning.",
+                "ru": "Дополните предложение: They ___ (leave) for vacation on Friday morning.",
+                "uz": "Gapni to'ldiring: They ___ (leave) for vacation on Friday morning."
+            },
+            "options": [
+                {
+                    "answer": "are leaving",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'are leaving' indicates a definite departure plan.",
+                "ru": "Present continuous 'are leaving' указывает на определенный план отъезда.",
+                "uz": "Present continuous 'are leaving' aniq jo'nash rejasini bildiradi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The team ___ (play) against Liverpool next Saturday.",
+                "ru": "Дополните предложение: The team ___ (play) against Liverpool next Saturday.",
+                "uz": "Gapni to'ldiring: The team ___ (play) against Liverpool next Saturday."
+            },
+            "options": [
+                {
+                    "answer": "is playing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'is playing' shows a scheduled sports match.",
+                "ru": "Present continuous 'is playing' показывает запланированный спортивный матч.",
+                "uz": "Present continuous 'is playing' rejalashtirilgan sport o'yinini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (attend) the wedding ceremony next month.",
+                "ru": "Дополните предложение: He ___ (attend) the wedding ceremony next month.",
+                "uz": "Gapni to'ldiring: He ___ (attend) the wedding ceremony next month."
+            },
+            "options": [
+                {
+                    "answer": "is attending",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'is attending' expresses a planned participation in an event.",
+                "ru": "Present continuous 'is attending' выражает запланированное участие в событии.",
+                "uz": "Present continuous 'is attending' hodisada rejalashtirilgan ishtirokni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (go) to the theater tonight at 7 PM.",
+                "ru": "Дополните предложение: We ___ (go) to the theater tonight at 7 PM.",
+                "uz": "Gapni to'ldiring: We ___ (go) to the theater tonight at 7 PM."
+            },
+            "options": [
+                {
+                    "answer": "are going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'are going' indicates a definite evening plan.",
+                "ru": "Present continuous 'are going' указывает на определенный вечерний план.",
+                "uz": "Present continuous 'are going' aniq kechki rejani bildiradi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (take) her driving test next Tuesday.",
+                "ru": "Дополните предложение: She ___ (take) her driving test next Tuesday.",
+                "uz": "Gapni to'ldiring: She ___ (take) her driving test next Tuesday."
+            },
+            "options": [
+                {
+                    "answer": "is taking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous 'is taking' shows a scheduled exam appointment.",
+                "ru": "Present continuous 'is taking' показывает запланированную встречу на экзамен.",
+                "uz": "Present continuous 'is taking' rejalashtirilgan imtihon uchrashuvini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tomorrow ___1___ going to be a very busy day for our family. My sister Sarah ___2___ flying to New York in the morning for a business conference. She ___3___ meeting her colleagues at the hotel at 10 AM, and then they ___4___ attending several important presentations throughout the day. Meanwhile, my parents ___5___ visiting my grandmother at the nursing home. They ___6___ taking her some flowers and her favorite chocolate cake. In the afternoon, my brother Tom ___7___ playing in a football match against the local school team. The whole family ___8___ going to watch him play because it's the championship final. After the match, we ___9___ having dinner together at a nice restaurant to celebrate. My cousin Lisa ___10___ joining us for dinner too, as she ___11___ arriving from London by train at 6 PM. The restaurant manager ___12___ preparing a special table for our large group. We ___13___ really looking forward to this family gathering because we rarely get together like this. Everyone ___14___ bringing something special to share, and my aunt ___15___ taking lots of photos to remember this wonderful day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous uses 'be' + verb-ing to express definite future arrangements and planned events.",
+                "ru": "Present continuous использует 'be' + глагол-ing для выражения определенных будущих договоренностей и запланированных событий.",
+                "uz": "Present continuous aniq kelajak kelishuvlari va rejalashtirilgan hodisalarni ifodalash uchun 'be' + fe'l-ing ishlatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "This weekend our school ___1___ organizing a special cultural festival, and everyone ___2___ participating in different activities. On Saturday morning, the drama club ___3___ performing a play about Shakespeare in the main auditorium. The music students ___4___ playing classical pieces in the courtyard at the same time. Meanwhile, the art students ___5___ displaying their paintings and sculptures in the gallery. Many parents ___6___ coming to see their children's performances and artwork. The cooking class ___7___ preparing traditional dishes from different countries, and they ___8___ serving them in the cafeteria from noon until 3 PM. In the afternoon, the sports teams ___9___ demonstrating various activities on the playground. The dance group ___10___ presenting folk dances from around the world at 2 PM sharp. Several local newspapers ___11___ sending reporters to cover the event, and the school photographer ___12___ taking pictures for the yearbook. The festival ___13___ ending with a special ceremony where the principal ___14___ giving awards to the best participants. All students ___15___ wearing their national costumes to make the event more colorful and memorable.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous with future time references shows organized events and scheduled activities with specific times.",
+                "ru": "Present continuous с будущими временными ссылками показывает организованные события и запланированные мероприятия с конкретным временем.",
+                "uz": "Present continuous kelajak vaqt ko'rsatkichlari bilan aniq vaqtlar bilan tashkil etilgan hodisalar va rejalashtirilgan tadbirlarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Next month our company ___1___ moving to a new office building downtown, and the management ___2___ planning everything carefully. The IT department ___3___ installing new computer systems next week, while the facilities team ___4___ arranging the furniture and equipment. All employees ___5___ packing their personal belongings this Friday afternoon. The moving company ___6___ arriving early Monday morning with large trucks to transport everything safely. Our manager ___7___ meeting with the building supervisor to discuss security arrangements and parking spaces. The human resources department ___8___ organizing orientation sessions for all staff members to familiarize them with the new location. Several departments ___9___ working from home during the transition period to avoid disruption. The marketing team ___10___ updating all business cards, letterheads, and promotional materials with the new address. The reception area ___11___ getting completely redesigned with modern furniture and decorative plants. The company ___12___ hosting an opening ceremony for clients and business partners next month. Everyone ___13___ looking forward to the improved working environment and better facilities. The cafeteria ___14___ serving a special lunch on the first day, and the management ___15___ giving each employee a welcome gift to celebrate the successful relocation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "is"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous expresses planned business arrangements and organized activities with definite schedules.",
+                "ru": "Present continuous выражает запланированные деловые договоренности и организованные мероприятия с определенными графиками.",
+                "uz": "Present continuous aniq jadvallar bilan rejalashtirilgan biznes kelishuvlari va tashkil etilgan faoliyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The local community center ___1___ organizing a charity fundraising event this Saturday, and many volunteers ___2___ helping with the preparations. The event organizers ___3___ setting up booths and tables in the main hall early in the morning. Several local bands ___4___ performing live music throughout the day to entertain visitors. The children's choir from the elementary school ___5___ singing traditional songs at 11 AM sharp. Meanwhile, local artists ___6___ selling their handmade crafts and paintings to raise money for the homeless shelter. The restaurant owners ___7___ donating food and beverages for the event, and volunteers ___8___ serving refreshments in the garden area. Many families ___9___ bringing their children to enjoy the face painting and balloon activities. The mayor ___10___ giving an opening speech at 10 AM to officially start the fundraising event. Local businesses ___11___ sponsoring different activities and providing prizes for the raffle competition. The fire department ___12___ demonstrating safety procedures and allowing children to explore their fire trucks. Photography students from the high school ___13___ taking pictures to document this special community gathering. The event ___14___ continuing until 6 PM, and organizers ___15___ hoping to raise enough money to help many families in need during the winter season.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are"
+                },
+                {
+                    "blank": "8",
+                    "answer": "are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are"
+                }
+            ],
+            "explanation": {
+                "en": "Present continuous describes organized community events and scheduled activities with specific times and arrangements.",
+                "ru": "Present continuous описывает организованные общественные события и запланированные мероприятия с конкретным временем и договоренностями.",
+                "uz": "Present continuous aniq vaqt va kelishuvlar bilan tashkil etilgan jamoat tadbirlari va rejalashtirilgan faoliyatlarni tasvirlaydi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,867 @@
+{
+    "id": "B1_PAST_SIMPLE_OR_PRESENT_PERFECT_ADVANCED_DISTINCTION_AND_USAGE",
+    "title": "Past simple or present perfect - Advanced distinction and usage",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have lived in London for three years when I was a child."
+                },
+                {
+                    "answer": "I lived in London for three years when I was a child.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am living in London for three years when I was a child."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions in the past with specific time references like 'when I was a child'.",
+                "ru": "Прошедшее простое время используется для завершенных действий в прошлом с конкретными временными указаниями, такими как 'когда я был ребенком'.",
+                "uz": "O'tgan sodda zamon o'tmishda tugallangan harakatlar uchun ishlatiladi, masalan 'bola bo'lganimda' kabi aniq vaqt ko'rsatkichlari bilan."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has never been to Paris.",
+                    "correct": true
+                },
+                {
+                    "answer": "She never went to Paris."
+                },
+                {
+                    "answer": "She never has been to Paris."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'never' to express life experiences without specific time references.",
+                "ru": "Настоящее совершенное время используется с 'never' для выражения жизненного опыта без конкретных временных указаний.",
+                "uz": "Hozirgi mukammal zamon 'never' bilan hayotiy tajribalarni ifodalash uchun aniq vaqt ko'rsatkichlarsiz ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have finished my homework yesterday."
+                },
+                {
+                    "answer": "I finished my homework yesterday.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am finishing my homework yesterday."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'yesterday', not present perfect.",
+                "ru": "Прошедшее простое время используется с конкретными прошедшими временными выражениями, такими как 'вчера', а не настоящее совершенное.",
+                "uz": "'Kecha' kabi aniq o'tmish vaqt ifodalari bilan o'tgan sodda zamon ishlatiladi, hozirgi mukammal zamon emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They lived here since 2010."
+                },
+                {
+                    "answer": "They have lived here since 2010.",
+                    "correct": true
+                },
+                {
+                    "answer": "They are living here since 2010."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'since' to show actions continuing from a past point to now.",
+                "ru": "Настоящее совершенное время используется с 'since' для обозначения действий, продолжающихся с прошлого момента до настоящего.",
+                "uz": "Hozirgi mukammal zamon 'since' bilan o'tmishdagi nuqtadan hozirgi vaqtgacha davom etayotgan harakatlarni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Have you ever went to Italy?"
+                },
+                {
+                    "answer": "Did you ever go to Italy?"
+                },
+                {
+                    "answer": "Have you ever been to Italy?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'ever' asks about life experiences, and 'been' is the correct past participle of 'go' for places visited.",
+                "ru": "Настоящее совершенное время с 'ever' спрашивает о жизненном опыте, и 'been' является правильным причастием прошедшего времени от 'go' для посещенных мест.",
+                "uz": "'Ever' bilan hozirgi mukammal zamon hayotiy tajriba haqida so'raydi, va 'been' tashrif buyurilgan joylar uchun 'go' fe'lining to'g'ri o'tmish sifatdoshidir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have seen that movie last week."
+                },
+                {
+                    "answer": "I saw that movie last week.",
+                    "correct": true
+                },
+                {
+                    "answer": "I see that movie last week."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific time expressions like 'last week', not present perfect.",
+                "ru": "Прошедшее простое время используется с конкретными временными выражениями, такими как 'на прошлой неделе', а не настоящее совершенное.",
+                "uz": "'O'tgan hafta' kabi aniq vaqt ifodalari bilan o'tgan sodda zamon ishlatiladi, hozirgi mukammal zamon emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We have just arrived.",
+                    "correct": true
+                },
+                {
+                    "answer": "We just arrived."
+                },
+                {
+                    "answer": "We are just arriving."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'just' to express recent actions with current relevance.",
+                "ru": "Настоящее совершенное время используется с 'just' для выражения недавних действий с текущей актуальностью.",
+                "uz": "Hozirgi mukammal zamon 'just' bilan hozirgi vaqtga aloqasi bor so'nggi harakatlarni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has worked there from 2015 to 2020."
+                },
+                {
+                    "answer": "She worked there from 2015 to 2020.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is working there from 2015 to 2020."
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions with a definite finished time period like 'from 2015 to 2020'.",
+                "ru": "Прошедшее простое время используется для завершенных действий с определенным законченным временным периодом, таким как 'с 2015 по 2020'.",
+                "uz": "O'tgan sodda zamon '2015 yildan 2020 yilgacha' kabi aniq tugagan vaqt davri bilan tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have already finished my work.",
+                    "correct": true
+                },
+                {
+                    "answer": "I already finished my work."
+                },
+                {
+                    "answer": "I am already finishing my work."
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'already' to emphasize completed actions with present relevance.",
+                "ru": "Настоящее совершенное время используется с 'already' для подчеркивания завершенных действий с настоящей актуальностью.",
+                "uz": "Hozirgi mukammal zamon 'already' bilan hozirgi vaqtga aloqasi bor tugallangan harakatlarni ta'kidlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How long do you live here?"
+                },
+                {
+                    "answer": "How long have you lived here?",
+                    "correct": true
+                },
+                {
+                    "answer": "How long did you live here?"
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'How long' to ask about duration from past to present.",
+                "ru": "Настоящее совершенное время используется с 'How long' для вопроса о продолжительности от прошлого к настоящему.",
+                "uz": "Hozirgi mukammal zamon 'How long' bilan o'tmishdan hozirgi vaqtgacha bo'lgan davomiylik haqida so'rash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (visit) Paris three times in my life.",
+                "ru": "Дополните предложение: I ___ (visit) Paris three times in my life.",
+                "uz": "Gapni to'ldiring: I ___ (visit) Paris three times in my life."
+            },
+            "options": [
+                {
+                    "answer": "have visited",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used for life experiences without specific time references.",
+                "ru": "Настоящее совершенное время используется для жизненного опыта без конкретных временных указаний.",
+                "uz": "Hozirgi mukammal zamon aniq vaqt ko'rsatkichlarsiz hayotiy tajriba uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (move) to London last year.",
+                "ru": "Дополните предложение: She ___ (move) to London last year.",
+                "uz": "Gapni to'ldiring: She ___ (move) to London last year."
+            },
+            "options": [
+                {
+                    "answer": "moved",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'last year'.",
+                "ru": "Прошедшее простое время используется с конкретными прошедшими временными выражениями, такими как 'в прошлом году'.",
+                "uz": "O'tgan sodda zamon 'o'tgan yil' kabi aniq o'tmish vaqt ifodalari bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (live) here since 2018.",
+                "ru": "Дополните предложение: They ___ (live) here since 2018.",
+                "uz": "Gapni to'ldiring: They ___ (live) here since 2018."
+            },
+            "options": [
+                {
+                    "answer": "have lived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'since' to show continuing actions from a past point.",
+                "ru": "Настоящее совершенное время используется с 'since' для обозначения продолжающихся действий с прошлого момента.",
+                "uz": "Hozirgi mukammal zamon 'since' bilan o'tmishdagi nuqtadan davom etayotgan harakatlarni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (not see) him yesterday.",
+                "ru": "Дополните предложение: We ___ (not see) him yesterday.",
+                "uz": "Gapni to'ldiring: We ___ (not see) him yesterday."
+            },
+            "options": [
+                {
+                    "answer": "didn't see/did not see",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple negative is used with specific past time expressions like 'yesterday'.",
+                "ru": "Отрицательная форма прошедшего простого времени используется с конкретными прошедшими временными выражениями, такими как 'вчера'.",
+                "uz": "O'tgan sodda zamonning inkor shakli 'kecha' kabi aniq o'tmish vaqt ifodalari bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (already/finish) my homework.",
+                "ru": "Дополните предложение: I ___ (already/finish) my homework.",
+                "uz": "Gapni to'ldiring: I ___ (already/finish) my homework."
+            },
+            "options": [
+                {
+                    "answer": "have already finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'already' to show completed actions with present relevance.",
+                "ru": "Настоящее совершенное время используется с 'already' для обозначения завершенных действий с настоящей актуальностью.",
+                "uz": "Hozirgi mukammal zamon 'already' bilan hozirgi vaqtga aloqasi bor tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: How long ___ you ___ (work) for this company?",
+                "ru": "Дополните предложение: How long ___ you ___ (work) for this company?",
+                "uz": "Gapni to'ldiring: How long ___ you ___ (work) for this company?"
+            },
+            "options": [
+                {
+                    "answer": "have worked/have you worked/have, worked",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'How long' to ask about duration from past to present.",
+                "ru": "Настоящее совершенное время используется с 'How long' для вопроса о продолжительности от прошлого к настоящему.",
+                "uz": "Hozirgi mukammal zamon 'How long' bilan o'tmishdan hozirgi vaqtgacha bo'lgan davomiylik haqida so'rash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (go) to the cinema last Friday.",
+                "ru": "Дополните предложение: She ___ (go) to the cinema last Friday.",
+                "uz": "Gapni to'ldiring: She ___ (go) to the cinema last Friday."
+            },
+            "options": [
+                {
+                    "answer": "went",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used with specific past time expressions like 'last Friday'.",
+                "ru": "Прошедшее простое время используется с конкретными прошедшими временными выражениями, такими как 'в прошлую пятницу'.",
+                "uz": "O'tgan sodda zamon 'o'tgan juma' kabi aniq o'tmish vaqt ifodalari bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you ever ___ (be) to Japan?",
+                "ru": "Дополните предложение: ___ you ever ___ (be) to Japan?",
+                "uz": "Gapni to'ldiring: ___ you ever ___ (be) to Japan?"
+            },
+            "options": [
+                {
+                    "answer": "Have been/have, been/have you ever been",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect with 'ever' asks about life experiences, using 'been' for places visited.",
+                "ru": "Настоящее совершенное время с 'ever' спрашивает о жизненном опыте, используя 'been' для посещенных мест.",
+                "uz": "'Ever' bilan hozirgi mukammal zamon hayotiy tajriba haqida so'raydi, tashrif buyurilgan joylar uchun 'been' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (just/arrive) at the airport.",
+                "ru": "Дополните предложение: We ___ (just/arrive) at the airport.",
+                "uz": "Gapni to'ldiring: We ___ (just/arrive) at the airport."
+            },
+            "options": [
+                {
+                    "answer": "have just arrived",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Present perfect is used with 'just' to express recent actions with current relevance.",
+                "ru": "Настоящее совершенное время используется с 'just' для выражения недавних действий с текущей актуальностью.",
+                "uz": "Hozirgi mukammal zamon 'just' bilan hozirgi vaqtga aloqasi bor so'nggi harakatlarni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (study) at university from 2015 to 2019.",
+                "ru": "Дополните предложение: He ___ (study) at university from 2015 to 2019.",
+                "uz": "Gapni to'ldiring: He ___ (study) at university from 2015 to 2019."
+            },
+            "options": [
+                {
+                    "answer": "studied",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past simple is used for completed actions with a definite finished time period.",
+                "ru": "Прошедшее простое время используется для завершенных действий с определенным законченным временным периодом.",
+                "uz": "O'tgan sodda zamon aniq tugagan vaqt davri bilan tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is a travel blogger who ___1___ around the world for the past five years. She ___2___ her blog in 2019 when she first ___3___ to Thailand. Since then, she ___4___ to over thirty countries and ___5___ thousands of photos. Last month, she ___6___ an amazing adventure in Peru where she ___7___ Machu Picchu for the first time. She ___8___ that it was the most beautiful place she ___9___ ever ___10___. Sarah ___11___ her experiences on social media every day, and her followers ___12___ from 500 to over 100,000 since she ___13___ blogging. She ___14___ three travel books so far, and her first book ___15___ the bestseller list last year.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has been traveling"
+                },
+                {
+                    "blank": "2",
+                    "answer": "started"
+                },
+                {
+                    "blank": "3",
+                    "answer": "went"
+                },
+                {
+                    "blank": "4",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "has taken"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had"
+                },
+                {
+                    "blank": "7",
+                    "answer": "visited"
+                },
+                {
+                    "blank": "8",
+                    "answer": "said"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had"
+                },
+                {
+                    "blank": "10",
+                    "answer": "seen"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has shared"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have grown"
+                },
+                {
+                    "blank": "13",
+                    "answer": "started"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has written"
+                },
+                {
+                    "blank": "15",
+                    "answer": "reached"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the distinction between past simple for completed actions at specific times and present perfect for experiences and actions continuing to the present.",
+                "ru": "Это упражнение демонстрирует различие между прошедшим простым временем для завершенных действий в конкретное время и настоящим совершенным для опыта и действий, продолжающихся до настоящего.",
+                "uz": "Bu mashq aniq vaqtlarda tugallangan harakatlar uchun o'tgan sodda zamon va hozirgi vaqtgacha davom etayotgan tajriba va harakatlar uchun hozirgi mukammal zamon o'rtasidagi farqni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "John and Mary ___1___ married for fifteen years now. They first ___2___ each other at university in 2005 when they ___3___ both studying English literature. After graduation, John ___4___ a job at a publishing company, while Mary ___5___ to work as a freelance writer. They ___6___ engaged in 2008 and ___7___ married the following year. Since their wedding, they ___8___ to many different countries together. Last summer, they ___9___ a month in Italy, where they ___10___ never ___11___ before. They ___12___ it so much that they ___13___ already ___14___ to return next year. Recently, they ___15___ some big news with their families - Mary ___16___ just ___17___ out that she is expecting their first child.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "met"
+                },
+                {
+                    "blank": "3",
+                    "answer": "were"
+                },
+                {
+                    "blank": "4",
+                    "answer": "found"
+                },
+                {
+                    "blank": "5",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "6",
+                    "answer": "got"
+                },
+                {
+                    "blank": "7",
+                    "answer": "got"
+                },
+                {
+                    "blank": "8",
+                    "answer": "have traveled"
+                },
+                {
+                    "blank": "9",
+                    "answer": "spent"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had"
+                },
+                {
+                    "blank": "11",
+                    "answer": "visited"
+                },
+                {
+                    "blank": "12",
+                    "answer": "enjoyed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "have"
+                },
+                {
+                    "blank": "14",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have shared"
+                },
+                {
+                    "blank": "16",
+                    "answer": "has"
+                },
+                {
+                    "blank": "17",
+                    "answer": "found"
+                }
+            ],
+            "explanation": {
+                "en": "This passage shows how past simple describes completed past events while present perfect connects past actions to the present situation.",
+                "ru": "Этот отрывок показывает, как прошедшее простое время описывает завершенные прошлые события, а настоящее совершенное связывает прошлые действия с настоящей ситуацией.",
+                "uz": "Bu parcha o'tgan sodda zamon tugallangan o'tmish voqealarni qanday tasvirlashini, hozirgi mukammal zamon esa o'tmish harakatlarni hozirgi vaziyat bilan qanday bog'lashini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma ___1___ learning French since she ___2___ sixteen years old. She first ___3___ interested in the language when she ___4___ a French exchange student during her final year at school. That experience ___5___ her to pursue French at university, where she ___6___ for three years. After graduation, she ___7___ to Paris and ___8___ there for two years, working as an English teacher. During that time, her French ___9___ dramatically, and she ___10___ many lifelong friends. When she ___11___ to England in 2020, she ___12___ to keep using her French skills. She ___13___ as a translator for the past four years and ___14___ with several international companies. Last week, she ___15___ her biggest contract yet - translating a novel from French to English.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "became"
+                },
+                {
+                    "blank": "4",
+                    "answer": "met"
+                },
+                {
+                    "blank": "5",
+                    "answer": "inspired"
+                },
+                {
+                    "blank": "6",
+                    "answer": "studied"
+                },
+                {
+                    "blank": "7",
+                    "answer": "moved"
+                },
+                {
+                    "blank": "8",
+                    "answer": "lived"
+                },
+                {
+                    "blank": "9",
+                    "answer": "improved"
+                },
+                {
+                    "blank": "10",
+                    "answer": "made"
+                },
+                {
+                    "blank": "11",
+                    "answer": "returned"
+                },
+                {
+                    "blank": "12",
+                    "answer": "decided"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has worked"
+                },
+                {
+                    "blank": "14",
+                    "answer": "has collaborated"
+                },
+                {
+                    "blank": "15",
+                    "answer": "received"
+                }
+            ],
+            "explanation": {
+                "en": "This text illustrates the use of present perfect for ongoing situations and past simple for completed actions at specific times in someone's life story.",
+                "ru": "Этот текст иллюстрирует использование настоящего совершенного времени для продолжающихся ситуаций и прошедшего простого для завершенных действий в конкретное время в чьей-то истории жизни.",
+                "uz": "Bu matn kimningdir hayot hikoyasida davom etayotgan vaziyatlar uchun hozirgi mukammal zamon va aniq vaqtlarda tugallangan harakatlar uchun o'tgan sodda zamon ishlatilishini tasvirlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Technology ___1___ our lives in incredible ways over the past few decades. When I ___2___ a child in the 1990s, we ___3___ have smartphones or social media. People ___4___ letters to communicate over long distances, and we ___5___ to wait days for replies. The internet ___6___ in its early stages, and most families ___7___ even have computers at home. Since then, everything ___8___. We ___9___ instant communication through various apps, and social media ___10___ the way we share information. Online shopping ___11___ popular in the early 2000s, and now millions of people ___12___ products online every day. The smartphone revolution ___13___ in 2007 when Apple ___14___ the first iPhone, and since that moment, our daily habits ___15___ completely.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has changed"
+                },
+                {
+                    "blank": "2",
+                    "answer": "was"
+                },
+                {
+                    "blank": "3",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "4",
+                    "answer": "wrote"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had"
+                },
+                {
+                    "blank": "6",
+                    "answer": "was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "didn't"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has changed"
+                },
+                {
+                    "blank": "9",
+                    "answer": "have"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has transformed"
+                },
+                {
+                    "blank": "11",
+                    "answer": "became"
+                },
+                {
+                    "blank": "12",
+                    "answer": "buy"
+                },
+                {
+                    "blank": "13",
+                    "answer": "began"
+                },
+                {
+                    "blank": "14",
+                    "answer": "released"
+                },
+                {
+                    "blank": "15",
+                    "answer": "have changed"
+                }
+            ],
+            "explanation": {
+                "en": "This passage contrasts past simple for describing past states and completed actions with present perfect for changes that continue to affect the present.",
+                "ru": "Этот отрывок противопоставляет прошедшее простое время для описания прошлых состояний и завершенных действий с настоящим совершенным для изменений, которые продолжают влиять на настоящее.",
+                "uz": "Bu parcha o'tmish holatlari va tugallangan harakatlarni tasvirlash uchun o'tgan sodda zamon bilan hozirgi vaqtga ta'sir ko'rsatishda davom etayotgan o'zgarishlar uchun hozirgi mukammal zamonni qarama-qarshi qo'yadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Dr. Martinez ___1___ as a marine biologist for over twenty years. She ___2___ her PhD from Cambridge University in 2003 and immediately ___3___ research on coral reefs. In her early career, she ___4___ several groundbreaking discoveries about coral bleaching. Her first major paper ___5___ in Nature magazine in 2006, which ___6___ her international recognition. Since then, she ___7___ numerous awards and ___8___ invited to speak at conferences worldwide. Last year, she ___9___ a new research project focused on climate change effects on marine ecosystems. She ___10___ already ___11___ preliminary results that ___12___ promising for conservation efforts. Her team ___13___ in the field for six months now, and they ___14___ some remarkable footage of underwater life. Yesterday, they ___15___ a new species of fish that scientists ___16___ never ___17___ before.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "has worked"
+                },
+                {
+                    "blank": "2",
+                    "answer": "received"
+                },
+                {
+                    "blank": "3",
+                    "answer": "began"
+                },
+                {
+                    "blank": "4",
+                    "answer": "made"
+                },
+                {
+                    "blank": "5",
+                    "answer": "was published"
+                },
+                {
+                    "blank": "6",
+                    "answer": "brought"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has received"
+                },
+                {
+                    "blank": "8",
+                    "answer": "has been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "started"
+                },
+                {
+                    "blank": "10",
+                    "answer": "has"
+                },
+                {
+                    "blank": "11",
+                    "answer": "obtained"
+                },
+                {
+                    "blank": "12",
+                    "answer": "look"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has been working"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have captured"
+                },
+                {
+                    "blank": "15",
+                    "answer": "discovered"
+                },
+                {
+                    "blank": "16",
+                    "answer": "have"
+                },
+                {
+                    "blank": "17",
+                    "answer": "seen"
+                }
+            ],
+            "explanation": {
+                "en": "This scientific career narrative demonstrates how past simple describes completed milestones while present perfect shows ongoing professional achievements and recent discoveries.",
+                "ru": "Этот рассказ о научной карьере демонстрирует, как прошедшее простое время описывает завершенные вехи, а настоящее совершенное показывает продолжающиеся профессиональные достижения и недавние открытия.",
+                "uz": "Bu ilmiy martaba hikoyasi o'tgan sodda zamon tugallangan muhim voqealarni qanday tasvirlashini, hozirgi mukammal zamon esa davom etayotgan professional yutuqlar va so'nggi kashfiyotlarni qanday ko'rsatishini namoyish etadi."
+            }
+        }
+    ]
+}

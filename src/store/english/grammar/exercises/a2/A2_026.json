@@ -1,0 +1,835 @@
+{
+    "id": "A2_PAST_PERFECT_INTRODUCTION_TO_PAST_PERFECT",
+    "title": "Past perfect - Introduction to past perfect",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has finished her work before I came."
+                },
+                {
+                    "answer": "She had finished her work before I came.",
+                    "correct": true
+                },
+                {
+                    "answer": "She have finished her work before I came."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect (had + past participle) is used for actions completed before another past action. 'Had finished' shows completion before 'came'.",
+                "ru": "Прошедшее совершенное время (had + причастие прошедшего времени) используется для действий, завершенных до другого прошедшего действия.",
+                "uz": "Past perfect (had + o'tgan zamon sifatdoshi) boshqa o'tgan zamon harakatidan oldin tugallangan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "They had already left when we arrived.",
+                    "correct": true
+                },
+                {
+                    "answer": "They have already left when we arrived."
+                },
+                {
+                    "answer": "They already left when we arrived."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had left' is correct because the leaving happened before the arriving (both past actions).",
+                "ru": "Прошедшее совершенное время 'had left' правильно, потому что уход произошел до прибытия (оба прошедшие действия).",
+                "uz": "'Had left' to'g'ri, chunki ketish yetib kelishdan oldin sodir bo'lgan (ikkala harakat ham o'tmishda)."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I had never seen such a beautiful sunset before."
+                },
+                {
+                    "answer": "I had never saw such a beautiful sunset before.",
+                    "correct": true
+                },
+                {
+                    "answer": "I never had seen such a beautiful sunset before."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect uses 'had + past participle'. 'Seen' is the past participle of 'see', not 'saw'.",
+                "ru": "Прошедшее совершенное время использует 'had + причастие прошедшего времени'. 'Seen' - это причастие от 'see', а не 'saw'.",
+                "uz": "Past perfect 'had + o'tgan zamon sifatdoshi' ishlatadi. 'Seen' - 'see' so'zining sifatdoshi, 'saw' emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "After he had eaten dinner, he watched TV.",
+                    "correct": true
+                },
+                {
+                    "answer": "After he has eaten dinner, he watched TV."
+                },
+                {
+                    "answer": "After he ate dinner, he had watched TV."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had eaten' shows the first action was completed before 'watched' (simple past).",
+                "ru": "Прошедшее совершенное время 'had eaten' показывает, что первое действие завершилось до 'watched' (простое прошедшее).",
+                "uz": "Past perfect 'had eaten' birinchi harakat 'watched'dan (oddiy o'tmish) oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "When I got to the station, the train left."
+                },
+                {
+                    "answer": "When I got to the station, the train had left.",
+                    "correct": true
+                },
+                {
+                    "answer": "When I got to the station, the train has left."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had left' indicates the train departed before I arrived at the station.",
+                "ru": "Прошедшее совершенное время 'had left' указывает, что поезд ушел до того, как я прибыл на станцию.",
+                "uz": "'Had left' poyezd men stansiyaga yetib kelishimdan oldin ketganini bildiradi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She had studied English for five years before she moved to London.",
+                    "correct": true
+                },
+                {
+                    "answer": "She has studied English for five years before she moved to London."
+                },
+                {
+                    "answer": "She studied English for five years before she had moved to London."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had studied' shows the studying period was completed before moving to London.",
+                "ru": "Прошедшее совершенное время 'had studied' показывает, что период изучения был завершен до переезда в Лондон.",
+                "uz": "'Had studied' o'qish davri Londonga ko'chishdan oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By the time we arrived, they have started the meeting."
+                },
+                {
+                    "answer": "By the time we arrived, they had started the meeting.",
+                    "correct": true
+                },
+                {
+                    "answer": "By the time we arrived, they started the meeting."
+                }
+            ],
+            "explanation": {
+                "en": "'By the time' with past perfect 'had started' shows the meeting began before our arrival.",
+                "ru": "'By the time' с прошедшим совершенным временем 'had started' показывает, что встреча началась до нашего прибытия.",
+                "uz": "'By the time' bilan past perfect 'had started' yig'ilish bizning kelishimizdan oldin boshlanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He had already gone to bed when his friends called."
+                },
+                {
+                    "answer": "He already had gone to bed when his friends called.",
+                    "correct": true
+                },
+                {
+                    "answer": "He has already gone to bed when his friends called."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had gone' indicates he was already in bed before the friends called.",
+                "ru": "Прошедшее совершенное время 'had gone' указывает, что он уже лег спать до того, как позвонили друзья.",
+                "uz": "'Had gone' do'stlari qo'ng'iroq qilishdan oldin u allaqachon uxlashga ketganini bildiradi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I had never been to Paris before that trip.",
+                    "correct": true
+                },
+                {
+                    "answer": "I never had been to Paris before that trip."
+                },
+                {
+                    "answer": "I have never been to Paris before that trip."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had never been' expresses no previous experience before a specific past time.",
+                "ru": "Прошедшее совершенное время 'had never been' выражает отсутствие предыдущего опыта до определенного момента в прошлом.",
+                "uz": "'Had never been' ma'lum o'tmish vaqtgacha avvalgi tajriba yo'qligini ifodalaydi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Before the movie started, we have bought popcorn."
+                },
+                {
+                    "answer": "Before the movie started, we had bought popcorn.",
+                    "correct": true
+                },
+                {
+                    "answer": "Before the movie started, we bought popcorn."
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had bought' shows the popcorn purchase happened before the movie started.",
+                "ru": "Прошедшее совершенное время 'had bought' показывает, что покупка попкорна произошла до начала фильма.",
+                "uz": "'Had bought' popkorn sotib olish kino boshlanishidan oldin bo'lganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (finish) her homework before dinner.",
+                "ru": "Дополните предложение: She ___ (finish) her homework before dinner.",
+                "uz": "Gapni to'ldiring: She ___ (finish) her homework before dinner."
+            },
+            "options": [
+                {
+                    "answer": "had finished",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had finished' shows homework completion before dinner (another past action).",
+                "ru": "Прошедшее совершенное время 'had finished' показывает завершение домашнего задания до ужина (другого прошедшего действия).",
+                "uz": "'Had finished' uy vazifasi kechki ovqatdan oldin (boshqa o'tmish harakat) tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: They ___ (leave) by the time I arrived.",
+                "ru": "Заполните пропуск: They ___ (leave) by the time I arrived.",
+                "uz": "Bo'shliqni to'ldiring: They ___ (leave) by the time I arrived."
+            },
+            "options": [
+                {
+                    "answer": "had left",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had left' indicates their departure occurred before my arrival.",
+                "ru": "Прошедшее совершенное время 'had left' указывает, что их уход произошел до моего прибытия.",
+                "uz": "'Had left' ularning ketishi mening kelishimdan oldin bo'lganini bildiradi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: He ___ (never/see) snow before moving to Canada.",
+                "ru": "Дополните правильной формой: He ___ (never/see) snow before moving to Canada.",
+                "uz": "To'g'ri shakl bilan to'ldiring: He ___ (never/see) snow before moving to Canada."
+            },
+            "options": [
+                {
+                    "answer": "had never seen",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had never seen' expresses lack of previous experience before a past event.",
+                "ru": "Прошедшее совершенное время 'had never seen' выражает отсутствие предыдущего опыта до прошедшего события.",
+                "uz": "'Had never seen' o'tmish voqeadan oldin avvalgi tajriba yo'qligini ifodalaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: After she ___ (read) the book, she watched the movie.",
+                "ru": "Заполните пропуск: After she ___ (read) the book, she watched the movie.",
+                "uz": "Bo'shliqni to'ldiring: After she ___ (read) the book, she watched the movie."
+            },
+            "options": [
+                {
+                    "answer": "had read",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had read' shows book reading was completed before watching the movie.",
+                "ru": "Прошедшее совершенное время 'had read' показывает, что чтение книги было завершено до просмотра фильма.",
+                "uz": "'Had read' kitob o'qish kino ko'rishdan oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (already/eat) when the guests arrived.",
+                "ru": "Дополните предложение: We ___ (already/eat) when the guests arrived.",
+                "uz": "Gapni to'ldiring: We ___ (already/eat) when the guests arrived."
+            },
+            "options": [
+                {
+                    "answer": "had already eaten",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had already eaten' indicates eating was finished before guests' arrival.",
+                "ru": "Прошедшее совершенное время 'had already eaten' указывает, что еда была закончена до прибытия гостей.",
+                "uz": "'Had already eaten' ovqatlanish mehmonlar kelishidan oldin tugallanganini bildiradi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: The train ___ (depart) before we reached the station.",
+                "ru": "Заполните пропуск: The train ___ (depart) before we reached the station.",
+                "uz": "Bo'shliqni to'ldiring: The train ___ (depart) before we reached the station."
+            },
+            "options": [
+                {
+                    "answer": "had departed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had departed' shows the train left before we arrived at the station.",
+                "ru": "Прошедшее совершенное время 'had departed' показывает, что поезд ушел до того, как мы добрались до станции.",
+                "uz": "'Had departed' poyezd biz stansiyaga yetib borishdan oldin ketganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: I ___ (study) English for two years before I visited England.",
+                "ru": "Дополните правильной формой: I ___ (study) English for two years before I visited England.",
+                "uz": "To'g'ri shakl bilan to'ldiring: I ___ (study) English for two years before I visited England."
+            },
+            "options": [
+                {
+                    "answer": "had studied",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had studied' shows the study period was completed before visiting England.",
+                "ru": "Прошедшее совершенное время 'had studied' показывает, что период изучения был завершен до посещения Англии.",
+                "uz": "'Had studied' o'qish davri Angliyaga tashrif buyurishdan oldin tugallanganini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: By the time the doctor arrived, the patient ___ (feel) better.",
+                "ru": "Заполните пропуск: By the time the doctor arrived, the patient ___ (feel) better.",
+                "uz": "Bo'shliqni to'ldiring: By the time the doctor arrived, the patient ___ (feel) better."
+            },
+            "options": [
+                {
+                    "answer": "had felt",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had felt' indicates the patient's improvement occurred before the doctor's arrival.",
+                "ru": "Прошедшее совершенное время 'had felt' указывает, что улучшение состояния пациента произошло до прибытия врача.",
+                "uz": "'Had felt' bemorning yaxshilanishi shifokor kelishidan oldin bo'lganini bildiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (work) there for five years when the company closed.",
+                "ru": "Дополните предложение: She ___ (work) there for five years when the company closed.",
+                "uz": "Gapni to'ldiring: She ___ (work) there for five years when the company closed."
+            },
+            "options": [
+                {
+                    "answer": "had worked",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had worked' shows her employment duration before the company closure.",
+                "ru": "Прошедшее совершенное время 'had worked' показывает продолжительность ее работы до закрытия компании.",
+                "uz": "'Had worked' kompaniya yopilishidan oldin uning ish faoliyati davomiyligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: He ___ (lose) his keys before he got home.",
+                "ru": "Заполните пропуск: He ___ (lose) his keys before he got home.",
+                "uz": "Bo'shliqni to'ldiring: He ___ (lose) his keys before he got home."
+            },
+            "options": [
+                {
+                    "answer": "had lost",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect 'had lost' indicates key loss occurred before reaching home.",
+                "ru": "Прошедшее совершенное время 'had lost' указывает, что потеря ключей произошла до того, как он добрался домой.",
+                "uz": "'Had lost' kalitlarni yo'qotish uyga yetib borishdan oldin bo'lganini bildiradi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah was exhausted when she finally arrived at the hotel. She ___1___ (travel) for over twelve hours and ___2___ (not sleep) at all during the flight. The journey ___3___ (be) much longer than she ___4___ (expect). Before leaving home, she ___5___ (pack) everything carefully and ___6___ (check) her passport three times. Her friend Emma ___7___ (recommend) this hotel because she ___8___ (stay) there the previous year. Sarah ___9___ (never visit) this country before, so she was very excited. She ___10___ (read) many travel guides and ___11___ (watch) documentaries about the place. The taxi driver told her that the weather ___12___ (be) terrible the week before, but now it was perfect for sightseeing. Sarah realized she ___13___ (worry) about the trip for nothing. All her careful planning ___14___ (pay off) and she was finally ready to enjoy her vacation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had traveled"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had not slept"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had expected"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had packed"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had checked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had recommended"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had stayed"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had never visited"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had read"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had watched"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had worried"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had paid off"
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect is used to show actions completed before other past actions or times. All these events happened before Sarah arrived at the hotel.",
+                "ru": "Прошедшее совершенное время используется для показа действий, завершенных до других прошедших действий или времени. Все эти события произошли до того, как Сара прибыла в отель.",
+                "uz": "Past perfect boshqa o'tmish harakatlar yoki vaqtlardan oldin tugallangan harakatlarni ko'rsatish uchun ishlatiladi. Bu voqealar Sara mehmonxonaga kelishidan oldin ro'y bergan."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When Mark walked into the office on Monday morning, he discovered that everything was different. The company ___1___ (relocate) all the departments over the weekend. His colleagues ___2___ (already move) their desks to the new floor. The IT department ___3___ (install) new computers and ___4___ (update) all the software systems. Mark felt confused because nobody ___5___ (tell) him about these changes. He ___6___ (work) late on Friday and ___7___ (not receive) the email about the weekend renovation. His manager later explained that the renovation team ___8___ (complete) the project ahead of schedule. They ___9___ (plan) to finish by Tuesday, but the work ___10___ (go) faster than expected. The cleaning crew ___11___ (already clean) everything and ___12___ (remove) all the old furniture. Mark realized he ___13___ (miss) an important announcement because he ___14___ (leave) early on Friday afternoon. He promised himself he would always check his emails more carefully in the future.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had relocated"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had already moved"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had installed"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had updated"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had told"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had worked"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had not received"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had completed"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had planned"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had gone"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had already cleaned"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had removed"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had missed"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had left"
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect describes actions that were completed before Mark arrived at the office on Monday. These past perfect actions provide background information for the main story.",
+                "ru": "Прошедшее совершенное время описывает действия, которые были завершены до того, как Марк пришел в офис в понедельник. Эти действия дают фоновую информацию для основной истории.",
+                "uz": "Past perfect Mark dushanba kuni ofisga kelishidan oldin tugallangan harakatlarni tasvirlaydi. Bu harakatlar asosiy voqea uchun fon ma'lumotlarini beradi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The concert was amazing, but Lisa arrived late and missed the beginning. When she finally found her seat, the orchestra ___1___ (already start) playing the first piece. Her friend Tom ___2___ (save) her a seat because he ___3___ (know) she might be delayed. Lisa ___4___ (get stuck) in traffic and ___5___ (try) to call Tom, but her phone battery ___6___ (die). She ___7___ (charge) it that morning, but she ___8___ (forget) to bring her charger. Tom told her later that the opening performance ___9___ (be) spectacular. The famous pianist ___10___ (play) a difficult sonata that he ___11___ (practice) for months. The audience ___12___ (give) him a standing ovation before Lisa arrived. She felt disappointed because she ___13___ (look forward) to hearing that particular piece. However, she ___14___ (enjoy) the rest of the concert and was grateful that Tom ___15___ (wait) for her despite her lateness.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had already started"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had saved"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had known"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had got stuck"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had tried"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had died"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had charged"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had forgotten"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had played"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had practiced"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had given"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had looked forward"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had enjoyed"
+                },
+                {
+                    "blank": "15",
+                    "answer": "had waited"
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect shows all the actions that happened before Lisa arrived at her seat. This creates a clear timeline of events leading up to the main moment.",
+                "ru": "Прошедшее совершенное время показывает все действия, которые произошли до того, как Лиза добралась до своего места. Это создает четкую временную линию событий, ведущих к главному моменту.",
+                "uz": "Past perfect Lisa o'z joyiga yetib borishidan oldin bo'lgan barcha harakatlarni ko'rsatadi. Bu asosiy momentgacha bo'lgan voqealarning aniq vaqt chizig'ini yaratadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "James was nervous about his job interview because he ___1___ (never have) one before. He ___2___ (graduate) from university just two months earlier and ___3___ (send) applications to many companies. This was the first company that ___4___ (respond) positively to his resume. His career counselor ___5___ (advise) him to research the company thoroughly, so he ___6___ (spend) hours reading about their history and products. He ___7___ (also practice) answering common interview questions with his roommate. On the morning of the interview, James discovered that his best suit ___8___ (wrinkle) badly in his closet. His mother ___9___ (iron) it for him the night before, but somehow it ___10___ (get) creased again. He ___11___ (plan) to wear his lucky tie, but he realized he ___12___ (leave) it at his friend's house after the graduation party. James felt stressed because he ___13___ (prepare) everything so carefully, but small problems kept appearing. Fortunately, his sister ___14___ (lend) him a nice tie, and he managed to look professional for the interview.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had never had"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had graduated"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had sent"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had responded"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had advised"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had spent"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had also practiced"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had wrinkled"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had ironed"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had got"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had planned"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had left"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had prepared"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had lent"
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect describes James's preparation and experiences before the interview day. Each action was completed prior to the main timeline of the story.",
+                "ru": "Прошедшее совершенное время описывает подготовку Джеймса и его опыт до дня собеседования. Каждое действие было завершено до основной временной линии истории.",
+                "uz": "Past perfect Jeymsning suhbat kunigacha bo'lgan tayyorgarlik va tajribalarini tasvirlaydi. Har bir harakat hikoyaning asosiy vaqt chizig'idan oldin tugallangan."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When Anna opened her laptop to start working, she noticed that something was wrong. Her computer was running very slowly, and many of her files ___1___ (disappear). She realized that a virus ___2___ (infect) her system sometime during the weekend. Her brother ___3___ (warn) her about suspicious emails, but she ___4___ (not listen) to his advice carefully. The previous week, she ___5___ (download) some free software from an unreliable website. Her antivirus program ___6___ (expire) months ago, and she ___7___ (forget) to renew it. Anna ___8___ (lose) all the photos from her recent vacation because she ___9___ (not backup) them to cloud storage. She ___10___ (promise) herself many times that she would be more careful with computer security, but she ___11___ (always postpone) updating her protection software. Her IT friend Tom ___12___ (offer) to help her set up better security, but she ___13___ (think) her computer was safe enough. Now she understood that she ___14___ (make) a serious mistake by ignoring cybersecurity.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had disappeared"
+                },
+                {
+                    "blank": "2",
+                    "answer": "had infected"
+                },
+                {
+                    "blank": "3",
+                    "answer": "had warned"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had not listened"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had downloaded"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had expired"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had forgotten"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had lost"
+                },
+                {
+                    "blank": "9",
+                    "answer": "had not backed up"
+                },
+                {
+                    "blank": "10",
+                    "answer": "had promised"
+                },
+                {
+                    "blank": "11",
+                    "answer": "had always postponed"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had offered"
+                },
+                {
+                    "blank": "13",
+                    "answer": "had thought"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had made"
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect shows all the actions and decisions that led to Anna's computer problems. These events happened before she discovered the virus infection.",
+                "ru": "Прошедшее совершенное время показывает все действия и решения, которые привели к проблемам с компьютером Анны. Эти события произошли до того, как она обнаружила вирусную инфекцию.",
+                "uz": "Past perfect Anna kompyuter muammolariga olib kelgan barcha harakatlar va qarorlarni ko'rsatadi. Bu voqealar u virus infeksiyasini kashf etishidan oldin sodir bo'lgan."
+            }
+        }
+    ]
+}

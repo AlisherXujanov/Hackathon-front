@@ -1,0 +1,683 @@
+{
+    "id": "A1_WOULD_YOU_LIKE_I_D_LIKE_POLITE_REQUESTS_AND_OFFERS",
+    "title": "Would you like? / I'd like - Polite requests and offers",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like some coffee?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you like some coffee?",
+                    "correct": false
+                },
+                {
+                    "answer": "You would like some coffee?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Would you like...?' to make a polite offer. 'Do you like...?' asks about a general preference.",
+                "ru": "Используйте 'Would you like...?', чтобы сделать вежливое предложение. 'Do you like...?' спрашивает о вашем общем предпочтении.",
+                "uz": "Vaziyatga qarab 'Would you like...?' ni xushmuomalalik bilan taklif qilish uchun ishlating. 'Do you like...?' umumiy afzal ko'rishni so'raydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I would like a glass of water.",
+                    "correct": true
+                },
+                {
+                    "answer": "I like a glass of water.",
+                    "correct": false
+                },
+                {
+                    "answer": "I would like some water a glass.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'I would like...' to make a polite request. It is often used to order food or drinks.",
+                "ru": "Используйте 'I would like...' для вежливой просьбы. Это часто используется для заказа еды или напитков.",
+                "uz": "Xushmuomalalik bilan so'rash uchun 'I would like...' dan foydalaning. Bu odatda ovqat yoki ichimlik buyurtma berishda ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like to come to my party?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you like to come to my party?",
+                    "correct": false
+                },
+                {
+                    "answer": "Would you like coming to my party?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Would you like to' followed by the base form of a verb to invite someone to do something.",
+                "ru": "Используйте 'Would you like to' с базовой формой глагола, чтобы пригласить кого-то что-то сделать.",
+                "uz": "Kimnidir biror narsa qilishga taklif qilish uchun fe'lning asosiy shaklidan keyin 'Would you like to' dan foydalaning."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We would like to order now.",
+                    "correct": true
+                },
+                {
+                    "answer": "We like to order now.",
+                    "correct": false
+                },
+                {
+                    "answer": "We would like order now.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Would like' is followed by 'to' and the base form of the verb when making a request or statement about what you want to do.",
+                "ru": "'Would like' следует за 'to' и базовой формой глагола, когда вы делаете просьбу или заявляете о том, что хотите сделать.",
+                "uz": "'Would like' ortidan 'to' va fe'lning asosiy shakli qo'yiladi, agar biron bir narsa haqida so'rash yoki istagingizni bildirish uchun foydalansangiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'd like to ask a question.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'd like asking a question.",
+                    "correct": false
+                },
+                {
+                    "answer": "I'd like ask a question.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The contracted form 'I'd like' is a polite way of saying 'I would like'. It is followed by 'to' and the base form of the verb.",
+                "ru": "Сокращенная форма 'I'd like' — это вежливый способ сказать 'I would like'. За ней следует 'to' и базовая форма глагола.",
+                "uz": "Qisqartirilgan 'I'd like' shakli 'I would like' so'zining xushmuomalalik bilan aytiladigan shaklidir. U fe'lning asosiy shakli va 'to' bilan birga ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like an apple or a pear?",
+                    "correct": true
+                },
+                {
+                    "answer": "Would you like an apple or the pear?",
+                    "correct": false
+                },
+                {
+                    "answer": "Would you like apple or pear?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The indefinite article 'an' is used before a singular noun that starts with a vowel sound, like 'apple'. The indefinite article 'a' is used before a singular noun that starts with a consonant sound, like 'pear'.",
+                "ru": "Неопределенный артикль 'an' используется перед существительным в единственном числе, начинающимся с гласного звука, например 'apple'. Неопределенный артикль 'a' используется перед существительным в единственном числе, начинающимся с согласного звука, например 'pear'.",
+                "uz": "Unli harflar bilan boshlangan 'apple' kabi otlardan oldin 'an' belgisiz artikli ishlatiladi. 'a' belgisiz artikli undosh harflar bilan boshlangan 'pear' kabi otlardan oldin ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I wouldn't like to go out now.",
+                    "correct": true
+                },
+                {
+                    "answer": "I not would like to go out now.",
+                    "correct": false
+                },
+                {
+                    "answer": "I would like not to go out now.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The negative form of 'would like' is 'would not like' or the contraction 'wouldn't like'. The negative particle 'not' comes after 'would'.",
+                "ru": "Отрицательная форма 'would like' — это 'would not like' или сокращение 'wouldn't like'. Отрицательная частица 'not' ставится после 'would'.",
+                "uz": "'would like' ning salbiy shakli 'would not like' yoki qisqartirilgan 'wouldn't like' dir. 'not' so'zi 'would'dan keyin keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like some tea?",
+                    "correct": true
+                },
+                {
+                    "answer": "Would you like a tea?",
+                    "correct": false
+                },
+                {
+                    "answer": "Would you like the tea?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Tea' is an uncountable noun in this context, so we use 'some' to refer to an unspecified quantity. 'A' is used for singular countable nouns.",
+                "ru": "'Tea' в этом контексте — неисчисляемое существительное, поэтому мы используем 'some' для обозначения неопределенного количества. 'A' используется для исчисляемых существительных в единственном числе.",
+                "uz": "'Tea' bu kontekstda sanalmaydigan ot bo'lgani uchun, noma'lum miqdorni bildirish uchun 'some' so'zidan foydalanamiz. 'A' so'zi birlikdagi sanaladigan otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Would you like to meet on Saturday?",
+                    "correct": true
+                },
+                {
+                    "answer": "Would you like meeting on Saturday?",
+                    "correct": false
+                },
+                {
+                    "answer": "Would you like meet on Saturday?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct verb form to follow 'would like to' is the base form of the verb, 'meet'.",
+                "ru": "Правильная форма глагола, которая следует за 'would like to', — это базовая форма глагола, 'meet'.",
+                "uz": "'would like to' dan keyin qo'llaniladigan to'g'ri fe'l shakli fe'lning asosiy shakli, 'meet' dir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I'd like to book a flight to London.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'd like to book a flight for London.",
+                    "correct": false
+                },
+                {
+                    "answer": "I'd like a flight book to London.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'to book a flight to...' is a common colocation. It means to reserve a seat on a plane to a specific destination.",
+                "ru": "Выражение 'to book a flight to...' является распространенным словосочетанием. Оно означает забронировать место в самолете до определенного пункта назначения.",
+                "uz": "'to book a flight to...' ifodasi keng tarqalgan so'z birikmasidir. Bu samolyotda ma'lum bir manzilga joy bron qilishni anglatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Would you like ___ tea or coffee?",
+                "ru": "Дополните предложение: Would you like ___ tea or coffee?",
+                "uz": "Gapni to'ldiring: Would you like ___ tea or coffee?"
+            },
+            "options": [
+                {
+                    "answer": "some",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'some' is used here to refer to an unspecified quantity of an uncountable noun.",
+                "ru": "Слово 'some' здесь используется для обозначения неопределенного количества неисчисляемого существительного.",
+                "uz": "'some' so'zi bu yerda sanalmaydigan otning noma'lum miqdoriga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ like a slice of cake.",
+                "ru": "Дополните предложение: I ___ like a slice of cake.",
+                "uz": "Gapni to'ldiring: I ___ like a slice of cake."
+            },
+            "options": [
+                {
+                    "answer": "would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct auxiliary verb to form a polite request with 'like' is 'would'.",
+                "ru": "Правильный вспомогательный глагол для формирования вежливой просьбы с 'like' - это 'would'.",
+                "uz": "'like' bilan xushmuomalalik bilan so'rov tuzish uchun to'g'ri yordamchi fe'l 'would' dir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Would you like ___ a movie?",
+                "ru": "Дополните предложение: Would you like ___ a movie?",
+                "uz": "Gapni to'ldiring: Would you like ___ a movie?"
+            },
+            "options": [
+                {
+                    "answer": "to watch",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When using 'would like' to suggest an activity, you must use 'to' followed by the base form of the verb.",
+                "ru": "При использовании 'would like' для предложения какого-либо действия, вы должны использовать 'to', за которым следует базовая форма глагола.",
+                "uz": "'would like' so'zidan biror ishni bajarishni taklif qilish uchun foydalanganda, fe'lning asosiy shaklidan oldin 'to' so'zini qo'yishingiz kerak."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We'd like to ___ a table for two.",
+                "ru": "Дополните предложение: We'd like to ___ a table for two.",
+                "uz": "Gapni to'ldiring: We'd like to ___ a table for two."
+            },
+            "options": [
+                {
+                    "answer": "book/reserve",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Book' or 'reserve' are the correct verbs to use in the context of getting a table at a restaurant.",
+                "ru": "'Book' или 'reserve' — это правильные глаголы, используемые в контексте бронирования столика в ресторане.",
+                "uz": "'Book' yoki 'reserve' restoranlarda joy bron qilish kontekstida ishlatiladigan to'g'ri fe'llardir."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ like to come with us.",
+                "ru": "Дополните предложение: He ___ like to come with us.",
+                "uz": "Gapni to'ldiring: He ___ like to come with us."
+            },
+            "options": [
+                {
+                    "answer": "would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'would' is the same for all subjects and does not change form.",
+                "ru": "Вспомогательный глагол 'would' одинаков для всех подлежащих и не меняет своей формы.",
+                "uz": "'would' yordamchi fe'li barcha shaxslar uchun bir xil bo'lib, o'zgarmaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I'd like to ___ the manager.",
+                "ru": "Дополните предложение: I'd like to ___ the manager.",
+                "uz": "Gapni to'ldiring: I'd like to ___ the manager."
+            },
+            "options": [
+                {
+                    "answer": "speak to/talk to/see",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'To speak to', 'to talk to', or 'to see' are common phrases to use when you want to meet or talk with someone.",
+                "ru": "'To speak to', 'to talk to' или 'to see' — это распространенные фразы, используемые, когда вы хотите встретиться или поговорить с кем-то.",
+                "uz": "'To speak to', 'to talk to' yoki 'to see' kimdir bilan uchrashish yoki gaplashishni istaganingizda ishlatiladigan umumiy so'z birikmalaridir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ you like to have some more cake?",
+                "ru": "Дополните предложение: ___ you like to have some more cake?",
+                "uz": "Gapni to'ldiring: ___ you like to have some more cake?"
+            },
+            "options": [
+                {
+                    "answer": "Would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Would' is used at the beginning of a question to make a polite offer.",
+                "ru": "'Would' используется в начале вопроса для того, чтобы сделать вежливое предложение.",
+                "uz": "'Would' so'zi savolning boshida xushmuomalalik bilan taklif bildirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ not like to eat spicy food.",
+                "ru": "Дополните предложение: I ___ not like to eat spicy food.",
+                "uz": "Gapni to'ldiring: I ___ not like to eat spicy food."
+            },
+            "options": [
+                {
+                    "answer": "would",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Would' is the correct auxiliary verb to form the negative with 'not like' in a polite statement.",
+                "ru": "'Would' — это правильный вспомогательный глагол для образования отрицания с 'not like' в вежливом предложении.",
+                "uz": "'Would' xushmuomalalik bilan salbiy gap tuzish uchun 'not like' bilan ishlatiladigan to'g'ri yordamchi fe'ldir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She'd like to ___ a new phone.",
+                "ru": "Дополните предложение: She'd like to ___ a new phone.",
+                "uz": "Gapni to'ldiring: She'd like to ___ a new phone."
+            },
+            "options": [
+                {
+                    "answer": "buy/get/purchase",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Buy' or 'get' are suitable verbs here. They express the desire to acquire an item.",
+                "ru": "'Buy' или 'get' являются подходящими глаголами здесь. Они выражают желание приобрести предмет.",
+                "uz": "'Buy' yoki 'get' bu yerda mos fe'llardir. Ular biror narsani sotib olish istagini bildiradi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Would you like to ___ a drink with me?",
+                "ru": "Дополните предложение: Would you like to ___ a drink with me?",
+                "uz": "Gapni to'ldiring: Would you like to ___ a drink with me?"
+            },
+            "options": [
+                {
+                    "answer": "have",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Have' is a common verb used to talk about consuming food or drink.",
+                "ru": "'Have' — это распространенный глагол, используемый, когда говорят о еде или напитках.",
+                "uz": "'Have' ovqat yoki ichimlik iste'mol qilish haqida gapirganda ishlatiladigan keng tarqalgan fe'ldir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, I am calling about the job advertisement. I ___1___ to speak to the manager, please. She is busy at the moment, but ___2___ you like to leave a message? Yes, I ___3___ like to. Please tell her I am available for an interview this week. ___4___ you like to come in tomorrow morning? Oh, yes, I'd ___5___ to. Thank you very much.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would like"
+                },
+                {
+                    "blank": "2",
+                    "answer": "would"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "love"
+                }
+            ],
+            "explanation": {
+                "en": "'Would like' is a polite way to state a desire or make a request. It is often used to ask for things, to offer things or to invite someone. 'Would you like to' is used to make an offer.",
+                "ru": "'Would like' - это вежливый способ выразить желание или сделать просьбу. 'Would you like to' используется для того, чтобы что-то предложить.",
+                "uz": "'Would like' xohishni bildirish yoki xushmuomalalik bilan so'rov qilishning usulidir. Bu odatda biror narsa so'rash, taklif qilish yoki kimnidir taklif qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "At a restaurant, a waiter asks, 'What ___1___ you like to drink?' I ___2___ like a glass of orange juice, please. And for you, sir? ___3___ you like some water? No, thank you, I'd ___4___ a coffee. What about dessert? ___5___ you like to try our special cake? Yes, I'd love to! I'd like ___6___ a slice. It sounds delicious.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "would"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "like"
+                },
+                {
+                    "blank": "5",
+                    "answer": "would"
+                },
+                {
+                    "blank": "6",
+                    "answer": "to have"
+                }
+            ],
+            "explanation": {
+                "en": "'Would like' is used to make polite offers and requests, especially when ordering food and drinks. 'Would you like to' is used when asking someone about a specific action or item they desire.",
+                "ru": "'Would like' используется для вежливых предложений и просьб, особенно при заказе еды и напитков. 'Would you like to' используется, когда вы спрашиваете кого-то о конкретном действии или предмете, который он хочет.",
+                "uz": "'Would like' so'zi, ayniqsa, ovqat va ichimlik buyurtma berishda xushmuomalalik bilan taklif va so'rovlar qilish uchun ishlatiladi. 'Would you like to' esa kimdandir o'zi xohlagan harakat yoki buyum haqida so'raganda ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Hello, I'm calling about the apartment for rent. I ___1___ to know if it's still available. Yes, it is. ___2___ you like to come and see it this evening? I'm sorry, I ___3___ not like to. I'm busy tonight. What about tomorrow morning? Yes, I'd ___4___ to. What time ___5___ you like to meet?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would like"
+                },
+                {
+                    "blank": "2",
+                    "answer": "would"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "love"
+                },
+                {
+                    "blank": "5",
+                    "answer": "would"
+                }
+            ],
+            "explanation": {
+                "en": "This conversation uses 'would like' to make and respond to polite requests and offers. The phrase 'I would not like' is the negative form, and 'I'd love to' is a polite and enthusiastic way to accept an offer.",
+                "ru": "В этом разговоре 'would like' используется для того, чтобы делать вежливые просьбы и предложения и отвечать на них. Фраза 'I would not like' — это отрицательная форма, а 'I'd love to' — вежливый и восторженный способ принять предложение.",
+                "uz": "Ushbu suhbatda xushmuomalalik bilan so'rovlar va takliflar qilish hamda ularga javob berish uchun 'would like' ishlatiladi. 'I would not like' iborasi salbiy shakl bo'lsa, 'I'd love to' esa taklifni qabul qilishning xushmuomala va ishtiyoqli usulidir."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "I am planning a trip to Italy. I'd ___1___ to visit Rome and Venice. My friend ___2___ like to go to Milan. He's very interested in fashion. We'd ___3___ to find a cheap hotel. I ___4___ like to pay more than 80 euros a night. My friend ___5___ not like to stay in a hostel, so we need a hotel. ___6___ you like to help us find something? We ___7___ like a list of affordable hotels. We would be very grateful.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "like"
+                },
+                {
+                    "blank": "2",
+                    "answer": "would"
+                },
+                {
+                    "blank": "3",
+                    "answer": "like"
+                },
+                {
+                    "blank": "4",
+                    "answer": "would"
+                },
+                {
+                    "blank": "5",
+                    "answer": "would"
+                },
+                {
+                    "blank": "6",
+                    "answer": "would"
+                },
+                {
+                    "blank": "7",
+                    "answer": "would like"
+                }
+            ],
+            "explanation": {
+                "en": "'Would like' and its contracted form 'I'd like' are used here to talk about plans and desires in a polite way. The negative form 'would not like' is used to express what someone doesn't want. The question form 'would you like' is used to make a polite request for help.",
+                "ru": "'Would like' и его сокращенная форма 'I'd like' используются здесь для того, чтобы вежливо говорить о планах и желаниях. Отрицательная форма 'would not like' используется для выражения того, чего кто-то не хочет. Форма вопроса 'would you like' используется для того, чтобы сделать вежливую просьбу о помощи.",
+                "uz": "'Would like' va uning qisqartirilgan 'I'd like' shakli bu yerda rejalaringiz va xohishlaringiz haqida xushmuomala tarzda gapirish uchun ishlatiladi. 'Would not like' salbiy shakli esa kimdir nimani xohlamayotganini ifodalash uchun qo'llaniladi. 'Would you like' savol shakli yordam so'rab xushmuomalalik bilan so'rov qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "A: Excuse me, ___1___ you like some help with your bags? B: Oh, yes, thank you very much. I'd ___2___ some help. A: You're welcome. ___3___ you like to go to the information desk first? B: No, thank you, I'd ___4___ to find the train station. A: Okay, I can show you the way. I'd ___5___ to. It's that way. B: Thanks, that's very kind of you.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "would"
+                },
+                {
+                    "blank": "2",
+                    "answer": "like"
+                },
+                {
+                    "blank": "3",
+                    "answer": "would"
+                },
+                {
+                    "blank": "4",
+                    "answer": "like"
+                },
+                {
+                    "blank": "5",
+                    "answer": "like"
+                }
+            ],
+            "explanation": {
+                "en": "The dialogue demonstrates how 'would like' and its contractions are used to make and respond to offers and requests in a polite and helpful manner. The verb 'like' is used on its own after 'would' to form the full polite expression.",
+                "ru": "Диалог демонстрирует, как 'would like' и его сокращения используются для вежливого и полезного создания предложений и просьб. Глагол 'like' используется сам по себе после 'would', чтобы сформировать полное вежливое выражение.",
+                "uz": "Bu dialog 'would like' va uning qisqartirilgan shakllari takliflar va so'rovlarni xushmuomalalik bilan qilish hamda ularga javob berishda qanday ishlatilishini ko'rsatadi. 'like' fe'li 'would'dan keyin xushmuomala ifodani to'liq shakllantirish uchun yolg'iz ishlatiladi."
+            }
+        }
+    ]
+}

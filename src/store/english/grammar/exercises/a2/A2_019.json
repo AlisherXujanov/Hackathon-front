@@ -1,0 +1,755 @@
+{
+    "id": "A2_QUESTIONS_ALL_QUESTION_TYPES_AND_STRUCTURES",
+    "title": "Questions - All question types and structures",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Do she live in London?",
+                    "correct": false
+                },
+                {
+                    "answer": "Does she live in London?",
+                    "correct": true
+                },
+                {
+                    "answer": "Does she lives in London?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For third-person singular subjects (he, she, it) in the simple present, the auxiliary verb is 'does.' The main verb remains in its base form.",
+                "ru": "Для подлежащих третьего лица единственного числа (he, she, it) в простом настоящем времени используется вспомогательный глагол 'does.' Основной глагол остаётся в своей базовой форме.",
+                "uz": "Hozirgi oddiy zamonda uchinchi shaxs birlik egalari (he, she, it) uchun 'does' yordamchi fe'lidan foydalaniladi. Asosiy fe'l esa o'zining bosh shaklida qoladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is grammatically correct?",
+                "ru": "Какой вопрос грамматически правильный?",
+                "uz": "Qaysi savol grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "You are a student?",
+                    "correct": false
+                },
+                {
+                    "answer": "Are you a student?",
+                    "correct": true
+                },
+                {
+                    "answer": "A student you are?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with the verb 'to be,' you invert the subject and the verb. The structure is 'Are/Is/Am + subject + ...?'",
+                "ru": "Чтобы задать вопрос с глаголом 'to be,' вы меняете местами подлежащее и глагол. Структура: 'Are/Is/Am + подлежащее + ...?'",
+                "uz": "'To be' fe'li bilan savol tuzish uchun ega va fe'lning o'rni almashtiriladi. Tuzilishi: 'Are/Is/Am + ega + ...?'"
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What time is the train leave?",
+                    "correct": false
+                },
+                {
+                    "answer": "What time does the train leave?",
+                    "correct": true
+                },
+                {
+                    "answer": "What time the train leaves?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Questions with 'what time' use the auxiliary verb 'does' for a singular subject, followed by the base form of the main verb.",
+                "ru": "Вопросы с 'what time' используют вспомогательный глагол 'does' для подлежащего в единственном числе, за которым следует базовая форма основного глагола.",
+                "uz": "'What time' bilan boshlanuvchi savollarda birlikdagi ega uchun 'does' yordamchi fe'lidan so'ng asosiy fe'lning bosh shakli qo'llaniladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is a correct question?",
+                "ru": "Какое предложение является правильным вопросом?",
+                "uz": "Qaysi gap to'g'ri savol hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "He can speak Spanish?",
+                    "correct": false
+                },
+                {
+                    "answer": "Can he speaks Spanish?",
+                    "correct": false
+                },
+                {
+                    "answer": "Can he speak Spanish?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To form a question with a modal verb like 'can,' the structure is 'modal verb + subject + base form of the main verb.' The main verb does not take an 's' for third-person singular.",
+                "ru": "Чтобы сформировать вопрос с модальным глаголом, например 'can,' структура 'модальный глагол + подлежащее + базовая форма основного глагола.' Основной глагол не принимает 's' для третьего лица единственного числа.",
+                "uz": "'Can' kabi modal fe'l bilan savol tuzish uchun tuzilish 'modal fe'l + ega + asosiy fe'lning bosh shakli' bo'ladi. Asosiy fe'l uchinchi shaxs birlikda 's' qo'shimchasini olmaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did you went to the store yesterday?",
+                    "correct": false
+                },
+                {
+                    "answer": "Did you go to the store yesterday?",
+                    "correct": true
+                },
+                {
+                    "answer": "Did you goes to the store yesterday?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In past simple questions with the auxiliary verb 'did,' the main verb always returns to its base form, not the past tense.",
+                "ru": "В вопросах в прошедшем простом времени со вспомогательным глаголом 'did,' основной глагол всегда возвращается к своей базовой форме, а не к форме прошедшего времени.",
+                "uz": "O'tgan oddiy zamondagi savollarda 'did' yordamchi fe'li bilan asosiy fe'l har doim o'zining bosh shakliga qaytadi, o'tgan zamon shaklida qolmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which question is grammatically correct?",
+                "ru": "Какой вопрос грамматически правильный?",
+                "uz": "Qaysi savol grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "Where your brother works?",
+                    "correct": false
+                },
+                {
+                    "answer": "Where does your brother work?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where do your brother works?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For 'wh-' questions in the simple present, the structure is 'wh-word + auxiliary (do/does) + subject + base form of the verb.' 'Your brother' is a singular subject, so 'does' is used.",
+                "ru": "Для 'wh-' вопросов в простом настоящем времени структура 'wh-слово + вспомогательный глагол (do/does) + подлежащее + базовая форма глагола.' 'Your brother' является подлежащим в единственном числе, поэтому используется 'does.'",
+                "uz": "Hozirgi oddiy zamondagi 'wh-' savollar uchun tuzilish 'wh-so'z + yordamchi fe'l (do/does) + ega + fe'lning bosh shakli' bo'ladi. 'Your brother' birlikdagi ega bo'lgani uchun 'does' ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What are you doing now?",
+                    "correct": true
+                },
+                {
+                    "answer": "What you are doing now?",
+                    "correct": false
+                },
+                {
+                    "answer": "What you doing now?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In a 'wh-' question in the present continuous tense, the auxiliary verb 'are' comes before the subject 'you.'",
+                "ru": "В 'wh-' вопросе в настоящем продолженном времени вспомогательный глагол 'are' ставится перед подлежащим 'you.'",
+                "uz": "Hozirgi davomli zamondagi 'wh-' savolida 'are' yordamchi fe'li 'you' egasidan oldin keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is a correct question?",
+                "ru": "Какое предложение является правильным вопросом?",
+                "uz": "Qaysi gap to'g'ri savol hisoblanadi?"
+            },
+            "options": [
+                {
+                    "answer": "Who is coming with us?",
+                    "correct": true
+                },
+                {
+                    "answer": "Who is he coming with?",
+                    "correct": false
+                },
+                {
+                    "answer": "Who coming with us?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "When the 'wh-' word is the subject of the sentence, we don't use an auxiliary verb. The structure is 'Who + verb + ...?'",
+                "ru": "Когда 'wh-' слово является подлежащим предложения, мы не используем вспомогательный глагол. Структура: 'Who + глагол + ...?'",
+                "uz": "'Wh-' so'zi gapning egasi bo'lganida, biz yordamchi fe'ldan foydalanmaymiz. Tuzilishi: 'Who + fe'l + ...?'"
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Did you like the movie?",
+                    "correct": true
+                },
+                {
+                    "answer": "You liked the movie?",
+                    "correct": false
+                },
+                {
+                    "answer": "Did you liked the movie?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "Questions in the past simple use 'Did' followed by the base form of the main verb, 'like.'",
+                "ru": "Вопросы в прошедшем простом времени используют 'Did,' за которым следует базовая форма основного глагола, 'like.'",
+                "uz": "O'tgan oddiy zamondagi savollar 'Did' so'zidan keyin asosiy fe'lning bosh shakli, ya'ni 'like' bilan tuziladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which is the correct question?",
+                "ru": "Какой вопрос правильный?",
+                "uz": "Qaysi savol to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "How many books do you have?",
+                    "correct": true
+                },
+                {
+                    "answer": "How many books you have?",
+                    "correct": false
+                },
+                {
+                    "answer": "How many books does you have?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct structure for 'how many' questions is 'How many + noun + auxiliary verb (do/does/did) + subject + main verb.' 'Do' is used with the subject 'you.'",
+                "ru": "Правильная структура для вопросов с 'how many' - 'How many + существительное + вспомогательный глагол (do/does/did) + подлежащее + основной глагол.' 'Do' используется с подлежащим 'you.'",
+                "uz": "'How many' savollari uchun to'g'ri tuzilish 'How many + ot + yordamchi fe'l (do/does/did) + ega + asosiy fe'l' hisoblanadi. 'Do' 'you' egasi bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: Where ___ she work?",
+                "ru": "Дополните вопрос: Where ___ she work?",
+                "uz": "Savolni to'ldiring: Where ___ she work?"
+            },
+            "options": [
+                {
+                    "answer": "does",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'does' is used for third-person singular subjects (he, she, it) in simple present questions.",
+                "ru": "Вспомогательный глагол 'does' используется для подлежащих третьего лица единственного числа (he, she, it) в вопросах в простом настоящем времени.",
+                "uz": "Hozirgi oddiy zamondagi savollarda uchinchi shaxs birlik egalari (he, she, it) uchun 'does' yordamchi fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ you like to drink coffee?",
+                "ru": "Дополните вопрос: ___ you like to drink coffee?",
+                "uz": "Savolni to'ldiring: ___ you like to drink coffee?"
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'do' is used for the subject 'you' in simple present questions.",
+                "ru": "Вспомогательный глагол 'do' используется с подлежащим 'you' в вопросах в простом настоящем времени.",
+                "uz": "Hozirgi oddiy zamondagi savollarda 'do' yordamchi fe'li 'you' egasi bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: When ___ they arrive?",
+                "ru": "Дополните вопрос: When ___ they arrive?",
+                "uz": "Savolni to'ldiring: When ___ they arrive?"
+            },
+            "options": [
+                {
+                    "answer": "did",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To ask a 'wh-' question about the past, the auxiliary verb 'did' is used.",
+                "ru": "Чтобы задать 'wh-' вопрос о прошлом, используется вспомогательный глагол 'did.'",
+                "uz": "O'tgan zamon haqida 'wh-' savol berish uchun 'did' yordamchi fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: What ___ you doing right now?",
+                "ru": "Дополните вопрос: What ___ you doing right now?",
+                "uz": "Savolni to'ldiring: What ___ you doing right now?"
+            },
+            "options": [
+                {
+                    "answer": "are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'to be' ('are') is used to form a question in the present continuous tense.",
+                "ru": "Глагол 'to be' ('are') используется для формирования вопроса в настоящем продолженном времени.",
+                "uz": "Hozirgi davomli zamonda savol tuzish uchun 'to be' fe'li ('are') ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ there a park nearby?",
+                "ru": "Дополните вопрос: ___ there a park nearby?",
+                "uz": "Savolni to'ldiring: ___ there a park nearby?"
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To ask about the existence of a singular noun, we use 'Is there...?'",
+                "ru": "Чтобы спросить о существовании единственного существительного, мы используем 'Is there...?'",
+                "uz": "Birlikdagi otning mavjudligi haqida so'rash uchun 'Is there...?' shaklidan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: How ___ can I get to the station?",
+                "ru": "Дополните вопрос: How ___ can I get to the station?",
+                "uz": "Savolni to'ldiring: How ___ can I get to the station?"
+            },
+            "options": [
+                {
+                    "answer": "far",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'How far' is the correct question structure to ask about distance.",
+                "ru": "'How far' — это правильная структура вопроса, чтобы спросить о расстоянии.",
+                "uz": "'How far' masofa haqida savol berish uchun to'g'ri savol tuzilmasidir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: Why ___ you look so tired?",
+                "ru": "Дополните вопрос: Why ___ you look so tired?",
+                "uz": "Savolni to'ldiring: Why ___ you look so tired?"
+            },
+            "options": [
+                {
+                    "answer": "do",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The auxiliary verb 'do' is necessary to form a 'wh-' question in the simple present tense with the subject 'you.'",
+                "ru": "Вспомогательный глагол 'do' необходим для формирования 'wh-' вопроса в простом настоящем времени с подлежащим 'you.'",
+                "uz": "'Do' yordamchi fe'li hozirgi oddiy zamonda 'you' egasi bilan 'wh-' savol tuzish uchun zarurdir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: When ___ the movie start?",
+                "ru": "Дополните вопрос: When ___ the movie start?",
+                "uz": "Savolni to'ldiring: When ___ the movie start?"
+            },
+            "options": [
+                {
+                    "answer": "does",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For a singular subject like 'the movie,' the auxiliary verb 'does' is used in simple present questions.",
+                "ru": "Для подлежащего в единственном числе, такого как 'the movie,' в вопросах в простом настоящем времени используется вспомогательный глагол 'does.'",
+                "uz": "'The movie' kabi birlikdagi ega uchun hozirgi oddiy zamondagi savollarda 'does' yordamchi fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ he happy with the result?",
+                "ru": "Дополните вопрос: ___ he happy with the result?",
+                "uz": "Savolni to'ldiring: ___ he happy with the result?"
+            },
+            "options": [
+                {
+                    "answer": "is",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'to be' ('is') is used to form a question with the subject 'he' about a state of being.",
+                "ru": "Глагол 'to be' ('is') используется для формирования вопроса с подлежащим 'he' о состоянии.",
+                "uz": "Holat haqida 'he' egasi bilan savol tuzish uchun 'to be' fe'li ('is') ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: How many ___ are in the class?",
+                "ru": "Дополните вопрос: How many ___ are in the class?",
+                "uz": "Savolni to'ldiring: How many ___ are in the class?"
+            },
+            "options": [
+                {
+                    "answer": "students/people/children",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'How many' is followed by a countable plural noun to ask about quantity.",
+                "ru": "'How many' следует за исчисляемым существительным во множественном числе, чтобы спросить о количестве.",
+                "uz": "'How many' soni haqida so'rash uchun sanaladigan ko'plikdagi ot bilan birga keladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Last week, my friend Mike and I decided to take a trip. We left early on Saturday morning. ___1___ (Did/Do) you know what time we left? We left at 6 a.m. sharp. Our first stop was a small town. When we got there, I was curious. I asked Mike, “___2___ (What/Where) is the best place to eat?” He said, “There's a great diner on Main Street.” We went there and had breakfast. The food was delicious. I asked the waiter, “___3___ (How much/How many) does this burger cost?” He told me the price, which was very reasonable. After breakfast, we explored the town. I saw a beautiful old building. I asked Mike, “___4___ (What/Who) built this?” He didn't know the answer. The town was small, so we decided to continue our journey. As we were driving, I asked Mike, “___5___ (Are/Were) you having a good time?” He smiled and said, “Yes, I am!” We drove for a few more hours and finally arrived at our destination. I was very tired. I asked Mike, “___6___ (Can/Should) we stop now?” He agreed, and we found a place to rest. The next day, before we went home, I asked him one more question. “___7___ (Did/Does) you enjoy this trip?” He said, “I loved it! Let’s do it again soon.”",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Do"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "3",
+                    "answer": "How much"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Did"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests different question types. 'Do' is used for general questions about the present. 'Where' asks about a location. 'How much' is used for price. 'Who' is used when asking about the subject. 'Are' is used in the present continuous. 'Can' asks about ability or possibility. 'Did' is used for past simple questions.",
+                "ru": "Это упражнение проверяет разные типы вопросов. 'Do' используется для общих вопросов о настоящем. 'Where' спрашивает о местоположении. 'How much' используется для цены. 'Who' используется, когда спрашивают о подлежащем. 'Are' используется в настоящем продолженном. 'Can' спрашивает о возможности. 'Did' используется для вопросов в прошедшем простом времени.",
+                "uz": "Ushbu mashq savollarning turli xil turlarini tekshiradi. 'Do' hozirgi zamon haqida umumiy savollar uchun ishlatiladi. 'Where' joylashuv haqida so'raydi. 'How much' narx uchun ishlatiladi. 'Who' ega haqida so'ralganda ishlatiladi. 'Are' hozirgi davomli zamonda qo'llaniladi. 'Can' imkoniyat haqida so'raydi. 'Did' o'tgan oddiy zamondagi savollar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Sarah is a new student in my class. I want to get to know her better. I decided to ask her a few questions. First, I asked her, “___1___ (Are/Is) you from this city?” She replied, “Yes, I am.” Then I asked, “___2___ (Do/Does) you like our class?” She said, “I really enjoy it!” I wanted to know about her hobbies. I asked, “___3___ (What/When) kind of music ___4___ (do/does) you listen to?” She told me she loves pop music. I also asked, “___5___ (How often/How much) do you go to the cinema?” She said, “Once a month.” We talked more about her life. I learned she has a younger brother. “___6___ (Is/Does) your brother go to the same school?” I asked. She said no. I also wanted to know more about her family. “___7___ (What/Who) is your favorite actor?” I asked, thinking about movies. She said it was Tom Hanks. We talked a little more about school. I asked, “___8___ (What/Why) time ___9___ (do/does) your classes start in the morning?” She replied, “At 9 a.m.” Finally, I asked her, “___10___ (Are/Were) you ready for the test next week?” She said, “Yes, I think so!”",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Do"
+                },
+                {
+                    "blank": "3",
+                    "answer": "What"
+                },
+                {
+                    "blank": "4",
+                    "answer": "do"
+                },
+                {
+                    "blank": "5",
+                    "answer": "How often"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Does"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "8",
+                    "answer": "What"
+                },
+                {
+                    "blank": "9",
+                    "answer": "do"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Are"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise covers a range of 'wh-' and yes/no questions. 'Are' is used with 'you' in present simple questions with the verb 'to be.' 'Do' and 'does' are the correct auxiliaries for present simple questions, depending on the subject. 'What' asks about information, 'How often' about frequency, and 'Who' about a person. 'What time' is used to ask about a specific time.",
+                "ru": "Это упражнение охватывает различные типы 'wh-' и да/нет вопросов. 'Are' используется с 'you' в вопросах в простом настоящем времени с глаголом 'to be.' 'Do' и 'does' являются правильными вспомогательными глаголами для вопросов в простом настоящем времени, в зависимости от подлежащего. 'What' спрашивает об информации, 'How often' о частоте, а 'Who' о человеке. 'What time' используется, чтобы спросить о конкретном времени.",
+                "uz": "Ushbu mashq 'wh-' va ha/yo'q savollarning turli turlarini o'z ichiga oladi. 'Are' hozirgi oddiy zamondagi 'to be' fe'li bilan savollarda 'you' egasi bilan ishlatiladi. 'Do' va 'does' ega qarab hozirgi oddiy zamondagi savollar uchun to'g'ri yordamchi fe'llardir. 'What' ma'lumot haqida, 'How often' chastota haqida va 'Who' shaxs haqida so'raydi. 'What time' aniq vaqt haqida so'rash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My friend David just moved to a new house. I went to visit him last weekend. When I arrived, I asked him a question. “___1___ (Do/Did) you like your new house?” He said he loved it. The house was very big, and I had many questions. I asked, “___2___ (What/How) many rooms ___3___ (do/does) it have?” He told me there are five bedrooms. “___4___ (Is/Are) there a big garden?” I asked. “Yes, there is,” he said. The garden looked amazing. I then saw a beautiful old car in his garage. I asked, “___5___ (Who/What) is this car?” David said it was his father's car from the 1970s. We went inside and I saw a very nice, big kitchen. I asked, “___6___ (Do/Did) you cook in this kitchen often?” He replied that he cooks every day. I also asked, “___7___ (How/Where) ___8___ (do/does) you get the new furniture from?” He said he bought it online. As I was leaving, I had one last question for him. “___9___ (Will/Can) you invite me for dinner soon?” He laughed and said, “Yes, I will.”",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "2",
+                    "answer": "How"
+                },
+                {
+                    "blank": "3",
+                    "answer": "does"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "What"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Do"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "8",
+                    "answer": "did"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Will"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various question forms. 'Did' is used for a question about the past. 'How many' is used for quantity. 'Does' is the auxiliary for singular subjects. 'Is there' asks about the existence of a singular noun. 'What' asks for a description or identity. 'Do' is the correct auxiliary for the subject 'you.' 'Where' asks about a location. 'Will' asks about a future action.",
+                "ru": "Это упражнение проверяет различные формы вопросов. 'Did' используется для вопроса о прошлом. 'How many' используется для количества. 'Does' является вспомогательным глаголом для подлежащих в единственном числе. 'Is there' спрашивает о существовании единственного существительного. 'What' запрашивает описание или идентичность. 'Do' - правильный вспомогательный глагол для подлежащего 'you.' 'Where' спрашивает о местоположении. 'Will' спрашивает о будущем действии.",
+                "uz": "Ushbu mashq turli xil savol shakllarini tekshiradi. 'Did' o'tgan zamon haqidagi savol uchun ishlatiladi. 'How many' miqdor uchun ishlatiladi. 'Does' birlikdagi egalar uchun yordamchi fe'ldir. 'Is there' birlikdagi otning mavjudligi haqida so'raydi. 'What' tavsif yoki shaxsni so'raydi. 'Do' 'you' egasi uchun to'g'ri yordamchi fe'ldir. 'Where' joylashuv haqida so'raydi. 'Will' kelajakdagi harakat haqida so'raydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My family is planning our summer vacation. Everyone has different ideas, and we have many questions to discuss. First, my mother asked, “___1___ (Are/Is) we going to the beach or the mountains?” We decided on the beach. Then my father asked, “___2___ (How/What) many days ___3___ (are/will) we staying?” We agreed on ten days. My brother wanted to know about activities. He asked, “___4___ (Can/Should) we go surfing there?” I replied that it depends on the waves. My sister wanted to know about the weather. “___5___ (Is/Does) it usually sunny in August?” she asked. I said that it's often very hot. We also needed to decide on a place to stay. My mom asked, “___6___ (What/Which) hotel ___7___ (do/should) we book?” My brother wanted to know about food. “___8___ (Are/Is) there any good restaurants nearby?” he asked. I looked up the local area and said yes. We still have a few details to decide, so our discussion isn't finished yet. My dad just asked, “___9___ (When/Why) ___10___ (do/should) we leave?” We still have to decide on the best day to travel.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "How"
+                },
+                {
+                    "blank": "3",
+                    "answer": "are"
+                },
+                {
+                    "blank": "4",
+                    "answer": "Can"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Which"
+                },
+                {
+                    "blank": "7",
+                    "answer": "should"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "When"
+                },
+                {
+                    "blank": "10",
+                    "answer": "should"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on various question words and structures. 'Are' is used for a question with 'we.' 'How many' asks about quantity. 'Can' asks about possibility. 'Is' is used with 'it' and 'Are there' asks about the existence of plural nouns. 'Which' asks for a choice. 'Should' asks for advice. 'When' asks about time.",
+                "ru": "Это упражнение фокусируется на различных вопросительных словах и структурах. 'Are' используется для вопроса с 'we.' 'How many' спрашивает о количестве. 'Can' спрашивает о возможности. 'Is' используется с 'it,' а 'Are there' спрашивает о существовании существительных во множественном числе. 'Which' просит сделать выбор. 'Should' запрашивает совет. 'When' спрашивает о времени.",
+                "uz": "Ushbu mashq turli xil savol so'zlari va tuzilishlariga qaratilgan. 'Are' 'we' bilan savol uchun ishlatiladi. 'How many' miqdor haqida so'raydi. 'Can' imkoniyat haqida so'raydi. 'Is' 'it' bilan ishlatiladi, 'Are there' esa ko'plikdagi otlarning mavjudligi haqida so'raydi. 'Which' tanlov so'raydi. 'Should' maslahat so'raydi. 'When' vaqt haqida so'raydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My brother's birthday is next week. We are planning a small party for him. I need to ask my family some questions to organize everything. My mom asked me, '___1___ (Who/What) are you inviting?' I told her I have a list of people. Then I asked her, '___2___ (Do/Does) you think he ___3___ (want/wants) a big cake?' She said, 'Yes, he does.' My dad wanted to know about the party activities. He asked, '___4___ (What/Why) ___5___ (are/is) we doing for fun?' I said we could play board games. I also wanted to make sure my brother had his favorite snacks. '___6___ (Is/Are) there any snacks left from last time?' I asked my mom. 'No,' she said. '___7___ (Do/Did) you go shopping yesterday?' I asked her. She said she was too busy. Now I have to go to the store. I also asked my dad, '___8___ (When/Where) ___9___ (do/does) you want me to put the presents?' He said to put them on the dining table. Finally, I asked my brother, '___10___ (Are/Were) you excited for your party?' He just smiled. I think he is!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Do"
+                },
+                {
+                    "blank": "3",
+                    "answer": "want"
+                },
+                {
+                    "blank": "4",
+                    "answer": "What"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Did"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "9",
+                    "answer": "do"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Are"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise checks various question types. 'Who' is a subject question. 'Do' is used with 'you,' and the main verb returns to its base form 'want.' 'What' and 'are' are used for present continuous questions. 'Are there' is used for plural nouns. 'Did' is used for a question in the past simple. 'Where' asks about a location. 'Are' is used in the simple present 'yes/no' question.",
+                "ru": "Это упражнение проверяет различные типы вопросов. 'Who' - это вопрос к подлежащему. 'Do' используется с 'you,' и основной глагол возвращается к своей базовой форме 'want.' 'What' и 'are' используются для вопросов в настоящем продолженном времени. 'Are there' используется для существительных во множественном числе. 'Did' используется для вопроса в прошедшем простом времени. 'Where' спрашивает о местоположении. 'Are' используется в 'да/нет' вопросе в простом настоящем времени.",
+                "uz": "Ushbu mashq turli xil savol turlarini tekshiradi. 'Who' ega haqidagi savoldir. 'Do' 'you' bilan ishlatiladi va asosiy fe'l o'zining bosh shakliga 'want' qaytadi. 'What' va 'are' hozirgi davomli zamondagi savollar uchun ishlatiladi. 'Are there' ko'plikdagi otlar uchun ishlatiladi. 'Did' o'tgan oddiy zamondagi savol uchun ishlatiladi. 'Where' joylashuv haqida so'raydi. 'Are' oddiy hozirgi zamondagi 'ha/yo'q' savolida ishlatiladi."
+            }
+        }
+    ]
+}

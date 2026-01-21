@@ -1,0 +1,751 @@
+{
+    "id": "A1_BASIC_QUESTION_FORMATION_WHAT_WHERE_WHEN_WHO_HOW_WHY_SIMPLE_QUESTIONS",
+    "title": "Basic Question Formation (What, Where, When, Who, How, Why) - Simple Questions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What you do?"
+                },
+                {
+                    "answer": "What do you do?",
+                    "correct": true
+                },
+                {
+                    "answer": "What does you do?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'do' with 'you' in questions",
+                "ru": "Используйте 'do' с 'you' в вопросах",
+                "uz": "Savollarda 'you' bilan 'do' ishlating"
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Where she live?"
+                },
+                {
+                    "answer": "Where does she live?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where do she live?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'does' with third person singular in questions",
+                "ru": "Используйте 'does' с третьим лицом единственного числа в вопросах",
+                "uz": "Savollarda uchinchi shaxs birlik (he/she/it) bilan 'does' ishlating"
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "When you go to work?"
+                },
+                {
+                    "answer": "When do you go to work?",
+                    "correct": true
+                },
+                {
+                    "answer": "When are you go to work?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'do' with 'you' in present simple questions",
+                "ru": "Используйте 'do' с 'you' в вопросах Present Simple",
+                "uz": "Hozirgi oddiy zamon (Present Simple) savollarida 'you' bilan 'do' ishlatiladi"
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Who are this?"
+                },
+                {
+                    "answer": "Who is this?",
+                    "correct": true
+                },
+                {
+                    "answer": "Who this is?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'is' with 'who' when asking about one person",
+                "ru": "Используйте 'is' с 'who', когда спрашиваете об одном человеке",
+                "uz": "Bitta odam haqida so‘raganda 'who' bilan 'is' ishlating"
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How old you are?"
+                },
+                {
+                    "answer": "How old are you?",
+                    "correct": true
+                },
+                {
+                    "answer": "How old do you are?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'are' with 'you' when asking about age",
+                "ru": "Используйте 'are' с 'you', когда спрашиваете о возрасте",
+                "uz": "Yosh haqida so‘raganda 'you' bilan 'are' ishlatiladi"
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Why he is sad?"
+                },
+                {
+                    "answer": "Why is he sad?",
+                    "correct": true
+                },
+                {
+                    "answer": "Why does he sad?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'is' with adjectives, not 'does'",
+                "ru": "Используйте 'is' с прилагательными, а не 'does'",
+                "uz": "Sifat (adjective) bilan 'is' ishlatiladi, 'does' emas"
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "What time is it?",
+                    "correct": true
+                },
+                {
+                    "answer": "What time it is?"
+                },
+                {
+                    "answer": "What time does it?"
+                }
+            ],
+            "explanation": {
+                "en": "Question word order: What time + is + it",
+                "ru": "Порядок слов в вопросе: What time + is + it",
+                "uz": "Savol tartibi: What time + is + it"
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "How much cost this book?"
+                },
+                {
+                    "answer": "How much does this book cost?",
+                    "correct": true
+                },
+                {
+                    "answer": "How much this book costs?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'does' in present simple questions with third person",
+                "ru": "Используйте 'does' в вопросах Present Simple с третьим лицом",
+                "uz": "Present Simple savollarida uchinchi shaxs bilan 'does' ishlatiladi"
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Where are you from?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where you are from?"
+                },
+                {
+                    "answer": "Where do you from?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'are' with 'you' when asking about origin",
+                "ru": "Используйте 'are' с 'you', когда спрашиваете о происхождении/откуда",
+                "uz": "Qayerdanligi haqida so‘raganda 'you' bilan 'are' ishlating"
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct question.",
+                "ru": "Выберите правильный вопрос.",
+                "uz": "To'g'ri savolni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Who are you live with?"
+                },
+                {
+                    "answer": "Who you live with?"
+                },
+                {
+                    "answer": "Who do you live with?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'do' with 'you' in present simple questions",
+                "ru": "Используйте 'do' с 'you' в вопросах Present Simple",
+                "uz": "Hozirgi oddiy zamon savollarida 'you' bilan 'do' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ is your name?",
+                "ru": "Дополните вопрос: ___ is your name?",
+                "uz": "Savolni to'ldiring: ___ is your name?"
+            },
+            "options": [
+                {
+                    "answer": "What",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'What' to ask about names",
+                "ru": "Используйте 'What', чтобы спросить имя",
+                "uz": "Ism haqida so‘rash uchun 'What' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ do you live?",
+                "ru": "Дополните вопрос: ___ do you live?",
+                "uz": "Savolni to'ldiring: ___ do you live?"
+            },
+            "options": [
+                {
+                    "answer": "Where",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Where' to ask about location",
+                "ru": "Используйте 'Where', чтобы спросить о месте/локации",
+                "uz": "Joy/Manzil haqida so‘rash uchun 'Where' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ is your birthday?",
+                "ru": "Дополните вопрос: ___ is your birthday?",
+                "uz": "Savolni to'ldiring: ___ is your birthday?"
+            },
+            "options": [
+                {
+                    "answer": "When",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'When' to ask about time",
+                "ru": "Используйте 'When', чтобы спросить о времени",
+                "uz": "Vaqt haqida so‘rash uchun 'When' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ is that man?",
+                "ru": "Дополните вопрос: ___ is that man?",
+                "uz": "Savolni to'ldiring: ___ is that man?"
+            },
+            "options": [
+                {
+                    "answer": "Who",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Who' to ask about people",
+                "ru": "Используйте 'Who', чтобы спросить о человеке/людях",
+                "uz": "Odam(lar) haqida so‘rash uchun 'Who' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ are you today?",
+                "ru": "Дополните вопрос: ___ are you today?",
+                "uz": "Savolni to'ldiring: ___ are you today?"
+            },
+            "options": [
+                {
+                    "answer": "How",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'How' to ask about condition or state",
+                "ru": "Используйте 'How', чтобы спросить о состоянии/самочувствии",
+                "uz": "Holat/ahvol haqida so‘rash uchun 'How' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ do you like coffee?",
+                "ru": "Дополните вопрос: ___ do you like coffee?",
+                "uz": "Savolni to'ldiring: ___ do you like coffee?"
+            },
+            "options": [
+                {
+                    "answer": "Why",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Why' to ask about reasons",
+                "ru": "Используйте 'Why', чтобы спросить о причинах",
+                "uz": "Sabab(lar) haqida so‘rash uchun 'Why' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ old are you?",
+                "ru": "Дополните вопрос: ___ old are you?",
+                "uz": "Savolni to'ldiring: ___ old are you?"
+            },
+            "options": [
+                {
+                    "answer": "How",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'How' to ask about age",
+                "ru": "Используйте 'How', чтобы спросить о возрасте",
+                "uz": "Yosh haqida so‘rash uchun 'How' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ color is your car?",
+                "ru": "Дополните вопрос: ___ color is your car?",
+                "uz": "Savolni to'ldiring: ___ color is your car?"
+            },
+            "options": [
+                {
+                    "answer": "What",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'What' to ask about characteristics like color",
+                "ru": "Используйте 'What', чтобы спросить о характеристиках, например, о цвете",
+                "uz": "Rang kabi xususiyatlar haqida so‘rash uchun 'What' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ does the movie start?",
+                "ru": "Дополните вопрос: ___ does the movie start?",
+                "uz": "Savolni to'ldiring: ___ does the movie start?"
+            },
+            "options": [
+                {
+                    "answer": "When",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'When' to ask about time",
+                "ru": "Используйте 'When', чтобы спросить о времени",
+                "uz": "Vaqt haqida so‘rash uchun 'When' ishlatiladi"
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the question: ___ is calling me?",
+                "ru": "Дополните вопрос: ___ is calling me?",
+                "uz": "Savolni to'ldiring: ___ is calling me?"
+            },
+            "options": [
+                {
+                    "answer": "Who",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'Who' to ask about people",
+                "ru": "Используйте 'Who', чтобы спросить о человеке/людях",
+                "uz": "Odam(lar) haqida so‘rash uchun 'Who' ishlatiladi"
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "My name is Sarah and I am a student. I live in London with my family. Every morning, I wake up at seven o'clock. I have breakfast with my parents in the kitchen. ___1___ do I eat for breakfast? I usually eat cereal and drink orange juice. After breakfast, I go to school by bus. ___2___ is my school? It is in the city center, about twenty minutes from my house. I study English, math, and science at school. ___3___ is my favorite teacher? Mrs. Johnson is my favorite because she is very kind. ___4___ do I finish school? I finish at three thirty in the afternoon. After school, I go home and do my homework. ___5___ do I do my homework? I do it in my bedroom because it is quiet there. In the evening, I watch TV with my family. ___6___ programs do we watch? We usually watch the news and some comedy shows. ___7___ do we have dinner? We have dinner at seven o'clock every day. My mother cooks delicious food for us. ___8___ does she cook so well? She learned from my grandmother many years ago. Before bed, I read books in my room. ___9___ kind of books do I like? I love adventure stories and mystery novels. ___10___ do I go to bed? I go to bed at ten o'clock because I need to wake up early for school tomorrow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "What"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "4",
+                    "answer": "When"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "6",
+                    "answer": "What"
+                },
+                {
+                    "blank": "7",
+                    "answer": "When"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Why/How"
+                },
+                {
+                    "blank": "9",
+                    "answer": "What"
+                },
+                {
+                    "blank": "10",
+                    "answer": "When"
+                }
+            ],
+            "explanation": {
+                "en": "Question words help us ask for specific information about time, place, person, reason, and things",
+                "ru": "Вопросительные слова помогают спрашивать конкретную информацию о времени, месте, людях, причине и предметах",
+                "uz": "Savol so‘zlari vaqt, joy, shaxs, sabab va narsalar haqida aniq ma’lumot so‘rashga yordam beradi"
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Tom works at a big company in New York. He is an engineer and he loves his job very much. Every day, he takes the subway to work. ___1___ does he start work? He starts at nine o'clock in the morning. His office is on the tenth floor of a tall building. ___2___ does he work with? He works with five other engineers in his team. They design computer programs together. ___3___ do they create these programs? They create them to help businesses solve problems. At lunch time, Tom goes to a restaurant near his office. ___4___ does he usually eat? He likes to eat sandwiches and soup for lunch. ___5___ does he eat lunch? He eats in the restaurant with his coworkers. After work, Tom likes to go to the gym. ___6___ does he exercise? He exercises because he wants to stay healthy and strong. ___7___ kind of sports does he do at the gym? He does running, swimming, and weight lifting. On weekends, Tom visits his parents who live in a small town outside the city. ___8___ does he go there? He goes there by car because it is faster than the train. ___9___ does he visit them? He visits them because he loves his family very much. ___10___ do they do together? They cook dinner, watch movies, and talk about their week. Tom always feels happy when he spends time with his parents.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "When"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Why"
+                },
+                {
+                    "blank": "4",
+                    "answer": "What"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Why"
+                },
+                {
+                    "blank": "7",
+                    "answer": "What"
+                },
+                {
+                    "blank": "8",
+                    "answer": "How"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Why"
+                },
+                {
+                    "blank": "10",
+                    "answer": "What"
+                }
+            ],
+            "explanation": {
+                "en": "Use different question words to ask about various aspects of daily life and activities",
+                "ru": "Используйте разные вопросительные слова, чтобы спрашивать о разных аспектах повседневной жизни и занятий",
+                "uz": "Kundalik hayot va faoliyatning turli jihatlari haqida so‘rash uchun turli savol so‘zlarini ishlating"
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Lisa is planning a birthday party for her best friend Emma. She wants to make it a special day. ___1___ is Emma's birthday? It is next Saturday, the fifteenth of May. Lisa needs to organize many things for the party. ___2___ will come to the party? About twenty friends from school will come. Lisa is thinking about the location for the party. ___3___ should she have the party? She can have it at her house or in the park. ___4___ would be better? The park would be better because there is more space for games. Now Lisa needs to plan the food. ___5___ kind of cake should she buy? Emma loves chocolate cake, so Lisa will buy a big chocolate cake from the bakery. ___6___ will she buy the cake? She will buy it on Friday, one day before the party. Lisa also wants to buy decorations. ___7___ will she put the decorations? She will put them in the park before the guests arrive. ___8___ will help her with the decorations? Her brother will help her because he is good at art. Lisa is excited about the party music. ___9___ music does Emma like? Emma loves pop music and dance songs. ___10___ will the party end? The party will end at six o'clock in the evening because some parents need to pick up their children. Lisa knows this will be the best birthday party ever.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "When"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "4",
+                    "answer": "What/Which"
+                },
+                {
+                    "blank": "5",
+                    "answer": "What"
+                },
+                {
+                    "blank": "6",
+                    "answer": "When"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "9",
+                    "answer": "What"
+                },
+                {
+                    "blank": "10",
+                    "answer": "When"
+                }
+            ],
+            "explanation": {
+                "en": "Question words help us gather information when planning events and activities",
+                "ru": "Вопросительные слова помогают собирать информацию при планировании событий и мероприятий",
+                "uz": "Tadbir va faoliyatlarni rejalashtirishda ma’lumot to‘plashga savol so‘zlari yordam beradi"
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "David is a doctor at the city hospital. He helps sick people feel better every day. People often ask him questions about his work. ___1___ did you become a doctor? David studied medicine at university for six years. ___2___ was the most difficult part of your studies? The most difficult part was learning about all the different diseases. Now David works in the emergency department of the hospital. ___3___ do you work there? He works there because he likes to help people who need immediate care. Every day is different for David. ___4___ time do you start work? He starts work at seven in the morning and finishes at seven in the evening. David sees many patients during his shift. ___5___ kinds of problems do people come with? People come with broken bones, heart problems, and accidents. David works with a team of nurses and other doctors. ___6___ helps you the most at work? Nurse Mary helps him the most because she has twenty years of experience. ___7___ do you feel when you save someone's life? David feels very happy and proud when he helps people. After work, David goes home to his family. ___8___ do you do to relax after a difficult day? He likes to read books and listen to classical music. ___9___ is your favorite place to relax? His favorite place is his garden where he grows vegetables and flowers. ___10___ do you grow in your garden? He grows tomatoes, carrots, and beautiful roses.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "How/Why"
+                },
+                {
+                    "blank": "2",
+                    "answer": "What"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Why"
+                },
+                {
+                    "blank": "4",
+                    "answer": "What"
+                },
+                {
+                    "blank": "5",
+                    "answer": "What"
+                },
+                {
+                    "blank": "6",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "7",
+                    "answer": "How"
+                },
+                {
+                    "blank": "8",
+                    "answer": "What"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "10",
+                    "answer": "What"
+                }
+            ],
+            "explanation": {
+                "en": "Question words allow us to learn about people's professions, experiences, and personal interests",
+                "ru": "Вопросительные слова помогают узнать о профессиях, опыте и личных интересах людей",
+                "uz": "Savol so‘zlari odamlarning kasbi, tajribasi va shaxsiy qiziqishlari haqida bilishga yordam beradi"
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks",
+                "ru": "Заполните пропуски",
+                "uz": "Bo'shliqlarni to'ldiring"
+            },
+            "text": "Anna and her family are planning their summer vacation. They want to visit a new country this year. Last year, they went to Italy and had a wonderful time. ___1___ should we go this summer? Anna's father asks the family. Everyone has different ideas about the destination. ___2___ wants to go to France? Anna's mother wants to go to France because she loves French food and culture. ___3___ does Anna want to go? Anna wants to go to Japan because she is interested in Japanese art and traditions. Her younger brother Mark has a different opinion. ___4___ country does Mark prefer? He prefers Australia because he wants to see kangaroos and koalas. The family needs to make a decision together. ___5___ will we travel? They can travel by airplane because it is the fastest way to reach far countries. ___6___ much will the trip cost? The trip to Japan will cost about three thousand dollars for the whole family. ___7___ will we stay during our vacation? They will stay in a nice hotel near the city center. The family also needs to plan their activities. ___8___ will we do in Japan? They will visit temples, museums, and traditional gardens. ___9___ long will our vacation be? Their vacation will be two weeks long so they can see many places. ___10___ will we leave for Japan? They will leave in July when the weather is good for traveling. Anna is very excited about this adventure with her family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "2",
+                    "answer": "Who"
+                },
+                {
+                    "blank": "3",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "4",
+                    "answer": "What/Which"
+                },
+                {
+                    "blank": "5",
+                    "answer": "How"
+                },
+                {
+                    "blank": "6",
+                    "answer": "How"
+                },
+                {
+                    "blank": "7",
+                    "answer": "Where"
+                },
+                {
+                    "blank": "8",
+                    "answer": "What"
+                },
+                {
+                    "blank": "9",
+                    "answer": "How"
+                },
+                {
+                    "blank": "10",
+                    "answer": "When"
+                }
+            ],
+            "explanation": {
+                "en": "Question words are essential for making plans and discussing travel arrangements with family and friends",
+                "ru": "Вопросительные слова необходимы для планирования и обсуждения поездок с семьёй и друзьями",
+                "uz": "Savol so‘zlari reja tuzish va oila hamda do‘stlar bilan safar rejalari haqida gaplashishda muhimdir"
+            }
+        }
+    ]
+}

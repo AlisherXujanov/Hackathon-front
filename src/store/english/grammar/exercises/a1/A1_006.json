@@ -1,0 +1,791 @@
+{
+    "id": "A1_SINGULAR_PLURAL_NOUNS_REGULAR_PLURALS_AND_COMMON_IRREGULARS",
+    "title": "Singular/Plural Nouns - Regular plurals and common irregulars",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have two dog."
+                },
+                {
+                    "answer": "I have two dogs.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have two doges."
+                }
+            ],
+            "explanation": {
+                "en": "Regular plural nouns add -s to the singular form.",
+                "ru": "Регулярные формы множественного числа образуются добавлением -s к форме единственного числа.",
+                "uz": "Oddiy ko‘plik shakllari birlik shakliga -s qo‘shimchasi qo‘shish orqali hosil qilinadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are many childs in the park."
+                },
+                {
+                    "answer": "There are many childrens in the park."
+                },
+                {
+                    "answer": "There are many children in the park.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Child has an irregular plural form: children.",
+                "ru": "Слово 'child' имеет неправильную форму множественного числа: 'children'.",
+                "uz": "'child' so‘zining ko‘plik shakli noturg‘un: 'children'."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has three boxs on the table."
+                },
+                {
+                    "answer": "She has three boxes on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "She has three box on the table."
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -x add -es to form the plural.",
+                "ru": "Существительные на -x образуют множественное число с помощью -es.",
+                "uz": "-x bilan tugaydigan otlar ko‘plikda -es qo‘shimchasini oladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The mans are walking in the street."
+                },
+                {
+                    "answer": "The men are walking in the street.",
+                    "correct": true
+                },
+                {
+                    "answer": "The mens are walking in the street."
+                }
+            ],
+            "explanation": {
+                "en": "Man has an irregular plural form: men.",
+                "ru": "Слово 'man' имеет неправильную форму множественного числа: 'men'.",
+                "uz": "'man' so‘zining ko‘plik shakli noturg‘un: 'men'."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I need to buy some tomatos."
+                },
+                {
+                    "answer": "I need to buy some tomatoes.",
+                    "correct": true
+                },
+                {
+                    "answer": "I need to buy some tomato."
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -o usually add -es to form the plural.",
+                "ru": "Существительные на -o обычно образуют множественное число с помощью -es.",
+                "uz": "-o bilan tugaydigan otlar odatda ko‘plikda -es qo‘shimchasini oladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There are many mouses in the house."
+                },
+                {
+                    "answer": "There are many mice in the house.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are many mouse in the house."
+                }
+            ],
+            "explanation": {
+                "en": "Mouse has an irregular plural form: mice.",
+                "ru": "Слово 'mouse' имеет неправильную форму множественного числа: 'mice'.",
+                "uz": "'mouse' so‘zining ko‘plik shakli noturg‘un: 'mice'."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The leafs are falling from the tree."
+                },
+                {
+                    "answer": "The leaves are falling from the tree.",
+                    "correct": true
+                },
+                {
+                    "answer": "The leaf are falling from the tree."
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -f change to -ves in the plural.",
+                "ru": "Существительные на -f в множественном числе меняют -f на -ves.",
+                "uz": "-f bilan tugaydigan otlar ko‘plikda odatda -ves ga o‘zgaradi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has many dresses in her closet.",
+                    "correct": true
+                },
+                {
+                    "answer": "She has many dress in her closet."
+                },
+                {
+                    "answer": "She has many dresss in her closet."
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -ss add -es to form the plural.",
+                "ru": "Существительные на -ss образуют множественное число с помощью -es.",
+                "uz": "-ss bilan tugaydigan otlar ko‘plikda -es qo‘shimchasini oladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The womans are talking loudly."
+                },
+                {
+                    "answer": "The women are talking loudly.",
+                    "correct": true
+                },
+                {
+                    "answer": "The womens are talking loudly."
+                }
+            ],
+            "explanation": {
+                "en": "Woman has an irregular plural form: women.",
+                "ru": "Слово 'woman' имеет неправильную форму множественного числа: 'women'.",
+                "uz": "'woman' so‘zining ko‘plik shakli noturg‘un: 'women'."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I saw three deers in the forest."
+                },
+                {
+                    "answer": "I saw three deer in the forest.",
+                    "correct": true
+                },
+                {
+                    "answer": "I saw three deres in the forest."
+                }
+            ],
+            "explanation": {
+                "en": "Deer has the same form for singular and plural.",
+                "ru": "Слово 'deer' имеет одинаковую форму в единственном и множественном числе.",
+                "uz": "'deer' so‘zi birlik va ko‘plikda bir xil shaklga ega."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'cat'.",
+                "ru": "Напишите множественную форму слова 'cat'.",
+                "uz": "'cat' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "cats",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Regular plural: cat + s = cats.",
+                "ru": "Обычная форма множественного числа: cat + s = cats.",
+                "uz": "Oddiy ko‘plik: cat + s = cats."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'foot'.",
+                "ru": "Напишите множественную форму слова 'foot'.",
+                "uz": "'foot' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "feet",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Irregular plural: foot becomes feet.",
+                "ru": "Неправильная форма множественного числа: foot → feet.",
+                "uz": "Noturg‘un ko‘plik: foot → feet."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'bus'.",
+                "ru": "Напишите множественную форму слова 'bus'.",
+                "uz": "'bus' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "buses/busses",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -s add -es to form the plural.",
+                "ru": "Существительные на -s образуют множественное число с помощью -es.",
+                "uz": "-s bilan tugaydigan otlar ko‘plikda -es qo‘shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'tooth'.",
+                "ru": "Напишите множественную форму слова 'tooth'.",
+                "uz": "'tooth' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "teeth",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Irregular plural: tooth becomes teeth.",
+                "ru": "Неправильная форма множественного числа: tooth → teeth.",
+                "uz": "Noturg‘un ko‘plik: tooth → teeth."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'baby'.",
+                "ru": "Напишите множественную форму слова 'baby'.",
+                "uz": "'baby' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "babies",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in consonant + y change y to i and add -es.",
+                "ru": "Если слово оканчивается на согласную + y, y меняется на i и добавляется -es.",
+                "uz": "Undosh + y bilan tugagan otlarda y → i bo‘lib, -es qo‘shiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'knife'.",
+                "ru": "Напишите множественную форму слова 'knife'.",
+                "uz": "'knife' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "knives",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -fe change to -ves in the plural.",
+                "ru": "Слова на -fe в форме множественного числа меняют -fe на -ves.",
+                "uz": "-fe bilan tugaydigan otlar ko‘plikda -ves ga o‘zgaradi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'sheep'.",
+                "ru": "Напишите множественную форму слова 'sheep'.",
+                "uz": "'sheep' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "sheep",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Sheep has the same form for singular and plural.",
+                "ru": "Слово 'sheep' имеет одинаковую форму в единственном и множественном числе.",
+                "uz": "'sheep' so‘zi birlik va ko‘plikda bir xil shaklga ega."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'church'.",
+                "ru": "Напишите множественную форму слова 'church'.",
+                "uz": "'church' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "churches",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in -ch, -sh, -x, -s, -z add -es to form the plural.",
+                "ru": "Существительные на -ch, -sh, -x, -s, -z образуют множественное число с помощью -es.",
+                "uz": "-ch, -sh, -x, -s, -z bilan tugaydigan otlar ko‘plikda -es qo‘shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'person'.",
+                "ru": "Напишите множественную форму слова 'person'.",
+                "uz": "'person' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "people",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Irregular plural: person becomes people.",
+                "ru": "Неправильная форма множественного числа: person → people.",
+                "uz": "Noturg‘un ko‘plik: person → people."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Write the plural form of the word 'city'.",
+                "ru": "Напишите множественную форму слова 'city'.",
+                "uz": "'city' so'zining ko'plik shaklini yozing."
+            },
+            "options": [
+                {
+                    "answer": "cities",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Nouns ending in consonant + y change y to i and add -es.",
+                "ru": "Если слово оканчивается на согласную + y, y меняется на i и добавляется -es.",
+                "uz": "Undosh + y bilan tugagan otlarda y → i bo‘lib, -es qo‘shiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct singular or plural forms.",
+                "ru": "Заполните пропуски правильными формами единственного или множественного числа.",
+                "uz": "Bo'shliqlarni birlik yoki ko'plik shaklining to'g'ri formasi bilan to'ldiring."
+            },
+            "text": "My family has many ___1___ living in different countries. My grandmother has three ___2___ who visit her every weekend. She loves to cook for them and always prepares fresh ___3___ from her garden. Yesterday, she made soup with ___4___ and carrots. The ___5___ were playing in the yard while she cooked. She also has two ___6___ that help her with the garden work. These ___7___ are very friendly and love to play with the children. In the evening, all the ___8___ sit together and share stories. My grandmother tells them about her childhood when she was just a young ___9___. She remembers how she used to help her mother take care of the ___10___ on their farm. Those were happy ___11___ filled with laughter and joy. Now she enjoys watching her ___12___ grow up and create their own memories.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "relatives/family members"
+                },
+                {
+                    "blank": "2",
+                    "answer": "grandchildren"
+                },
+                {
+                    "blank": "3",
+                    "answer": "vegetables"
+                },
+                {
+                    "blank": "4",
+                    "answer": "tomatoes"
+                },
+                {
+                    "blank": "5",
+                    "answer": "children/kids"
+                },
+                {
+                    "blank": "6",
+                    "answer": "cats/dogs/pets"
+                },
+                {
+                    "blank": "7",
+                    "answer": "animals/pets"
+                },
+                {
+                    "blank": "8",
+                    "answer": "people/family members"
+                },
+                {
+                    "blank": "9",
+                    "answer": "girl/woman"
+                },
+                {
+                    "blank": "10",
+                    "answer": "animals/sheep/cows"
+                },
+                {
+                    "blank": "11",
+                    "answer": "times/days/years"
+                },
+                {
+                    "blank": "12",
+                    "answer": "grandchildren/family"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices both regular and irregular plural forms in context.",
+                "ru": "Это задание отрабатывает как регулярные, так и нерегулярные формы множественного числа в контексте.",
+                "uz": "Ushbu mashq kontekstda oddiy va noturg‘un ko‘plik shakllarini mustahkamlaydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct singular or plural forms.",
+                "ru": "Заполните пропуски правильными формами единственного или множественного числа.",
+                "uz": "Bo'shliqlarni birlik yoki ko'plik shaklining to'g'ri formasi bilan to'ldiring."
+            },
+            "text": "Last weekend, I went shopping with my friends. We visited several ___1___ in the city center. First, we went to a bookstore where I bought three ___2___ about cooking. My friend Sarah was looking for ___3___ for her kitchen. She needed new ___4___ and forks for her dinner party. Then we went to a clothing store where I tried on several ___5___. I finally bought two blue ___6___ and a white shirt. Sarah bought some ___7___ because hers were getting old. We also visited a pet shop where we saw many cute ___8___. There were small ___9___ playing together and colorful ___10___ singing in their cages. The shop owner, a kind old ___11___, told us interesting stories about the animals. After shopping, we went to a café where we ordered coffee and ___12___. It was a wonderful day spent with good friends, and we made many happy ___13___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "shops/stores"
+                },
+                {
+                    "blank": "2",
+                    "answer": "books"
+                },
+                {
+                    "blank": "3",
+                    "answer": "dishes/plates/utensils"
+                },
+                {
+                    "blank": "4",
+                    "answer": "knives"
+                },
+                {
+                    "blank": "5",
+                    "answer": "dresses/shirts/clothes"
+                },
+                {
+                    "blank": "6",
+                    "answer": "jeans/pants/trousers"
+                },
+                {
+                    "blank": "7",
+                    "answer": "shoes/boots"
+                },
+                {
+                    "blank": "8",
+                    "answer": "animals/pets"
+                },
+                {
+                    "blank": "9",
+                    "answer": "puppies/kittens"
+                },
+                {
+                    "blank": "10",
+                    "answer": "birds"
+                },
+                {
+                    "blank": "11",
+                    "answer": "man/woman/person"
+                },
+                {
+                    "blank": "12",
+                    "answer": "cakes/cookies/sandwiches"
+                },
+                {
+                    "blank": "13",
+                    "answer": "memories"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on plural forms of common nouns used in shopping contexts.",
+                "ru": "Это задание фокусируется на формах множественного числа частотных существительных в контексте покупок.",
+                "uz": "Bu mashq xarid kontekstida tez-tez uchraydigan otlarning ko‘plik shakllariga e’tibor qaratadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct singular or plural forms.",
+                "ru": "Заполните пропуски правильными формами единственного или множественного числа.",
+                "uz": "Bo'shliqlarni birlik yoki ko'plik shaklining to'g'ri formasi bilan to'ldiring."
+            },
+            "text": "In our school, there are many ___1___ from different countries. The ___2___ work very hard to help all the students learn. In my class, there are twenty-five ___3___ who study English together. We learn about different ___4___ around the world and practice speaking with our ___5___. Our teacher brings many ___6___ to class to make learning more interesting. She shows us pictures of famous ___7___ and tells us stories about different cultures. Sometimes we watch ___8___ about nature and animals. Last week, we learned about ___9___ that live in the ocean and how they communicate with each other. We also studied the ___10___ that grow in tropical forests. Our classroom has large ___11___ that let in lots of natural light. On the walls, there are colorful ___12___ that students have created during art class. Learning English with my ___13___ is always fun and exciting.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "students/pupils"
+                },
+                {
+                    "blank": "2",
+                    "answer": "teachers"
+                },
+                {
+                    "blank": "3",
+                    "answer": "children/students"
+                },
+                {
+                    "blank": "4",
+                    "answer": "countries/places/cultures"
+                },
+                {
+                    "blank": "5",
+                    "answer": "classmates/friends"
+                },
+                {
+                    "blank": "6",
+                    "answer": "books/materials/pictures"
+                },
+                {
+                    "blank": "7",
+                    "answer": "cities/places/buildings"
+                },
+                {
+                    "blank": "8",
+                    "answer": "videos/movies/films"
+                },
+                {
+                    "blank": "9",
+                    "answer": "fish/whales/dolphins"
+                },
+                {
+                    "blank": "10",
+                    "answer": "trees/plants"
+                },
+                {
+                    "blank": "11",
+                    "answer": "windows"
+                },
+                {
+                    "blank": "12",
+                    "answer": "pictures/paintings/drawings"
+                },
+                {
+                    "blank": "13",
+                    "answer": "classmates/friends/teachers"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices plural forms in an educational setting context.",
+                "ru": "Это задание отрабатывает формы множественного числа в образовательном контексте.",
+                "uz": "Ushbu mashq ta’limiy kontekstda ko‘plik shakllarini mustahkamlaydi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct singular or plural forms.",
+                "ru": "Заполните пропуски правильными формами единственного или множественного числа.",
+                "uz": "Bo'shliqlarni birlik yoki ko'plik shaklining to'g'ri formasi bilan to'ldiring."
+            },
+            "text": "My brother is a doctor who works at a large hospital in the city. Every day, he helps many ___1___ who come to see him with different health problems. He specializes in treating ___2___ and has been working there for five years. The hospital has modern equipment and employs many skilled ___3___ and nurses. My brother says that being a ___4___ is not easy because he has to work long ___5___ and sometimes even on weekends. However, he loves his job because he can help people feel better. He often tells us stories about his ___6___ and how grateful they are for his help. The hospital also has a special department for ___7___ where young doctors learn from experienced ones. My brother sometimes teaches these ___8___ and shares his knowledge with them. He believes that good ___9___ between doctors and patients is very important for successful treatment. In his free time, he likes to read medical ___10___ to stay updated with new treatments and discoveries. Despite the challenges, he is proud to be a ___11___ and to serve his community.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "patients/people"
+                },
+                {
+                    "blank": "2",
+                    "answer": "children/adults/patients"
+                },
+                {
+                    "blank": "3",
+                    "answer": "doctors"
+                },
+                {
+                    "blank": "4",
+                    "answer": "doctor/physician"
+                },
+                {
+                    "blank": "5",
+                    "answer": "hours/days"
+                },
+                {
+                    "blank": "6",
+                    "answer": "patients/experiences"
+                },
+                {
+                    "blank": "7",
+                    "answer": "students/residents/interns"
+                },
+                {
+                    "blank": "8",
+                    "answer": "students/doctors"
+                },
+                {
+                    "blank": "9",
+                    "answer": "communication/relationships"
+                },
+                {
+                    "blank": "10",
+                    "answer": "books/journals/articles"
+                },
+                {
+                    "blank": "11",
+                    "answer": "doctor/physician/healer"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise uses medical and professional contexts to practice singular and plural forms.",
+                "ru": "В упражнении используются медицинский и профессиональный контексты для отработки форм ед./мн. числа.",
+                "uz": "Mashqda birlik va ko‘plik shakllari tibbiy va kasbiy kontekstda mashq qilinadi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct singular or plural forms.",
+                "ru": "Заполните пропуски правильными формами единственного или множественного числа.",
+                "uz": "Bo'shliqlarni birlik yoki ko'plik shaklining to'g'ri formasi bilan to'ldiring."
+            },
+            "text": "During summer vacation, my family and I visited a beautiful farm in the countryside. The farm had many different ___1___ including cows, sheep, and chickens. The farmer, a friendly old ___2___, showed us around and explained how he takes care of all the animals. We saw mother ___3___ with their babies grazing in the green fields. The ___4___ were providing fresh milk that the farmer uses to make cheese. There were also many ___5___ running around the yard, and we collected fresh eggs from their nests. The farm had several big ___6___ where the farmer stores hay and equipment. Behind the main house, there was a large garden with fresh ___7___ growing in neat rows. We picked ripe ___8___ and sweet corn to take home with us. The farmer's ___9___ also helped with the farm work and were very knowledgeable about agriculture. We learned that farming requires a lot of hard work and dedication. The ___10___ must wake up early every morning to feed the animals and tend to the crops. It was an educational and enjoyable experience for all of us ___11___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "animals"
+                },
+                {
+                    "blank": "2",
+                    "answer": "man/farmer"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sheep/cows/animals"
+                },
+                {
+                    "blank": "4",
+                    "answer": "cows"
+                },
+                {
+                    "blank": "5",
+                    "answer": "chickens/birds"
+                },
+                {
+                    "blank": "6",
+                    "answer": "barns/buildings"
+                },
+                {
+                    "blank": "7",
+                    "answer": "vegetables/plants"
+                },
+                {
+                    "blank": "8",
+                    "answer": "tomatoes/vegetables/fruits"
+                },
+                {
+                    "blank": "9",
+                    "answer": "children/family/workers"
+                },
+                {
+                    "blank": "10",
+                    "answer": "farmers/people/workers"
+                },
+                {
+                    "blank": "11",
+                    "answer": "visitors/people/family"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise practices plural forms in a rural/farming context with both regular and irregular plurals.",
+                "ru": "Это задание отрабатывает формы множественного числа (регулярные и нерегулярные) в сельскохозяйственном контексте.",
+                "uz": "Ushbu mashq qishloq xo‘jaligi kontekstida oddiy va noturg‘un ko‘plik shakllarini mustahkamlaydi."
+            }
+        }
+    ]
+}

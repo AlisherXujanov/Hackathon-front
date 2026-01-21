@@ -1,0 +1,106 @@
+{
+  "topics": [
+    {
+      "id": "environment_sustainability",
+      "title": "Environment and Sustainability",
+      "level": "B2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Environmental awareness",
+        "instructions": "I'd like to ask you some questions about the environment and sustainability.",
+        "questions": [
+          "How concerned are you about environmental issues?",
+          "What do you do personally to protect the environment?",
+          "Do you think individuals can make a real difference to environmental problems?",
+          "How has environmental awareness changed in your country?",
+          "What environmental issue concerns you most?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe an environmental problem",
+        "cueCard": {
+          "title": "Describe an environmental problem that affects your area",
+          "description": "You should say:",
+          "points": [
+            "What the problem is",
+            "What causes this problem",
+            "How it affects people and the environment",
+            "And explain what you think should be done to solve it"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Global environmental challenges",
+        "instructions": "Now let's discuss environmental issues on a broader scale.",
+        "questions": [
+          "What do you think are the biggest environmental challenges facing the world today?",
+          "Who should take responsibility for solving environmental problems - individuals, governments, or businesses?",
+          "How can governments encourage people to be more environmentally friendly?",
+          "Do you think economic development and environmental protection can go hand in hand?",
+          "What role should international cooperation play in tackling environmental issues?",
+          "How might climate change affect future generations?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about air pollution, which is a significant environmental problem in my city. The main cause of this problem is the enormous number of vehicles on the roads, combined with emissions from factories located on the outskirts of the city. Additionally, during certain seasons, the burning of agricultural waste in surrounding rural areas contributes to the poor air quality. This pollution affects people in several serious ways. Many residents, particularly children and elderly people, suffer from respiratory problems like asthma and bronchitis. The poor air quality also reduces visibility, making driving dangerous, and it damages buildings and monuments over time. Furthermore, it affects the local ecosystem, harming plants and wildlife in urban parks. To address this problem, I believe we need a multi-faceted approach. Firstly, the government should invest heavily in public transportation to reduce the number of private vehicles on the roads. Secondly, stricter emissions standards should be enforced for both vehicles and industries. Additionally, promoting renewable energy sources and creating more green spaces throughout the city would help absorb pollutants. Finally, public awareness campaigns could encourage people to use bicycles or walk for short distances instead of driving."
+      }
+    },
+    {
+      "id": "globalization_culture",
+      "title": "Globalization and Cultural Identity",
+      "level": "B2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Cultural changes and globalization",
+        "instructions": "Let's talk about cultural changes and global influences.",
+        "questions": [
+          "How has your culture changed over the past generation?",
+          "What aspects of foreign cultures do you find interesting?",
+          "Do you think globalization has been positive or negative for your country?",
+          "How important is it to preserve traditional culture?",
+          "What international influences can you see in your daily life?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a cultural tradition",
+        "cueCard": {
+          "title": "Describe a traditional custom or festival from your culture",
+          "description": "You should say:",
+          "points": [
+            "What this tradition is",
+            "When and how it is celebrated",
+            "Who typically participates in it",
+            "And explain why this tradition is important to your culture"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Cultural preservation and change",
+        "instructions": "Let's discuss cultural change and preservation in the modern world.",
+        "questions": [
+          "Why do some cultural traditions disappear while others survive?",
+          "How can societies balance preserving traditions with embracing modernity?",
+          "What are the benefits and drawbacks of cultural globalization?",
+          "Do you think young people today are less interested in traditional culture?",
+          "How might technology help preserve cultural heritage?",
+          "Should governments play a role in protecting cultural traditions?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

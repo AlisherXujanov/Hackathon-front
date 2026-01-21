@@ -1,0 +1,851 @@
+{
+    "id": "A1_POSSESSIVE_ADJECTIVES_MY_YOUR_HIS_HER_ITS_OUR_THEIR_BASIC_FORMS",
+    "title": "Possessive Adjectives (my, your, his, her, its, our, their) - Basic forms",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is me book."
+                },
+                {
+                    "answer": "This is my book.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is mine book."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'my' before a noun to show possession.",
+                "ru": "Используйте 'my' перед существительным, чтобы показать принадлежность.",
+                "uz": "Egalikni ko‘rsatish uchun ot oldidan 'my' ni ishlating."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Where is you car?"
+                },
+                {
+                    "answer": "Where is your car?",
+                    "correct": true
+                },
+                {
+                    "answer": "Where is yours car?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'your' before a noun when talking to someone about their possession.",
+                "ru": "Используйте 'your' перед существительным, когда говорите с человеком о его вещи.",
+                "uz": "Birovning narsasi haqida gapirganda ot oldidan 'your' ni ishlating."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She loves him cat."
+                },
+                {
+                    "answer": "She loves her cat.",
+                    "correct": true
+                },
+                {
+                    "answer": "She loves hers cat."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'her' before a noun to show what belongs to a female person.",
+                "ru": "Используйте 'her' перед существительным, чтобы показать принадлежность женщине.",
+                "uz": "Ayol kishiga tegishliligini ko‘rsatish uchun ot oldidan 'her' ni ishlating."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "John lost he keys."
+                },
+                {
+                    "answer": "John lost his keys.",
+                    "correct": true
+                },
+                {
+                    "answer": "John lost him keys."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'his' before a noun to show what belongs to a male person.",
+                "ru": "Используйте 'his' перед существительным, чтобы показать принадлежность мужчине.",
+                "uz": "Erkak kishiga tegishliligini ko‘rsatish uchun ot oldidan 'his' ni ishlating."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The dog wagged it tail."
+                },
+                {
+                    "answer": "The dog wagged its tail.",
+                    "correct": true
+                },
+                {
+                    "answer": "The dog wagged it's tail."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'its' (without apostrophe) for things and animals.",
+                "ru": "Используйте 'its' (без апострофа) для вещей и животных.",
+                "uz": "Narsalar va hayvonlar uchun 'its' (apostrofsiz) ni ishlating."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We painted us house."
+                },
+                {
+                    "answer": "We painted our house.",
+                    "correct": true
+                },
+                {
+                    "answer": "We painted ours house."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'our' before a noun to show what belongs to us.",
+                "ru": "Используйте 'our' перед существительным, чтобы показать, что принадлежит нам.",
+                "uz": "Bizga tegishliligini ko‘rsatish uchun ot oldidan 'our' ni ishlating."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The students forgot they books."
+                },
+                {
+                    "answer": "The students forgot their books.",
+                    "correct": true
+                },
+                {
+                    "answer": "The students forgot theirs books."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'their' before a noun to show what belongs to them.",
+                "ru": "Используйте 'their' перед существительным, чтобы показать принадлежность им.",
+                "uz": "Ular(ga) tegishliligini ko‘rsatish uchun ot oldidan 'their' ni ishlating."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is this you phone?"
+                },
+                {
+                    "answer": "Is this your phone?",
+                    "correct": true
+                },
+                {
+                    "answer": "Is this yours phone?"
+                }
+            ],
+            "explanation": {
+                "en": "Use 'your' in questions when asking about someone's possession.",
+                "ru": "Используйте 'your' в вопросах, когда спрашиваете о собственности человека.",
+                "uz": "Birovning narsasi haqida so‘rayotganda savollarda 'your' ni ishlating."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My sister and me mother are doctors."
+                },
+                {
+                    "answer": "My sister and my mother are doctors.",
+                    "correct": true
+                },
+                {
+                    "answer": "Mine sister and mine mother are doctors."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'my' before each noun to show possession clearly.",
+                "ru": "Используйте 'my' перед каждым существительным, чтобы ясно показать принадлежность.",
+                "uz": "Egalikni aniq ko‘rsatish uchun har bir ot oldidan 'my' ni ishlating."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The cat is cleaning it fur."
+                },
+                {
+                    "answer": "The cat is cleaning its fur.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cat is cleaning it's fur."
+                }
+            ],
+            "explanation": {
+                "en": "Use 'its' (not it's) to show what belongs to an animal or thing.",
+                "ru": "Используйте 'its' (а не 'it's'), чтобы показать принадлежность животному или вещи.",
+                "uz": "Hayvon yoki narsa egaligini ko‘rsatish uchun 'its' (it's emas) ni ishlating."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: I love ___ family.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: I love ___ family.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: I love ___ family."
+            },
+            "options": [
+                {
+                    "answer": "my",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'my' when talking about yourself.",
+                "ru": "Используйте 'my', когда говорите о себе.",
+                "uz": "O‘zingiz haqida gapirganda 'my' ni ishlating."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: Do you like ___ new job?",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: Do you like ___ new job?",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: Do you like ___ new job?"
+            },
+            "options": [
+                {
+                    "answer": "your",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'your' when asking someone about their possession.",
+                "ru": "Используйте 'your', когда спрашиваете человека о его собственности.",
+                "uz": "Birovning narsasi haqida so‘raganda 'your' ni ishlating."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: Maria is washing ___ hair.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: Maria is washing ___ hair.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: Maria is washing ___ hair."
+            },
+            "options": [
+                {
+                    "answer": "her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'her' for a female person (Maria).",
+                "ru": "Используйте 'her' для женского лица (Мария).",
+                "uz": "Ayol kishi (Masalan, Maria) uchun 'her' ni ishlating."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: Tom rides ___ bicycle to work.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: Tom rides ___ bicycle to work.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: Tom rides ___ bicycle to work."
+            },
+            "options": [
+                {
+                    "answer": "his",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'his' for a male person (Tom).",
+                "ru": "Используйте 'his' для мужского лица (Том).",
+                "uz": "Erkak kishi (Masalan, Tom) uchun 'his' ni ishlating."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: The bird built ___ nest in the tree.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: The bird built ___ nest in the tree.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: The bird built ___ nest in the tree."
+            },
+            "options": [
+                {
+                    "answer": "its",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'its' for animals and things.",
+                "ru": "Используйте 'its' для животных и предметов.",
+                "uz": "Hayvonlar va narsalar uchun 'its' ni ishlating."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: We need to clean ___ room.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: We need to clean ___ room.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: We need to clean ___ room."
+            },
+            "options": [
+                {
+                    "answer": "our",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'our' when talking about something that belongs to us.",
+                "ru": "Используйте 'our', когда говорите о том, что принадлежит нам.",
+                "uz": "Bizga tegishli narsalar haqida gapirganda 'our' ni ishlating."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: The children are playing with ___ toys.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: The children are playing with ___ toys.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: The children are playing with ___ toys."
+            },
+            "options": [
+                {
+                    "answer": "their",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'their' for multiple people (children).",
+                "ru": "Используйте 'their' для нескольких людей (например, детей).",
+                "uz": "Bir nechta odam (masalan, bolalar) uchun 'their' ni ishlating."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: Is this ___ pen?",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: Is this ___ pen?",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: Is this ___ pen?"
+            },
+            "options": [
+                {
+                    "answer": "your/his/her",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'your/his/her' when asking someone about their possession.",
+                "ru": "Используйте 'your/his/her', когда спрашиваете человека о его собственности.",
+                "uz": "Birovning narsasi haqida so‘raganda 'your/his/her' ni ishlating."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: The company changed ___ logo.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: The company changed ___ logo.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: The company changed ___ logo."
+            },
+            "options": [
+                {
+                    "answer": "its",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use 'its' for organizations and things.",
+                "ru": "Используйте 'its' для организаций и предметов.",
+                "uz": "Tashkilotlar va narsalar uchun 'its' ni ishlating."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct possessive adjective: ___ friends are very kind.",
+                "ru": "Дополните предложение правильным притяжательным прилагательным: ___ friends are very kind.",
+                "uz": "Gapni to'g'ri egalik sifati bilan to'ldiring: ___ friends are very kind."
+            },
+            "options": [
+                {
+                    "answer": "my/our/his/her/your/their",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Multiple possessive adjectives can work depending on context.",
+                "ru": "В зависимости от контекста могут подходить разные притяжательные прилагательные.",
+                "uz": "Kontekstga qarab bir nechta egalik sifatlari to‘g‘ri kelishi mumkin."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatlari bilan to'ldiring."
+            },
+            "text": "Hello, ___1___ name is Sarah and this is ___2___ family. ___3___ husband works in a bank and ___4___ children go to school every day. ___5___ daughter loves ___6___ new teacher because she is very kind. ___7___ son plays football with ___8___ friends after school. We live in a big house and ___9___ garden is beautiful. ___10___ neighbors are friendly too. The dog next door always wags ___11___ tail when it sees us. Do you like ___12___ family? Tell me about ___13___ life and ___14___ hobbies. I hope we can be friends and share ___15___ stories together.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "my"
+                },
+                {
+                    "blank": "2",
+                    "answer": "my"
+                },
+                {
+                    "blank": "3",
+                    "answer": "my"
+                },
+                {
+                    "blank": "4",
+                    "answer": "our/my"
+                },
+                {
+                    "blank": "5",
+                    "answer": "our/my"
+                },
+                {
+                    "blank": "6",
+                    "answer": "her"
+                },
+                {
+                    "blank": "7",
+                    "answer": "our/my"
+                },
+                {
+                    "blank": "8",
+                    "answer": "his"
+                },
+                {
+                    "blank": "9",
+                    "answer": "our"
+                },
+                {
+                    "blank": "10",
+                    "answer": "our"
+                },
+                {
+                    "blank": "11",
+                    "answer": "its"
+                },
+                {
+                    "blank": "12",
+                    "answer": "your"
+                },
+                {
+                    "blank": "13",
+                    "answer": "your"
+                },
+                {
+                    "blank": "14",
+                    "answer": "your"
+                },
+                {
+                    "blank": "15",
+                    "answer": "our"
+                }
+            ],
+            "explanation": {
+                "en": "Choose the possessive adjective that matches the person or thing being talked about.",
+                "ru": "Выберите притяжательное прилагательное, соответствующее человеку или предмету, о котором идёт речь.",
+                "uz": "Gap nimaga yoki kimga tegishli ekanini mos ravishda ko‘rsatuvchi egalik sifatini tanlang."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatlari bilan to'ldiring."
+            },
+            "text": "At the school, every student has ___1___ own desk and chair. The teacher writes ___2___ name on the board at the beginning of each class. When students forget ___3___ homework, they must explain why to ___4___ teacher. The principal knows all the students by ___5___ names and always remembers ___6___ parents too. Each classroom has ___7___ own computer and the school has ___8___ library where students can borrow books. The librarian keeps ___9___ glasses on ___10___ nose and helps children find ___11___ favorite stories. During lunch time, children eat ___12___ sandwiches and share ___13___ snacks with friends. The school building is old but ___14___ walls are painted in bright colors and ___15___ playground is full of happy children every day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "his/her/their"
+                },
+                {
+                    "blank": "2",
+                    "answer": "his/her"
+                },
+                {
+                    "blank": "3",
+                    "answer": "their"
+                },
+                {
+                    "blank": "4",
+                    "answer": "their"
+                },
+                {
+                    "blank": "5",
+                    "answer": "their"
+                },
+                {
+                    "blank": "6",
+                    "answer": "their"
+                },
+                {
+                    "blank": "7",
+                    "answer": "its"
+                },
+                {
+                    "blank": "8",
+                    "answer": "its"
+                },
+                {
+                    "blank": "9",
+                    "answer": "her/his"
+                },
+                {
+                    "blank": "10",
+                    "answer": "her/his"
+                },
+                {
+                    "blank": "11",
+                    "answer": "their"
+                },
+                {
+                    "blank": "12",
+                    "answer": "their"
+                },
+                {
+                    "blank": "13",
+                    "answer": "their"
+                },
+                {
+                    "blank": "14",
+                    "answer": "its"
+                },
+                {
+                    "blank": "15",
+                    "answer": "its"
+                }
+            ],
+            "explanation": {
+                "en": "Match the possessive adjective with the owner: his/her for one person, their for multiple people, its for things.",
+                "ru": "Соотнесите притяжательное прилагательное с обладателем: his/her — для одного человека, their — для нескольких, its — для вещей.",
+                "uz": "Egalik sifatini egasi bilan moslang: bitta shaxs uchun his/her, bir nechta shaxs uchun their, narsalar uchun its."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatlari bilan to'ldiring."
+            },
+            "text": "My friend Emma lives with ___1___ family in a small town. ___2___ mother works as a nurse and ___3___ father is a mechanic who fixes cars in ___4___ garage. Emma has a younger brother and ___5___ room is always messy. The family has a pet cat and ___6___ favorite place to sleep is on Emma's bed. Every morning, Emma brushes ___7___ teeth and combs ___8___ hair before going to school. She puts ___9___ books in ___10___ backpack and says goodbye to ___11___ parents. At school, Emma sits with ___12___ best friend Lucy. Lucy always shares ___13___ lunch with Emma because ___14___ sandwiches are delicious. After school, they do ___15___ homework together and talk about their dreams for the future.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "her"
+                },
+                {
+                    "blank": "2",
+                    "answer": "her"
+                },
+                {
+                    "blank": "3",
+                    "answer": "her"
+                },
+                {
+                    "blank": "4",
+                    "answer": "his"
+                },
+                {
+                    "blank": "5",
+                    "answer": "his"
+                },
+                {
+                    "blank": "6",
+                    "answer": "its"
+                },
+                {
+                    "blank": "7",
+                    "answer": "her"
+                },
+                {
+                    "blank": "8",
+                    "answer": "her"
+                },
+                {
+                    "blank": "9",
+                    "answer": "her"
+                },
+                {
+                    "blank": "10",
+                    "answer": "her"
+                },
+                {
+                    "blank": "11",
+                    "answer": "her"
+                },
+                {
+                    "blank": "12",
+                    "answer": "her"
+                },
+                {
+                    "blank": "13",
+                    "answer": "her"
+                },
+                {
+                    "blank": "14",
+                    "answer": "her"
+                },
+                {
+                    "blank": "15",
+                    "answer": "their"
+                }
+            ],
+            "explanation": {
+                "en": "Follow the story carefully to identify who owns what: Emma (her), her brother (his), the cat (its), both girls (their).",
+                "ru": "Внимательно следуйте тексту, чтобы определить принадлежность: Emma (her), её брат (his), кот (its), обе девочки (their).",
+                "uz": "Matnga diqqat bilan ergashing va egalikni aniqlang: Emma (her), uning ukasi (his), mushuk (its), ikki qiz (their)."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatlari bilan to'ldiring."
+            },
+            "text": "Welcome to ___1___ new apartment! I want to show you around ___2___ home. This is ___3___ living room where we watch TV and relax after work. ___4___ sofa is very comfortable and ___5___ coffee table is made of wood. The kitchen is ___6___ favorite room because I love cooking. ___7___ refrigerator is full of fresh food and ___8___ stove works perfectly. Upstairs, you can see ___9___ bedroom with ___10___ big bed and wardrobe. ___11___ bathroom has a shower and ___12___ mirror is very large. The apartment building has ___13___ own elevator and ___14___ parking garage is underground. All the neighbors are friendly and take good care of ___15___ shared garden in the courtyard.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "2",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "3",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "4",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "5",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "6",
+                    "answer": "my"
+                },
+                {
+                    "blank": "7",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "8",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "9",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "10",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "11",
+                    "answer": "my/our"
+                },
+                {
+                    "blank": "12",
+                    "answer": "its"
+                },
+                {
+                    "blank": "13",
+                    "answer": "its"
+                },
+                {
+                    "blank": "14",
+                    "answer": "its"
+                },
+                {
+                    "blank": "15",
+                    "answer": "their"
+                }
+            ],
+            "explanation": {
+                "en": "Use my/our for the speaker's possessions, its for the building's features, and their for the neighbors' shared space.",
+                "ru": "Используйте my/our для собственности говорящего, its — для характеристик здания, their — для общего пространства соседей.",
+                "uz": "Gapiruvchiga tegishli narsalar uchun my/our, bino xususiyatlari uchun its, qo‘shnilar umumiy joyi uchun their ni ishlating."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct possessive adjectives.",
+                "ru": "Заполните пропуски правильными притяжательными прилагательными.",
+                "uz": "Bo'shliqlarni to'g'ri egalik sifatlari bilan to'ldiring."
+            },
+            "text": "At the zoo, we saw many animals in ___1___ natural habitats. The elephant used ___2___ trunk to pick up food and splash water on ___3___ back. The monkeys were swinging from tree to tree, and ___4___ babies were clinging to ___5___ mothers. A peacock displayed ___6___ beautiful colorful feathers to attract a mate. The lion and lioness were resting in the shade with ___7___ cubs playing nearby. Each animal enclosure has ___8___ own information board that tells visitors about the species. The zookeepers know all the animals by ___9___ names and understand ___10___ different needs. Children love to watch the animals and ask ___11___ parents many questions. The zoo guide explained that every animal has ___12___ role in nature's ecosystem. We enjoyed ___13___ visit and learned about protecting animals and ___14___ environment. The zoo works hard to preserve wildlife and educate people about ___15___ importance to our planet.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "their"
+                },
+                {
+                    "blank": "2",
+                    "answer": "its"
+                },
+                {
+                    "blank": "3",
+                    "answer": "its"
+                },
+                {
+                    "blank": "4",
+                    "answer": "their"
+                },
+                {
+                    "blank": "5",
+                    "answer": "their"
+                },
+                {
+                    "blank": "6",
+                    "answer": "its"
+                },
+                {
+                    "blank": "7",
+                    "answer": "their"
+                },
+                {
+                    "blank": "8",
+                    "answer": "its"
+                },
+                {
+                    "blank": "9",
+                    "answer": "their"
+                },
+                {
+                    "blank": "10",
+                    "answer": "their"
+                },
+                {
+                    "blank": "11",
+                    "answer": "their"
+                },
+                {
+                    "blank": "12",
+                    "answer": "its"
+                },
+                {
+                    "blank": "13",
+                    "answer": "our"
+                },
+                {
+                    "blank": "14",
+                    "answer": "their"
+                },
+                {
+                    "blank": "15",
+                    "answer": "their"
+                }
+            ],
+            "explanation": {
+                "en": "Use its for individual animals, their for multiple animals or people, and our for the speakers' experience.",
+                "ru": "Используйте its для отдельных животных, their — для нескольких животных или людей, our — для опыта говорящих.",
+                "uz": "Yakka hayvonlar uchun its, bir nechta hayvon yoki odamlar uchun their, gapiruvchilar tajribasi uchun our ni ishlating."
+            }
+        }
+    ]
+}

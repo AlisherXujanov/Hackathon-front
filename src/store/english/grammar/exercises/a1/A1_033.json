@@ -1,0 +1,620 @@
+{
+    "id": "A1_THE_DIFFERENCE_BETWEEN_THIS_AND_IT_-_BASIC_REFERENCE_RULES",
+    "title": "The difference between 'this' and 'it' - Basic reference rules",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is my dog, it's very friendly.",
+                    "correct": true
+                },
+                {
+                    "answer": "It is my dog, this's very friendly."
+                },
+                {
+                    "answer": "This is a dog, it is very friendly."
+                }
+            ],
+            "explanation": {
+                "en": "'This' is used to introduce a new subject or point to something specific. 'It' is used to refer back to a subject already mentioned, like the dog in this sentence.",
+                "ru": "'This' используется для введения новой темы или указания на что-то конкретное. 'It' используется для ссылки на уже упомянутый предмет, например, на собаку в этом предложении.",
+                "uz": "'This' yangi mavzuni kiritish yoki biror narsaga ishora qilish uchun ishlatiladi. 'It' esa allaqachon aytib o'tilgan narsaga qaytib ishora qilish uchun ishlatiladi, masalan, bu gapdagi itga."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Look at my new car. This is red."
+                },
+                {
+                    "answer": "Look at my new car. It is red.",
+                    "correct": true
+                },
+                {
+                    "answer": "Look at this new car. It is red."
+                }
+            ],
+            "explanation": {
+                "en": "'It' refers back to the car that was just mentioned. 'This' is not used here because the car has already been introduced in the first sentence.",
+                "ru": "'It' относится к машине, которая только что была упомянута. 'This' здесь не используется, потому что машина уже была представлена в первом предложении.",
+                "uz": "'It' endigina aytib o'tilgan mashinaga ishora qiladi. 'This' bu yerda ishlatilmaydi, chunki mashina birinchi gapda allaqachon tanishtirilgan."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I don't like this book. It's too boring.",
+                    "correct": true
+                },
+                {
+                    "answer": "I don't like it book. This is too boring."
+                },
+                {
+                    "answer": "I don't like it book. It's too boring."
+                }
+            ],
+            "explanation": {
+                "en": "In this context, 'this' is used as a determiner before the noun 'book' to specify which book. 'It' then refers back to that same book.",
+                "ru": "В этом контексте 'this' используется как определитель перед существительным 'book', чтобы указать, какая именно книга. Затем 'It' относится к этой же книге.",
+                "uz": "Bu kontekstda 'this' 'book' otidan oldin qaysi kitob ekanligini aniqlash uchun ishlatiladi. 'It' esa xuddi shu kitobga ishora qiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This a good idea."
+                },
+                {
+                    "answer": "This is a good idea.",
+                    "correct": true
+                },
+                {
+                    "answer": "It is a good idea."
+                }
+            ],
+            "explanation": {
+                "en": "'This' is used to introduce and identify the idea for the first time. The correct sentence uses the verb 'is' after 'this'.",
+                "ru": "'This' используется для представления и идентификации идеи в первый раз. Правильное предложение использует глагол 'is' после 'this'.",
+                "uz": "'This' g'oyani birinchi marta kiritish va aniqlash uchun ishlatiladi. To'g'ri gap 'this' so'zidan keyin 'is' fe'lini ishlatadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother is a doctor. This is his job."
+                },
+                {
+                    "answer": "My brother is a doctor. It is his job.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother is a doctor. This his job."
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used to refer back to the concept of the brother's job, which has already been mentioned in the first sentence. 'This' is not used here.",
+                "ru": "'It' используется для ссылки на концепцию работы брата, которая уже была упомянута в первом предложении. 'This' здесь не используется.",
+                "uz": "'It' birinchi gapda allaqachon aytib o'tilgan akasining ishi tushunchasiga ishora qilish uchun ishlatiladi. 'This' bu yerda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have a new phone. This is very fast."
+                },
+                {
+                    "answer": "I have a new phone. It is very fast.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have this new phone. It's very fast."
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used to refer back to the noun 'phone' that was just mentioned. 'This' would be used to introduce the phone, not to refer back to it.",
+                "ru": "'It' используется для ссылки на существительное 'phone', которое только что было упомянуто. 'This' использовался бы для представления телефона, а не для ссылки на него.",
+                "uz": "'It' endigina aytib o'tilgan 'phone' otiga ishora qilish uchun ishlatiladi. 'This' telefonni tanishtirish uchun ishlatiladi, unga ishora qilish uchun emas."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is a problem. It's too difficult.",
+                    "correct": true
+                },
+                {
+                    "answer": "It's a problem. This is too difficult."
+                },
+                {
+                    "answer": "This is a problem. It too difficult."
+                }
+            ],
+            "explanation": {
+                "en": "'This' is used to introduce the new concept of the problem. 'It' then refers back to the problem to describe it further.",
+                "ru": "'This' используется для введения новой концепции проблемы. 'It' затем относится к проблеме, чтобы описать ее далее.",
+                "uz": "'This' muammo haqidagi yangi tushunchani kiritish uchun ishlatiladi. 'It' esa muammoni yanada batafsilroq tasvirlash uchun unga ishora qiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My computer is old. This is very slow."
+                },
+                {
+                    "answer": "My computer is old. It is very slow.",
+                    "correct": true
+                },
+                {
+                    "answer": "This computer is old. This is very slow."
+                }
+            ],
+            "explanation": {
+                "en": "The pronoun 'it' refers back to the computer. 'This' is not used to refer to a previously mentioned subject.",
+                "ru": "Местоимение 'it' относится к компьютеру. 'This' не используется для ссылки на ранее упомянутый предмет.",
+                "uz": "'It' olmoshi kompyuterga ishora qiladi. 'This' oldin aytib o'tilgan narsaga ishora qilish uchun ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is this your bag?",
+                    "correct": true
+                },
+                {
+                    "answer": "Is it your bag?"
+                },
+                {
+                    "answer": "Is your bag this?"
+                }
+            ],
+            "explanation": {
+                "en": "'This' is used to point to a specific object. In this question, 'this' points to the bag the speaker is referring to.",
+                "ru": "'This' используется для указания на конкретный объект. В этом вопросе 'this' указывает на сумку, о которой говорит говорящий.",
+                "uz": "'This' ma'lum bir narsaga ishora qilish uchun ishlatiladi. Bu savolda 'this' so'zlovchi ishora qilayotgan sumkaga ishora qiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have a new umbrella. This is black."
+                },
+                {
+                    "answer": "I have a new umbrella. It is black.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is a new umbrella. It is black."
+                }
+            ],
+            "explanation": {
+                "en": "'It' is the correct pronoun to refer back to the umbrella that was mentioned in the previous sentence. 'This' would be used to introduce the umbrella.",
+                "ru": "'It' - это правильное местоимение для ссылки на зонт, который был упомянут в предыдущем предложении. 'This' использовался бы для представления зонта.",
+                "uz": "'It' oldingi gapda aytib o'tilgan soyabonga ishora qilish uchun to'g'ri olmoshdir. 'This' soyabonni tanishtirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: Look at this beautiful flower. ___ is a rose.",
+                "ru": "Дополните предложение правильным местоимением: Look at this beautiful flower. ___ is a rose.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: Look at this beautiful flower. ___ is a rose."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used to refer back to a noun that has already been mentioned in the sentence, in this case, 'flower'.",
+                "ru": "'It' используется для ссылки на существительное, которое уже было упомянуто в предложении, в данном случае, 'flower'.",
+                "uz": "'It' gapda allaqachon aytib o'tilgan otga, ya'ni 'flower' so'ziga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: I have a new TV. ___ is very big.",
+                "ru": "Дополните предложение правильным местоимением: I have a new TV. ___ is very big.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: I have a new TV. ___ is very big."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used here to refer back to the TV. You use 'it' when you are talking about something that has already been mentioned.",
+                "ru": "'It' используется здесь для ссылки на телевизор. Вы используете 'it', когда говорите о чем-то, что уже было упомянуто.",
+                "uz": "'It' bu yerda televizorga ishora qilish uchun ishlatiladi. Siz 'it' dan allaqachon aytib o'tilgan narsa haqida gapirayotganingizda foydalanasiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: My favorite color is blue. ___ is a nice color.",
+                "ru": "Дополните предложение правильным местоимением: My favorite color is blue. ___ is a nice color.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: My favorite color is blue. ___ is a nice color."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is the correct pronoun to refer back to the noun 'color' and the concept of blue.",
+                "ru": "'It' является правильным местоимением для ссылки на существительное 'color' и концепцию синего цвета.",
+                "uz": "'It' 'color' otiga va ko'k rang tushunchasiga ishora qilish uchun to'g'ri olmoshdir."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: I see a beautiful house. ___ is my friend's house.",
+                "ru": "Дополните предложение правильным местоимением: I see a beautiful house. ___ is my friend's house.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: I see a beautiful house. ___ is my friend's house."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The pronoun 'it' refers back to the house that has already been mentioned in the first part of the sentence.",
+                "ru": "Местоимение 'it' относится к дому, который уже был упомянут в первой части предложения.",
+                "uz": "'It' olmoshi gapning birinchi qismida allaqachon aytib o'tilgan uyga ishora qiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: ___ is very cold outside today.",
+                "ru": "Дополните предложение правильным местоимением: ___ is very cold outside today.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: ___ is very cold outside today."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used as a 'dummy' subject for weather, time, and distance. It does not refer to a specific noun.",
+                "ru": "'It' используется как 'пустое' подлежащее для погоды, времени и расстояния. Оно не относится к конкретному существительному.",
+                "uz": "'It' ob-havo, vaqt va masofa uchun 'bo'sh' olmosh sifatida ishlatiladi. U ma'lum bir otga ishora qilmaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: Can you see that book? ___ is on the table.",
+                "ru": "Дополните предложение правильным местоимением: Can you see that book? ___ is on the table.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: Can you see that book? ___ is on the table."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is the correct pronoun to refer back to 'that book', which has already been mentioned and identified.",
+                "ru": "'It' - это правильное местоимение для ссылки на 'that book', которое уже было упомянуто и идентифицировано.",
+                "uz": "'It' allaqachon aytib o'tilgan va aniqlangan 'that book' ga ishora qilish uchun to'g'ri olmoshdir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: I bought a new dress. ___ is so beautiful.",
+                "ru": "Дополните предложение правильным местоимением: I bought a new dress. ___ is so beautiful.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: I bought a new dress. ___ is so beautiful."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used to refer back to the noun 'dress' that has just been mentioned in the previous sentence.",
+                "ru": "'It' используется для ссылки на существительное 'dress', которое только что было упомянуто в предыдущем предложении.",
+                "uz": "'It' oldingi gapda endigina aytib o'tilgan 'dress' otiga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: My phone is in my bag. Can you get ___ for me?",
+                "ru": "Дополните предложение правильным местоимением: My phone is in my bag. Can you get ___ for me?",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: My phone is in my bag. Can you get ___ for me?"
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' refers back to the 'phone', which has already been mentioned. You get a phone, so you use 'it' as the object pronoun.",
+                "ru": "'It' относится к 'phone', который уже был упомянут. Вы берете телефон, поэтому используете 'it' как объектное местоимение.",
+                "uz": "'It' allaqachon aytib o'tilgan 'phone' so'ziga ishora qiladi. Siz telefonni olasiz, shuning uchun 'it' ni to'ldiruvchi olmoshi sifatida ishlatasiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: I see a new building. ___ is very tall.",
+                "ru": "Дополните предложение правильным местоимением: I see a new building. ___ is very tall.",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: I see a new building. ___ is very tall."
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' is the correct pronoun to refer back to the 'new building'. 'This' is for introducing something, not referring back to it.",
+                "ru": "'It' - это правильное местоимение для ссылки на 'new building'. 'This' используется для представления чего-либо, а не для ссылки на него.",
+                "uz": "'It' 'new building' so'ziga ishora qilish uchun to'g'ri olmoshdir. 'This' esa biror narsani tanishtirish uchun ishlatiladi, unga ishora qilish uchun emas."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct pronoun: My phone is in my bag. Can you get ___ for me?",
+                "ru": "Дополните предложение правильным местоимением: My phone is in my bag. Can you get ___ for me?",
+                "uz": "Gapni to'g'ri olmosh bilan to'ldiring: My phone is in my bag. Can you get ___ for me?"
+            },
+            "options": [
+                {
+                    "answer": "it",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'It' refers back to the 'phone', which has already been mentioned. You get a phone, so you use 'it' as the object pronoun.",
+                "ru": "'It' относится к 'phone', который уже был упомянут. Вы берете телефон, поэтому используете 'it' как объектное местоимение.",
+                "uz": "'It' allaqachon aytib o'tilgan 'phone' so'ziga ishora qiladi. Siz telefonni olasiz, shuning uchun 'it' ni to'ldiruvchi olmoshi sifatida ishlatasiz."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with 'this' or 'it'.",
+                "ru": "Заполните пропуски 'this' или 'it'.",
+                "uz": "Bo'shliqlarni 'this' yoki 'it' bilan to'ldiring."
+            },
+            "text": "My family is planning a trip to a beautiful national park. ___1___ is a very exciting idea. My brother said, “Look at ___2___ picture of the park! ___3___ is so beautiful.” We decided we want to go in the summer. ___4___ is a perfect time to visit because the weather is warm. My father found a great cabin to rent. He said, “___5___ is perfect for us. ___6___ has three bedrooms and a big kitchen.” We need to book ___7___ soon, or ___8___ will be gone. We are all very happy about the plan. My sister said, “___9___ is the best idea we've had all year!” She is preparing a packing list now. She thinks ___10___ is a difficult task to pack for everyone, but I think ___11___ will be easy. My mom is making a special dinner tonight to celebrate. ___12___ is very thoughtful of her. She said, “___13___ is a special occasion.” The trip is in two months, so ___14___ is not long to wait. We all think ___15___ will be a great vacation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "this"
+                },
+                {
+                    "blank": "2",
+                    "answer": "this"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "it"
+                },
+                {
+                    "blank": "5",
+                    "answer": "this"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                },
+                {
+                    "blank": "7",
+                    "answer": "it"
+                },
+                {
+                    "blank": "8",
+                    "answer": "it"
+                },
+                {
+                    "blank": "9",
+                    "answer": "this"
+                },
+                {
+                    "blank": "10",
+                    "answer": "it"
+                },
+                {
+                    "blank": "11",
+                    "answer": "it"
+                },
+                {
+                    "blank": "12",
+                    "answer": "this"
+                },
+                {
+                    "blank": "13",
+                    "answer": "this"
+                },
+                {
+                    "blank": "14",
+                    "answer": "it"
+                },
+                {
+                    "blank": "15",
+                    "answer": "it"
+                }
+            ],
+            "explanation": {
+                "en": "'This' is used to introduce new ideas (as in blanks 1, 9, 13) or to point to something physically present (as in blank 2). 'It' is used to refer back to a noun or idea already mentioned, such as the park, the cabin, or the vacation.",
+                "ru": "'This' используется для введения новых идей (как в пропусках 1, 9, 13) или для указания на что-то физически присутствующее (как в пропуске 2). 'It' используется для ссылки на уже упомянутое существительное или идею, например, на парк, домик или отпуск.",
+                "uz": "'This' yangi g'oyalarni kiritish (1, 9, 13-bo'shliqlarda) yoki jismonan mavjud bo'lgan narsaga ishora qilish (2-bo'shliqda) uchun ishlatiladi. 'It' esa allaqachon aytib o'tilgan ot yoki g'oyaga, masalan, park, kabina yoki ta'tilga ishora qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with 'this' or 'it'.",
+                "ru": "Заполните пропуски 'this' или 'it'.",
+                "uz": "Bo'shliqlarni 'this' yoki 'it' bilan to'ldiring."
+            },
+            "text": "My friend, Sarah, is moving to a new apartment. ___1___ is a very big step for her. She found a nice place downtown. ___2___ is a one-bedroom apartment on the fifth floor. ___3___ is a little small, but the location is great. She showed me the photos and said, “___4___ is my future home.” I think ___5___ will be a nice change for her. ___6___ is a long process to move, but I am helping her. We started packing her books. ___7___ took a long time, because she has many. She has a sofa and an armchair. She is selling ___8___ because they are too big. She found a new smaller sofa. She said, “___9___ is the perfect size.” We have to move everything by next Friday. ___10___ is a lot of work! My other friends are also helping, so ___11___ will be easier. Sarah said, “I am so happy you are here. ___12___ means a lot to me.” We will celebrate when ___13___ is all done. ___14___ will be a big party! ___15___ is a very special time for Sarah.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "this"
+                },
+                {
+                    "blank": "2",
+                    "answer": "it"
+                },
+                {
+                    "blank": "3",
+                    "answer": "it"
+                },
+                {
+                    "blank": "4",
+                    "answer": "this"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "it"
+                },
+                {
+                    "blank": "7",
+                    "answer": "it"
+                },
+                {
+                    "blank": "8",
+                    "answer": "them"
+                },
+                {
+                    "blank": "9",
+                    "answer": "this"
+                },
+                {
+                    "blank": "10",
+                    "answer": "this"
+                },
+                {
+                    "blank": "11",
+                    "answer": "it"
+                },
+                {
+                    "blank": "12",
+                    "answer": "this"
+                },
+                {
+                    "blank": "13",
+                    "answer": "it"
+                },
+                {
+                    "blank": "14",
+                    "answer": "it"
+                },
+                {
+                    "blank": "15",
+                    "answer": "this"
+                }
+            ],
+            "explanation": {
+                "en": "'It' is used to refer back to a previously mentioned noun (e.g., the apartment, the sofa). 'This' is used to introduce new concepts (a big step, the future home) or to comment on a current situation (a lot of work, a special time).",
+                "ru": "'It' используется для ссылки на ранее упомянутое существительное (например, квартира, диван). 'This' используется для введения новых понятий (большой шаг, будущий дом) или для комментирования текущей ситуации (много работы, особенное время).",
+                "uz": "'It' avval aytib o'tilgan otga (masalan, kvartira, divan) ishora qilish uchun ishlatiladi. 'This' esa yangi tushunchalarni (katta qadam, kelajakdagi uy) kiritish yoki joriy vaziyatga izoh berish (ko'p ish, maxsus vaqt) uchun ishlatiladi."
+            }
+        }
+    ]
+}

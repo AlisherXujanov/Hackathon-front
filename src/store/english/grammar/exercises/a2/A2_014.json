@@ -1,0 +1,766 @@
+{
+    "id": "A2_PREPOSITIONS_OF_PLACE_COMPREHENSIVE_LOCATION_EXPRESSIONS",
+    "title": "Prepositions of place - Comprehensive location expressions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The book is in the table.",
+                    "correct": false
+                },
+                {
+                    "answer": "The book is on the table.",
+                    "correct": true
+                },
+                {
+                    "answer": "The book is at the table.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' to describe something that is on a surface. 'In' is used for enclosed spaces, and 'at' is used for a specific point or location.",
+                "ru": "Мы используем 'on', чтобы описать что-то, что находится на поверхности. 'In' используется для закрытых пространств, а 'at' — для конкретной точки или места.",
+                "uz": "Sirt ustida joylashgan narsani tasvirlash uchun 'on' dan foydalanamiz. 'In' yopiq joylar uchun, 'at' esa aniq nuqta yoki joylashuv uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is in school.",
+                    "correct": false
+                },
+                {
+                    "answer": "She is at school.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is on school.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'At' is used for specific locations and buildings, especially when we are talking about a location's function. We are 'at school' to study, for example.",
+                "ru": "'At' используется для конкретных мест и зданий, особенно когда мы говорим о функции места. Например, мы 'at school' (в школе), чтобы учиться.",
+                "uz": "'At' aniq joylar va binolar uchun, ayniqsa, joyning vazifasi haqida gapirganda ishlatiladi. Masalan, biz o'qish uchun 'at school' (maktabda) bo'lamiz."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The keys are at my pocket.",
+                    "correct": false
+                },
+                {
+                    "answer": "The keys are on my pocket.",
+                    "correct": false
+                },
+                {
+                    "answer": "The keys are in my pocket.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' to describe something that is inside an enclosed space, such as a pocket, bag, or room.",
+                "ru": "Мы используем 'in', чтобы описать что-то, что находится внутри закрытого пространства, такого как карман, сумка или комната.",
+                "uz": "Biz 'in' so'zini yopiq joyda, masalan, cho'ntak, sumka yoki xonada joylashgan narsani tasvirlash uchun ishlatamiz."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is a cafe next the bank.",
+                    "correct": false
+                },
+                {
+                    "answer": "There is a cafe next to the bank.",
+                    "correct": true
+                },
+                {
+                    "answer": "There is a cafe next in the bank.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The correct phrase is 'next to' when talking about something that is beside something else.",
+                "ru": "Правильная фраза — 'next to', когда речь идет о чем-то, что находится рядом с чем-то другим.",
+                "uz": "Boshqa narsaning yonida joylashgan narsa haqida gapirganda 'next to' to'g'ri ibora hisoblanadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The ball is behind the box.",
+                    "correct": true
+                },
+                {
+                    "answer": "The ball is behind of the box.",
+                    "correct": false
+                },
+                {
+                    "answer": "The ball is on behind the box.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Behind' is a preposition of place that stands on its own. We do not need another preposition like 'of' after it.",
+                "ru": "'Behind' — это предлог места, который используется самостоятельно. Нам не нужен другой предлог, например 'of', после него.",
+                "uz": "'Behind' o'z-o'zidan ishlatiladigan joy predlogidir. Undan keyin 'of' kabi boshqa predlogga ehtiyoj yo'q."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The cat is between the two chairs.",
+                    "correct": true
+                },
+                {
+                    "answer": "The cat is among the two chairs.",
+                    "correct": false
+                },
+                {
+                    "answer": "The cat is in the two chairs.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The preposition 'between' is used for two specific items. 'Among' is used for a group of three or more items.",
+                "ru": "Предлог 'between' используется для двух конкретных предметов. 'Among' используется для группы из трех или более предметов.",
+                "uz": "'Between' predlogi ikkita aniq narsa uchun ishlatiladi. 'Among' esa uch yoki undan ortiq narsalar guruhi uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The picture is on the wall.",
+                    "correct": true
+                },
+                {
+                    "answer": "The picture is in the wall.",
+                    "correct": false
+                },
+                {
+                    "answer": "The picture is at the wall.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "We use 'on' for items that are attached to a vertical surface like a wall or a door.",
+                "ru": "Мы используем 'on' для предметов, которые прикреплены к вертикальной поверхности, такой как стена или дверь.",
+                "uz": "'On' so'zini devor yoki eshik kabi vertikal sirtlarga biriktirilgan narsalar uchun ishlatamiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The shop is opposite to the park.",
+                    "correct": false
+                },
+                {
+                    "answer": "The shop is opposite the park.",
+                    "correct": true
+                },
+                {
+                    "answer": "The shop is opposite of the park.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Opposite' is a preposition and does not need 'to' or 'of' after it.",
+                "ru": "'Opposite' — это предлог и не требует 'to' или 'of' после себя.",
+                "uz": "'Opposite' so'zi predlog bo'lib, o'zidan keyin 'to' yoki 'of' ni talab qilmaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The bus station is at the corner of Main Street.",
+                    "correct": true
+                },
+                {
+                    "answer": "The bus station is in the corner of Main Street.",
+                    "correct": false
+                },
+                {
+                    "answer": "The bus station is on the corner of Main Street.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "When we talk about a specific corner, we use 'at the corner.'",
+                "ru": "Когда мы говорим о конкретном углу, мы используем 'at the corner'.",
+                "uz": "Aniq bir burchak haqida gapirganda, biz 'at the corner' iborasini ishlatamiz."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We went to a cafe near of the museum.",
+                    "correct": false
+                },
+                {
+                    "answer": "We went to a cafe near the museum.",
+                    "correct": true
+                },
+                {
+                    "answer": "We went to a cafe near to the museum.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Near' is a preposition on its own and does not require 'of' or 'to'.",
+                "ru": "'Near' — это самостоятельный предлог и не требует 'of' или 'to'.",
+                "uz": "'Near' o'z-o'zidan ishlatiladigan predlog bo'lib, 'of' yoki 'to' ni talab qilmaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The remote is ___ the TV.",
+                "ru": "Дополните предложение: The remote is ___ the TV.",
+                "uz": "Gapni to'ldiring: The remote is ___ the TV."
+            },
+            "options": [
+                {
+                    "answer": "in front of",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrasal preposition 'in front of' is used to show that something is positioned facing something else.",
+                "ru": "Фразовый предлог 'in front of' используется, чтобы показать, что что-то расположено напротив чего-то другого.",
+                "uz": "Fe'l oldi 'in front of' iborasi biror narsaning boshqa narsaga qarama-qarshi joylashganligini ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother is standing ___ me.",
+                "ru": "Дополните предложение: My brother is standing ___ me.",
+                "uz": "Gapni to'ldiring: My brother is standing ___ me."
+            },
+            "options": [
+                {
+                    "answer": "next to/beside/in front of ",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'next to' or 'beside' to say that someone or something is at the side of another person or thing.",
+                "ru": "Мы используем 'next to' или 'beside', чтобы сказать, что кто-то или что-то находится рядом с другим человеком или предметом.",
+                "uz": "Kimdir yoki biror narsa boshqa odam yoki narsaning yonida ekanligini aytish uchun 'next to' yoki 'beside' dan foydalanamiz."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The cat is hiding ___ the table.",
+                "ru": "Дополните предложение: The cat is hiding ___ the table.",
+                "uz": "Gapni to'ldiring: The cat is hiding ___ the table."
+            },
+            "options": [
+                {
+                    "answer": "under/underneath",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Under' or 'underneath' means something is in a lower position or covered by something else.",
+                "ru": "'Under' или 'underneath' означает, что что-то находится в более низком положении или покрыто чем-то другим.",
+                "uz": "'Under' yoki 'underneath' biror narsaning pastroq holatda yoki boshqa narsa bilan qoplanganligini bildiradi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There is a mirror ___ (a..v.) the sink.",
+                "ru": "Дополните предложение: There is a mirror ___ (a..v.) the sink.",
+                "uz": "Gapni to'ldiring: There is a mirror ___ (a..v.) the sink."
+            },
+            "options": [
+                {
+                    "answer": "above",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Above' is used to show that something is at a higher level than something else.",
+                "ru": "'Above' используется, чтобы показать, что что-то находится на более высоком уровне, чем что-то другое.",
+                "uz": "'Above' biror narsaning boshqa narsadan yuqori darajada ekanligini ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The supermarket is ___ the post office and the library.",
+                "ru": "Дополните предложение: The supermarket is ___ the post office and the library.",
+                "uz": "Gapni to'ldiring: The supermarket is ___ the post office and the library."
+            },
+            "options": [
+                {
+                    "answer": "between",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Between' is used to describe a position in the middle of two specific things.",
+                "ru": "'Between' используется для описания положения посередине двух конкретных вещей.",
+                "uz": "'Between' ikki aniq narsaning o'rtasidagi joylashuvni tasvirlash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children are playing ___ the park.",
+                "ru": "Дополните предложение: The children are playing ___ the park.",
+                "uz": "Gapni to'ldiring: The children are playing ___ the park."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' for a general area or a large, enclosed space like a park, a city, or a garden.",
+                "ru": "Мы используем 'in' для общей зоны или большого закрытого пространства, такого как парк, город или сад.",
+                "uz": "Biz 'in' so'zini umumiy hudud yoki katta, yopiq joy, masalan, bog', shahar yoki xiyobon uchun ishlatamiz."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The painting is hanging ___ the window.",
+                "ru": "Дополните предложение: The painting is hanging ___ the window.",
+                "uz": "Gapni to'ldiring: The painting is hanging ___ the window."
+            },
+            "options": [
+                {
+                    "answer": "on",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'On' is used when something is attached to or touching a surface, such as a wall or a window.",
+                "ru": "'On' используется, когда что-то прикреплено к поверхности или касается ее, например, стены или окна.",
+                "uz": "'On' biror narsa sirtga, masalan, devor yoki derazaga biriktirilgan yoki tegib turganida ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She lives ___ an apartment building.",
+                "ru": "Дополните предложение: She lives ___ an apartment building.",
+                "uz": "Gapni to'ldiring: She lives ___ an apartment building."
+            },
+            "options": [
+                {
+                    "answer": "in",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'in' for locations that have a boundary, such as a building, a room, or a country.",
+                "ru": "Мы используем 'in' для мест, которые имеют границы, например, здание, комната или страна.",
+                "uz": "Biz 'in' so'zini chegarasi bo'lgan joylar, masalan, bino, xona yoki mamlakat uchun ishlatamiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He is waiting ___ the bus stop.",
+                "ru": "Дополните предложение: He is waiting ___ the bus stop.",
+                "uz": "Gapni to'ldiring: He is waiting ___ the bus stop."
+            },
+            "options": [
+                {
+                    "answer": "at",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "We use 'at' for specific points or locations, such as an address or a bus stop.",
+                "ru": "Мы используем 'at' для конкретных точек или мест, таких как адрес или автобусная остановка.",
+                "uz": "Biz 'at' so'zini aniq nuqtalar yoki joylar, masalan, manzil yoki avtobus bekati uchun ishlatamiz."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The ball rolled ___ (u..er) the chair.",
+                "ru": "Дополните предложение: The ball rolled ___ (u..er) the chair.",
+                "uz": "Gapni to'ldiring: The ball rolled ___ (u..er) the chair."
+            },
+            "options": [
+                {
+                    "answer": "under",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Under' is used to show a location below another object.",
+                "ru": "'Under' используется для обозначения места под другим объектом.",
+                "uz": "'Under' boshqa obyekt ostidagi joylashuvni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct prepositions of place.",
+                "ru": "Заполните пропуски правильными предлогами места.",
+                "uz": "Bo'shliqlarni to'g'ri joy predloglari bilan to'ldiring."
+            },
+            "text": "My family and I live ___1___ a small house ___2___ the countryside. It's a peaceful place. My house is ___3___ the two large oak trees, and a small river flows ___4___ it. There is a small garden ___5___ the front door. ___6___ the garden, you can see a small table with a few chairs. The cat loves to sleep ___7___ the table. My mother keeps her beautiful flowers ___8___ a shelf ___9___ the window. There is a picture of our family hanging ___10___ the fireplace. Our dog, Buddy, usually sleeps ___11___ his basket, which is ___12___ the sofa and the armchair.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "between"
+                },
+                {
+                    "blank": "4",
+                    "answer": "behind"
+                },
+                {
+                    "blank": "5",
+                    "answer": "in"
+                },
+                {
+                    "blank": "6",
+                    "answer": "In"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "on"
+                },
+                {
+                    "blank": "9",
+                    "answer": "above"
+                },
+                {
+                    "blank": "10",
+                    "answer": "above/over"
+                },
+                {
+                    "blank": "11",
+                    "answer": "in"
+                },
+                {
+                    "blank": "12",
+                    "answer": "between"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various prepositions. 'In' is used for a house and the countryside. 'Between' is used for two specific objects. 'Behind' shows something is at the back. 'On' is for surfaces. 'Above' shows a higher position, and 'in' is for an enclosed space like a basket.",
+                "ru": "Это упражнение проверяет различные предлоги. 'In' используется для дома и сельской местности. 'Between' используется для двух конкретных объектов. 'Behind' показывает, что что-то находится сзади. 'On' — для поверхностей. 'Above' показывает более высокое положение, а 'in' — для закрытого пространства, например, корзины.",
+                "uz": "Bu mashq turli xil predloglarni sinovdan o'tkazadi. 'In' uy va qishloq uchun ishlatiladi. 'Between' ikkita aniq narsa uchun ishlatiladi. 'Behind' biror narsaning orqada ekanligini ko'rsatadi. 'On' sirtlar uchun. 'Above' yuqoriroq holatni ko'rsatadi va 'in' savat kabi yopiq joy uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct prepositions of place.",
+                "ru": "Заполните пропуски правильными предлогами места.",
+                "uz": "Bo'shliqlarni to'g'ri joy predloglari bilan to'ldiring."
+            },
+            "text": "Last week, I had a great time at my friend Alex's house. His house is located ___1___ the top of a hill. From his balcony, you can see the whole city, which is really beautiful. I spent most of the day ___2___ the living room. The TV is ___3___ the wall, and the sofa is ___4___ the coffee table. Alex's dog, Leo, was sleeping ___5___ the sofa, and he didn't even wake up when I came ___6___ the room. We had dinner ___7___ the kitchen. The fridge is ___8___ the corner, and the microwave is ___9___ the fridge. I helped Alex do the dishes. The kitchen sink is ___10___ the window, which looks ___11___ the garden. We also took a walk ___12___ the park, which is ___13___ his house. It was a perfect day.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "at"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "on"
+                },
+                {
+                    "blank": "4",
+                    "answer": "in front of"
+                },
+                {
+                    "blank": "5",
+                    "answer": "on"
+                },
+                {
+                    "blank": "6",
+                    "answer": "into"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "above/on top of"
+                },
+                {
+                    "blank": "10",
+                    "answer": "under/below"
+                },
+                {
+                    "blank": "11",
+                    "answer": "onto/into"
+                },
+                {
+                    "blank": "12",
+                    "answer": "in"
+                },
+                {
+                    "blank": "13",
+                    "answer": "near/next to"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests a range of prepositions. 'At' is for a specific point, 'in' is for enclosed spaces, 'on' is for surfaces. 'Into' is used to show movement towards a space. 'Under' shows a lower position and 'near' is for proximity.",
+                "ru": "Это упражнение проверяет ряд предлогов. 'At' — для конкретной точки, 'in' — для закрытых пространств, 'on' — для поверхностей. 'Into' используется для обозначения движения в пространство. 'Under' показывает более низкое положение, а 'near' — близость.",
+                "uz": "Bu mashq predloglarning keng doirasini sinovdan o'tkazadi. 'At' aniq bir nuqta uchun, 'in' yopiq joylar uchun, 'on' sirtlar uchun ishlatiladi. 'Into' bo'shliqqa qarab harakatni ko'rsatish uchun ishlatiladi. 'Under' pastroq holatni, 'near' esa yaqinlikni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct prepositions of place.",
+                "ru": "Заполните пропуски правильными предлогами места.",
+                "uz": "Bo'shliqlarni to'g'ri joy predloglari bilan to'ldiring."
+            },
+            "text": "My best friend is coming to visit me. She lives ___1___ London, but she is now ___2___ my city. I am waiting for her ___3___ the train station. I will meet her ___4___ the entrance, right ___5___ the main doors. We will walk to my house, which is ___6___ a park and a big supermarket. My house is ___7___ the third floor ___8___ a tall building. When you get ___9___ my flat, you will see a small table with a vase of flowers ___10___ it. The sofa is ___11___ the window, and a big lamp is ___12___ it. I have a lot of books ___13___ the bookshelf, which is ___14___ the wall. I am so excited for her to arrive.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "at"
+                },
+                {
+                    "blank": "4",
+                    "answer": "at"
+                },
+                {
+                    "blank": "5",
+                    "answer": "behind"
+                },
+                {
+                    "blank": "6",
+                    "answer": "between"
+                },
+                {
+                    "blank": "7",
+                    "answer": "on"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "to/into"
+                },
+                {
+                    "blank": "10",
+                    "answer": "on"
+                },
+                {
+                    "blank": "11",
+                    "answer": "in front of/opposite"
+                },
+                {
+                    "blank": "12",
+                    "answer": "next to"
+                },
+                {
+                    "blank": "13",
+                    "answer": "on"
+                },
+                {
+                    "blank": "14",
+                    "answer": "on"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise focuses on several prepositions. 'In' is used for cities and buildings. 'At' is used for specific points. 'Between' is for two objects. 'On' is for floors and surfaces. 'To/into' indicates movement, and 'next to' is for a position beside something.",
+                "ru": "Это упражнение сосредоточено на нескольких предлогах. 'In' используется для городов и зданий. 'At' — для конкретных точек. 'Between' — для двух объектов. 'On' — для этажей и поверхностей. 'To/into' указывает на движение, а 'next to' — на положение рядом с чем-либо.",
+                "uz": "Bu mashq bir nechta predloglarga qaratilgan. 'In' shahar va binolar uchun ishlatiladi. 'At' aniq nuqtalar uchun. 'Between' ikkita obyekt uchun. 'On' qavatlar va sirtlar uchun. 'To/into' harakatni bildiradi va 'next to' biror narsaning yonidagi joylashuvni bildiradi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct prepositions of place.",
+                "ru": "Заполните пропуски правильными предлогами места.",
+                "uz": "Bo'shliqlarni to'g'ri joy predloglari bilan to'ldiring."
+            },
+            "text": "My grandmother lives ___1___ a small village called Oakwood. She lives ___2___ a cottage ___3___ a river. The cottage is very old, and it has a big garden ___4___ the front. There is a small bridge ___5___ the river, and the post office is ___6___ the bridge. My grandmother has a lot of flowers ___7___ her garden, and she loves to sit ___8___ the armchair ___9___ the window. There is a picture of our family hanging ___10___ the wall ___11___ the fireplace. She has a beautiful antique clock ___12___ the mantelpiece. When I visit her, I always sleep ___13___ the second bedroom, which is ___14___ the stairs. It is always so peaceful there.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "in"
+                },
+                {
+                    "blank": "2",
+                    "answer": "in"
+                },
+                {
+                    "blank": "3",
+                    "answer": "by/next to"
+                },
+                {
+                    "blank": "4",
+                    "answer": "in"
+                },
+                {
+                    "blank": "5",
+                    "answer": "across"
+                },
+                {
+                    "blank": "6",
+                    "answer": "on"
+                },
+                {
+                    "blank": "7",
+                    "answer": "in"
+                },
+                {
+                    "blank": "8",
+                    "answer": "in"
+                },
+                {
+                    "blank": "9",
+                    "answer": "by/next to"
+                },
+                {
+                    "blank": "10",
+                    "answer": "on"
+                },
+                {
+                    "blank": "11",
+                    "answer": "above/over"
+                },
+                {
+                    "blank": "12",
+                    "answer": "on"
+                },
+                {
+                    "blank": "13",
+                    "answer": "in"
+                },
+                {
+                    "blank": "14",
+                    "answer": "upstairs/at the top of"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various prepositions. 'In' is used for villages and enclosed spaces. 'By' or 'next to' is for proximity. 'Across' shows a position on the opposite side of something. 'On' is for surfaces. 'Above' or 'over' is for a higher position and 'upstairs' is a specific location.",
+                "ru": "Это упражнение проверяет различные предлоги. 'In' используется для деревень и закрытых пространств. 'By' или 'next to' — для близости. 'Across' показывает положение на противоположной стороне чего-либо. 'On' — для поверхностей. 'Above' или 'over' — для более высокого положения, а 'upstairs' — для конкретного места.",
+                "uz": "Bu mashq turli xil predloglarni sinovdan o'tkazadi. 'In' qishloqlar va yopiq joylar uchun ishlatiladi. 'By' yoki 'next to' yaqinlik uchun. 'Across' biror narsaning qarama-qarshi tomonidagi joylashuvni ko'rsatadi. 'On' sirtlar uchun. 'Above' yoki 'over' yuqoriroq holat uchun, 'upstairs' esa aniq joylashuv uchun ishlatiladi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,620 @@
+{
+    "id": "A2_STATIVE_VS_DYNAMIC_VERBS_VERB_TYPES",
+    "title": "Stative vs Dynamic Verbs (or Non-action vs Action Verbs) - Verb Types",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am knowing the answer."
+                },
+                {
+                    "answer": "I know the answer.",
+                    "correct": true
+                },
+                {
+                    "answer": "I am know the answer."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'know' is a stative verb that describes a mental state and cannot be used in continuous form.",
+                "ru": "Глагол 'know' - это статичный глагол, который описывает ментальное состояние и не может использоваться в продолженном времени.",
+                "uz": "'Know' fe'li holat fe'li bo'lib, aqliy holatni tasvirlaydi va davomiy zamonda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is having a beautiful voice."
+                },
+                {
+                    "answer": "She has a beautiful voice.",
+                    "correct": true
+                },
+                {
+                    "answer": "She having a beautiful voice."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'have' when expressing possession is a stative verb and is not used in continuous form.",
+                "ru": "Глагол 'have' при выражении владения является статичным глаголом и не используется в продолженной форме.",
+                "uz": "'Have' fe'li egalik ma'nosida ishlatilganda holat fe'li hisoblanadi va davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am believing in miracles."
+                },
+                {
+                    "answer": "I believe in miracles.",
+                    "correct": true
+                },
+                {
+                    "answer": "I believing in miracles."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'believe' is a stative verb that expresses opinion or mental state and cannot be used in continuous form.",
+                "ru": "Глагол 'believe' - это статичный глагол, выражающий мнение или ментальное состояние, и не может использоваться в продолженной форме.",
+                "uz": "'Believe' fe'li fikr yoki aqliy holatni bildiruvchi holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The food is smelling delicious.",
+                    "correct": true
+                },
+                {
+                    "answer": "The food smelling delicious."
+                },
+                {
+                    "answer": "The food smell delicious."
+                }
+            ],
+            "explanation": {
+                "en": "When 'smell' describes an active quality of something, it can be used in continuous form with proper auxiliary verb 'is'.",
+                "ru": "Когда 'smell' описывает активное качество чего-то, он может использоваться в продолженной форме с правильным вспомогательным глаголом 'is'.",
+                "uz": "'Smell' fe'li biror narsaning faol xususiyatini tasvirlaganda, to'g'ri yordamchi fe'l 'is' bilan davomiy shaklda ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He is understanding the lesson."
+                },
+                {
+                    "answer": "He understands the lesson.",
+                    "correct": true
+                },
+                {
+                    "answer": "He understanding the lesson."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'understand' is a stative verb that describes mental comprehension and is not used in continuous form.",
+                "ru": "Глагол 'understand' - это статичный глагол, описывающий ментальное понимание, и не используется в продолженной форме.",
+                "uz": "'Understand' fe'li aqliy tushunishni tasvirlovchi holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They are playing football now.",
+                    "correct": true
+                },
+                {
+                    "answer": "They playing football now."
+                },
+                {
+                    "answer": "They plays football now."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'play' is a dynamic verb that describes an action and can be used in continuous form with 'are'.",
+                "ru": "Глагол 'play' - это динамичный глагол, описывающий действие, и может использоваться в продолженной форме с 'are'.",
+                "uz": "'Play' fe'li harakatni tasvirlovchi dinamik fe'l bo'lib, 'are' bilan davomiy shaklda ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am needing help."
+                },
+                {
+                    "answer": "I need help.",
+                    "correct": true
+                },
+                {
+                    "answer": "I needing help."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'need' is a stative verb that expresses necessity and is not used in continuous form.",
+                "ru": "Глагол 'need' - это статичный глагол, выражающий необходимость, и не используется в продолженной форме.",
+                "uz": "'Need' fe'li zaruriyatni bildiruvchi holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is loving chocolate."
+                },
+                {
+                    "answer": "She loves chocolate.",
+                    "correct": true
+                },
+                {
+                    "answer": "She loving chocolate."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'love' when expressing emotion is a stative verb and cannot be used in continuous form.",
+                "ru": "Глагол 'love' при выражении эмоции является статичным глаголом и не может использоваться в продолженной форме.",
+                "uz": "'Love' fe'li hissiyot ma'nosida ishlatilganda holat fe'li hisoblanadi va davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We are running in the park now.",
+                    "correct": true
+                },
+                {
+                    "answer": "We running in the park now."
+                },
+                {
+                    "answer": "We runs in the park now."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'run' is a dynamic verb that describes physical action and can be used in continuous form.",
+                "ru": "Глагол 'run' - это динамичный глагол, описывающий физическое действие, и может использоваться в продолженной форме.",
+                "uz": "'Run' fe'li jismoniy harakatni tasvirlovchi dinamik fe'l bo'lib, davomiy shaklda ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The book is belonging to me."
+                },
+                {
+                    "answer": "The book belongs to me.",
+                    "correct": true
+                },
+                {
+                    "answer": "The book belonging to me."
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'belong' is a stative verb that expresses possession or relationship and is not used in continuous form.",
+                "ru": "Глагол 'belong' - это статичный глагол, выражающий владение или отношение, и не используется в продолженной форме.",
+                "uz": "'Belong' fe'li egalik yoki munosabatni bildiruvchi holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (like) pizza very much.",
+                "ru": "Дополните предложение: I ___ (like) pizza very much.",
+                "uz": "Gapni to'ldiring: I ___ (like) pizza very much."
+            },
+            "options": [
+                {
+                    "answer": "like",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'like' is a stative verb expressing preference and is used in simple form, not continuous.",
+                "ru": "Глагол 'like' - это статичный глагол, выражающий предпочтение, и используется в простой форме, а не в продолженной.",
+                "uz": "'Like' fe'li afzallikni bildiruvchi holat fe'li bo'lib, davomiy emas, oddiy shaklda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (cook) dinner right now.",
+                "ru": "Дополните предложение: She ___ (cook) dinner right now.",
+                "uz": "Gapni to'ldiring: She ___ (cook) dinner right now."
+            },
+            "options": [
+                {
+                    "answer": "is cooking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'cook' is a dynamic verb describing an action happening now, so it uses present continuous form.",
+                "ru": "Глагол 'cook' - это динамичный глагол, описывающий действие, происходящее сейчас, поэтому используется в настоящем продолженном времени.",
+                "uz": "'Cook' fe'li hozir sodir bo'layotgan harakatni tasvirlovchi dinamik fe'l bo'lib, hozirgi davomiy zamonda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They ___ (want) to go home.",
+                "ru": "Дополните предложение: They ___ (want) to go home.",
+                "uz": "Gapni to'ldiring: They ___ (want) to go home."
+            },
+            "options": [
+                {
+                    "answer": "want",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'want' is a stative verb expressing desire and is not used in continuous form.",
+                "ru": "Глагол 'want' - это статичный глагол, выражающий желание, и не используется в продолженной форме.",
+                "uz": "'Want' fe'li istakni bildiruvchi holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ (watch) TV at the moment.",
+                "ru": "Дополните предложение: He ___ (watch) TV at the moment.",
+                "uz": "Gapni to'ldiring: He ___ (watch) TV at the moment."
+            },
+            "options": [
+                {
+                    "answer": "is watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'watch' is a dynamic verb describing an ongoing action, so it uses present continuous form.",
+                "ru": "Глагол 'watch' - это динамичный глагол, описывающий продолжающееся действие, поэтому используется в настоящем продолженном времени.",
+                "uz": "'Watch' fe'li davom etayotgan harakatni tasvirlovchi dinamik fe'l bo'lib, hozirgi davomiy zamonda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: We ___ (hear) the music from next door.",
+                "ru": "Дополните предложение: We ___ (hear) the music from next door.",
+                "uz": "Gapni to'ldiring: We ___ (hear) the music from next door."
+            },
+            "options": [
+                {
+                    "answer": "hear",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'hear' is a stative verb of perception and is not used in continuous form.",
+                "ru": "Глагол 'hear' - это статичный глагол восприятия и не используется в продолженной форме.",
+                "uz": "'Hear' fe'li idrok qilishning holat fe'li bo'lib, davomiy shaklda ishlatilmaydi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The children ___ (play) outside now.",
+                "ru": "Дополните предложение: The children ___ (play) outside now.",
+                "uz": "Gapni to'ldiring: The children ___ (play) outside now."
+            },
+            "options": [
+                {
+                    "answer": "are playing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'play' is a dynamic verb describing an action happening now, so it uses present continuous form.",
+                "ru": "Глагол 'play' - это динамичный глагол, описывающий действие, происходящее сейчас, поэтому используется в настоящем продолженном времени.",
+                "uz": "'Play' fe'li hozir sodir bo'layotgan harakatni tasvirlovchi dinamik fe'l bo'lib, hozirgi davomiy zamonda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I ___ (think) it's a good idea.",
+                "ru": "Дополните предложение: I ___ (think) it's a good idea.",
+                "uz": "Gapni to'ldiring: I ___ (think) it's a good idea."
+            },
+            "options": [
+                {
+                    "answer": "think",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When 'think' expresses opinion, it is a stative verb and is used in simple form.",
+                "ru": "Когда 'think' выражает мнение, это статичный глагол, который используется в простой форме.",
+                "uz": "'Think' fe'li fikrni bildirganda, holat fe'li hisoblanadi va oddiy shaklda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (read) a book in her room.",
+                "ru": "Дополните предложение: She ___ (read) a book in her room.",
+                "uz": "Gapni to'ldiring: She ___ (read) a book in her room."
+            },
+            "options": [
+                {
+                    "answer": "is reading",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'read' is a dynamic verb describing an ongoing action, so it uses present continuous form.",
+                "ru": "Глагол 'read' - это динамичный глагол, описывающий продолжающееся действие, поэтому используется в настоящем продолженном времени.",
+                "uz": "'Read' fe'li davom etayotgan harakatni tasvirlovchi dinamik fe'l bo'lib, hozirgi davomiy zamonda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This cake ___ (taste) delicious.",
+                "ru": "Дополните предложение: This cake ___ (taste) delicious.",
+                "uz": "Gapni to'ldiring: This cake ___ (taste) delicious."
+            },
+            "options": [
+                {
+                    "answer": "tastes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When 'taste' describes a quality or characteristic, it is a stative verb and uses simple form.",
+                "ru": "Когда 'taste' описывает качество или характеристику, это статичный глагол, который используется в простой форме.",
+                "uz": "'Taste' fe'li sifat yoki xususiyatni tasvirlaganda, holat fe'li hisoblanadi va oddiy shaklda ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: My brother ___ (study) for his exam now.",
+                "ru": "Дополните предложение: My brother ___ (study) for his exam now.",
+                "uz": "Gapni to'ldiring: My brother ___ (study) for his exam now."
+            },
+            "options": [
+                {
+                    "answer": "is studying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'study' is a dynamic verb describing an action happening now, so it uses present continuous form.",
+                "ru": "Глагол 'study' - это динамичный глагол, описывающий действие, происходящее сейчас, поэтому используется в настоящем продолженном времени.",
+                "uz": "'Study' fe'li hozir sodir bo'layotgan harakatni tasvirlovchi dinamik fe'l bo'lib, hozirgi davomiy zamonda ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is a university student who ___1___ (love) learning new languages. Right now, she ___2___ (sit) in the library and ___3___ (study) for her Spanish exam. She ___4___ (know) that languages are important for her future career. The library is quiet, and she ___5___ (hear) only the sound of pages turning. Sarah ___6___ (believe) that practice makes perfect, so she ___7___ (write) vocabulary words in her notebook at this moment. She ___8___ (want) to become fluent in Spanish by next year. Her friend Maria ___9___ (help) her with pronunciation when they meet. Sarah ___10___ (think) Maria is an excellent teacher because she ___11___ (have) native-level Spanish skills. The textbook ___12___ (contain) many useful exercises that Sarah ___13___ (do) every day. She ___14___ (understand) that consistent practice is the key to success, and she ___15___ (feel) confident about her progress.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "loves"
+                },
+                {
+                    "blank": "2",
+                    "answer": "is sitting"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is studying"
+                },
+                {
+                    "blank": "4",
+                    "answer": "knows"
+                },
+                {
+                    "blank": "5",
+                    "answer": "hears"
+                },
+                {
+                    "blank": "6",
+                    "answer": "believes"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is writing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "wants"
+                },
+                {
+                    "blank": "9",
+                    "answer": "helps"
+                },
+                {
+                    "blank": "10",
+                    "answer": "thinks"
+                },
+                {
+                    "blank": "11",
+                    "answer": "has"
+                },
+                {
+                    "blank": "12",
+                    "answer": "contains"
+                },
+                {
+                    "blank": "13",
+                    "answer": "does"
+                },
+                {
+                    "blank": "14",
+                    "answer": "understands"
+                },
+                {
+                    "blank": "15",
+                    "answer": "feels"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the difference between stative verbs (love, know, hear, believe, want, think, have, contain, understand, feel) which express states and are not used in continuous form, and dynamic verbs (sit, study, write, help, do) which express actions and can be used in continuous form.",
+                "ru": "Это упражнение демонстрирует разницу между статичными глаголами (love, know, hear, believe, want, think, have, contain, understand, feel), которые выражают состояния и не используются в продолженной форме, и динамичными глаголами (sit, study, write, help, do), которые выражают действия и могут использоваться в продолженной форме.",
+                "uz": "Bu mashq holat fe'llari (love, know, hear, believe, want, think, have, contain, understand, feel) va dinamik fe'llar (sit, study, write, help, do) o'rtasidagi farqni ko'rsatadi. Holat fe'llari holatni bildiradi va davomiy shaklda ishlatilmaydi, dinamik fe'llar esa harakatni bildiradi va davomiy shaklda ishlatilishi mumkin."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tom ___1___ (work) as a chef in a busy restaurant downtown. He ___2___ (enjoy) his job very much because he ___3___ (love) cooking creative dishes. Right now, it's lunch time and Tom ___4___ (prepare) several meals simultaneously. The kitchen ___5___ (smell) wonderful with all the different aromas. Tom ___6___ (know) all the recipes by heart, but he still ___7___ (check) them carefully. His assistant Jake ___8___ (cut) vegetables while Tom ___9___ (cook) the main course. The restaurant ___10___ (belong) to Tom's uncle, who ___11___ (trust) Tom completely. Customers ___12___ (wait) patiently for their food because they ___13___ (understand) that good food takes time. Tom ___14___ (feel) proud when people compliment his cooking, and he ___15___ (hope) to open his own restaurant someday.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "works"
+                },
+                {
+                    "blank": "2",
+                    "answer": "enjoys"
+                },
+                {
+                    "blank": "3",
+                    "answer": "loves"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is preparing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "smells"
+                },
+                {
+                    "blank": "6",
+                    "answer": "knows"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is checking"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is cutting"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is cooking"
+                },
+                {
+                    "blank": "10",
+                    "answer": "belongs"
+                },
+                {
+                    "blank": "11",
+                    "answer": "trusts"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are waiting"
+                },
+                {
+                    "blank": "13",
+                    "answer": "understand"
+                },
+                {
+                    "blank": "14",
+                    "answer": "feels"
+                },
+                {
+                    "blank": "15",
+                    "answer": "hopes"
+                }
+            ],
+            "explanation": {
+                "en": "This passage contrasts stative verbs expressing permanent states, emotions, and mental processes (work, enjoy, love, smell, know, belong, trust, understand, feel, hope) with dynamic verbs describing ongoing actions (prepare, check, cut, cook, wait).",
+                "ru": "Этот отрывок контрастирует статичные глаголы, выражающие постоянные состояния, эмоции и ментальные процессы (work, enjoy, love, smell, know, belong, trust, understand, feel, hope) с динамичными глаголами, описывающими продолжающиеся действия (prepare, check, cut, cook, wait).",
+                "uz": "Bu matn doimiy holatlar, hissiyotlar va aqliy jarayonlarni ifodalovchi holat fe'llari (work, enjoy, love, smell, know, belong, trust, understand, feel, hope) bilan davom etayotgan harakatlarni tasvirlovchi dinamik fe'llar (prepare, check, cut, cook, wait) o'rtasidagi farqni ko'rsatadi."
+            }
+        }
+    ]
+}

@@ -1,0 +1,811 @@
+{
+    "id": "A1_CONJUNCTIONS_AND_OR_BUT",
+    "title": "Conjunctions (and, or, but) - Basic coordinating conjunctions",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I like apples but oranges.",
+                    "correct": false
+                },
+                {
+                    "answer": "I like apples, and I don't like oranges.",
+                    "correct": false
+                },
+                {
+                    "answer": "I like apples, but I don't like oranges.",
+                    "correct": true
+                },
+                {
+                    "answer": "I like apples, or I don't like oranges.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'but' is used to connect two contrasting ideas. Liking apples and not liking oranges are opposing ideas.",
+                "ru": "Союз 'but' используется для соединения двух контрастных идей. Любить яблоки и не любить апельсины — это противоположные идеи.",
+                "uz": "'but' bog'lovchisi ikki qarama-qarshi g'oyani bog'lash uchun ishlatiladi. Olmalarni yoqtirish va apelsinlarni yoqtirmaslik qarama-qarshi g'oyalardir."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She speaks English, but she speaks French.",
+                    "correct": false
+                },
+                {
+                    "answer": "She speaks English and she speaks French.",
+                    "correct": true
+                },
+                {
+                    "answer": "She speaks English, or she speaks French.",
+                    "correct": false
+                },
+                {
+                    "answer": "She speaks English and she doesn't speak French.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'and' is used to add one idea to another. Speaking English and speaking French are two facts that are being added together.",
+                "ru": "Союз 'and' используется для добавления одной идеи к другой. Говорить по-английски и говорить по-французски — это два факта, которые объединяются.",
+                "uz": "'and' bog'lovchisi bir g'oyani boshqasiga qo'shish uchun ishlatiladi. Ingliz tilida gapirish va fransuz tilida gapirish ikkita fakt bo'lib, ular birgalikda qo'shilyapti."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Do you want tea, and coffee?",
+                    "correct": false
+                },
+                {
+                    "answer": "Do you want tea, or coffee?",
+                    "correct": true
+                },
+                {
+                    "answer": "Do you want tea, but coffee?",
+                    "correct": false
+                },
+                {
+                    "answer": "Do you want tea, or do you want coffee, or?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'or' is used to present a choice between two or more options. Here, the choice is between tea and coffee.",
+                "ru": "Союз 'or' используется для представления выбора между двумя или более вариантами. Здесь выбор между чаем и кофе.",
+                "uz": "'or' bog'lovchisi ikki yoki undan ortiq variant o'rtasida tanlovni taqdim etish uchun ishlatiladi. Bu yerda choy va kofe o'rtasida tanlov mavjud."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He is small, and he is strong.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is small, but he is strong.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is small, or he is strong.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is small but he is strong.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'but' is used to show a contrast between 'small' and 'strong.' These are two opposing characteristics.",
+                "ru": "Союз 'but' используется для выражения контраста между 'маленький' и 'сильный'. Это две противоположные характеристики.",
+                "uz": "'but' bog'lovchisi 'kichkina' va 'kuchli' o'rtasidagi farqni ko'rsatish uchun ishlatiladi. Bular ikkita qarama-qarshi xususiyatdir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "We have a dog, but we have a cat.",
+                    "correct": false
+                },
+                {
+                    "answer": "We have a dog, and we have a cat.",
+                    "correct": true
+                },
+                {
+                    "answer": "We have a dog, or we have a cat.",
+                    "correct": false
+                },
+                {
+                    "answer": "We have a dog, we have a cat.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'and' is used to connect two similar or related ideas. Having a dog and having a cat are two similar possessions.",
+                "ru": "Союз 'and' используется для соединения двух похожих или связанных идей. Наличие собаки и наличие кошки — это два похожих владения.",
+                "uz": "'and' bog'lovchisi ikki o'xshash yoki bog'liq g'oyani bog'lash uchun ishlatiladi. Itga va mushukga ega bo'lish ikkita o'xshash mulkdir."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is her name Mary, and Susan?",
+                    "correct": false
+                },
+                {
+                    "answer": "Is her name Mary, but Susan?",
+                    "correct": false
+                },
+                {
+                    "answer": "Is her name Mary or Susan?",
+                    "correct": true
+                },
+                {
+                    "answer": "Is her name Mary or is her name Susan?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'or' is used to show a choice between 'Mary' and 'Susan.'",
+                "ru": "Союз 'or' используется, чтобы показать выбор между 'Mary' и 'Susan'.",
+                "uz": "'or' bog'lovchisi 'Mary' va 'Susan' o'rtasida tanlovni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They are late, but the bus is late.",
+                    "correct": false
+                },
+                {
+                    "answer": "They are late, or the bus is late.",
+                    "correct": false
+                },
+                {
+                    "answer": "They are late, and the bus is late.",
+                    "correct": true
+                },
+                {
+                    "answer": "They are late, so the bus is late.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'and' is used to connect two facts. Being late and the bus being late are two related facts.",
+                "ru": "Союз 'and' используется для соединения двух фактов. Их опоздание и опоздание автобуса — это два связанных факта.",
+                "uz": "'and' bog'lovchisi ikkita faktni bog'lash uchun ishlatiladi. Ularning kechikishi va avtobusning kechikishi ikkita bog'liq faktdir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is not rich, or he is happy.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is not rich, and he is happy.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is not rich, but he is happy.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is not rich, or is he happy?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'but' is used to connect two contrasting ideas. Being 'not rich' and being 'happy' are two ideas that are often seen as a contrast.",
+                "ru": "Союз 'but' используется для соединения двух контрастных идей. Быть 'не богатым' и быть 'счастливым' — это две идеи, которые часто воспринимаются как контраст.",
+                "uz": "'but' bog'lovchisi ikki qarama-qarshi g'oyani bog'lash uchun ishlatiladi. 'Boy bo'lmaslik' va 'baxtli bo'lish' ko'pincha qarama-qarshi bo'lib ko'rinadigan ikkita g'oyadir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have one brother and one sister.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have one brother but one sister.",
+                    "correct": false
+                },
+                {
+                    "answer": "I have one brother or one sister.",
+                    "correct": false
+                },
+                {
+                    "answer": "I have one brothers and one sisters and a cat.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'and' is used to add items to a list. Having a brother and a sister are two items in the list of family members.",
+                "ru": "Союз 'and' используется для добавления элементов в список. Наличие брата и сестры — это два элемента в списке членов семьи.",
+                "uz": "'and' bog'lovchisi ro'yxatga narsalarni qo'shish uchun ishlatiladi. Aka-uka va singilga ega bo'lish oila a'zolari ro'yxatidagi ikkita elementdir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is it Tuesday, or Wednesday?",
+                    "correct": true
+                },
+                {
+                    "answer": "Is it Tuesday, but Wednesday?",
+                    "correct": false
+                },
+                {
+                    "answer": "Is it Tuesday, and Wednesday?",
+                    "correct": false
+                },
+                {
+                    "answer": "Is it Tuesday or Wednesday?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'or' is used to ask about a choice between two options. Note that the comma is optional here.",
+                "ru": "Союз 'or' используется для вопроса о выборе между двумя вариантами. Обратите внимание, что запятая здесь необязательна.",
+                "uz": "'or' bog'lovchisi ikkita variant o'rtasidagi tanlov haqida savol berish uchun ishlatiladi. E'tibor bering, bu yerda vergul ixtiyoriy."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He is tall ___ his brother is short.",
+                "ru": "Дополните предложение: He is tall ___ his brother is short.",
+                "uz": "Gapni to'ldiring: He is tall ___ his brother is short."
+            },
+            "options": [
+                {
+                    "answer": "but",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'but' is used to show a contrast between two opposite ideas: 'tall' and 'short'.",
+                "ru": "Слово 'but' используется для обозначения контраста между двумя противоположными идеями: 'tall' (высокий) и 'short' (низкий).",
+                "uz": "'but' so'zi ikkita qarama-qarshi g'oya: 'tall' (baland) va 'short' (past) o'rtasidagi farqni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I need a pen ___ a pencil for the test.",
+                "ru": "Дополните предложение: I need a pen ___ a pencil for the test.",
+                "uz": "Gapni to'ldiring: I need a pen ___ a pencil for the test."
+            },
+            "options": [
+                {
+                    "answer": "and",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'and' is used to add one item to another. You need both a pen and a pencil.",
+                "ru": "Слово 'and' используется для добавления одного предмета к другому. Вам нужны и ручка, и карандаш.",
+                "uz": "'and' so'zi bir narsani boshqasiga qo'shish uchun ishlatiladi. Sizga ham ruchka, ham qalam kerak."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You can take the train ___ the bus to get there.",
+                "ru": "Дополните предложение: You can take the train ___ the bus to get there.",
+                "uz": "Gapni to'ldiring: You can take the train ___ the bus to get there."
+            },
+            "options": [
+                {
+                    "answer": "or",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'or' is used to give a choice between two options. You can choose to take the train or the bus.",
+                "ru": "Слово 'or' используется для предоставления выбора между двумя вариантами. Вы можете выбрать поезд или автобус.",
+                "uz": "'or' so'zi ikkita variant o'rtasida tanlov berish uchun ishlatiladi. Siz poyezd yoki avtobusda borishni tanlashingiz mumkin."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She is hungry ___ she wants to eat.",
+                "ru": "Дополните предложение: She is hungry ___ she wants to eat.",
+                "uz": "Gapni to'ldiring: She is hungry ___ she wants to eat."
+            },
+            "options": [
+                {
+                    "answer": "and",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'and' connects two related ideas. Being hungry is the reason she wants to eat.",
+                "ru": "Слово 'and' соединяет две связанные идеи. Быть голодной — причина, по которой она хочет есть.",
+                "uz": "'and' so'zi ikkita bog'liq g'oyani bog'laydi. Och bo'lishi uning ovqatlanishni xohlashining sababidir."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I like coffee ___ my brother likes tea.",
+                "ru": "Дополните предложение: I like coffee ___ my brother likes tea.",
+                "uz": "Gapni to'ldiring: I like coffee ___ my brother likes tea."
+            },
+            "options": [
+                {
+                    "answer": "but",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'but' is used to show a contrast between two different preferences: liking coffee and liking tea.",
+                "ru": "Слово 'but' используется для обозначения контраста между двумя разными предпочтениями: любовь к кофе и любовь к чаю.",
+                "uz": "'but' so'zi ikkita turli xil afzallik: qahvani yoqtirish va choyni yoqtirish o'rtasidagi farqni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Is the book red ___ blue?",
+                "ru": "Дополните предложение: Is the book red ___ blue?",
+                "uz": "Gapni to'ldiring: Is the book red ___ blue?"
+            },
+            "options": [
+                {
+                    "answer": "or",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'or' is used to present a choice between two options: 'red' or 'blue'.",
+                "ru": "Слово 'or' используется для представления выбора между двумя вариантами: 'red' (красный) или 'blue' (синий).",
+                "uz": "'or' so'zi ikkita variant o'rtasida tanlovni taqdim etish uchun ishlatiladi: 'red' (qizil) yoki 'blue' (ko'k)."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: They are poor ___ they are happy.",
+                "ru": "Дополните предложение: They are poor ___ they are happy.",
+                "uz": "Gapni to'ldiring: They are poor ___ they are happy."
+            },
+            "options": [
+                {
+                    "answer": "but",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'but' is used to show a contrast between 'poor' and 'happy'. These are often seen as opposite situations.",
+                "ru": "Слово 'but' используется для обозначения контраста между 'бедным' и 'счастливым'. Это часто воспринимается как противоположные ситуации.",
+                "uz": "'but' so'zi 'kambag'al' va 'baxtli' o'rtasidagi farqni ko'rsatish uchun ishlatiladi. Bular ko'pincha qarama-qarshi holatlar sifatida ko'riladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I will buy eggs ___ milk at the store.",
+                "ru": "Дополните предложение: I will buy eggs ___ milk at the store.",
+                "uz": "Gapni to'ldiring: I will buy eggs ___ milk at the store."
+            },
+            "options": [
+                {
+                    "answer": "and",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'and' is used to connect two items that you will buy. You will buy both eggs and milk.",
+                "ru": "Слово 'and' используется для соединения двух предметов, которые вы собираетесь купить. Вы купите и яйца, и молоко.",
+                "uz": "'and' so'zi siz sotib oladigan ikkita narsani bog'lash uchun ishlatiladi. Siz ham tuxum, ham sut sotib olasiz."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Do you want to go to the cinema ___ the park?",
+                "ru": "Дополните предложение: Do you want to go to the cinema ___ the park?",
+                "uz": "Gapni to'ldiring: Do you want to go to the cinema ___ the park?"
+            },
+            "options": [
+                {
+                    "answer": "or",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'or' is used to present a choice between 'the cinema' and 'the park.'",
+                "ru": "Слово 'or' используется для представления выбора между 'the cinema' (кинотеатр) и 'the park' (парк).",
+                "uz": "'or' so'zi 'the cinema' (kinoteatr) va 'the park' (park) o'rtasida tanlovni taqdim etish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He is tired ___ he cannot sleep.",
+                "ru": "Дополните предложение: He is tired ___ he cannot sleep.",
+                "uz": "Gapni to'ldiring: He is tired ___ he cannot sleep."
+            },
+            "options": [
+                {
+                    "answer": "but",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The word 'but' is used to connect two contrasting situations. Being tired and not being able to sleep are opposing ideas.",
+                "ru": "Слово 'but' используется для соединения двух контрастных ситуаций. Усталость и невозможность заснуть — противоположные идеи.",
+                "uz": "'but' so'zi ikkita qarama-qarshi vaziyatni bog'lash uchun ishlatiladi. Charchagan bo'lish va uxlay olmaslik qarama-qarshi g'oyalardir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My friend, Tom, is a student ___1___ he is very busy. He wakes up at 6 a.m. ___2___ he goes for a run every morning. He studies a lot ___3___ he doesn't have much free time. He wants to be a doctor ___4___ he has to study hard. He likes to play sports, like football ___5___ basketball, ___6___ sometimes he is too tired. He can read books ___7___ watch movies in his free time. He wants to travel the world ___8___ he needs to save money. He likes tea ___9___ coffee. He can speak English ___10___ he cannot speak Spanish.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "and"
+                },
+                {
+                    "blank": "2",
+                    "answer": "and"
+                },
+                {
+                    "blank": "3",
+                    "answer": "and"
+                },
+                {
+                    "blank": "4",
+                    "answer": "and"
+                },
+                {
+                    "blank": "5",
+                    "answer": "and"
+                },
+                {
+                    "blank": "6",
+                    "answer": "but"
+                },
+                {
+                    "blank": "7",
+                    "answer": "or"
+                },
+                {
+                    "blank": "8",
+                    "answer": "but"
+                },
+                {
+                    "blank": "9",
+                    "answer": "and"
+                },
+                {
+                    "blank": "10",
+                    "answer": "but"
+                }
+            ],
+            "explanation": {
+                "en": "The words 'and,' 'or,' and 'but' are used to connect ideas. 'And' adds ideas, 'but' shows contrast, and 'or' gives a choice. For example, 'he is a student and he is very busy' connects two related facts.",
+                "ru": "Слова 'and', 'or' и 'but' используются для соединения идей. 'And' добавляет идеи, 'but' показывает контраст, а 'or' предоставляет выбор. Например, 'he is a student and he is very busy' соединяет два связанных факта.",
+                "uz": "'and,' 'or,' va 'but' so'zlari g'oyalarni bog'lash uchun ishlatiladi. 'And' g'oyalarni qo'shadi, 'but' qarama-qarshilikni ko'rsatadi, va 'or' tanlov beradi. Masalan, 'he is a student and he is very busy' ikkita bog'liq faktni bog'laydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My sister is a very good student ___1___ she works hard. She likes to read books ___2___ she likes to watch movies. She can speak English ___3___ German. She wants to visit France ___4___ Spain. She is very intelligent, ___5___ she is also very shy. She wants to go to a good university ___6___ she needs to get good grades. Sometimes she is tired ___7___ she still studies. She can either cook dinner ___8___ order food. Her favorite colors are red ___9___ blue. She likes hot weather ___10___ she doesn't like cold weather.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "and"
+                },
+                {
+                    "blank": "2",
+                    "answer": "and"
+                },
+                {
+                    "blank": "3",
+                    "answer": "and"
+                },
+                {
+                    "blank": "4",
+                    "answer": "or"
+                },
+                {
+                    "blank": "5",
+                    "answer": "but"
+                },
+                {
+                    "blank": "6",
+                    "answer": "and"
+                },
+                {
+                    "blank": "7",
+                    "answer": "but"
+                },
+                {
+                    "blank": "8",
+                    "answer": "or"
+                },
+                {
+                    "blank": "9",
+                    "answer": "and"
+                },
+                {
+                    "blank": "10",
+                    "answer": "but"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests your use of 'and,' 'or,' and 'but' to join words and sentences. Remember to use 'and' to add information, 'but' to show contrast, and 'or' for choices.",
+                "ru": "Это упражнение проверяет ваше использование 'and', 'or' и 'but' для соединения слов и предложений. Помните, что 'and' добавляет информацию, 'but' показывает контраст, а 'or' используется для выбора.",
+                "uz": "Ushbu mashq 'and,' 'or,' va 'but' bog'lovchilaridan so'zlarni va gaplarni bog'lashda foydalanishni sinovdan o'tkazadi. Ma'lumot qo'shish uchun 'and' ni, qarama-qarshilikni ko'rsatish uchun 'but' ni va tanlov uchun 'or' ni ishlatishni unutmang."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My friend and I went to the park today. We wanted to play football ___1___ we forgot the ball. I like sports ___2___ my friend likes music more. We can listen to music ___3___ talk. We saw a dog ___4___ a cat. The dog was big ___5___ friendly. I wanted to pet it, ___6___ my friend was afraid. We sat on a bench ___7___ ate our sandwiches. They were cheese ___8___ tomato sandwiches. The weather was sunny ___9___ warm. We had a great time ___10___ we are going again tomorrow.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "but"
+                },
+                {
+                    "blank": "2",
+                    "answer": "but"
+                },
+                {
+                    "blank": "3",
+                    "answer": "or"
+                },
+                {
+                    "blank": "4",
+                    "answer": "and"
+                },
+                {
+                    "blank": "5",
+                    "answer": "and"
+                },
+                {
+                    "blank": "6",
+                    "answer": "but"
+                },
+                {
+                    "blank": "7",
+                    "answer": "and"
+                },
+                {
+                    "blank": "8",
+                    "answer": "and"
+                },
+                {
+                    "blank": "9",
+                    "answer": "and"
+                },
+                {
+                    "blank": "10",
+                    "answer": "and"
+                }
+            ],
+            "explanation": {
+                "en": "The conjunction 'and' connects similar ideas, like seeing a dog and a cat. 'But' connects contrasting ideas, like wanting to play football but forgetting the ball. 'Or' gives an alternative, like listening to music or talking.",
+                "ru": "Союз 'and' соединяет похожие идеи, например, увидеть собаку и кошку. 'But' соединяет контрастные идеи, например, хотеть играть в футбол, но забыть мяч. 'Or' предлагает альтернативу, например, слушать музыку или разговаривать.",
+                "uz": "'and' bog'lovchisi o'xshash g'oyalarni bog'laydi, masalan, it va mushukni ko'rish. 'But' qarama-qarshi g'oyalarni bog'laydi, masalan, futbol o'ynamoqchi bo'lish, lekin to'pni unutish. 'Or' muqobil variant beradi, masalan, musiqa tinglash yoki gaplashish."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "Sarah is a student. She studies English ___1___ mathematics. She is very good at English, ___2___ she finds mathematics difficult. She wants to be a teacher ___3___ she is very good with children. She can either work in a school ___4___ in a college. She is very kind ___5___ friendly. She likes to read books ___6___ magazines. She goes to the library every day ___7___ she studies there for two hours. She wants to buy a new computer ___8___ she doesn't have enough money. She can buy a laptop ___9___ a tablet. She is happy ___10___ she is healthy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "and"
+                },
+                {
+                    "blank": "2",
+                    "answer": "but"
+                },
+                {
+                    "blank": "3",
+                    "answer": "and"
+                },
+                {
+                    "blank": "4",
+                    "answer": "or"
+                },
+                {
+                    "blank": "5",
+                    "answer": "and"
+                },
+                {
+                    "blank": "6",
+                    "answer": "or"
+                },
+                {
+                    "blank": "7",
+                    "answer": "and"
+                },
+                {
+                    "blank": "8",
+                    "answer": "but"
+                },
+                {
+                    "blank": "9",
+                    "answer": "or"
+                },
+                {
+                    "blank": "10",
+                    "answer": "and"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise uses 'and' to connect similar things (e.g., studies English and mathematics), 'but' for contrast (e.g., good at English but finds math difficult), and 'or' for choices (e.g., work in a school or in a college).",
+                "ru": "Это упражнение использует 'and' для соединения похожих вещей (например, изучает английский и математику), 'but' для контраста (например, хорошо знает английский, но считает математику сложной) и 'or' для выбора (например, работать в школе или в колледже).",
+                "uz": "Ushbu mashq o'xshash narsalarni bog'lash uchun 'and' (masalan, ingliz va matematikani o'rganadi), qarama-qarshilik uchun 'but' (masalan, ingliz tilini yaxshi biladi, lekin matematikani qiyin deb biladi) va tanlovlar uchun 'or' (masalan, maktabda yoki kollejda ishlash) bog'lovchilarini qo'llaydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words.",
+                "ru": "Заполните пропуски правильными словами.",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring."
+            },
+            "text": "My family and I went to the zoo on Sunday. My mom likes animals ___1___ my dad likes plants. We saw a big lion ___2___ a small monkey. The lion was sleeping, ___3___ the monkey was jumping and playing. My sister wanted to see the bears, ___4___ the bear cage was closed. We saw two birds, a blue one ___5___ a green one. My mom was tired, ___6___ she still had fun. We can go to the zoo ___7___ the park next weekend. My dad bought some sandwiches ___8___ some drinks. My sister likes juice, ___9___ I like water. We were all tired, ___10___ we were very happy.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "but"
+                },
+                {
+                    "blank": "2",
+                    "answer": "and"
+                },
+                {
+                    "blank": "3",
+                    "answer": "but"
+                },
+                {
+                    "blank": "4",
+                    "answer": "but"
+                },
+                {
+                    "blank": "5",
+                    "answer": "and"
+                },
+                {
+                    "blank": "6",
+                    "answer": "but"
+                },
+                {
+                    "blank": "7",
+                    "answer": "or"
+                },
+                {
+                    "blank": "8",
+                    "answer": "and"
+                },
+                {
+                    "blank": "9",
+                    "answer": "but"
+                },
+                {
+                    "blank": "10",
+                    "answer": "and"
+                }
+            ],
+            "explanation": {
+                "en": "The conjunctions 'and,' 'or,' and 'but' are used to link ideas. 'And' adds information (e.g., saw a lion and a monkey), 'but' shows contrast (e.g., mom likes animals but dad likes plants), and 'or' gives a choice (e.g., go to the zoo or the park).",
+                "ru": "Союзы 'and', 'or' и 'but' используются для связывания идей. 'And' добавляет информацию (например, увидели льва и обезьяну), 'but' показывает контраст (например, мама любит животных, но папа любит растения), а 'or' дает выбор (например, пойти в зоопарк или в парк).",
+                "uz": "'and,' 'or,' va 'but' bog'lovchilari g'oyalarni bog'lash uchun ishlatiladi. 'And' ma'lumot qo'shadi (masalan, sher va maymunni ko'rdi), 'but' qarama-qarshilikni ko'rsatadi (masalan, onam hayvonlarni yaxshi ko'radi, lekin dadam o'simliklarni), va 'or' tanlov beradi (masalan, hayvonot bog'iga yoki parkga borish)."
+            }
+        }
+    ]
+}

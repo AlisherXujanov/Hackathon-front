@@ -1,0 +1,628 @@
+{
+    "id": "C2_MASTERY_OF_ALL_TENSE_FORMS_AND_ASPECTS_PERFECT_COMMAND_OF_TEMPORAL_SYSTEM",
+    "title": "Mastery of all tense forms and aspects - Perfect command of temporal system",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By next month, I will have been working here for exactly five years."
+                },
+                {
+                    "answer": "By next month, I will have worked here for exactly five years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next month, I will be working here for exactly five years."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect is used for actions completed before a specific future time. Future perfect continuous emphasizes duration continuing up to that point.",
+                "ru": "Будущее совершенное время используется для действий, завершенных до определенного момента в будущем. Будущее совершенное длительное подчеркивает продолжительность до этого момента.",
+                "uz": "Future perfect ma'lum bir kelajak vaqtdan oldin tugallangan harakatlar uchun ishlatiladi. Future perfect continuous o'sha paytgacha davom etgan davomiylikni ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Had I known about the meeting, I would have attended it.",
+                    "correct": true
+                },
+                {
+                    "answer": "If I had knew about the meeting, I would have attended it."
+                },
+                {
+                    "answer": "Had I knew about the meeting, I would attended it."
+                }
+            ],
+            "explanation": {
+                "en": "In third conditional inversion, 'had' is followed by the past participle 'known', not the past form 'knew'.",
+                "ru": "В инверсии третьего условного предложения после 'had' используется причастие прошедшего времени 'known', а не форма прошедшего времени 'knew'.",
+                "uz": "Uchinchi shartli gapning inversiyasida 'had' dan keyin 'known' o'tgan zamon sifatdoshi ishlatiladi, 'knew' o'tgan zamon shakli emas."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She has been living in Paris since she was graduated from university."
+                },
+                {
+                    "answer": "She has been living in Paris since she graduated from university.",
+                    "correct": true
+                },
+                {
+                    "answer": "She has been living in Paris since she has graduated from university."
+                }
+            ],
+            "explanation": {
+                "en": "After 'since' with a specific past event, we use simple past tense, not present perfect or passive voice.",
+                "ru": "После 'since' с конкретным прошедшим событием используется простое прошедшее время, а не настоящее совершенное или страдательный залог.",
+                "uz": "'Since' dan keyin aniq o'tgan voqea bilan oddiy o'tgan zamon ishlatiladi, present perfect yoki majhul nisbat emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By the time you arrive, I will be finishing my presentation."
+                },
+                {
+                    "answer": "By the time you arrive, I will have finished my presentation.",
+                    "correct": true
+                },
+                {
+                    "answer": "By the time you arrive, I will finish my presentation."
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect is required after 'by the time' to show completion before another future event.",
+                "ru": "После 'by the time' требуется будущее совершенное время для обозначения завершения до другого будущего события.",
+                "uz": "'By the time' dan keyin boshqa kelajak voqeadan oldin tugallanishni ko'rsatish uchun future perfect talab qilinadi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She would rather that he doesn't call her so late."
+                },
+                {
+                    "answer": "She would rather that he didn't call her so late.",
+                    "correct": true
+                },
+                {
+                    "answer": "She would rather that he wouldn't call her so late."
+                }
+            ],
+            "explanation": {
+                "en": "After 'would rather that', we use past subjunctive (simple past form) for present/future reference.",
+                "ru": "После 'would rather that' используется прошедшее сослагательное наклонение (форма простого прошедшего) для настоящего/будущего времени.",
+                "uz": "'Would rather that' dan keyin hozirgi/kelajak ma'no uchun o'tgan subjunktiv (oddiy o'tgan zamon shakli) ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I wish I have studied harder for the exam."
+                },
+                {
+                    "answer": "I wish I had studied harder for the exam.",
+                    "correct": true
+                },
+                {
+                    "answer": "I wish I would study harder for the exam."
+                }
+            ],
+            "explanation": {
+                "en": "For past regrets, 'wish' is followed by past perfect to express something that didn't happen in the past.",
+                "ru": "Для сожалений о прошлом после 'wish' используется прошедшее совершенное время для выражения того, что не произошло в прошлом.",
+                "uz": "O'tmishdagi afsuslanish uchun 'wish' dan keyin o'tmishda bo'lmagan narsani ifodalash uchun past perfect ishlatiladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He has been working on this project since three months."
+                },
+                {
+                    "answer": "He has been working on this project for three months.",
+                    "correct": true
+                },
+                {
+                    "answer": "He has been working on this project during three months."
+                }
+            ],
+            "explanation": {
+                "en": "With a duration of time, we use 'for' not 'since'. 'Since' is used with a specific starting point in time.",
+                "ru": "С продолжительностью времени используется 'for', а не 'since'. 'Since' используется с конкретной отправной точкой во времени.",
+                "uz": "Vaqt davomiyligi bilan 'for' ishlatiladi, 'since' emas. 'Since' vaqtdagi aniq boshlang'ich nuqta bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Scarcely had I arrived when the phone rang.",
+                    "correct": true
+                },
+                {
+                    "answer": "Scarcely I had arrive when the phone rang."
+                },
+                {
+                    "answer": "Scarcely had I arrived than the phone rang."
+                }
+            ],
+            "explanation": {
+                "en": "After 'scarcely' at the beginning of a sentence, we use inversion (had + subject) and 'when', not 'than'.",
+                "ru": "После 'scarcely' в начале предложения используется инверсия (had + подлежащее) и 'when', а не 'than'.",
+                "uz": "Gap boshida 'scarcely' dan keyin inversiya (had + ega) va 'when' ishlatiladi, 'than' emas."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It's high time we are leaving for the airport."
+                },
+                {
+                    "answer": "It's high time we left for the airport.",
+                    "correct": true
+                },
+                {
+                    "answer": "It's high time we leave for the airport."
+                }
+            ],
+            "explanation": {
+                "en": "After 'it's high time', we use past subjunctive (simple past form) to express present urgency.",
+                "ru": "После 'it's high time' используется прошедшее сослагательное наклонение (форма простого прошедшего) для выражения настоящей необходимости.",
+                "uz": "'It's high time' dan keyin hozirgi zарoriylikni ifodalash uchun o'tgan subjunktiv (oddiy o'tgan zamon shakli) ishlatiladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "No sooner had the concert begun that the lights gone out."
+                },
+                {
+                    "answer": "No sooner had the concert begun than the lights went out.",
+                    "correct": true
+                },
+                {
+                    "answer": "No sooner the concert had begun than the lights went out."
+                }
+            ],
+            "explanation": {
+                "en": "'No sooner' requires inversion (had + subject) and is followed by 'than', not 'that'.",
+                "ru": "'No sooner' требует инверсии (had + подлежащее) и сопровождается 'than', а не 'that'.",
+                "uz": "'No sooner' inversiya (had + ega) talab qiladi va 'than' bilan kuzatiladi, 'that' bilan emas."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ (live) in Tokyo for ten years before she moved to London.",
+                "ru": "Дополните предложение: She ___ (live) in Tokyo for ten years before she moved to London.",
+                "uz": "Gapni to'ldiring: She ___ (live) in Tokyo for ten years before she moved to London."
+            },
+            "options": [
+                {
+                    "answer": "had lived/had been living",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect or past perfect continuous shows an action completed before another past action.",
+                "ru": "Прошедшее совершенное или прошедшее совершенное длительное показывает действие, завершенное до другого прошедшего действия.",
+                "uz": "Past perfect yoki past perfect continuous boshqa o'tgan harakatdan oldin tugallangan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By 2030, scientists ___ (develop) new treatments for many diseases.",
+                "ru": "Дополните предложение: By 2030, scientists ___ (develop) new treatments for many diseases.",
+                "uz": "Gapni to'ldiring: By 2030, scientists ___ (develop) new treatments for many diseases."
+            },
+            "options": [
+                {
+                    "answer": "will have developed",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect is used with 'by + time' to show completion before a future point.",
+                "ru": "Будущее совершенное время используется с 'by + время' для обозначения завершения до будущего момента.",
+                "uz": "Future perfect 'by + vaqt' bilan kelajak nuqtadan oldin tugallanishni ko'rsatish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I wish you ___ (not interrupt) me while I was speaking.",
+                "ru": "Дополните предложение: I wish you ___ (not interrupt) me while I was speaking.",
+                "uz": "Gapni to'ldiring: I wish you ___ (not interrupt) me while I was speaking."
+            },
+            "options": [
+                {
+                    "answer": "hadn't interrupted/had not interrupted",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "For past regrets, 'wish' is followed by past perfect negative to express what we wanted didn't happen.",
+                "ru": "Для сожалений о прошлом 'wish' сопровождается отрицательной формой прошедшего совершенного времени.",
+                "uz": "O'tmishdagi afsuslanish uchun 'wish' dan keyin bo'lishni istagan narsa bo'lmaganini ifodalash uchun past perfect inkor ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Rarely ___ (she/travel) abroad before last year.",
+                "ru": "Дополните предложение: Rarely ___ (she/travel) abroad before last year.",
+                "uz": "Gapni to'ldiring: Rarely ___ (she/travel) abroad before last year."
+            },
+            "options": [
+                {
+                    "answer": "had she travelled/had she traveled",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After negative adverbs like 'rarely' at the beginning, we use inversion with past perfect for past experience.",
+                "ru": "После отрицательных наречий типа 'rarely' в начале используется инверсия с прошедшим совершенным для прошедшего опыта.",
+                "uz": "Boshida 'rarely' kabi inkor ravishlardan keyin o'tgan tajriba uchun past perfect bilan inversiya ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: This time next week, I ___ (relax) on a beach in Hawaii.",
+                "ru": "Дополните предложение: This time next week, I ___ (relax) on a beach in Hawaii.",
+                "uz": "Gapni to'ldiring: This time next week, I ___ (relax) on a beach in Hawaii."
+            },
+            "options": [
+                {
+                    "answer": "will be relaxing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is used for actions in progress at a specific future time.",
+                "ru": "Будущее длительное время используется для действий в процессе в определенное будущее время.",
+                "uz": "Future continuous ma'lum kelajak vaqtda jarayonda bo'lgan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: It's crucial that he ___ (arrive) on time for the interview.",
+                "ru": "Дополните предложение: It's crucial that he ___ (arrive) on time for the interview.",
+                "uz": "Gapni to'ldiring: It's crucial that he ___ (arrive) on time for the interview."
+            },
+            "options": [
+                {
+                    "answer": "arrive",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After adjectives of necessity like 'crucial', we use the subjunctive (base form of verb).",
+                "ru": "После прилагательных необходимости типа 'crucial' используется сослагательное наклонение (основная форма глагола).",
+                "uz": "'Crucial' kabi zaruriylik sifatlaridan keyin subjunktiv (fe'lning asosiy shakli) ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: I would rather you ___ (not smoke) in the house.",
+                "ru": "Дополните предложение: I would rather you ___ (not smoke) in the house.",
+                "uz": "Gapni to'ldiring: I would rather you ___ (not smoke) in the house."
+            },
+            "options": [
+                {
+                    "answer": "didn't smoke/did not smoke",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'would rather + subject', we use past subjunctive (simple past form) for present preference.",
+                "ru": "После 'would rather + подлежащее' используется прошедшее сослагательное (форма простого прошедшего) для настоящего предпочтения.",
+                "uz": "'Would rather + ega' dan keyin hozirgi afzallik uchun o'tgan subjunktiv (oddiy o'tgan zamon shakli) ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The meeting ___ (already/begin) by the time I arrived.",
+                "ru": "Дополните предложение: The meeting ___ (already/begin) by the time I arrived.",
+                "uz": "Gapni to'ldiring: The meeting ___ (already/begin) by the time I arrived."
+            },
+            "options": [
+                {
+                    "answer": "had already begun",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Past perfect shows an action completed before another past action, often with 'by the time'.",
+                "ru": "Прошедшее совершенное показывает действие, завершенное до другого прошедшего действия, часто с 'by the time'.",
+                "uz": "Past perfect boshqa o'tgan harakatdan oldin tugallangan harakatni ko'rsatadi, ko'pincha 'by the time' bilan."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: If only I ___ (study) medicine instead of law.",
+                "ru": "Дополните предложение: If only I ___ (study) medicine instead of law.",
+                "uz": "Gapni to'ldiring: If only I ___ (study) medicine instead of law."
+            },
+            "options": [
+                {
+                    "answer": "had studied",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'If only' expresses regret about the past and requires past perfect for past situations.",
+                "ru": "'If only' выражает сожаление о прошлом и требует прошедшего совершенного для прошлых ситуаций.",
+                "uz": "'If only' o'tmish haqida afsuslanishni ifodalaydi va o'tgan vaziyatlar uchun past perfect talab qiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Not until yesterday ___ (I/realize) the importance of this decision.",
+                "ru": "Дополните предложение: Not until yesterday ___ (I/realize) the importance of this decision.",
+                "uz": "Gapni to'ldiring: Not until yesterday ___ (I/realize) the importance of this decision."
+            },
+            "options": [
+                {
+                    "answer": "did I realize",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "After 'not until' at the beginning, we use inversion with auxiliary verbs for emphasis.",
+                "ru": "После 'not until' в начале используется инверсия с вспомогательными глаголами для эмфазы.",
+                "uz": "Boshida 'not until' dan keyin ta'kidlash uchun yordamchi fe'llar bilan inversiya ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Professor Williams ___1___ (conduct) groundbreaking research in molecular biology for over two decades when the university ___2___ (offer) him the prestigious chair position. By the time he ___3___ (accept) the offer, he ___4___ (already/publish) more than 200 peer-reviewed articles and ___5___ (receive) numerous international awards. His colleagues ___6___ (know) him as someone who ___7___ (never/compromise) on scientific integrity. Throughout his career, he ___8___ (consistently/demonstrate) that rigorous methodology and ethical standards ___9___ (be) fundamental to meaningful scientific progress. When asked about his philosophy, Professor Williams often ___10___ (say) that if scientists ___11___ (not maintain) the highest standards, the entire field ___12___ (suffer) irreparable damage. His work ___13___ (influence) countless researchers who ___14___ (go on) to make significant contributions themselves. By next year, his research team ___15___ (complete) a comprehensive study that promises to revolutionize our understanding of cellular mechanisms.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been conducting"
+                },
+                {
+                    "blank": "2",
+                    "answer": "offered"
+                },
+                {
+                    "blank": "3",
+                    "answer": "accepted"
+                },
+                {
+                    "blank": "4",
+                    "answer": "had already published"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had received"
+                },
+                {
+                    "blank": "6",
+                    "answer": "knew/know"
+                },
+                {
+                    "blank": "7",
+                    "answer": "had never compromised/would never compromise"
+                },
+                {
+                    "blank": "8",
+                    "answer": "had consistently demonstrated/has consistently demonstrated"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are/were"
+                },
+                {
+                    "blank": "10",
+                    "answer": "says/said"
+                },
+                {
+                    "blank": "11",
+                    "answer": "do not maintain/did not maintain"
+                },
+                {
+                    "blank": "12",
+                    "answer": "would suffer/will suffer"
+                },
+                {
+                    "blank": "13",
+                    "answer": "has influenced"
+                },
+                {
+                    "blank": "14",
+                    "answer": "have gone on"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will have completed"
+                }
+            ],
+            "explanation": {
+                "en": "This passage demonstrates complex temporal relationships using perfect aspects, past perfect continuous, and future perfect to show actions completed before specific time points.",
+                "ru": "Этот отрывок демонстрирует сложные временные отношения, используя совершенные аспекты, прошедшее совершенное длительное и будущее совершенное для показа действий, завершенных до определенных моментов времени.",
+                "uz": "Bu parcha mukammal aspektlar, past perfect continuous va future perfect dan foydalanib, ma'lum vaqt nuqtalaridan oldin tugallangan harakatlarni ko'rsatuvchi murakkab vaqt munosabatlarini namoyish etadi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The archaeological expedition ___1___ (plan) for months when an unexpected discovery ___2___ (change) everything. Dr. Martinez ___3___ (examine) pottery fragments when she ___4___ (notice) unusual markings that ___5___ (never/be seen) before in this region. No sooner ___6___ (she/call) her colleagues than they ___7___ (rush) to the site. Had they ___8___ (arrive) just minutes later, they ___9___ (miss) the most significant find of the century. The team ___10___ (work) methodically for weeks, carefully documenting every artifact. By the time the media ___11___ (get wind) of the discovery, the archaeologists ___12___ (already/uncover) evidence that ___13___ (rewrite) ancient history. If only previous expeditions ___14___ (be) as thorough, historians suggest, many mysteries ___15___ (solve) decades ago. This groundbreaking research ___16___ (continue) for several more months, and by next summer, the team ___17___ (publish) their findings in major academic journals.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "had been planning"
+                },
+                {
+                    "blank": "2",
+                    "answer": "changed"
+                },
+                {
+                    "blank": "3",
+                    "answer": "was examining"
+                },
+                {
+                    "blank": "4",
+                    "answer": "noticed"
+                },
+                {
+                    "blank": "5",
+                    "answer": "had never been seen"
+                },
+                {
+                    "blank": "6",
+                    "answer": "had she called"
+                },
+                {
+                    "blank": "7",
+                    "answer": "rushed"
+                },
+                {
+                    "blank": "8",
+                    "answer": "arrived"
+                },
+                {
+                    "blank": "9",
+                    "answer": "would have missed"
+                },
+                {
+                    "blank": "10",
+                    "answer": "worked/had been working"
+                },
+                {
+                    "blank": "11",
+                    "answer": "got wind"
+                },
+                {
+                    "blank": "12",
+                    "answer": "had already uncovered"
+                },
+                {
+                    "blank": "13",
+                    "answer": "would rewrite"
+                },
+                {
+                    "blank": "14",
+                    "answer": "had been"
+                },
+                {
+                    "blank": "15",
+                    "answer": "would have been solved"
+                },
+                {
+                    "blank": "16",
+                    "answer": "will continue"
+                },
+                {
+                    "blank": "17",
+                    "answer": "will have published"
+                }
+            ],
+            "explanation": {
+                "en": "This passage combines narrative past tenses with conditional structures, inversion after negative expressions, and mixed conditional forms to express hypothetical past situations.",
+                "ru": "Этот отрывок сочетает повествовательные прошедшие времена с условными конструкциями, инверсией после отрицательных выражений и смешанными условными формами для выражения гипотетических прошлых ситуаций.",
+                "uz": "Bu parcha hikoya qiluvchi o'tgan zamonlarni shartli konstruksiyalar, inkor ifadalardan keyin inversiya va aralash shartli shakllar bilan birlashtiradi, faraziy o'tgan vaziyatlarni ifodalash uchun."
+            }
+        }
+    ]
+}

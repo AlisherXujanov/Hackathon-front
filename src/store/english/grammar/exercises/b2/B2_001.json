@@ -1,0 +1,1016 @@
+{
+    "id": "B2_FUTURE_CONTINUOUS_ONGOING_ACTIONS_IN_FUTURE",
+    "title": "Future continuous - Ongoing actions in future",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Tomorrow at 8 PM, I will watching TV."
+                },
+                {
+                    "answer": "Tomorrow at 8 PM, I will be watching TV.",
+                    "correct": true
+                },
+                {
+                    "answer": "Tomorrow at 8 PM, I will watch TV."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is formed with 'will be + verb-ing' to describe ongoing actions at a specific future time.",
+                "ru": "Будущее длительное время образуется с 'will be + verb-ing' для описания продолжающихся действий в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon 'will be + verb-ing' bilan hosil qilinadi va kelajakdagi ma'lum vaqtdagi davom etayotgan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses future continuous?",
+                "ru": "Какое предложение правильно использует будущее длительное время?",
+                "uz": "Qaysi gap kelasi davomiy zamonni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She will be study at the library this afternoon."
+                },
+                {
+                    "answer": "She will be studying at the library this afternoon.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will studying at the library this afternoon."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous requires 'will be' followed by the present participle (verb + ing).",
+                "ru": "Будущее длительное время требует 'will be' с последующим причастием настоящего времени (глагол + ing).",
+                "uz": "Kelasi davomiy zamon 'will be' va undan keyin hozirgi zamon sifatdoshi (fe'l + ing) talab qiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct option.",
+                "ru": "Выберите грамматически правильный вариант.",
+                "uz": "Grammatik jihatdan to'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "At midnight, most people will be sleeping.",
+                    "correct": true
+                },
+                {
+                    "answer": "At midnight, most people will sleeping."
+                },
+                {
+                    "answer": "At midnight, most people will be sleep."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes actions that will be in progress at a specific future time using 'will be + verb-ing'.",
+                "ru": "Будущее длительное время описывает действия, которые будут происходить в определенное время в будущем, используя 'will be + глагол-ing'.",
+                "uz": "Kelasi davomiy zamon kelajakdagi ma'lum vaqtda davom etayotgan harakatlarni 'will be + fe'l-ing' yordamida ifodalaydi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct future continuous sentence.",
+                "ru": "Выберите правильное предложение в будущем длительном времени.",
+                "uz": "Kelasi davomiy zamondagi to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They will be travel to Paris next month."
+                },
+                {
+                    "answer": "They will be traveling to Paris next month.",
+                    "correct": true
+                },
+                {
+                    "answer": "They will be travelled to Paris next month."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous uses the present participle form (traveling) not the base form or past participle.",
+                "ru": "Будущее длительное время использует форму причастия настоящего времени (traveling), а не основную форму или причастие прошедшего времени.",
+                "uz": "Kelasi davomiy zamon hozirgi zamon sifatdoshi (traveling) shaklini ishlatadi, asosiy shakl yoki o'tgan zamon sifatdoshini emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "By next year, we will be live in a new house."
+                },
+                {
+                    "answer": "By next year, we will be living in a new house.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next year, we will be lived in a new house."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous requires 'will be' plus the present participle (-ing form) of the verb.",
+                "ru": "Будущее длительное время требует 'will be' плюс причастие настоящего времени (форма -ing) глагола.",
+                "uz": "Kelasi davomiy zamon 'will be' va fe'lning hozirgi zamon sifatdoshi (-ing shakli)ni talab qiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct sentence structure.",
+                "ru": "Выберите правильную структуру предложения.",
+                "uz": "To'g'ri gap tuzilishini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This time tomorrow, I will working from home."
+                },
+                {
+                    "answer": "This time tomorrow, I will be working from home.",
+                    "correct": true
+                },
+                {
+                    "answer": "This time tomorrow, I will be work from home."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is formed with 'will be' followed by the -ing form of the main verb.",
+                "ru": "Будущее длительное время образуется с 'will be', за которым следует форма -ing основного глагола.",
+                "uz": "Kelasi davomiy zamon 'will be' va undan keyin asosiy fe'lning -ing shakli bilan hosil qilinadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically accurate option.",
+                "ru": "Выберите грамматически точный вариант.",
+                "uz": "Grammatik jihatdan aniq variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "At 3 o'clock, the students will be take their exam."
+                },
+                {
+                    "answer": "At 3 o'clock, the students will be taking their exam.",
+                    "correct": true
+                },
+                {
+                    "answer": "At 3 o'clock, the students will be taken their exam."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes ongoing actions at specific future times using 'will be + present participle'.",
+                "ru": "Будущее длительное время описывает продолжающиеся действия в определенное время в будущем, используя 'will be + причастие настоящего времени'.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlardagi davomli harakatlarni 'will be + hozirgi zamon sifatdoshi' yordamida ifodalaydi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence uses future continuous correctly?",
+                "ru": "Какое предложение правильно использует будущее длительное время?",
+                "uz": "Qaysi gap kelasi davomiy zamonni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "Next week, she will be start her new job."
+                },
+                {
+                    "answer": "Next week, she will be starting her new job.",
+                    "correct": true
+                },
+                {
+                    "answer": "Next week, she will be started her new job."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous requires the present participle form (starting) after 'will be'.",
+                "ru": "Будущее длительное время требует форму причастия настоящего времени (starting) после 'will be'.",
+                "uz": "Kelasi davomiy zamon 'will be'dan keyin hozirgi zamon sifatdoshi (starting) shaklini talab qiladi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct future continuous construction.",
+                "ru": "Выберите правильную конструкцию будущего длительного времени.",
+                "uz": "Kelasi davomiy zamonning to'g'ri qurilishini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "During the meeting, we will discussing the budget."
+                },
+                {
+                    "answer": "During the meeting, we will be discussing the budget.",
+                    "correct": true
+                },
+                {
+                    "answer": "During the meeting, we will be discuss the budget."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous always uses 'will be' followed by the -ing form of the verb.",
+                "ru": "Будущее длительное время всегда использует 'will be', за которым следует форма -ing глагола.",
+                "uz": "Kelasi davomiy zamon har doim 'will be' va undan keyin fe'lning -ing shaklini ishlatadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Tomorrow evening, they will be cook dinner together."
+                },
+                {
+                    "answer": "Tomorrow evening, they will be cooking dinner together.",
+                    "correct": true
+                },
+                {
+                    "answer": "Tomorrow evening, they will be cooked dinner together."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes actions in progress at a future time using 'will be + verb-ing'.",
+                "ru": "Будущее длительное время описывает действия, происходящие в будущем времени, используя 'will be + глагол-ing'.",
+                "uz": "Kelasi davomiy zamon kelajak vaqtda davom etayotgan harakatlarni 'will be + fe'l-ing' yordamida ifodalaydi."
+            }
+        },
+        {
+            "id": "mc11",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which option is grammatically accurate?",
+                "ru": "Какой вариант грамматически точный?",
+                "uz": "Qaysi variant grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "At noon, I will be have lunch with my colleagues."
+                },
+                {
+                    "answer": "At noon, I will be having lunch with my colleagues.",
+                    "correct": true
+                },
+                {
+                    "answer": "At noon, I will be had lunch with my colleagues."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous uses 'will be' plus the present participle to show ongoing future actions.",
+                "ru": "Будущее длительное время использует 'will be' плюс причастие настоящего времени для обозначения продолжающихся будущих действий.",
+                "uz": "Kelasi davomiy zamon davom etayotgan kelajak harakatlarini ko'rsatish uchun 'will be' va hozirgi zamon sifatdoshini ishlatadi."
+            }
+        },
+        {
+            "id": "mc12",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct future continuous form.",
+                "ru": "Выберите правильную форму будущего длительного времени.",
+                "uz": "Kelasi davomiy zamonning to'g'ri shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Next month, we will be move to our new office."
+                },
+                {
+                    "answer": "Next month, we will be moving to our new office.",
+                    "correct": true
+                },
+                {
+                    "answer": "Next month, we will be moved to our new office."
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous requires the -ing form of the verb after 'will be' to indicate ongoing future actions.",
+                "ru": "Будущее длительное время требует форму -ing глагола после 'will be' для обозначения продолжающихся будущих действий.",
+                "uz": "Kelasi davomiy zamon davomli kelajak harakatlarini ifodalash uchun 'will be'dan keyin fe'lning -ing shaklini talab qiladi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: At 9 PM tonight, I ___ (watch) my favorite TV show.",
+                "ru": "Дополните предложение: At 9 PM tonight, I ___ (watch) my favorite TV show.",
+                "uz": "Gapni to'ldiring: At 9 PM tonight, I ___ (watch) my favorite TV show."
+            },
+            "options": [
+                {
+                    "answer": "will be watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is formed with 'will be' plus the present participle to describe ongoing actions at specific future times.",
+                "ru": "Будущее длительное время образуется с 'will be' плюс причастие настоящего времени для описания продолжающихся действий в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlardagi davomli harakatlarni ifodalash uchun 'will be' va hozirgi zamon sifatdoshi bilan hosil qilinadi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Tomorrow at this time, she ___ (fly) to London.",
+                "ru": "Заполните пропуск: Tomorrow at this time, she ___ (fly) to London.",
+                "uz": "Bo'shliqni to'ldiring: Tomorrow at this time, she ___ (fly) to London."
+            },
+            "options": [
+                {
+                    "answer": "will be flying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous uses 'will be' + verb-ing to describe actions in progress at a specific future time.",
+                "ru": "Будущее длительное время использует 'will be' + глагол-ing для описания действий, происходящих в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtda davom etayotgan harakatlarni ifodalash uchun 'will be' + fe'l-ing ishlatadi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: This time next week, we ___ (relax) on the beach.",
+                "ru": "Дополните правильной формой: This time next week, we ___ (relax) on the beach.",
+                "uz": "To'g'ri shakl bilan to'ldiring: This time next week, we ___ (relax) on the beach."
+            },
+            "options": [
+                {
+                    "answer": "will be relaxing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes ongoing activities at specific future times using 'will be' + present participle.",
+                "ru": "Будущее длительное время описывает продолжающиеся действия в определенное время в будущем, используя 'will be' + причастие настоящего времени.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlardagi davomli faoliyatni 'will be' + hozirgi zamon sifatdoshi yordamida ifodalaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: At 6 AM tomorrow, the sun ___ (rise).",
+                "ru": "Заполните пропуск: At 6 AM tomorrow, the sun ___ (rise).",
+                "uz": "Bo'shliqni to'ldiring: At 6 AM tomorrow, the sun ___ (rise)."
+            },
+            "options": [
+                {
+                    "answer": "will be rising",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is used for actions that will be in progress at a specific future time.",
+                "ru": "Будущее длительное время используется для действий, которые будут происходить в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtda davom etayotgan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: During the conference, the speaker ___ (present) new research findings.",
+                "ru": "Дополните предложение: During the conference, the speaker ___ (present) new research findings.",
+                "uz": "Gapni to'ldiring: During the conference, the speaker ___ (present) new research findings."
+            },
+            "options": [
+                {
+                    "answer": "will be presenting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous shows actions that will be ongoing during a future time period using 'will be' + verb-ing.",
+                "ru": "Будущее длительное время показывает действия, которые будут продолжаться в течение будущего периода времени, используя 'will be' + глагол-ing.",
+                "uz": "Kelasi davomiy zamon kelajakdagi vaqt oralig'ida davom etadigan harakatlarni 'will be' + fe'l-ing yordamida ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Next Friday evening, they ___ (celebrate) their anniversary.",
+                "ru": "Заполните пропуск: Next Friday evening, they ___ (celebrate) their anniversary.",
+                "uz": "Bo'shliqni to'ldiring: Next Friday evening, they ___ (celebrate) their anniversary."
+            },
+            "options": [
+                {
+                    "answer": "will be celebrating",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes planned ongoing activities at specific future times.",
+                "ru": "Будущее длительное время описывает запланированные продолжающиеся действия в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlardagi rejalashtirilgan davomli faoliyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with future continuous: By midnight, most people ___ (sleep).",
+                "ru": "Дополните будущим длительным временем: By midnight, most people ___ (sleep).",
+                "uz": "Kelasi davomiy zamon bilan to'ldiring: By midnight, most people ___ (sleep)."
+            },
+            "options": [
+                {
+                    "answer": "will be sleeping",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous indicates actions that will be in progress at a specified future time point.",
+                "ru": "Будущее длительное время указывает на действия, которые будут происходить в определенный момент в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqt nuqtasida davom etayotgan harakatlarni bildiradi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: This time tomorrow, I ___ (work) in my new office.",
+                "ru": "Заполните пропуск: This time tomorrow, I ___ (work) in my new office.",
+                "uz": "Bo'shliqni to'ldiring: This time tomorrow, I ___ (work) in my new office."
+            },
+            "options": [
+                {
+                    "answer": "will be working",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous uses 'will be' + present participle for actions ongoing at specific future times.",
+                "ru": "Будущее длительное время использует 'will be' + причастие настоящего времени для действий, происходящих в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlarda davom etayotgan harakatlar uchun 'will be' + hozirgi zamon sifatdoshini ishlatadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: At the party tonight, everyone ___ (dance) and having fun.",
+                "ru": "Дополните предложение: At the party tonight, everyone ___ (dance) and having fun.",
+                "uz": "Gapni to'ldiring: At the party tonight, everyone ___ (dance) and having fun."
+            },
+            "options": [
+                {
+                    "answer": "will be dancing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes ongoing activities that will be happening at a specific future time.",
+                "ru": "Будущее длительное время описывает продолжающиеся действия, которые будут происходить в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtda sodir bo'ladigan davomli faoliyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: Next month at this time, we ___ (live) in our new house.",
+                "ru": "Заполните пропуск: Next month at this time, we ___ (live) in our new house.",
+                "uz": "Bo'shliqni to'ldiring: Next month at this time, we ___ (live) in our new house."
+            },
+            "options": [
+                {
+                    "answer": "will be living",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous shows states or activities that will be ongoing at a specific future time.",
+                "ru": "Будущее длительное время показывает состояния или действия, которые будут продолжаться в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtda davom etadigan holatlar yoki faoliyatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: During the exam, students ___ (concentrate) on their answers.",
+                "ru": "Дополните правильной формой: During the exam, students ___ (concentrate) on their answers.",
+                "uz": "To'g'ri shakl bilan to'ldiring: During the exam, students ___ (concentrate) on their answers."
+            },
+            "options": [
+                {
+                    "answer": "will be concentrating",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes actions that will be in progress during a future time period.",
+                "ru": "Будущее длительное время описывает действия, которые будут происходить в течение будущего периода времени.",
+                "uz": "Kelasi davomiy zamon kelajakdagi vaqt oralig'ida davom etadigan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: Tomorrow evening at 7, we ___ (have) dinner with our friends.",
+                "ru": "Заполните пропуск: Tomorrow evening at 7, we ___ (have) dinner with our friends.",
+                "uz": "Bo'shliqni to'ldiring: Tomorrow evening at 7, we ___ (have) dinner with our friends."
+            },
+            "options": [
+                {
+                    "answer": "will be having",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous indicates planned activities that will be ongoing at specific future times.",
+                "ru": "Будущее длительное время указывает на запланированные действия, которые будут продолжаться в определенное время в будущем.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlarda davom etadigan rejalashtirilgan faoliyatni bildiradi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Next weekend, Sarah ___1___ (visit) her grandmother in the countryside. While she's there, she ___2___ (help) with the garden work and ___3___ (spend) quality time with her family. On Saturday morning, they ___4___ (pick) fresh vegetables from the garden, and in the afternoon, Sarah ___5___ (read) stories to her younger cousins. By evening, the whole family ___6___ (gather) around the fireplace, sharing memories and laughing together. On Sunday, Sarah ___7___ (take) long walks through the forest trails that she loves so much. During these walks, she ___8___ (listen) to the birds singing and ___9___ (breathe) the fresh mountain air. Meanwhile, her grandmother ___10___ (prepare) a special farewell dinner. Throughout the weekend, Sarah ___11___ (create) beautiful memories that she ___12___ (treasure) for years to come. When Monday arrives, she ___13___ (travel) back to the city, but her heart ___14___ (carry) all the love and warmth from this wonderful weekend with her family.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be visiting"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be helping"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be spending"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be picking"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be reading"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be gathering"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be taking"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be listening"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be breathing"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be preparing"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be creating"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be treasuring"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be traveling"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be carrying"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is used to describe ongoing actions at specific future times or during future periods using 'will be + verb-ing'.",
+                "ru": "Будущее длительное время используется для описания продолжающихся действий в определенное время в будущем или в течение будущих периодов, используя 'will be + глагол-ing'.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtlarda yoki kelajakdagi davrlarda davom etayotgan harakatlarni 'will be + fe'l-ing' yordamida ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "By this time next year, many exciting changes ___1___ (take) place in our city. The new shopping center ___2___ (open) its doors to customers, and thousands of people ___3___ (visit) it daily. Construction workers ___4___ (finish) the final touches on the modern office buildings, while architects ___5___ (design) even more innovative structures for the future. The city council ___6___ (implement) new environmental policies, and citizens ___7___ (adapt) to more sustainable lifestyles. Electric buses ___8___ (run) on all major routes, and people ___9___ (use) bicycle lanes more frequently. Local restaurants ___10___ (serve) organic food from nearby farms, and chefs ___11___ (experiment) with new healthy recipes. Students ___12___ (attend) classes in the renovated university campus, where professors ___13___ (teach) using the latest technology. Meanwhile, families ___14___ (enjoy) the new parks and recreational facilities that the city ___15___ (provide) for everyone's well-being.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be taking"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be opening"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be visiting"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be finishing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be designing"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be implementing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be adapting"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be running"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be using"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be serving"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be experimenting"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be attending"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be teaching"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be enjoying"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be providing"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes ongoing actions and processes that will be happening at a specific future time or during future periods.",
+                "ru": "Будущее длительное время описывает продолжающиеся действия и процессы, которые будут происходить в определенное время в будущем или в течение будущих периодов.",
+                "uz": "Kelasi davomiy zamon kelajakdagi aniq vaqtda yoki kelajakdagi davrlarda sodir bo'ladigan davomli harakat va jarayonlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "During the international conference next month, delegates from around the world ___1___ (gather) to discuss climate change solutions. Scientists ___2___ (present) their latest research findings, while environmental activists ___3___ (share) success stories from their communities. Throughout the three-day event, experts ___4___ (participate) in panel discussions and ___5___ (debate) various approaches to sustainability. Journalists ___6___ (cover) the event extensively, and photographers ___7___ (capture) important moments for historical records. Meanwhile, organizers ___8___ (coordinate) meetings between world leaders who ___9___ (negotiate) new international agreements. Students from local universities ___10___ (volunteer) as interpreters and guides, helping participants navigate the venue. During coffee breaks, attendees ___11___ (network) with colleagues from different countries and ___12___ (exchange) contact information for future collaborations. By the end of the conference, participants ___13___ (feel) inspired and motivated to implement positive changes in their respective fields. The media ___14___ (broadcast) live coverage of the most important sessions, ensuring that people worldwide ___15___ (follow) the discussions and outcomes of this crucial gathering.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be gathering"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be presenting"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be sharing"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be participating"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be debating"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be covering"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be capturing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be coordinating"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be negotiating"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be volunteering"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be networking"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be exchanging"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be feeling"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be broadcasting"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be following"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous is used for actions that will be in progress during specific future time periods or events.",
+                "ru": "Будущее длительное время используется для действий, которые будут происходить в течение определенных будущих периодов времени или событий.",
+                "uz": "Kelasi davomiy zamon aniq kelajakdagi vaqt oraliqlarida yoki voqealarda davom etadigan harakatlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tomorrow at the technology exhibition, various companies ___1___ (showcase) their latest innovations and breakthrough products. Software developers ___2___ (demonstrate) artificial intelligence applications that ___3___ (revolutionize) how we work and communicate. Meanwhile, robotics engineers ___4___ (display) advanced machines that ___5___ (assist) humans in dangerous or repetitive tasks. Visitors ___6___ (explore) interactive booths where they can experience virtual reality simulations and ___7___ (test) cutting-edge gadgets firsthand. Throughout the day, industry experts ___8___ (deliver) presentations about emerging trends, while startups ___9___ (pitch) their innovative ideas to potential investors. Students and researchers ___10___ (attend) workshops to learn about the latest developments in their fields. Security personnel ___11___ (monitor) the crowds to ensure everyone's safety, and technical staff ___12___ (maintain) all the electronic equipment and displays. By evening, networking events ___13___ (bring) together professionals who ___14___ (discuss) future collaborations and business opportunities. The exhibition ___15___ (inspire) countless individuals to pursue careers in technology and innovation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be showcasing"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be demonstrating"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be revolutionizing"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be displaying"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be assisting"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be exploring"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be testing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be delivering"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be pitching"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be attending"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be monitoring"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be maintaining"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be bringing"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be discussing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be inspiring"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes simultaneous ongoing activities and processes that will be taking place during a future event or time period.",
+                "ru": "Будущее длительное время описывает одновременные продолжающиеся действия и процессы, которые будут происходить во время будущего события или периода времени.",
+                "uz": "Kelasi davomiy zamon kelajakdagi voqea yoki vaqt oralig'ida sodir bo'ladigan bir vaqtdagi davomli faoliyat va jarayonlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Next summer, the coastal town ___1___ (transform) into a bustling tourist destination. Hotels and resorts ___2___ (welcome) thousands of visitors from around the globe, while local restaurants ___3___ (serve) traditional seafood dishes that tourists absolutely love. Beach vendors ___4___ (sell) souvenirs and refreshments to families who ___5___ (enjoy) their vacation time by the ocean. Lifeguards ___6___ (patrol) the beaches to ensure swimmer safety, and surf instructors ___7___ (teach) beginners how to ride the waves. Throughout the season, street performers ___8___ (entertain) crowds with music and theatrical shows, creating a festive atmosphere. Tour guides ___9___ (lead) groups through historical sites and natural landmarks, sharing fascinating stories about the area's rich heritage. Local artisans ___10___ (display) their handmade crafts at the weekly market, where tourists ___11___ (browse) for unique gifts and memorabilia. Meanwhile, fishing boats ___12___ (bring) in fresh catches daily, supplying the restaurants with the finest ingredients. Children ___13___ (build) sandcastles while their parents ___14___ (relax) under colorful umbrellas, and everyone ___15___ (create) memories that will last a lifetime.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be transforming"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be welcoming"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be serving"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be selling"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be enjoying"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be patrolling"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be teaching"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be entertaining"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be leading"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be displaying"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be browsing"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be bringing"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be building"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be relaxing"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be creating"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous expresses ongoing activities and states that will be happening throughout a future period, showing the continuous nature of actions during that time.",
+                "ru": "Будущее длительное время выражает продолжающиеся действия и состояния, которые будут происходить в течение будущего периода, показывая непрерывный характер действий в это время.",
+                "uz": "Kelasi davomiy zamon kelajakdagi davr mobaynida sodir bo'ladigan davomli faoliyat va holatlarni ifodalaydi, shu vaqt ichidagi harakatlarning uzluksiz xususiyatini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf6",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "During the medical conference scheduled for next week, healthcare professionals ___1___ (gather) to discuss the latest advances in treatment methodologies. Doctors ___2___ (present) case studies that demonstrate innovative surgical techniques, while nurses ___3___ (share) best practices for patient care and recovery. Pharmaceutical representatives ___4___ (introduce) new medications that ___5___ (help) combat various diseases more effectively. Medical students ___6___ (attend) lectures and workshops to enhance their knowledge and skills. Throughout the event, researchers ___7___ (unveil) findings from clinical trials that ___8___ (shape) the future of medicine. Hospital administrators ___9___ (network) with colleagues to discuss healthcare management strategies. Meanwhile, technology companies ___10___ (demonstrate) advanced medical equipment and diagnostic tools that ___11___ (improve) treatment outcomes. Specialists ___12___ (conduct) hands-on training sessions where participants ___13___ (practice) new procedures in simulated environments. By the conference's end, all attendees ___14___ (carry) valuable insights back to their respective institutions, where they ___15___ (implement) these innovations to benefit their patients and communities.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will be gathering"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will be presenting"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will be sharing"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will be introducing"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will be helping"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will be attending"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will be unveiling"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will be shaping"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will be networking"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will be demonstrating"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will be improving"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will be conducting"
+                },
+                {
+                    "blank": "13",
+                    "answer": "will be practicing"
+                },
+                {
+                    "blank": "14",
+                    "answer": "will be carrying"
+                },
+                {
+                    "blank": "15",
+                    "answer": "will be implementing"
+                }
+            ],
+            "explanation": {
+                "en": "Future continuous describes professional activities and processes that will be ongoing during a specific future event or timeframe.",
+                "ru": "Будущее длительное время описывает профессиональные действия и процессы, которые будут продолжаться в течение определенного будущего события или периода времени.",
+                "uz": "Kelasi davomiy zamon aniq kelajakdagi voqea yoki vaqt oralig'ida davom etadigan professional faoliyat va jarayonlarni ifodalaydi."
+            }
+        }
+    ]
+}

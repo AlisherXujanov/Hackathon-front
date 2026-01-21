@@ -1,0 +1,697 @@
+{
+    "id": "A2_MAY_AND_MIGHT_PERMISSION_VS_POSSIBILITY",
+    "title": "May and might (What's the difference?) - Permission vs possibility",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "May I use your phone?"
+                },
+                {
+                    "answer": "Might I use your phone?",
+                    "correct": true
+                },
+                {
+                    "answer": "Can I might use your phone?"
+                }
+            ],
+            "explanation": {
+                "en": "'May' is used for polite requests and asking permission in formal situations.",
+                "ru": "'May' используется для вежливых просьб и получения разрешения в официальных ситуациях.",
+                "uz": "'May' rasmiy holatlarda muloyim iltimos va ruxsat so'rash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence expresses possibility?",
+                "ru": "Какое предложение выражает возможность?",
+                "uz": "Qaysi gap imkoniyatni ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "It might rain tomorrow.",
+                    "correct": true
+                },
+                {
+                    "answer": "Might you help me?"
+                },
+                {
+                    "answer": "I might can go there."
+                }
+            ],
+            "explanation": {
+                "en": "'Might' is used to express a possibility that is less certain than 'may'.",
+                "ru": "'Might' используется для выражения возможности, которая менее определенна, чем 'may'.",
+                "uz": "'Might' 'may'ga qaraganda kamroq aniq bo'lgan imkoniyatni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence for asking permission.",
+                "ru": "Выберите правильное предложение для получения разрешения.",
+                "uz": "Ruxsat so'rash uchun to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "May I sit here?",
+                    "correct": true
+                },
+                {
+                    "answer": "Might I sit here?"
+                },
+                {
+                    "answer": "I may sit here?"
+                }
+            ],
+            "explanation": {
+                "en": "'May I' is the standard form for asking permission politely.",
+                "ru": "'May I' - это стандартная форма для вежливого получения разрешения.",
+                "uz": "'May I' muloyimlik bilan ruxsat so'rashning standart shaklidir."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence shows less certainty?",
+                "ru": "Какое предложение показывает меньшую уверенность?",
+                "uz": "Qaysi gap kamroq ishonchni ko'rsatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She may come to the party."
+                },
+                {
+                    "answer": "She might come to the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "She may might come to the party."
+                }
+            ],
+            "explanation": {
+                "en": "'Might' expresses less certainty about a possibility than 'may'.",
+                "ru": "'Might' выражает меньшую уверенность в возможности, чем 'may'.",
+                "uz": "'Might' imkoniyat haqida 'may'ga qaraganda kamroq ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "You may not smoke here.",
+                    "correct": true
+                },
+                {
+                    "answer": "You might not smoke here."
+                },
+                {
+                    "answer": "You may not might smoke here."
+                }
+            ],
+            "explanation": {
+                "en": "'May not' is used for prohibition, while 'might not' expresses uncertain possibility.",
+                "ru": "'May not' используется для запрета, а 'might not' выражает неопределенную возможность.",
+                "uz": "'May not' taqiq uchun, 'might not' esa noaniq imkoniyat uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct for expressing possibility?",
+                "ru": "Какое предложение правильно для выражения возможности?",
+                "uz": "Imkoniyatni ifodalash uchun qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "He may be at home now.",
+                    "correct": true
+                },
+                {
+                    "answer": "He may is at home now."
+                },
+                {
+                    "answer": "He may to be at home now."
+                }
+            ],
+            "explanation": {
+                "en": "'May' is followed by the base form of the verb without 'to' or auxiliary verbs.",
+                "ru": "После 'may' следует базовая форма глагола без 'to' или вспомогательных глаголов.",
+                "uz": "'May'dan keyin 'to' yoki yordamchi fe'lsiz fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence for past possibility.",
+                "ru": "Выберите правильное предложение для выражения прошлой возможности.",
+                "uz": "O'tgan zamon imkoniyati uchun to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She may have left already."
+                },
+                {
+                    "answer": "She might have left already.",
+                    "correct": true
+                },
+                {
+                    "answer": "She may had left already."
+                }
+            ],
+            "explanation": {
+                "en": "'Might have' is commonly used to express past possibilities with uncertainty.",
+                "ru": "'Might have' обычно используется для выражения прошлых возможностей с неопределенностью.",
+                "uz": "'Might have' noaniqlik bilan o'tgan imkoniyatlarni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence asks for permission correctly?",
+                "ru": "Какое предложение правильно просит разрешение?",
+                "uz": "Qaysi gap to'g'ri ruxsat so'raydi?"
+            },
+            "options": [
+                {
+                    "answer": "Might I borrow your book?"
+                },
+                {
+                    "answer": "May I borrow your book?",
+                    "correct": true
+                },
+                {
+                    "answer": "I may borrow your book?"
+                }
+            ],
+            "explanation": {
+                "en": "'May I' is the standard polite form for requesting permission.",
+                "ru": "'May I' - это стандартная вежливая форма для просьбы о разрешении.",
+                "uz": "'May I' ruxsat so'rashning standart muloyim shaklidir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct negative form.",
+                "ru": "Выберите правильную отрицательную форму.",
+                "uz": "To'g'ri inkor shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "It might not be true.",
+                    "correct": true
+                },
+                {
+                    "answer": "It might not to be true."
+                },
+                {
+                    "answer": "It not might be true."
+                }
+            ],
+            "explanation": {
+                "en": "'Might not' is followed by the base form of the verb, not the infinitive with 'to'.",
+                "ru": "После 'might not' следует базовая форма глагола, а не инфинитив с 'to'.",
+                "uz": "'Might not'dan keyin 'to' bilan emas, fe'lning asosiy shakli keladi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence expresses stronger possibility?",
+                "ru": "Какое предложение выражает более сильную возможность?",
+                "uz": "Qaysi gap kuchliroq imkoniyatni ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "They may arrive soon.",
+                    "correct": true
+                },
+                {
+                    "answer": "They might arrive soon."
+                },
+                {
+                    "answer": "They may might arrive soon."
+                }
+            ],
+            "explanation": {
+                "en": "'May' expresses a stronger possibility than 'might' when talking about future events.",
+                "ru": "'May' выражает более сильную возможность, чем 'might', при разговоре о будущих событиях.",
+                "uz": "Kelajak voqealar haqida gaplashganda 'may' 'might'ga qaraganda kuchliroq imkoniyatni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ I use your computer?",
+                "ru": "Дополните предложение: ___ I use your computer?",
+                "uz": "Gapni to'ldiring: ___ I use your computer?"
+            },
+            "options": [
+                {
+                    "answer": "May",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May' is used to ask for permission politely in formal situations.",
+                "ru": "'May' используется для вежливого получения разрешения в официальных ситуациях.",
+                "uz": "'May' rasmiy holatlarda muloyimlik bilan ruxsat so'rash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: It ___ snow tomorrow (less certain).",
+                "ru": "Дополните предложение: It ___ snow tomorrow (less certain).",
+                "uz": "Gapni to'ldiring: It ___ snow tomorrow (less certain)."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Might' expresses less certainty about future possibilities than 'may'.",
+                "ru": "'Might' выражает меньшую уверенность в будущих возможностях, чем 'may'.",
+                "uz": "'Might' kelajakdagi imkoniyatlar haqida 'may'ga qaraganda kamroq ishonchni ifodalaydi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ not enter without permission.",
+                "ru": "Дополните предложение: You ___ not enter without permission.",
+                "uz": "Gapni to'ldiring: You ___ not enter without permission."
+            },
+            "options": [
+                {
+                    "answer": "may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May not' is used to express prohibition or lack of permission.",
+                "ru": "'May not' используется для выражения запрета или отсутствия разрешения.",
+                "uz": "'May not' taqiq yoki ruxsatsizlikni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: She ___ have forgotten her keys.",
+                "ru": "Дополните предложение: She ___ have forgotten her keys.",
+                "uz": "Gapni to'ldiring: She ___ have forgotten her keys."
+            },
+            "options": [
+                {
+                    "answer": "might/may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'might have' and 'may have' express past possibilities, with 'might' being less certain.",
+                "ru": "И 'might have', и 'may have' выражают прошлые возможности, 'might' менее определенно.",
+                "uz": "'Might have' ham, 'may have' ham o'tgan imkoniyatlarni ifodalaydi, 'might' kamroq aniq."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ we go now? (asking permission)",
+                "ru": "Дополните предложение: ___ we go now? (asking permission)",
+                "uz": "Gapni to'ldiring: ___ we go now? (asking permission)"
+            },
+            "options": [
+                {
+                    "answer": "May",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May' is the correct modal verb for asking permission in polite, formal contexts.",
+                "ru": "'May' - это правильный модальный глагол для получения разрешения в вежливых, официальных контекстах.",
+                "uz": "'May' muloyim, rasmiy kontekstlarda ruxsat so'rash uchun to'g'ri modal fe'ldir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: The weather ___ be nice this weekend (uncertain).",
+                "ru": "Дополните предложение: The weather ___ be nice this weekend (uncertain).",
+                "uz": "Gapni to'ldiring: The weather ___ be nice this weekend (uncertain)."
+            },
+            "options": [
+                {
+                    "answer": "might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Might' is used to express uncertain possibilities about future events.",
+                "ru": "'Might' используется для выражения неопределенных возможностей о будущих событиях.",
+                "uz": "'Might' kelajak voqealar haqidagi noaniq imkoniyatlarni ifodalash uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ I ask you a question?",
+                "ru": "Дополните предложение: ___ I ask you a question?",
+                "uz": "Gapni to'ldiring: ___ I ask you a question?"
+            },
+            "options": [
+                {
+                    "answer": "May",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May I' is the standard polite way to ask for permission.",
+                "ru": "'May I' - стандартный вежливый способ просить разрешение.",
+                "uz": "'May I' ruxsat so'rashning standart muloyim usulidir."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: He ___ not come to the party (possibility).",
+                "ru": "Дополните предложение: He ___ not come to the party (possibility).",
+                "uz": "Gapni to'ldiring: He ___ not come to the party (possibility)."
+            },
+            "options": [
+                {
+                    "answer": "might/may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'might not' and 'may not' can express the possibility that something won't happen.",
+                "ru": "И 'might not', и 'may not' могут выражать возможность того, что что-то не произойдет.",
+                "uz": "'Might not' ham, 'may not' ham biror narsa sodir bo'lmaslik imkoniyatini ifodalay oladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: You ___ be right about that.",
+                "ru": "Дополните предложение: You ___ be right about that.",
+                "uz": "Gapni to'ldiring: You ___ be right about that."
+            },
+            "options": [
+                {
+                    "answer": "may/might",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Both 'may' and 'might' can express possibility, with 'may' showing slightly more certainty.",
+                "ru": "И 'may', и 'might' могут выражать возможность, 'may' показывает немного больше уверенности.",
+                "uz": "'May' ham, 'might' ham imkoniyatni ifodalay oladi, 'may' biroz ko'proq ishonchni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: Students ___ not use phones in class (rule).",
+                "ru": "Дополните предложение: Students ___ not use phones in class (rule).",
+                "uz": "Gapni to'ldiring: Students ___ not use phones in class (rule)."
+            },
+            "options": [
+                {
+                    "answer": "may",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'May not' is used to express rules and prohibitions, not uncertain possibilities.",
+                "ru": "'May not' используется для выражения правил и запретов, а не неопределенных возможностей.",
+                "uz": "'May not' qoidalar va taqiqlarni ifodalash uchun ishlatiladi, noaniq imkoniyatlar uchun emas."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is planning to visit her grandmother next weekend, but she's not completely sure about her plans. She thinks she ___1___ go on Saturday because the weather forecast shows it ___2___ rain heavily. Her mother tells her, 'You ___3___ want to call grandmother first to check if she's free.' Sarah asks her mother, '___4___ I use your phone to call her?' Her mother replies, 'Of course you ___5___.' Sarah is worried because she hasn't seen her grandmother for months. She thinks, 'Grandmother ___6___ be upset with me for not visiting sooner.' However, she knows her grandmother is very understanding. The weather report says it ___7___ be sunny on Sunday instead, so Sarah ___8___ change her plans. She calls her grandmother and asks, '___9___ I come to visit you on Sunday instead of Saturday?' Her grandmother is delighted and says, 'You ___10___ come any day you like, dear. I'm always happy to see you.' Sarah feels relieved. She thinks the visit ___11___ be even better on Sunday because they ___12___ have more time together. Before leaving, she asks her parents, '___13___ I stay overnight at grandmother's house?' They agree, saying she ___14___ stay as long as she wants. Sarah is excited because this ___15___ be the perfect weekend she has been hoping for.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "might"
+                },
+                {
+                    "blank": "2",
+                    "answer": "might"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "May"
+                },
+                {
+                    "blank": "5",
+                    "answer": "may"
+                },
+                {
+                    "blank": "6",
+                    "answer": "might"
+                },
+                {
+                    "blank": "7",
+                    "answer": "might"
+                },
+                {
+                    "blank": "8",
+                    "answer": "might"
+                },
+                {
+                    "blank": "9",
+                    "answer": "May"
+                },
+                {
+                    "blank": "10",
+                    "answer": "may"
+                },
+                {
+                    "blank": "11",
+                    "answer": "might"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "May"
+                },
+                {
+                    "blank": "14",
+                    "answer": "may"
+                },
+                {
+                    "blank": "15",
+                    "answer": "might"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise demonstrates the difference between 'may' (permission, stronger possibility) and 'might' (uncertain possibility). 'May I' is used for polite requests.",
+                "ru": "Это упражнение демонстрирует разницу между 'may' (разрешение, более сильная возможность) и 'might' (неопределенная возможность). 'May I' используется для вежливых просьб.",
+                "uz": "Bu mashq 'may' (ruxsat, kuchliroq imkoniyat) va 'might' (noaniq imkoniyat) o'rtasidagi farqni ko'rsatadi. 'May I' muloyim iltimoslar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "At the office, Tom needs to speak with his manager about an important project. He approaches her desk and asks politely, '___1___ I have a moment of your time to discuss the Johnson project?' His manager looks up from her computer and says, 'Certainly, you ___2___ sit down and tell me what's on your mind.' Tom explains that there ___3___ be some delays in the project timeline because the client ___4___ change their requirements again. The manager listens carefully and responds, 'This ___5___ be a problem, but we can handle it. You ___6___ need to contact the client directly to clarify their needs.' Tom asks, '___7___ I schedule a meeting with them for tomorrow?' The manager thinks for a moment and says, 'Tomorrow ___8___ be too soon. They ___9___ not be prepared yet. It ___10___ be better to wait until next week.' Tom agrees and asks, '___11___ I send them an email first to explain our concerns?' His manager nods and says, 'Yes, that ___12___ be the best approach. Also, you ___13___ want to include the new timeline in your message.' Before leaving, Tom asks one more question: '___14___ I involve the design team in this discussion?' His manager considers this and replies, 'That ___15___ be necessary depending on what changes the client wants.'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "May"
+                },
+                {
+                    "blank": "2",
+                    "answer": "may"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "might"
+                },
+                {
+                    "blank": "5",
+                    "answer": "might"
+                },
+                {
+                    "blank": "6",
+                    "answer": "might"
+                },
+                {
+                    "blank": "7",
+                    "answer": "May"
+                },
+                {
+                    "blank": "8",
+                    "answer": "might"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "might"
+                },
+                {
+                    "blank": "11",
+                    "answer": "May"
+                },
+                {
+                    "blank": "12",
+                    "answer": "might"
+                },
+                {
+                    "blank": "13",
+                    "answer": "might"
+                },
+                {
+                    "blank": "14",
+                    "answer": "May"
+                },
+                {
+                    "blank": "15",
+                    "answer": "might"
+                }
+            ],
+            "explanation": {
+                "en": "This workplace scenario shows how 'may' is used for formal permission requests and 'might' for uncertain possibilities and suggestions.",
+                "ru": "Этот рабочий сценарий показывает, как 'may' используется для формальных запросов разрешения, а 'might' для неопределенных возможностей и предложений.",
+                "uz": "Bu ish joyi stsenariysi 'may'ning rasmiy ruxsat so'rovlari uchun va 'might'ning noaniq imkoniyatlar va takliflar uchun ishlatilishini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Emma is preparing for her first job interview tomorrow and feeling quite nervous. She thinks about all the things that ___1___ go wrong during the interview. Her friend Lisa calls to offer support and says, 'You ___2___ be worried, but try to stay positive.' Emma responds, 'I know I shouldn't worry, but what if they ask questions I can't answer? I ___3___ not get the job.' Lisa reassures her, 'You ___4___ be more qualified than you think. Besides, the interviewer ___5___ be impressed with your experience.' Emma asks, '___6___ I practice some common interview questions with you?' Lisa agrees immediately, 'Of course! We ___7___ go through as many questions as you want.' They spend an hour practicing, and Lisa gives helpful feedback. 'You ___8___ want to speak more slowly,' she suggests. 'Also, you ___9___ mention your volunteer work because that ___10___ show your commitment.' Emma feels more confident and asks, '___11___ I call you after the interview to tell you how it went?' Lisa smiles and says, 'You ___12___ call me anytime. I'll be waiting to hear the good news!' The next morning, Emma wakes up early. She thinks, 'Today ___13___ be the day that changes my career.' She arrives at the office and asks the receptionist, '___14___ I wait here for my interview?' The receptionist shows her to a comfortable waiting area and says, 'Mr. Johnson ___15___ be ready to see you in a few minutes.'",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "might"
+                },
+                {
+                    "blank": "2",
+                    "answer": "may"
+                },
+                {
+                    "blank": "3",
+                    "answer": "might"
+                },
+                {
+                    "blank": "4",
+                    "answer": "may"
+                },
+                {
+                    "blank": "5",
+                    "answer": "might"
+                },
+                {
+                    "blank": "6",
+                    "answer": "May"
+                },
+                {
+                    "blank": "7",
+                    "answer": "may"
+                },
+                {
+                    "blank": "8",
+                    "answer": "might"
+                },
+                {
+                    "blank": "9",
+                    "answer": "might"
+                },
+                {
+                    "blank": "10",
+                    "answer": "might"
+                },
+                {
+                    "blank": "11",
+                    "answer": "May"
+                },
+                {
+                    "blank": "12",
+                    "answer": "may"
+                },
+                {
+                    "blank": "13",
+                    "answer": "might"
+                },
+                {
+                    "blank": "14",
+                    "answer": "May"
+                },
+                {
+                    "blank": "15",
+                    "answer": "might"
+                }
+            ],
+            "explanation": {
+                "en": "This story illustrates various uses of 'may' and 'might' including possibilities, suggestions, permissions, and polite requests in different contexts.",
+                "ru": "Эта история иллюстрирует различные способы использования 'may' и 'might', включая возможности, предложения, разрешения и вежливые просьбы в разных контекстах.",
+                "uz": "Bu hikoya 'may' va 'might'ning turli xil ishlatilishini, jumladan imkoniyatlar, takliflar, ruxsatlar va turli kontekstlardagi muloyim iltimoslarni tasvirlaydi."
+            }
+        }
+    ]
+}

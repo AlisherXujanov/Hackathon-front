@@ -1,0 +1,855 @@
+{
+    "id": "A1_PRESENT_TENSES_(REFINEMENTS)_-_IMPROVING_SIMPLE_AND_CONTINUOUS",
+    "title": "Present Tenses (refinements) - Improving simple and continuous",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is always talks about his work.",
+                    "correct": false
+                },
+                {
+                    "answer": "He always is talking about his work.",
+                    "correct": false
+                },
+                {
+                    "answer": "He always talks about his work.",
+                    "correct": true
+                },
+                {
+                    "answer": "He are always talking about his work.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used with frequency adverbs like 'always' to describe habitual actions. The verb 'talks' is the correct form for the third-person singular subject 'He'.",
+                "ru": "Простое настоящее время используется с наречиями частоты, такими как 'always', для описания привычных действий. Глагол 'talks' является правильной формой для подлежащего в третьем лице единственного числа 'He'.",
+                "uz": "'always' kabi chastota ravishlari bilan odatiy harakatlarni tasvirlash uchun simple present tense ishlatiladi. 'talks' fe'li 'He' uchunchi shaxs birlik uchun to'g'ri shakl hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I am studying English at the moment.",
+                    "correct": true
+                },
+                {
+                    "answer": "I studying English at the moment.",
+                    "correct": false
+                },
+                {
+                    "answer": "I studies English at the moment.",
+                    "correct": false
+                },
+                {
+                    "answer": "I study English at the moment.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'at the moment' indicates an action happening right now, which requires the present continuous tense, formed with 'am' + verb-ing. 'I am studying' is the correct structure.",
+                "ru": "Фраза 'at the moment' указывает на действие, происходящее прямо сейчас, что требует использования настоящего длительного времени, которое образуется с помощью 'am' + глагол-ing. 'I am studying' — правильная структура.",
+                "uz": "'at the moment' iborasi hozirda sodir bo'layotgan harakatni bildiradi, bu esa 'am' + fe'l-ing bilan tuziladigan present continuous tense'ni talab qiladi. 'I am studying' to'g'ri tuzilishdir."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "They are having a great time right now.",
+                    "correct": true
+                },
+                {
+                    "answer": "They have a great time right now.",
+                    "correct": false
+                },
+                {
+                    "answer": "They having a great time right now.",
+                    "correct": false
+                },
+                {
+                    "answer": "They are has a great time right now.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The expression 'right now' indicates a temporary action, so the present continuous tense is the correct choice. The structure 'are having' is the correct form for the subject 'They'.",
+                "ru": "Выражение 'right now' указывает на временное действие, поэтому настоящее длительное время является правильным выбором. Структура 'are having' — правильная форма для подлежащего 'They'.",
+                "uz": "'right now' iborasi vaqtinchalik harakatni bildiradi, shuning uchun present continuous tense to'g'ri tanlov hisoblanadi. 'are having' tuzilishi 'They' olmoshi uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "She is knowing the answer to the question.",
+                    "correct": false
+                },
+                {
+                    "answer": "She knows the answer to the question.",
+                    "correct": true
+                },
+                {
+                    "answer": "She know the answer to the question.",
+                    "correct": false
+                },
+                {
+                    "answer": "She is knows the answer to the question.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'know' is a stative verb and is typically not used in the continuous form. The simple present tense 'knows' is the correct form for the subject 'She'.",
+                "ru": "Глагол 'know' является статичным глаголом и обычно не используется в длительной форме. Простое настоящее время 'knows' — правильная форма для подлежащего 'She'.",
+                "uz": "'know' fe'li statik fe'l bo'lib, odatda continuous shaklda ishlatilmaydi. Simple present tense'dagi 'knows' 'She' uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The sun rises in the east.",
+                    "correct": true
+                },
+                {
+                    "answer": "The sun is rising in the east.",
+                    "correct": false
+                },
+                {
+                    "answer": "The sun rising in the east.",
+                    "correct": false
+                },
+                {
+                    "answer": "The sun is rise in the east.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used for facts and general truths. The statement 'The sun rises in the east' is a universal fact, making the simple present tense the correct choice.",
+                "ru": "Простое настоящее время используется для фактов и общих истин. Утверждение 'The sun rises in the east' — это общеизвестный факт, поэтому простое настоящее время является правильным выбором.",
+                "uz": "Simple present tense faktlar va umumiy haqiqatlar uchun ishlatiladi. 'The sun rises in the east' jumlasi universal haqiqat bo'lgani uchun simple present tense to'g'ri tanlov hisoblanadi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I'm having a meeting with my boss later.",
+                    "correct": true
+                },
+                {
+                    "answer": "I'm have a meeting with my boss later.",
+                    "correct": false
+                },
+                {
+                    "answer": "I having a meeting with my boss later.",
+                    "correct": false
+                },
+                {
+                    "answer": "I am have a meeting with my boss later.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The present continuous tense can be used for future arrangements. 'I'm having' correctly indicates a planned event in the future, which is a common use of this tense.",
+                "ru": "Настоящее длительное время может использоваться для будущих планов. 'I'm having' правильно указывает на запланированное событие в будущем, что является распространенным использованием этого времени.",
+                "uz": "Present continuous tense kelajakdagi rejalar uchun ishlatilishi mumkin. 'I'm having' ushbu vaqtning keng tarqalgan qo'llanilishi bo'lib, kelajakdagi rejalashtirilgan voqeani to'g'ri bildiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "We are go to the park every weekend.",
+                    "correct": false
+                },
+                {
+                    "answer": "We is going to the park every weekend.",
+                    "correct": false
+                },
+                {
+                    "answer": "We going to the park every weekend.",
+                    "correct": false
+                },
+                {
+                    "answer": "We go to the park every weekend.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'every weekend' signifies a regular habit, so the simple present tense is required. 'We go' is the correct form of the verb for the subject 'We'.",
+                "ru": "Фраза 'every weekend' означает регулярную привычку, поэтому требуется простое настоящее время. 'We go' является правильной формой глагола для подлежащего 'We'.",
+                "uz": "'every weekend' iborasi muntazam odatni bildiradi, shuning uchun simple present tense talab qilinadi. 'We go' fe'li 'We' olmoshi uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "The baby sleeps right now.",
+                    "correct": false
+                },
+                {
+                    "answer": "The baby is sleep right now.",
+                    "correct": false
+                },
+                {
+                    "answer": "The baby is sleeping right now.",
+                    "correct": true
+                },
+                {
+                    "answer": "The baby sleeping right now.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The present continuous tense is used for an action happening at the moment of speaking. 'Is sleeping' is the correct present continuous form for the third-person singular subject 'The baby'.",
+                "ru": "Настоящее длительное время используется для действия, происходящего в момент речи. 'Is sleeping' — это правильная форма настоящего длительного времени для подлежащего в третьем лице единственного числа 'The baby'.",
+                "uz": "Present continuous tense gapirilayotgan paytda sodir bo'layotgan harakat uchun ishlatiladi. 'Is sleeping' 'The baby' uchinchi shaxs birlik uchun to'g'ri continuous shaklidir."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is always complain about the weather.",
+                    "correct": false
+                },
+                {
+                    "answer": "She is always complaining about the weather.",
+                    "correct": true
+                },
+                {
+                    "answer": "She always complain about the weather.",
+                    "correct": false
+                },
+                {
+                    "answer": "She is always complains about the weather.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "When 'always' is used with the present continuous, it often expresses annoyance or a repeated, often negative, habit. The structure 'is always complaining' is correct.",
+                "ru": "Когда 'always' используется с настоящим длительным временем, это часто выражает раздражение или повторяющуюся, часто негативную, привычку. Структура 'is always complaining' является правильной.",
+                "uz": "'always' present continuous tense bilan ishlatilganda, ko'pincha g'azab yoki takrorlanadigan, ko'pincha salbiy odatni ifodalaydi. 'is always complaining' tuzilishi to'g'ri hisoblanadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильно?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "I do my homework every day.",
+                    "correct": true
+                },
+                {
+                    "answer": "I doing my homework every day.",
+                    "correct": false
+                },
+                {
+                    "answer": "I am do my homework every day.",
+                    "correct": false
+                },
+                {
+                    "answer": "I is doing my homework every day.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used for routine or habitual actions. 'Every day' indicates a regular habit, so 'do' is the correct verb form for the subject 'I'.",
+                "ru": "Простое настоящее время используется для рутинных или привычных действий. 'Every day' указывает на регулярную привычку, поэтому 'do' является правильной формой глагола для подлежащего 'I'.",
+                "uz": "Simple present tense muntazam yoki odatiy harakatlar uchun ishlatiladi. 'Every day' muntazam odatni bildiradi, shuning uchun 'do' 'I' olmoshi uchun to'g'ri fe'l shaklidir."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct simple present form: He ___ (read) a book every night.",
+                "ru": "Дополните предложение правильной формой simple present: He ___ (read) a book every night.",
+                "uz": "Gapni simple present'ning to'g'ri shakli bilan to'ldiring: He ___ (read) a book every night."
+            },
+            "options": [
+                {
+                    "answer": "reads",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for habitual actions. For the third-person singular subject 'He', the verb 'read' takes an '-s' ending.",
+                "ru": "Simple present используется для привычных действий. Для подлежащего в третьем лице единственного числа 'He' глагол 'read' принимает окончание '-s'.",
+                "uz": "Simple present odatiy harakatlar uchun ishlatiladi. Uchinchi shaxs birlik 'He' olmoshi uchun 'read' fe'li '-s' qo'shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct present continuous form: We ___ (watch) a movie at the cinema right now.",
+                "ru": "Дополните предложение правильной формой present continuous: We ___ (watch) a movie at the cinema right now.",
+                "uz": "Gapni present continuous'ning to'g'ri shakli bilan to'ldiring: We ___ (watch) a movie at the cinema right now."
+            },
+            "options": [
+                {
+                    "answer": "are watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The present continuous tense is used for actions happening at the moment of speaking. The correct form for the subject 'We' is 'are watching'.",
+                "ru": "Present continuous tense используется для действий, происходящих в момент речи. Правильная форма для подлежащего 'We' — 'are watching'.",
+                "uz": "Present continuous tense gapirilayotgan paytda sodir bo'layotgan harakatlar uchun ishlatiladi. 'We' olmoshi uchun to'g'ri shakl 'are watching' dir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct simple present form: The train ___ (leave) at 8 AM every day.",
+                "ru": "Дополните предложение правильной формой simple present: The train ___ (leave) at 8 AM every day.",
+                "uz": "Gapni simple present'ning to'g'ri shakli bilan to'ldiring: The train ___ (leave) at 8 AM every day."
+            },
+            "options": [
+                {
+                    "answer": "leaves",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for scheduled events. For a third-person singular subject like 'The train', the verb 'leave' takes an '-s' ending.",
+                "ru": "Simple present используется для запланированных событий. Для подлежащего в третьем лице единственного числа, такого как 'The train', глагол 'leave' принимает окончание '-s'.",
+                "uz": "Simple present rejalashtirilgan hodisalar uchun ishlatiladi. 'The train' kabi uchinchi shaxs birlikdagi ot uchun 'leave' fe'li '-s' qo'shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct present continuous form: I ___ (cook) dinner tonight.",
+                "ru": "Дополните предложение правильной формой present continuous: I ___ (cook) dinner tonight.",
+                "uz": "Gapni present continuous'ning to'g'ri shakli bilan to'ldiring: I ___ (cook) dinner tonight."
+            },
+            "options": [
+                {
+                    "answer": "am cooking",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The present continuous can be used for future arrangements. 'Am cooking' is the correct form to show a planned action for tonight.",
+                "ru": "Present continuous может использоваться для будущих планов. 'Am cooking' — правильная форма для обозначения запланированного действия на сегодняшний вечер.",
+                "uz": "Present continuous kelajakdagi rejalar uchun ishlatilishi mumkin. 'Am cooking' bugun kechqurungi rejalashtirilgan harakatni ko'rsatish uchun to'g'ri shakldir."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct simple present form: My parents ___ (live) in a small town.",
+                "ru": "Дополните предложение правильной формой simple present: My parents ___ (live) in a small town.",
+                "uz": "Gapni simple present'ning to'g'ri shakli bilan to'ldiring: My parents ___ (live) in a small town."
+            },
+            "options": [
+                {
+                    "answer": "live",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present tense is used for facts and permanent situations. 'live' is the correct form for the plural subject 'My parents'.",
+                "ru": "Simple present tense используется для фактов и постоянных ситуаций. 'live' — правильная форма для подлежащего во множественном числе 'My parents'.",
+                "uz": "Simple present tense faktlar va doimiy vaziyatlar uchun ishlatiladi. 'live' 'My parents' ko'plikdagi ot uchun to'g'ri shakl hisoblanadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct present continuous form: Look! It ___ (snow)!",
+                "ru": "Дополните предложение правильной формой present continuous: Look! It ___ (snow)!",
+                "uz": "Gapni present continuous'ning to'g'ri shakli bilan to'ldiring: Look! It ___ (snow)!"
+            },
+            "options": [
+                {
+                    "answer": "is snowing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The exclamation 'Look!' indicates that the action is happening at the very moment of speaking, which requires the present continuous tense.",
+                "ru": "Восклицание 'Look!' указывает на то, что действие происходит именно в момент речи, что требует использования настоящего длительного времени.",
+                "uz": "'Look!' undosi harakatning ayni gapirilayotgan paytda sodir bo'layotganligini bildiradi, bu esa present continuous tense'ni talab qiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct simple present form: Water ___ (boil) at 100 degrees Celsius.",
+                "ru": "Дополните предложение правильной формой simple present: Water ___ (boil) at 100 degrees Celsius.",
+                "uz": "Gapni simple present'ning to'g'ri shakli bilan to'ldiring: Water ___ (boil) at 100 degrees Celsius."
+            },
+            "options": [
+                {
+                    "answer": "boils",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for scientific facts. 'Water' is a third-person singular subject, so 'boil' takes an '-s' ending.",
+                "ru": "Simple present используется для научных фактов. 'Water' — это подлежащее в третьем лице единственного числа, поэтому 'boil' принимает окончание '-s'.",
+                "uz": "Simple present ilmiy faktlar uchun ishlatiladi. 'Water' uchinchi shaxs birlikdagi ot bo'lgani uchun 'boil' fe'li '-s' qo'shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct present continuous form: My sister ___ (study) for an exam this week.",
+                "ru": "Дополните предложение правильной формой present continuous: My sister ___ (study) for an exam this week.",
+                "uz": "Gapni present continuous'ning to'g'ri shakli bilan to'ldiring: My sister ___ (study) for an exam this week."
+            },
+            "options": [
+                {
+                    "answer": "is studying",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The present continuous can be used for temporary actions happening around the present time. 'Is studying' indicates an ongoing action this week.",
+                "ru": "Present continuous может использоваться для временных действий, происходящих в настоящее время. 'Is studying' указывает на продолжающееся действие на этой неделе.",
+                "uz": "Present continuous hozirgi vaqt atrofida sodir bo'layotgan vaqtinchalik harakatlar uchun ishlatilishi mumkin. 'Is studying' bu hafta davom etayotgan harakatni bildiradi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct simple present form: He ___ (go) to the gym on Mondays.",
+                "ru": "Дополните предложение правильной формой simple present: He ___ (go) to the gym on Mondays.",
+                "uz": "Gapni simple present'ning to'g'ri shakli bilan to'ldiring: He ___ (go) to the gym on Mondays."
+            },
+            "options": [
+                {
+                    "answer": "goes",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for regular habits. For the third-person singular subject 'He', the verb 'go' takes the 'es' ending.",
+                "ru": "Simple present используется для регулярных привычек. Для подлежащего в третьем лице единственного числа 'He' глагол 'go' принимает окончание '-es'.",
+                "uz": "Simple present muntazam odatlar uchun ishlatiladi. Uchinchi shaxs birlik 'He' olmoshi uchun 'go' fe'li 'es' qo'shimchasini oladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct present continuous form: What ___ (you, do) right now?",
+                "ru": "Дополните предложение правильной формой present continuous: What ___ (you, do) right now?",
+                "uz": "Gapni present continuous'ning to'g'ri shakli bilan to'ldiring: What ___ (you, do) right now?"
+            },
+            "options": [
+                {
+                    "answer": "are you doing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'right now' indicates an action happening at the moment of speaking. For an interrogative sentence, the correct structure is 'are' + subject + 'verb-ing'.",
+                "ru": "Фраза 'right now' указывает на действие, происходящее в момент речи. Для вопросительного предложения правильная структура: 'are' + подлежащее + 'глагол-ing'.",
+                "uz": "'right now' iborasi gapirilayotgan paytda sodir bo'layotgan harakatni bildiradi. So'roq gap uchun to'g'ri tuzilish 'are' + ot + 'fe'l-ing' shaklidadir."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My friend, Sarah, is a very active person. She ___1___ to the gym every morning and then she ___2___ to work. Today is Saturday, so she ___3___ at home. She ___4___ her house right now. Her parents ___5___ her with cleaning. They ___6___ a big dinner later to celebrate. Every summer, Sarah's family ___7___ on vacation. They usually ___8___ to a lake. This year, they ___9___ to Spain, so they ___10___ about a different culture.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "2",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is cleaning"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are helping"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are having"
+                },
+                {
+                    "blank": "7",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "8",
+                    "answer": "go"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are learning"
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for habitual actions (1, 2, 7, 8). The present continuous is used for actions happening now (4, 5) or for future plans (6, 9, 10). 'is' is the simple present tense for 'she' (3).",
+                "ru": "Simple present используется для привычных действий (1, 2, 7, 8). Present continuous используется для действий, происходящих сейчас (4, 5) или для будущих планов (6, 9, 10). 'is' — это simple present для 'she' (3).",
+                "uz": "Simple present odatiy harakatlar uchun ishlatiladi (1, 2, 7, 8). Present continuous hozir sodir bo'layotgan harakatlar (4, 5) yoki kelajakdagi rejalar (6, 9, 10) uchun ishlatiladi. 'is' 'she' uchun simple present shaklidir (3)."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every morning, I ___1___ up at 7 AM. I ___2___ a cup of tea and then I ___3___ the newspaper. My son, Tom, ___4___ his breakfast right now because he ___5___ for school. He always ___6___ a sandwich for lunch. He ___7___ a big project at school this month, so he ___8___ very hard. My wife and I ___9___ a new car next week, so we ___10___ about different models. We ___11___ to buy a red car. I ___12___ a good feeling about it.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "get"
+                },
+                {
+                    "blank": "2",
+                    "answer": "drink"
+                },
+                {
+                    "blank": "3",
+                    "answer": "read"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is eating"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is getting ready"
+                },
+                {
+                    "blank": "6",
+                    "answer": "has/is having"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is doing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is studying"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are buying"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are talking"
+                },
+                {
+                    "blank": "11",
+                    "answer": "want"
+                },
+                {
+                    "blank": "12",
+                    "answer": "have"
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for daily routines (1, 2, 3, 6, 11, 12). The present continuous is used for actions happening at the moment (4, 5), temporary actions (7, 8), or future plans (9, 10).",
+                "ru": "Simple present используется для ежедневных рутин (1, 2, 3, 6, 11, 12). Present continuous используется для действий, происходящих в данный момент (4, 5), временных действий (7, 8) или будущих планов (9, 10).",
+                "uz": "Simple present kundalik odatlar uchun ishlatiladi (1, 2, 3, 6, 11, 12). Present continuous hozirgi paytda sodir bo'layotgan harakatlar (4, 5), vaqtinchalik harakatlar (7, 8) yoki kelajakdagi rejalar (9, 10) uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family and I ___1___ on vacation right now. We ___2___ in a small town in Italy. The sun ___3___ brightly. We ___4___ to a beautiful museum in the city center. My sister, Lisa, ___5___ pictures of everything because she ___6___ art. She always ___7___ new art techniques. She ___8___ a painting class in the summer. We ___9___ a new type of pasta for lunch, and it ___10___ delicious. The local people ___11___ very kind to us. Everyone ___12___ a good time.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "are"
+                },
+                {
+                    "blank": "2",
+                    "answer": "are staying"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is shining"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are going"
+                },
+                {
+                    "blank": "5",
+                    "answer": "is taking"
+                },
+                {
+                    "blank": "6",
+                    "answer": "loves"
+                },
+                {
+                    "blank": "7",
+                    "answer": "is learning/learns"
+                },
+                {
+                    "blank": "8",
+                    "answer": "is taking"
+                },
+                {
+                    "blank": "9",
+                    "answer": "are trying"
+                },
+                {
+                    "blank": "10",
+                    "answer": "tastes"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are"
+                },
+                {
+                    "blank": "12",
+                    "answer": "is having"
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for facts ('are', 'loves', 'tastes', 'are') and general habits ('learns'). The present continuous is used for actions happening now ('are staying', 'is shining', 'are going', 'is taking', 'is learning', 'are trying', 'is having').",
+                "ru": "Simple present используется для фактов ('are', 'loves', 'tastes', 'are') и общих привычек ('learns'). Present continuous используется для действий, происходящих сейчас ('are staying', 'is shining', 'are going', 'is taking', 'is learning', 'are trying', 'is having').",
+                "uz": "Simple present faktlar ('are', 'loves', 'tastes', 'are') va umumiy odatlar ('learns') uchun ishlatiladi. Present continuous hozir sodir bo'layotgan harakatlar ('are staying', 'is shining', 'are going', 'is taking', 'is learning', 'are trying', 'is having') uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Tim is a musician. He ___1___ the guitar every day. He ___2___ in a rock band. The band ___3___ a new album this month. They ___4___ on a new song right now. They ___5___ a big concert next week, so they ___6___ very hard. Tim ___7___ a new guitar. He ___8___ a lot of money on it. He ___9___ that music is the most important thing in his life. At the moment, his band members ___10___ in a cafe. They ___11___ coffee and ___12___ about the lyrics.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "plays"
+                },
+                {
+                    "blank": "2",
+                    "answer": "plays"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is recording"
+                },
+                {
+                    "blank": "4",
+                    "answer": "are working"
+                },
+                {
+                    "blank": "5",
+                    "answer": "are having"
+                },
+                {
+                    "blank": "6",
+                    "answer": "are practicing"
+                },
+                {
+                    "blank": "7",
+                    "answer": "has"
+                },
+                {
+                    "blank": "8",
+                    "answer": "spends"
+                },
+                {
+                    "blank": "9",
+                    "answer": "believes"
+                },
+                {
+                    "blank": "10",
+                    "answer": "are sitting"
+                },
+                {
+                    "blank": "11",
+                    "answer": "are drinking"
+                },
+                {
+                    "blank": "12",
+                    "answer": "are talking"
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for general facts and habitual actions (1, 2, 7, 8, 9). The present continuous is used for temporary actions happening now (3, 4, 6, 10, 11, 12) or future arrangements (5).",
+                "ru": "Simple present используется для общих фактов и привычных действий (1, 2, 7, 8, 9). Present continuous используется для временных действий, происходящих сейчас (3, 4, 6, 10, 11, 12) или будущих планов (5).",
+                "uz": "Simple present umumiy faktlar va odatiy harakatlar uchun ishlatiladi (1, 2, 7, 8, 9). Present continuous hozir sodir bo'layotgan vaqtinchalik harakatlar (3, 4, 6, 10, 11, 12) yoki kelajakdagi rejalar (5) uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Every day, my neighbor, Mrs. Smith, ___1___ her dog for a walk. She ___2___ to the park. It ___3___ rain right now, so she ___4___ an umbrella. Her dog, Buddy, ___5___ to chase the squirrels. He ___6___ to see his friends in the park. My children ___7___ with their toys inside because of the rain. They always ___8___ outside when the weather is good. My daughter ___9___ a book about cats. She ___10___ cats a lot. My son ___11___ his drawing skills. He ___12___ to be an artist. He ___13___ a picture of a tree right now. My husband ___14___ dinner. We ___15___ spaghetti tonight.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "takes"
+                },
+                {
+                    "blank": "2",
+                    "answer": "goes"
+                },
+                {
+                    "blank": "3",
+                    "answer": "is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "is holding/holds"
+                },
+                {
+                    "blank": "5",
+                    "answer": "likes"
+                },
+                {
+                    "blank": "6",
+                    "answer": "is waiting/waits"
+                },
+                {
+                    "blank": "7",
+                    "answer": "are playing"
+                },
+                {
+                    "blank": "8",
+                    "answer": "play"
+                },
+                {
+                    "blank": "9",
+                    "answer": "is reading"
+                },
+                {
+                    "blank": "10",
+                    "answer": "loves"
+                },
+                {
+                    "blank": "11",
+                    "answer": "is improving/improves"
+                },
+                {
+                    "blank": "12",
+                    "answer": "wants"
+                },
+                {
+                    "blank": "13",
+                    "answer": "is drawing"
+                },
+                {
+                    "blank": "14",
+                    "answer": "is cooking"
+                },
+                {
+                    "blank": "15",
+                    "answer": "are having"
+                }
+            ],
+            "explanation": {
+                "en": "The simple present is used for daily routines (1, 2, 8), preferences (5, 10), future intentions (12) and general truths (3). The present continuous is used for actions happening at the moment (4, 7, 9, 11, 13, 14) and future arrangements (15).",
+                "ru": "Simple present используется для ежедневных рутин (1, 2, 8), предпочтений (5, 10), будущих намерений (12) и общих истин (3). Present continuous используется для действий, происходящих в данный момент (4, 7, 9, 11, 13, 14) и будущих планов (15).",
+                "uz": "Simple present kundalik odatlar (1, 2, 8), afzalliklar (5, 10), kelajakdagi niyatlar (12) va umumiy haqiqatlar (3) uchun ishlatiladi. Present continuous hozirgi paytda sodir bo'layotgan harakatlar (4, 7, 9, 11, 13, 14) va kelajakdagi rejalar (15) uchun ishlatiladi."
+            }
+        }
+    ]
+}

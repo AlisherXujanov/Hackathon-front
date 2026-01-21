@@ -1,0 +1,795 @@
+{
+    "id": "A2_COMPARATIVES_AND_SUPERLATIVES_MORE_COMPLEX_FORMS_AND_IRREGULAR",
+    "title": "Comparatives and superlatives - More complex forms and irregular",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is more bad at singing than me.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is worse at singing than I am.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is badder at singing than me.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'bad' is 'worse'. We use 'than' to compare two things, and the pronoun should match the subject, so 'I am' is correct.",
+                "ru": "Сравнительная форма слова 'bad' — 'worse'. Мы используем 'than' для сравнения двух вещей, и местоимение должно соответствовать подлежащему, поэтому 'I am' — правильный вариант.",
+                "uz": "'Bad' so'zining qiyosiy shakli 'worse'dir. Ikki narsani solishtirish uchun 'than' dan foydalanamiz va olmosh kesimga mos kelishi kerak, shuning uchun 'I am' to'g'ri hisoblanadi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This is the most good pizza I've ever eaten.",
+                    "correct": false
+                },
+                {
+                    "answer": "This is the best pizza I've ever eaten.",
+                    "correct": true
+                },
+                {
+                    "answer": "This is the goodest pizza I've ever eaten.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The superlative form of 'good' is 'best'. 'Most good' and 'goodest' are incorrect forms.",
+                "ru": "Превосходная степень слова 'good' — 'best'. 'Most good' и 'goodest' являются неправильными формами.",
+                "uz": "'Good' so'zining ustunlik darajasi 'best'dir. 'Most good' va 'goodest' noto'g'ri shakllardir."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "The new house is much more expensive than the old one.",
+                    "correct": true
+                },
+                {
+                    "answer": "The new house is many more expensive than the old one.",
+                    "correct": false
+                },
+                {
+                    "answer": "The new house is most expensive than the old one.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "To intensify a comparative adjective, we use words like 'much', 'far', or 'a lot'. 'Many' is used with countable nouns, not with adjectives.",
+                "ru": "Чтобы усилить сравнительное прилагательное, мы используем слова 'much', 'far' или 'a lot'. 'Many' используется с исчисляемыми существительными, а не с прилагательными.",
+                "uz": "Qiyosiy sifatni kuchaytirish uchun 'much', 'far' yoki 'a lot' kabi so'zlardan foydalanamiz. 'Many' sanoqli otlar bilan ishlatiladi, sifatlar bilan emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She speaks English more fluently than me.",
+                    "correct": true
+                },
+                {
+                    "answer": "She speaks English fluentlier than me.",
+                    "correct": false
+                },
+                {
+                    "answer": "She speaks English fluent more than me.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Fluently' is an adverb. For most adverbs, we form the comparative with 'more'.",
+                "ru": "'Fluently' — это наречие. Для большинства наречий мы образуем сравнительную степень с помощью 'more'.",
+                "uz": "'Fluently' ravishdir. Ko'pgina ravishlar uchun qiyosiy darajani 'more' so'zi bilan hosil qilamiz."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "My brother's new job pays less money than his old one.",
+                    "correct": true
+                },
+                {
+                    "answer": "My brother's new job pays fewer money than his old one.",
+                    "correct": false
+                },
+                {
+                    "answer": "My brother's new job pays more less money than his old one.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Money' is an uncountable noun, so we use 'less' for comparison, not 'fewer'.",
+                "ru": "'Money' — это неисчисляемое существительное, поэтому для сравнения мы используем 'less', а не 'fewer'.",
+                "uz": "'Money' sanalmaydigan ot bo'lgani uchun, solishtirish uchun 'less' so'zidan foydalanamiz, 'fewer' dan emas."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "She is the most beautifulest girl in the class.",
+                    "correct": false
+                },
+                {
+                    "answer": "She is the most beautiful girl in the class.",
+                    "correct": true
+                },
+                {
+                    "answer": "She is the beautifulest girl in the class.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For adjectives with three or more syllables, we use 'most' to form the superlative. We don't add '-est'.",
+                "ru": "Для прилагательных с тремя и более слогами мы используем 'most' для образования превосходной степени. Мы не добавляем '-est'.",
+                "uz": "Uch yoki undan ko'proq bo'g'inli sifatlar uchun ustunlik darajasini hosil qilish uchun 'most' so'zidan foydalanamiz. '-est' qo'shimchasini qo'shmaymiz."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "He is more funnier than his brother.",
+                    "correct": false
+                },
+                {
+                    "answer": "He is funnier than his brother.",
+                    "correct": true
+                },
+                {
+                    "answer": "He is more funny than his brother.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'funny' is 'funnier'. We don't use 'more' with two-syllable adjectives ending in '-y'.",
+                "ru": "Сравнительная форма слова 'funny' — 'funnier'. Мы не используем 'more' с двусложными прилагательными, оканчивающимися на '-y'.",
+                "uz": "'Funny' so'zining qiyosiy shakli 'funnier'dir. '-y' bilan tugaydigan ikki bo'g'inli sifatlar bilan 'more' so'zidan foydalanmaymiz."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "This exam was the most difficultest of all.",
+                    "correct": false
+                },
+                {
+                    "answer": "This exam was the most difficult of all.",
+                    "correct": true
+                },
+                {
+                    "answer": "This exam was more difficultest of all.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "For long adjectives like 'difficult', the superlative form is made with 'the most'. You cannot use 'most' and '-est' together.",
+                "ru": "Для длинных прилагательных, таких как 'difficult', превосходная степень образуется с помощью 'the most'. Нельзя использовать 'most' и '-est' вместе.",
+                "uz": "'Difficult' kabi uzun sifatlar uchun ustunlik darajasi 'the most' bilan yasaladi. 'Most' va '-est' ni birgalikda ishlatib bo'lmaydi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "I have less free time now than I used to.",
+                    "correct": true
+                },
+                {
+                    "answer": "I have fewer free time now than I used to.",
+                    "correct": false
+                },
+                {
+                    "answer": "I have little free time now than I used to.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "'Time' is an uncountable noun in this context, so the correct comparative form is 'less'.",
+                "ru": "'Time' в данном контексте является неисчисляемым существительным, поэтому правильная сравнительная форма — 'less'.",
+                "uz": "Bu kontekstda 'time' sanalmaydigan ot bo'lgani uchun, to'g'ri qiyosiy shakl 'less' dir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "His car is much more faster than mine.",
+                    "correct": false
+                },
+                {
+                    "answer": "His car is much faster than mine.",
+                    "correct": true
+                },
+                {
+                    "answer": "His car is more faster than mine.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The comparative of 'fast' is 'faster'. 'Much' is used to emphasize the difference. You do not use both 'more' and '-er' together.",
+                "ru": "Сравнительная степень 'fast' — 'faster'. 'Much' используется для усиления разницы. Нельзя использовать 'more' и '-er' вместе.",
+                "uz": "'Fast' ning qiyosiy darajasi 'faster'dir. 'Much' farqni kuchaytirish uchun ishlatiladi. 'More' va '-er'ni birgalikda ishlatib bo'lmaydi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: This is the ___ (far) I have ever walked.",
+                "ru": "Дополните предложение правильной формой слова в скобках: This is the ___ (far) I have ever walked.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: This is the ___ (far) I have ever walked."
+            },
+            "options": [
+                {
+                    "answer": "farthest/furthest",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The superlative form of 'far' can be either 'farthest' or 'furthest'. Both are correct.",
+                "ru": "Превосходная степень слова 'far' может быть 'farthest' или 'furthest'. Оба варианта правильны.",
+                "uz": "'Far' so'zining ustunlik darajasi 'farthest' yoki 'furthest' bo'lishi mumkin. Ikkala variant ham to'g'ri."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: I feel much ___ (well) today than I did yesterday.",
+                "ru": "Дополните предложение правильной формой слова в скобках: I feel much ___ (well) today than I did yesterday.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: I feel much ___ (well) today than I did yesterday."
+            },
+            "options": [
+                {
+                    "answer": "better",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'well' is 'better'. This is an irregular comparative adjective.",
+                "ru": "Сравнительная форма 'well' — 'better'. Это неправильное сравнительное прилагательное.",
+                "uz": "'Well' so'zining qiyosiy shakli 'better'dir. Bu tartibsiz qiyosiy sifatdir."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: She is the ___ (little) talkative person in our group.",
+                "ru": "Дополните предложение правильной формой слова в скобках: She is the ___ (little) talkative person in our group.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: She is the ___ (little) talkative person in our group."
+            },
+            "options": [
+                {
+                    "answer": "least",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The superlative form of 'little' is 'least', used with adjectives to mean 'the smallest amount'.",
+                "ru": "Превосходная степень слова 'little' — 'least', используется с прилагательными для обозначения 'наименьшего количества'.",
+                "uz": "'Little' so'zining ustunlik darajasi 'least' bo'lib, sifatlar bilan 'eng kam miqdorda' ma'nosida ishlatiladi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: This is ___ (much) more difficult than I expected.",
+                "ru": "Дополните предложение правильной формой слова в скобках: This is ___ (much) more difficult than I expected.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: This is ___ (much) more difficult than I expected."
+            },
+            "options": [
+                {
+                    "answer": "much",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "'Much' is used to make a comparative adjective stronger.",
+                "ru": "'Much' используется для усиления сравнительного прилагательного.",
+                "uz": "'Much' qiyosiy sifatni kuchaytirish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: The problem got ___ (bad) and ___ (bad) until we couldn't solve it.",
+                "ru": "Дополните предложение правильной формой слова в скобках: The problem got ___ (bad) and ___ (bad) until we couldn't solve it.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: The problem got ___ (bad) and ___ (bad) until we couldn't solve it."
+            },
+            "options": [
+                {
+                    "answer": "worse and worse/worse, worse",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To show a continuous increase or decrease, we repeat the comparative form. 'Worse and worse' is the correct irregular form of 'bad'.",
+                "ru": "Чтобы показать непрерывное увеличение или уменьшение, мы повторяем сравнительную форму. 'Worse and worse' — правильная неправильная форма 'bad'.",
+                "uz": "Doimiy o'sish yoki kamayishni ko'rsatish uchun qiyosiy shaklni takrorlaymiz. 'Worse and worse' 'bad' so'zining to'g'ri tartibsiz shaklidir."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: She has ___ (many) books than I do.",
+                "ru": "Дополните предложение правильной формой слова в скобках: She has ___ (many) books than I do.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: She has ___ (many) books than I do."
+            },
+            "options": [
+                {
+                    "answer": "more",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'many' is 'more'.",
+                "ru": "Сравнительная форма 'many' — 'more'.",
+                "uz": "'Many' so'zining qiyosiy shakli 'more'dir."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: This is the ___ (little) amount of sugar I can use.",
+                "ru": "Дополните предложение правильной формой слова в скобках: This is the ___ (little) amount of sugar I can use.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: This is the ___ (little) amount of sugar I can use."
+            },
+            "options": [
+                {
+                    "answer": "least",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The superlative form of 'little' is 'least'. We use it with uncountable nouns like 'sugar'.",
+                "ru": "Превосходная степень 'little' — 'least'. Мы используем ее с неисчисляемыми существительными, такими как 'sugar'.",
+                "uz": "'Little' so'zining ustunlik darajasi 'least'dir. Biz uni 'sugar' kabi sanalmaydigan otlar bilan ishlatamiz."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: The traffic is getting ___ (bad) and ___ (bad).",
+                "ru": "Дополните предложение правильной формой слова в скобках: The traffic is getting ___ (bad) and ___ (bad).",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: The traffic is getting ___ (bad) and ___ (bad)."
+            },
+            "options": [
+                {
+                    "answer": "worse and worse/worse, worse",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "To express a continuous change, we repeat the comparative adjective. The irregular comparative form of 'bad' is 'worse'.",
+                "ru": "Чтобы выразить непрерывное изменение, мы повторяем сравнительное прилагательное. Неправильная сравнительная форма 'bad' — 'worse'.",
+                "uz": "Doimiy o'zgarishni ifodalash uchun qiyosiy sifatni takrorlaymiz. 'Bad' so'zining tartibsiz qiyosiy shakli 'worse' dir."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: She is the ___ (good) student in the class.",
+                "ru": "Дополните предложение правильной формой слова в скобках: She is the ___ (good) student in the class.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: She is the ___ (good) student in the class."
+            },
+            "options": [
+                {
+                    "answer": "best",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The superlative form of 'good' is 'best'. This is an irregular superlative adjective.",
+                "ru": "Превосходная степень 'good' — 'best'. Это неправильное превосходное прилагательное.",
+                "uz": "'Good' so'zining ustunlik darajasi 'best'dir. Bu tartibsiz ustunlik sifatidir."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the word in parentheses: My new apartment is ___ (far) from the city center than my old one.",
+                "ru": "Дополните предложение правильной формой слова в скобках: My new apartment is ___ (far) from the city center than my old one.",
+                "uz": "Qavs ichidagi so'zning to'g'ri shakli bilan gapni to'ldiring: My new apartment is ___ (far) from the city center than my old one."
+            },
+            "options": [
+                {
+                    "answer": "farther/further",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The comparative form of 'far' is 'farther' or 'further'. Both are correct and often interchangeable.",
+                "ru": "Сравнительная форма 'far' — 'farther' или 'further'. Оба варианта правильны и часто взаимозаменяемы.",
+                "uz": "'Far' so'zining qiyosiy shakli 'farther' yoki 'further'dir. Ikkala variant ham to'g'ri va ko'pincha o'zaro almashtirilishi mumkin."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Living in the city is generally ___1___ expensive than living in the countryside. The cost of rent is ___2___ and the prices of food are often ___3___ as well. For example, a big city apartment is usually ___4___ smaller than a house in the suburbs for the same price. However, many people believe that living in the city offers ___5___ opportunities. There are ___6___ cultural events, ___7___ restaurants, and ___8___ job prospects. For some, having access to these things makes the higher costs worth it. They would argue that the city provides ___9___ quality of life. Despite the higher costs, a lot of people find city life to be ___10___ interesting and exciting.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more"
+                },
+                {
+                    "blank": "2",
+                    "answer": "higher"
+                },
+                {
+                    "blank": "3",
+                    "answer": "higher"
+                },
+                {
+                    "blank": "4",
+                    "answer": "much"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more"
+                },
+                {
+                    "blank": "6",
+                    "answer": "more"
+                },
+                {
+                    "blank": "7",
+                    "answer": "more"
+                },
+                {
+                    "blank": "8",
+                    "answer": "better"
+                },
+                {
+                    "blank": "9",
+                    "answer": "a better"
+                },
+                {
+                    "blank": "10",
+                    "answer": "more"
+                }
+            ],
+            "explanation": {
+                "en": "The passage uses comparative adjectives and adverbs. 'More' is used for longer adjectives like 'expensive', and 'higher' is used for 'high'. 'Much' is an intensifier. 'Better' is the irregular comparative of 'good'.",
+                "ru": "В тексте используются сравнительные прилагательные и наречия. 'More' используется для длинных прилагательных, таких как 'expensive', а 'higher' — для 'high'. 'Much' — это усилитель. 'Better' — это неправильная сравнительная форма 'good'.",
+                "uz": "Matn qiyosiy sifatlar va ravishlardan foydalanadi. 'More' 'expensive' kabi uzun sifatlar uchun, 'higher' esa 'high' uchun ishlatiladi. 'Much' kuchaytiruvchi. 'Better' 'good' so'zining tartibsiz qiyosiy shaklidir."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "My family is going on a trip this summer. My brother says we should go to the mountains, because they have the ___1___ beautiful scenery in the country. My sister wants to go to the beach, which she thinks is the ___2___ place to relax. My mom believes that the city is ___3___ fun than any other place, with its museums and restaurants. My dad, on the other hand, thinks we should go to the countryside, where there are ___4___ crowds and it's much ___5___ peaceful. He says it's ___6___ for us because it's ___7___ to get around. Our dog is the ___8___ excited of us all, no matter where we go. He just loves to be with us, which is the ___9___ thing. We all agree that we should choose the destination that is ___10___ for everyone.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "most"
+                },
+                {
+                    "blank": "2",
+                    "answer": "best"
+                },
+                {
+                    "blank": "3",
+                    "answer": "more"
+                },
+                {
+                    "blank": "4",
+                    "answer": "fewer"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more"
+                },
+                {
+                    "blank": "6",
+                    "answer": "better"
+                },
+                {
+                    "blank": "7",
+                    "answer": "easier"
+                },
+                {
+                    "blank": "8",
+                    "answer": "most"
+                },
+                {
+                    "blank": "9",
+                    "answer": "best"
+                },
+                {
+                    "blank": "10",
+                    "answer": "best"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on both regular and irregular comparatives and superlatives. 'Most' is used for long adjectives like 'beautiful', and 'best' is the irregular superlative of 'good'. 'Fewer' is used with countable nouns like 'crowds'.",
+                "ru": "Этот текст посвящен как правильным, так и неправильным сравнительным и превосходным степеням. 'Most' используется для длинных прилагательных, таких как 'beautiful', а 'best' — это неправильная превосходная степень 'good'. 'Fewer' используется с исчисляемыми существительными, такими как 'crowds'.",
+                "uz": "Ushbu matn tartibli va tartibsiz qiyosiy va ustunlik darajalariga qaratilgan. 'Most' 'beautiful' kabi uzun sifatlar uchun, 'best' esa 'good' ning tartibsiz ustunlik darajasi uchun ishlatiladi. 'Fewer' 'crowds' kabi sanoqli otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The competition was becoming ___1___ and ___2___ difficult. The first challenge was simple, but the second one was ___3___ more complex. By the third round, it was clear that we had to perform ___4___ than we had before. The judges were getting ___5___ and ___6___ strict with their scoring. I felt my performance was getting ___7___ and ___8___, but my rival was doing ___9___ than me. When the results were announced, she got the ___10___ number of points, and I got the ___11___ number. It was a good result, but next time I'll have to work much ___12___.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more"
+                },
+                {
+                    "blank": "2",
+                    "answer": "more"
+                },
+                {
+                    "blank": "3",
+                    "answer": "much"
+                },
+                {
+                    "blank": "4",
+                    "answer": "better"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more"
+                },
+                {
+                    "blank": "6",
+                    "answer": "more"
+                },
+                {
+                    "blank": "7",
+                    "answer": "better"
+                },
+                {
+                    "blank": "8",
+                    "answer": "better"
+                },
+                {
+                    "blank": "9",
+                    "answer": "better"
+                },
+                {
+                    "blank": "10",
+                    "answer": "most"
+                },
+                {
+                    "blank": "11",
+                    "answer": "least"
+                },
+                {
+                    "blank": "12",
+                    "answer": "harder"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests various forms of comparatives and superlatives. 'More and more' and 'better and better' show continuous change. 'Much' intensifies 'more complex'. 'Better' is the comparative of 'well' or 'good'. 'Most' and 'least' are used with uncountable nouns like 'number'.",
+                "ru": "Это упражнение проверяет различные формы сравнительных и превосходных степеней. 'More and more' и 'better and better' показывают непрерывное изменение. 'Much' усиливает 'more complex'. 'Better' — это сравнительная степень 'well' или 'good'. 'Most' и 'least' используются с неисчисляемыми существительными, такими как 'number'.",
+                "uz": "Ushbu mashq qiyosiy va ustunlik darajalarining turli shakllarini sinovdan o'tkazadi. 'More and more' va 'better and better' doimiy o'zgarishni ko'rsatadi. 'Much' 'more complex' ni kuchaytiradi. 'Better' 'well' yoki 'good' ning qiyosiy darajasidir. 'Most' va 'least' 'number' kabi sanalmaydigan otlar bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "When planning a trip, some people prefer to have ___1___ money than time off, while others have ___2___ money but ___3___ more time. My friend has a job that pays very well, so she has ___4___ money to travel than I do, but she has ___5___ time. Her dream is to travel the world. She said that a long vacation would be the ___6___ thing she could have. On the other hand, my job gives me a lot of vacation time, but I have a ___7___ salary. The ___8___ I travel, the ___9___ money I have. Because of this, I need to choose my trips carefully, making sure I get the ___10___ value for my money. It's a ___11___ situation.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more"
+                },
+                {
+                    "blank": "2",
+                    "answer": "less"
+                },
+                {
+                    "blank": "3",
+                    "answer": "much"
+                },
+                {
+                    "blank": "4",
+                    "answer": "more"
+                },
+                {
+                    "blank": "5",
+                    "answer": "less"
+                },
+                {
+                    "blank": "6",
+                    "answer": "best"
+                },
+                {
+                    "blank": "7",
+                    "answer": "lower"
+                },
+                {
+                    "blank": "8",
+                    "answer": "further/farther"
+                },
+                {
+                    "blank": "9",
+                    "answer": "less"
+                },
+                {
+                    "blank": "10",
+                    "answer": "best"
+                },
+                {
+                    "blank": "11",
+                    "answer": "difficult"
+                }
+            ],
+            "explanation": {
+                "en": "This text focuses on comparatives with 'more', 'less', 'much', and irregular forms. 'Less' is used for uncountable nouns like 'money'. 'Best' is the superlative of 'good'. 'Further/farther' are used for distance. 'The further... the less...' is a common structure to show a proportional relationship.",
+                "ru": "Этот текст фокусируется на сравнительных степенях с 'more', 'less', 'much' и неправильных формах. 'Less' используется с неисчисляемыми существительными, такими как 'money'. 'Best' — превосходная степень 'good'. 'Further'/'farther' используются для расстояния. 'The further... the less...' — это распространенная структура для обозначения пропорциональной зависимости.",
+                "uz": "Ushbu matn 'more', 'less', 'much' va tartibsiz shakllar bilan qiyosiy darajalarga e'tibor qaratadi. 'Less' 'money' kabi sanalmaydigan otlar bilan ishlatiladi. 'Best' 'good' ning ustunlik darajasidir. 'Further'/'farther' masofa uchun ishlatiladi. 'The further... the less...' — bu mutanosiblik munosabatini ko'rsatadigan keng tarqalgan tuzilma."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Learning a new language is becoming ___1___ and ___2___ popular. The ___3___ you start, the ___4___ it becomes. It is also true that the ___5___ you practice, the ___6___ you learn. For many people, English is the ___7___ useful language to know. They believe that speaking English makes life ___8___ and helps them find ___9___ jobs. The ___10___ part is speaking with native speakers. It can be difficult at first, but it is the ___11___ way to improve quickly. With a little effort, you can make ___12___ progress in a short time. My friend says she wants to be the ___13___ fluent speaker in her class.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "more"
+                },
+                {
+                    "blank": "2",
+                    "answer": "more"
+                },
+                {
+                    "blank": "3",
+                    "answer": "sooner/earlier"
+                },
+                {
+                    "blank": "4",
+                    "answer": "easier"
+                },
+                {
+                    "blank": "5",
+                    "answer": "more"
+                },
+                {
+                    "blank": "6",
+                    "answer": "better"
+                },
+                {
+                    "blank": "7",
+                    "answer": "most"
+                },
+                {
+                    "blank": "8",
+                    "answer": "easier"
+                },
+                {
+                    "blank": "9",
+                    "answer": "better"
+                },
+                {
+                    "blank": "10",
+                    "answer": "most difficult"
+                },
+                {
+                    "blank": "11",
+                    "answer": "best"
+                },
+                {
+                    "blank": "12",
+                    "answer": "good"
+                },
+                {
+                    "blank": "13",
+                    "answer": "most"
+                }
+            ],
+            "explanation": {
+                "en": "This text systematically tests complex comparative and superlative forms. 'More and more' shows a continuous trend. The 'the... the...' structure demonstrates a proportional relationship. 'Most' and 'best' are used for superlatives, while 'better' and 'easier' are comparatives. 'Good' is an adjective, not a comparative, and is used correctly here.",
+                "ru": "Этот текст систематически проверяет сложные сравнительные и превосходные формы. 'More and more' показывает непрерывную тенденцию. Структура 'the... the...' демонстрирует пропорциональную зависимость. 'Most' и 'best' используются для превосходной степени, в то время как 'better' и 'easier' — сравнительные. 'Good' — это прилагательное, а не сравнительная степень, и оно используется здесь правильно.",
+                "uz": "Ushbu matn murakkab qiyosiy va ustunlik darajalarini tizimli ravishda sinovdan o'tkazadi. 'More and more' doimiy tendensiyani ko'rsatadi. 'the... the...' tuzilmasi mutanosiblik munosabatini namoyish etadi. 'Most' va 'best' ustunlik darajalari uchun ishlatiladi, 'better' va 'easier' esa qiyosiy. 'Good' sifat bo'lib, bu yerda to'g'ri ishlatilgan."
+            }
+        }
+    ]
+}

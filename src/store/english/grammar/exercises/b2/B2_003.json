@@ -1,0 +1,948 @@
+{
+    "id": "B2_FUTURE_PERFECT_CONTINUOUS_ONGOING_ACTIONS_COMPLETED_BY_FUTURE_TIME",
+    "title": "Future perfect continuous - Ongoing actions completed by future time",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By next month, I will have been working here for two years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next month, I will have worked here for two years."
+                },
+                {
+                    "answer": "By next month, I will be working here for two years."
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous emphasizes the ongoing nature of an action that will be completed by a specific future time.",
+                "ru": "Будущее совершенное длительное время подчеркивает непрерывный характер действия, которое будет завершено к определенному моменту в будущем.",
+                "uz": "Kelajak mukammal davomli zamon kelajakdagi ma'lum vaqtga qadar tugallanishi kerak bo'lgan harakatning uzluksizlik xususiyatini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly uses the future perfect continuous?",
+                "ru": "Какое предложение правильно использует будущее совершенное длительное время?",
+                "uz": "Qaysi gap kelajak mukammal davomli zamonni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "She will have studying for six hours by evening."
+                },
+                {
+                    "answer": "She will have been studying for six hours by evening.",
+                    "correct": true
+                },
+                {
+                    "answer": "She will have been study for six hours by evening."
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous is formed with 'will have been' + present participle (-ing form).",
+                "ru": "Будущее совершенное длительное время образуется с 'will have been' + причастие настоящего времени (форма -ing).",
+                "uz": "Kelajak mukammal davomli zamon 'will have been' + hozirgi zamon sifatdoshi (-ing shakli) bilan yasaladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct sentence.",
+                "ru": "Выберите грамматически правильное предложение.",
+                "uz": "Grammatik jihatdan to'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By 2025, they will have been living in Paris for ten years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By 2025, they will have been lived in Paris for ten years."
+                },
+                {
+                    "answer": "By 2025, they will been living in Paris for ten years."
+                }
+            ],
+            "explanation": {
+                "en": "The correct form uses 'will have been' + living (present participle), not the past participle 'lived'.",
+                "ru": "Правильная форма использует 'will have been' + living (причастие настоящего времени), а не причастие прошедшего времени 'lived'.",
+                "uz": "'Will have been' + living (hozirgi zamon sifatdoshi) to'g'ri shakl, 'lived' (o'tgan zamon sifatdoshi) emas."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "When you arrive, I will have waiting for three hours."
+                },
+                {
+                    "answer": "When you arrive, I will have been waited for three hours."
+                },
+                {
+                    "answer": "When you arrive, I will have been waiting for three hours.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous uses the present participle 'waiting', not the past participle 'waited'.",
+                "ru": "Будущее совершенное длительное время использует причастие настоящего времени 'waiting', а не причастие прошедшего времени 'waited'.",
+                "uz": "Kelajak mukammal davomli zamon 'waiting' hozirgi zamon sifatdoshini ishlatadi, 'waited' o'tgan zamon sifatdoshini emas."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct future perfect continuous form.",
+                "ru": "Выберите правильную форму будущего совершенного длительного времени.",
+                "uz": "Kelajak mukammal davomli zamonning to'g'ri shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By midnight, the machine will have been running for 24 hours.",
+                    "correct": true
+                },
+                {
+                    "answer": "By midnight, the machine will have been run for 24 hours."
+                },
+                {
+                    "answer": "By midnight, the machine will have running for 24 hours."
+                }
+            ],
+            "explanation": {
+                "en": "The structure requires 'will have been' + present participle 'running' to show continuous action.",
+                "ru": "Структура требует 'will have been' + причастие настоящего времени 'running' для выражения длительного действия.",
+                "uz": "Struktura davomiy harakatni ifodalash uchun 'will have been' + 'running' hozirgi zamon sifatdoshini talab qiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence uses the future perfect continuous correctly?",
+                "ru": "Какое предложение правильно использует будущее совершенное длительное время?",
+                "uz": "Qaysi gap kelajak mukammal davomli zamonni to'g'ri ishlatadi?"
+            },
+            "options": [
+                {
+                    "answer": "Next year, we will been married for twenty years."
+                },
+                {
+                    "answer": "Next year, we will have been marrying for twenty years."
+                },
+                {
+                    "answer": "Next year, we will have been married for twenty years.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "With state verbs like 'be married', the future perfect continuous shows a continuous state, not action.",
+                "ru": "С глаголами состояния, такими как 'be married', будущее совершенное длительное время показывает продолжительное состояние, а не действие.",
+                "uz": "'Be married' kabi holat fe'llari bilan kelajak mukammal davomli zamon harakat emas, balki davomiy holatni bildiradi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By June, I will have been learning Spanish for five years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By June, I will have been learned Spanish for five years."
+                },
+                {
+                    "answer": "By June, I will have learning Spanish for five years."
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous is formed with 'will have been' + present participle 'learning'.",
+                "ru": "Будущее совершенное длительное время образуется с 'will have been' + причастие настоящего времени 'learning'.",
+                "uz": "Kelajak mukammal davomli zamon 'will have been' + 'learning' hozirgi zamon sifatdoshi bilan yasaladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически правильное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "When the bell rings, the students will have been take the exam for two hours."
+                },
+                {
+                    "answer": "When the bell rings, the students will have been took the exam for two hours."
+                },
+                {
+                    "answer": "When the bell rings, the students will have been taking the exam for two hours.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The correct form uses 'will have been' + present participle 'taking' to show ongoing action.",
+                "ru": "Правильная форма использует 'will have been' + причастие настоящего времени 'taking' для выражения продолжающегося действия.",
+                "uz": "To'g'ri shakl davom etayotgan harakatni ifodalash uchun 'will have been' + 'taking' hozirgi zamon sifatdoshini ishlatadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct future perfect continuous form.",
+                "ru": "Выберите правильную форму будущего совершенного длительного времени.",
+                "uz": "Kelajak mukammal davomli zamonning to'g'ri shaklini tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By tomorrow evening, it will have been raining for three days.",
+                    "correct": true
+                },
+                {
+                    "answer": "By tomorrow evening, it will have been rained for three days."
+                },
+                {
+                    "answer": "By tomorrow evening, it will have raining for three days."
+                }
+            ],
+            "explanation": {
+                "en": "Weather verbs like 'rain' use the present participle 'raining' in the future perfect continuous.",
+                "ru": "Глаголы погоды, такие как 'rain', используют причастие настоящего времени 'raining' в будущем совершенном длительном времени.",
+                "uz": "'Rain' kabi ob-havo fe'llari kelajak mukammal davomli zamonda 'raining' hozirgi zamon sifatdoshini ishlatadi."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence correctly expresses future perfect continuous?",
+                "ru": "Какое предложение правильно выражает будущее совершенное длительное время?",
+                "uz": "Qaysi gap kelajak mukammal davomli zamonni to'g'ri ifodalaydi?"
+            },
+            "options": [
+                {
+                    "answer": "By next week, she will have been working on this project for a month.",
+                    "correct": true
+                },
+                {
+                    "answer": "By next week, she will have been worked on this project for a month."
+                },
+                {
+                    "answer": "By next week, she will been working on this project for a month."
+                }
+            ],
+            "explanation": {
+                "en": "The complete structure 'will have been' + 'working' shows an action that will continue until a future point.",
+                "ru": "Полная структура 'will have been' + 'working' показывает действие, которое будет продолжаться до будущего момента.",
+                "uz": "To'liq struktura 'will have been' + 'working' kelajakdagi nuqtagacha davom etadigan harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mc11",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Select the grammatically correct option.",
+                "ru": "Выберите грамматически правильный вариант.",
+                "uz": "Grammatik jihatdan to'g'ri variantni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "By December, they will have been traveling for six months.",
+                    "correct": true
+                },
+                {
+                    "answer": "By December, they will have been traveled for six months."
+                },
+                {
+                    "answer": "By December, they will have traveling for six months."
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous requires 'will have been' + present participle 'traveling'.",
+                "ru": "Будущее совершенное длительное время требует 'will have been' + причастие настоящего времени 'traveling'.",
+                "uz": "Kelajak mukammal davomli zamon 'will have been' + 'traveling' hozirgi zamon sifatdoshini talab qiladi."
+            }
+        },
+        {
+            "id": "mc12",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is correct?",
+                "ru": "Какое предложение правильное?",
+                "uz": "Qaysi gap to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "By the time you graduate, you will have been studying medicine for seven years.",
+                    "correct": true
+                },
+                {
+                    "answer": "By the time you graduate, you will have been studied medicine for seven years."
+                },
+                {
+                    "answer": "By the time you graduate, you will been studying medicine for seven years."
+                }
+            ],
+            "explanation": {
+                "en": "The correct formation uses 'will have been' + 'studying' to show continuous action up to a future point.",
+                "ru": "Правильное образование использует 'will have been' + 'studying' для выражения непрерывного действия до будущего момента.",
+                "uz": "To'g'ri yasalish kelajakdagi nuqtagacha uzluksiz harakatni ifodalash uchun 'will have been' + 'studying'ni ishlatadi."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By next Friday, I ___ (work) on this report for two weeks.",
+                "ru": "Дополните предложение: By next Friday, I ___ (work) on this report for two weeks.",
+                "uz": "Gapni to'ldiring: By next Friday, I ___ (work) on this report for two weeks."
+            },
+            "options": [
+                {
+                    "answer": "will have been working",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous shows an ongoing action that will continue until a specific future time.",
+                "ru": "Будущее совершенное длительное время показывает продолжающееся действие, которое будет длиться до определенного момента в будущем.",
+                "uz": "Kelajak mukammal davomli zamon kelajakdagi aniq vaqtgacha davom etadigan uzluksiz harakatni bildiradi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: When you arrive, we ___ (wait) for three hours.",
+                "ru": "Заполните пропуск: When you arrive, we ___ (wait) for three hours.",
+                "uz": "Bo'shliqni to'ldiring: When you arrive, we ___ (wait) for three hours."
+            },
+            "options": [
+                {
+                    "answer": "will have been waiting",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Use future perfect continuous to show an action that will be ongoing until a future event occurs.",
+                "ru": "Используйте будущее совершенное длительное время, чтобы показать действие, которое будет продолжаться до наступления будущего события.",
+                "uz": "Kelajakdagi hodisa sodir bo'lguncha davom etadigan harakatni ko'rsatish uchun kelajak mukammal davomli zamondan foydalaning."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: By 2025, they ___ (live) in Tokyo for eight years.",
+                "ru": "Дополните правильной формой: By 2025, they ___ (live) in Tokyo for eight years.",
+                "uz": "To'g'ri shakl bilan to'ldiring: By 2025, they ___ (live) in Tokyo for eight years."
+            },
+            "options": [
+                {
+                    "answer": "will have been living",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous emphasizes the duration of a continuous state or action until a future point.",
+                "ru": "Будущее совершенное длительное время подчеркивает продолжительность непрерывного состояния или действия до будущего момента.",
+                "uz": "Kelajak mukammal davomli zamon kelajakdagi nuqtagacha uzluksiz holat yoki harakatning davomiyligini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: By the end of this month, she ___ (teach) at this school for fifteen years.",
+                "ru": "Заполните пропуск: By the end of this month, she ___ (teach) at this school for fifteen years.",
+                "uz": "Bo'shliqni to'ldiring: By the end of this month, she ___ (teach) at this school for fifteen years."
+            },
+            "options": [
+                {
+                    "answer": "will have been teaching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous shows the ongoing nature of an action that reaches a milestone at a future time.",
+                "ru": "Будущее совершенное длительное время показывает непрерывный характер действия, которое достигает важного момента в будущем.",
+                "uz": "Kelajak mukammal davomli zamon kelajakda muhim nuqtaga yetadigan harakatning uzluksiz xususiyatini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: When the movie ends, we ___ (watch) for three hours.",
+                "ru": "Дополните предложение: When the movie ends, we ___ (watch) for three hours.",
+                "uz": "Gapni to'ldiring: When the movie ends, we ___ (watch) for three hours."
+            },
+            "options": [
+                {
+                    "answer": "will have been watching",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This tense shows the duration of an activity that will be completed by a specific future moment.",
+                "ru": "Это время показывает продолжительность деятельности, которая будет завершена к определенному моменту в будущем.",
+                "uz": "Bu zamon kelajakdagi aniq momentgacha tugallanadigan faoliyatning davomiyligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: By tonight, it ___ (rain) for twelve hours straight.",
+                "ru": "Заполните пропуск: By tonight, it ___ (rain) for twelve hours straight.",
+                "uz": "Bo'shliqni to'ldiring: By tonight, it ___ (rain) for twelve hours straight."
+            },
+            "options": [
+                {
+                    "answer": "will have been raining",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Weather verbs in future perfect continuous show continuous conditions lasting until a future time.",
+                "ru": "Глаголы погоды в будущем совершенном длительном времени показывают непрерывные условия, длящиеся до будущего времени.",
+                "uz": "Kelajak mukammal davomli zamondagi ob-havo fe'llari kelajak vaqtgacha davom etadigan uzluksiz sharoitlarni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct tense: By next year, the company ___ (operate) for fifty years.",
+                "ru": "Дополните правильным временем: By next year, the company ___ (operate) for fifty years.",
+                "uz": "To'g'ri zamon bilan to'ldiring: By next year, the company ___ (operate) for fifty years."
+            },
+            "options": [
+                {
+                    "answer": "will have been operating",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous emphasizes the continuous nature of business operations over time.",
+                "ru": "Будущее совершенное длительное время подчеркивает непрерывный характер деловых операций во времени.",
+                "uz": "Kelajak mukammal davomli zamon biznes operatsiyalarining vaqt davomida uzluksiz xususiyatini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: When summer arrives, we ___ (plan) this vacation for six months.",
+                "ru": "Заполните пропуск: When summer arrives, we ___ (plan) this vacation for six months.",
+                "uz": "Bo'shliqni to'ldiring: When summer arrives, we ___ (plan) this vacation for six months."
+            },
+            "options": [
+                {
+                    "answer": "will have been planning",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This tense shows an ongoing planning process that will reach completion at a future event.",
+                "ru": "Это время показывает продолжающийся процесс планирования, который будет завершен при наступлении будущего события.",
+                "uz": "Bu zamon kelajakdagi hodisa sodir bo'lganda tugallanishi kerak bo'lgan davomiy rejalashtirish jarayonini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: By midnight, the party ___ (go) on for eight hours.",
+                "ru": "Дополните предложение: By midnight, the party ___ (go) on for eight hours.",
+                "uz": "Gapni to'ldiring: By midnight, the party ___ (go) on for eight hours."
+            },
+            "options": [
+                {
+                    "answer": "will have been going",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous shows the duration of an event that continues until a specific future time.",
+                "ru": "Будущее совершенное длительное время показывает продолжительность события, которое длится до определенного момента в будущем.",
+                "uz": "Kelajak mukammal davomli zamon kelajakdagi aniq vaqtgacha davom etadigan hodisaning davomiyligini ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the blank: When you call, I ___ (exercise) for two hours.",
+                "ru": "Заполните пропуск: When you call, I ___ (exercise) for two hours.",
+                "uz": "Bo'shliqni to'ldiring: When you call, I ___ (exercise) for two hours."
+            },
+            "options": [
+                {
+                    "answer": "will have been exercising",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This construction shows an activity that will be in progress and will have lasted a certain duration by a future moment.",
+                "ru": "Эта конструкция показывает деятельность, которая будет продолжаться и будет длиться определенное время к будущему моменту.",
+                "uz": "Bu konstruksiya kelajakdagi momentga qadar ma'lum vaqt davom etadigan va davom etayotgan faoliyatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "sa11",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete with the correct form: By the conference date, they ___ (prepare) for three months.",
+                "ru": "Дополните правильной формой: By the conference date, they ___ (prepare) for three months.",
+                "uz": "To'g'ri shakl bilan to'ldiring: By the conference date, they ___ (prepare) for three months."
+            },
+            "options": [
+                {
+                    "answer": "will have been preparing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous emphasizes the ongoing preparation process leading up to a future event.",
+                "ru": "Будущее совершенное длительное время подчеркивает продолжающийся процесс подготовки, ведущий к будущему событию.",
+                "uz": "Kelajak mukammal davomli zamon kelajakdagi hodisaga olib boradigan davomiy tayyorgarlik jarayonini ta'kidlaydi."
+            }
+        },
+        {
+            "id": "sa12",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Fill in the gap: By next winter, the construction ___ (continue) for two years.",
+                "ru": "Заполните пропуск: By next winter, the construction ___ (continue) for two years.",
+                "uz": "Bo'shliqni to'ldiring: By next winter, the construction ___ (continue) for two years."
+            },
+            "options": [
+                {
+                    "answer": "will have been continuing",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "This tense shows the ongoing nature of construction work that will reach a time milestone in the future.",
+                "ru": "Это время показывает продолжающийся характер строительных работ, которые достигнут временной вехи в будущем.",
+                "uz": "Bu zamon kelajakda vaqt bosqichiga yetadigan qurilish ishlarining uzluksiz xususiyatini ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Sarah is planning her career milestone celebration for next December. By that time, she ___1___ working at the same company for exactly ten years. Her colleagues are organizing a surprise party because they know she ___2___ dedicating herself to countless projects throughout her entire career there. The management team recognizes that she ___3___ leading the marketing department for five years by then. When the celebration begins, Sarah ___4___ managing the most successful campaigns in the company's history for nearly a decade. Her assistant mentioned that by December, Sarah ___5___ mentoring young employees for eight consecutive years. The company newsletter will highlight how she ___6___ contributing to the organization's growth since she first started. During her speech, Sarah plans to mention that she ___7___ building professional relationships with international clients for most of her tenure. By the anniversary date, the marketing team ___8___ benefiting from her innovative strategies for years. Sarah's supervisor noted that she ___9___ exceeding sales targets consistently throughout her entire employment period. The celebration will acknowledge that she ___10___ inspiring her team members to achieve excellence for the better part of a decade. Everyone agrees that by December, Sarah ___11___ demonstrating exceptional leadership skills for many years running. The company's success stories will show that she ___12___ adapting to market changes effectively since joining the organization.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous tense is formed with 'will have been' + present participle (-ing). It describes ongoing actions that will be completed by a specific future time point.",
+                "ru": "Будущее совершенное длительное время образуется с помощью 'will have been' + причастие настоящего времени (-ing). Оно описывает продолжающиеся действия, которые будут завершены к определенному моменту в будущем.",
+                "uz": "Kelajak mukammal davomiy zamon 'will have been' + hozirgi zamon sifatdoshi (-ing) bilan hosil qilinadi. Bu ma'lum bir kelajak vaqtiga qadar davom etadigan harakatlarni ifodalaydi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The Thompson family is excited about their upcoming reunion next summer. By July, grandfather Tom ___1___ telling his famous stories to grandchildren for over forty years. The family tradition means that by the reunion date, grandmother Lucy ___2___ preparing her special recipes for family gatherings for nearly three decades. Their eldest son Michael mentioned that he ___3___ organizing these annual events for fifteen years by next summer. The youngest daughter Emma calculated that she ___4___ attending family reunions for her entire life of twenty-five years by then. Uncle Robert, the family photographer, realized that he ___5___ documenting these precious moments for two decades by the next gathering. Aunt Patricia's contribution is significant because she ___6___ coordinating travel arrangements for relatives for many years by July. The family historian noted that by summer, cousin David ___7___ researching the family tree for over a decade. Great-grandmother Rose, despite her age, proudly states that she ___8___ sharing family wisdom for more than sixty years by the reunion. The teenagers in the family joke that they ___9___ listening to the same stories for most of their lives by next July. Family friends have observed that the Thompsons ___10___ maintaining these beautiful traditions for generations by the upcoming celebration. The local community center manager confirmed that the family ___11___ booking the same venue for their reunions for twelve consecutive years by summer. Everyone agrees that by July, this loving family ___12___ creating unforgettable memories together for several decades.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous expresses actions that will continue up to a specific future point. The structure 'will have been' + -ing verb shows duration leading up to that future moment.",
+                "ru": "Будущее совершенное длительное время выражает действия, которые будут продолжаться до определенного момента в будущем. Структура 'will have been' + глагол с -ing показывает продолжительность до этого будущего момента.",
+                "uz": "Kelajak mukammal davomiy zamon ma'lum bir kelajak nuqtasigacha davom etadigan harakatlarni ifodalaydi. 'Will have been' + -ing fe'l tuzilishi o'sha kelajak momentigacha bo'lgan davomiylikni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The construction of the new community center represents a significant milestone for the neighborhood. When the grand opening ceremony takes place in eighteen months, the construction workers ___1___ building this facility for exactly two years. The project manager estimates that by completion, the architects ___2___ refining the building plans for over thirty months. Local residents are thrilled because by opening day, they ___3___ waiting for this community space for nearly five years. The mayor's office announced that by the ceremony, city planners ___4___ developing this project from initial concept to reality for four years. Environmental specialists confirmed that they ___5___ monitoring the construction's ecological impact for the entire duration of the project. By the time families start using the center, the landscaping team ___6___ designing and implementing the beautiful gardens for eight months. The interior design consultants mentioned that they ___7___ selecting appropriate furnishings and decorations for six months by opening day. Community volunteers are proud that they ___8___ fundraising for this project for over three years by the celebration. The electrical contractors calculated that they ___9___ installing complex lighting and sound systems for four months by completion. Local businesses revealed that they ___10___ supporting this community initiative financially for several years by the opening. The maintenance staff confirmed that they ___11___ preparing operational procedures for six months by the time the center becomes functional. Everyone in the neighborhood agrees that by opening day, this project ___12___ bringing people together in anticipation and excitement for many years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "This tense emphasizes the duration of ongoing activities that reach a completion point in the future. 'Will have been' + -ing demonstrates continuous action up to a specified future time.",
+                "ru": "Это время подчеркивает продолжительность текущих действий, которые достигают точки завершения в будущем. 'Will have been' + -ing демонстрирует непрерывное действие до указанного времени в будущем.",
+                "uz": "Bu zamon kelajakda tugatish nuqtasiga yetadigan davomiy faoliyatlarning davomiyligini ta'kidlaydi. 'Will have been' + -ing belgilangan kelajak vaqtigacha uzluksiz harakatni ko'rsatadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The prestigious International Music Festival is approaching its fifteenth anniversary next spring. By the opening concert, the festival director Maria ___1___ organizing this annual event for exactly fifteen years. The symphony orchestra members are excited because they ___2___ performing at this festival for over a decade by next spring. World-renowned conductor Alessandro mentioned that he ___3___ leading orchestras at this venue for eight consecutive years by the anniversary celebration. The festival's volunteer coordinator reported that dedicated volunteers ___4___ supporting the event for the entire fifteen-year history by next year. Local music students are grateful because they ___5___ receiving scholarships from the festival for many years by the anniversary. International musicians expressed appreciation that they ___6___ participating in this cultural exchange for most of the festival's existence by spring. The sound engineering team calculated that they ___7___ perfecting the acoustics in the main hall for seven years by the anniversary concert. Music critics noted that they ___8___ reviewing performances at this festival for over twelve years by next spring. The catering service proudly announced that they ___9___ providing meals for artists and guests for the festival's entire history by the celebration. Corporate sponsors confirmed that they ___10___ funding this important cultural event for more than ten years by the anniversary. The marketing team revealed that they ___11___ promoting the festival internationally for nine years by next spring. Everyone in the music community agrees that by the anniversary, this festival ___12___ enriching cultural life and inspiring musicians for a decade and a half.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "Future perfect continuous shows ongoing activities that will reach a milestone at a future date. The auxiliary verbs 'will have been' combined with the -ing form indicate continuous duration until that future point.",
+                "ru": "Будущее совершенное длительное время показывает продолжающиеся действия, которые достигнут важного момента в будущем. Вспомогательные глаголы 'will have been' в сочетании с формой -ing указывают на непрерывную продолжительность до этой будущей точки.",
+                "uz": "Kelajak mukammal davomiy zamon kelajak sanada muhim nuqtaga yetadigan davomiy faoliyatlarni ko'rsatadi. 'Will have been' yordamchi fe'llari -ing shakli bilan birgalikda o'sha kelajak nuqtagacha uzluksiz davomiylikni bildiradi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The research team at the university is preparing for a major breakthrough announcement next December. By that milestone moment, lead scientist Dr. Johnson ___1___ investigating climate change effects for twenty-five years. Her dedicated research assistant confirmed that the team ___2___ collecting environmental data from remote locations for over a decade by the announcement date. The laboratory technicians mentioned that they ___3___ analyzing ice core samples for eight consecutive years by December. Funding organizations are impressed because Dr. Johnson ___4___ securing research grants consistently for her entire career of fifteen years by the breakthrough. Graduate students feel privileged because they ___5___ learning from this renowned scientist for many years by the announcement. International collaborators noted that they ___6___ sharing crucial research findings with Dr. Johnson's team for most of the project duration by December. The university administration confirmed that they ___7___ supporting this groundbreaking research for over twelve years by the milestone moment. Environmental monitoring stations reported that they ___8___ transmitting data to the research team for the entire study period by next year. The scientific community acknowledged that Dr. Johnson ___9___ publishing influential papers on climate science for two decades by the announcement. Documentary filmmakers revealed that they ___10___ following the research team's work for five years by December. The peer review committee stated that they ___11___ evaluating the team's findings for eighteen months by the breakthrough announcement. Everyone in the scientific field agrees that by December, this research ___12___ contributing invaluable knowledge to understanding our planet for many years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "The future perfect continuous tense highlights the duration of actions that will continue until a specific future achievement or event. 'Will have been' + present participle emphasizes the ongoing nature leading to that future moment.",
+                "ru": "Будущее совершенное длительное время подчеркивает продолжительность действий, которые будут продолжаться до конкретного будущего достижения или события. 'Will have been' + причастие настоящего времени подчеркивает продолжающийся характер, ведущий к этому будущему моменту.",
+                "uz": "Kelajak mukammal davomiy zamon ma'lum bir kelajak yutuq yoki voqeagacha davom etadigan harakatlarning davomiyligini ta'kidlaydi. 'Will have been' + hozirgi zamon sifatdoshi o'sha kelajak momentiga olib boradigan davomiy xususiyatni ta'kidlaydi."
+            }
+        },
+        {
+            "id": "mgf6",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The small coastal town is celebrating its transformation into an eco-friendly destination next autumn. By the official green certification ceremony, the mayor ___1___ implementing sustainable practices for exactly six years. Local businesses are proud because they ___2___ adopting environmentally conscious operations for over half a decade by the celebration. The renewable energy company confirmed that they ___3___ providing clean electricity to the entire town for four years by the certification date. Environmental consultants mentioned that they ___4___ monitoring the town's carbon footprint reduction for the complete duration of the project by autumn. Recycling coordinators calculated that residents ___5___ participating in comprehensive waste management programs for five consecutive years by the ceremony. The sustainable tourism board noted that they ___6___ promoting eco-friendly travel experiences for most of the transformation period by next year. Local schools are excited because they ___7___ educating children about environmental responsibility for the entire initiative duration by the celebration. Organic farmers confirmed that they ___8___ supplying locally grown produce to restaurants and markets for over four years by autumn. The green building committee reported that they ___9___ retrofitting structures with energy-efficient technologies for three and a half years by certification. Wildlife conservation groups acknowledged that they ___10___ protecting coastal habitats for the complete transformation timeline by the ceremony. International environmental organizations stated that they ___11___ recognizing the town's efforts for two years by the official certification. Everyone agrees that by autumn, this community ___12___ demonstrating that small towns can lead significant environmental change for many years.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "2",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "3",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "4",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "5",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "6",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "7",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "8",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "9",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "10",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "11",
+                    "answer": "will have been"
+                },
+                {
+                    "blank": "12",
+                    "answer": "will have been"
+                }
+            ],
+            "explanation": {
+                "en": "This tense structure demonstrates continuous action that reaches completion at a future deadline. The pattern 'will have been' + -ing verb shows ongoing activities that culminate at a specific future event.",
+                "ru": "Эта структура времени демонстрирует непрерывное действие, которое достигает завершения к будущему сроку. Модель 'will have been' + глагол с -ing показывает продолжающиеся действия, которые culminируют в определенном будущем событии.",
+                "uz": "Bu zamon tuzilishi kelajak muddatda tugallanishga yetadigan uzluksiz harakatni ko'rsatadi. 'Will have been' + -ing fe'l namunasi ma'lum bir kelajak voqeada yakunlanadigan davomiy faoliyatlarni bildiradi."
+            }
+        }
+    ]
+}

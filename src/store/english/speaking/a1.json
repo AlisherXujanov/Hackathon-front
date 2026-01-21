@@ -1,0 +1,124 @@
+{
+  "topics": [
+    {
+      "id": "myself_family",
+      "title": "Myself and Family",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Personal Information",
+        "instructions": "The examiner will ask you general questions about yourself and your family.",
+        "questions": [
+          "Can you tell me your full name, please?",
+          "Where are you from?",
+          "Do you live with your family?",
+          "How many people are in your family?",
+          "What does your father/mother do for work?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a family member",
+        "cueCard": {
+          "title": "Describe a person in your family",
+          "description": "You should say:",
+          "points": [
+            "Who this person is",
+            "What they look like",
+            "What they like to do",
+            "And explain why this person is important to you"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Family and relationships",
+        "instructions": "Now I'd like to discuss some more general questions related to family.",
+        "questions": [
+          "Are families important in your country?",
+          "What activities do families do together in your country?",
+          "Do you think family meals are important?",
+          "How are families different now compared to the past?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about my mother, who is a very special person in my family. My mother is in her forties and has long black hair and kind brown eyes. She always smiles and makes everyone feel happy. She likes to cook delicious food for our family, and she also enjoys reading books in her free time. Sometimes she watches TV with us in the evening. My mother is very important to me because she always helps me when I have problems. She teaches me many things and always listens to me when I need to talk. She works very hard to take care of our family, and she always makes sure we are healthy and happy. I love my mother very much because she is kind, caring, and always there for me."
+      },
+      "assessmentCriteria": {
+        "fluencyCoherence": [
+          "Did I speak without too many long pauses?",
+          "Did I connect my ideas with simple linking words (and, but, because)?",
+          "Was my answer easy to follow?"
+        ],
+        "lexicalResource": [
+          "Did I use basic family vocabulary correctly?",
+          "Did I use simple adjectives to describe people?",
+          "Did I avoid repeating the same words too much?"
+        ],
+        "grammaticalRange": [
+          "Did I use simple present tense correctly?",
+          "Did I use basic sentence structures?",
+          "Were my sentences mostly correct?"
+        ],
+        "pronunciation": [
+          "Could people understand what I said?",
+          "Did I speak clearly?",
+          "Was my pace not too fast or too slow?"
+        ]
+      }
+    },
+    {
+      "id": "daily_routine",
+      "title": "Daily Routine and Activities",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Daily activities",
+        "instructions": "I'd like to ask you some questions about your daily routine.",
+        "questions": [
+          "What time do you usually get up?",
+          "What do you do in the morning?",
+          "Do you have breakfast every day?",
+          "How do you go to work or school?",
+          "What time do you go to bed?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe your typical day",
+        "cueCard": {
+          "title": "Describe a typical day in your life",
+          "description": "You should say:",
+          "points": [
+            "What time you wake up",
+            "What you do during the day",
+            "What you do in the evening",
+            "And explain what you like most about your day"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Work and daily life",
+        "instructions": "Let's talk about daily routines and work in general.",
+        "questions": [
+          "Do you think having a routine is important?",
+          "What are the benefits of getting up early?",
+          "How do people's daily routines differ in your country?",
+          "Do you think work-life balance is important?"
+        ]
+      }
+    }
+  ],
+  "totalTopics": 2
+}

@@ -1,0 +1,532 @@
+{
+  "id": "A1_PRESENT_SIMPLE_BE_HAVE_DO_BASIC_FORMS_AND_STATEMENTS",
+  "title": "Present Simple (be, have, do) - Basic forms and statements",
+  "items": [
+    {
+      "id": "mc1",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "She have a cat." },
+        { "answer": "She has a cat.", "correct": true },
+        { "answer": "She are a cat." }
+      ],
+      "explanation": {
+        "en": "Use 'has' with third person singular (she, he, it)",
+        "ru": "Используйте 'has' с третьим лицом единственного числа (he, she, it)",
+        "uz": "(He, She, It) 3-chi shaxslar uchun 'has' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc2",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I am student." },
+        { "answer": "I am a student.", "correct": true },
+        { "answer": "I be a student." }
+      ],
+      "explanation": {
+        "en": "Use 'am' with 'I' and include the article 'a' before singular countable nouns",
+        "ru": "Используйте 'am' с 'I' и добавляйте артикль 'a' перед исчисляемыми существительными в единственном числе",
+        "uz": "'I' bilan 'am' ishlating va birlikdagi sanaladigan otlar oldidan 'a' artiklini qo'shing"
+      }
+    },
+    {
+      "id": "mc3",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "They does homework every day." },
+        { "answer": "They do homework every day.", "correct": true },
+        { "answer": "They be homework every day." }
+      ],
+      "explanation": {
+        "en": "Use 'do' with plural subjects (they, we) and first person (I)",
+        "ru": "Используйте 'do' с множественным подлежащим (they, we) и с первым лицом (I)",
+        "uz": "Ko‘plikdagi ega (they, we) va birinchi shaxs (I) bilan 'do' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc4",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "My brother are tall." },
+        { "answer": "My brother is tall.", "correct": true },
+        { "answer": "My brother am tall." }
+      ],
+      "explanation": {
+        "en": "Use 'is' with third person singular subjects",
+        "ru": "Используйте 'is' с подлежащим в третьем лице единственного числа",
+        "uz": "Uchinchi shaxs birlikdagi ega bilan 'is' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc5",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "We has two dogs." },
+        { "answer": "We have two dogs.", "correct": true },
+        { "answer": "We is two dogs." }
+      ],
+      "explanation": {
+        "en": "Use 'have' with plural subjects (we, they) and first person (I)",
+        "ru": "Используйте 'have' с множественным подлежащим (we, they) и с первым лицом (I)",
+        "uz": "Ko‘plikdagi ega (we, they) va birinchi shaxs (I) bilan 'have' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc6",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "You is my friend." },
+        { "answer": "You are my friend.", "correct": true },
+        { "answer": "You am my friend." }
+      ],
+      "explanation": {
+        "en": "Use 'are' with 'you' (both singular and plural)",
+        "ru": "Используйте 'are' с 'you' (в единственном и во множественном числе)",
+        "uz": "'you' bilan 'are' ishlatiladi (yakka va ko‘plikda ham)"
+      }
+    },
+    {
+      "id": "mc7",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "He do his work well." },
+        { "answer": "He does his work well.", "correct": true },
+        { "answer": "He are his work well." }
+      ],
+      "explanation": {
+        "en": "Use 'does' with third person singular (he, she, it)",
+        "ru": "Используйте 'does' с третьим лицом единственного числа (he, she, it)",
+        "uz": "(He, She, It) 3-chi shaxs birlik bilan 'does' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc8",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "The children is happy." },
+        { "answer": "The children are happy.", "correct": true },
+        { "answer": "The children am happy." }
+      ],
+      "explanation": {
+        "en": "Use 'are' with plural subjects like 'children'",
+        "ru": "Используйте 'are' с множественным подлежащим, например 'children'",
+        "uz": "'children' kabi ko‘plikdagi egalar bilan 'are' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc9",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "It have four legs." },
+        { "answer": "It has four legs.", "correct": true },
+        { "answer": "It are four legs." }
+      ],
+      "explanation": {
+        "en": "Use 'has' with third person singular including 'it'",
+        "ru": "Используйте 'has' с третьим лицом единственного числа, включая 'it'",
+        "uz": "'it'ni ham o‘z ichiga olgan uchinchi shaxs birlik bilan 'has' ishlatiladi"
+      }
+    },
+    {
+      "id": "mc10",
+      "type": "multiple_choice",
+      "question": {
+        "en": "Choose the correct sentence.",
+        "ru": "Выберите правильное предложение.",
+        "uz": "To'g'ri gapni tanlang."
+      },
+      "options": [
+        { "answer": "I does my best." },
+        { "answer": "I do my best.", "correct": true },
+        { "answer": "I has my best." }
+      ],
+      "explanation": {
+        "en": "Use 'do' with first person singular 'I'",
+        "ru": "Используйте 'do' с первым лицом единственного числа 'I'",
+        "uz": "Birinchi shaxs birlik 'I' bilan 'do' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa1",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'be': I ___ a teacher.",
+        "ru": "Дополните предложение правильной формой 'be': I ___ a teacher.",
+        "uz": "'be' ning to'g'ri shakli bilan gapni tugallang: I ___ a teacher."
+      },
+      "options": [
+        { "answer": "am", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'am' with first person singular 'I'",
+        "ru": "Используйте 'am' с первым лицом единственного числа 'I'",
+        "uz": "Birinchi shaxs birlik 'I' bilan 'am' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa2",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'have': She ___ a red car.",
+        "ru": "Дополните предложение правильной формой 'have': She ___ a red car.",
+        "uz": "'have' ning to'g'ri shakli bilan gapni tugallang: She ___ a red car."
+      },
+      "options": [
+        { "answer": "has", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'has' with third person singular subjects",
+        "ru": "Используйте 'has' с подлежащим в третьем лице единственного числа",
+        "uz": "Uchinchi shaxs birlikdagi ega bilan 'has' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa3",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'do': They ___ their homework.",
+        "ru": "Дополните предложение правильной формой 'do': They ___ their homework.",
+        "uz": "'do' ning to'g'ri shakli bilan gapni tugallang: They ___ their homework."
+      },
+      "options": [
+        { "answer": "do", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'do' with plural subjects",
+        "ru": "Используйте 'do' с множественным подлежащим",
+        "uz": "Ko‘plikdagi ega bilan 'do' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa4",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'be': You ___ very kind.",
+        "ru": "Дополните предложение правильной формой 'be': You ___ very kind.",
+        "uz": "'be' ning to'g'ri shakli bilan gapni tugallang: You ___ very kind."
+      },
+      "options": [
+        { "answer": "are", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'are' with 'you'",
+        "ru": "Используйте 'are' с 'you'",
+        "uz": "'you' bilan 'are' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa5",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'have': We ___ many books.",
+        "ru": "Дополните предложение правильной формой 'have': We ___ many books.",
+        "uz": "'have' ning to'g'ri shakli bilan gapni tugallang: We ___ many books."
+      },
+      "options": [
+        { "answer": "have", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'have' with first person plural 'we'",
+        "ru": "Используйте 'have' с первым лицом множественного числа 'we'",
+        "uz": "Birinchi shaxs ko‘plik 'we' bilan 'have' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa6",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'be': The cat ___ sleeping.",
+        "ru": "Дополните предложение правильной формой 'be': The cat ___ sleeping.",
+        "uz": "'be' ning to'g'ri shakli bilan gapni tugallang: The cat ___ sleeping."
+      },
+      "options": [
+        { "answer": "is", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'is' with third person singular subjects",
+        "ru": "Используйте 'is' с подлежащим в третьем лице единственного числа",
+        "uz": "Uchinchi shaxs birlikdagi ega bilan 'is' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa7",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'do': My sister ___ yoga every morning.",
+        "ru": "Дополните предложение правильной формой 'do': My sister ___ yoga every morning.",
+        "uz": "'do' ning to'g'ri shakli bilan gapni tugallang: My sister ___ yoga every morning."
+      },
+      "options": [
+        { "answer": "does", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'does' with third person singular subjects",
+        "ru": "Используйте 'does' с подлежащим в третьем лице единственного числа",
+        "uz": "Uchinchi shaxs birlikdagi ega bilan 'does' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa8",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'have': You ___ beautiful eyes.",
+        "ru": "Дополните предложение правильной формой 'have': You ___ beautiful eyes.",
+        "uz": "'have' ning to'g'ri shakli bilan gapni tugallang: You ___ beautiful eyes."
+      },
+      "options": [
+        { "answer": "have", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'have' with 'you'",
+        "ru": "Используйте 'have' с 'you'",
+        "uz": "'you' bilan 'have' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa9",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'be': My parents ___ doctors.",
+        "ru": "Дополните предложение правильной формой 'be': My parents ___ doctors.",
+        "uz": "'be' ning to'g'ri shakli bilan gapni tugallang: My parents ___ doctors."
+      },
+      "options": [
+        { "answer": "are", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'are' with plural subjects",
+        "ru": "Используйте 'are' с множественным подлежащим",
+        "uz": "Ko‘plikdagi ega bilan 'are' ishlatiladi"
+      }
+    },
+    {
+      "id": "sa10",
+      "type": "short_answer",
+      "prompt": {
+        "en": "Complete the sentence with the correct form of 'do': I ___ my work carefully.",
+        "ru": "Дополните предложение правильной формой 'do': I ___ my work carefully.",
+        "uz": "'do' ning to'g'ri shakli bilan gapni tugallang: I ___ my work carefully."
+      },
+      "options": [
+        { "answer": "do", "correct": true }
+      ],
+      "explanation": {
+        "en": "Use 'do' with first person singular 'I'",
+        "ru": "Используйте 'do' с первым лицом единственного числа 'I'",
+        "uz": "Birinchi shaxs birlik 'I' bilan 'do' ishlatiladi"
+      }
+    },
+    {
+      "id": "mgf1",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct forms of be, have, and do.",
+        "ru": "Заполните пропуски правильными формами be, have и do.",
+        "uz": "Be, have va do ning to'g'ri shakllari bilan bo'shliqlarni to'ldiring."
+      },
+      "text": "My name ___1___ Sarah and I ___2___ twenty years old. I ___3___ a student at the university where I ___4___ English literature. Every day I ___5___ to classes and I ___6___ my homework in the evening. My roommate ___7___ Emma and she ___8___ very friendly. She ___9___ long brown hair and green eyes. Emma ___10___ medicine and she ___11___ very hard every day. We ___12___ good friends and we ___13___ many things together. On weekends, we ___14___ shopping or we ___15___ to the movies. Life at university ___16___ exciting and we ___17___ many new experiences every semester.",
+      "answers": [
+        { "blank": "1", "answer": "is" },
+        { "blank": "2", "answer": "am" },
+        { "blank": "3", "answer": "am" },
+        { "blank": "4", "answer": "do/study" },
+        { "blank": "5", "answer": "go" },
+        { "blank": "6", "answer": "do" },
+        { "blank": "7", "answer": "is" },
+        { "blank": "8", "answer": "is" },
+        { "blank": "9", "answer": "has" },
+        { "blank": "10", "answer": "does/studies" },
+        { "blank": "11", "answer": "works" },
+        { "blank": "12", "answer": "are" },
+        { "blank": "13", "answer": "do" },
+        { "blank": "14", "answer": "go" },
+        { "blank": "15", "answer": "go" },
+        { "blank": "16", "answer": "is" },
+        { "blank": "17", "answer": "have" }
+      ],
+      "explanation": {
+        "en": "Remember: use 'am' with 'I', 'is' with he/she/it, 'are' with you/we/they. Use 'has' with he/she/it, 'have' with all others. Use 'does' with he/she/it, 'do' with all others.",
+        "ru": "Помните: используйте 'am' с 'I', 'is' с he/she/it, 'are' с you/we/they. Используйте 'has' с he/she/it, 'have' — со всеми остальными. Используйте 'does' с he/she/it, 'do' — со всеми остальными.",
+        "uz": "Eslab qoling: 'I' bilan 'am', he/she/it bilan 'is', you/we/they bilan 'are' ishlatiladi. he/she/it bilan 'has', boshqalar bilan 'have' ishlatiladi. he/she/it bilan 'does', boshqalar bilan 'do' ishlatiladi."
+      }
+    },
+    {
+      "id": "mgf2",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct forms of be, have, and do.",
+        "ru": "Заполните пропуски правильными формами be, have и do.",
+        "uz": "Be, have va do ning to'g'ri shakllari bilan bo'shliqlarni to'ldiring."
+      },
+      "text": "Tom ___1___ a good student and he ___2___ excellent grades in all his subjects. He ___3___ mathematics at the local college where he ___4___ also part of the chess club. Tom ___5___ very intelligent and he ___6___ his assignments on time every week. His friends ___7___ impressed by his dedication because he ___8___ studying even on weekends. Tom's parents ___9___ very proud of him and they ___10___ him with his projects whenever he needs help. The family ___11___ dinner together every evening and they ___12___ about their day. Tom's sister ___13___ younger than him and she ___14___ piano lessons twice a week. She ___15___ very talented and she ___16___ beautiful music for the whole family to enjoy.",
+      "answers": [
+        { "blank": "1", "answer": "is" },
+        { "blank": "2", "answer": "has" },
+        { "blank": "3", "answer": "studies/does" },
+        { "blank": "4", "answer": "is" },
+        { "blank": "5", "answer": "is" },
+        { "blank": "6", "answer": "does" },
+        { "blank": "7", "answer": "are" },
+        { "blank": "8", "answer": "does" },
+        { "blank": "9", "answer": "are" },
+        { "blank": "10", "answer": "help" },
+        { "blank": "11", "answer": "has/have" },
+        { "blank": "12", "answer": "talk" },
+        { "blank": "13", "answer": "is" },
+        { "blank": "14", "answer": "has/takes" },
+        { "blank": "15", "answer": "is" },
+        { "blank": "16", "answer": "plays" }
+      ],
+      "explanation": {
+        "en": "Pay attention to subject-verb agreement: singular subjects take 'is/has/does', plural subjects take 'are/have/do'",
+        "ru": "Соблюдайте согласование подлежащего и сказуемого: единственное число — 'is/has/does', множественное число — 'are/have/do'",
+        "uz": "Ega va kesim mosligini unutmang: birlikdagi ega — 'is/has/does', ko‘plikdagi ega — 'are/have/do'"
+      }
+    },
+    {
+      "id": "mgf3",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct forms of be, have, and do.",
+        "ru": "Заполните пропуски правильными формами be, have и do.",
+        "uz": "Be, have va do ning to'g'ri shakllari bilan bo'shliqlarni to'ldiring."
+      },
+      "text": "My family ___1___ quite large and we ___2___ many traditions that we follow every year. My grandmother ___3___ the oldest member and she ___4___ wonderful stories about her childhood. She ___5___ cooking for the whole family and she ___6___ special recipes that she learned from her mother. My father ___7___ a doctor and he ___8___ very busy with his work, but he always ___9___ time for us. My mother ___10___ a teacher and she ___11___ at the elementary school in our neighborhood. She ___12___ very patient with children and she ___13___ her job. We ___14___ family dinners every Sunday where everyone ___15___ together and we ___16___ our news and experiences from the week.",
+      "answers": [
+        { "blank": "1", "answer": "is" },
+        { "blank": "2", "answer": "have" },
+        { "blank": "3", "answer": "is" },
+        { "blank": "4", "answer": "has" },
+        { "blank": "5", "answer": "does" },
+        { "blank": "6", "answer": "has" },
+        { "blank": "7", "answer": "is" },
+        { "blank": "8", "answer": "is" },
+        { "blank": "9", "answer": "has" },
+        { "blank": "10", "answer": "is" },
+        { "blank": "11", "answer": "works" },
+        { "blank": "12", "answer": "is" },
+        { "blank": "13", "answer": "does" },
+        { "blank": "14", "answer": "have" },
+        { "blank": "15", "answer": "is/gets" },
+        { "blank": "16", "answer": "share" }
+      ],
+      "explanation": {
+        "en": "Remember the basic patterns: I am/have/do, you are/have/do, he/she/it is/has/does, we/they are/have/do",
+        "ru": "Запомните базовые модели: I am/have/do, you are/have/do, he/she/it is/has/does, we/they are/have/do",
+        "uz": "Asosiy qoliplarni yodda saqlang: I am/have/do, you are/have/do, he/she/it is/has/does, we/they are/have/do"
+      }
+    },
+    {
+      "id": "mgf4",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct forms of be, have, and do.",
+        "ru": "Заполните пропуски правильными формами be, have и do.",
+        "uz": "Be, have va do ning to'g'ri shakllari bilan bo'shliqlarni to'ldiring."
+      },
+      "text": "The weather today ___1___ beautiful and sunny. I ___2___ plans to go to the park with my friends because we ___3___ a picnic planned for this afternoon. My friend Lisa ___4___ bringing sandwiches and she ___5___ very good at making them. Another friend, Mike, ___6___ responsible for drinks and he always ___7___ the best choices. We ___8___ excited about spending time outdoors because we ___9___ been inside too much lately. The park ___10___ many walking trails and it ___11___ a beautiful lake where people ___12___ boating. Children ___13___ playing on the playground and their parents ___14___ watching them carefully. Everyone ___15___ to ___16___ having a wonderful time in such perfect weather conditions.",
+      "answers": [
+        { "blank": "1", "answer": "is" },
+        { "blank": "2", "answer": "have" },
+        { "blank": "3", "answer": "have" },
+        { "blank": "4", "answer": "is" },
+        { "blank": "5", "answer": "is" },
+        { "blank": "6", "answer": "is" },
+        { "blank": "7", "answer": "has" },
+        { "blank": "8", "answer": "are" },
+        { "blank": "9", "answer": "have" },
+        { "blank": "10", "answer": "has" },
+        { "blank": "11", "answer": "has" },
+        { "blank": "12", "answer": "do/go" },
+        { "blank": "13", "answer": "are" },
+        { "blank": "14", "answer": "are" },
+        { "blank": "15", "answer": "seems" },
+        { "blank": "16", "answer": "be" }
+      ],
+      "explanation": {
+        "en": "Context helps determine the correct verb form - always consider what makes sense grammatically and logically",
+        "ru": "Контекст помогает определить правильную форму глагола — всегда учитывайте грамматику и логику высказывания",
+        "uz": "Kontekst to‘g‘ri fe’l shaklini tanlashga yordam beradi — har doim grammatik va mantiqiy jihatdan ma’noli variantni tanlang"
+      }
+    },
+    {
+      "id": "mgf5",
+      "type": "multiple_gap_filling",
+      "prompt": {
+        "en": "Fill in the blanks with the correct forms of be, have, and do.",
+        "ru": "Заполните пропуски правильными формами be, have и do.",
+        "uz": "Be, have va do ning to'g'ri shakllari bilan bo'shliqlarni to'ldiring."
+      },
+      "text": "My school ___1___ very modern and it ___2___ excellent facilities for students. The library ___3___ thousands of books and students ___4___ their research there every day. The teachers ___5___ very helpful and they ___6___ extra time to help students who need it. My favorite teacher ___7___ Mrs. Johnson and she ___8___ English literature. She ___9___ very enthusiastic about her subject and she ___10___ interesting activities in class. The cafeteria ___11___ good food and the staff ___12___ friendly to everyone. Students ___13___ many clubs to choose from and they ___14___ opportunities to develop their interests. The school ___15___ proud of its students and everyone ___16___ their best to create a positive learning environment.",
+      "answers": [
+        { "blank": "1", "answer": "is" },
+        { "blank": "2", "answer": "has" },
+        { "blank": "3", "answer": "has" },
+        { "blank": "4", "answer": "do" },
+        { "blank": "5", "answer": "are" },
+        { "blank": "6", "answer": "have" },
+        { "blank": "7", "answer": "is" },
+        { "blank": "8", "answer": "does/teaches" },
+        { "blank": "9", "answer": "is" },
+        { "blank": "10", "answer": "does" },
+        { "blank": "11", "answer": "has" },
+        { "blank": "12", "answer": "are/is" },
+        { "blank": "13", "answer": "have" },
+        { "blank": "14", "answer": "have" },
+        { "blank": "15", "answer": "is" },
+        { "blank": "16", "answer": "does" }
+      ],
+      "explanation": {
+        "en": "Collective nouns like 'school', 'staff' can be tricky - focus on whether they refer to the institution (singular) or the people (plural)",
+        "ru": "Собирательные существительные, такие как 'school', 'staff', могут быть сложными — смотрите, идут ли они об учреждении (единственное число) или о людях (множественное число)",
+        "uz": "'school', 'staff' kabi jamlovchi otlar chalkash bo‘lishi mumkin — ular muassasani (yakka)mi yoki odamlarnimi (ko‘plik) bildirayotganiga e’tibor bering"
+      }
+    }
+  ]
+}

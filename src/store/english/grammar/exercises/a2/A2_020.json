@@ -1,0 +1,871 @@
+{
+    "id": "A2_THERE_IS_ARE_EXTENDED_USES_AND_CONTEXTS",
+    "title": "There is/are - Extended uses and contexts",
+    "items": [
+        {
+            "id": "mc1",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is many books on the shelf.",
+                    "correct": false
+                },
+                {
+                    "answer": "There are a new student in the class.",
+                    "correct": false
+                },
+                {
+                    "answer": "There are some apples in the basket.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'there are' is used with plural nouns, such as 'apples'. 'There is' is for singular nouns.",
+                "ru": "Фраза 'there are' используется с существительными во множественном числе, например, 'apples'. 'There is' — для единственного числа.",
+                "uz": "'There are' iborasi ko'plikdagi otlar bilan, masalan, 'apples' bilan ishlatiladi. 'There is' esa birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc2",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is any problems with the new system.",
+                    "correct": false
+                },
+                {
+                    "answer": "Is there a good reason for this?",
+                    "correct": true
+                },
+                {
+                    "answer": "Are there a big dog in the park?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In questions, the verb 'is' comes before 'there' for singular nouns, and 'are' comes before 'there' for plural nouns.",
+                "ru": "В вопросах глагол 'is' ставится перед 'there' для существительных в единственном числе, а 'are' — для множественного.",
+                "uz": "Savollarda 'is' fe'li birlikdagi otlardan oldin, 'are' esa ko'plikdagi otlardan oldin ishlatiladi."
+            }
+        },
+        {
+            "id": "mc3",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There is a lot of information on the internet.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are a lot of information on the internet.",
+                    "correct": false
+                },
+                {
+                    "answer": "Are there a lot of information on the internet?",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'information' is an uncountable noun, which requires the singular verb 'is' with 'there is'.",
+                "ru": "Слово 'information' — это неисчисляемое существительное, которое требует глагола 'is' в единственном числе после 'there is'.",
+                "uz": "'Information' so'zi sanalmaydigan ot bo'lib, 'there is' iborasidan keyin birlik fe'lini talab qiladi."
+            }
+        },
+        {
+            "id": "mc4",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There were a lot of people at the party.",
+                    "correct": true
+                },
+                {
+                    "answer": "There was a lot of people at the party.",
+                    "correct": false
+                },
+                {
+                    "answer": "There are a lot of people at the party, yesterday.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "In the past tense, 'there were' is used with plural nouns like 'people'. 'There was' is for singular nouns.",
+                "ru": "В прошедшем времени 'there were' используется с существительными во множественном числе, такими как 'people'. 'There was' — для единственного числа.",
+                "uz": "O'tgan zamonda 'there were' ko'plikdagi otlar, masalan, 'people' bilan ishlatiladi. 'There was' birlikdagi otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc5",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There is no milk left in the fridge.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are no milk left in the fridge.",
+                    "correct": false
+                },
+                {
+                    "answer": "There have no milk left in the fridge.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'milk' is uncountable, so it requires the singular form 'there is'. The word 'no' is used to create a negative statement.",
+                "ru": "Существительное 'milk' — неисчисляемое, поэтому оно требует единственной формы 'there is'. Слово 'no' используется для создания отрицательного утверждения.",
+                "uz": "'Milk' so'zi sanalmaydigan ot bo'lgani uchun 'there is'ning birlik shaklini talab qiladi. 'No' so'zi inkor gapni hosil qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "mc6",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "Is there some money on the table?",
+                    "correct": false
+                },
+                {
+                    "answer": "Are there some money on the table?",
+                    "correct": false
+                },
+                {
+                    "answer": "Is there any money on the table?",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'money' is uncountable, so 'is there' is used for a question. 'Any' is the correct word for a question about quantity.",
+                "ru": "Существительное 'money' — неисчисляемое, поэтому для вопроса используется 'is there'. 'Any' — правильное слово для вопроса о количестве.",
+                "uz": "'Money' so'zi sanalmaydigan ot, shuning uchun savolda 'is there' ishlatiladi. 'Any' miqdor haqidagi savolda to'g'ri so'z hisoblanadi."
+            }
+        },
+        {
+            "id": "mc7",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There seems to be an issue.",
+                    "correct": true
+                },
+                {
+                    "answer": "There seem to be an issue.",
+                    "correct": false
+                },
+                {
+                    "answer": "There are seem to be an issue.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The verb 'seems' agrees with the singular noun phrase 'an issue' that follows 'to be'.",
+                "ru": "Глагол 'seems' согласуется с существительным в единственном числе 'an issue', которое следует за 'to be'.",
+                "uz": "'Seems' fe'li 'to be'dan keyin keluvchi 'an issue' birlik ot so'zi bilan mos keladi."
+            }
+        },
+        {
+            "id": "mc8",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There's a lot of things to do.",
+                    "correct": false
+                },
+                {
+                    "answer": "There's a lot of work to do.",
+                    "correct": true
+                },
+                {
+                    "answer": "There are a lot of work to do.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The contraction 'There's' is used with the uncountable noun 'work'. The plural noun 'things' would require 'There are'.",
+                "ru": "Сокращение 'There's' используется с неисчисляемым существительным 'work'. Множественное число 'things' потребовало бы 'There are'.",
+                "uz": "'There's' qisqartmasi 'work' sanalmaydigan oti bilan ishlatiladi. 'Things' ko'plik ot uchun esa 'There are' talab qilinadi."
+            }
+        },
+        {
+            "id": "mc9",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Which sentence is grammatically correct?",
+                "ru": "Какое предложение грамматически верное?",
+                "uz": "Qaysi gap grammatik jihatdan to'g'ri?"
+            },
+            "options": [
+                {
+                    "answer": "There must be a mistake in the calculations.",
+                    "correct": true
+                },
+                {
+                    "answer": "There must are a mistake in the calculations.",
+                    "correct": false
+                },
+                {
+                    "answer": "There must be many mistake in the calculations.",
+                    "correct": false
+                }
+            ],
+            "explanation": {
+                "en": "The modal verb 'must' is followed by the base form of the verb 'be'. 'A mistake' is a singular noun.",
+                "ru": "Модальный глагол 'must' следует за основной формой глагола 'be'. 'A mistake' — существительное в единственном числе.",
+                "uz": "'Must' modal fe'lidan keyin 'be' fe'lining asosiy shakli keladi. 'A mistake' esa birlik otidir."
+            }
+        },
+        {
+            "id": "mc10",
+            "type": "multiple_choice",
+            "question": {
+                "en": "Choose the correct sentence.",
+                "ru": "Выберите правильное предложение.",
+                "uz": "To'g'ri gapni tanlang."
+            },
+            "options": [
+                {
+                    "answer": "There is a dog and two cats in the garden.",
+                    "correct": false
+                },
+                {
+                    "answer": "There am a dog and two cats in the garden.",
+                    "correct": false
+                },
+                {
+                    "answer": "There is a dog and there are two cats in the garden.",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "When listing a singular and plural noun, you can use 'there is' for the singular noun and 'there are' for the plural noun.",
+                "ru": "При перечислении существительного в единственном числе и во множественном числе можно использовать 'there is' для единственного и 'there are' для множественного.",
+                "uz": "Birlikdagi va ko'plikdagi otlarni sanab o'tganda, birlik ot uchun 'there is' va ko'plik ot uchun 'there are' ishlatish mumkin."
+            }
+        },
+        {
+            "id": "sa1",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the verb: There ___ (be) a lot of noise outside last night.",
+                "ru": "Дополните предложение правильной формой глагола: There ___ (be) a lot of noise outside last night.",
+                "uz": "Gapni fe'lning to'g'ri shakli bilan to'ldiring: There ___ (be) a lot of noise outside last night."
+            },
+            "options": [
+                {
+                    "answer": "was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'noise' is an uncountable noun. In the past tense, 'there was' is used for singular and uncountable nouns.",
+                "ru": "Слово 'noise' — неисчисляемое существительное. В прошедшем времени 'there was' используется для единственного числа и неисчисляемых существительных.",
+                "uz": "'Noise' so'zi sanalmaydigan ot. O'tgan zamonda 'there was' birlik va sanalmaydigan otlar uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa2",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct form of the verb: ____ there any problems with the project?",
+                "ru": "Дополните предложение правильной формой глагола: ____ there any problems with the project?",
+                "uz": "Gapni fe'lning to'g'ri shakli bilan to'ldiring: ____ there any problems with the project?"
+            },
+            "options": [
+                {
+                    "answer": "Are",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'problems' is a plural noun, so the verb 'are' is used in the question form.",
+                "ru": "Слово 'problems' — существительное во множественном числе, поэтому в вопросительной форме используется глагол 'are'.",
+                "uz": "'Problems' so'zi ko'plik ot bo'lgani uchun savol shaklida 'are' fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa3",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct word: There is ___ (tr..f.c) on the street because of the accident.",
+                "ru": "Дополните предложение правильным словом: There is ___ (tr..f.c) on the street because of the accident.",
+                "uz": "Gapni to'g'ri so'z bilan to'ldiring: There is ___ (tr..f.c) on the street because of the accident."
+            },
+            "options": [
+                {
+                    "answer": "traffic",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The uncountable noun 'traffic' follows the singular verb phrase 'there is'. This indicates a mass of cars.",
+                "ru": "Неисчисляемое существительное 'traffic' следует за фразой с глаголом в единственном числе 'there is'. Это указывает на скопление автомобилей.",
+                "uz": "Sanalmaydigan 'traffic' oti birlik fe'l 'there is' iborasidan keyin keladi. Bu ko'p sonli mashinalarni bildiradi."
+            }
+        },
+        {
+            "id": "sa4",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There ___ a great new restaurant downtown.",
+                "ru": "Дополните предложение: There ___ a great new restaurant downtown.",
+                "uz": "Gapni to'ldiring: There ___ a great new restaurant downtown."
+            },
+            "options": [
+                {
+                    "answer": "is/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'restaurant' is singular, so the verb 'is' is used with 'there is'.",
+                "ru": "Слово 'restaurant' — существительное в единственном числе, поэтому с 'there is' используется глагол 'is'.",
+                "uz": "'Restaurant' so'zi birlikda bo'lgani uchun 'there is' bilan 'is' fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa5",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There ___ no good reason to be late.",
+                "ru": "Дополните предложение: There ___ no good reason to be late.",
+                "uz": "Gapni to'ldiring: There ___ no good reason to be late."
+            },
+            "options": [
+                {
+                    "answer": "is/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'reason' is singular, which requires the singular verb 'is'. 'No' is used to form the negative phrase 'no good reason'.",
+                "ru": "Слово 'reason' — существительное в единственном числе, которое требует глагола 'is'. 'No' используется для образования отрицательной фразы 'no good reason'.",
+                "uz": "'Reason' so'zi birlikda bo'lgani uchun birlik fe'li 'is' talab qilinadi. 'No' 'no good reason' inkor iborasini hosil qilish uchun ishlatiladi."
+            }
+        },
+        {
+            "id": "sa6",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There ___ a lot of places to visit in this city.",
+                "ru": "Дополните предложение: There ___ a lot of places to visit in this city.",
+                "uz": "Gapni to'ldiring: There ___ a lot of places to visit in this city."
+            },
+            "options": [
+                {
+                    "answer": "are/were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'places' is a plural countable noun, so the verb 'are' is used with 'there are'.",
+                "ru": "Слово 'places' — существительное во множественном числе, поэтому с 'there are' используется глагол 'are'.",
+                "uz": "'Places' so'zi ko'plik sanaladigan ot bo'lgani uchun 'there are' bilan 'are' fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "sa7",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence with the correct word: How many chairs ___ there in the room?",
+                "ru": "Дополните предложение правильным словом: How many chairs ___ there in the room?",
+                "uz": "Gapni to'g'ri so'z bilan to'ldiring: How many chairs ___ there in the room?"
+            },
+            "options": [
+                {
+                    "answer": "are/were",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun 'chairs' is a plural countable noun, so the verb 'are' is used in the question form with 'how many'.",
+                "ru": "Слово 'chairs' — существительное во множественном числе, поэтому глагол 'are' используется в вопросительной форме с 'how many'.",
+                "uz": "'Chairs' so'zi ko'plik sanaladigan ot bo'lgani uchun savol shaklida 'are' fe'li 'how many' bilan ishlatiladi."
+            }
+        },
+        {
+            "id": "sa8",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There ___ only one way to solve this problem.",
+                "ru": "Дополните предложение: There ___ only one way to solve this problem.",
+                "uz": "Gapni to'ldiring: There ___ only one way to solve this problem."
+            },
+            "options": [
+                {
+                    "answer": "is/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The phrase 'one way' is a singular noun phrase, which requires the singular verb 'is'.",
+                "ru": "Фраза 'one way' — существительное в единственном числе, которое требует глагола 'is' в единственном числе.",
+                "uz": "'One way' iborasi birlik ot iborasi bo'lib, birlik fe'li 'is' talab qiladi."
+            }
+        },
+        {
+            "id": "sa9",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: ___ there anything I can do to help?",
+                "ru": "Дополните предложение: ___ there anything I can do to help?",
+                "uz": "Gapni to'ldiring: ___ there anything I can do to help?"
+            },
+            "options": [
+                {
+                    "answer": "Is/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The indefinite pronoun 'anything' is treated as singular, so 'is' is used in the question.",
+                "ru": "Неопределенное местоимение 'anything' рассматривается как единственное число, поэтому в вопросе используется 'is'.",
+                "uz": "Noaniq 'anything' olmoshi birlik hisoblanadi, shuning uchun savolda 'is' ishlatiladi."
+            }
+        },
+        {
+            "id": "sa10",
+            "type": "short_answer",
+            "prompt": {
+                "en": "Complete the sentence: There ___ a strong wind blowing outside.",
+                "ru": "Дополните предложение: There ___ a strong wind blowing outside.",
+                "uz": "Gapni to'ldiring: There ___ a strong wind blowing outside."
+            },
+            "options": [
+                {
+                    "answer": "is/was",
+                    "correct": true
+                }
+            ],
+            "explanation": {
+                "en": "The noun phrase 'a strong wind' is singular, so the verb 'is' is used.",
+                "ru": "Существительная фраза 'a strong wind' — в единственном числе, поэтому используется глагол 'is'.",
+                "uz": "'A strong wind' ot iborasi birlik bo'lgani uchun 'is' fe'li ishlatiladi."
+            }
+        },
+        {
+            "id": "mgf1",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The city library is a very peaceful place, and ___1___ usually very quiet. ___2___ are many books, both fiction and non-fiction, on the tall shelves. If you go to the children's section, you'll see ___3___ are a lot of toys and coloring books for the kids. In the reference section, ___4___ is a special computer for searching the catalog. I'm not sure, but ___5___ might be a new collection of historical documents coming soon. I heard ___6___ a meeting about it last week. ___7___ also a large reading area with comfortable chairs. ___8___ there any newspapers available to read? Yes, ___9___ are, and ___10___ always a lot of people reading them. I think ___11___ could be a good idea to add more computers for students. ___12___ seems to be enough space to do so. ___13___ any new magazines this month? ___14___ are. Actually, ___15___ is a new one on gardening.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "it's/it is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "there"
+                },
+                {
+                    "blank": "4",
+                    "answer": "there"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there's/there was"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there"
+                },
+                {
+                    "blank": "10",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "it"
+                },
+                {
+                    "blank": "12",
+                    "answer": "There"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there"
+                },
+                {
+                    "blank": "15",
+                    "answer": "there"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct use of 'there is/are' and its variations, including contractions and in questions. It also includes 'it's' and 'it' to ensure a clear understanding of the distinction.",
+                "ru": "Это упражнение проверяет правильное использование 'there is/are' и его вариаций, включая сокращения и вопросы. Оно также включает 'it's' и 'it', чтобы обеспечить четкое понимание различий.",
+                "uz": "Bu mashq 'there is/are' va uning turlarini, jumladan qisqartmalar va savollarda to'g'ri qo'llanilishini sinovdan o'tkazadi. Shuningdek, farqni aniq tushunish uchun 'it's' va 'it'ni ham o'z ichiga oladi."
+            }
+        },
+        {
+            "id": "mgf2",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The small town of Willow Creek is famous for its beautiful park. ___1___ a large lake in the center where you can rent boats. All around the lake, ___2___ are many walking trails. ___3___ also a small coffee shop near the entrance where you can get a snack. At the moment, ___4___ a lot of construction work happening on the main path, so it's a bit noisy. ___5___ any plans to finish it soon? Yes, ___6___ are. I heard ___7___ supposed to be finished next month. Last year, ___8___ were three major events held in the park. This year, ___9___ only one planned so far. ___10___ a chance it will rain this weekend, so we might not go. ___11___ is a simple fact that ___12___ many flowers in the garden. ___13___ it going to be a good day for a picnic? I think so. ___14___ will be a lot of sunshine. ___15___ anything you want to bring?",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "there"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "5",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there"
+                },
+                {
+                    "blank": "7",
+                    "answer": "it's/it is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "there"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "It"
+                },
+                {
+                    "blank": "12",
+                    "answer": "there"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "There"
+                },
+                {
+                    "blank": "15",
+                    "answer": "Is"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on using 'there is/are' in various contexts, including questions and future tense, as well as distinguishing it from the pronoun 'it'.",
+                "ru": "Этот отрывок фокусируется на использовании 'there is/are' в различных контекстах, включая вопросы и будущее время, а также на разграничении с местоимением 'it'.",
+                "uz": "Bu parcha 'there is/are' ni turli kontekstlarda, jumladan savol va kelasi zamonda qo'llashga, shuningdek, uni 'it' olmoshidan farqlashga qaratilgan."
+            }
+        },
+        {
+            "id": "mgf3",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "Before the class begins, I have a few things to say. First, ___1___ a new schedule for our lessons, so please check the notice board. ___2___ are also some changes to the homework policy. ___3___ a new rule about late submissions. You should know ___4___ are many students who need extra help, so ___5___ is important to be considerate. After class, ___6___ will be a brief meeting for the students who want to participate in the upcoming competition. ___7___ also a sign-up sheet on the table. ___8___ is not a lot of time left to prepare. ___9___ there any questions so far? ___10___ seem to be a few hands up. ___11___ is a very challenging competition, but ___12___ are great rewards for the winners. ___13___ any chance we could get an extension on the project? I don't think ___14___ will be possible. ___15___ is what it is.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "there"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "There"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Are"
+                },
+                {
+                    "blank": "10",
+                    "answer": "There"
+                },
+                {
+                    "blank": "11",
+                    "answer": "It"
+                },
+                {
+                    "blank": "12",
+                    "answer": "there"
+                },
+                {
+                    "blank": "13",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "it"
+                },
+                {
+                    "blank": "15",
+                    "answer": "It"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests a variety of uses of 'there is/are' and 'it is', including in formal announcements and conversational questions.",
+                "ru": "Это упражнение проверяет различные варианты использования 'there is/are' и 'it is', в том числе в официальных объявлениях и разговорных вопросах.",
+                "uz": "Ushbu mashq 'there is/are' va 'it is'ning turli xil qo'llanilishini, jumladan rasmiy e'lonlar va muloqot savollarida sinovdan o'tkazadi."
+            }
+        },
+        {
+            "id": "mgf4",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The old house on the hill has been empty for years. Locals say that ___1___ are ghosts living inside, but I don't believe them. ___2___ is a rumor that ___3___ were strange noises heard from the house at night. ___4___'s a fact that the windows are all broken, and ___5___ are many trees growing around the entrance, which makes it look very spooky. I think ___6___ must be a reason why no one has bought it yet. ___7___ also a story that ___8___ a hidden treasure somewhere on the property. ___9___ anything true about that? I don't know, but ___10___ an interesting story. ___11___ were no signs of a treasure hunt when I was there. ___12___'s a possibility that the house will be demolished soon. ___13___ is a lot of debate in the town council about ___14___ future. ___15___ seems to be no easy solution.",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "there"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There"
+                },
+                {
+                    "blank": "3",
+                    "answer": "there"
+                },
+                {
+                    "blank": "4",
+                    "answer": "It"
+                },
+                {
+                    "blank": "5",
+                    "answer": "there"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "9",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "it's/it is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "There"
+                },
+                {
+                    "blank": "12",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "13",
+                    "answer": "There"
+                },
+                {
+                    "blank": "14",
+                    "answer": "its"
+                },
+                {
+                    "blank": "15",
+                    "answer": "There"
+                }
+            ],
+            "explanation": {
+                "en": "This passage focuses on using 'there is/are' to talk about existence and distinguishing it from 'it' when referring to facts or general statements. It also includes the possessive pronoun 'its'.",
+                "ru": "Этот отрывок фокусируется на использовании 'there is/are' для обозначения существования и его разграничении с 'it' при обращении к фактам или общим утверждениям. Он также включает притяжательное местоимение 'its'.",
+                "uz": "Ushbu parcha 'there is/are' ning mavjudlik haqida gapirishda ishlatilishiga va faktlar yoki umumiy gaplarga ishora qilganda uni 'it' dan farqlashga qaratilgan. Shuningdek, 'its' egalik olmoshini ham o'z ichiga oladi."
+            }
+        },
+        {
+            "id": "mgf5",
+            "type": "multiple_gap_filling",
+            "prompt": {
+                "en": "Fill in the blanks with the correct words",
+                "ru": "Заполните пропуски правильными словами",
+                "uz": "Bo'shliqlarni to'g'ri so'zlar bilan to'ldiring"
+            },
+            "text": "The annual school fair is happening this Saturday, and ___1___ are so many fun things to do! ___2___'s a main stage where bands will be playing all day. ___3___ also a food court with a variety of snacks. ___4___ will be a huge bouncy castle for the kids. I think ___5___ a good idea to arrive early because ___6___ will probably be a lot of people there. ___7___'s always a long line for the rides. ___8___ is also a raffle, and ___9___'s a car as the grand prize. ___10___ anything else you want to see? ___11___ is a craft market, and ___12___ are some local artists selling handmade items. ___13___ something for everyone to enjoy. I heard ___14___ might be a special guest appearance, but ___15___ a secret for now!",
+            "answers": [
+                {
+                    "blank": "1",
+                    "answer": "there"
+                },
+                {
+                    "blank": "2",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "3",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "4",
+                    "answer": "There"
+                },
+                {
+                    "blank": "5",
+                    "answer": "it's/it is"
+                },
+                {
+                    "blank": "6",
+                    "answer": "there"
+                },
+                {
+                    "blank": "7",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "8",
+                    "answer": "There"
+                },
+                {
+                    "blank": "9",
+                    "answer": "there's/there is"
+                },
+                {
+                    "blank": "10",
+                    "answer": "Is"
+                },
+                {
+                    "blank": "11",
+                    "answer": "There"
+                },
+                {
+                    "blank": "12",
+                    "answer": "there"
+                },
+                {
+                    "blank": "13",
+                    "answer": "There's/There is"
+                },
+                {
+                    "blank": "14",
+                    "answer": "there"
+                },
+                {
+                    "blank": "15",
+                    "answer": "it's/it is"
+                }
+            ],
+            "explanation": {
+                "en": "This exercise tests the correct use of 'there is/are' for talking about events and things that will happen, as well as the use of 'it is' for general statements and opinions.",
+                "ru": "Это упражнение проверяет правильное использование 'there is/are' для разговора о событиях и вещах, которые произойдут, а также использование 'it is' для общих утверждений и мнений.",
+                "uz": "Ushbu mashq 'there is/are' dan kelajakda sodir bo'ladigan voqealar va narsalar haqida gapirishda to'g'ri foydalanishni, shuningdek, umumiy gaplar va fikrlar uchun 'it is' dan foydalanishni sinovdan o'tkazadi."
+            }
+        }
+    ]
+}
