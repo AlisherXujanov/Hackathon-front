@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="600" viewBox="0 0 1920 600">
+  <defs>
+    <radialGradient id="footerGlow" cx="82%" cy="105%" r="75%">
+      <stop offset="0%" stop-color="#CFF6EF" stop-opacity="0.55"></stop>
+      <stop offset="55%" stop-color="#CFF6EF" stop-opacity="0.16"></stop>
+      <stop offset="100%" stop-color="#CFF6EF" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+
+  <rect width="1920" height="600" fill="#0F3B44"></rect>
+  <rect width="1920" height="600" fill="url(#footerGlow)"></rect>
+
+  <path d="M1920,600
+           C1720,560 1600,480 1520,420
+           C1420,346 1340,320 1200,320
+           C1040,320 940,400 820,460
+           C690,530 540,570 0,600
+           L1920,600 Z" fill="#CFF6EF" opacity="0.92"></path>
+
+  <g opacity="0.10" fill="none" stroke="#08B3A9" stroke-width="4">
+    <circle cx="220" cy="180" r="70"></circle>
+    <circle cx="260" cy="210" r="130"></circle>
+    <circle cx="320" cy="260" r="210"></circle>
+  </g>
+</svg>

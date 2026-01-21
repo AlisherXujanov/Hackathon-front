@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="240" viewBox="0 0 1920 240" preserveAspectRatio="none">
+  <rect width="1920" height="240" fill="#FFFFFF"></rect>
+  <path d="M0,70
+           C240,120 420,30 680,70
+           C930,110 1100,190 1360,155
+           C1600,122 1740,40 1920,86
+           L1920,240 L0,240 Z" fill="#CFF6EF"></path>
+</svg>

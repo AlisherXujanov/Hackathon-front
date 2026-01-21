@@ -7,7 +7,7 @@ import Button from '../../../components/Button'
 import Input from '../../../components/Input'
 import Card from '../../../components/Card'
 import ScrollAnimation from '../../../components/ScrollAnimation'
-import { HiMail, HiLock, HiEye, HiEyeOff } from 'react-icons/hi'
+import { HiMail, HiLockClosed, HiEye, HiEyeOff } from 'react-icons/hi'
 
 export default function LoginPage() {
   const router = useRouter()
@@ -81,7 +81,7 @@ export default function LoginPage() {
                     type={showPassword ? 'text' : 'password'}
                     label="Password"
                     required
-                    leftIcon={<HiLock className="w-5 h-5" />}
+                    leftIcon={<HiLockClosed className="w-5 h-5" />}
                     rightIcon={
                       <button
                         type="button"
