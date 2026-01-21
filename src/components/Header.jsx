@@ -2,13 +2,16 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
-import { HiMenu, HiX, HiUserCircle, HiLogout } from 'react-icons/hi'
+import { usePathname, useRouter } from 'next/navigation'
+import { authService } from '../services/api'
+import { HiMenu, HiX, HiUserCircle } from 'react-icons/hi'
+import Button from './Button'
 
 const Header = () => {
+  const router = useRouter()
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
-  const [isUserMenuOpen, setIsUserMenuOpen] = useState(false)
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
   const pathname = usePathname()
 
   useEffect(() => {
@@ -18,6 +21,11 @@ const Header = () => {
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
+
+  useEffect(() => {
+    // Проверяем статус авторизации при монтировании и при изменении пути
+    setIsAuthenticated(authService.isAuthenticated())
+  }, [pathname])
 
   const navLinks = [
     { href: '/dashboard', label: 'Dashboard' },
@@ -73,22 +81,32 @@ const Header = () => {
           </div>
 
           {/* Right Side Actions */}
-          <div className="flex items-center space-x-3">
-            {/* Sign In Button */}
-            <Link 
-              href="/auth/login"
-              className="hidden md:inline-flex items-center px-4 py-2 text-sm font-medium text-primary-700 hover:text-primary-800 bg-primary-50 hover:bg-primary-100 rounded-lg transition-all duration-200"
-            >
-              Sign in
-            </Link>
-            
-            {/* Get Started Button */}
-            <Link 
-              href="/auth/register"
-              className="hidden md:inline-flex items-center px-4 py-2 text-sm font-medium text-white bg-gradient-to-r from-primary-600 to-secondary-600 rounded-lg hover:from-primary-700 hover:to-secondary-700 transition-all duration-200 shadow-sm hover:shadow-md"
-            >
-              Get started
-            </Link>
+          <div className="flex items-center space-x-4">
+            {/* Условное отображение: иконка профиля или кнопки Login/Register */}
+            {isAuthenticated ? (
+              // Если пользователь авторизован - показываем только иконку профиля
+              <Link
+                href="/profile"
+                className="hidden md:flex items-center p-2 rounded-lg hover:bg-gray-100 transition-colors"
+                aria-label="Profile"
+              >
+                <HiUserCircle className="w-6 h-6 text-gray-700" />
+              </Link>
+            ) : (
+              // Если пользователь не авторизован - показываем кнопки Login и Register
+              <div className="hidden md:flex items-center space-x-2">
+                <Link href="/auth/login">
+                  <Button variant="secondary" size="sm">
+             iUse   Login
+                  </Button>
+                </Link>
+                <Link href="/auth/register">
+                  <Button variant="primary" size="sm">
+                    Register
+                  </Button>
+                </Link>
+              </div>
+            )}
 
             {/* Mobile Menu Button */}
             <button
@@ -125,22 +143,35 @@ const Header = () => {
                   {link.label}
                 </Link>
               ))}
-              <div className="border-t border-gray-200 mt-4 pt-4 space-y-2">
+              {isAuthenticated ? (
+                // Если авторизован - показываем ссылку на профиль
                 <Link
-                  href="/auth/login"
+                  href="/profile"
                   onClick={() => setIsMobileMenuOpen(false)}
-                  className="block px-4 py-2 text-base font-medium text-primary-700 hover:text-primary-800 bg-primary-50 hover:bg-primary-100 rounded-lg transition-colors"
+                  className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors flex items-center space-x-2"
                 >
-                  Sign in
+                  <HiUserCircle className="w-5 h-5" />
+                  <span>Profile</span>
                 </Link>
-                <Link
-                  href="/auth/register"
-                  onClick={() => setIsMobileMenuOpen(false)}
-                  className="block mx-4 px-4 py-2 text-base font-medium text-white bg-gradient-to-r from-primary-600 to-secondary-600 rounded-lg hover:from-primary-700 hover:to-secondary-700 transition-all duration-200 text-center"
-                >
-                  Get started
-                </Link>
-              </div>
+              ) : (
+                // Если не авторизован - показываем кнопки Login и Register
+                <>
+                  <Link
+                    href="/auth/login"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
+                  >
+                    Login
+                  </Link>
+                  <Link
+                    href="/auth/register"
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="px-4 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
+                  >
+                    Register
+                  </Link>
+                </>
+              )}
             </div>
           </div>
         )}
