@@ -8,17 +8,63 @@ import Card from '../../components/Card'
 import Input from '../../components/Input'
 import Textarea from '../../components/Textarea'
 import ScrollAnimation from '../../components/ScrollAnimation'
-import { authService } from '../../services/api'
+import { authService, classesService } from '../../services/api'
 import { HiPlus, HiUsers, HiArrowRight, HiX, HiSparkles, HiChartBar } from 'react-icons/hi'
 
 export default function ClassesPage() {
   const router = useRouter()
   const [showCreateModal, setShowCreateModal] = useState(false)
   const [isChecking, setIsChecking] = useState(true)
+  const [classes, setClasses] = useState([])
+  const [isLoading, setIsLoading] = useState(false)
+  const [error, setError] = useState('')
+  
+  // Состояние формы создания класса
+  const [formData, setFormData] = useState({
+    name: '',
+    description: '',
+    max_students: '',
+    is_active: true,
+  })
 
-  // Проверка роли пользователя при загрузке страницы
+  // Цвета для карточек классов
+  const classColors = [
+    'from-blue-500 to-cyan-500',
+    'from-purple-500 to-pink-500',
+    'from-green-500 to-emerald-500',
+    'from-orange-500 to-red-500',
+    'from-indigo-500 to-purple-500',
+    'from-teal-500 to-cyan-500',
+  ]
+
+  // Загрузка классов с backend
+  const loadClasses = async () => {
+    try {
+      setIsLoading(true)
+      setError('')
+      
+      const response = await classesService.getClasses()
+      
+      // response теперь всегда объект с полями: { classes: [], count: number, next: string, previous: string }
+      const classesData = response?.classes || []
+      
+      console.log('Загруженные классы:', classesData)
+      console.log('Всего классов:', response?.count || 0)
+      
+      setClasses(classesData)
+    } catch (err) {
+      console.error('Ошибка при загрузке классов:', err)
+      const errorMessage = err?.message || 'Не удалось загрузить классы'
+      setError(errorMessage)
+      setClasses([])
+    } finally {
+      setIsLoading(false)
+    }
+  }
+
+  // Проверка роли пользователя и загрузка классов при загрузке страницы
   useEffect(() => {
-    const checkUserRole = () => {
+    const checkUserRole = async () => {
       // Проверяем авторизацию
       if (!authService.isAuthenticated()) {
         router.push('/auth/login')
@@ -44,36 +90,68 @@ export default function ClassesPage() {
         return
       }
 
-      // Если всё в порядке, показываем страницу
+      // Если всё в порядке, показываем страницу и загружаем классы
       setIsChecking(false)
+      await loadClasses()
     }
 
     checkUserRole()
   }, [router])
 
-  const classes = [
-    {
-      id: 1,
-      name: 'Advanced English Grammar',
-      description: 'Master complex grammar rules and improve your writing skills',
-      students: 12,
-      color: 'from-blue-500 to-cyan-500',
-    },
-    {
-      id: 2,
-      name: 'JavaScript Fundamentals',
-      description: 'Learn the basics of JavaScript programming',
-      students: 8,
-      color: 'from-purple-500 to-pink-500',
-    },
-    {
-      id: 3,
-      name: 'Business English',
-      description: 'Professional communication and business writing',
-      students: 15,
-      color: 'from-green-500 to-emerald-500',
-    },
-  ]
+  // Обработка создания класса
+  const handleCreateClass = async (e) => {
+    e.preventDefault()
+    setError('')
+
+    // Валидация
+    if (!formData.name.trim()) {
+      setError('Название класса обязательно')
+      return
+    }
+
+    if (!formData.description.trim()) {
+      setError('Описание класса обязательно')
+      return
+    }
+
+    if (!formData.max_students || parseInt(formData.max_students) < 1) {
+      setError('Максимальное количество студентов должно быть больше 0')
+      return
+    }
+
+    try {
+      setIsLoading(true)
+      
+      // Подготавливаем данные для отправки
+      const classData = {
+        name: formData.name.trim(),
+        description: formData.description.trim(),
+        max_students: parseInt(formData.max_students),
+        is_active: formData.is_active,
+      }
+
+      // Создаем класс
+      await classesService.createClass(classData)
+
+      // Очищаем форму и закрываем модальное окно
+      setFormData({
+        name: '',
+        description: '',
+        max_students: '',
+        is_active: true,
+      })
+      setShowCreateModal(false)
+      setError('')
+
+      // Перезагружаем список классов
+      await loadClasses()
+    } catch (err) {
+      console.error('Ошибка при создании класса:', err)
+      setError(err?.message || 'Не удалось создать класс')
+    } finally {
+      setIsLoading(false)
+    }
+  }
 
   // Показываем загрузку во время проверки роли
   if (isChecking) {
@@ -138,66 +216,116 @@ export default function ClassesPage() {
             <Card variant="glass" className="p-5 md:p-6 relative overflow-hidden">
               <div className="absolute -right-6 -top-6 h-20 w-20 rounded-full bg-emerald-200/40 blur-2xl animate-float" />
               <p className="text-sm text-slate-500">Active Classes</p>
-              <p className="text-2xl md:text-3xl font-semibold text-slate-900 mt-2">{classes.length}</p>
-              <p className="text-sm text-emerald-600 mt-2">+2 this month</p>
+              <p className="text-2xl md:text-3xl font-semibold text-slate-900 mt-2">
+                {isLoading ? '...' : classes.filter(c => c.is_active).length}
+              </p>
+              <p className="text-sm text-emerald-600 mt-2">Total: {classes.length}</p>
             </Card>
             <Card variant="glass" className="p-5 md:p-6 relative overflow-hidden">
               <div className="absolute -right-8 -top-10 h-24 w-24 rounded-full bg-blue-200/40 blur-2xl animate-float" />
               <p className="text-sm text-slate-500">Total Students</p>
               <p className="text-2xl md:text-3xl font-semibold text-slate-900 mt-2">
-                {classes.reduce((total, item) => total + item.students, 0)}
+                {isLoading ? '...' : classes.reduce((total, item) => total + (item.students_count || item.current_students || 0), 0)}
               </p>
-              <p className="text-sm text-blue-600 mt-2">92% average attendance</p>
+              <p className="text-sm text-blue-600 mt-2">Across all classes</p>
             </Card>
             <Card variant="glass" className="p-5 md:p-6 relative overflow-hidden">
               <div className="absolute -right-6 -top-8 h-20 w-20 rounded-full bg-amber-200/40 blur-2xl animate-float" />
-              <p className="text-sm text-slate-500">Upcoming Sessions</p>
-              <p className="text-2xl md:text-3xl font-semibold text-slate-900 mt-2">5</p>
-              <p className="text-sm text-amber-600 mt-2">Next one in 2 days</p>
+              <p className="text-sm text-slate-500">Max Capacity</p>
+              <p className="text-2xl md:text-3xl font-semibold text-slate-900 mt-2">
+                {isLoading ? '...' : classes.reduce((total, item) => total + (item.max_students || 0), 0)}
+              </p>
+              <p className="text-sm text-amber-600 mt-2">Total capacity</p>
             </Card>
           </div>
         </ScrollAnimation>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-          {classes.map((classItem, index) => (
-            <ScrollAnimation key={classItem.id} delay={index * 140}>
-              <Link href={`/classes/${classItem.id}`}>
-                <Card variant="glass" className="p-6 h-full group cursor-pointer relative overflow-hidden">
-                  <div className="absolute -right-8 -top-10 h-24 w-24 rounded-full bg-white/50 blur-2xl opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
-                  <div className="flex items-start justify-between">
-                    <div className={`w-16 h-16 rounded-2xl bg-gradient-to-br ${classItem.color} flex items-center justify-center shadow-lg shadow-black/10 group-hover:scale-110 transition-transform duration-300 animate-float`}>
-                      <HiUsers className="w-7 h-7 text-white" />
-                    </div>
-                    <span className="text-xs font-semibold uppercase tracking-wide text-slate-500">Active</span>
-                  </div>
-                  <h3 className="text-xl font-semibold mt-5 mb-2 text-slate-900 group-hover:text-emerald-600 transition-colors font-display">
-                    {classItem.name}
-                  </h3>
-                  <p className="text-slate-600 mb-5 leading-relaxed">
-                    {classItem.description}
-                  </p>
-                  <div className="flex items-center justify-between">
-                    <span className="text-sm text-slate-500 flex items-center">
-                      <HiUsers className="w-4 h-4 mr-1" />
-                      {classItem.students} students
-                    </span>
-                    <div className="flex items-center text-emerald-600 font-medium group-hover:translate-x-1 transition-transform">
-                      View Class
-                      <HiArrowRight className="ml-1 w-5 h-5" />
-                    </div>
-                  </div>
-                  <div className="mt-5 h-1 w-full rounded-full bg-slate-100 overflow-hidden">
-                    <div className={`h-full w-2/3 bg-gradient-to-r ${classItem.color} transition duration-500 group-hover:brightness-110 group-hover:shadow-[0_0_16px_rgba(16,185,129,0.25)]`} />
-                  </div>
-                  <div className="mt-4 flex items-center justify-between text-xs text-slate-500">
-                    <span>Last updated 2 days ago</span>
-                    <span className="rounded-full bg-emerald-100 px-2.5 py-1 text-emerald-700">On track</span>
-                  </div>
-                </Card>
-              </Link>
-            </ScrollAnimation>
-          ))}
-        </div>
+        {error && !showCreateModal && classes.length === 0 && (
+          <div className="mb-6 bg-error-50 border border-error-200 text-error-700 px-4 py-3 rounded-lg text-sm">
+            {error}
+          </div>
+        )}
+
+        {isLoading && classes.length === 0 ? (
+          <div className="text-center py-12">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-600 mx-auto mb-4"></div>
+            <p className="text-slate-600">Загрузка классов...</p>
+          </div>
+        ) : classes.length === 0 ? (
+          <div className="text-center py-12">
+            <HiUsers className="w-16 h-16 text-slate-300 mx-auto mb-4" />
+            <p className="text-slate-600 text-lg mb-2">У вас пока нет классов</p>
+            <p className="text-slate-500 text-sm mb-6">Создайте первый класс, чтобы начать</p>
+            <Button
+              onClick={() => setShowCreateModal(true)}
+              variant="primary"
+              leftIcon={<HiPlus />}
+            >
+              Create First Class
+            </Button>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+            {classes.map((classItem, index) => {
+              const color = classColors[index % classColors.length]
+              // Используем students_count из ответа сервера
+              const currentStudents = classItem.students_count || classItem.current_students || 0
+              const maxStudents = classItem.max_students || 0
+              const progress = maxStudents > 0 ? (currentStudents / maxStudents) * 100 : 0
+
+              return (
+                <ScrollAnimation key={classItem.id} delay={index * 140}>
+                  <Link href={`/classes/${classItem.id}`}>
+                    <Card variant="glass" className="p-6 h-full group cursor-pointer relative overflow-hidden">
+                      <div className="absolute -right-8 -top-10 h-24 w-24 rounded-full bg-white/50 blur-2xl opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+                      <div className="flex items-start justify-between">
+                        <div className={`w-16 h-16 rounded-2xl bg-gradient-to-br ${color} flex items-center justify-center shadow-lg shadow-black/10 group-hover:scale-110 transition-transform duration-300 animate-float`}>
+                          <HiUsers className="w-7 h-7 text-white" />
+                        </div>
+                        <span className={`text-xs font-semibold uppercase tracking-wide ${classItem.is_active ? 'text-emerald-600' : 'text-slate-400'}`}>
+                          {classItem.is_active ? 'Active' : 'Inactive'}
+                        </span>
+                      </div>
+                      <h3 className="text-xl font-semibold mt-5 mb-2 text-slate-900 group-hover:text-emerald-600 transition-colors font-display">
+                        {classItem.name}
+                      </h3>
+                      <p className="text-slate-600 mb-5 leading-relaxed line-clamp-2">
+                        {classItem.description}
+                      </p>
+                      <div className="flex items-center justify-between">
+                        <span className="text-sm text-slate-500 flex items-center">
+                          <HiUsers className="w-4 h-4 mr-1" />
+                          {currentStudents} / {maxStudents} students
+                        </span>
+                        <div className="flex items-center text-emerald-600 font-medium group-hover:translate-x-1 transition-transform">
+                          View Class
+                          <HiArrowRight className="ml-1 w-5 h-5" />
+                        </div>
+                      </div>
+                      <div className="mt-5 h-1 w-full rounded-full bg-slate-100 overflow-hidden">
+                        <div 
+                          className={`h-full bg-gradient-to-r ${color} transition duration-500 group-hover:brightness-110 group-hover:shadow-[0_0_16px_rgba(16,185,129,0.25)]`}
+                          style={{ width: `${Math.min(progress, 100)}%` }}
+                        />
+                      </div>
+                      <div className="mt-4 flex items-center justify-between text-xs text-slate-500">
+                        <span>Max: {maxStudents} students</span>
+                        {classItem.code && (
+                          <span className="rounded-full bg-blue-100 px-2.5 py-1 text-blue-700 font-mono text-xs">
+                            {classItem.code}
+                          </span>
+                        )}
+                        <span className={`rounded-full px-2.5 py-1 ${classItem.is_active ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}`}>
+                          {classItem.is_active ? 'On track' : 'Inactive'}
+                        </span>
+                      </div>
+                    </Card>
+                  </Link>
+                </ScrollAnimation>
+              )
+            })}
+          </div>
+        )}
 
         {/* Premium Dark Section */}
         <ScrollAnimation delay={320}>
@@ -282,12 +410,20 @@ export default function ClassesPage() {
                   </div>
                 </div>
 
-                <form className="space-y-5">
+                <form className="space-y-5" onSubmit={handleCreateClass}>
+                  {error && (
+                    <div className="bg-error-50 border border-error-200 text-error-700 px-4 py-3 rounded-lg text-sm">
+                      {error}
+                    </div>
+                  )}
+
                   <Input
                     id="className"
                     label="Class Name"
                     placeholder="Enter class name"
                     required
+                    value={formData.name}
+                    onChange={(e) => setFormData({ ...formData, name: e.target.value })}
                   />
 
                   <Input
@@ -297,6 +433,8 @@ export default function ClassesPage() {
                     type="number"
                     min="1"
                     required
+                    value={formData.max_students}
+                    onChange={(e) => setFormData({ ...formData, max_students: e.target.value })}
                   />
 
                   <Textarea
@@ -305,6 +443,8 @@ export default function ClassesPage() {
                     placeholder="Enter class description"
                     rows={4}
                     required
+                    value={formData.description}
+                    onChange={(e) => setFormData({ ...formData, description: e.target.value })}
                   />
 
                   <div className="rounded-xl bg-slate-50 px-4 py-3 text-sm text-slate-600">
@@ -315,8 +455,18 @@ export default function ClassesPage() {
                     <Button
                       type="button"
                       variant="ghost"
-                      onClick={() => setShowCreateModal(false)}
+                      onClick={() => {
+                        setShowCreateModal(false)
+                        setFormData({
+                          name: '',
+                          description: '',
+                          max_students: '',
+                          is_active: true,
+                        })
+                        setError('')
+                      }}
                       className="flex-1"
+                      disabled={isLoading}
                     >
                       Cancel
                     </Button>
@@ -324,6 +474,8 @@ export default function ClassesPage() {
                       type="submit"
                       variant="primary"
                       className="flex-1"
+                      isLoading={isLoading}
+                      disabled={isLoading}
                     >
                       Create Class
                     </Button>

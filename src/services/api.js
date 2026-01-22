@@ -355,4 +355,476 @@ export const authService = {
   },
 }
 
+// Сервис для работы с классами
+export const classesService = {
+  /**
+   * Получить список всех классов
+   * @returns {Promise} Список классов
+   */
+  getClasses: async () => {
+    try {
+      const response = await apiClient.get('/api/v1/classes/')
+      const responseData = response.data
+      
+      console.log('Ответ от сервера при получении классов:', responseData)
+      
+      // Обрабатываем формат пагинации Django REST Framework
+      // Формат: { count: number, next: string, previous: string, results: [...] }
+      if (responseData && typeof responseData === 'object' && 'results' in responseData) {
+        const results = Array.isArray(responseData.results) ? responseData.results : []
+        return {
+          classes: results,
+          count: responseData.count || results.length,
+          next: responseData.next || null,
+          previous: responseData.previous || null,
+        }
+      }
+      
+      // Обрабатываем формат { success: true, data: [...] }
+      if (responseData?.success && responseData?.data) {
+        if (Array.isArray(responseData.data)) {
+          return {
+            classes: responseData.data,
+            count: responseData.data.length,
+            next: null,
+            previous: null,
+          }
+        }
+        return {
+          classes: [responseData.data],
+          count: 1,
+          next: null,
+          previous: null,
+        }
+      }
+      
+      // Если ответ - массив напрямую
+      if (Array.isArray(responseData)) {
+        return {
+          classes: responseData,
+          count: responseData.length,
+          next: null,
+          previous: null,
+        }
+      }
+      
+      // Если ответ - объект с data
+      if (responseData?.data) {
+        const data = Array.isArray(responseData.data) ? responseData.data : [responseData.data]
+        return {
+          classes: data,
+          count: data.length,
+          next: null,
+          previous: null,
+        }
+      }
+      
+      // Возвращаем пустой массив по умолчанию
+      console.warn('Неожиданный формат ответа от сервера:', responseData)
+      return {
+        classes: [],
+        count: 0,
+        next: null,
+        previous: null,
+      }
+    } catch (error) {
+      console.error('Ошибка при получении классов:', error)
+      console.error('Детали ошибки:', {
+        status: error.response?.status,
+        statusText: error.response?.statusText,
+        data: error.response?.data,
+        message: error.message,
+        contentType: error.response?.headers?.['content-type'],
+      })
+      
+      // Если сервер возвращает 500 при GET запросе, возможно это из-за пустого списка
+      // Сервер может возвращать HTML страницу с ошибкой вместо JSON
+      if (error.response?.status === 500 && error.config?.method === 'get') {
+        const contentType = error.response?.headers?.['content-type'] || ''
+        const isHtmlResponse = contentType.includes('text/html') || 
+                               (typeof error.response?.data === 'string' && error.response.data.includes('<!doctype html>'))
+        
+        if (isHtmlResponse) {
+          console.warn('Сервер вернул HTML страницу с ошибкой 500 при получении списка классов. Возможно список пуст или сервер недоступен. Возвращаем пустой массив.')
+        } else {
+          console.warn('Сервер вернул 500 при получении списка классов, возможно список пуст. Возвращаем пустой массив.')
+        }
+        
+        return {
+          classes: [],
+          count: 0,
+          next: null,
+          previous: null,
+        }
+      }
+      
+      if (error.response?.data) {
+        const errorData = error.response.data
+        
+        // Если это объект с полями ошибок (Django style)
+        if (typeof errorData === 'object' && !errorData.message && !errorData.error && !errorData.detail) {
+          const errorMessages = []
+          
+          Object.keys(errorData).forEach((key) => {
+            const value = errorData[key]
+            if (Array.isArray(value)) {
+              errorMessages.push(`${key}: ${value.join(', ')}`)
+            } else if (typeof value === 'string') {
+              errorMessages.push(`${key}: ${value}`)
+            }
+          })
+          
+          const errorMessage = errorMessages.length > 0 
+            ? errorMessages.join('. ') 
+            : 'Ошибка при получении списка классов'
+          throw new Error(errorMessage)
+        }
+        
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            `Ошибка при получении списка классов (${error.response?.status || 'неизвестный статус'})`
+        throw new Error(errorMessage)
+      }
+      
+      // Если нет ответа от сервера (сетевая ошибка)
+      if (error.request) {
+        throw new Error('Не удалось подключиться к серверу. Проверьте подключение к интернету.')
+      }
+      
+      throw new Error(error.message || 'Ошибка при получении списка классов. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Получить данные конкретного класса по ID
+   * @param {number|string} classId - ID класса
+   * @returns {Promise} Данные класса
+   */
+  getClassById: async (classId) => {
+    try {
+      const response = await apiClient.get(`/api/v1/classes/${classId}/`)
+      const responseData = response.data
+      
+      console.log('Ответ от сервера при получении класса:', responseData)
+      
+      // Обрабатываем разные форматы ответа
+      // Если ответ в формате { success: true, data: {...} }
+      if (responseData?.success && responseData?.data) {
+        return responseData.data
+      }
+      
+      // Если ответ - объект класса напрямую
+      if (responseData?.id) {
+        return responseData
+      }
+      
+      // Возвращаем как есть
+      return responseData
+    } catch (error) {
+      console.error('Ошибка при получении класса:', error)
+      console.error('Детали ошибки:', {
+        status: error.response?.status,
+        statusText: error.response?.statusText,
+        data: error.response?.data,
+        message: error.message,
+      })
+      
+      if (error.response?.data) {
+        const errorData = error.response.data
+        
+        // Если это объект с полями ошибок (Django style)
+        if (typeof errorData === 'object' && !errorData.message && !errorData.error && !errorData.detail) {
+          const errorMessages = []
+          
+          Object.keys(errorData).forEach((key) => {
+            const value = errorData[key]
+            if (Array.isArray(value)) {
+              errorMessages.push(`${key}: ${value.join(', ')}`)
+            } else if (typeof value === 'string') {
+              errorMessages.push(`${key}: ${value}`)
+            }
+          })
+          
+          throw new Error(errorMessages.length > 0 ? errorMessages.join('. ') : 'Ошибка при получении класса')
+        }
+        
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            `Ошибка при получении класса (${error.response?.status || 'неизвестный статус'})`
+        throw new Error(errorMessage)
+      }
+      
+      // Если нет ответа от сервера (сетевая ошибка)
+      if (error.request) {
+        throw new Error('Не удалось подключиться к серверу. Проверьте подключение к интернету.')
+      }
+      
+      throw new Error(error.message || 'Ошибка при получении класса. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Получить участников класса
+   * @param {number|string} classId - ID класса
+   * @returns {Promise} Список участников класса
+   */
+  getClassMembers: async (classId) => {
+    try {
+      const response = await apiClient.get(`/api/v1/classes/${classId}/members`)
+      const responseData = response.data
+      
+      console.log('Ответ от сервера при получении участников класса:', responseData)
+      
+      // Обрабатываем разные форматы ответа
+      // Если ответ в формате { success: true, data: [...] }
+      if (responseData?.success && responseData?.data) {
+        return Array.isArray(responseData.data) ? responseData.data : [responseData.data]
+      }
+      
+      // Если ответ в формате пагинации { count, next, previous, results: [...] }
+      if (responseData?.results && Array.isArray(responseData.results)) {
+        return responseData.results
+      }
+      
+      // Если ответ - массив напрямую
+      if (Array.isArray(responseData)) {
+        return responseData
+      }
+      
+      // Если ответ - объект с data
+      if (responseData?.data && Array.isArray(responseData.data)) {
+        return responseData.data
+      }
+      
+      // Возвращаем пустой массив по умолчанию
+      return []
+    } catch (error) {
+      console.error('Ошибка при получении участников класса:', error)
+      console.error('Детали ошибки:', {
+        status: error.response?.status,
+        statusText: error.response?.statusText,
+        data: error.response?.data,
+        message: error.message,
+      })
+      
+      if (error.response?.data) {
+        const errorData = error.response.data
+        
+        // Если это объект с полями ошибок (Django style)
+        if (typeof errorData === 'object' && !errorData.message && !errorData.error && !errorData.detail) {
+          const errorMessages = []
+          
+          Object.keys(errorData).forEach((key) => {
+            const value = errorData[key]
+            if (Array.isArray(value)) {
+              errorMessages.push(`${key}: ${value.join(', ')}`)
+            } else if (typeof value === 'string') {
+              errorMessages.push(`${key}: ${value}`)
+            }
+          })
+          
+          throw new Error(errorMessages.length > 0 ? errorMessages.join('. ') : 'Ошибка при получении участников класса')
+        }
+        
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            `Ошибка при получении участников класса (${error.response?.status || 'неизвестный статус'})`
+        throw new Error(errorMessage)
+      }
+      
+      // Если нет ответа от сервера (сетевая ошибка)
+      if (error.request) {
+        throw new Error('Не удалось подключиться к серверу. Проверьте подключение к интернету.')
+      }
+      
+      throw new Error(error.message || 'Ошибка при получении участников класса. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Создать новый класс
+   * @param {Object} classData - Данные класса (name, description, max_students, is_active)
+   * @returns {Promise} Созданный класс
+   */
+  createClass: async (classData) => {
+    try {
+      const response = await apiClient.post('/api/v1/classes/', classData)
+      const responseData = response.data
+      
+      // Обрабатываем разные форматы ответа
+      // Если ответ в формате { success: true, data: {...} }
+      if (responseData?.success && responseData?.data) {
+        return responseData.data
+      }
+      
+      // Если ответ - объект класса напрямую
+      if (responseData?.id) {
+        return responseData
+      }
+      
+      // Возвращаем как есть
+      return responseData
+    } catch (error) {
+      if (error.response?.data) {
+        const errorData = error.response.data
+        
+        // Если это объект с полями ошибок (Django style)
+        if (typeof errorData === 'object' && !errorData.message && !errorData.error && !errorData.detail) {
+          const errorMessages = []
+          
+          Object.keys(errorData).forEach((key) => {
+            const value = errorData[key]
+            if (Array.isArray(value)) {
+              errorMessages.push(`${key}: ${value.join(', ')}`)
+            } else if (typeof value === 'string') {
+              errorMessages.push(`${key}: ${value}`)
+            }
+          })
+          
+          throw new Error(errorMessages.length > 0 ? errorMessages.join('. ') : 'Ошибка валидации данных')
+        }
+        
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            'Ошибка при создании класса'
+        throw new Error(errorMessage)
+      }
+      throw new Error('Ошибка при создании класса. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Поиск пользователей по email
+   * @param {string} email - Email пользователя для поиска
+   * @returns {Promise} Данные найденного пользователя
+   */
+  searchUsersByEmail: async (email) => {
+    try {
+      // Отправляем запрос с q как query parameter (текст для поиска)
+      const response = await apiClient.get('/api/v1/users/search/', {
+        params: { q: email }
+      })
+      
+      const responseData = response.data
+      
+      // Обрабатываем разные форматы ответа
+      // Если это массив результатов
+      if (Array.isArray(responseData)) {
+        const user = responseData.find(u => u.email === email) || responseData[0]
+        if (!user) {
+          throw new Error('Пользователь не найден')
+        }
+        return user
+      }
+      
+      // Если это объект с results (пагинация)
+      if (responseData?.results && Array.isArray(responseData.results)) {
+        const user = responseData.results.find(u => u.email === email) || responseData.results[0]
+        if (!user) {
+          throw new Error('Пользователь не найден')
+        }
+        return user
+      }
+      
+      // Если ответ в формате { success: true, data: [...] } - массив пользователей
+      if (responseData?.success && responseData?.data) {
+        if (Array.isArray(responseData.data)) {
+          // Если data - массив, берем первый элемент
+          if (responseData.data.length === 0) {
+            throw new Error('Пользователь не найден')
+          }
+          return responseData.data[0]
+        }
+        // Если data - объект, возвращаем его
+        return responseData.data
+      }
+      
+      // Если ответ - объект пользователя напрямую
+      if (responseData?.id || responseData?.email) {
+        return responseData
+      }
+      
+      throw new Error('Пользователь не найден')
+    } catch (error) {
+      if (error.response?.data) {
+        const errorData = error.response.data
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            'Пользователь не найден'
+        throw new Error(errorMessage)
+      }
+      throw new Error(error.message || 'Ошибка при поиске пользователя. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Отправить приглашение пользователю в класс
+   * @param {number|string} classId - ID класса
+   * @param {number|string} userId - ID пользователя
+   * @returns {Promise} Ответ от сервера
+   */
+  inviteUserToClass: async (classId, userId) => {
+    try {
+      console.log('Отправка приглашения:', { classId, userId, body: { user_id: userId } })
+      const response = await apiClient.post(`/api/v1/classes/${classId}/invite/`, {
+        user_id: userId
+      })
+      const responseData = response.data
+      
+      console.log('Ответ от сервера при приглашении:', responseData)
+      
+      // Обрабатываем разные форматы ответа
+      if (responseData?.success && responseData?.data) {
+        return responseData.data
+      }
+      
+      return responseData
+    } catch (error) {
+      console.error('Ошибка при отправке приглашения:', error)
+      console.error('Детали ошибки:', {
+        status: error.response?.status,
+        data: error.response?.data,
+        message: error.message
+      })
+      
+      if (error.response?.data) {
+        const errorData = error.response.data
+        
+        // Если это объект с полями ошибок (Django style)
+        if (typeof errorData === 'object' && !errorData.message && !errorData.error && !errorData.detail) {
+          const errorMessages = []
+          
+          Object.keys(errorData).forEach((key) => {
+            const value = errorData[key]
+            if (Array.isArray(value)) {
+              errorMessages.push(`${key}: ${value.join(', ')}`)
+            } else if (typeof value === 'string') {
+              errorMessages.push(`${key}: ${value}`)
+            }
+          })
+          
+          throw new Error(errorMessages.length > 0 ? errorMessages.join('. ') : 'Ошибка при отправке приглашения')
+        }
+        
+        // Обрабатываем формат { success: false, error: { message: ... } }
+        if (errorData?.error?.message) {
+          throw new Error(errorData.error.message)
+        }
+        
+        const errorMessage = errorData.message || 
+                            errorData.error || 
+                            errorData.detail ||
+                            'Ошибка при отправке приглашения'
+        throw new Error(errorMessage)
+      }
+      throw new Error('Ошибка при отправке приглашения. Проверьте подключение к серверу.')
+    }
+  },
+}
+
 export default apiClient
