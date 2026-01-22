@@ -42,6 +42,7 @@ const Header = () => {
       data-header="true"
       className={`
         fixed top-0 left-0 right-0 z-50
+        overflow-hidden
         transition-all duration-300
         ${isScrolled
           ? 'bg-white/95 backdrop-blur-md shadow-sm border-b border-gray-100'
@@ -50,9 +51,9 @@ const Header = () => {
       `}
     >
       <nav className="container-wrapper">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between h-16 gap-3 min-w-0">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-3 group">
+          <Link href="/" className="flex items-center space-x-3 group shrink-0 min-w-0">
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary-600 to-secondary-600 flex items-center justify-center text-white font-bold text-xl shadow-md group-hover:shadow-lg transition-all duration-200 group-hover:scale-105">
               U
             </div>
@@ -62,13 +63,14 @@ const Header = () => {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden lg:flex items-center space-x-1">
+          <div className="hidden lg:flex items-center gap-1 flex-1 justify-center min-w-0 overflow-x-auto">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 className={`
-                  px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200
+                  whitespace-nowrap px-3 xl:px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200
+                  max-w-[140px] truncate
                   ${isActive(link.href)
                     ? 'text-primary-700 bg-primary-100 shadow-sm'
                     : 'text-gray-600 hover:text-primary-700 hover:bg-gray-50'
@@ -81,7 +83,7 @@ const Header = () => {
           </div>
 
           {/* Right Side Actions */}
-          <div className="flex items-center space-x-4">
+          <div className="flex items-center space-x-4 shrink-0">
             {/* Условное отображение: иконка профиля или кнопки Login/Register */}
             {isAuthenticated ? (
               // Если пользователь авторизован - показываем только иконку профиля

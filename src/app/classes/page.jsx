@@ -44,7 +44,7 @@ export default function ClassesPage() {
         <div className="absolute top-1/3 left-1/2 h-32 w-32 -translate-x-1/2 rounded-full bg-amber-200/30 blur-3xl" />
         <div className="absolute inset-x-0 top-0 h-64 bg-[radial-gradient(circle_at_top,_rgba(16,185,129,0.18),_transparent_60%)]" />
       </div>
-      <div className="container-wrapper relative pt-22 pb-10 md:pt-24 md:pb-14">
+      <div className="container-wrapper relative pt-24 pb-10 sm:pt-28 md:pt-28 md:pb-14">
         <div className="relative mb-10 md:mb-12">
           <div className="relative flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6">
             <ScrollAnimation>
@@ -52,10 +52,10 @@ export default function ClassesPage() {
                 <span className="inline-flex items-center rounded-full bg-emerald-100 text-emerald-700 text-xs font-semibold px-3 py-1 mb-4 tracking-wide">
                   Instructor Workspace
                 </span>
-                <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold mb-3 text-slate-900 font-display">
+                <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold mb-3 text-slate-900 font-display break-words">
                   My Classes
                 </h1>
-                <p className="text-slate-600 text-lg md:text-xl leading-relaxed font-accent">
+                <p className="text-slate-600 text-lg md:text-xl leading-relaxed font-accent break-words">
                   Organize cohorts, monitor engagement, and keep every learner on track with a clear, structured view.
                 </p>
                 <div className="mt-5 flex flex-wrap items-center gap-3 text-sm text-slate-500">
@@ -65,7 +65,7 @@ export default function ClassesPage() {
               </div>
             </ScrollAnimation>
             <ScrollAnimation delay={150}>
-              <div className="flex items-center gap-3">
+              <div className="flex w-full flex-col gap-3 sm:w-auto sm:flex-row sm:items-center">
                 <Button
                   onClick={() => setShowCreateModal(true)}
                   variant="primary"
@@ -74,7 +74,7 @@ export default function ClassesPage() {
                 >
                   Create Class
                 </Button>
-                <Button variant="secondary" className="border-slate-200 text-slate-700">
+                <Button variant="secondary" className="border-slate-200 text-slate-700 w-full sm:w-auto">
                   View Insights
                 </Button>
               </div>
@@ -136,7 +136,7 @@ export default function ClassesPage() {
                     </div>
                   </div>
                   <div className="mt-5 h-1 w-full rounded-full bg-slate-100 overflow-hidden">
-                    <div className={`h-full w-2/3 bg-gradient-to-r ${classItem.color} transition-all duration-500 group-hover:w-4/5`} />
+                    <div className={`h-full w-2/3 bg-gradient-to-r ${classItem.color} transition duration-500 group-hover:brightness-110 group-hover:shadow-[0_0_16px_rgba(16,185,129,0.25)]`} />
                   </div>
                   <div className="mt-4 flex items-center justify-between text-xs text-slate-500">
                     <span>Last updated 2 days ago</span>
@@ -199,21 +199,29 @@ export default function ClassesPage() {
 
         {/* Enhanced Modal */}
         {showCreateModal && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
+          <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6">
             <div
               className="absolute inset-0 bg-slate-900/60 backdrop-blur-sm"
               onClick={() => setShowCreateModal(false)}
             />
 
             <ScrollAnimation>
-              <Card variant="glass" className="relative z-10 w-full max-w-lg p-6 md:p-8">
+              <Card variant="glass" className="relative z-10 w-full max-w-lg p-5 sm:p-6 md:p-8 max-h-[85vh] overflow-y-auto">
                 <div className="absolute -right-10 -top-10 h-24 w-24 rounded-full bg-emerald-200/40 blur-2xl" />
-                <div className="flex justify-between items-start mb-6">
+                <button
+                  onClick={() => setShowCreateModal(false)}
+                  className="absolute top-4 right-4 p-2 rounded-lg hover:bg-slate-100 transition-colors"
+                  aria-label="Close modal"
+                >
+                  <HiX className="w-6 h-6" />
+                </button>
+
+                <div className="flex flex-col gap-4 sm:flex-row sm:justify-between sm:items-start mb-6 pr-10">
                   <div>
                     <span className="inline-flex items-center rounded-full bg-emerald-100 text-emerald-700 text-xs font-semibold px-3 py-1 tracking-wide">
                       New cohort
                     </span>
-                    <h2 className="text-3xl md:text-4xl font-semibold text-slate-900 mt-3 font-display">
+                    <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold text-slate-900 mt-3 font-display">
                       Create New Class
                     </h2>
                     <p className="text-sm text-slate-500 mt-2 font-accent">
@@ -221,13 +229,6 @@ export default function ClassesPage() {
                     </p>
                     <div className="mt-4 h-1 w-24 rounded-full bg-gradient-to-r from-emerald-400 via-emerald-300 to-cyan-300 shadow-[0_0_20px_rgba(16,185,129,0.35)]" />
                   </div>
-                  <button
-                    onClick={() => setShowCreateModal(false)}
-                    className="p-2 rounded-lg hover:bg-slate-100 transition-colors"
-                    aria-label="Close modal"
-                  >
-                    <HiX className="w-6 h-6" />
-                  </button>
                 </div>
 
                 <form className="space-y-5">
