@@ -136,7 +136,7 @@ export default function CheckoutPage() {
       
       // Redirect after 3 seconds
       setTimeout(() => {
-        router.push('/dashboard?success=true')
+        router.push('/about?success=true')
       }, 3000)
     }, 2000)
   }
@@ -150,7 +150,7 @@ export default function CheckoutPage() {
               <HiCheckCircle className="w-12 h-12 text-white" />
             </div>
             <h2 className="text-3xl font-bold mb-4 text-gray-900">Payment Successful!</h2>
-            <p className="text-gray-600 mb-6">Your subscription has been activated. Redirecting to dashboard...</p>
+            <p className="text-gray-600 mb-6">Your subscription has been activated. Redirecting to about page...</p>
             <div className="w-full bg-gray-200 rounded-full h-2">
               <div className="bg-gradient-to-r from-green-400 to-emerald-500 h-2 rounded-full animate-pulse" style={{ width: '100%' }}></div>
             </div>
