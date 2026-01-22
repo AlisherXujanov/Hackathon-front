@@ -1,0 +1,284 @@
+@use '../../../assets/styles/settings' as *;
+
+.analysis {
+  width: 100%;
+}
+
+.analysisCard {
+  padding: 2rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #111827;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.emptyMessage {
+  text-align: center;
+  color: #6b7280;
+  padding: 2rem;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  background: #f9fafb;
+  border-radius: 0.5rem;
+}
+
+.statValue {
+  display: flex;
+  align-items: baseline;
+  gap: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.accuracyValue {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #9333ea;
+}
+
+.correctValue {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #15803d;
+}
+
+.totalValue {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #6b7280;
+}
+
+.missingValue {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #b45309;
+}
+
+.incorrectValue {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #dc2626;
+}
+
+.statLabel {
+  font-size: 0.875rem;
+  color: #4b5563;
+  text-align: center;
+}
+
+.textVisualization {
+  margin-bottom: 2rem;
+}
+
+.sectionTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 0.75rem;
+}
+
+.textContainer {
+  padding: 1.5rem;
+  background: #f9fafb;
+  border-radius: 0.5rem;
+  line-height: 1.8;
+  font-size: 1.125rem;
+  min-height: 100px;
+}
+
+.word {
+  display: inline-block;
+  margin: 0 0.25rem;
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.2s ease;
+}
+
+.word.correct {
+  background: #dcfce7;
+  color: #15803d;
+  font-weight: 500;
+}
+
+.word.missing {
+  background: #fef3c7;
+  color: #b45309;
+  text-decoration: line-through;
+  font-weight: 500;
+}
+
+.word.incorrect {
+  background: #fee2e2;
+  color: #991b1b;
+  font-weight: 500;
+}
+
+.transcribedText {
+  margin-bottom: 2rem;
+}
+
+.transcribedContent {
+  padding: 1.5rem;
+  background: #faf5ff;
+  border: 1px solid #e9d5ff;
+  border-radius: 0.5rem;
+  line-height: 1.8;
+  font-size: 1.125rem;
+  color: #1f2937;
+}
+
+.errorsSection {
+  margin-bottom: 1.5rem;
+}
+
+.errorType {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.errorIcon {
+  width: 1.25rem;
+  height: 1.25rem;
+  color: #dc2626;
+}
+
+.errorTitle {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.errorWords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.errorBadge {
+  font-size: 0.875rem;
+}
+
+.rating {
+  margin-top: 2rem;
+  padding: 0;
+}
+
+.ratingGood,
+.ratingMedium,
+.ratingPoor {
+  padding: 1.25rem 1.5rem;
+  border-radius: 0.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.75rem;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.5;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.ratingGood {
+  color: #15803d;
+  background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+  border: 2px solid #86efac;
+}
+
+.ratingMedium {
+  color: #b45309;
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border: 2px solid #fde68a;
+}
+
+.ratingPoor {
+  color: #991b1b;
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border: 2px solid #fecaca;
+  padding: 1.5rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.ratingHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.ratingTitle {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #991b1b;
+}
+
+.ratingMessage {
+  margin: 0;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: #7f1d1d;
+  font-weight: 500;
+  padding-left: 2.25rem;
+}
+
+.ratingIcon {
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+}
+
+@media (max-width: 640px) {
+  .analysisCard {
+    padding: 1.5rem;
+  }
+
+  .stats {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  .statItem {
+    padding: 0.75rem;
+  }
+
+  .accuracyValue {
+    font-size: 1.5rem;
+  }
+
+  .correctValue,
+  .missingValue,
+  .incorrectValue {
+    font-size: 1.5rem;
+  }
+
+  .textContainer,
+  .transcribedContent {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  .word {
+    margin: 0 0.125rem;
+  }
+}

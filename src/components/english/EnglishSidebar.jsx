@@ -9,6 +9,7 @@ import {
   HiVolumeUp, 
   HiPencil, 
   HiLightBulb, 
+  HiMicrophone,
   HiClipboardCheck,
   HiChevronRight,
   HiChevronLeft
@@ -53,6 +54,13 @@ const categories = [
     icon: HiLightBulb,
     href: '/english/vocabulary',
     color: 'from-indigo-500 to-blue-500'
+  },
+  {
+    id: 'speaking',
+    label: 'Speaking',
+    icon: HiMicrophone,
+    href: '/english/speaking',
+    color: 'from-pink-500 to-rose-500'
   },
   {
     id: 'testing',

@@ -133,6 +133,20 @@ const transformers = {
       wordCount: topic.words?.length || 0,
       hasImage: !!topic.image
     }))
+  },
+
+  speaking: (data, normalizedLevel) => {
+    const topics = data.topics || []
+    return topics.map(topic => ({
+      id: topic.id,
+      title: topic.title,
+      level: topic.level || normalizedLevel.toUpperCase(),
+      estimatedTime: topic.estimatedTime || '',
+      category: 'speaking',
+      hasPart1: !!topic.part1,
+      hasPart2: !!topic.part2,
+      hasPart3: !!topic.part3
+    }))
   }
 }
 
@@ -185,6 +199,10 @@ export async function loadWritingTopics(level) {
 
 export async function loadVocabularyTopics(level) {
   return loadCategoryTopics('vocabulary', level)
+}
+
+export async function loadSpeakingTopics(level) {
+  return loadCategoryTopics('speaking', level)
 }
 
 /**

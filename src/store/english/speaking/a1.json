@@ -117,8 +117,211 @@
           "How do people's daily routines differ in your country?",
           "Do you think work-life balance is important?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "I wake up every morning at seven o'clock. First, I brush my teeth and wash my face. Then I have breakfast with my family. I usually eat bread, eggs, and drink tea. After breakfast, I get dressed and go to work. I work in an office from nine o'clock until five o'clock. During my lunch break, I eat with my colleagues. After work, I go home and cook dinner. In the evening, I like to watch TV or read a book. Sometimes I go for a walk with my friends. I go to bed at eleven o'clock. I really like my daily routine because it helps me stay organized and healthy. The best part of my day is the evening when I can relax and spend time with my family."
+      }
+    },
+    {
+      "id": "food_cooking",
+      "title": "Food and Cooking",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Food preferences",
+        "instructions": "I'd like to ask you some questions about food.",
+        "questions": [
+          "What is your favorite food?",
+          "Do you like cooking?",
+          "What do you usually eat for breakfast?",
+          "Do you prefer eating at home or in restaurants?",
+          "What food don't you like?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe your favorite meal",
+        "cueCard": {
+          "title": "Describe your favorite meal",
+          "description": "You should say:",
+          "points": [
+            "What this meal is",
+            "When you usually eat it",
+            "Who prepares it",
+            "And explain why you like it so much"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Food and culture",
+        "instructions": "Let's talk about food in general.",
+        "questions": [
+          "Is food important in your culture?",
+          "Do you think people eat healthier now than in the past?",
+          "What are some traditional foods in your country?",
+          "Do you think it's important to learn how to cook?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "My favorite meal is plov, which is a traditional dish in my country. Plov is made with rice, meat, carrots, and onions. It's very delicious and filling. I usually eat plov on special occasions like holidays or family gatherings. My grandmother makes the best plov. She has been cooking it for many years and knows the perfect recipe. She starts cooking early in the morning and it takes several hours to prepare. The smell fills the whole house and makes everyone hungry. I love plov because it reminds me of happy times with my family. When I eat it, I feel warm and comfortable. It's not just food for me, it's a connection to my family and my culture. Every time I taste my grandmother's plov, I remember all the wonderful meals we've shared together."
+      }
+    },
+    {
+      "id": "shopping_clothes",
+      "title": "Shopping and Clothes",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Shopping habits",
+        "instructions": "Let's talk about shopping.",
+        "questions": [
+          "Do you like shopping?",
+          "How often do you go shopping?",
+          "What do you usually buy?",
+          "Do you prefer shopping alone or with friends?",
+          "Where do you usually shop?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe something you bought recently",
+        "cueCard": {
+          "title": "Describe something you bought recently",
+          "description": "You should say:",
+          "points": [
+            "What you bought",
+            "Where you bought it",
+            "Why you bought it",
+            "And explain how you feel about this purchase"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Shopping and consumerism",
+        "instructions": "Let's discuss shopping in general.",
+        "questions": [
+          "Do you think people shop too much these days?",
+          "What are the advantages of online shopping?",
+          "Do you prefer shopping online or in stores?",
+          "How has shopping changed in recent years?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "Last week I bought a new jacket. I found it in a small shop near my house. The shop sells clothes for young people and has good prices. I needed a new jacket because my old one was too small and the weather was getting cold. The jacket I bought is blue and very warm. It has a hood and big pockets. I tried it on in the shop and it fit perfectly. The salesperson was very friendly and helped me choose the right size. I paid for it with cash and felt very happy with my purchase. Now I wear this jacket almost every day because it's comfortable and keeps me warm. I'm really glad I bought it because it was exactly what I needed. My friends also like it and say it looks good on me."
+      }
+    },
+    {
+      "id": "weather_seasons",
+      "title": "Weather and Seasons",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Weather and seasons",
+        "instructions": "Let's talk about weather and seasons.",
+        "questions": [
+          "What's your favorite season?",
+          "What's the weather like today?",
+          "Do you like hot or cold weather?",
+          "What do you wear in winter?",
+          "What activities do you do in summer?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe your favorite season",
+        "cueCard": {
+          "title": "Describe your favorite season",
+          "description": "You should say:",
+          "points": [
+            "What season this is",
+            "What the weather is like",
+            "What you do during this season",
+            "And explain why you like it"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Weather and activities",
+        "instructions": "Let's discuss weather and how it affects people.",
+        "questions": [
+          "How does weather affect your mood?",
+          "What's the best weather for outdoor activities?",
+          "Do you think weather is changing?",
+          "How do people adapt to different weather conditions?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "My favorite season is spring. Spring comes after winter and before summer. The weather in spring is usually warm and sunny, but not too hot. Sometimes it rains, which helps flowers grow. The days get longer and the sun shines more. In spring, I like to spend time outside. I go for walks in the park and see beautiful flowers everywhere. The trees have green leaves again after winter. I also enjoy riding my bicycle when the weather is nice. Spring is perfect for outdoor activities because it's not too cold and not too hot. I like spring because everything feels fresh and new. The birds sing more, and I feel happy and energetic. Spring makes me want to be active and enjoy nature. It's a wonderful time of year when everything comes back to life."
+      }
+    },
+    {
+      "id": "transportation_travel",
+      "title": "Transportation and Travel",
+      "level": "A1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Transportation",
+        "instructions": "I'd like to ask you about transportation.",
+        "questions": [
+          "How do you usually get to work or school?",
+          "Do you have a car?",
+          "What's your favorite way to travel?",
+          "Have you ever traveled by train?",
+          "Do you like flying?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a journey you remember",
+        "cueCard": {
+          "title": "Describe a journey you remember well",
+          "description": "You should say:",
+          "points": [
+            "Where you went",
+            "How you traveled",
+            "Who you went with",
+            "And explain why you remember this journey"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Travel and transportation",
+        "instructions": "Let's talk about travel and transportation in general.",
+        "questions": [
+          "What are the advantages of public transportation?",
+          "Do you think traveling is important?",
+          "What's the best way to travel long distances?",
+          "How has transportation changed over time?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I remember a trip I took to the mountains last year with my family. We traveled by car, which took about three hours. My father drove, and my mother sat in the front seat. My sister and I sat in the back. We left early in the morning and arrived at the mountains around noon. The road was long but beautiful. We saw many trees and small villages along the way. When we arrived, we stayed in a small hotel near a lake. We spent three days there, walking in the mountains and enjoying the fresh air. We also went swimming in the lake, which was very cold but fun. I remember this journey because it was the first time I saw real mountains. The view was amazing, and I took many photos. It was also special because we spent quality time together as a family. We laughed a lot and made wonderful memories. I hope we can go back there again someday."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 6
 }

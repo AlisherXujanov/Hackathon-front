@@ -97,8 +97,215 @@
           "How has travel changed compared to the past?",
           "What problems can tourism cause?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "I would really like to visit Japan one day. Japan is a beautiful country in Asia, famous for its ancient temples, modern cities, and delicious food. I've seen many pictures of Japan in books and on the internet, and it looks absolutely amazing. The cities are very clean and modern, with tall buildings and bright lights. But there are also peaceful gardens and traditional temples where you can experience the old culture. If I went to Japan, I would want to visit Tokyo, which is the capital city. I would like to see the famous cherry blossoms in spring, try authentic Japanese food like sushi and ramen, and visit some of the historic temples. I would also love to experience the bullet train, which travels very fast between cities. I want to visit Japan because I'm interested in Japanese culture, especially their art, music, and way of life. I think visiting Japan would be a wonderful adventure and I would learn so much about a different way of living. It would also be a great opportunity to practice speaking English with people from another country."
+      }
+    },
+    {
+      "id": "sports_fitness",
+      "title": "Sports and Fitness",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Sports and exercise",
+        "instructions": "Let's talk about sports and physical activity.",
+        "questions": [
+          "Do you play any sports?",
+          "How often do you exercise?",
+          "What sports are popular in your country?",
+          "Do you prefer watching sports or playing them?",
+          "What are the benefits of regular exercise?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a sport you enjoy",
+        "cueCard": {
+          "title": "Describe a sport you enjoy playing or watching",
+          "description": "You should say:",
+          "points": [
+            "What sport this is",
+            "How often you play or watch it",
+            "Why you like it",
+            "And explain what makes this sport special to you"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Sports and health",
+        "instructions": "Let's discuss sports and fitness in general.",
+        "questions": [
+          "Why is it important for people to stay fit?",
+          "Should schools make sports compulsory?",
+          "Do you think professional athletes are paid too much?",
+          "How can governments encourage people to exercise more?",
+          "What are the benefits of team sports versus individual sports?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I really enjoy playing football, which is my favorite sport. I've been playing football since I was a child, and I still play it regularly now. I usually play football twice a week with my friends at a local sports center. We have a small team of about ten people, and we play matches every weekend. Sometimes we also watch professional football matches on television, especially when our favorite teams are playing. I love football because it's exciting and requires both physical fitness and mental strategy. When I play, I feel energetic and happy. It's also a great way to spend time with friends and make new ones. Football helps me stay healthy and fit, and it's a good way to relieve stress after a long day at work or school. What makes football special to me is the teamwork involved. You can't win a match alone - you need to work together with your teammates. This has taught me important lessons about cooperation and communication that I use in other parts of my life too."
+      }
+    },
+    {
+      "id": "music_entertainment",
+      "title": "Music and Entertainment",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Music preferences",
+        "instructions": "I'd like to ask you about music and entertainment.",
+        "questions": [
+          "What kind of music do you like?",
+          "How often do you listen to music?",
+          "Do you play any musical instruments?",
+          "Have you ever been to a concert?",
+          "What's your favorite song?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a concert or music event",
+        "cueCard": {
+          "title": "Describe a concert or music event you attended",
+          "description": "You should say:",
+          "points": [
+            "What event it was",
+            "When and where it took place",
+            "Who you went with",
+            "And explain why you enjoyed it"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Music and culture",
+        "instructions": "Let's discuss music and entertainment in general.",
+        "questions": [
+          "How important is music in people's lives?",
+          "Do you think music can bring people together?",
+          "How has technology changed the way people listen to music?",
+          "Should children learn to play musical instruments?",
+          "What role does music play in your culture?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "Last summer, I went to a music festival in the city center with my best friend. It was a free outdoor event that lasted all day, from morning until late evening. There were several stages with different types of music, including pop, rock, and traditional music. We arrived early in the afternoon and stayed until the end. The weather was perfect - sunny and warm - and there were hundreds of people enjoying the music. We walked around between the stages, listening to different bands and singers. My favorite performance was by a local band that played traditional music with modern instruments. The crowd was very enthusiastic and many people were dancing. We also tried some delicious food from the food stalls and met some interesting people. I really enjoyed this event because it was a great way to discover new music and spend time with my friend. The atmosphere was amazing - everyone was happy and having a good time. It was also free, which made it accessible to everyone. I would definitely go to another music festival like this in the future."
+      }
+    },
+    {
+      "id": "books_films",
+      "title": "Books and Films",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Entertainment preferences",
+        "instructions": "Let's talk about books and films.",
+        "questions": [
+          "Do you like reading books?",
+          "What kind of books do you prefer?",
+          "How often do you watch films?",
+          "What's your favorite film?",
+          "Do you prefer books or films?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a book or film you enjoyed",
+        "cueCard": {
+          "title": "Describe a book or film you really enjoyed",
+          "description": "You should say:",
+          "points": [
+            "What it was",
+            "What it was about",
+            "Why you enjoyed it",
+            "And explain if you would recommend it to others"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Entertainment and culture",
+        "instructions": "Let's discuss books, films, and entertainment.",
+        "questions": [
+          "Why do you think people enjoy reading books or watching films?",
+          "Do you think films based on books are usually good?",
+          "How has technology changed the way people read and watch films?",
+          "Should children read more books?",
+          "What makes a good story?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about a book I read recently called 'The Little Prince'. It's a famous book written by a French author, and I read it in English translation. The story is about a young prince who travels from planet to planet, meeting different characters and learning about life. The book is quite short but very meaningful. It talks about friendship, love, and what's really important in life. What I enjoyed most about this book is how it makes you think about simple things in a deeper way. The characters are interesting and the story is both sad and beautiful. The book has beautiful illustrations that help you understand the story better. I found it very moving, especially the parts about friendship and saying goodbye. I would definitely recommend this book to others because it's not just a children's story - adults can enjoy it too. It teaches important lessons about life in a simple and beautiful way. The language is also not too difficult, which makes it perfect for English learners like me."
+      }
+    },
+    {
+      "id": "friends_social",
+      "title": "Friends and Social Life",
+      "level": "A2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Friends and social activities",
+        "instructions": "I'd like to ask you about your friends and social life.",
+        "questions": [
+          "Do you have many friends?",
+          "How did you meet your best friend?",
+          "What do you like to do with your friends?",
+          "How often do you see your friends?",
+          "What makes a good friend?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a close friend",
+        "cueCard": {
+          "title": "Describe a close friend of yours",
+          "description": "You should say:",
+          "points": [
+            "Who this person is",
+            "How long you've known them",
+            "What you like about them",
+            "And explain why this person is important to you"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Friendship and relationships",
+        "instructions": "Let's discuss friendship and social relationships.",
+        "questions": [
+          "Why are friends important in people's lives?",
+          "Is it easier to make friends as a child or as an adult?",
+          "How has social media changed friendships?",
+          "Do you think it's possible to have too many friends?",
+          "What qualities do you value in a friend?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to tell you about my best friend, whose name is Sarah. We've been friends for about five years now. We met in high school when we were both new students, and we sat next to each other in our English class. At first, we were both shy, but we started talking and discovered we had many things in common. Sarah is a very kind and funny person. She always makes me laugh with her jokes and stories. She's also very supportive - whenever I have a problem, she listens and gives me good advice. We both love reading books and watching movies, so we often do these activities together. On weekends, we usually go to a café or visit the park. Sometimes we study together, which makes studying more fun. What I like most about Sarah is that she's honest and trustworthy. I know I can always count on her, and she never judges me. She's also very creative and has great ideas for things we can do together. Sarah is important to me because she's not just a friend - she's like family. She understands me better than anyone else, and I feel comfortable being myself around her. Having a friend like Sarah makes my life happier and more meaningful."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 6
 }

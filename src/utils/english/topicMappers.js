@@ -41,5 +41,12 @@ export const topicCardMappers = {
     description: topic.levelDescription,
     level: topic.level,
     wordCount: topic.wordCount
+  }),
+
+  speaking: (topic) => ({
+    title: topic.title,
+    description: topic.estimatedTime || 'Speaking practice',
+    level: topic.level,
+    estimatedTime: topic.estimatedTime
   })
 }

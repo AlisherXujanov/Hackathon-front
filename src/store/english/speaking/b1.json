@@ -99,8 +99,219 @@
           "Should employers provide training for their workers?",
           "What role should governments play in education?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "I would really like to learn how to play the guitar. This is something I've been thinking about for a long time, but I've never actually taken the time to start learning. I want to learn the guitar because I love music and I think it would be a wonderful way to express myself creatively. When I listen to music, I often imagine myself playing along, and I think it would be incredibly satisfying to be able to create music myself. To learn this skill, I would probably start by taking some online lessons or finding a local teacher. I know there are many excellent resources available on the internet, including video tutorials and apps that can help beginners. I would also need to buy a guitar, which I've been saving money for. I think I would practice for at least thirty minutes every day, because consistency is important when learning a new skill. Learning to play the guitar would benefit me in several ways. First, it would be a great hobby that I could enjoy in my free time. Second, it would help me develop patience and discipline, as learning any musical instrument requires dedication. Finally, it would give me a sense of accomplishment and boost my confidence. I think music is a universal language that brings people together, and being able to play would allow me to connect with others in a meaningful way."
+      }
+    },
+    {
+      "id": "environment_nature",
+      "title": "Environment and Nature",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Environment and nature",
+        "instructions": "Let's talk about the environment and nature.",
+        "questions": [
+          "Do you enjoy spending time in nature?",
+          "What environmental problems concern you?",
+          "Do you recycle?",
+          "What can individuals do to help the environment?",
+          "Have you noticed any changes in the weather in recent years?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a place in nature you enjoy",
+        "cueCard": {
+          "title": "Describe a place in nature that you enjoy visiting",
+          "description": "You should say:",
+          "points": [
+            "Where this place is",
+            "What it looks like",
+            "What you do there",
+            "And explain why you enjoy spending time there"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Environmental issues",
+        "instructions": "Let's discuss environmental issues and conservation.",
+        "questions": [
+          "What are the main environmental problems facing the world today?",
+          "Who should be responsible for protecting the environment?",
+          "Do you think governments are doing enough to address climate change?",
+          "How can we encourage more people to care about the environment?",
+          "What role should businesses play in environmental protection?",
+          "Do you think renewable energy will replace fossil fuels in the future?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "One of my favorite places in nature is a small park near my home. This park is located about a ten-minute walk from where I live, and it's a peaceful green space in the middle of the city. The park has tall trees that provide shade during hot summer days, beautiful flower gardens that bloom in spring, and a small pond where ducks and other birds come to rest. There are also walking paths that wind through the park, and several benches where people can sit and relax. I visit this park regularly, usually in the early morning or late afternoon when it's not too crowded. When I'm there, I like to take long walks along the paths, breathing in the fresh air and enjoying the natural surroundings. Sometimes I bring a book and sit on one of the benches to read. Other times, I just sit quietly and observe the birds and squirrels that live in the park. I enjoy spending time in this park because it offers me a peaceful escape from the busy city life. Being surrounded by nature helps me relax and clear my mind. It's a place where I can think clearly and feel connected to the natural world. The park also reminds me of the importance of preserving green spaces in urban areas, as they provide essential benefits for both people and wildlife."
+      }
+    },
+    {
+      "id": "health_lifestyle",
+      "title": "Health and Lifestyle",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Health and lifestyle",
+        "instructions": "I'd like to ask you about your health and lifestyle.",
+        "questions": [
+          "How do you stay healthy?",
+          "Do you have a healthy diet?",
+          "How often do you exercise?",
+          "Do you get enough sleep?",
+          "What do you do to relax?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a healthy habit",
+        "cueCard": {
+          "title": "Describe a healthy habit you have",
+          "description": "You should say:",
+          "points": [
+            "What this habit is",
+            "When you started doing it",
+            "How it helps you",
+            "And explain why you think it's important"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Health and society",
+        "instructions": "Let's discuss health and lifestyle in general.",
+        "questions": [
+          "Why is it important to maintain a healthy lifestyle?",
+          "What are the main health problems in modern society?",
+          "How can governments encourage people to live healthier lives?",
+          "Do you think people are more health-conscious now than in the past?",
+          "What role should schools play in teaching children about health?",
+          "Is healthcare a right or a privilege?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "One healthy habit that I've developed over the past year is going for a morning walk every day. I started this habit when I realized I was spending too much time sitting at a desk, both at work and at home. I decided I needed to be more active, so I began waking up thirty minutes earlier each morning to go for a walk around my neighborhood. At first, it was difficult to get up early, but after a few weeks, it became a natural part of my routine. Now I look forward to my morning walks because they help me start the day feeling energized and positive. During my walk, I enjoy the quiet streets, the fresh morning air, and the opportunity to observe the neighborhood coming to life. I usually walk for about thirty minutes, which gives me time to think about my plans for the day and mentally prepare for whatever challenges I might face. This habit has helped me in many ways. Physically, I feel stronger and more energetic throughout the day. Mentally, it helps me reduce stress and improve my mood. I also sleep better at night because I'm more active during the day. I think this habit is important because it shows that small changes can make a big difference in your overall health and wellbeing. It doesn't require special equipment or a gym membership - just the commitment to take care of yourself every day."
+      }
+    },
+    {
+      "id": "art_culture",
+      "title": "Art and Culture",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Art and cultural interests",
+        "instructions": "Let's talk about art and culture.",
+        "questions": [
+          "Do you enjoy art?",
+          "Have you ever visited an art gallery or museum?",
+          "What kind of art do you like?",
+          "Do you have any artistic hobbies?",
+          "How important is culture in your life?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a cultural event",
+        "cueCard": {
+          "title": "Describe a cultural event or festival you attended",
+          "description": "You should say:",
+          "points": [
+            "What the event was",
+            "When and where it took place",
+            "What happened at the event",
+            "And explain why you enjoyed it"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Art, culture, and society",
+        "instructions": "Let's discuss the role of art and culture in society.",
+        "questions": [
+          "Why is art important in society?",
+          "Should governments support the arts?",
+          "How does culture influence people's lives?",
+          "Do you think young people are less interested in traditional culture?",
+          "How can we preserve cultural heritage?",
+          "What role does art play in education?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to describe a traditional dance festival I attended last year in my city. The festival took place in the main square during the summer, and it lasted for three days. It was organized to celebrate our cultural heritage and bring the community together. The event featured performances by dance groups from different regions, each showing their unique traditional dances. There were also stalls selling traditional crafts, food, and clothing. What made this festival special was the variety of performances. Some dances were very energetic and fast-paced, while others were slow and graceful. The dancers wore beautiful traditional costumes in bright colors, and the music was played live by musicians using traditional instruments. I particularly enjoyed watching a group of young dancers who had learned traditional dances from their grandparents. The festival attracted people of all ages, from young children to elderly people, and everyone seemed to be enjoying themselves. I found this event very meaningful because it helped me appreciate my cultural heritage more. It also showed me how important it is to preserve these traditions for future generations. The atmosphere was wonderful - there was a real sense of community and pride in our culture."
+      }
+    },
+    {
+      "id": "money_shopping",
+      "title": "Money and Shopping",
+      "level": "B1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Money and spending",
+        "instructions": "I'd like to ask you about money and shopping habits.",
+        "questions": [
+          "How do you usually manage your money?",
+          "Do you enjoy shopping?",
+          "What do you spend most of your money on?",
+          "Do you prefer shopping online or in stores?",
+          "How important is money to you?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a purchase",
+        "cueCard": {
+          "title": "Describe something expensive you bought",
+          "description": "You should say:",
+          "points": [
+            "What you bought",
+            "Why you bought it",
+            "How you saved money for it",
+            "And explain how you feel about this purchase"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Consumerism and money management",
+        "instructions": "Let's discuss money, shopping, and consumerism.",
+        "questions": [
+          "Do you think people spend too much money on unnecessary things?",
+          "How can people learn to manage their money better?",
+          "What are the advantages and disadvantages of online shopping?",
+          "Do you think advertising influences people's spending habits?",
+          "Is it important to save money for the future?",
+          "How has the way people shop changed in recent years?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "Last year, I saved up to buy a new smartphone, which was quite expensive for me. I needed a new phone because my old one was very slow and the battery didn't last long. It was difficult to use for work and staying in touch with friends. I decided to buy a good quality phone that would last for several years. To save money for it, I stopped buying coffee from cafes every day and started making coffee at home instead. I also reduced spending on entertainment and put aside a small amount of money each month. It took me about six months to save enough money. When I finally bought the phone, I felt very proud of myself for achieving this goal. The new phone has a much better camera, which I really enjoy using for taking photos. It's also much faster, which makes my work easier. I use it for many things - checking emails, video calls with family, listening to music, and taking photos. I'm very happy with this purchase because it has improved my daily life significantly. It was worth the wait and the effort to save money. I learned that if you really want something, you can achieve it by planning and being patient."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 6
 }

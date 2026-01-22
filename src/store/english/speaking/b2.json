@@ -99,8 +99,167 @@
           "How might technology help preserve cultural heritage?",
           "Should governments play a role in protecting cultural traditions?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to describe Navruz, which is one of the most important traditional festivals in my culture. Navruz marks the beginning of spring and the new year, and it's celebrated on March 21st every year. This festival has been observed for thousands of years and represents renewal, hope, and the triumph of light over darkness. The celebration typically lasts for several days, during which families come together to prepare special foods, clean their homes thoroughly, and visit relatives and friends. One of the most significant traditions is setting up a special table called 'Haft Seen' with seven items that all begin with the letter 'S' in our language, each symbolizing different aspects of life such as health, prosperity, and love. People also engage in various cultural activities including traditional music, dancing, and games. Children receive gifts and new clothes, and communities organize public celebrations with performances and feasts. This tradition is important to my culture because it strengthens family bonds and community connections. It reminds us of our shared history and values, and it provides an opportunity to pass down cultural knowledge to younger generations. In an increasingly globalized world, Navruz serves as an anchor that helps maintain our cultural identity while also welcoming the new year with optimism and joy."
+      }
+    },
+    {
+      "id": "media_communication",
+      "title": "Media and Communication",
+      "level": "B2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Media consumption",
+        "instructions": "Let's talk about media and how you get information.",
+        "questions": [
+          "How do you usually get your news?",
+          "Do you trust the media?",
+          "How has social media changed the way people communicate?",
+          "Do you think traditional media like newspapers will disappear?",
+          "What are the advantages and disadvantages of social media?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a news story",
+        "cueCard": {
+          "title": "Describe a news story that interested you recently",
+          "description": "You should say:",
+          "points": [
+            "What the story was about",
+            "Where you heard or read about it",
+            "Why it interested you",
+            "And explain how this story affected you or your opinion"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Media influence and responsibility",
+        "instructions": "Let's discuss the role and influence of media in society.",
+        "questions": [
+          "How influential do you think the media is in shaping public opinion?",
+          "Should there be more regulation of social media platforms?",
+          "What responsibilities do journalists have to society?",
+          "How can people distinguish between reliable and unreliable news sources?",
+          "Do you think media bias is a serious problem?",
+          "How might artificial intelligence change journalism in the future?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "Recently, I read an article about a breakthrough in renewable energy technology that really captured my attention. The story was published in an online science magazine that I follow regularly, and it described how researchers had developed a new type of solar panel that is significantly more efficient and cheaper to produce than current models. According to the article, this innovation could potentially make solar energy accessible to millions more people worldwide, particularly in developing countries where energy costs are a major barrier to development. What particularly interested me about this story was not just the technical achievement, but the potential social and environmental impact. The article explained how this technology could help reduce dependence on fossil fuels and combat climate change, while also providing economic opportunities in regions that currently lack reliable electricity. This story affected me because it gave me hope about humanity's ability to solve complex global problems through innovation and collaboration. It also made me think about the importance of investing in scientific research and education. I found myself sharing this article with friends and family, and it sparked several interesting conversations about renewable energy and environmental responsibility. The story reminded me that positive change is possible when people work together toward common goals."
+      }
+    },
+    {
+      "id": "urban_life",
+      "title": "Urban Life and City Planning",
+      "level": "B2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "City life",
+        "instructions": "I'd like to ask you about living in cities.",
+        "questions": [
+          "Do you prefer living in a city or the countryside?",
+          "What are the main advantages of city life?",
+          "What problems do cities face?",
+          "How has your city changed over the years?",
+          "What improvements would you like to see in your city?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe a city you know well",
+        "cueCard": {
+          "title": "Describe a city you know well",
+          "description": "You should say:",
+          "points": [
+            "Where this city is located",
+            "What it is famous for",
+            "What you like and dislike about it",
+            "And explain what makes this city special"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Urban development and planning",
+        "instructions": "Let's discuss urban planning and city development.",
+        "questions": [
+          "What makes a city a good place to live?",
+          "How can cities become more sustainable?",
+          "What are the biggest challenges facing modern cities?",
+          "Should cities limit their population growth?",
+          "How important is it to preserve historic buildings in cities?",
+          "What role should technology play in making cities smarter?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to talk about Tashkent, which is the capital city of Uzbekistan and where I've lived for most of my life. Tashkent is located in the northeastern part of the country and is the largest city in Central Asia, with a population of over two million people. The city is famous for its rich history, beautiful architecture that blends traditional and modern styles, and its role as a major cultural and economic center in the region. Tashkent is also known for its wide, tree-lined streets, numerous parks and fountains, and excellent metro system, which features stations decorated with stunning artwork. What I particularly like about Tashkent is its unique combination of ancient history and modern development. You can visit centuries-old mosques and madrasas in the old part of the city, and then walk to ultra-modern shopping centers and business districts. The city has excellent public transportation, which makes it easy to get around, and there are many cultural attractions including museums, theaters, and concert halls. However, like many large cities, Tashkent faces challenges such as traffic congestion, air pollution, and the need for more affordable housing. Despite these issues, what makes Tashkent special to me is its welcoming atmosphere and the diversity of its population. People from different backgrounds and regions live together harmoniously, creating a vibrant and dynamic urban environment. The city continues to develop and improve, always finding ways to preserve its heritage while embracing progress."
+      }
+    },
+    {
+      "id": "education_future",
+      "title": "Education and Future Careers",
+      "level": "B2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Education and career plans",
+        "instructions": "Let's discuss your education and future plans.",
+        "questions": [
+          "What are you studying or what did you study?",
+          "What career are you planning to pursue?",
+          "What skills do you think are most important for your future career?",
+          "How do you think education will change in the future?",
+          "Do you think university education is necessary for success?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe an educational experience",
+        "cueCard": {
+          "title": "Describe an educational experience that influenced you",
+          "description": "You should say:",
+          "points": [
+            "What the experience was",
+            "When and where it happened",
+            "What you learned from it",
+            "And explain how it influenced your thinking or future plans"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Education systems and career development",
+        "instructions": "Let's explore broader questions about education and careers.",
+        "questions": [
+          "What are the main challenges facing education systems today?",
+          "How should education prepare students for jobs that don't exist yet?",
+          "Do you think practical experience is more valuable than academic qualifications?",
+          "How can education systems better support students' individual needs?",
+          "What role should technology play in education?",
+          "How important is lifelong learning in today's world?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to describe a study abroad program I participated in during my second year of university. The program took place in the United Kingdom and lasted for one semester. It was organized by my university in partnership with a British university, and it gave me the opportunity to study alongside international students from many different countries. What made this experience particularly influential was not just the academic content, but the cultural immersion and personal growth I experienced. Living in a different country forced me to become more independent and adaptable. I had to navigate a new city, manage my own budget, and communicate in English constantly, which significantly improved my language skills. Academically, I was exposed to different teaching methods and perspectives that challenged my way of thinking. The professors encouraged critical thinking and independent research, which was different from my previous educational experience. I also made friends from various cultural backgrounds, which broadened my understanding of the world. This experience influenced me profoundly because it made me realize how much I enjoy learning about different cultures and perspectives. It also gave me confidence in my ability to adapt to new situations and succeed in unfamiliar environments. As a result, I've become more open to opportunities that take me out of my comfort zone, and I'm now considering pursuing a master's degree abroad. The experience taught me that education is not just about acquiring knowledge, but about developing as a person and gaining a broader perspective on life."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 5
 }

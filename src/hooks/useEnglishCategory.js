@@ -12,16 +12,26 @@ const ENGLISH_LEVEL_STORAGE_KEY = 'english_selected_level'
  * @returns {Object} Category page state and handlers
  */
 export function useEnglishCategory(categoryConfig, initialLevel = 'A1') {
-  const [selectedLevel, setSelectedLevel] = useState(() => {
-    if (typeof window === 'undefined') return initialLevel
-    return localStorage.getItem(ENGLISH_LEVEL_STORAGE_KEY) || initialLevel
-  })
+  // Используем одинаковое начальное значение на сервере и клиенте для предотвращения ошибок гидратации
+  const [selectedLevel, setSelectedLevel] = useState(initialLevel)
   const [topics, setTopics] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
   const itemsPerPage = usePagination()
 
+  // Синхронизация с localStorage только на клиенте после монтирования
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+    
+    // Загружаем сохраненное значение из localStorage при монтировании
+    const savedLevel = localStorage.getItem(ENGLISH_LEVEL_STORAGE_KEY)
+    if (savedLevel && savedLevel !== initialLevel) {
+      setSelectedLevel(savedLevel)
+    }
+  }, [initialLevel]) // Зависимость от initialLevel для корректной проверки
+
+  // Сохранение в localStorage при изменении уровня
   useEffect(() => {
     if (typeof window === 'undefined') return
     localStorage.setItem(ENGLISH_LEVEL_STORAGE_KEY, selectedLevel)

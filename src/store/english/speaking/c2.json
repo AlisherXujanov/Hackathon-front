@@ -99,8 +99,63 @@
           "What lessons from historical civilizational collapses remain relevant today?",
           "How might contact with extraterrestrial intelligence fundamentally alter human civilization?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "Envisioning human civilization a century from now requires grappling with both extraordinary possibilities and profound uncertainties. I anticipate that by 2124, humanity will have undergone transformations that are difficult to fully comprehend from our current perspective. Technologically, I expect we'll have achieved significant breakthroughs in areas like fusion energy, which could provide nearly limitless clean power, fundamentally altering our relationship with energy scarcity and environmental constraints. Biotechnology advances might allow us to extend healthy human lifespans substantially, potentially raising complex questions about population dynamics and resource allocation. Artificial intelligence will likely have become deeply integrated into virtually every aspect of human life, from governance to creative endeavors, though whether this represents augmentation or replacement of human capabilities remains uncertain. Major challenges we'll likely have overcome include transitioning to sustainable energy systems and developing effective responses to climate change, though new challenges will undoubtedly emerge. Human relationships and social structures might evolve in fascinating ways - perhaps we'll see the emergence of new forms of community that transcend geographic boundaries, enabled by immersive virtual environments. Economic systems might shift toward models that better account for environmental and social costs. What gives me optimism is humanity's demonstrated capacity for adaptation and our ability to solve complex problems when we collaborate effectively. However, I'm concerned about the potential for increased inequality, the erosion of privacy, and the possibility that rapid technological change might outpace our ability to develop appropriate ethical frameworks. The future will likely be neither utopian nor dystopian, but rather a complex interplay of progress and new challenges that will require wisdom, foresight, and continued commitment to human values."
+      }
+    },
+    {
+      "id": "language_communication",
+      "title": "Language and Human Communication",
+      "level": "C2",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Language and communication",
+        "instructions": "I'd like to explore your thoughts on language and communication.",
+        "questions": [
+          "How do you think language shapes our perception of reality?",
+          "What role does language play in cultural identity?",
+          "Do you believe that learning multiple languages changes how you think?",
+          "How might technology be changing the way we communicate?",
+          "What are the implications of English becoming a global lingua franca?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Explore language evolution",
+        "cueCard": {
+          "title": "Discuss how language might evolve in the future",
+          "description": "You should say:",
+          "points": [
+            "What factors might influence language change",
+            "How technology could affect language development",
+            "What new forms of communication might emerge",
+            "And explain what implications this might have for human society"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Language, thought, and society",
+        "instructions": "Let's examine deeper questions about language, cognition, and social interaction.",
+        "questions": [
+          "To what extent does language determine or limit our capacity for thought?",
+          "How might the loss of linguistic diversity affect human knowledge and culture?",
+          "What are the cognitive implications of being multilingual versus monolingual?",
+          "How do non-verbal communication systems compare to verbal language in complexity?",
+          "What role might artificial intelligence play in language preservation and evolution?",
+          "How can we balance the practical benefits of a global language with the preservation of linguistic heritage?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "Language evolution in the coming decades will likely be shaped by an unprecedented convergence of technological, social, and cognitive factors. The digital revolution has already introduced new forms of communication - emojis, memes, and internet slang - that function almost as linguistic innovations, creating shared meaning across cultural boundaries. Machine translation and AI language models are beginning to break down barriers between languages, potentially leading to hybrid communication forms that blend multiple linguistic systems. However, I believe the most profound changes might come from how technology alters the fundamental nature of human interaction. As virtual and augmented reality become more sophisticated, we might develop entirely new communication modalities that incorporate spatial, gestural, and even haptic elements in ways that traditional language cannot capture. The rise of AI assistants that can understand and generate natural language might also influence how we structure our thoughts and express ideas, potentially making communication more efficient but perhaps less nuanced. Simultaneously, concerns about linguistic diversity are growing, as many languages face extinction. This creates a tension between the practical benefits of linguistic convergence and the loss of unique ways of understanding the world that each language represents. The implications for human society are profound - we might become more connected globally but potentially lose the rich cultural and cognitive diversity that different languages provide. How we navigate this balance will significantly shape human culture, cognition, and social organization in the decades ahead."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 3
 }

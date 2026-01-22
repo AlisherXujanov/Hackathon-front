@@ -4,6 +4,7 @@ import {
   HiVolumeUp,
   HiPencil,
   HiLightBulb,
+  HiMicrophone,
   HiClipboardCheck
 } from 'react-icons/hi'
 import {
@@ -11,7 +12,8 @@ import {
   loadReadingTopics,
   loadListeningTopics,
   loadWritingTopics,
-  loadVocabularyTopics
+  loadVocabularyTopics,
+  loadSpeakingTopics
 } from '../utils/english/dataLoader'
 
 export const ENGLISH_LEVELS = [
@@ -68,6 +70,15 @@ export const ENGLISH_CATEGORIES = {
     color: 'from-indigo-500 to-blue-500',
     loader: loadVocabularyTopics,
     route: '/english/vocabulary'
+  },
+  speaking: {
+    id: 'speaking',
+    name: 'Speaking Practice',
+    description: 'Practice your pronunciation and speaking skills with AI-powered feedback.',
+    icon: HiMicrophone,
+    color: 'from-pink-500 to-rose-500',
+    loader: loadSpeakingTopics,
+    route: '/english/speaking'
   },
   testing: {
     id: 'testing',

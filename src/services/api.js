@@ -952,4 +952,52 @@ export const classesService = {
         },
       }
 
+// Сервис для работы с speaking (транскрибация аудио)
+export const speakingService = {
+  /**
+   * Отправить аудио файл на транскрибацию
+   * @param {File|Blob} audioFile - Аудио файл для транскрибации
+   * @returns {Promise<Object>} Ответ от сервера с транскрибированным текстом
+   */
+  transcribe: async (audioFile) => {
+    try {
+      const formData = new FormData()
+      formData.append('file', audioFile)
+
+      const response = await apiClient.post('/api/v1/ai/speaking/transcribe/', formData, {
+        headers: {
+          'Content-Type': 'multipart/form-data',
+        },
+      })
+
+      // Обрабатываем структуру ответа
+      const responseData = response.data
+      
+      // Если ответ в формате { success: true, data: { text: "..." } }
+      if (responseData?.success && responseData?.data) {
+        return responseData.data
+      }
+
+      // Если ответ - объект с text напрямую
+      if (responseData?.text) {
+        return { text: responseData.text }
+      }
+
+      // Возвращаем как есть
+      return responseData
+    } catch (error) {
+      // Обработка ошибок
+      if (error.response?.data) {
+        const errorData = error.response.data
+        const errorMessage = errorData.message ||
+          errorData.error ||
+          errorData.detail ||
+          'Ошибка при транскрибации аудио'
+        throw new Error(errorMessage)
+      }
+      throw new Error('Ошибка при транскрибации аудио. Проверьте подключение к серверу.')
+    }
+  },
+}
+
 export default apiClient

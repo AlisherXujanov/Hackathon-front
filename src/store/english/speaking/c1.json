@@ -99,8 +99,115 @@
           "What are the long-term consequences of increasing inequality for social cohesion?",
           "How might globalization and technological change affect social inequality in the future?"
         ]
+      },
+      "modelAnswer": {
+        "part2": "I feel particularly strongly about educational inequality, which I believe is one of the most critical social justice issues of our time. This problem affects millions of children and young people worldwide, particularly those from low-income families, rural areas, or marginalized communities. The issue matters because education is supposed to be the great equalizer - the mechanism through which individuals can transcend their circumstances and achieve their potential. However, when educational opportunities are distributed unequally, it perpetuates cycles of poverty and limits social mobility. Various factors contribute to this persistent problem. Economic disparities mean that wealthier families can afford better schools, private tutoring, and educational resources, while disadvantaged students often attend underfunded schools with fewer resources and less qualified teachers. Geographic location also plays a crucial role, as rural and remote areas frequently lack access to quality educational institutions. Additionally, systemic biases can affect how students from certain backgrounds are treated and what opportunities they're offered. To address this issue, I believe we need comprehensive, multi-level interventions. Governments must increase investment in public education, particularly in underserved areas, and ensure equitable distribution of resources. We need to attract and retain excellent teachers in challenging schools through better compensation and support. Early childhood education programs should be expanded to level the playing field before children even enter formal schooling. Additionally, technology can help bridge gaps by providing access to quality educational content regardless of location. Most importantly, we need to address the underlying economic and social factors that create educational disparities in the first place."
+      }
+    },
+    {
+      "id": "innovation_entrepreneurship",
+      "title": "Innovation and Entrepreneurship",
+      "level": "C1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Innovation and business",
+        "instructions": "Let's discuss innovation and entrepreneurship.",
+        "questions": [
+          "What do you think makes someone a successful entrepreneur?",
+          "How important is innovation for economic growth?",
+          "What challenges do startups face in your country?",
+          "Do you think entrepreneurship should be taught in schools?",
+          "How has technology changed the nature of entrepreneurship?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe an innovative solution",
+        "cueCard": {
+          "title": "Describe an innovative solution or idea that impressed you",
+          "description": "You should say:",
+          "points": [
+            "What the innovation is",
+            "What problem it addresses",
+            "How it works or what makes it innovative",
+            "And explain why you find it impressive or significant"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Innovation ecosystems and future trends",
+        "instructions": "Let's explore innovation ecosystems and future trends.",
+        "questions": [
+          "What conditions are necessary for innovation to flourish in a society?",
+          "How can governments foster innovation while protecting consumers?",
+          "What role should universities play in commercializing research?",
+          "How might artificial intelligence transform entrepreneurship?",
+          "What ethical considerations should innovators take into account?",
+          "How can we ensure that innovation benefits all members of society?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I was recently impressed by a mobile application designed to help farmers in developing countries access real-time market prices and connect directly with buyers, bypassing traditional middlemen. This innovation addresses a critical problem where small-scale farmers often receive unfairly low prices for their produce because they lack information about market conditions and have limited access to buyers. The application works by aggregating price data from various markets and allowing farmers to post their available products, while buyers can browse and make direct purchases. What makes this particularly innovative is its simplicity and accessibility - it works on basic smartphones and doesn't require extensive technical knowledge. The app also includes features like weather forecasts, agricultural advice, and financial services like microloans. I find this solution impressive because it demonstrates how technology can be used to empower marginalized communities rather than further exclude them. It addresses a real economic problem that affects millions of people's livelihoods, and it does so in a way that's scalable and sustainable. The innovation has the potential to significantly improve farmers' incomes while also making agricultural markets more efficient. What's particularly noteworthy is that the developers worked closely with farmers to understand their needs and constraints, ensuring the solution is actually useful rather than just technologically impressive. This approach to innovation - focusing on real problems and involving end users in the design process - is something I think more entrepreneurs should adopt."
+      }
+    },
+    {
+      "id": "climate_change_sustainability",
+      "title": "Climate Change and Sustainability",
+      "level": "C1",
+      "estimatedTime": "12-14 minutes",
+      "part1": {
+        "title": "Introduction and Interview",
+        "duration": "4-5 minutes",
+        "topic": "Climate and environment",
+        "instructions": "Let's discuss climate change and environmental sustainability.",
+        "questions": [
+          "How concerned are you about climate change?",
+          "What environmental actions do you take in your daily life?",
+          "Do you think individuals can make a real difference to climate change?",
+          "What role should governments play in addressing climate change?",
+          "How optimistic are you about humanity's ability to solve climate change?"
+        ]
+      },
+      "part2": {
+        "title": "Individual Long Turn",
+        "duration": "3-4 minutes total (1 min prep + 2 min speaking)",
+        "topic": "Describe an environmental initiative",
+        "cueCard": {
+          "title": "Describe an environmental initiative or project you know about",
+          "description": "You should say:",
+          "points": [
+            "What the initiative is",
+            "What problem it addresses",
+            "How it works",
+            "And explain why you think it's important or effective"
+          ],
+          "notes": "You will have 1 minute to prepare and 1-2 minutes to speak."
+        }
+      },
+      "part3": {
+        "title": "Two-way Discussion",
+        "duration": "4-5 minutes",
+        "topic": "Climate action and sustainable development",
+        "instructions": "Let's explore deeper questions about climate change and sustainability.",
+        "questions": [
+          "What are the most effective strategies for reducing carbon emissions?",
+          "How can we balance economic development with environmental protection?",
+          "What responsibilities do developed countries have compared to developing nations?",
+          "How might climate change affect global migration patterns?",
+          "What role should businesses play in addressing climate change?",
+          "How can we encourage more people to adopt sustainable lifestyles?"
+        ]
+      },
+      "modelAnswer": {
+        "part2": "I'd like to discuss a renewable energy project I learned about recently, which involves installing solar panels on school rooftops across several regions. This initiative addresses multiple interconnected problems: reducing carbon emissions, providing clean energy, and creating educational opportunities for students. The project works by partnering with local governments and international organizations to fund the installation of solar panels on school buildings. These panels generate electricity that powers the schools during the day, with excess energy being fed back into the local grid. What makes this particularly innovative is that it's not just about energy production - it's also an educational tool. Students learn about renewable energy through hands-on experience, and the schools use the cost savings from reduced electricity bills to improve educational resources. The project also includes training programs for local technicians, creating job opportunities in the growing renewable energy sector. I find this initiative impressive because it demonstrates a holistic approach to sustainability that addresses environmental, educational, and economic challenges simultaneously. It shows that environmental solutions don't have to come at the expense of other priorities - they can actually enhance them. The project has been successful in multiple locations, reducing schools' carbon footprints while improving their financial sustainability. This kind of integrated thinking is exactly what we need more of if we're going to effectively address climate change while maintaining quality of life and economic opportunity."
       }
     }
   ],
-  "totalTopics": 2
+  "totalTopics": 4
 }
