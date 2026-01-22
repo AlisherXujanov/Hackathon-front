@@ -7,7 +7,17 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['Inter', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Arial', 'sans-serif'],
+      },
       colors: {
+        app: {
+          bg: '#F8FAFC',
+          surface: '#FFFFFF',
+          text: '#0F172A',
+          muted: '#64748B',
+          border: '#E5E7EB'
+        },
         // Primary - Royal violet (premium, confident, elegant)
         primary: {
           50: '#f5f3ff',
@@ -88,14 +98,6 @@ module.exports = {
           100: '#312E81',
         },
       },
-      spacing: {
-        // 8pt baseline system
-        '0.5': '4px',   // space-1
-        '1.5': '12px',  // space-3
-        '3': '24px',    // space-5
-        '6': '48px',    // space-7
-        '8': '64px',    // space-8
-      },
       fontSize: {
         // Fluid typography scale
         'display': ['clamp(2.5rem, 5vw, 5rem)', { lineHeight: '1.1', letterSpacing: '-0.02em' }],
@@ -111,12 +113,17 @@ module.exports = {
         'xl': '0 20px 30px rgba(0, 0, 0, 0.12), 0 10px 15px rgba(0, 0, 0, 0.06)',
         'accent': '0 10px 25px rgba(212, 175, 55, 0.2)',
         'primary': '0 10px 25px rgba(109, 40, 217, 0.2)',
+        'card': '0 1px 2px rgba(15, 23, 42, 0.06), 0 6px 16px rgba(15, 23, 42, 0.06)',
+        'floating': '0 10px 30px rgba(15, 23, 42, 0.12), 0 6px 14px rgba(15, 23, 42, 0.08)',
       },
       borderRadius: {
         'sm': '6px',
         'md': '10px',
         'lg': '14px',
         'xl': '18px',
+        'card': '12px',
+        'button': '10px',
+        'chip': '999px',
       },
       transitionDuration: {
         'fast': '120ms',
