@@ -25,7 +25,6 @@ import {
 import { courseService } from '../../services/courseService'
 import { sampleCourses, COURSE_CATEGORIES, COURSE_LEVELS } from '../../store/courses/courseData'
 import FreeCourseBanner from '../../components/acquisition/FreeCourseBanner'
-import styles from './Courses.module.scss'
 
 export default function CoursesPage() {
   const router = useRouter()
@@ -159,13 +158,39 @@ export default function CoursesPage() {
 
   if (isLoading) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-12">
-          <div className="flex items-center justify-center min-h-[50vh]">
-            <div className="text-center">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
-              <p className="text-gray-600">Loading courses...</p>
+      <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-primary-200">
+        <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden">
+          <div className="absolute -top-24 -right-24 h-80 w-80 rounded-full bg-primary-200/36 blur-3xl" />
+          <div className="absolute top-[35%] -left-28 h-72 w-72 rounded-full bg-accent-200/28 blur-3xl" />
+          <div className="absolute -bottom-32 right-[18%] h-96 w-96 rounded-full bg-secondary-200/22 blur-3xl" />
+          <div className="absolute inset-x-0 top-0 h-64 bg-[radial-gradient(circle_at_top,_rgba(109,40,217,0.18),_transparent_60%)]" />
+        </div>
+
+        <section className="relative overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-br from-primary-600/15 via-accent-600/10 to-secondary-600/15" />
+          <div className="absolute inset-0 bg-white/70" />
+          <div className="container-wrapper relative">
+            <div className="max-w-[1200px] mx-auto py-14 md:py-20">
+              <div className="text-center">
+                <div className="mx-auto h-10 md:h-14 w-[min(560px,90%)] rounded-lg bg-gray-200 animate-pulse" />
+                <div className="mx-auto mt-4 h-6 w-[min(720px,92%)] rounded-lg bg-gray-200 animate-pulse" />
+              </div>
             </div>
+          </div>
+        </section>
+
+        <div className="container-wrapper py-10 md:py-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[0, 1, 2, 3, 4, 5].map((i) => (
+              <Card key={i} variant="glass" hover={false} className="overflow-hidden rounded-2xl">
+                <div className="h-44 bg-gray-200 animate-pulse" />
+                <div className="p-6">
+                  <div className="h-6 w-[70%] rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-3 h-4 w-[92%] rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-6 h-10 w-full rounded-button bg-gray-200 animate-pulse" />
+                </div>
+              </Card>
+            ))}
           </div>
         </div>
       </main>
@@ -173,24 +198,35 @@ export default function CoursesPage() {
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
+    <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-primary-200">
+      <div aria-hidden="true" className="pointer-events-none absolute inset-0 -z-10 overflow-hidden">
+        <div className="absolute -top-24 -right-24 h-80 w-80 rounded-full bg-primary-200/36 blur-3xl" />
+        <div className="absolute top-[35%] -left-28 h-72 w-72 rounded-full bg-accent-200/28 blur-3xl" />
+        <div className="absolute -bottom-32 right-[18%] h-96 w-96 rounded-full bg-secondary-200/22 blur-3xl" />
+        <div className="absolute inset-x-0 top-0 h-64 bg-[radial-gradient(circle_at_top,_rgba(109,40,217,0.18),_transparent_60%)]" />
+      </div>
+
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-primary-600 via-accent-600 to-secondary-600 py-12 md:py-16">
-        <div className="container-wrapper">
-          <ScrollAnimation>
-            <div className="text-center text-white">
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
-                Explore Our Courses
-              </h1>
-              <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-                Master new skills with expert-led courses and earn certificates
-              </p>
-            </div>
-          </ScrollAnimation>
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-br from-primary-600/15 via-accent-600/10 to-secondary-600/15" />
+        <div className="absolute inset-0 bg-white/70" />
+        <div className="container-wrapper relative">
+          <div className="max-w-[1200px] mx-auto py-14 md:py-20">
+            <ScrollAnimation>
+              <div className="text-center">
+                <h1 className="text-[44px] leading-[1.12] md:text-[56px] md:leading-[1.12] font-extrabold text-slate-900">
+                  Explore Our Courses
+                </h1>
+                <p className="mt-4 text-[18px] leading-[1.6] md:text-[20px] text-slate-600 max-w-[60ch] mx-auto">
+                  Master new skills with expert-led courses and earn certificates.
+                </p>
+              </div>
+            </ScrollAnimation>
+          </div>
         </div>
       </section>
 
-      <div className="container-wrapper py-8 md:py-12">
+      <div className="container-wrapper py-10 md:py-12">
         {/* Free Course Banner */}
         <ScrollAnimation>
           <div className="mb-6">
@@ -200,12 +236,12 @@ export default function CoursesPage() {
 
         {/* Search and Filters */}
         <ScrollAnimation>
-          <Card variant="glass" className="p-6 mb-8">
+          <Card variant="glass" className="rounded-2xl p-6 mb-8">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
               <div className="lg:col-span-2">
                 <Input
                   type="text"
-                  placeholder="Search courses..."
+                  placeholder="Search courses"
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   leftIcon={<HiSearch className="w-5 h-5" />}
@@ -248,17 +284,17 @@ export default function CoursesPage() {
 
         {/* Results Count */}
         <div className="mb-6">
-          <p className="text-gray-600">
-            Found <span className="font-semibold text-gray-900">{filteredCourses.length}</span> courses
+          <p className="text-slate-600">
+            Found <span className="font-semibold text-slate-900">{filteredCourses.length}</span> courses
           </p>
         </div>
 
         {/* Courses Grid */}
         {filteredCourses.length === 0 ? (
-          <Card variant="glass" className="p-12 text-center">
-            <HiSearch className="w-16 h-16 text-gray-400 mx-auto mb-4" />
-            <h3 className="text-xl font-semibold text-gray-900 mb-2">No courses found</h3>
-            <p className="text-gray-600">Try adjusting your filters or search query</p>
+          <Card variant="glass" className="rounded-2xl p-12 text-center">
+            <HiSearch className="w-16 h-16 text-slate-300 mx-auto mb-4" />
+            <h3 className="text-xl font-semibold text-slate-900 mb-2">No courses found</h3>
+            <p className="text-slate-600">Try adjusting your filters or search query.</p>
           </Card>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
@@ -268,11 +304,12 @@ export default function CoursesPage() {
                 <ScrollAnimation key={course.id} delay={index * 50}>
                   <Card 
                     variant="glass" 
-                    className="overflow-hidden hover:shadow-xl transition-shadow duration-300 cursor-pointer group"
+                    className="overflow-hidden rounded-2xl cursor-pointer group"
                     onClick={() => router.push(`/courses/${course.id}`)}
                   >
                     {/* Course Thumbnail */}
-                    <div className="relative h-48 bg-gradient-to-br from-primary-500 to-accent-500 overflow-hidden">
+                    <div className="relative h-48 bg-gradient-to-br from-primary-500/90 to-accent-500/90 overflow-hidden">
+                      <div className="absolute inset-0 bg-gradient-to-t from-slate-900/25 via-transparent to-transparent" />
                       {course.thumbnail ? (
                         <img 
                           src={course.thumbnail} 
@@ -296,7 +333,7 @@ export default function CoursesPage() {
 
                     {/* Course Content */}
                     <div className="p-6">
-                      <div className="flex items-center gap-2 mb-2">
+                      <div className="flex items-center gap-2 mb-3">
                         <CategoryIcon className="w-5 h-5 text-primary-600" />
                         <Badge variant="outline" size="sm">
                           {getCategoryLabel(course.category)}
@@ -306,40 +343,49 @@ export default function CoursesPage() {
                         </Badge>
                       </div>
 
-                      <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary-600 transition-colors">
+                      <h3 className="text-[20px] leading-[1.25] font-extrabold text-slate-900 mb-2 group-hover:text-primary-700 transition-colors">
                         {course.title}
                       </h3>
-                      <p className="text-gray-600 text-sm mb-4 line-clamp-2">
+                      <p className="text-slate-600 text-[15px] leading-[1.55] mb-4 line-clamp-2">
                         {course.shortDescription || course.description}
                       </p>
 
                       {/* Course Meta */}
-                      <div className="flex items-center gap-4 text-sm text-gray-600 mb-4">
-                        <div className="flex items-center gap-1">
-                          <HiStar className="w-4 h-4 text-yellow-500" />
-                          <span className="font-semibold">{course.rating?.toFixed(1) || '4.5'}</span>
-                          <span className="text-gray-500">({course.reviewsCount || 0})</span>
+                      <div className="grid grid-cols-3 gap-3 text-[13px] text-slate-600 mb-4">
+                        <div>
+                          <div className="text-slate-500">Rating</div>
+                          <div className="mt-1 flex items-center gap-1.5">
+                            <HiStar className="w-4 h-4 text-yellow-500" />
+                            <span className="font-semibold text-slate-900">{course.rating?.toFixed(1) || '4.5'}</span>
+                            <span className="text-slate-500">({course.reviewsCount || 0})</span>
+                          </div>
                         </div>
-                        <div className="flex items-center gap-1">
-                          <HiClock className="w-4 h-4" />
-                          <span>{course.duration || 'N/A'}</span>
+                        <div>
+                          <div className="text-slate-500">Duration</div>
+                          <div className="mt-1 flex items-center gap-1.5">
+                            <HiClock className="w-4 h-4 text-slate-400" />
+                            <span className="font-semibold text-slate-900">{course.duration || 'N/A'}</span>
+                          </div>
                         </div>
-                        <div className="flex items-center gap-1">
-                          <HiUserGroup className="w-4 h-4" />
-                          <span>{course.studentsCount || 0}</span>
+                        <div>
+                          <div className="text-slate-500">Students</div>
+                          <div className="mt-1 flex items-center gap-1.5">
+                            <HiUserGroup className="w-4 h-4 text-slate-400" />
+                            <span className="font-semibold text-slate-900">{course.studentsCount || 0}</span>
+                          </div>
                         </div>
                       </div>
 
                       {/* Price and CTA */}
-                      <div className="flex items-center justify-between pt-4 border-t border-gray-200">
+                      <div className="flex items-center justify-between pt-4 border-t border-app-border">
                         <div>
                           {course.price === 0 ? (
-                            <span className="text-2xl font-bold text-success-600">Free</span>
+                            <span className="text-[24px] leading-[28px] font-extrabold text-success-600">Free</span>
                           ) : (
                             <div className="flex items-center gap-2">
-                              <span className="text-2xl font-bold text-gray-900">${course.price}</span>
+                              <span className="text-[24px] leading-[28px] font-extrabold text-slate-900">${course.price}</span>
                               {course.originalPrice && course.originalPrice > course.price && (
-                                <span className="text-lg text-gray-500 line-through">
+                                <span className="text-[15px] text-slate-500 line-through">
                                   ${course.originalPrice}
                                 </span>
                               )}
@@ -354,16 +400,16 @@ export default function CoursesPage() {
                             router.push(`/courses/${course.id}`)
                           }}
                         >
-                          View Course
+                          View course
                           <HiArrowRight className="w-4 h-4 ml-1" />
                         </Button>
                       </div>
 
                       {/* Certificate Badge */}
                       {course.certificateType && (
-                        <div className="mt-3 flex items-center gap-2 text-sm text-primary-600">
+                        <div className="mt-3 flex items-center gap-2 text-sm text-primary-700">
                           <HiCheckCircle className="w-4 h-4" />
-                          <span>Certificate included</span>
+                          <span className="font-semibold">Certificate included</span>
                         </div>
                       )}
                     </div>

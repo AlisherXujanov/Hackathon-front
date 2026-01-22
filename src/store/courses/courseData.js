@@ -4,6 +4,10 @@
  * In production, this would come from the backend API
  */
 
+import pythonFundamentalsThumbnail from '../../assets/images/courses/python-15-min-scaled.jpg'
+import ieltsReadingMasteryThumbnail from '../../assets/images/courses/IELTS-Reading-Basic-.png'
+import ieltsWritingThumbnail from '../../assets/images/courses/ielts-writing.png'
+
 export const COURSE_CATEGORIES = {
   IELTS: 'ielts',
   PROGRAMMING: 'programming',
@@ -43,7 +47,7 @@ export const sampleCourses = [
       name: 'FrameSchool Team',
       avatar: null,
     },
-    thumbnail: '/assets/images/courses/ielts-reading.jpg',
+    thumbnail: ieltsReadingMasteryThumbnail.src,
     duration: '8 hours',
     lessonsCount: 22,
     studentsCount: 1250,
@@ -123,7 +127,7 @@ export const sampleCourses = [
       name: 'FrameSchool Team',
       avatar: null,
     },
-    thumbnail: '/assets/images/courses/ielts-writing.jpg',
+    thumbnail: ieltsWritingThumbnail.src,
     duration: '10 hours',
     lessonsCount: 28,
     studentsCount: 980,
@@ -155,7 +159,7 @@ export const sampleCourses = [
       name: 'FrameSchool Team',
       avatar: null,
     },
-    thumbnail: '/assets/images/courses/python.jpg',
+    thumbnail: pythonFundamentalsThumbnail.src,
     duration: '15 hours',
     lessonsCount: 35,
     studentsCount: 2100,

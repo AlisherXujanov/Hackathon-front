@@ -133,12 +133,46 @@ export default function StudentProfilePage() {
   // Показываем загрузку
   if (isLoading) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-8 md:py-12">
-          <div className="flex items-center justify-center min-h-[50vh]">
-            <div className="text-center">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
-              <p className="text-gray-600">Загрузка профиля студента...</p>
+      <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
+        <section className="relative h-[200px] overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-br from-primary-600/18 via-accent-600/12 to-secondary-600/14" />
+          <div className="absolute inset-0 bg-white/75" />
+          <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-b from-transparent to-[#F7F8FA]" />
+
+          <div className="container-wrapper relative h-full">
+            <div className="max-w-[1200px] mx-auto h-full flex items-end pb-6">
+              <div className="flex items-center gap-4">
+                <div className="h-20 w-20 rounded-full bg-gray-200 animate-pulse" />
+                <div>
+                  <div className="h-8 w-56 rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-2 h-5 w-64 rounded-lg bg-gray-200 animate-pulse" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <div className="container-wrapper py-8 md:py-10">
+          <div className="max-w-[1200px] mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+              {[0, 1, 2, 3].map((i) => (
+                <Card key={i} variant="glass" hover={false} className="rounded-2xl p-6">
+                  <div className="h-10 w-10 rounded-xl bg-gray-200 animate-pulse" />
+                  <div className="mt-4 h-4 w-28 rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-2 h-8 w-20 rounded-lg bg-gray-200 animate-pulse" />
+                </Card>
+              ))}
+            </div>
+
+            <div className="mt-8">
+              <Card variant="glass" hover={false} className="rounded-2xl p-6">
+                <div className="h-6 w-56 rounded-lg bg-gray-200 animate-pulse" />
+                <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {[0, 1, 2, 3].map((i) => (
+                    <div key={i} className="h-14 rounded-xl bg-gray-200 animate-pulse" />
+                  ))}
+                </div>
+              </Card>
             </div>
           </div>
         </div>
@@ -149,7 +183,7 @@ export default function StudentProfilePage() {
   // Показываем ошибку
   if (error || !studentData) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
+      <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
         <div className="container-wrapper py-8 md:py-12">
           <div className="flex items-center justify-center min-h-[50vh]">
             <div className="text-center">
@@ -168,16 +202,18 @@ export default function StudentProfilePage() {
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      {/* Profile Header with Gradient */}
-      <section className="relative bg-gradient-to-br from-primary-600 via-accent-600 to-secondary-600 py-12 md:py-16">
-        <div className="container-wrapper">
-          <ScrollAnimation>
-            <div className="flex flex-col md:flex-row items-center md:items-end justify-between space-y-6 md:space-y-0">
-              <div className="flex flex-col md:flex-row items-center md:items-end space-y-6 md:space-y-0 md:space-x-6">
-                {/* Avatar */}
-                <div className="relative">
-                  <div className="w-24 h-24 md:w-32 md:h-32 rounded-full bg-white/20 backdrop-blur-md border-4 border-white/30 flex items-center justify-center text-white text-4xl md:text-5xl font-bold shadow-xl overflow-hidden">
+    <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
+      <section className="relative h-[200px] overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-br from-primary-600/18 via-accent-600/12 to-secondary-600/14" />
+        <div className="absolute inset-0 bg-white/75" />
+        <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-b from-transparent to-[#F7F8FA]" />
+
+        <div className="container-wrapper relative h-full">
+          <div className="max-w-[1200px] mx-auto h-full flex items-end pb-6">
+            <ScrollAnimation>
+              <div className="w-full flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                <div className="flex items-center gap-4">
+                  <div className="h-20 w-20 rounded-full bg-white border border-app-border shadow-card flex items-center justify-center text-slate-900 text-3xl font-extrabold overflow-hidden">
                     {avatarUrl ? (
                       <img
                         src={avatarUrl}
@@ -191,83 +227,60 @@ export default function StudentProfilePage() {
                       <span>{userInitial}</span>
                     )}
                   </div>
+
+                  <div className="min-w-0">
+                    <div className="text-[28px] leading-[32px] md:text-[32px] md:leading-[36px] font-extrabold text-slate-900 truncate">
+                      {fullName || username}
+                    </div>
+                    <div className="mt-1 text-[14px] md:text-[15px] text-slate-600 truncate">@{username}</div>
+                  </div>
                 </div>
-                
-                {/* Name and Info */}
-                <div className="text-center md:text-left text-white">
-                  <h1 className="text-3xl md:text-4xl font-bold mb-2">{fullName || username}</h1>
-                  <p className="text-white/90 text-lg">@{username}</p>
-                  {bio && (
-                    <p className="text-white/80 text-sm mt-2 max-w-md">{bio}</p>
-                  )}
-                </div>
-              </div>
-              
-              {/* Back Button */}
-              <div className="flex items-center">
+
                 <button
                   onClick={() => router.back()}
-                  className="flex items-center space-x-2 bg-white/10 hover:bg-white/20 text-white border border-white/30 hover:border-white/50 px-4 py-2 rounded-lg transition-all duration-200"
+                  className="h-10 inline-flex items-center gap-2 px-4 rounded-xl bg-white/70 hover:bg-white border border-app-border text-slate-700 font-semibold transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500/40"
                 >
                   <HiArrowLeft className="w-5 h-5" />
                   <span>Назад</span>
                 </button>
               </div>
-            </div>
-          </ScrollAnimation>
+            </ScrollAnimation>
+          </div>
         </div>
       </section>
 
-      <div className="container-wrapper py-8 md:py-12">
+      <div className="container-wrapper py-8 md:py-10">
+        <div className="max-w-[1200px] mx-auto">
         {/* Statistics Cards */}
         <ScrollAnimation delay={100}>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6 mb-8">
-            {/* Streak Days */}
-            <Card variant="stat" className="p-6">
-              <div className="flex items-start justify-between">
-                <div className="flex-1">
-                  <div className={`w-12 h-12 rounded-lg ${getColorClasses('warning').bg} flex items-center justify-center mb-4`}>
-                    <FaFire className={`w-6 h-6 ${getColorClasses('warning').text}`} />
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6 mb-8">
+            {[
+              { label: 'Серия дней', value: streakDays, hint: 'подряд', icon: FaFire },
+              { label: 'Часы обучения', value: totalLearningHours, hint: 'всего', icon: HiClock },
+              { label: 'Класс', value: className || '—', hint: null, icon: HiAcademicCap },
+              { label: 'Учитель', value: teacherName || '—', hint: null, icon: HiUserCircle },
+            ].map((stat) => {
+              const Icon = stat.icon
+              return (
+                <Card key={stat.label} variant="glass" className="rounded-2xl p-6">
+                  <div className="h-10 w-10 rounded-xl bg-white border border-app-border shadow-card flex items-center justify-center">
+                    <Icon className="w-5 h-5 text-slate-700" />
                   </div>
-                  <h3 className="text-sm font-medium text-gray-600 mb-1">Дней подряд</h3>
-                  <p className={`text-2xl md:text-3xl font-bold ${getColorClasses('warning').text}`}>
-                    {streakDays}
-                  </p>
-                </div>
-                <div className="text-right">
-                  <Badge variant="warning" size="sm">
-                    Активная серия
-                  </Badge>
-                </div>
-              </div>
-            </Card>
-
-            {/* Total Learning Hours */}
-            <Card variant="stat" className="p-6">
-              <div className="flex items-start justify-between">
-                <div className="flex-1">
-                  <div className={`w-12 h-12 rounded-lg ${getColorClasses('success').bg} flex items-center justify-center mb-4`}>
-                    <HiClock className={`w-6 h-6 ${getColorClasses('success').text}`} />
+                  <div className="mt-4 text-[13px] text-slate-500">{stat.label}</div>
+                  <div className="mt-1 flex items-baseline gap-2">
+                    <div className="text-[30px] leading-[34px] font-extrabold text-slate-900 truncate">{stat.value}</div>
+                    {stat.hint && <div className="text-[13px] text-slate-500">{stat.hint}</div>}
                   </div>
-                  <h3 className="text-sm font-medium text-gray-600 mb-1">Часов обучения</h3>
-                  <p className={`text-2xl md:text-3xl font-bold ${getColorClasses('success').text}`}>
-                    {totalLearningHours}
-                  </p>
-                </div>
-                <div className="text-right">
-                  <Badge variant="success" size="sm">
-                    Всего
-                  </Badge>
-                </div>
-              </div>
-            </Card>
+                </Card>
+              )
+            })}
           </div>
         </ScrollAnimation>
 
         {/* Class Information */}
         {classInfo && (
           <ScrollAnimation delay={200}>
-            <Card variant="glass" className="p-6 md:p-8 mb-8 relative overflow-hidden group">
+            <Card variant="glass" className="rounded-2xl p-6 md:p-8 mb-8 relative overflow-hidden group">
               <div className="absolute -right-10 -top-10 h-24 w-24 rounded-full bg-primary-200/40 blur-2xl" />
               <div className="absolute inset-0 bg-[linear-gradient(120deg,transparent,rgba(255,255,255,0.7),transparent)] opacity-0 group-hover:opacity-100 transition-opacity duration-700" />
               
@@ -343,41 +356,42 @@ export default function StudentProfilePage() {
 
         {/* Additional Information */}
         <ScrollAnimation delay={300}>
-          <Card variant="glass" className="p-6 md:p-8">
-            <h3 className="text-xl font-semibold mb-4 text-slate-900">Дополнительная информация</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <Card variant="glass" className="rounded-2xl p-6 md:p-8">
+            <h3 className="text-[18px] leading-[1.25] font-extrabold mb-4 text-slate-900">Данные профиля</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-x-6">
               {/* Username */}
-              <div>
-                <p className="text-sm text-gray-600 mb-1">Имя пользователя</p>
-                <p className="text-base font-medium text-gray-900">@{username}</p>
+              <div className="py-3 border-b border-app-border">
+                <div className="text-[12px] text-slate-500">Имя пользователя</div>
+                <div className="mt-1 text-[15px] font-semibold text-slate-900">@{username}</div>
               </div>
 
               {/* Full Name */}
               {(firstName || lastName) && (
-                <div>
-                  <p className="text-sm text-gray-600 mb-1">Полное имя</p>
-                  <p className="text-base font-medium text-gray-900">{fullName}</p>
+                <div className="py-3 border-b border-app-border">
+                  <div className="text-[12px] text-slate-500">Полное имя</div>
+                  <div className="mt-1 text-[15px] font-semibold text-slate-900">{fullName}</div>
                 </div>
               )}
 
               {/* Date Joined */}
               {dateJoined && (
-                <div>
-                  <p className="text-sm text-gray-600 mb-1">Дата регистрации</p>
-                  <p className="text-base font-medium text-gray-900">{dateJoined}</p>
+                <div className="py-3 border-b border-app-border">
+                  <div className="text-[12px] text-slate-500">Дата регистрации</div>
+                  <div className="mt-1 text-[15px] font-semibold text-slate-900">{dateJoined}</div>
                 </div>
               )}
 
               {/* Bio */}
               {bio && (
                 <div className="md:col-span-2">
-                  <p className="text-sm text-gray-600 mb-1">О себе</p>
-                  <p className="text-base text-gray-900">{bio}</p>
+                  <div className="text-[12px] text-slate-500">О себе</div>
+                  <div className="mt-1 text-[15px] leading-[1.6] text-slate-900">{bio}</div>
                 </div>
               )}
             </div>
           </Card>
         </ScrollAnimation>
+        </div>
       </div>
     </main>
   )
