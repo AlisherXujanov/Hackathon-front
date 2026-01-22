@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
+import { useRouter } from 'next/navigation'
 import { HiX, HiChevronLeft, HiChevronRight, HiCheckCircle } from 'react-icons/hi'
 import QuestionRenderer from './questions/QuestionRenderer'
 import ReadingProgressBar from './ReadingProgressBar'
@@ -17,6 +18,7 @@ export default function FullscreenReadingMode({
   onExitFullscreen,
   isNormalMode = false 
 }) {
+  const router = useRouter()
   const {
     readingData,
     currentPassage,
@@ -196,7 +198,7 @@ export default function FullscreenReadingMode({
           )}
           {!isNormalMode && (
             <button
-              onClick={onExitFullscreen}
+              onClick={() => router.push('/english/reading')}
               className={styles.exitButton}
               aria-label="Exit fullscreen"
             >
