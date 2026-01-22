@@ -355,4 +355,69 @@ export const authService = {
   },
 }
 
+// Сервис для работы с лидербордом
+export const leaderboardService = {
+  /**
+   * Получить лидерборд пользователей
+   * @param {Object} params - Параметры запроса
+   * @param {number} params.page - Номер страницы (по умолчанию 1)
+   * @param {number} params.page_size - Количество элементов на странице (максимум 50, по умолчанию 20)
+   * @returns {Promise} Ответ от сервера с данными лидерборда
+   */
+  getLeaderboard: async ({ page = 1, page_size = 20 } = {}) => {
+    try {
+      // Ограничиваем page_size максимумом 50
+      const validPageSize = Math.min(page_size, 50)
+      
+      const response = await apiClient.get('/api/v1/points/leaderboard/', {
+        params: {
+          page,
+          page_size: validPageSize,
+        },
+      })
+      
+      return response.data
+    } catch (error) {
+      // Обработка ошибок
+      if (error.response?.data) {
+        const errorData = error.response.data
+        const errorMessage = errorData.message || 
+                          errorData.error || 
+                          errorData.detail ||
+                          'Ошибка при получении лидерборда'
+        throw new Error(errorMessage)
+      }
+      throw new Error('Ошибка при получении лидерборда. Проверьте подключение к серверу.')
+    }
+  },
+}
+
+// Сервис для работы со студентами
+export const studentService = {
+  /**
+   * Получить профиль студента
+   * @param {number|string} id - ID студента
+   * @returns {Promise} Ответ от сервера с данными профиля студента
+   */
+  getStudentProfile: async (id) => {
+    try {
+      const response = await apiClient.get(`/api/v1/users/students/${id}/profile/`)
+      
+      // Обрабатываем структуру ответа (может быть data.data или просто data)
+      return response.data
+    } catch (error) {
+      // Обработка ошибок
+      if (error.response?.data) {
+        const errorData = error.response.data
+        const errorMessage = errorData.message || 
+                          errorData.error || 
+                          errorData.detail ||
+                          'Ошибка при получении профиля студента'
+        throw new Error(errorMessage)
+      }
+      throw new Error('Ошибка при получении профиля студента. Проверьте подключение к серверу.')
+    }
+  },
+}
+
 export default apiClient
