@@ -16,7 +16,7 @@ export default function GrammarCommonMistakes({ topic, language = 'en' }) {
 
   return (
     <div className="space-y-4">
-      <Card variant="glass" className="p-6">
+      <Card variant="glass" className="p-3 md:p-5">
         <SectionHeader
           icon={HiExclamationCircle}
           title="Common Mistakes"
@@ -31,8 +31,8 @@ export default function GrammarCommonMistakes({ topic, language = 'en' }) {
       </div>
 
       {/* Tips Card */}
-      <Card variant="glass" className="p-6 bg-gradient-to-br from-warning-50 to-error-50 border-warning-200">
-        <h3 className="text-lg font-bold text-gray-900 mb-3">💡 Tips to Avoid Mistakes</h3>
+      <Card variant="glass" className="p-3 md:p-5 bg-gradient-to-br from-warning-50 to-error-50 border-warning-200">
+        <h3 className="text-base md:text-lg font-bold text-gray-900 mb-3">💡 Tips to Avoid Mistakes</h3>
         <ul className="space-y-2 text-gray-700">
           <li className="flex items-start gap-2">
             <span className="text-warning-600 mt-1">•</span>

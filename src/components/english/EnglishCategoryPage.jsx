@@ -47,7 +47,7 @@ export default function EnglishCategoryPage({
   return (
     <div className="w-full overflow-x-hidden relative">
       <div className="relative z-10">
-        <div className="container-wrapper py-4 md:py-6 lg:py-8">
+        <div className="container-wrapper pt-24 pb-4 sm:pt-28 md:pb-6 lg:pb-8">
           <CategoryHeader
             icon={category.icon}
             title={category.name}

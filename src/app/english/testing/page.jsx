@@ -7,7 +7,7 @@ import { HiClipboardCheck, HiSparkles } from 'react-icons/hi'
 export default function TestingPage() {
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      <div className="container-wrapper py-8 md:py-12 px-4 lg:px-8">
+      <div className="container-wrapper pt-24 pb-10 sm:pt-28 md:pb-14 px-4 lg:px-8">
         <ScrollAnimation>
           <div className="mb-8">
             <div className="flex items-center space-x-3 mb-4">

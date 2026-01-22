@@ -6,12 +6,12 @@
  */
 export default function SectionHeader({ icon: Icon, title, description, className = '' }) {
   return (
-    <div className={`flex items-center gap-3 mb-6 ${className}`}>
-      {Icon && <Icon className="w-6 h-6 text-primary-600 flex-shrink-0" />}
+    <div className={`flex items-center gap-3 mb-4 md:mb-5 ${className}`}>
+      {Icon && <Icon className="w-5 h-5 md:w-6 md:h-6 text-primary-600 flex-shrink-0" />}
       <div className="flex-1">
-        <h2 className="text-2xl font-bold text-gray-900">{title}</h2>
+        <h2 className="text-lg md:text-2xl font-bold text-gray-900">{title}</h2>
         {description && (
-          <p className="text-gray-600 mt-2">{description}</p>
+          <p className="text-gray-600 mt-1.5 text-sm md:text-base">{description}</p>
         )}
       </div>
     </div>

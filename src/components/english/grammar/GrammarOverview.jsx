@@ -13,9 +13,9 @@ export default function GrammarOverview({ topic, language = 'en' }) {
   const difficulty = topic.difficulty || 0
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 md:space-y-6">
       {/* Quick Stats */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-2 md:gap-4">
         <StatCard
           icon={HiClock}
           label="Estimated Time"
@@ -32,9 +32,9 @@ export default function GrammarOverview({ topic, language = 'en' }) {
           iconColor="text-warning-600"
         />
 
-        <Card variant="glass" className="p-6">
-          <div className="flex items-center gap-4">
-            <div className="p-3 bg-accent-100 rounded-lg">
+        <Card variant="glass" className="p-3 md:p-5">
+          <div className="flex items-center gap-3 md:gap-4">
+            <div className="p-2.5 md:p-3 bg-accent-100 rounded-lg">
               <HiCheckCircle className="w-6 h-6 text-accent-600" />
             </div>
             <div>
@@ -51,9 +51,9 @@ export default function GrammarOverview({ topic, language = 'en' }) {
       <LearningObjectivesList topic={topic} language={language} />
 
       {/* Topic Information */}
-      <Card variant="glass" className="p-6">
-        <h2 className="text-2xl font-bold text-gray-900 mb-4">About This Topic</h2>
-        <div className="space-y-4">
+      <Card variant="glass" className="p-3 md:p-5">
+        <h2 className="text-lg md:text-2xl font-bold text-gray-900 mb-2 md:mb-4">About This Topic</h2>
+        <div className="space-y-2.5 md:space-y-4">
           <div>
             <p className="text-sm font-semibold text-gray-600 mb-2">Level</p>
             <Badge variant="primary" className="text-sm font-semibold px-3 py-1">

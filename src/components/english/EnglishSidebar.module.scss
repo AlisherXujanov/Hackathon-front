@@ -25,21 +25,23 @@
 .categoryLink {
   position: relative;
   
-  &::before {
+  &::after {
     content: '';
     position: absolute;
-    left: 0;
+    right: 12px;
     top: 50%;
-    transform: translateY(-50%);
-    width: 3px;
-    height: 0;
+    transform: translateY(-50%) scale(0.8);
+    width: 6px;
+    height: 6px;
     background: linear-gradient(135deg, $primary-color, $accent-color);
-    border-radius: 0 $border-radius-sm $border-radius-sm 0;
-    transition: height $transition-base;
+    border-radius: $border-radius-full;
+    opacity: 0;
+    transition: opacity $transition-base, transform $transition-base;
   }
 
-  &:hover::before,
-  &.active::before {
-    height: 60%;
+  &:hover::after,
+  &.active::after {
+    opacity: 1;
+    transform: translateY(-50%) scale(1);
   }
 }

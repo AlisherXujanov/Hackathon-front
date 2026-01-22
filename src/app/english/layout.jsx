@@ -20,7 +20,7 @@ export default function EnglishLayout({ children }) {
       }} />
       
       <EnglishSidebar />
-      <main className="flex-1 relative z-0">
+      <main className="flex-1 relative z-0 pb-16">
         {children}
       </main>
     </div>

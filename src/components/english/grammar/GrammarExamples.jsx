@@ -15,8 +15,8 @@ export default function GrammarExamples({ topic, language = 'en' }) {
   }
 
   return (
-    <div className="space-y-4">
-      <Card variant="glass" className="p-6">
+    <div className="space-y-3 md:space-y-4">
+      <Card variant="glass" className="p-3 md:p-5">
         <SectionHeader
           icon={HiLightBulb}
           title="Example Sentences"
@@ -24,9 +24,9 @@ export default function GrammarExamples({ topic, language = 'en' }) {
         />
       </Card>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5 md:gap-4">
         {examples.map((example, index) => (
-          <Card key={index} variant="glass" className="p-5 hover:shadow-lg transition-shadow">
+          <Card key={index} variant="glass" className="p-3.5 md:p-5 hover:shadow-lg transition-shadow">
             <div className="flex items-start gap-3">
               <div className="mt-1 flex-shrink-0">
                 <div className="w-8 h-8 rounded-full bg-primary-100 flex items-center justify-center">
@@ -34,7 +34,7 @@ export default function GrammarExamples({ topic, language = 'en' }) {
                 </div>
               </div>
               <div className="flex-1">
-                <p className="text-gray-900 font-medium leading-relaxed">
+                <p className="text-gray-900 font-medium leading-relaxed text-sm md:text-base">
                   {example}
                 </p>
               </div>

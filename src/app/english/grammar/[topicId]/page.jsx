@@ -223,10 +223,11 @@ export default function GrammarTopicPage() {
 
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50 relative">
-      <div className={`container-wrapper py-8 md:py-12 transition-all duration-300 ${notesSidebarOpen ? 'lg:pr-[400px]' : ''}`}>
+      <div className={`container-wrapper pt-24 pb-8 sm:pt-28 md:pb-12 transition-all duration-300 ${notesSidebarOpen ? 'lg:pr-[400px]' : ''}`}>
         {/* Header */}
-        <div className="my-6">
-          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-4">
+        <Card variant="glass" hover={false} className="mb-3 md:mb-5">
+          <div className="p-3 md:p-5">
+            <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-2 md:gap-3">
             <div className="flex items-center gap-3">
               <Button
                 variant="ghost"
@@ -262,8 +263,8 @@ export default function GrammarTopicPage() {
           </div>
 
           {/* Topic Title */}
-          <div className="flex items-start gap-4 mb-6">
-            <div className="flex-1">
+          <div className="flex items-start gap-4 mt-2 md:mt-3">
+            <div className="flex-1 min-w-0">
               <div className="flex items-center gap-3 mb-2">
                 <Badge variant="primary" className="text-xs font-semibold px-3 py-1">
                   {topicData.level}
@@ -272,7 +273,7 @@ export default function GrammarTopicPage() {
                   <DifficultyBadge difficulty={topicData.difficulty} className="text-xs font-semibold px-3 py-1" />
                 )}
               </div>
-              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2 break-words">
                 {topicData.topic}
               </h1>
               {topicData.estimated_hours && (
@@ -282,7 +283,8 @@ export default function GrammarTopicPage() {
               )}
             </div>
           </div>
-        </div>
+          </div>
+        </Card>
 
         {/* Section Navigation */}
         <SectionNavigation

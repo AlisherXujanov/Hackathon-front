@@ -93,18 +93,18 @@ export default function GrammarPractice({ exercises, language = 'en' }) {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-4 md:space-y-6">
       {/* Header */}
-      <Card variant="glass" className="p-6">
+      <Card variant="glass" className="p-3 md:p-5">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">Practice Exercises</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-2">Practice Exercises</h2>
             <p className="text-gray-600">
               Complete {totalExercises} exercises to master this grammar topic
             </p>
           </div>
           <div className="flex items-center gap-3">
-            <Badge variant="primary" className="text-sm font-semibold px-4 py-2">
+            <Badge variant="primary" className="text-sm font-semibold px-2.5 py-1 md:px-4 md:py-2">
               {completedCount} / {totalExercises} completed
             </Badge>
           </div>
@@ -124,7 +124,7 @@ export default function GrammarPractice({ exercises, language = 'en' }) {
 
       {/* Filter */}
       {availableTypes.length > 1 && (
-        <Card variant="glass" className="p-4">
+        <Card variant="glass" className="p-2.5 md:p-4">
           <div className="flex items-center gap-3 flex-wrap">
             <HiFilter className="w-5 h-5 text-gray-500" />
             <span className="text-sm font-medium text-gray-700">Filter by type:</span>
@@ -204,7 +204,7 @@ export default function GrammarPractice({ exercises, language = 'en' }) {
 
       {/* Summary Card */}
       {completedCount > 0 && (
-        <Card variant="glass" className="p-6 bg-gradient-to-br from-success-50 to-primary-50 border-success-200">
+        <Card variant="glass" className="p-4 md:p-6 bg-gradient-to-br from-success-50 to-primary-50 border-success-200">
           <div className="flex items-center gap-3 mb-3">
             <HiClipboardCheck className="w-6 h-6 text-success-600" />
             <h3 className="text-lg font-bold text-gray-900">Practice Summary</h3>

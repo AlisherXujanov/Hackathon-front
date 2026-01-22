@@ -1,6 +1,8 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
 import { usePagination, paginate } from './usePagination'
 
+const ENGLISH_LEVEL_STORAGE_KEY = 'english_selected_level'
+
 /**
  * Custom hook to manage English category page state and logic
  * Consolidates all category page functionality into a single reusable hook
@@ -10,12 +12,25 @@ import { usePagination, paginate } from './usePagination'
  * @returns {Object} Category page state and handlers
  */
 export function useEnglishCategory(categoryConfig, initialLevel = 'A1') {
-  const [selectedLevel, setSelectedLevel] = useState(initialLevel)
+  const [selectedLevel, setSelectedLevel] = useState(() => {
+    if (typeof window === 'undefined') return initialLevel
+    return localStorage.getItem(ENGLISH_LEVEL_STORAGE_KEY) || initialLevel
+  })
   const [topics, setTopics] = useState([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [currentPage, setCurrentPage] = useState(1)
   const itemsPerPage = usePagination()
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+    localStorage.setItem(ENGLISH_LEVEL_STORAGE_KEY, selectedLevel)
+    window.dispatchEvent(
+      new CustomEvent('english-level-changed', {
+        detail: { level: selectedLevel }
+      })
+    )
+  }, [selectedLevel])
 
   // Define loadTopics before useEffect to avoid initialization error
   const loadTopics = useCallback(async () => {

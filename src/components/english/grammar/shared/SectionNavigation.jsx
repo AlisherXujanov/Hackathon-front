@@ -16,8 +16,8 @@ export default function SectionNavigation({ activeSection, onSectionChange, clas
   return (
     <>
       {/* Desktop Navigation */}
-      <div className={`hidden md:block mb-6 ${className}`}>
-        <Card variant="glass" hover={false} className="p-2 hover:shadow-2xl">
+      <div className={`hidden md:block mb-4 md:mb-5 ${className}`}>
+        <Card variant="glass" hover={false} className="p-2">
           <nav className="flex flex-wrap gap-2" aria-label="Section navigation">
             {SECTIONS.map((section) => {
               const Icon = section.icon
@@ -26,10 +26,10 @@ export default function SectionNavigation({ activeSection, onSectionChange, clas
                   key={section.id}
                   onClick={() => handleSectionChange(section.id)}
                   className={`
-                    flex items-center gap-2 px-4 py-2 rounded-lg font-medium text-sm transition-all
+                    flex items-center gap-2 px-3 py-1.5 rounded-lg font-medium text-sm transition-colors
                     ${
                       activeSection === section.id
-                        ? 'bg-primary-600 text-white shadow-md'
+                        ? 'bg-primary-600 text-white shadow-sm'
                         : 'text-gray-700 hover:bg-gray-100'
                     }
                   `}
@@ -44,12 +44,12 @@ export default function SectionNavigation({ activeSection, onSectionChange, clas
       </div>
 
       {/* Mobile Navigation */}
-      <div className={`md:hidden mb-6 ${className}`}>
-        <Card variant="glass" hover={false} className="p-2 hover:shadow-2xl">
+      <div className={`md:hidden mb-4 ${className}`}>
+        <Card variant="glass" hover={false} className="p-2">
           <select
             value={activeSection}
             onChange={(e) => handleSectionChange(e.target.value)}
-            className="w-full px-4 py-2 rounded-lg border border-gray-200 bg-white font-medium text-sm focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="w-full px-3 py-2 rounded-lg border border-gray-200 bg-white font-medium text-sm focus:outline-none focus:ring-2 focus:ring-primary-500"
           >
             {SECTIONS.map((section) => (
               <option key={section.id} value={section.id}>

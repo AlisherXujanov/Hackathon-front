@@ -14,18 +14,18 @@ export default function LearningObjectivesList({ topic, language = 'en', showHea
 
   if (learningObjectives.length === 0) {
     return (
-      <Card variant="glass" className={`p-6 ${className}`}>
+      <Card variant="glass" className={`p-3 md:p-5 ${className}`}>
         <p className="text-gray-500 italic">No learning objectives available for this language.</p>
       </Card>
     )
   }
 
   return (
-    <Card variant="glass" className={`p-6 ${className}`}>
+    <Card variant="glass" className={`p-3 md:p-5 ${className}`}>
       {showHeader && (
         <SectionHeader icon={HiLightBulb} title="Learning Objectives" />
       )}
-      <ul className="space-y-3">
+      <ul className="space-y-2.5 md:space-y-3">
         {learningObjectives.map((objective, index) => (
           <li key={index} className="flex items-start gap-3">
             <div className="mt-1.5 flex-shrink-0">

@@ -25,8 +25,8 @@ export default function MistakeComparison({ mistake, index }) {
   const parsed = parseMistake(mistake)
 
   return (
-    <Card variant="glass" className="p-5">
-      <div className="space-y-3">
+    <Card variant="glass" className="p-3 md:p-5">
+      <div className="space-y-2.5 md:space-y-3">
         {/* Incorrect */}
         {parsed.incorrect && (
           <div className="flex items-start gap-3">
