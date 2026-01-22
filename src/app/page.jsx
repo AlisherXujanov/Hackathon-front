@@ -77,7 +77,7 @@ export default function Home() {
   ]
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen">
+    <main className="w-full overflow-x-hidden min-h-screen pt-24 sm:pt-28">
       {/* Hero Section - Professional Design */}
       <section className="relative min-h-[70vh] bg-gradient-to-br from-slate-50 via-white to-primary-50 overflow-x-hidden overflow-y-visible">
         {/* Main Background Image */}

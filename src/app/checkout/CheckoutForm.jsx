@@ -143,7 +143,7 @@ export default function CheckoutForm() {
 
   if (isComplete) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-gray-50 via-green-50/30 to-emerald-50/30 flex items-center justify-center">
+      <main className="w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-gray-50 via-green-50/30 to-emerald-50/30 flex items-center justify-center pt-24 sm:pt-28">
         <ScrollAnimation>
           <Card variant="glass" className="p-12 text-center max-w-md">
             <div className="w-20 h-20 bg-gradient-to-br from-green-400 to-emerald-500 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -168,7 +168,7 @@ export default function CheckoutForm() {
         <div className="absolute bottom-20 right-10 w-96 h-96 bg-pink-300/20 rounded-full blur-3xl"></div>
       </div>
 
-      <div className="container-wrapper py-12 md:py-20 relative z-10 min-h-screen">
+      <div className="container-wrapper pt-24 sm:pt-28 pb-12 md:pb-20 relative z-10 min-h-screen">
         <div className="max-w-7xl mx-auto">
           {/* Back Button */}
           <ScrollAnimation>

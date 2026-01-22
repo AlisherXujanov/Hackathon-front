@@ -18,6 +18,9 @@ import {
   HiBookOpen,
   HiCode,
   HiAcademicCap,
+  HiShieldCheck,
+  HiChip,
+  HiServer,
   HiSparkles,
   HiArrowRight,
   HiCheckCircle
@@ -123,6 +126,14 @@ export default function CoursesPage() {
         return HiAcademicCap
       case COURSE_CATEGORIES.PROGRAMMING:
         return HiCode
+      case COURSE_CATEGORIES.WEB_DEV:
+        return HiCode
+      case COURSE_CATEGORIES.DATA_AI:
+        return HiChip
+      case COURSE_CATEGORIES.DEVOPS:
+        return HiServer
+      case COURSE_CATEGORIES.CYBERSECURITY:
+        return HiShieldCheck
       case COURSE_CATEGORIES.BUSINESS_ENGLISH:
         return HiBookOpen
       default:
@@ -136,6 +147,14 @@ export default function CoursesPage() {
         return 'IELTS'
       case COURSE_CATEGORIES.PROGRAMMING:
         return 'Programming'
+      case COURSE_CATEGORIES.WEB_DEV:
+        return 'Web Dev'
+      case COURSE_CATEGORIES.DATA_AI:
+        return 'Data/AI'
+      case COURSE_CATEGORIES.DEVOPS:
+        return 'DevOps'
+      case COURSE_CATEGORIES.CYBERSECURITY:
+        return 'Cybersecurity'
       case COURSE_CATEGORIES.BUSINESS_ENGLISH:
         return 'Business English'
       default:
@@ -207,7 +226,7 @@ export default function CoursesPage() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative overflow-hidden">
+      <section className="relative overflow-hidden pt-24 sm:pt-28">
         <div className="absolute inset-0 bg-gradient-to-br from-primary-600/15 via-accent-600/10 to-secondary-600/15" />
         <div className="absolute inset-0 bg-white/70" />
         <div className="container-wrapper relative">
@@ -254,6 +273,10 @@ export default function CoursesPage() {
                   { value: 'all', label: 'All Categories' },
                   { value: COURSE_CATEGORIES.IELTS, label: 'IELTS' },
                   { value: COURSE_CATEGORIES.PROGRAMMING, label: 'Programming' },
+                  { value: COURSE_CATEGORIES.WEB_DEV, label: 'Web Dev' },
+                  { value: COURSE_CATEGORIES.DATA_AI, label: 'Data/AI' },
+                  { value: COURSE_CATEGORIES.DEVOPS, label: 'DevOps' },
+                  { value: COURSE_CATEGORIES.CYBERSECURITY, label: 'Cybersecurity' },
                   { value: COURSE_CATEGORIES.BUSINESS_ENGLISH, label: 'Business English' },
                 ]}
               />

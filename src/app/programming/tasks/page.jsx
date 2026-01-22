@@ -66,7 +66,7 @@ export default function ProgrammingTasksPage() {
 
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      <div className="container-wrapper py-8 md:py-12">
+      <div className="container-wrapper pt-24 sm:pt-28 pb-8 md:pb-12">
         <ScrollAnimation>
           <div className="mb-8">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-2">Programming Tasks</h1>

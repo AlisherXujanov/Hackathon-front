@@ -103,7 +103,7 @@ export default function AboutPage() {
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
       {/* Hero Section with Logo */}
-      <section className="relative py-16 md:py-24 overflow-hidden">
+      <section className="relative pt-24 sm:pt-28 pb-16 md:pb-24 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-primary-50/50 via-transparent to-secondary-50/50" />
         <div className="container-wrapper relative">
           <ScrollAnimation>

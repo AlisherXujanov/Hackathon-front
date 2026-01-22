@@ -32,12 +32,10 @@ export default function CourseDetailPage() {
   const [isEnrolled, setIsEnrolled] = useState(false)
   const [enrollment, setEnrollment] = useState(null)
   const [error, setError] = useState(null)
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
 
   useEffect(() => {
-    if (!authService.isAuthenticated()) {
-      router.push('/auth/login?redirect=/courses/' + courseId)
-      return
-    }
+    setIsAuthenticated(authService.isAuthenticated())
     loadCourse()
   }, [courseId, router])
 
@@ -73,6 +71,11 @@ export default function CourseDetailPage() {
 
   const handleEnroll = async () => {
     try {
+      // Если пользователь не вошёл, логиним как student и продолжаем
+      if (!authService.isAuthenticated()) {
+        await authService.login({ email: 'demo@student.local', password: 'demo', role: 'student' })
+        setIsAuthenticated(true)
+      }
       await courseService.enrollCourse(courseId)
       router.push(`/courses/${courseId}/learn`)
     } catch (error) {
@@ -83,13 +86,14 @@ export default function CourseDetailPage() {
   }
 
   const handlePurchase = () => {
-    router.push(`/checkout/course?course=${courseId}`)
+    // Покупка курса
+    handleEnroll()
   }
 
   if (isLoading) {
     return (
       <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-12">
+        <div className="container-wrapper pt-24 sm:pt-28 pb-12">
           <div className="flex items-center justify-center min-h-[50vh]">
             <div className="text-center">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
@@ -104,7 +108,7 @@ export default function CourseDetailPage() {
   if (error || !course) {
     return (
       <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-12">
+        <div className="container-wrapper pt-24 sm:pt-28 pb-12">
           <Card variant="glass" className="p-12 text-center">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Course Not Found</h2>
             <p className="text-gray-600 mb-6">{error || 'The course you are looking for does not exist.'}</p>
@@ -118,13 +122,15 @@ export default function CourseDetailPage() {
   }
 
   const progress = enrollment?.progress || 0
-  const completedLessons = enrollment?.completedLessons || 0
+  const completedLessons = Array.isArray(enrollment?.completedLessons)
+    ? enrollment.completedLessons.length
+    : (enrollment?.completedLessons || 0)
   const totalLessons = course.modules?.reduce((sum, module) => sum + (module.lessons?.length || 0), 0) || course.lessonsCount || 0
 
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-primary-600 via-accent-600 to-secondary-600 py-12 md:py-16">
+      <section className="relative bg-gradient-to-br from-primary-600 via-accent-600 to-secondary-600 pt-24 sm:pt-28 pb-12 md:pb-16">
         <div className="container-wrapper">
           <ScrollAnimation>
             <div className="text-white">
@@ -149,6 +155,39 @@ export default function CourseDetailPage() {
       </section>
 
       <div className="container-wrapper py-8 md:py-12">
+        {!isAuthenticated && (
+          <div className="mb-6">
+            <Card variant="glass" className="p-4 border border-primary-200">
+              <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+                <div className="text-sm text-slate-700">
+                  Вы можете смотреть курс без входа. Для записи и прогресса нажмите «Enroll».
+                </div>
+                <div className="flex items-center gap-2">
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={async () => {
+                      await authService.login({ email: 'demo@student.local', password: 'demo', role: 'student' })
+                      setIsAuthenticated(true)
+                    }}
+                  >
+                    Войти как Student
+                  </Button>
+                  <Button
+                    variant="primary"
+                    size="sm"
+                    onClick={async () => {
+                      await authService.login({ email: 'demo@teacher.local', password: 'demo', role: 'teacher' })
+                      setIsAuthenticated(true)
+                    }}
+                  >
+                    Войти как Teacher
+                  </Button>
+                </div>
+              </div>
+            </Card>
+          </div>
+        )}
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main Content */}
           <div className="lg:col-span-2 space-y-8">

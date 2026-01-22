@@ -29,7 +29,7 @@ export default function AIConversationPage() {
 
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      <div className="container-wrapper py-8 md:py-12">
+      <div className="container-wrapper pt-24 sm:pt-28 pb-8 md:pb-12">
         <ScrollAnimation>
           <div className="mb-8">
             <div className="flex items-center space-x-3 mb-2">

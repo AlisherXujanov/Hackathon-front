@@ -8,6 +8,8 @@ const Footer = () => {
 
   const footerLinks = {
     platform: [
+      { href: '/community', label: 'Community' },
+      { href: '/cybersecurity', label: 'Cybersecurity' },
       { href: '/about', label: 'About' },
       { href: '/classes', label: 'Classes' },
       { href: '/leaderboard', label: 'Leaderboard' },
@@ -17,6 +19,7 @@ const Footer = () => {
       { href: '/english/grammar', label: 'English Grammar' },
       { href: '/english/vocabulary', label: 'Vocabulary' },
       { href: '/programming/tasks', label: 'Programming Tasks' },
+      { href: '/programming/snippets', label: 'Code Snippets' },
       { href: '/ai/conversation', label: 'AI Assistant' },
     ],
     support: [

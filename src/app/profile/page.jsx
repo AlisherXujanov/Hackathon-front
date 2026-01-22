@@ -1,7 +1,14 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { useRouter } from 'next/navigation'
+import { getAnalyticsData } from '../../store/analytics/analyticsData'
+import { getUserGamification } from '../../store/gamification/gamificationData'
+import LineChart from '../../components/analytics/LineChart'
+import PieChart from '../../components/analytics/PieChart'
+import StatsCard from '../../components/analytics/StatsCard'
+import PointsDisplay from '../../components/gamification/PointsDisplay'
+import LevelProgress from '../../components/gamification/LevelProgress'
 import Card from '../../components/Card'
 import ScrollAnimation from '../../components/ScrollAnimation'
 import Button from '../../components/Button'
@@ -9,7 +16,21 @@ import Badge from '../../components/Badge'
 import Input from '../../components/Input'
 import Select from '../../components/Select'
 import { authService } from '../../services/api'
-import { HiUserCircle, HiChartBar, HiCog, HiLogout, HiMail, HiUser, HiGlobe, HiClock, HiPhotograph } from 'react-icons/hi'
+import { 
+  HiUserCircle, 
+  HiChartBar, 
+  HiCog, 
+  HiLogout, 
+  HiMail, 
+  HiUser, 
+  HiGlobe, 
+  HiClock, 
+  HiPhotograph,
+  HiBookOpen,
+  HiCheckCircle,
+  HiFire,
+  HiArrowRight
+} from 'react-icons/hi'
 import { FaTrophy } from 'react-icons/fa'
 
 export default function ProfilePage() {
@@ -39,6 +60,7 @@ export default function ProfilePage() {
   const tabs = [
     { id: 'overview', label: 'Обзор', icon: HiUserCircle },
     { id: 'progress', label: 'Прогресс', icon: HiChartBar },
+    { id: 'gamification', label: 'Геймификация', icon: HiFire },
     { id: 'achievements', label: 'Достижения', icon: FaTrophy },
     { id: 'settings', label: 'Настройки', icon: HiCog },
   ]
@@ -90,8 +112,8 @@ export default function ProfilePage() {
             throw new Error('Данные профиля не получены')
           }
         } catch (profileError) {
-          // Если не удалось получить профиль с backend, используем данные из localStorage
-          console.warn('Не удалось загрузить профиль с backend, используем localStorage:', profileError)
+          // Если не удалось получить профиль, используем данные из кэша
+          console.warn('Не удалось загрузить профиль, используем кэш:', profileError)
           const currentUser = authService.getCurrentUser()
           if (currentUser) {
             const userDataFromStorage = currentUser?.data || currentUser
@@ -108,7 +130,7 @@ export default function ProfilePage() {
               setAvatarUrl(userDataFromStorage.profile.avatar)
             }
             
-            // Заполняем форму данными из localStorage
+            // Заполняем форму данными из кэша
             setFormData({
               first_name: userDataFromStorage?.first_name || '',
               last_name: userDataFromStorage?.last_name || '',
@@ -175,6 +197,185 @@ export default function ProfilePage() {
   const streakDays = userData?.profile?.streak_days || 0
   const isPro = userData?.profile?.is_pro || false
   const userInitial = username ? username.charAt(0).toUpperCase() : 'U'
+
+  // Данные аналитики
+  const analyticsData = useMemo(() => {
+    if (typeof window === 'undefined') return null
+    return getAnalyticsData('month')
+  }, [])
+
+  // Компонент вкладки Геймификация
+  function GamificationTabContent() {
+    const user = authService.getCurrentUser()
+    const userData = user?.data || user
+    const userId = userData?.id
+
+    if (!userId) {
+      return (
+        <Card variant="glass" className="rounded-2xl p-6">
+          <p className="text-slate-600">Войдите в аккаунт для просмотра геймификации</p>
+        </Card>
+      )
+    }
+
+    const gamification = getUserGamification(userId)
+    if (!gamification) {
+      return (
+        <Card variant="glass" className="rounded-2xl p-6">
+          <p className="text-slate-600">Загрузка данных геймификации...</p>
+        </Card>
+      )
+    }
+
+    return (
+      <div className="space-y-6">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Card variant="glass" className="p-5">
+            <PointsDisplay points={gamification.totalPoints} size="sm" />
+          </Card>
+          <Card variant="glass" className="p-5">
+            <div className="text-sm font-semibold text-slate-600 mb-1">Уровень</div>
+            <div className="text-2xl font-extrabold text-slate-900">{gamification.currentLevel}</div>
+          </Card>
+          <Card variant="glass" className="p-5">
+            <div className="text-sm font-semibold text-slate-600 mb-1">Достижений</div>
+            <div className="text-2xl font-extrabold text-slate-900">
+              {gamification.unlockedAchievements.length}
+            </div>
+          </Card>
+          <Card variant="glass" className="p-5">
+            <div className="text-sm font-semibold text-slate-600 mb-1">Бейджей</div>
+            <div className="text-2xl font-extrabold text-slate-900">
+              {gamification.unlockedBadges.length}
+            </div>
+          </Card>
+        </div>
+
+        <Card variant="glass" className="rounded-2xl p-6">
+          <h4 className="text-lg font-extrabold text-slate-900 mb-4">Прогресс уровня</h4>
+          <LevelProgress points={gamification.totalPoints} level={gamification.currentLevel} />
+        </Card>
+
+        <Card variant="glass" className="rounded-2xl p-6 bg-gradient-to-br from-blue-50 to-purple-50 border-blue-200">
+          <div className="flex items-center justify-between">
+            <div>
+              <h4 className="text-lg font-extrabold text-slate-900 mb-1">Подробная геймификация</h4>
+              <p className="text-sm text-slate-600">Посмотрите все достижения, бейджи и награды</p>
+            </div>
+            <Button
+              variant="primary"
+              size="sm"
+              onClick={() => router.push('/gamification')}
+              rightIcon={<HiArrowRight />}
+              className="rounded-xl"
+            >
+              Открыть
+            </Button>
+          </div>
+        </Card>
+      </div>
+    )
+  }
+
+  // Компонент вкладки Прогресс
+  function ProgressTabContent() {
+    if (!analyticsData) {
+      return (
+        <Card variant="glass" className="rounded-2xl p-6">
+          <p className="text-slate-600">Загрузка данных аналитики...</p>
+        </Card>
+      )
+    }
+
+    return (
+      <div className="space-y-6">
+        {/* Мини-статистика */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <StatsCard
+            label="Всего часов"
+            value={`${analyticsData.totalStats.totalHours}ч`}
+            icon={HiClock}
+            color="primary"
+          />
+          <StatsCard
+            label="Уроков"
+            value={analyticsData.totalStats.totalLessons}
+            icon={HiBookOpen}
+            color="success"
+          />
+          <StatsCard
+            label="Задач"
+            value={analyticsData.totalStats.totalTasks}
+            icon={HiCheckCircle}
+            color="accent"
+          />
+          <StatsCard
+            label="Серия"
+            value={`${analyticsData.totalStats.currentStreak} дн.`}
+            icon={HiFire}
+            color="warning"
+          />
+        </div>
+
+        {/* Графики */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+          <Card variant="glass" className="rounded-2xl p-6">
+            <h4 className="text-lg font-extrabold text-slate-900 mb-4">Прогресс обучения</h4>
+            <LineChart
+              data={analyticsData.dailyActivity.slice(-14)}
+              dataKey="hours"
+              name="Часы"
+              color="#3B82F6"
+              height={250}
+            />
+          </Card>
+
+          <Card variant="glass" className="rounded-2xl p-6">
+            <h4 className="text-lg font-extrabold text-slate-900 mb-4">По категориям</h4>
+            <PieChart data={analyticsData.categoryDistribution} height={250} />
+          </Card>
+        </div>
+
+        {/* Навыки */}
+        <Card variant="glass" className="rounded-2xl p-6">
+          <h4 className="text-lg font-extrabold text-slate-900 mb-4">Топ навыки</h4>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {analyticsData.skillsProgress.slice(0, 4).map((skill) => (
+              <div key={skill.name} className="text-center">
+                <div className="text-sm font-semibold text-slate-600 mb-2">{skill.name}</div>
+                <div className="text-2xl font-extrabold text-slate-900 mb-2">{skill.level}%</div>
+                <div className="w-full bg-slate-200 rounded-full h-2">
+                  <div
+                    className="h-2 rounded-full transition-all"
+                    style={{ width: `${skill.level}%`, backgroundColor: skill.color }}
+                  />
+                </div>
+              </div>
+            ))}
+          </div>
+        </Card>
+
+        {/* Ссылка на подробную аналитику */}
+        <Card variant="glass" className="rounded-2xl p-6 bg-gradient-to-br from-blue-50 to-purple-50 border-blue-200">
+          <div className="flex items-center justify-between">
+            <div>
+              <h4 className="text-lg font-extrabold text-slate-900 mb-1">Подробная аналитика</h4>
+              <p className="text-sm text-slate-600">Посмотрите детальные графики и статистику</p>
+            </div>
+            <Button
+              variant="primary"
+              size="sm"
+              onClick={() => router.push('/analytics')}
+              rightIcon={<HiArrowRight />}
+              className="rounded-xl"
+            >
+              Открыть
+            </Button>
+          </div>
+        </Card>
+      </div>
+    )
+  }
 
   // Функция для получения полного URL аватара
   const getAvatarUrl = (url) => {
@@ -441,8 +642,8 @@ export default function ProfilePage() {
   // Показываем ошибку только если нет данных вообще
   if (error && !user && !profile) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-8 md:py-12">
+      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50 pt-24 sm:pt-28">
+        <div className="container-wrapper pb-8 md:pb-12">
           <div className="flex items-center justify-center min-h-[50vh]">
             <div className="text-center">
               <p className="text-error-600 mb-4">{error}</p>
@@ -460,7 +661,7 @@ export default function ProfilePage() {
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
+    <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA] pt-24 sm:pt-28">
       <section className="relative h-[200px] overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-primary-600/18 via-accent-600/12 to-secondary-600/14" />
         <div className="absolute inset-0 bg-white/75" />
@@ -726,10 +927,37 @@ export default function ProfilePage() {
             {activeTab === 'progress' && (
               <ScrollAnimation>
                 <div>
-                  <h3 className="text-xl md:text-2xl font-semibold mb-4 text-slate-900">Прогресс</h3>
-                  <Card variant="glass" className="rounded-2xl p-6">
-                    <p className="text-slate-600">Графики и статистика прогресса будут отображаться здесь.</p>
-                  </Card>
+                  <div className="flex items-center justify-between mb-6">
+                    <h3 className="text-xl md:text-2xl font-semibold text-slate-900">Прогресс</h3>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => router.push('/analytics')}
+                      className="rounded-xl"
+                    >
+                      Подробная аналитика
+                    </Button>
+                  </div>
+                  <ProgressTabContent />
+                </div>
+              </ScrollAnimation>
+            )}
+
+            {activeTab === 'gamification' && (
+              <ScrollAnimation>
+                <div>
+                  <div className="flex items-center justify-between mb-6">
+                    <h3 className="text-xl md:text-2xl font-semibold text-slate-900">Геймификация</h3>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => router.push('/gamification')}
+                      className="rounded-xl"
+                    >
+                      Подробнее
+                    </Button>
+                  </div>
+                  <GamificationTabContent />
                 </div>
               </ScrollAnimation>
             )}

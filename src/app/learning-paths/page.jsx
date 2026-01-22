@@ -98,11 +98,11 @@ export default function LearningPathsPage() {
       </div>
 
       {/* Hero Section */}
-      <section className="relative overflow-hidden">
+      <section className="relative overflow-hidden pt-24 sm:pt-28">
         <div className="absolute inset-0 bg-gradient-to-br from-primary-600/15 via-accent-600/10 to-secondary-600/15" />
         <div className="absolute inset-0 bg-white/70" />
         <div className="container-wrapper relative">
-          <div className="max-w-[1200px] mx-auto px-0 py-14 md:py-20">
+          <div className="max-w-[1200px] mx-auto px-0 pb-14 md:pb-20">
             <ScrollAnimation>
               <div className="text-center">
                 <div className="inline-flex items-center justify-center h-14 w-14 rounded-2xl bg-white border border-app-border shadow-card mx-auto">

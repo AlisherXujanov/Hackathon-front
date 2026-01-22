@@ -19,6 +19,7 @@ import { FaTrophy } from 'react-icons/fa'
 import { courseService } from '../../../../services/courseService'
 import { getCourseById } from '../../../../store/courses/courseData'
 import { authService } from '../../../../services/api'
+import { awardPoints, incrementUserStat } from '../../../../store/gamification/gamificationData'
 
 export default function CourseLearnPage() {
   const router = useRouter()
@@ -30,12 +31,10 @@ export default function CourseLearnPage() {
   const [selectedLesson, setSelectedLesson] = useState(null)
   const [isLoading, setIsLoading] = useState(true)
   const [progress, setProgress] = useState(0)
+  const [isAuthenticated, setIsAuthenticated] = useState(false)
 
   useEffect(() => {
-    if (!authService.isAuthenticated()) {
-      router.push('/auth/login?redirect=/courses/' + courseId + '/learn')
-      return
-    }
+    setIsAuthenticated(authService.isAuthenticated())
     loadCourse()
   }, [courseId, router])
 
@@ -87,7 +86,24 @@ export default function CourseLearnPage() {
       const progressData = await courseService.getCourseProgress(courseId)
       const enrollmentData = progressData?.data || progressData
       setEnrollment(enrollmentData)
-      setProgress(enrollmentData?.progress || 0)
+      const newProgress = enrollmentData?.progress || 0
+      setProgress(newProgress)
+      
+      // Начисляем очки за завершение урока
+      const user = authService.getCurrentUser()
+      const userData = user?.data || user
+      const userId = userData?.id
+      
+      if (userId && course) {
+        awardPoints(userId, 10, `Завершен урок "${selectedLesson?.title || 'урок'}" в курсе "${course.title}"`, 'lesson')
+        incrementUserStat(userId, 'lessons_completed', 1)
+        
+        // Проверяем завершение курса
+        if (newProgress >= 100) {
+          awardPoints(userId, 50, `Завершен курс "${course.title}"`, 'course')
+          incrementUserStat(userId, 'courses_completed', 1)
+        }
+      }
     } catch (error) {
       console.error('Error completing lesson:', error)
     }
@@ -144,7 +160,7 @@ export default function CourseLearnPage() {
   if (isLoading || !course) {
     return (
       <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-12">
+        <div className="container-wrapper pt-24 sm:pt-28 pb-12">
           <div className="flex items-center justify-center min-h-[50vh]">
             <div className="text-center">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
@@ -194,7 +210,42 @@ export default function CourseLearnPage() {
         </div>
       </div>
 
-      <div className="container-wrapper py-8">
+      <div className="container-wrapper pt-24 sm:pt-28 pb-8">
+        {!isAuthenticated && (
+          <div className="mb-6">
+            <Card variant="glass" className="p-4 border border-primary-200">
+              <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
+                <div className="text-sm text-slate-700">
+                  Вы можете проходить уроки без входа. Для сохранения прогресса и сертификатов войдите в аккаунт.
+                </div>
+                <div className="flex items-center gap-2">
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={async () => {
+                      await authService.login({ email: 'demo@student.local', password: 'demo', role: 'student' })
+                      setIsAuthenticated(true)
+                      await courseService.enrollCourse(courseId)
+                      await loadCourse()
+                    }}
+                  >
+                    Войти и сохранить прогресс
+                  </Button>
+                  <Button
+                    variant="primary"
+                    size="sm"
+                    onClick={async () => {
+                      await courseService.enrollCourse(courseId)
+                      await loadCourse()
+                    }}
+                  >
+                    Продолжить без входа
+                  </Button>
+                </div>
+              </div>
+            </Card>
+          </div>
+        )}
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
           {/* Sidebar - Course Content */}
           <div className="lg:col-span-1">

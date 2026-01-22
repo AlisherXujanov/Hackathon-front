@@ -3,6 +3,146 @@ import axios from 'axios'
 // Базовый URL API из переменных окружения или значение по умолчанию
 const API_URL = process.env.NEXT_PUBLIC_API_URL || 'https://crucially-innate-chimp.cloudpub.ru'
 
+export function isDemoMode() {
+  // По умолчанию включаем демо-режим (для хакатона без backend)
+  // Выключение: NEXT_PUBLIC_DEMO_MODE="false" или localStorage demo_mode="false"
+  const envValue = process.env.NEXT_PUBLIC_DEMO_MODE
+  const envEnabled = envValue ? envValue !== 'false' : true
+
+  if (typeof window === 'undefined') return envEnabled
+
+  const localValue = window.localStorage?.getItem('demo_mode')
+  if (localValue === 'true') return true
+  if (localValue === 'false') return false
+
+  return envEnabled
+}
+
+// Функции для работы с пользователями в localStorage
+function hashPassword(password, email) {
+  // Простое хеширование для демо (в продакшене использовать bcrypt)
+  if (typeof window === 'undefined') return password
+  return btoa(email + ':' + password).replace(/[^a-zA-Z0-9]/g, '')
+}
+
+function getUsers() {
+  if (typeof window === 'undefined') return []
+  try {
+    const raw = localStorage.getItem('users')
+    if (!raw) return []
+    return JSON.parse(raw)
+  } catch {
+    return []
+  }
+}
+
+function saveUsers(users) {
+  if (typeof window === 'undefined') return
+  try {
+    localStorage.setItem('users', JSON.stringify(users))
+  } catch (error) {
+    console.error('Ошибка при сохранении пользователей:', error)
+  }
+}
+
+function getCurrentUserId() {
+  if (typeof window === 'undefined') return null
+  try {
+    const raw = localStorage.getItem('current_user')
+    if (!raw) return null
+    return parseInt(raw, 10)
+  } catch {
+    return null
+  }
+}
+
+function setCurrentUserId(userId) {
+  if (typeof window === 'undefined') return
+  localStorage.setItem('current_user', String(userId))
+}
+
+function getCurrentUser() {
+  if (typeof window === 'undefined') return null
+  const userId = getCurrentUserId()
+  if (!userId) return null
+  
+  const users = getUsers()
+  return users.find(u => u.id === userId) || null
+}
+
+function setCurrentUser(userData) {
+  if (typeof window === 'undefined') return
+  if (!userData || !userData.id) return
+  
+  setCurrentUserId(userData.id)
+  
+  // Обновляем пользователя в массиве
+  const users = getUsers()
+  const index = users.findIndex(u => u.id === userData.id)
+  if (index !== -1) {
+    users[index] = userData
+  } else {
+    users.push(userData)
+  }
+  saveUsers(users)
+  
+  // Сохраняем в старом формате для совместимости
+  const wrapped = { data: userData }
+  localStorage.setItem('user', JSON.stringify(wrapped))
+  
+  const role = userData?.role
+  if (role) setUserRoleCookie(role)
+}
+
+function ensureTokens() {
+  if (typeof window === 'undefined') return
+  if (!localStorage.getItem('access_token')) {
+    localStorage.setItem('access_token', 'local-access-token')
+  }
+  if (!localStorage.getItem('refresh_token')) {
+    localStorage.setItem('refresh_token', 'local-refresh-token')
+  }
+}
+
+function buildUserFromCredentials(userData, isRegistration = false) {
+  const email = (userData.email || '').trim()
+  const username = (userData.username || '').trim()
+  const password = userData.password || ''
+  const role = (userData.role || 'student').toLowerCase()
+  
+  if (!email || !username) {
+    throw new Error('Email и username обязательны')
+  }
+  
+  const users = getUsers()
+  const nextId = users.length > 0 ? Math.max(...users.map(u => u.id)) + 1 : 1
+  
+  const passwordHash = hashPassword(password, email)
+  
+  const newUser = {
+    id: nextId,
+    email,
+    username,
+    passwordHash,
+    first_name: userData.first_name || username,
+    last_name: userData.last_name || '',
+    role,
+    profile: {
+      bio: '',
+      birth_date: null,
+      language_preference: 'ru',
+      theme: 'light',
+      total_learning_hours: 0,
+      streak_days: 0,
+      is_pro: false,
+      avatar_url: null,
+      created_at: new Date().toISOString(),
+    },
+  }
+  
+  return newUser
+}
+
 // Создание экземпляра axios с базовыми настройками
 const apiClient = axios.create({
   baseURL: API_URL,
@@ -91,6 +231,43 @@ export const authService = {
    * @returns {Promise} Ответ от сервера
    */
   register: async (userData) => {
+    if (isDemoMode()) {
+      const email = (userData.email || '').trim()
+      const username = (userData.username || '').trim()
+      
+      if (!email || !username) {
+        throw new Error('Email и username обязательны')
+      }
+      
+      if (!userData.password || userData.password.length < 6) {
+        throw new Error('Пароль должен содержать минимум 6 символов')
+      }
+      
+      const users = getUsers()
+      
+      // Проверка уникальности email
+      if (users.some(u => u.email.toLowerCase() === email.toLowerCase())) {
+        throw new Error('Пользователь с таким email уже существует')
+      }
+      
+      // Проверка уникальности username
+      if (users.some(u => u.username.toLowerCase() === username.toLowerCase())) {
+        throw new Error('Пользователь с таким username уже существует')
+      }
+      
+      const newUser = buildUserFromCredentials(userData, true)
+      users.push(newUser)
+      saveUsers(users)
+      
+      ensureTokens()
+      setCurrentUser(newUser)
+      
+      return { 
+        data: newUser, 
+        access: 'local-access-token', 
+        refresh: 'local-refresh-token' 
+      }
+    }
     try {
       const response = await apiClient.post('/api/v1/users/register/', userData)
       return response.data
@@ -134,6 +311,49 @@ export const authService = {
    * @returns {Promise} Ответ от сервера с токенами и данными пользователя
    */
   login: async (credentials) => {
+    if (isDemoMode()) {
+      const email = (credentials.email || '').trim()
+      const password = credentials.password || ''
+      
+      if (!email || !password) {
+        throw new Error('Email и пароль обязательны')
+      }
+      
+      const users = getUsers()
+      const passwordHash = hashPassword(password, email)
+      
+      // Поиск пользователя по email и паролю
+      const user = users.find(u => 
+        u.email.toLowerCase() === email.toLowerCase() && 
+        u.passwordHash === passwordHash
+      )
+      
+      if (!user) {
+        throw new Error('Неверный email или пароль')
+      }
+      
+      ensureTokens()
+      setCurrentUser(user)
+      
+      // Начисляем очки за ежедневный вход
+      if (typeof window !== 'undefined' && user.id) {
+        const { awardPoints, incrementUserStat } = require('../store/gamification/gamificationData')
+        const lastLogin = localStorage.getItem(`user_${user.id}_last_login`)
+        const today = new Date().toISOString().split('T')[0]
+        
+        if (lastLogin !== today) {
+          awardPoints(user.id, 5, 'Ежедневный вход', 'other')
+          incrementUserStat(user.id, 'daily_logins', 1)
+          localStorage.setItem(`user_${user.id}_last_login`, today)
+        }
+      }
+      
+      return { 
+        access: 'local-access-token', 
+        refresh: 'local-refresh-token', 
+        user: user 
+      }
+    }
     try {
       const response = await apiClient.post('/api/v1/users/login/', credentials)
       const { access, refresh, user } = response.data
@@ -202,6 +422,16 @@ export const authService = {
    * @returns {Promise}
    */
   logout: async () => {
+    if (isDemoMode()) {
+      if (typeof window !== 'undefined') {
+        localStorage.removeItem('access_token')
+        localStorage.removeItem('refresh_token')
+        localStorage.removeItem('user')
+        localStorage.removeItem('current_user')
+        clearUserRoleCookie()
+      }
+      return
+    }
     try {
       const refreshToken = typeof window !== 'undefined'
         ? localStorage.getItem('refresh_token')
@@ -230,6 +460,7 @@ export const authService = {
         localStorage.removeItem('access_token')
         localStorage.removeItem('refresh_token')
         localStorage.removeItem('user')
+        localStorage.removeItem('current_user')
         clearUserRoleCookie()
       }
     }
@@ -241,9 +472,13 @@ export const authService = {
    */
   getCurrentUser: () => {
     if (typeof window === 'undefined') return null
-
-    const user = localStorage.getItem('user')
-    return user ? JSON.parse(user) : null
+    const currentUser = getCurrentUser()
+    if (currentUser) {
+      return { data: currentUser }
+    }
+    // Fallback на старый формат для совместимости
+    const userRaw = localStorage.getItem('user')
+    return userRaw ? JSON.parse(userRaw) : null
   },
 
   /**
@@ -260,6 +495,14 @@ export const authService = {
    * @returns {Promise} Данные профиля пользователя
    */
   getProfile: async () => {
+    if (isDemoMode()) {
+      ensureTokens()
+      const current = getCurrentUser()
+      if (current) {
+        return { data: current }
+      }
+      throw new Error('Пользователь не авторизован')
+    }
     try {
       const response = await apiClient.get('/api/v1/users/me/')
       // Обрабатываем структуру ответа (может быть data.data или просто data)
@@ -289,6 +532,23 @@ export const authService = {
    * @returns {Promise} Обновленные данные профиля пользователя
    */
   updateProfile: async (profileData) => {
+    if (isDemoMode()) {
+      ensureTokens()
+      const current = getCurrentUser()
+      if (!current) {
+        throw new Error('Пользователь не авторизован')
+      }
+      const merged = {
+        ...current,
+        ...profileData,
+        profile: {
+          ...(current.profile || {}),
+          ...(profileData?.profile || {}),
+        },
+      }
+      setCurrentUser(merged)
+      return { data: merged }
+    }
     try {
       const response = await apiClient.patch('/api/v1/users/me/', profileData)
       // Обрабатываем структуру ответа (может быть data.data или просто data)
@@ -336,6 +596,31 @@ export const authService = {
    * @returns {Promise} Ответ от сервера
    */
   uploadAvatar: async (file) => {
+    if (isDemoMode()) {
+      if (typeof window === 'undefined') return { data: null }
+      ensureTokens()
+      const current = getCurrentUser()
+      if (!current) {
+        throw new Error('Пользователь не авторизован')
+      }
+
+      const dataUrl = await new Promise((resolve, reject) => {
+        const reader = new FileReader()
+        reader.onload = () => resolve(String(reader.result || ''))
+        reader.onerror = () => reject(new Error('Не удалось прочитать файл'))
+        reader.readAsDataURL(file)
+      })
+
+      const merged = {
+        ...current,
+        profile: {
+          ...(current.profile || {}),
+          avatar_url: dataUrl,
+        },
+      }
+      setCurrentUser(merged)
+      return { data: merged }
+    }
     try {
       const formData = new FormData()
       formData.append('avatar', file)
@@ -381,6 +666,31 @@ export const leaderboardService = {
    * @returns {Promise} Ответ от сервера с данными лидерборда
    */
   getLeaderboard: async ({ page = 1, page_size = 20 } = {}) => {
+    if (isDemoMode()) {
+      const total = 60
+      const startIdx = (page - 1) * page_size
+      const endIdx = Math.min(startIdx + page_size, total)
+
+      const results = Array.from({ length: endIdx - startIdx }, (_, i) => {
+        const rank = startIdx + i + 1
+        return {
+          rank: String(rank),
+          id: rank,
+          username: `user_${rank}`,
+          first_name: rank % 3 === 0 ? 'Алиса' : rank % 3 === 1 ? 'Боб' : 'Чарли',
+          last_name: `#${rank}`,
+          total_points: Math.max(0, 10000 - rank * 97 + (rank % 7) * 31),
+          avatar_url: null,
+        }
+      })
+
+      return {
+        count: total,
+        next: endIdx < total ? `?page=${page + 1}` : null,
+        previous: page > 1 ? `?page=${page - 1}` : null,
+        results,
+      }
+    }
     try {
       // Ограничиваем page_size максимумом 50
       const validPageSize = Math.min(page_size, 50)

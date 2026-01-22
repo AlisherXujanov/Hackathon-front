@@ -154,7 +154,7 @@ export default function PlanPage() {
         <div className="absolute bottom-20 right-10 w-64 md:w-96 h-64 md:h-96 bg-pink-300/10 rounded-full blur-3xl"></div>
       </div>
 
-      <div className="container-wrapper py-12 md:py-20 relative z-10">
+      <div className="container-wrapper pt-24 sm:pt-28 pb-12 md:pb-20 relative z-10">
         {/* Header */}
         <ScrollAnimation>
           <div className="text-center mb-8 sm:mb-12 md:mb-16 px-4">

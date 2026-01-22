@@ -4,10 +4,27 @@ import Link from 'next/link'
 import Card from '../../components/Card'
 import Button from '../../components/Button'
 import ScrollAnimation from '../../components/ScrollAnimation'
-import { HiCode, HiClipboardCheck, HiArrowRight, HiSparkles } from 'react-icons/hi'
+import { HiCode, HiClipboardCheck, HiArrowRight, HiSparkles, HiBookOpen } from 'react-icons/hi'
 
 export default function ProgrammingPage() {
   const options = [
+    {
+      id: 'lessons',
+      title: 'Уроки',
+      description: 'Изучайте языки программирования, фреймворки и библиотеки. Структурированные уроки с теорией, практическими упражнениями и тестами для закрепления знаний.',
+      icon: HiBookOpen,
+      href: '/programming/lessons',
+      gradient: 'from-emerald-500 via-teal-500 to-cyan-500',
+      bgGradient: 'from-emerald-50 via-teal-50 to-cyan-50',
+      features: [
+        'Языки, фреймворки, библиотеки',
+        'Теория и практика',
+        'Интерактивные упражнения',
+        'Тесты для проверки знаний'
+      ],
+      buttonText: 'Открыть уроки',
+      iconBg: 'bg-gradient-to-br from-emerald-500 to-teal-500'
+    },
     {
       id: 'tests',
       title: 'Тесты и Задачи',
@@ -47,7 +64,7 @@ export default function ProgrammingPage() {
   return (
     <main className="w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50">
       {/* Hero Section */}
-      <section className="relative py-12 md:py-16 lg:py-20 overflow-hidden">
+      <section className="relative pt-24 sm:pt-28 pb-12 md:pb-16 lg:pb-20 overflow-hidden">
         {/* Animated Background Elements */}
         <div className="absolute inset-0 opacity-40">
           <div className="absolute top-20 left-10 w-72 h-72 bg-purple-200 rounded-full blur-3xl animate-pulse" />
@@ -65,13 +82,13 @@ export default function ProgrammingPage() {
               </h1>
               
               <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                Выберите способ обучения: решайте практические задачи или экспериментируйте в интерактивной песочнице
+                Выберите способ обучения: изучайте уроки, решайте практические задачи или экспериментируйте в интерактивной песочнице
               </p>
             </div>
           </ScrollAnimation>
 
           {/* Options Grid */}
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-10 max-w-6xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 max-w-7xl mx-auto">
             {options.map((option, index) => {
               const Icon = option.icon
               return (
