@@ -1,15 +1,27 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import Card from '../../Card'
 import Button from '../../Button'
 import NoteForm from './NoteForm'
 import NoteList from './NoteList'
 import { HiX, HiDocumentText, HiPlus, HiRefresh, HiExclamationCircle } from 'react-icons/hi'
+import { authService } from '../../../services/api'
 
 export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, notes, loading, error, onRetry, onCreateNote, onUpdateNote, onDeleteNote }) {
   const [isCreating, setIsCreating] = useState(false)
   const [editingNote, setEditingNote] = useState(null)
+  const [userRole, setUserRole] = useState(null)
+  const [currentUserId, setCurrentUserId] = useState(null)
+
+  // Get user role and ID
+  useEffect(() => {
+    const user = authService.getCurrentUser()
+    if (user) {
+      setUserRole(user.role || null)
+      setCurrentUserId(user.id || user.user_id || null)
+    }
+  }, [])
 
   const handleCreateNote = async (noteData) => {
     try {
@@ -195,6 +207,13 @@ export default function NotesSidebar({ topicId, topicTitle, isOpen, onToggle, no
                 onEdit={handleEditNote}
                 onDelete={handleDeleteNote}
                 loading={loading}
+                topicId={topicId}
+                userRole={userRole}
+                currentUserId={currentUserId}
+                onCommentUpdate={() => {
+                  // Refresh notes if needed when comments are updated
+                  // This could trigger a reload of notes to get updated comment counts
+                }}
               />
             </>
           )}

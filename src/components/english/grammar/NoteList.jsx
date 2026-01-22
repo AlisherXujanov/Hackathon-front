@@ -3,7 +3,16 @@
 import NoteItem from './NoteItem'
 import { HiDocumentText, HiRefresh } from 'react-icons/hi'
 
-export default function NoteList({ notes, onEdit, onDelete, loading = false }) {
+export default function NoteList({ 
+  notes, 
+  onEdit, 
+  onDelete, 
+  loading = false,
+  topicId,
+  userRole,
+  currentUserId,
+  onCommentUpdate
+}) {
   if (loading) {
     return (
       <div className="space-y-4">
@@ -46,6 +55,10 @@ export default function NoteList({ notes, onEdit, onDelete, loading = false }) {
           note={note}
           onEdit={onEdit}
           onDelete={onDelete}
+          topicId={topicId}
+          userRole={userRole}
+          currentUserId={currentUserId}
+          onCommentUpdate={onCommentUpdate}
         />
       ))}
     </div>

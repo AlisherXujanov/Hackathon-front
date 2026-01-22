@@ -287,3 +287,244 @@ export const deleteNote = async (topicId, noteId) => {
     }
   }
 }
+
+/**
+ * Get all comments for a note
+ * 
+ * @param {string} topicId - Topic ID (e.g., "A1_001")
+ * @param {number} noteId - Note ID
+ * @returns {Promise<Array>} Array of comment objects, or empty array if backend is unavailable
+ * @throws {Error} Only for application errors (400, 404)
+ */
+export const getNoteComments = async (topicId, noteId) => {
+  try {
+    const response = await apiClient.get(`/english/grammar/topics/${topicId}/notes/${noteId}/comments/`)
+    return response.data?.data || response.data || []
+  } catch (error) {
+    const errorType = detectErrorType(error)
+    
+    if (error.response) {
+      const { status, data } = error.response
+      
+      // Only throw for actual application errors
+      if (status === 400) {
+        throw new Error(
+          data?.error?.message || 'Invalid request. Please check your input.'
+        )
+      } else if (status === 404) {
+        // 404 means note has no comments yet - this is normal, return empty array
+        console.info('Comments: No comments found for this note - returning empty array')
+        return []
+      }
+      
+      // For auth, server, and other errors - return empty array (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Comments: Authentication/permission error - returning empty array (offline mode)')
+        return []
+      } else if (status >= 500) {
+        console.warn('Comments: Server error - returning empty array (offline mode)')
+        return []
+      } else {
+        console.warn(`Comments: HTTP ${status} error - returning empty array (offline mode)`)
+        return []
+      }
+    } else if (error.request) {
+      // Network errors - return empty array (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Comments: Request timeout - returning empty array (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Comments: Network error - returning empty array (offline mode)')
+      } else {
+        console.warn('Comments: Connection error - returning empty array (offline mode)')
+      }
+      return []
+    } else {
+      // Unexpected errors - return empty array (offline mode)
+      console.warn('Comments: Unexpected error - returning empty array (offline mode)', error.message)
+      return []
+    }
+  }
+}
+
+/**
+ * Create a teacher comment on a note
+ * 
+ * @param {string} topicId - Topic ID (e.g., "A1_001")
+ * @param {number} noteId - Note ID
+ * @param {Object} commentData - Comment data
+ * @param {string} commentData.comment_text - Comment text content
+ * @returns {Promise<Object|null>} Created comment object, or null if backend is unavailable
+ * @throws {Error} Only for validation errors (400)
+ */
+export const createNoteComment = async (topicId, noteId, commentData) => {
+  try {
+    const payload = {
+      comment_text: commentData.comment_text
+    }
+    
+    const response = await apiClient.post(`/english/grammar/topics/${topicId}/notes/${noteId}/comments/`, payload)
+    return response.data?.data || response.data
+  } catch (error) {
+    const errorType = detectErrorType(error)
+    
+    if (error.response) {
+      const { status, data } = error.response
+      
+      // Only throw for validation errors (user needs to know)
+      if (status === 400) {
+        throw new Error(
+          data?.error?.message || 'Invalid comment data. Please check your input.'
+        )
+      }
+      
+      // For auth, server, and other errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Comments: Authentication/permission error - cannot create comment (offline mode)')
+        return null
+      } else if (status >= 500) {
+        console.warn('Comments: Server error - cannot create comment (offline mode)')
+        return null
+      } else {
+        console.warn(`Comments: HTTP ${status} error - cannot create comment (offline mode)`)
+        return null
+      }
+    } else if (error.request) {
+      // Network errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Comments: Request timeout - cannot create comment (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Comments: Network error - cannot create comment (offline mode)')
+      } else {
+        console.warn('Comments: Connection error - cannot create comment (offline mode)')
+      }
+      return null
+    } else {
+      // Unexpected errors - return null (offline mode)
+      console.warn('Comments: Unexpected error - cannot create comment (offline mode)', error.message)
+      return null
+    }
+  }
+}
+
+/**
+ * Update an existing comment
+ * 
+ * @param {string} topicId - Topic ID (e.g., "A1_001")
+ * @param {number} noteId - Note ID
+ * @param {number} commentId - Comment ID
+ * @param {Object} commentData - Updated comment data
+ * @param {string} commentData.comment_text - Comment text content
+ * @returns {Promise<Object|null>} Updated comment object, or null if backend is unavailable
+ * @throws {Error} Only for validation errors (400) and not found (404)
+ */
+export const updateNoteComment = async (topicId, noteId, commentId, commentData) => {
+  try {
+    const payload = {
+      comment_text: commentData.comment_text
+    }
+    
+    const response = await apiClient.put(`/english/grammar/topics/${topicId}/notes/${noteId}/comments/${commentId}/`, payload)
+    return response.data?.data || response.data
+  } catch (error) {
+    const errorType = detectErrorType(error)
+    
+    if (error.response) {
+      const { status, data } = error.response
+      
+      // Only throw for actual application errors (user needs to know)
+      if (status === 400) {
+        throw new Error(
+          data?.error?.message || 'Invalid comment data. Please check your input.'
+        )
+      } else if (status === 404) {
+        throw new Error('Comment not found.')
+      }
+      
+      // For auth, server, and other errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Comments: Authentication/permission error - cannot update comment (offline mode)')
+        return null
+      } else if (status >= 500) {
+        console.warn('Comments: Server error - cannot update comment (offline mode)')
+        return null
+      } else {
+        console.warn(`Comments: HTTP ${status} error - cannot update comment (offline mode)`)
+        return null
+      }
+    } else if (error.request) {
+      // Network errors - return null (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Comments: Request timeout - cannot update comment (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Comments: Network error - cannot update comment (offline mode)')
+      } else {
+        console.warn('Comments: Connection error - cannot update comment (offline mode)')
+      }
+      return null
+    } else {
+      // Unexpected errors - return null (offline mode)
+      console.warn('Comments: Unexpected error - cannot update comment (offline mode)', error.message)
+      return null
+    }
+  }
+}
+
+/**
+ * Delete a comment
+ * 
+ * @param {string} topicId - Topic ID (e.g., "A1_001")
+ * @param {number} noteId - Note ID
+ * @param {number} commentId - Comment ID
+ * @returns {Promise<void>} Always succeeds (silently handles network/server errors)
+ * @throws {Error} Only for not found errors (404)
+ */
+export const deleteNoteComment = async (topicId, noteId, commentId) => {
+  try {
+    await apiClient.delete(`/english/grammar/topics/${topicId}/notes/${noteId}/comments/${commentId}/`)
+  } catch (error) {
+    const errorType = detectErrorType(error)
+    
+    if (error.response) {
+      const { status, data } = error.response
+      
+      // Only throw for not found (user needs to know)
+      if (status === 404) {
+        throw new Error('Comment not found.')
+      }
+      
+      // For auth, server, and other errors - succeed silently (offline mode)
+      // Log for debugging but don't throw
+      if (status === 401 || status === 403) {
+        console.warn('Comments: Authentication/permission error - delete succeeded silently (offline mode)')
+        return
+      } else if (status >= 500) {
+        console.warn('Comments: Server error - delete succeeded silently (offline mode)')
+        return
+      } else {
+        console.warn(`Comments: HTTP ${status} error - delete succeeded silently (offline mode)`)
+        return
+      }
+    } else if (error.request) {
+      // Network errors - succeed silently (offline mode)
+      // Log for debugging but don't throw
+      if (errorType === 'timeout') {
+        console.warn('Comments: Request timeout - delete succeeded silently (offline mode)')
+      } else if (error.code === 'ERR_NETWORK') {
+        console.warn('Comments: Network error - delete succeeded silently (offline mode)')
+      } else {
+        console.warn('Comments: Connection error - delete succeeded silently (offline mode)')
+      }
+      return
+    } else {
+      // Unexpected errors - succeed silently (offline mode)
+      console.warn('Comments: Unexpected error - delete succeeded silently (offline mode)', error.message)
+      return
+    }
+  }
+}
