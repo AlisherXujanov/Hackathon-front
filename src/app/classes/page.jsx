@@ -1,16 +1,55 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 import Button from '../../components/Button'
 import Card from '../../components/Card'
 import Input from '../../components/Input'
 import Textarea from '../../components/Textarea'
 import ScrollAnimation from '../../components/ScrollAnimation'
+import { authService } from '../../services/api'
 import { HiPlus, HiUsers, HiArrowRight, HiX, HiSparkles, HiChartBar } from 'react-icons/hi'
 
 export default function ClassesPage() {
+  const router = useRouter()
   const [showCreateModal, setShowCreateModal] = useState(false)
+  const [isChecking, setIsChecking] = useState(true)
+
+  // Проверка роли пользователя при загрузке страницы
+  useEffect(() => {
+    const checkUserRole = () => {
+      // Проверяем авторизацию
+      if (!authService.isAuthenticated()) {
+        router.push('/auth/login')
+        return
+      }
+
+      // Получаем данные пользователя
+      const user = authService.getCurrentUser()
+      
+      // Обрабатываем разные структуры данных пользователя
+      const userData = user?.data || user
+      const userRole = userData?.role
+
+      // Если пользователь - студент, перенаправляем на главную страницу
+      if (userRole === 'student') {
+        router.push('/')
+        return
+      }
+
+      // Если роль не teacher, также перенаправляем
+      if (userRole !== 'teacher') {
+        router.push('/')
+        return
+      }
+
+      // Если всё в порядке, показываем страницу
+      setIsChecking(false)
+    }
+
+    checkUserRole()
+  }, [router])
 
   const classes = [
     {
@@ -35,6 +74,18 @@ export default function ClassesPage() {
       color: 'from-green-500 to-emerald-500',
     },
   ]
+
+  // Показываем загрузку во время проверки роли
+  if (isChecking) {
+    return (
+      <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-emerald-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-600 mx-auto mb-4"></div>
+          <p className="text-slate-600">Проверка доступа...</p>
+        </div>
+      </main>
+    )
+  }
 
   return (
     <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-emerald-50">
