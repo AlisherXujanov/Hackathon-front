@@ -16,7 +16,8 @@ import {
   HiLockClosed,
   HiStar,
   HiViewGrid,
-  HiTable
+  HiTable,
+  HiBookOpen
 } from 'react-icons/hi'
 import planTranslations from '../../locales/en/plan.json'
 import styles from './Plan.module.scss'
@@ -90,12 +91,30 @@ export default function PlanPage() {
   // Comparison features data
   const comparisonFeatures = [
     {
+      id: 'courses',
+      name: t.compare.features.courses || 'Course Access',
+      icon: HiBookOpen,
+      free: '1 free/month',
+      pro: '3 courses/month',
+      plus: 'Unlimited',
+      highlight: 'plus'
+    },
+    {
+      id: 'certificates',
+      name: t.compare.features.certificates || 'Certificates',
+      icon: HiShieldCheck,
+      free: 'None',
+      pro: 'Completion',
+      plus: 'All Types',
+      highlight: 'plus'
+    },
+    {
       id: 'aiRequests',
       name: t.compare.features.aiRequests,
       icon: HiSparkles,
-      free: 'Limited (10/day)',
-      pro: '10x More (100/day)',
-      plus: 'Unlimited',
+      free: 'Limited (5/day)',
+      pro: 'Unlimited (basic)',
+      plus: 'Unlimited (premium)',
       highlight: 'plus'
     },
     {
@@ -103,8 +122,8 @@ export default function PlanPage() {
       name: t.compare.features.aiModels,
       icon: HiShieldCheck,
       free: 'Basic Models',
-      pro: 'Standard Models',
-      plus: 'GPT-5 & Advanced',
+      pro: 'Basic Models',
+      plus: 'Premium Models',
       highlight: 'plus'
     },
     {
@@ -123,15 +142,6 @@ export default function PlanPage() {
       free: 'Community',
       pro: 'Priority Support',
       plus: '24/7 Priority',
-      highlight: 'plus'
-    },
-    {
-      id: 'content',
-      name: t.compare.features.content,
-      icon: HiStar,
-      free: 'Standard Library',
-      pro: 'Extended Library',
-      plus: 'Exclusive Content',
       highlight: 'plus'
     }
   ]

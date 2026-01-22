@@ -8,7 +8,7 @@ import Button from '../../components/Button'
 import Input from '../../components/Input'
 import Select from '../../components/Select'
 import { authService } from '../../services/api'
-import { HiUserCircle, HiChartBar, HiCog, HiLogout, HiMail, HiUser, HiGlobe, HiSun, HiMoon, HiClock, HiPhotograph } from 'react-icons/hi'
+import { HiUserCircle, HiChartBar, HiCog, HiLogout, HiMail, HiUser, HiGlobe, HiSun, HiMoon, HiClock, HiPhotograph, HiArrowRight } from 'react-icons/hi'
 import { FaTrophy } from 'react-icons/fa'
 
 export default function ProfilePage() {
@@ -586,9 +586,46 @@ export default function ProfilePage() {
             {activeTab === 'achievements' && (
               <ScrollAnimation>
                 <div>
-                  <h3 className="text-xl md:text-2xl font-semibold mb-4">Achievements</h3>
+                  <div className="flex items-center justify-between mb-4">
+                    <h3 className="text-xl md:text-2xl font-semibold">Certificates & Achievements</h3>
+                    <Button
+                      variant="outline"
+                      size="sm"
+                      onClick={() => router.push('/certificates')}
+                    >
+                      View All Certificates
+                    </Button>
+                  </div>
+                  
+                  {/* Certificates Section */}
+                  <Card variant="glass" className="p-6 mb-6">
+                    <h4 className="text-lg font-semibold text-gray-900 mb-4">My Certificates</h4>
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                      {/* This will be populated from API */}
+                      <div className="text-center py-8 text-gray-500">
+                        <FaTrophy className="w-12 h-12 mx-auto mb-2 text-gray-400" />
+                        <p className="text-sm">Complete courses to earn certificates</p>
+                        <Button
+                          variant="primary"
+                          size="sm"
+                          className="mt-4"
+                          onClick={() => router.push('/courses')}
+                        >
+                          Browse Courses
+                        </Button>
+                      </div>
+                    </div>
+                  </Card>
+
+                  {/* Achievements Section */}
                   <Card variant="glass" className="p-6">
-                    <p className="text-gray-600">Your achievements and badges will be displayed here.</p>
+                    <h4 className="text-lg font-semibold text-gray-900 mb-4">Achievements & Badges</h4>
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                      {/* Achievement badges will be displayed here */}
+                      <div className="text-center py-4 text-gray-500">
+                        <p className="text-sm">Complete courses to unlock achievements</p>
+                      </div>
+                    </div>
                   </Card>
                 </div>
               </ScrollAnimation>

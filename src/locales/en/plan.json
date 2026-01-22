@@ -1,14 +1,15 @@
 {
   "title": "Choose Your Plan",
-  "subtitle": "Unlock premium features and accelerate your learning journey",
+  "subtitle": "Unlock premium features, courses, and certificates to accelerate your learning journey",
   "free": {
     "name": "Free",
     "price": "$0",
     "period": "forever",
     "description": "Perfect for getting started",
     "features": [
-      "Basic AI requests",
-      "Standard learning materials",
+      "1 free course per month (rotating)",
+      "5 AI requests per day",
+      "Basic learning materials",
       "Community support",
       "Limited access to features"
     ],
@@ -16,13 +17,14 @@
   },
   "pro": {
     "name": "Pro",
-    "price": "$5",
+    "price": "$9",
     "period": "per month",
     "description": "For serious learners",
     "popular": "Most Popular",
     "features": [
-      "More AI requests",
-      "Access to basic AI models",
+      "Unlimited AI requests (basic models)",
+      "Access to 3 courses per month",
+      "Course completion certificates",
       "Priority AI responses",
       "Advanced learning analytics",
       "Unlimited practice sessions",
@@ -33,17 +35,18 @@
   },
   "plus": {
     "name": "Plus",
-    "price": "$20",
+    "price": "$29",
     "period": "per month",
     "description": "Ultimate learning experience",
     "popular": "Best Value",
     "features": [
-      "Unlimited AI requests",
-      "Unlimited access to basic models",
-      "Limited access to advanced models",
+      "Unlimited AI requests (premium models)",
+      "Unlimited course access (entire library)",
+      "All certificate types included",
+      "1 professional certificate per month",
+      "Personalized learning paths",
       "Personalized AI tutor",
       "Advanced analytics dashboard",
-      "Custom learning paths",
       "Exclusive content library",
       "24/7 priority support"
     ],
@@ -54,6 +57,8 @@
     "features": {
       "aiRequests": "AI Requests",
       "aiModels": "AI Models",
+      "courses": "Course Access",
+      "certificates": "Certificates",
       "analytics": "Analytics",
       "support": "Support",
       "content": "Content Access"
