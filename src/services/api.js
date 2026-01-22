@@ -476,8 +476,12 @@ export const studentService = {
         throw new Error(errorMessage)
       }
       throw new Error('Ошибка при получении профиля студента. Проверьте подключение к серверу.')
-      // Сервис для работы с классами
-      export const classesService = {
+    }
+  }
+}
+
+// Сервис для работы с классами
+export const classesService = {
         /**
          * Получить список всех классов
          * @returns {Promise} Список классов
@@ -948,4 +952,4 @@ export const studentService = {
         },
       }
 
-      export default apiClient
+export default apiClient

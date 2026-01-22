@@ -15,6 +15,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "autoprefixer": "^10.4.23",
     "axios": "^1.13.2",

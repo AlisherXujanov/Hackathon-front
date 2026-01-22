@@ -83,13 +83,28 @@ npm run build
 npm start
 ```
 
+## Deploying to Vercel
+
+1. Push your repo to GitHub and import it in [Vercel](https://vercel.com) (Add New Project → Import).
+2. Set `NEXT_PUBLIC_API_URL` in **Settings → Environment Variables** before deploying.
+3. Deploy. Vercel detects Next.js and uses `npm run build` by default.
+
+Ensure your backend allows requests from your Vercel origin (e.g. `https://your-app.vercel.app`) in CORS if required.
+
 ## Environment Variables
 
-Create a `.env.local` file:
+Copy `.env.example` to `.env.local` and set your API URL:
 
+```bash
+# Unix / Git Bash
+cp .env.example .env.local
+# Windows (PowerShell)
+copy .env.example .env.local
 ```
-NEXT_PUBLIC_API_URL=http://localhost:8000/api/v1
-```
+
+Then edit `.env.local` if needed. For local dev you can use `http://localhost:8000` (or your backend URL).
+
+**For Vercel deployment:** Set `NEXT_PUBLIC_API_URL` in the Vercel Dashboard → Project → Settings → Environment Variables (Production, Preview, Development). Use your production API base URL, e.g. `https://crucially-innate-chimp.cloudpub.ru`.
 
 ## Notes
 
