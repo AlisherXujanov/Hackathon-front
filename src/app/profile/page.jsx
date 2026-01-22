@@ -5,10 +5,11 @@ import { useRouter } from 'next/navigation'
 import Card from '../../components/Card'
 import ScrollAnimation from '../../components/ScrollAnimation'
 import Button from '../../components/Button'
+import Badge from '../../components/Badge'
 import Input from '../../components/Input'
 import Select from '../../components/Select'
 import { authService } from '../../services/api'
-import { HiUserCircle, HiChartBar, HiCog, HiLogout, HiMail, HiUser, HiGlobe, HiSun, HiMoon, HiClock, HiPhotograph, HiArrowRight } from 'react-icons/hi'
+import { HiUserCircle, HiChartBar, HiCog, HiLogout, HiMail, HiUser, HiGlobe, HiClock, HiPhotograph } from 'react-icons/hi'
 import { FaTrophy } from 'react-icons/fa'
 
 export default function ProfilePage() {
@@ -36,10 +37,10 @@ export default function ProfilePage() {
   const [isHoveringAvatar, setIsHoveringAvatar] = useState(false)
 
   const tabs = [
-    { id: 'overview', label: 'Overview', icon: HiUserCircle },
-    { id: 'progress', label: 'Progress', icon: HiChartBar },
-    { id: 'achievements', label: 'Achievements', icon: FaTrophy },
-    { id: 'settings', label: 'Settings', icon: HiCog },
+    { id: 'overview', label: 'Обзор', icon: HiUserCircle },
+    { id: 'progress', label: 'Прогресс', icon: HiChartBar },
+    { id: 'achievements', label: 'Достижения', icon: FaTrophy },
+    { id: 'settings', label: 'Настройки', icon: HiCog },
   ]
 
   // Загрузка данных пользователя при монтировании компонента
@@ -189,31 +190,52 @@ export default function ProfilePage() {
 
   const displayAvatarUrl = avatarUrl ? getAvatarUrl(avatarUrl) : null
 
+  const getLanguageLabel = (code) => {
+    const value = (code || '').toLowerCase()
+    if (value === 'uz') return 'Uzbek (UZ)'
+    if (value === 'ru') return 'Русский (RU)'
+    if (value === 'en') return 'English (EN)'
+    return value ? value.toUpperCase() : '—'
+  }
+
+  const handleOpenSettings = () => {
+    setActiveTab('settings')
+  }
+
+  const handleEditFromHeader = () => {
+    setActiveTab('settings')
+    setIsEditing(true)
+  }
+
   // Получение статистики из профиля или значения по умолчанию
   const stats = [
-    { 
-      label: 'Streak Days', 
-      value: streakDays || '0', 
-      color: 'success', 
-      icon: HiChartBar 
+    {
+      label: 'Серия дней',
+      value: streakDays || '0',
+      hint: 'подряд',
+      color: 'gray',
+      icon: HiChartBar,
     },
-    { 
-      label: 'Learning Hours', 
-      value: totalLearningHours || '0', 
-      color: 'primary', 
-      icon: HiClock 
+    {
+      label: 'Часы обучения',
+      value: totalLearningHours || '0',
+      hint: 'всего',
+      color: 'gray',
+      icon: HiClock,
     },
-    { 
-      label: 'Language', 
-      value: languagePreference?.toUpperCase() || 'UZ', 
-      color: 'info', 
-      icon: HiGlobe 
+    {
+      label: 'Язык интерфейса',
+      value: getLanguageLabel(languagePreference),
+      hint: null,
+      color: 'gray',
+      icon: HiGlobe,
     },
-    { 
-      label: 'Status', 
-      value: isPro ? 'PRO' : 'Free', 
-      color: isPro ? 'accent' : 'gray', 
-      icon: FaTrophy 
+    {
+      label: 'Статус',
+      value: isPro ? 'PRO' : 'Free',
+      hint: null,
+      color: 'gray',
+      icon: FaTrophy,
     },
   ]
 
@@ -361,12 +383,54 @@ export default function ProfilePage() {
   // Показываем загрузку только во время загрузки
   if (isLoading) {
     return (
-      <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-        <div className="container-wrapper py-8 md:py-12">
-          <div className="flex items-center justify-center min-h-[50vh]">
-            <div className="text-center">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
-              <p className="text-gray-600">Загрузка данных профиля из backend...</p>
+      <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
+        <section className="relative h-[200px] overflow-hidden">
+          <div className="absolute inset-0 bg-gradient-to-br from-primary-600/18 via-accent-600/12 to-secondary-600/14" />
+          <div className="absolute inset-0 bg-white/75" />
+          <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-b from-transparent to-[#F7F8FA]" />
+
+          <div className="container-wrapper relative h-full">
+            <div className="max-w-[1200px] mx-auto h-full flex items-end pb-6">
+              <div className="flex items-center gap-4">
+                <div className="h-20 w-20 rounded-full bg-gray-200 animate-pulse" />
+                <div>
+                  <div className="h-8 w-56 rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-2 h-5 w-72 rounded-lg bg-gray-200 animate-pulse" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <div className="container-wrapper py-8 md:py-10">
+          <div className="max-w-[1200px] mx-auto">
+            <Card variant="glass" hover={false} className="rounded-2xl p-2">
+              <div className="flex gap-2">
+                {[0, 1, 2, 3].map((i) => (
+                  <div key={i} className="h-10 flex-1 rounded-xl bg-gray-200 animate-pulse" />
+                ))}
+              </div>
+            </Card>
+
+            <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+              {[0, 1, 2, 3].map((i) => (
+                <Card key={i} variant="glass" hover={false} className="rounded-2xl p-6">
+                  <div className="h-10 w-10 rounded-xl bg-gray-200 animate-pulse" />
+                  <div className="mt-4 h-4 w-24 rounded-lg bg-gray-200 animate-pulse" />
+                  <div className="mt-2 h-8 w-20 rounded-lg bg-gray-200 animate-pulse" />
+                </Card>
+              ))}
+            </div>
+
+            <div className="mt-8">
+              <Card variant="glass" hover={false} className="rounded-2xl p-6">
+                <div className="h-6 w-48 rounded-lg bg-gray-200 animate-pulse" />
+                <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {[0, 1, 2, 3].map((i) => (
+                    <div key={i} className="h-14 rounded-xl bg-gray-200 animate-pulse" />
+                  ))}
+                </div>
+              </Card>
             </div>
           </div>
         </div>
@@ -396,178 +460,265 @@ export default function ProfilePage() {
   }
 
   return (
-    <main className="w-full overflow-x-hidden min-h-screen bg-gray-50">
-      {/* Profile Header with Gradient */}
-      <section className="relative bg-gradient-to-br from-primary-600 via-accent-600 to-secondary-600 py-12 md:py-16">
-        <div className="container-wrapper">
-          <ScrollAnimation>
-            <div className="flex flex-col md:flex-row items-center md:items-end justify-between space-y-6 md:space-y-0">
-              <div className="flex flex-col md:flex-row items-center md:items-end space-y-6 md:space-y-0 md:space-x-6">
-                <div className="relative">
-                  <input
-                    id="avatar-upload-input"
-                    type="file"
-                    accept="image/*"
-                    onChange={handleAvatarUpload}
-                    className="hidden"
-                    disabled={isUploadingAvatar}
-                  />
-                  <div
-                    onClick={handleAvatarClick}
-                    onMouseEnter={() => !isUploadingAvatar && setIsHoveringAvatar(true)}
-                    onMouseLeave={() => setIsHoveringAvatar(false)}
-                    className={`
-                      w-24 h-24 md:w-32 md:h-32 rounded-full bg-white/20 backdrop-blur-md border-4 border-white/30 
-                      flex items-center justify-center text-white text-4xl md:text-5xl font-bold shadow-xl
-                      ${isUploadingAvatar ? 'opacity-50 cursor-wait' : 'cursor-pointer transition-all duration-200'}
-                      ${isHoveringAvatar ? 'bg-black/60 backdrop-blur-md' : ''}
-                      overflow-hidden relative
-                    `}
-                    title={isUploadingAvatar ? 'Загрузка...' : 'Нажмите для загрузки фото'}
-                  >
-                    {isUploadingAvatar ? (
-                      <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-white"></div>
-                    ) : displayAvatarUrl ? (
-                      <>
-                        <img
-                          src={displayAvatarUrl}
-                          alt={fullName || username}
-                          className={`w-full h-full object-cover transition-opacity duration-200 ${isHoveringAvatar ? 'opacity-50' : 'opacity-100'}`}
-                          onError={(e) => {
-                            // Если изображение не загрузилось, скрываем его
-                            e.target.style.display = 'none'
-                          }}
-                        />
-                        <span 
-                          className="absolute inset-0 flex items-center justify-center bg-white/20 backdrop-blur-md"
-                          style={{ display: displayAvatarUrl ? 'none' : 'flex' }}
-                        >
-                          {userInitial}
-                        </span>
-                      </>
-                    ) : (
-                      <span className={`transition-opacity duration-200 ${isHoveringAvatar ? 'opacity-50' : 'opacity-100'}`}>{userInitial}</span>
-                    )}
-                    {isHoveringAvatar && !isUploadingAvatar && (
-                      <div className="absolute inset-0 flex items-center justify-center bg-black/40 backdrop-blur-sm rounded-full">
-                        <HiPhotograph className="w-8 h-8 md:w-10 md:h-10 text-white" />
-                      </div>
-                    )}
+    <main className="w-full overflow-x-hidden min-h-screen bg-[#F7F8FA]">
+      <section className="relative h-[200px] overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-br from-primary-600/18 via-accent-600/12 to-secondary-600/14" />
+        <div className="absolute inset-0 bg-white/75" />
+        <div className="absolute inset-x-0 bottom-0 h-16 bg-gradient-to-b from-transparent to-[#F7F8FA]" />
+
+        <div className="container-wrapper relative h-full">
+          <div className="max-w-[1200px] mx-auto h-full flex items-end pb-6">
+            <ScrollAnimation>
+              <div className="w-full flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                <div className="flex items-center gap-4">
+                  <div className="relative">
+                    <input
+                      id="avatar-upload-input"
+                      type="file"
+                      accept="image/*"
+                      onChange={handleAvatarUpload}
+                      className="hidden"
+                      disabled={isUploadingAvatar}
+                    />
+                    <div
+                      onClick={handleAvatarClick}
+                      onMouseEnter={() => !isUploadingAvatar && setIsHoveringAvatar(true)}
+                      onMouseLeave={() => setIsHoveringAvatar(false)}
+                      className={`
+                        h-20 w-20 rounded-full bg-white border border-app-border shadow-card
+                        flex items-center justify-center text-slate-900 text-3xl font-extrabold
+                        ${isUploadingAvatar ? 'opacity-60 cursor-wait' : 'cursor-pointer transition-all duration-200'}
+                        overflow-hidden relative
+                      `}
+                      title={isUploadingAvatar ? 'Загрузка...' : 'Нажмите для загрузки фото'}
+                    >
+                      {isUploadingAvatar ? (
+                        <div className="animate-spin rounded-full h-7 w-7 border-b-2 border-primary-600"></div>
+                      ) : displayAvatarUrl ? (
+                        <>
+                          <img
+                            src={displayAvatarUrl}
+                            alt={fullName || username}
+                            className={`w-full h-full object-cover transition-opacity duration-200 ${isHoveringAvatar ? 'opacity-60' : 'opacity-100'}`}
+                            onError={(e) => {
+                              e.target.style.display = 'none'
+                            }}
+                          />
+                          <span
+                            className="absolute inset-0 hidden items-center justify-center bg-white"
+                            style={{ display: displayAvatarUrl ? 'none' : 'flex' }}
+                          >
+                            {userInitial}
+                          </span>
+                        </>
+                      ) : (
+                        <span className={`transition-opacity duration-200 ${isHoveringAvatar ? 'opacity-60' : 'opacity-100'}`}>{userInitial}</span>
+                      )}
+                      {isHoveringAvatar && !isUploadingAvatar && (
+                        <div className="absolute inset-0 flex items-center justify-center bg-slate-900/35 rounded-full">
+                          <HiPhotograph className="w-7 h-7 text-white" />
+                        </div>
+                      )}
+                    </div>
+                  </div>
+
+                  <div className="min-w-0">
+                    <div className="text-[28px] leading-[32px] md:text-[32px] md:leading-[36px] font-extrabold text-slate-900 truncate">
+                      {fullName || username}
+                    </div>
+                    <div className="mt-1 text-[14px] md:text-[15px] text-slate-600 truncate">{email}</div>
                   </div>
                 </div>
-                <div className="text-center md:text-left text-white">
-                  <h1 className="text-3xl md:text-4xl font-bold mb-2">{fullName || username}</h1>
-                  <p className="text-white/90 text-lg">{email}</p>
-                  {bio && (
-                    <p className="text-white/80 text-sm mt-2 max-w-md">{bio}</p>
-                  )}
+
+                <div className="flex flex-wrap items-center justify-center md:justify-end gap-2">
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={handleOpenSettings}
+                    className="h-10 rounded-xl"
+                  >
+                    <HiCog className="w-4 h-4 mr-2" />
+                    Настройки
+                  </Button>
+                  <Button
+                    variant="primary"
+                    size="sm"
+                    onClick={handleEditFromHeader}
+                    className="h-10 rounded-xl"
+                  >
+                    Редактировать
+                  </Button>
+                  <Button
+                    variant="outline"
+                    size="sm"
+                    onClick={handleLogout}
+                    className="h-10 rounded-xl"
+                  >
+                    <HiLogout className="w-4 h-4 mr-2" />
+                    Выйти
+                  </Button>
                 </div>
               </div>
-              <div className="flex items-center">
-                <Button
-                  variant="outline"
-                  size="md"
-                  onClick={handleLogout}
-                  className="bg-white/10 hover:bg-white/20 text-white border-white/30 hover:border-white/50"
-                >
-                  <HiLogout className="w-5 h-5 mr-2" />
-                  Logout
-                </Button>
-              </div>
-            </div>
-          </ScrollAnimation>
+            </ScrollAnimation>
+          </div>
         </div>
       </section>
 
-      <div className="container-wrapper py-8 md:py-12">
-        {/* Tabs */}
-        <Card variant="glass" className="mb-8">
-          <div className="border-b border-gray-200">
-            <nav className="flex flex-wrap space-x-1 px-4 md:px-6" aria-label="Tabs">
-              {tabs.map((tab) => {
-                const Icon = tab.icon
-                return (
-                  <button
-                    key={tab.id}
-                    onClick={() => setActiveTab(tab.id)}
-                    className={`
-                      flex items-center space-x-2 py-4 px-4 md:px-6 border-b-2 font-medium text-sm transition-colors
-                      ${activeTab === tab.id
-                        ? 'border-primary-600 text-primary-600'
-                        : 'border-transparent text-gray-500 hover:text-gray-700 hover:border-gray-300'
-                      }
-                    `}
-                  >
-                    <Icon className="w-5 h-5" />
-                    <span className="hidden sm:inline">{tab.label}</span>
-                  </button>
-                )
-              })}
-            </nav>
-          </div>
+      <div className="container-wrapper py-8 md:py-10">
+        <div className="max-w-[1200px] mx-auto">
+          <Card variant="glass" className="rounded-2xl mb-8">
+            <div className="p-2">
+              <nav className="flex flex-wrap gap-2" aria-label="Tabs">
+                {tabs.map((tab) => {
+                  const Icon = tab.icon
+                  const isActive = activeTab === tab.id
+                  return (
+                    <button
+                      key={tab.id}
+                      onClick={() => setActiveTab(tab.id)}
+                      className={`
+                        inline-flex items-center gap-2 h-10 px-4 rounded-xl text-sm font-semibold transition-all
+                        focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary-500/40
+                        ${isActive ? 'bg-white shadow-card text-slate-900 border border-app-border' : 'text-slate-600 hover:text-slate-900 hover:bg-white/60'}
+                      `}
+                    >
+                      <Icon className="w-5 h-5" />
+                      <span>{tab.label}</span>
+                    </button>
+                  )
+                })}
+              </nav>
+            </div>
 
-          {/* Tab Content */}
-          <div className="p-6 md:p-8">
+            <div className="p-6 md:p-8">
             {activeTab === 'overview' && (
               <ScrollAnimation>
                 <div className="space-y-6">
                   {/* Статистика */}
                   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
-                    {stats.map((stat, index) => {
+                    {stats.map((stat) => {
                       const Icon = stat.icon
-                      const colorClasses = getColorClasses(stat.color)
+                      const iconTone = getColorClasses(stat.color)
                       return (
-                        <Card key={stat.label} variant="stat" className="p-6">
-                          <div className={`w-12 h-12 rounded-lg ${colorClasses.bg} flex items-center justify-center mb-4`}>
-                            <Icon className={`w-6 h-6 ${colorClasses.text}`} />
+                        <Card key={stat.label} variant="glass" className="rounded-2xl p-6">
+                          <div className="flex items-start justify-between gap-4">
+                            <div className="flex-1">
+                              <div className={`h-10 w-10 rounded-xl ${iconTone.bg} flex items-center justify-center shadow-card`}>
+                                <Icon className={`w-5 h-5 ${iconTone.text}`} />
+                              </div>
+                              <div className="mt-4 text-[13px] text-slate-500">{stat.label}</div>
+                              <div className="mt-1 flex items-baseline gap-2">
+                                <div className="text-[30px] leading-[34px] font-extrabold text-slate-900">{stat.value}</div>
+                                {stat.hint && <div className="text-[13px] text-slate-500">{stat.hint}</div>}
+                              </div>
+                            </div>
+
+                            {stat.label === 'Статус' && (
+                              <div className="pt-1">
+                                <Badge variant={isPro ? 'accent' : 'gray'} size="sm">
+                                  {isPro ? 'PRO' : 'Free'}
+                                </Badge>
+                              </div>
+                            )}
                           </div>
-                          <h3 className="text-sm font-medium text-gray-600 mb-1">{stat.label}</h3>
-                          <p className={`text-2xl md:text-3xl font-bold ${colorClasses.text}`}>{stat.value}</p>
                         </Card>
                       )
                     })}
                   </div>
 
                   {/* Информация о профиле */}
-                  <Card variant="glass" className="p-6">
-                    <h3 className="text-xl font-semibold mb-4">Информация о профиле</h3>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <Card variant="glass" className="rounded-2xl p-6">
+                    <div className="flex items-start justify-between gap-4 mb-4">
                       <div>
-                        <p className="text-sm text-gray-600 mb-1">Имя пользователя</p>
-                        <p className="text-base font-medium text-gray-900">{username}</p>
+                        <h3 className="text-[18px] leading-[1.25] font-extrabold text-slate-900">Данные профиля</h3>
+                        <p className="mt-1 text-[13px] text-slate-500">Основная информация аккаунта</p>
                       </div>
-                      <div>
-                        <p className="text-sm text-gray-600 mb-1">Email</p>
-                        <p className="text-base font-medium text-gray-900">{email}</p>
+                      <div className="flex items-center gap-2">
+                        <Button variant="outline" size="sm" onClick={handleOpenSettings} className="h-10 rounded-xl">
+                          <HiCog className="w-4 h-4 mr-2" />
+                          Настройки
+                        </Button>
+                        <Button variant="primary" size="sm" onClick={handleEditFromHeader} className="h-10 rounded-xl">
+                          Редактировать
+                        </Button>
+                      </div>
+                    </div>
+
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-x-6">
+                      <div className="py-3 border-b border-app-border">
+                        <div className="text-[12px] text-slate-500">Имя пользователя</div>
+                        <div className="mt-1 text-[15px] font-semibold text-slate-900">{username}</div>
+                      </div>
+                      <div className="py-3 border-b border-app-border">
+                        <div className="text-[12px] text-slate-500">Email</div>
+                        <div className="mt-1 text-[15px] font-semibold text-slate-900">{email}</div>
                       </div>
                       {firstName && (
-                        <div>
-                          <p className="text-sm text-gray-600 mb-1">Имя</p>
-                          <p className="text-base font-medium text-gray-900">{firstName}</p>
+                        <div className="py-3 border-b border-app-border">
+                          <div className="text-[12px] text-slate-500">Имя</div>
+                          <div className="mt-1 text-[15px] font-semibold text-slate-900">{firstName}</div>
                         </div>
                       )}
                       {lastName && (
-                        <div>
-                          <p className="text-sm text-gray-600 mb-1">Фамилия</p>
-                          <p className="text-base font-medium text-gray-900">{lastName}</p>
+                        <div className="py-3 border-b border-app-border">
+                          <div className="text-[12px] text-slate-500">Фамилия</div>
+                          <div className="mt-1 text-[15px] font-semibold text-slate-900">{lastName}</div>
                         </div>
                       )}
-                      <div>
-                        <p className="text-sm text-gray-600 mb-1">Язык интерфейса</p>
-                        <p className="text-base font-medium text-gray-900">{languagePreference?.toUpperCase() || 'UZ'}</p>
+                      <div className="py-3 border-b border-app-border">
+                        <div className="text-[12px] text-slate-500">Язык интерфейса</div>
+                        <div className="mt-1 text-[15px] font-semibold text-slate-900">{getLanguageLabel(languagePreference)}</div>
                       </div>
-                      <div>
-                        <p className="text-sm text-gray-600 mb-1">Тема</p>
-                        <p className="text-base font-medium text-gray-900 capitalize">{theme}</p>
+                      <div className="py-3 border-b border-app-border">
+                        <div className="text-[12px] text-slate-500">Тема</div>
+                        <div className="mt-1 text-[15px] font-semibold text-slate-900 capitalize">{theme}</div>
                       </div>
                     </div>
                     {bio && (
                       <div className="mt-4">
-                        <p className="text-sm text-gray-600 mb-1">О себе</p>
-                        <p className="text-base text-gray-900">{bio}</p>
+                        <div className="text-[12px] text-slate-500">О себе</div>
+                        <div className="mt-1 text-[15px] leading-[1.6] text-slate-900">{bio}</div>
                       </div>
                     )}
                   </Card>
+
+                  <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <Card variant="glass" className="rounded-2xl p-6">
+                      <div className="flex items-start justify-between gap-4">
+                        <div>
+                          <div className="text-[18px] leading-[1.25] font-extrabold text-slate-900">Продолжить обучение</div>
+                          <div className="mt-1 text-[13px] text-slate-500">Вернитесь к курсам или выберите новый трек</div>
+                        </div>
+                      </div>
+                      <div className="mt-5 flex flex-col sm:flex-row sm:items-center gap-3">
+                        <Button variant="primary" size="sm" className="h-10 rounded-xl" onClick={() => router.push('/courses')}>
+                          Перейти к курсам
+                        </Button>
+                        <Button variant="outline" size="sm" className="h-10 rounded-xl" onClick={() => router.push('/learning-paths')}>
+                          Пути обучения
+                        </Button>
+                      </div>
+                    </Card>
+
+                    <Card variant="glass" className="rounded-2xl p-6">
+                      <div className="text-[18px] leading-[1.25] font-extrabold text-slate-900">Следующие шаги</div>
+                      <div className="mt-1 text-[13px] text-slate-500">Быстрые действия для роста прогресса</div>
+                      <div className="mt-4 space-y-2">
+                        <div className="flex items-start gap-2 text-[14px] text-slate-700">
+                          <span className="mt-0.5 h-2 w-2 rounded-full bg-primary-400" />
+                          <span>Завершите уроки, чтобы получить сертификаты</span>
+                        </div>
+                        <div className="flex items-start gap-2 text-[14px] text-slate-700">
+                          <span className="mt-0.5 h-2 w-2 rounded-full bg-primary-400" />
+                          <span>Проверьте прогресс в разделе «Прогресс»</span>
+                        </div>
+                        <div className="flex items-start gap-2 text-[14px] text-slate-700">
+                          <span className="mt-0.5 h-2 w-2 rounded-full bg-primary-400" />
+                          <span>Настройте язык и тему в «Настройках»</span>
+                        </div>
+                      </div>
+                    </Card>
+                  </div>
                 </div>
               </ScrollAnimation>
             )}
@@ -575,9 +726,9 @@ export default function ProfilePage() {
             {activeTab === 'progress' && (
               <ScrollAnimation>
                 <div>
-                  <h3 className="text-xl md:text-2xl font-semibold mb-4">Learning Progress</h3>
-                  <Card variant="glass" className="p-6">
-                    <p className="text-gray-600">Progress charts and statistics will be displayed here.</p>
+                  <h3 className="text-xl md:text-2xl font-semibold mb-4 text-slate-900">Прогресс</h3>
+                  <Card variant="glass" className="rounded-2xl p-6">
+                    <p className="text-slate-600">Графики и статистика прогресса будут отображаться здесь.</p>
                   </Card>
                 </div>
               </ScrollAnimation>
@@ -587,43 +738,44 @@ export default function ProfilePage() {
               <ScrollAnimation>
                 <div>
                   <div className="flex items-center justify-between mb-4">
-                    <h3 className="text-xl md:text-2xl font-semibold">Certificates & Achievements</h3>
+                    <h3 className="text-xl md:text-2xl font-semibold text-slate-900">Сертификаты и достижения</h3>
                     <Button
                       variant="outline"
                       size="sm"
                       onClick={() => router.push('/certificates')}
+                      className="rounded-xl"
                     >
-                      View All Certificates
+                      Все сертификаты
                     </Button>
                   </div>
                   
                   {/* Certificates Section */}
-                  <Card variant="glass" className="p-6 mb-6">
-                    <h4 className="text-lg font-semibold text-gray-900 mb-4">My Certificates</h4>
+                  <Card variant="glass" className="rounded-2xl p-6 mb-6">
+                    <h4 className="text-lg font-semibold text-slate-900 mb-4">Мои сертификаты</h4>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                       {/* This will be populated from API */}
-                      <div className="text-center py-8 text-gray-500">
-                        <FaTrophy className="w-12 h-12 mx-auto mb-2 text-gray-400" />
-                        <p className="text-sm">Complete courses to earn certificates</p>
+                      <div className="text-center py-8 text-slate-500">
+                        <FaTrophy className="w-12 h-12 mx-auto mb-2 text-slate-300" />
+                        <p className="text-sm">Завершайте курсы, чтобы получать сертификаты</p>
                         <Button
                           variant="primary"
                           size="sm"
-                          className="mt-4"
+                          className="mt-4 rounded-xl"
                           onClick={() => router.push('/courses')}
                         >
-                          Browse Courses
+                          Перейти к курсам
                         </Button>
                       </div>
                     </div>
                   </Card>
 
                   {/* Achievements Section */}
-                  <Card variant="glass" className="p-6">
-                    <h4 className="text-lg font-semibold text-gray-900 mb-4">Achievements & Badges</h4>
+                  <Card variant="glass" className="rounded-2xl p-6">
+                    <h4 className="text-lg font-semibold text-slate-900 mb-4">Достижения и бейджи</h4>
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                       {/* Achievement badges will be displayed here */}
-                      <div className="text-center py-4 text-gray-500">
-                        <p className="text-sm">Complete courses to unlock achievements</p>
+                      <div className="text-center py-4 text-slate-500">
+                        <p className="text-sm">Завершайте курсы, чтобы открывать достижения</p>
                       </div>
                     </div>
                   </Card>
@@ -641,13 +793,14 @@ export default function ProfilePage() {
                         variant="primary"
                         size="sm"
                         onClick={() => setIsEditing(true)}
+                        className="rounded-xl"
                       >
                         Редактировать профиль
                       </Button>
                     )}
                   </div>
                   
-                  <Card variant="glass" className="p-6">
+                  <Card variant="glass" className="rounded-2xl p-6">
                     <form onSubmit={handleSaveProfile} className="space-y-6">
                       {formError && (
                         <div className="bg-error-50 border border-error-200 text-error-700 px-4 py-3 rounded-lg text-sm">
@@ -772,13 +925,14 @@ export default function ProfilePage() {
                       </div>
 
                       {isEditing && (
-                        <div className="flex items-center space-x-4 pt-4 border-t border-gray-200">
+                        <div className="flex items-center space-x-4 pt-4 border-t border-app-border">
                           <Button
                             type="submit"
                             variant="primary"
                             size="md"
                             isLoading={isSaving}
                             disabled={isSaving}
+                            className="rounded-xl"
                           >
                             Сохранить изменения
                           </Button>
@@ -788,6 +942,7 @@ export default function ProfilePage() {
                             size="md"
                             onClick={handleCancelEdit}
                             disabled={isSaving}
+                            className="rounded-xl"
                           >
                             Отмена
                           </Button>
@@ -795,12 +950,12 @@ export default function ProfilePage() {
                       )}
                     </form>
 
-                    <div className="pt-6 mt-6 border-t border-gray-200">
+                    <div className="pt-6 mt-6 border-t border-app-border">
                       <Button
                         variant="secondary"
                         size="md"
                         onClick={handleLogout}
-                        className="flex items-center space-x-2 bg-error-50 border-error-300 text-error-700 hover:bg-error-100 hover:border-error-400"
+                        className="flex items-center space-x-2 bg-error-50 border-error-300 text-error-700 hover:bg-error-100 hover:border-error-400 rounded-xl"
                       >
                         <HiLogout className="w-5 h-5" />
                         <span>Выйти из аккаунта</span>
@@ -810,8 +965,9 @@ export default function ProfilePage() {
                 </div>
               </ScrollAnimation>
             )}
-          </div>
-        </Card>
+            </div>
+          </Card>
+        </div>
       </div>
     </main>
   )

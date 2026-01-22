@@ -16,6 +16,7 @@ const Badge = ({
     warning: 'bg-warning-50 text-warning-600',
     info: 'bg-info-50 text-info-600',
     gray: 'bg-gray-100 text-gray-700',
+    outline: 'bg-white text-gray-700',
   }
   
   const sizes = {

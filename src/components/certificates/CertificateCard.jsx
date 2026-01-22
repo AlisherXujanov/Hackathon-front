@@ -98,21 +98,23 @@ export default function CertificateCard({ certificate, onDownload, onShare }) {
   const CertificateIcon = getCertificateTypeIcon(certificate.type)
 
   return (
-    <Card variant="glass" className="p-6 hover:shadow-lg transition-shadow">
+    <Card variant="glass" className="rounded-2xl p-6">
       <div className="flex items-start justify-between mb-4">
         <div className="flex-1">
           <div className="flex items-center gap-2 mb-2">
-            <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${
-              certificate.type === 'professional' 
-                ? 'from-accent-500 to-accent-600' 
-                : certificate.type === 'verified'
-                ? 'from-primary-500 to-primary-600'
-                : 'from-success-500 to-success-600'
-            } flex items-center justify-center`}>
+            <div
+              className={`w-12 h-12 rounded-xl border border-app-border bg-gradient-to-br ${
+                certificate.type === 'professional'
+                  ? 'from-accent-500 to-accent-600'
+                  : certificate.type === 'verified'
+                  ? 'from-primary-500 to-primary-600'
+                  : 'from-success-500 to-success-600'
+              } flex items-center justify-center shadow-card`}
+            >
               <CertificateIcon className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h3 className="text-lg font-bold text-gray-900">
+              <h3 className="text-[18px] leading-[1.25] font-extrabold text-slate-900">
                 {certificate.courseTitle || certificate.title || 'Certificate'}
               </h3>
               <Badge variant={getCertificateTypeColor(certificate.type)} size="sm" className="mt-1">
@@ -124,26 +126,29 @@ export default function CertificateCard({ certificate, onDownload, onShare }) {
       </div>
 
       {certificate.description && (
-        <p className="text-gray-600 text-sm mb-4">{certificate.description}</p>
+        <p className="text-slate-600 text-[15px] leading-[1.55] mb-4">{certificate.description}</p>
       )}
 
-      <div className="flex items-center gap-2 text-sm text-gray-500 mb-4">
-        <span>Issued: {new Date(certificate.issuedAt || certificate.createdAt).toLocaleDateString()}</span>
+      <div className="grid grid-cols-1 gap-1 text-[13px] text-slate-500 mb-4">
+        <div>
+          <span className="text-slate-500">Issued</span>
+          <span className="text-slate-700 font-semibold">: {new Date(certificate.issuedAt || certificate.createdAt).toLocaleDateString()}</span>
+        </div>
         {certificate.certificateId && (
-          <>
-            <span>•</span>
-            <span>ID: {certificate.certificateId}</span>
-          </>
+          <div>
+            <span className="text-slate-500">ID</span>
+            <span className="text-slate-700 font-semibold">: {certificate.certificateId}</span>
+          </div>
         )}
       </div>
 
-      <div className="flex items-center gap-2 pt-4 border-t border-gray-200">
+      <div className="flex items-center gap-2 pt-4 border-t border-app-border">
         <Button
           variant="primary"
           size="sm"
           onClick={handleDownload}
           isLoading={isDownloading}
-          className="flex-1"
+          className="flex-1 rounded-xl"
         >
           <HiDownload className="w-4 h-4 mr-2" />
           Download PDF
@@ -153,6 +158,7 @@ export default function CertificateCard({ certificate, onDownload, onShare }) {
           size="sm"
           onClick={handleShare}
           isLoading={isSharing}
+          className="rounded-xl"
         >
           <HiShare className="w-4 h-4 mr-2" />
           Share
@@ -162,6 +168,7 @@ export default function CertificateCard({ certificate, onDownload, onShare }) {
             variant="outline"
             size="sm"
             onClick={() => window.open(certificate.verificationUrl, '_blank')}
+            className="rounded-xl"
           >
             <HiExternalLink className="w-4 h-4" />
           </Button>
