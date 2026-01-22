@@ -130,7 +130,7 @@ export default function Home() {
                   </Link>
                 </Button>
                 <Button asChild variant="secondary" size="lg" className="bg-white border-2 border-primary-200 text-primary-700 hover:bg-primary-50 px-8 py-4 text-lg">
-                  <Link href="/dashboard">
+                  <Link href="/about">
                     Explore Courses
                   </Link>
                 </Button>

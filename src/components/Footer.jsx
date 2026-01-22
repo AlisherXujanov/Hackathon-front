@@ -8,7 +8,7 @@ const Footer = () => {
 
   const footerLinks = {
     platform: [
-      { href: '/dashboard', label: 'Dashboard' },
+      { href: '/about', label: 'About' },
       { href: '/classes', label: 'Classes' },
       { href: '/leaderboard', label: 'Leaderboard' },
       { href: '/analytics', label: 'Analytics' },
@@ -36,10 +36,11 @@ const Footer = () => {
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center space-x-3 mb-4 group">
-              <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-primary-500 via-secondary-500 to-accent-500 flex items-center justify-center text-white font-bold text-xl shadow-lg group-hover:shadow-xl transition-all duration-300 group-hover:scale-105">
-                U
-              </div>
-              <span className="text-2xl font-bold text-white">FrameSchool</span>
+              <img 
+                src="/assets/images/logos/logo_x.png" 
+                alt="FrameSchool Logo" 
+                className="h-12 w-auto group-hover:scale-105 transition-all duration-300"
+              />
             </Link>
             <p className="text-sm text-gray-400 mb-5 leading-relaxed">
               Comprehensive learning platform for English and Programming education, designed to help you grow faster.

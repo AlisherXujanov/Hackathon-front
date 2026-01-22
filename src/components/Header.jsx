@@ -28,11 +28,12 @@ const Header = () => {
   }, [pathname])
 
   const navLinks = [
-    { href: '/dashboard', label: 'Dashboard' },
+    { href: '/about', label: 'About' },
     { href: '/english', label: 'English' },
     { href: '/programming', label: 'Programming' },
     { href: '/classes', label: 'Classes' },
     { href: '/leaderboard', label: 'Leaderboard' },
+    { href: '/plan', label: 'Pricing' },
   ]
 
   const isActive = (href) => pathname?.startsWith(href)
@@ -50,16 +51,15 @@ const Header = () => {
         }
       `}
     >
-      <nav className="container-wrapper">
-        <div className="flex items-center justify-between h-16 gap-3 min-w-0">
+      <nav className="container-wrapper py-1">
+        <div className="flex items-center justify-between h-19 gap-3 min-w-0">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3 group shrink-0 min-w-0">
-            <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary-600 to-secondary-600 flex items-center justify-center text-white font-bold text-xl shadow-md group-hover:shadow-lg transition-all duration-200 group-hover:scale-105">
-              U
-            </div>
-            <span className="text-xl font-bold text-gray-900 group-hover:text-primary-700 transition-colors">
-              FrameSchool
-            </span>
+            <img 
+              src="/assets/images/logos/logo_long1.png" 
+              alt="FrameSchool Logo" 
+              className="p-1 h-16 w-auto group-hover:scale-105 transition-all duration-200"
+            />
           </Link>
 
           {/* Desktop Navigation */}
