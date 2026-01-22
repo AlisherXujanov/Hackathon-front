@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Sora:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=Sora:wght@400;500;600;700&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -15,6 +15,19 @@
   --info: #4338CA;
   --dark: #1E1B4B;
   --surface: #312E81;
+
+  --bg: #F8FAFC;
+  --surface-base: #FFFFFF;
+  --text: #0F172A;
+  --muted: #64748B;
+  --border: #E5E7EB;
+
+  --radius-card: 12px;
+  --radius-button: 10px;
+  --radius-chip: 999px;
+
+  --shadow-card: 0 1px 2px rgba(15, 23, 42, 0.06), 0 6px 16px rgba(15, 23, 42, 0.06);
+  --shadow-floating: 0 10px 30px rgba(15, 23, 42, 0.12), 0 6px 14px rgba(15, 23, 42, 0.08);
   
   /* Spacing (8pt baseline) */
   --spacing-unit: 8px;
@@ -36,7 +49,7 @@
     @apply antialiased;
     @apply text-gray-900;
     @apply bg-gray-50;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
   }
   
@@ -92,13 +105,28 @@
   /* Utility Classes */
   .container-wrapper {
     @apply mx-auto;
-    @apply max-w-[1440px];
+    @apply max-w-[1280px];
     @apply px-4;
-    @apply md:px-8;
-    @apply lg:px-12;
-    @apply xl:px-16;
+    @apply md:px-6;
+    @apply lg:px-8;
   }
-  
+
+  .typo-h1 {
+    @apply text-[40px] leading-[48px] font-bold;
+  }
+
+  .typo-h2 {
+    @apply text-[24px] leading-[32px] font-semibold;
+  }
+
+  .typo-body {
+    @apply text-[16px] leading-[24px] font-normal;
+  }
+
+  .typo-caption {
+    @apply text-[13px] leading-[18px] font-medium;
+  }
+
   /* Glass Morphism Utility */
   .glass-card {
     @apply bg-white/80;

@@ -19,12 +19,12 @@ const Badge = ({
   }
   
   const sizes = {
-    sm: 'px-2 py-0.5 text-xs',
-    md: 'px-3 py-1 text-xs',
-    lg: 'px-4 py-1.5 text-sm',
+    sm: 'h-6 px-2 text-xs',
+    md: 'h-6 px-3 text-xs',
+    lg: 'h-7 px-4 text-sm',
   }
   
-  const classes = `inline-flex items-center rounded-full font-bold uppercase tracking-wider ${variants[variant]} ${sizes[size]} ${className}`
+  const classes = `inline-flex items-center rounded-chip border border-app-border font-semibold tracking-wide ${variants[variant]} ${sizes[size]} ${className}`
   
   return (
     <span className={classes} {...props}>
