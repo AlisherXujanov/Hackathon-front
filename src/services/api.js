@@ -62,6 +62,7 @@ apiClient.interceptors.response.use(
           localStorage.removeItem('access_token')
           localStorage.removeItem('refresh_token')
           localStorage.removeItem('user')
+          clearUserRoleCookie()
           window.location.href = '/auth/login'
         }
         return Promise.reject(refreshError)
@@ -71,6 +72,16 @@ apiClient.interceptors.response.use(
     return Promise.reject(error)
   }
 )
+
+function setUserRoleCookie(role) {
+  if (typeof document === 'undefined' || !role) return
+  document.cookie = `user_role=${encodeURIComponent(role)}; path=/; max-age=604800; SameSite=Lax`
+}
+
+function clearUserRoleCookie() {
+  if (typeof document === 'undefined') return
+  document.cookie = 'user_role=; path=/; max-age=0; SameSite=Lax'
+}
 
 // Сервис для работы с аутентификацией
 export const authService = {
@@ -133,17 +144,22 @@ export const authService = {
         if (refresh) localStorage.setItem('refresh_token', refresh)
 
         // Если данные пользователя не пришли в ответе, получаем их из /api/v1/users/me/
+        
+        let userStored = user
         if (user) {
           localStorage.setItem('user', JSON.stringify(user))
         } else if (access) {
           try {
             const userResponse = await apiClient.get('/api/v1/users/me/')
             const userData = userResponse.data
+            userStored = userData
             localStorage.setItem('user', JSON.stringify(userData))
           } catch (meError) {
             console.warn('Не удалось получить данные пользователя из /api/v1/users/me/', meError)
           }
         }
+        const role = (userStored?.data || userStored)?.role
+        if (role) setUserRoleCookie(role)
       }
 
       return response.data
@@ -210,11 +226,11 @@ export const authService = {
     } catch (error) {
       console.error('Ошибка при выходе:', error)
     } finally {
-      // Очищаем localStorage независимо от результата запроса
       if (typeof window !== 'undefined') {
         localStorage.removeItem('access_token')
         localStorage.removeItem('refresh_token')
         localStorage.removeItem('user')
+        clearUserRoleCookie()
       }
     }
   },
@@ -248,13 +264,13 @@ export const authService = {
       const response = await apiClient.get('/api/v1/users/me/')
       // Обрабатываем структуру ответа (может быть data.data или просто data)
       const userData = response.data?.data || response.data
-      // Обновляем данные пользователя в localStorage
       if (typeof window !== 'undefined' && userData) {
         localStorage.setItem('user', JSON.stringify(userData))
+        const role = (userData?.data || userData)?.role
+        if (role) setUserRoleCookie(role)
       }
       return response.data
     } catch (error) {
-      // Обработка ошибок
       if (error.response?.data) {
         const errorData = error.response.data
         const errorMessage = errorData.message ||
@@ -277,13 +293,13 @@ export const authService = {
       const response = await apiClient.patch('/api/v1/users/me/', profileData)
       // Обрабатываем структуру ответа (может быть data.data или просто data)
       const userData = response.data?.data || response.data
-      // Обновляем данные пользователя в localStorage
       if (typeof window !== 'undefined' && userData) {
         localStorage.setItem('user', JSON.stringify(userData))
+        const role = (userData?.data || userData)?.role
+        if (role) setUserRoleCookie(role)
       }
       return response.data
     } catch (error) {
-      // Обработка ошибок
       if (error.response?.data) {
         const errorData = error.response.data
 
@@ -388,6 +404,50 @@ export const leaderboardService = {
         throw new Error(errorMessage)
       }
       throw new Error('Ошибка при получении лидерборда. Проверьте подключение к серверу.')
+    }
+  },
+}
+
+// Сервис для работы с приглашениями (студенты)
+export const invitationsService = {
+  /**
+   * Получить список приглашений текущего пользователя
+   * @param {Object} params - Параметры запроса
+   * @param {number} params.page - Номер страницы
+   * @returns {Promise} { count, next, previous, results }
+   */
+  getInvitations: async ({ page = 1 } = {}) => {
+    try {
+      const response = await apiClient.get('/api/v1/users/me/invitations/', {
+        params: { page },
+      })
+      return response.data
+    } catch (error) {
+      if (error.response?.data) {
+        const d = error.response.data
+        const msg = d.message || d.error || d.detail || 'Ошибка при загрузке приглашений'
+        throw new Error(msg)
+      }
+      throw new Error('Ошибка при загрузке приглашений. Проверьте подключение к серверу.')
+    }
+  },
+
+  /**
+   * Принять или отклонить приглашение
+   * @param {number} id - ID приглашения
+   * @param {'accept'|'decline'} action
+   * @returns {Promise}
+   */
+  respond: async (id, action) => {
+    try {
+      await apiClient.post(`/api/v1/users/me/invitations/${id}/respond/`, { action })
+    } catch (error) {
+      if (error.response?.data) {
+        const d = error.response.data
+        const msg = d.message || d.error || d.detail || 'Ошибка при ответе на приглашение'
+        throw new Error(msg)
+      }
+      throw new Error('Ошибка при ответе на приглашение. Проверьте подключение к серверу.')
     }
   },
 }

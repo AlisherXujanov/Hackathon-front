@@ -3,7 +3,6 @@ import { NextResponse } from 'next/server'
 export function proxy(request) {
   const { pathname } = request.nextUrl
 
-  // Проверяем, если пользователь пытается получить доступ к странице classes
   if (pathname.startsWith('/classes')) {
     // В Next.js proxy работает на сервере, поэтому мы не можем напрямую проверить localStorage
     // Проверяем наличие токена в cookies (если он там есть) или пропускаем для клиентской проверки
@@ -14,11 +13,17 @@ export function proxy(request) {
     return NextResponse.next()
   }
 
+  if (pathname.startsWith('/invitations')) {
+    const role = request.cookies.get('user_role')?.value
+    if (role === 'teacher') {
+      return NextResponse.redirect(new URL('/', request.url))
+    }
+    return NextResponse.next()
+  }
+
   return NextResponse.next()
 }
 
 export const config = {
-  matcher: [
-    '/classes/:path*',
-  ],
+  matcher: ['/classes/:path*', '/invitations/:path*'],
 }

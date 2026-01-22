@@ -64,19 +64,33 @@ const Header = () => {
       ]
     }
     
-    // Для авторизованных пользователей: вставляем Certificates после Learning Paths
     if (isAuthenticated) {
-      // Находим индекс Learning Paths
       const learningPathsIndex = links.findIndex(link => link.href === '/learning-paths')
       if (learningPathsIndex !== -1) {
         links = [
-          ...links.slice(0, learningPathsIndex + 1), // До Learning Paths включительно
+          ...links.slice(0, learningPathsIndex + 1),
           { href: '/certificates', label: 'Certificates' },
-          ...links.slice(learningPathsIndex + 1) // После Learning Paths
+          ...links.slice(learningPathsIndex + 1),
         ]
       }
+      if (userRole === 'student') {
+        const certIndex = links.findIndex(link => link.href === '/certificates')
+        if (certIndex !== -1) {
+          links = [
+            ...links.slice(0, certIndex + 1),
+            { href: '/invitations', label: 'Invitations' },
+            ...links.slice(certIndex + 1),
+          ]
+        } else {
+          const lpIndex = links.findIndex(link => link.href === '/learning-paths')
+          links = [
+            ...links.slice(0, (lpIndex !== -1 ? lpIndex : 0) + 1),
+            { href: '/invitations', label: 'Invitations' },
+            ...links.slice((lpIndex !== -1 ? lpIndex : 0) + 1),
+          ]
+        }
+      }
     }
-    
     return links
   }
 
