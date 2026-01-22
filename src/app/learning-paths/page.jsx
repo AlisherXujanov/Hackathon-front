@@ -14,9 +14,9 @@ import {
   HiCheckCircle,
   HiArrowRight,
   HiAcademicCap,
-  HiTrophy,
   HiShieldCheck
 } from 'react-icons/hi'
+import { FaTrophy } from 'react-icons/fa'
 import { courseService } from '../../services/courseService'
 import { learningPaths } from '../../store/courses/courseData'
 
@@ -129,7 +129,7 @@ export default function LearningPathsPage() {
                   <div className="mb-6 p-4 bg-gradient-to-r from-accent-50 to-primary-50 rounded-lg border border-accent-200">
                     <div className="flex items-center gap-3 mb-2">
                       <div className="w-10 h-10 rounded-full bg-gradient-to-br from-accent-500 to-accent-600 flex items-center justify-center">
-                        <HiTrophy className="w-5 h-5 text-white" />
+                        <FaTrophy className="w-5 h-5 text-white" />
                       </div>
                       <div className="flex-1">
                         <h3 className="font-semibold text-gray-900">
@@ -219,7 +219,7 @@ export default function LearningPathsPage() {
                   </p>
                 </div>
                 <div>
-                  <HiTrophy className="w-6 h-6 text-accent-600 mb-2" />
+                  <FaTrophy className="w-6 h-6 text-accent-600 mb-2" />
                   <h4 className="font-semibold text-gray-900 mb-1">Professional Certificates</h4>
                   <p className="text-sm text-gray-600">
                     Earn recognized certificates that validate your expertise

@@ -13,9 +13,9 @@ import {
   HiBookOpen,
   HiArrowLeft,
   HiArrowRight,
-  HiClock,
-  HiTrophy
+  HiClock
 } from 'react-icons/hi'
+import { FaTrophy } from 'react-icons/fa'
 import { courseService } from '../../../../services/courseService'
 import { getCourseById } from '../../../../store/courses/courseData'
 import { authService } from '../../../../services/api'
@@ -324,7 +324,7 @@ export default function CourseLearnPage() {
                   <div className="mt-8 p-6 bg-gradient-to-r from-success-50 to-primary-50 rounded-lg border border-success-200">
                     <div className="flex items-center gap-4">
                       <div className="w-16 h-16 rounded-full bg-gradient-to-br from-success-500 to-success-600 flex items-center justify-center">
-                        <HiTrophy className="w-8 h-8 text-white" />
+                        <FaTrophy className="w-8 h-8 text-white" />
                       </div>
                       <div className="flex-1">
                         <h3 className="text-xl font-bold text-gray-900 mb-1">

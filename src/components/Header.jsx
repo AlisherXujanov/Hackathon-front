@@ -43,18 +43,44 @@ const Header = () => {
     { href: '/about', label: 'About' },
     { href: '/english', label: 'English' },
     { href: '/programming', label: 'Programming' },
+    { href: '/courses', label: 'Courses' },
+    { href: '/learning-paths', label: 'Learning Paths' },
     { href: '/leaderboard', label: 'Leaderboard' },
     { href: '/plan', label: 'Pricing' },
   ]
 
-  // Формируем навигационные ссылки: для учителей добавляем Classes между Programming и Leaderboard
-  const navLinks = userRole === 'teacher' 
-    ? [
-        ...baseNavLinks.slice(0, 3), // About, English, Programming
+  // Формируем навигационные ссылки
+  // Для учителей добавляем Classes между Programming и Courses
+  // Для авторизованных пользователей добавляем Certificates между Learning Paths и Leaderboard
+  const buildNavLinks = () => {
+    let links = [...baseNavLinks]
+    
+    // Для учителей: вставляем Classes после Programming (index 2)
+    if (userRole === 'teacher') {
+      links = [
+        ...links.slice(0, 3), // About, English, Programming
         { href: '/classes', label: 'Classes' },
-        ...baseNavLinks.slice(3) // Leaderboard, Pricing
+        ...links.slice(3) // Courses, Learning Paths, Leaderboard, Pricing
       ]
-    : baseNavLinks
+    }
+    
+    // Для авторизованных пользователей: вставляем Certificates после Learning Paths
+    if (isAuthenticated) {
+      // Находим индекс Learning Paths
+      const learningPathsIndex = links.findIndex(link => link.href === '/learning-paths')
+      if (learningPathsIndex !== -1) {
+        links = [
+          ...links.slice(0, learningPathsIndex + 1), // До Learning Paths включительно
+          { href: '/certificates', label: 'Certificates' },
+          ...links.slice(learningPathsIndex + 1) // После Learning Paths
+        ]
+      }
+    }
+    
+    return links
+  }
+
+  const navLinks = buildNavLinks()
 
   const isActive = (href) => pathname?.startsWith(href)
 

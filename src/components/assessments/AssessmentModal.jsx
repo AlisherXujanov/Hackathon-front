@@ -8,9 +8,9 @@ import {
   HiX, 
   HiCheckCircle, 
   HiXCircle,
-  HiClock,
-  HiTrophy
+  HiClock
 } from 'react-icons/hi'
+import { FaTrophy } from 'react-icons/fa'
 import { courseService } from '../../services/courseService'
 
 export default function AssessmentModal({ 
@@ -144,7 +144,7 @@ export default function AssessmentModal({
                   : 'bg-gradient-to-br from-error-500 to-error-600'
               }`}>
                 {passed() ? (
-                  <HiTrophy className="w-12 h-12 text-white" />
+                  <FaTrophy className="w-12 h-12 text-white" />
                 ) : (
                   <HiXCircle className="w-12 h-12 text-white" />
                 )}

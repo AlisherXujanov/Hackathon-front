@@ -14,8 +14,14 @@ export const certificateService = {
       const response = await apiClient.get('/api/v1/certificates/')
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors (404, network errors, etc.)
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, returning empty certificates list')
+        return { data: [] }
+      }
       console.error('Error fetching certificates:', error)
-      throw error
+      // Return empty array for other errors too to prevent UI crashes
+      return { data: [] }
     }
   },
 
@@ -29,8 +35,13 @@ export const certificateService = {
       const response = await apiClient.get(`/api/v1/certificates/${certificateId}/`)
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, returning null for certificate')
+        return null
+      }
       console.error('Error fetching certificate:', error)
-      throw error
+      return null
     }
   },
 
@@ -47,8 +58,13 @@ export const certificateService = {
       )
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, cannot download certificate')
+        return null
+      }
       console.error('Error downloading certificate:', error)
-      throw error
+      return null
     }
   },
 
@@ -64,8 +80,13 @@ export const certificateService = {
       })
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, cannot request verified certificate')
+        return null
+      }
       console.error('Error requesting verified certificate:', error)
-      throw error
+      return null
     }
   },
 
@@ -81,8 +102,13 @@ export const certificateService = {
       })
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, cannot request professional certificate')
+        return null
+      }
       console.error('Error requesting professional certificate:', error)
-      throw error
+      return null
     }
   },
 
@@ -96,8 +122,13 @@ export const certificateService = {
       const response = await apiClient.get(`/api/v1/certificates/verify/${certificateId}/`)
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, cannot verify certificate')
+        return null
+      }
       console.error('Error verifying certificate:', error)
-      throw error
+      return null
     }
   },
 
@@ -111,8 +142,13 @@ export const certificateService = {
       const response = await apiClient.post(`/api/v1/certificates/${certificateId}/share/linkedin/`)
       return response.data
     } catch (error) {
+      // Gracefully handle backend connection errors
+      if (error.response?.status === 404 || error.code === 'ERR_NETWORK' || !error.response) {
+        console.warn('Backend not connected, cannot share certificate to LinkedIn')
+        return null
+      }
       console.error('Error sharing to LinkedIn:', error)
-      throw error
+      return null
     }
   },
 }

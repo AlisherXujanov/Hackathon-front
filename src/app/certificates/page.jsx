@@ -7,13 +7,13 @@ import ScrollAnimation from '../../components/ScrollAnimation'
 import CertificateCard from '../../components/certificates/CertificateCard'
 import Button from '../../components/Button'
 import { 
-  HiTrophy, 
   HiCheckCircle,
   HiShieldCheck,
   HiStar,
   HiDownload,
   HiShare
 } from 'react-icons/hi'
+import { FaTrophy } from 'react-icons/fa'
 import { certificateService } from '../../services/certificateService'
 import { authService } from '../../services/api'
 
@@ -89,7 +89,7 @@ export default function CertificatesPage() {
         <div className="container-wrapper">
           <ScrollAnimation>
             <div className="text-center text-white">
-              <HiTrophy className="w-16 h-16 mx-auto mb-4" />
+              <FaTrophy className="w-16 h-16 mx-auto mb-4" />
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4">
                 My Certificates
               </h1>
@@ -107,7 +107,7 @@ export default function CertificatesPage() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
             <Card variant="glass" className="p-6 text-center">
               <div className="w-12 h-12 rounded-full bg-gradient-to-br from-primary-500 to-primary-600 flex items-center justify-center mx-auto mb-3">
-                <HiTrophy className="w-6 h-6 text-white" />
+                <FaTrophy className="w-6 h-6 text-white" />
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-1">{stats.total}</h3>
               <p className="text-sm text-gray-600">Total Certificates</p>
@@ -159,7 +159,7 @@ export default function CertificatesPage() {
         {filteredCertificates.length === 0 ? (
           <ScrollAnimation delay={200}>
             <Card variant="glass" className="p-12 text-center">
-              <HiTrophy className="w-16 h-16 text-gray-400 mx-auto mb-4" />
+              <FaTrophy className="w-16 h-16 text-gray-400 mx-auto mb-4" />
               <h3 className="text-xl font-semibold text-gray-900 mb-2">No certificates yet</h3>
               <p className="text-gray-600 mb-6">
                 Complete courses to earn your first certificate!
