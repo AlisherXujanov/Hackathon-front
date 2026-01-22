@@ -1,14 +1,53 @@
 'use client'
 
-import { useMemo, useState } from 'react'
+import { useMemo, useState, useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import Card from '../../../components/Card'
 import Badge from '../../../components/Badge'
 import ScrollAnimation from '../../../components/ScrollAnimation'
+import { authService } from '../../../services/api'
 import { HiUsers, HiClipboardList, HiKey, HiChartBar, HiSparkles, HiClock, HiSearch, HiFilter } from 'react-icons/hi'
 
 export default function ClassDetailPage({ params }) {
+  const router = useRouter()
   const [query, setQuery] = useState('')
   const [selectedStatus, setSelectedStatus] = useState('All')
+  const [isChecking, setIsChecking] = useState(true)
+
+  // Проверка роли пользователя при загрузке страницы
+  useEffect(() => {
+    const checkUserRole = () => {
+      // Проверяем авторизацию
+      if (!authService.isAuthenticated()) {
+        router.push('/auth/login')
+        return
+      }
+
+      // Получаем данные пользователя
+      const user = authService.getCurrentUser()
+      
+      // Обрабатываем разные структуры данных пользователя
+      const userData = user?.data || user
+      const userRole = userData?.role
+
+      // Если пользователь - студент, перенаправляем на главную страницу
+      if (userRole === 'student') {
+        router.push('/')
+        return
+      }
+
+      // Если роль не teacher, также перенаправляем
+      if (userRole !== 'teacher') {
+        router.push('/')
+        return
+      }
+
+      // Если всё в порядке, показываем страницу
+      setIsChecking(false)
+    }
+
+    checkUserRole()
+  }, [router])
   const students = [
     { id: 1, name: 'Student Name 1', progress: 75, status: 'On track' },
     { id: 2, name: 'Student Name 2', progress: 90, status: 'Excellent' },
@@ -27,6 +66,18 @@ export default function ClassDetailPage({ params }) {
       return matchesQuery && matchesStatus
     })
   }, [query, selectedStatus, students])
+
+  // Показываем загрузку во время проверки роли
+  if (isChecking) {
+    return (
+      <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-emerald-50 flex items-center justify-center">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-600 mx-auto mb-4"></div>
+          <p className="text-slate-600">Проверка доступа...</p>
+        </div>
+      </main>
+    )
+  }
 
   return (
     <main className="relative w-full overflow-x-hidden min-h-screen bg-gradient-to-br from-slate-50 via-white to-emerald-50">

@@ -22,19 +22,39 @@ const Header = () => {
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
 
+  const [userRole, setUserRole] = useState(null)
+
   useEffect(() => {
     // Проверяем статус авторизации при монтировании и при изменении пути
     setIsAuthenticated(authService.isAuthenticated())
+    
+    // Получаем роль пользователя
+    if (authService.isAuthenticated()) {
+      const user = authService.getCurrentUser()
+      const userData = user?.data || user
+      setUserRole(userData?.role)
+    } else {
+      setUserRole(null)
+    }
   }, [pathname])
 
-  const navLinks = [
+  // Базовые ссылки навигации
+  const baseNavLinks = [
     { href: '/about', label: 'About' },
     { href: '/english', label: 'English' },
     { href: '/programming', label: 'Programming' },
-    { href: '/classes', label: 'Classes' },
     { href: '/leaderboard', label: 'Leaderboard' },
     { href: '/plan', label: 'Pricing' },
   ]
+
+  // Формируем навигационные ссылки: для учителей добавляем Classes между Programming и Leaderboard
+  const navLinks = userRole === 'teacher' 
+    ? [
+        ...baseNavLinks.slice(0, 3), // About, English, Programming
+        { href: '/classes', label: 'Classes' },
+        ...baseNavLinks.slice(3) // Leaderboard, Pricing
+      ]
+    : baseNavLinks
 
   const isActive = (href) => pathname?.startsWith(href)
 
